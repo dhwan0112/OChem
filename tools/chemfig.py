@@ -16,7 +16,7 @@
 2) 좌표를 직접 지정하는 메커니즘 그림 (결합 길이 1 단위, x 오른쪽, y 아래)
    "atoms":    [[원소, x, y, 전하, 수소수, 색], ...]   (뒤쪽 항목은 생략 가능)
    "bonds":    [[a, b, 차수, 표시, 색], ...]          표시: plain/wedge/hash/dashed/bold
-   "arrows":   [[x1, y1, x2, y2], ...]                반응 화살표(직선)
+   "arrows":   [[x1, y1, x2, y2, 종류], ...]          직선 화살표. 종류: forward(기본), resonance, equilibrium, retro
    "captions": [[텍스트, x, y, 색, 크기pt], ...]      (x, y)는 텍스트 왼쪽 위, 크기 기본 8pt
    "abbrev":   [[라벨, 기준 원자, [원자들]], ...]       예: ["CH3", 2, [2]]로 메틸을 CH3 라벨로 접기
    "lone_pairs": [[원자, 각도], ...]                  각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래
@@ -202,6 +202,11 @@ def decorate(doc, spec):
         # 캡션은 원자 라벨(10pt)보다 작게. 다섯 번째 항목으로 크기(pt)를 지정할 수 있다.
         ann["format"]["style"]["size_pt"] = float(s[4]) if len(s) > 4 else 8.0
 
+    # 직선 화살표 종류: [x1, y1, x2, y2, "forward"|"resonance"|"equilibrium"|"retro"]
+    for arr, sa in zip(doc.get("arrows", []), spec.get("arrows", [])):
+        if len(sa) > 4:
+            arr["kind"] = sa[4]
+
     next_id = max([x["id"] for k in ("atoms", "annotations", "arrows", "graphics", "groups")
                    for x in doc.get(k, [])] + [0]) + 1
     marks = {}  # (원자 인덱스, 각도) -> mark id
@@ -231,8 +236,12 @@ def decorate(doc, spec):
         if "bond" in e:
             a, b = e["bond"]
             pa, pb = atoms[a]["position"], atoms[b]["position"]
+            stored = by_pair.get(frozenset((ids[a], ids[b])))
+            if stored is None:
+                sys.exit(f"결합 {e['bond']}이 문서에 없습니다.")
+            # ReShiki는 문서에 저장된 원자 순서로 결합을 찾는다
             return (((pa["x"] + pb["x"]) / 2, (pa["y"] + pb["y"]) / 2),
-                    {"kind": "bond", "a": ids[a], "b": ids[b], "fraction": 0.5})
+                    {"kind": "bond", "a": min(stored["a"], stored["b"]), "b": max(stored["a"], stored["b"]), "fraction": 0.5})
         if "lp" in e:
             i, ang = e["lp"]
             m = lone_pair(i, ang)
