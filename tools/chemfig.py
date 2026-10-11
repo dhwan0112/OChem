@@ -17,7 +17,8 @@
    "atoms":    [[원소, x, y, 전하, 수소수, 색], ...]   (뒤쪽 항목은 생략 가능)
    "bonds":    [[a, b, 차수, 표시, 색], ...]          표시: plain/wedge/hash/dashed/bold
    "arrows":   [[x1, y1, x2, y2], ...]                반응 화살표(직선)
-   "captions": [[텍스트, x, y, 색], ...]              (x, y)는 텍스트 왼쪽 위
+   "captions": [[텍스트, x, y, 색, 크기pt], ...]      (x, y)는 텍스트 왼쪽 위, 크기 기본 8pt
+   "abbrev":   [[라벨, 기준 원자, [원자들]], ...]       예: ["CH3", 2, [2]]로 메틸을 CH3 라벨로 접기
    "lone_pairs": [[원자, 각도], ...]                  각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래
    "curved": [{"from": 끝점, "to": 끝점, "bend": 0.5, "color": "arrow", "kind": "curved"}]
       끝점: {"atom": i} | {"bond": [a, b]} | {"lp": [원자, 각도]} | {"pt": [x, y]}
@@ -141,8 +142,9 @@ def sketch_proposal(spec):
              for b in spec.get("bonds", [])]
     arrows = [dict(start=dict(x=a[0], y=a[1]), end=dict(x=a[2], y=a[3])) for a in spec.get("arrows", [])]
     captions = [dict(text=c[0], position=dict(x=c[1], y=c[2]), color=None) for c in spec.get("captions", [])]
+    abbreviations = [dict(label=a[0], anchor=a[1], atoms=a[2]) for a in spec.get("abbrev", [])]
     sketch = dict(atoms=atoms, bonds=bonds, shapes=[], tilts=[], centroids=[], arrows=arrows,
-                  captions=captions, abbreviations=[], ligands=[])
+                  captions=captions, abbreviations=abbreviations, ligands=[])
     comp = dict(arrangement="rows", columns=1, width_pt=540, preserve_details=True)
     return dict(explanation="", replace_ids=[], composition=comp, molecules=[], reactions=[], sketch=sketch)
 
@@ -197,6 +199,8 @@ def decorate(doc, spec):
     for ann, s in zip(doc.get("annotations", []), spec.get("captions", [])):
         if len(s) > 3 and s[3]:
             ann["format"]["style"]["color"] = rgb(s[3])
+        # 캡션은 원자 라벨(10pt)보다 작게. 다섯 번째 항목으로 크기(pt)를 지정할 수 있다.
+        ann["format"]["style"]["size_pt"] = float(s[4]) if len(s) > 4 else 8.0
 
     next_id = max([x["id"] for k in ("atoms", "annotations", "arrows", "graphics", "groups")
                    for x in doc.get(k, [])] + [0]) + 1
