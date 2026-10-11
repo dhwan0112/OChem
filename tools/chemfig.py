@@ -21,6 +21,8 @@
    "lone_pairs": [[원자, 각도], ...]                  각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래
    "curved": [{"from": 끝점, "to": 끝점, "bend": 0.5, "color": "arrow", "kind": "curved"}]
       끝점: {"atom": i} | {"bond": [a, b]} | {"lp": [원자, 각도]} | {"pt": [x, y]}
+      끝점에 "gap": 간격(pt, 기본 2), "offset": [dx, dy](결합 단위),
+      "dir": 닿는 방향 각도(기본: 곡선이 다가오는 방향)를 더할 수 있다.
       kind: "curved"(전자쌍) | "fishhook"(전자 하나)
       bend: 곡률. 양수면 진행 방향의 왼쪽(화면 기준 반시계)으로 휜다.
 
@@ -151,8 +153,20 @@ def rgb(name):
     return list(SENTINEL[name or "ink"])
 
 
-def anchor(target):
-    return {"target": target, "offset": {"x": 0, "y": 0}, "direction": {"x": 0, "y": -1}, "gap": 2}
+def anchor(target, e, toward):
+    """화살표를 원자/결합/전자쌍에 붙인다.
+    direction은 화살표 끝이 대상에 닿는 쪽(대상에서 바깥을 향하는 단위 벡터)이다.
+    기본값은 곡선의 제어점 쪽, 즉 곡선이 실제로 다가오는 방향이다.
+    "dir": 각도(90 위, 0 오른쪽)로 직접 지정할 수 있다.
+    gap은 대상과 화살표 끝 사이 간격(pt), offset은 부착점 이동(결합 단위)이다."""
+    if "dir" in e:
+        r = math.radians(e["dir"])
+        dx, dy = math.cos(r), -math.sin(r)
+    else:
+        dx, dy = toward
+    off = e.get("offset", [0, 0])
+    return {"target": target, "offset": {"x": off[0] * SCALE, "y": off[1] * SCALE},
+            "direction": {"x": dx, "y": dy}, "gap": e.get("gap", 2)}
 
 
 def decorate(doc, spec):
@@ -229,10 +243,14 @@ def decorate(doc, spec):
         arrow = {"id": next_id, "start": {"x": x0, "y": y0}, "end": {"x": x1, "y": y1},
                  "kind": c.get("kind", "curved"), "control": ctrl,
                  "style": {"color": rgb(c.get("color", "arrow"))}}
+        def unit(px, py):
+            vx, vy = ctrl["x"] - px, ctrl["y"] - py
+            n = math.hypot(vx, vy) or 1.0
+            return vx / n, vy / n
         if t0:
-            arrow["start_anchor"] = anchor(t0)
+            arrow["start_anchor"] = anchor(t0, c["from"], unit(x0, y0))
         if t1:
-            arrow["end_anchor"] = anchor(t1)
+            arrow["end_anchor"] = anchor(t1, c["to"], unit(x1, y1))
         doc["arrows"].append(arrow)
         next_id += 1
     return doc
