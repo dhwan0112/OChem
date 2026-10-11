@@ -37,6 +37,10 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 반응을 그릴 때는 번호를 붙이면 편하다. 다이엔 탄소를 C1–C4, 알켄 탄소를 C5–C6으로 두면 굽은 화살표 세 개가 고리를 따라 돈다. 화살표 방향은 시계 방향이든 반시계 방향이든 상관없다. 결과는 같아서, 새 σ 결합 C1–C6과 C4–C5가 생기고 다이엔 가운데에 새 π 결합 C2=C3가 남는다. (출처: L13 p.7)
 
+![butadiene과 ethylene의 Diels–Alder 반응: 굽은 화살표 세 개가 고리를 따라 같은 방향으로 돌며 cyclohexene을 만든다](../figures/L13/da_basic.svg)
+
+*그림: 파란색은 다이엔(s-cis)의 두 π 결합, 빨간색은 dienophile(ethylene)의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동, 초록색은 새로 생긴 σ 결합 C1–C6과 C4–C5다. 화살표 셋은 모두 시계 방향으로 돈다. (1) C1=C2 π 전자가 C1–C6 결합이 되고, (2) C5=C6 π 전자가 C4–C5 결합이 되며, (3) C3=C4 π 전자가 C2–C3로 옮겨가 새 π 결합(파란 C2=C3)이 된다. 세 화살표는 한 단계에서 동시에 일어난다.*
+
 용어도 정리해 두자. 다이엔은 C=C 두 개가 단일 결합 하나로 이어진 짝지어진 다이엔이어야 한다. 다이엔과 반응하는 알켄(때로는 알카인)은 다이엔친화체(dienophile)라고 부르고, 생성물은 cyclohexene이다. 예를 들어 2,3-dimethyl-1,3-butadiene과 acrolein(CH2=CH-CHO)은 3,4-dimethylcyclohex-3-ene-1-carbaldehyde를 준다. 다이엔이 고리형이면 어떻게 될까? cyclopentadiene + nitroethylene(CH2=CH-NO2)처럼 다리 걸친 이중 고리(bridged bicyclic)인 5-nitrobicyclo[2.2.1]hept-2-ene(5-nitronorbornene)이 생긴다. (출처: L13 p.8)
 
 이 반응은 실험실만의 것이 아니다. 자연계에는 DA 반응을 촉매하는 효소(Diels–Alderase)도 있다. 슬라이드의 예에서는 긴 사슬 끝의 다이엔과 tetronate 고리의 exo-methylene dienophile이 효소 주머니 안에서 분자 내 [4+2] 고리화 첨가를 해 spiro 구조의 cyclohexene을 만든다(J. Am. Chem. Soc. 2016, 138, 6095). (출처: L13 p.9)
@@ -75,6 +79,10 @@ EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응�
 
 그런데 다이엔에는 전자 말고도 중요한 조건이 하나 더 있다. 바로 모양이다. butadiene의 C2–C3 단일 결합은 회전할 수 있어서 두 가지 형태를 오간다. 두 C=C가 반대쪽을 향한 s-trans 형태는 더 안정하지만, C1과 C4가 멀리 떨어져 있어 dienophile의 양 끝에 동시에 닿을 수 없다. 두 C=C가 같은 쪽을 향한 s-cis 형태에서만 C1과 C4가 가까워져 반응할 수 있다. 비유하자면 dienophile을 양손으로 잡으려면 두 팔을 같은 방향으로 뻗어야 하는 셈이다. 두 형태는 빠르게 서로 바뀌므로 s-cis 분자가 반응해 없어지면 평형이 다시 채워 준다. 하지만 butadiene은 상온에서 겨우 1%만 s-cis 형태로 존재한다(슬라이드 수치). 예를 들어 butadiene(s-cis) + methyl acrylate는 methyl cyclohex-3-ene-1-carboxylate를 준다. (출처: L13 p.15)
 
+![butadiene의 s-trans와 s-cis 형태: s-cis만 methyl acrylate와 DA 반응을 할 수 있다](../figures/L13/s_cis_s_trans.svg)
+
+*그림: 초록색은 회전하는 C2–C3 단일 결합, 파란색은 다이엔의 π 결합, 빨간색은 dienophile(methyl acrylate)의 π 결합이다. 왼쪽 s-trans는 더 안정하지만 C1과 C4가 멀어 dienophile의 양 끝에 동시에 닿지 못한다. C2–C3 결합이 빠르게 회전해 s-cis가 되면 C1과 C4가 가까워지고, 주황색 굽은 화살표 셋이 그림 1과 같은 방향으로 돌며 고리가 닫힌다.*
+
 ### 5-3. 고리형 다이엔: 처음부터 s-cis로 고정된 다이엔
 
 그렇다면 처음부터 s-cis로 묶여 있는 다이엔은 어떨까? 예상대로 반응성이 매우 크다. cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane("exo-methylene" 다이엔)은 고리 때문에 s-cis로 고정되어 있어서 사슬형 다이엔보다 훨씬 반응성이 크다. 예를 들어 cyclopentadiene + acrolein은 20 °C에서 68 h 만에 5-norbornene-2-carbaldehyde를 92%로 준다. 슬라이드에서는 CHO가 CH2 다리의 반대쪽(endo)으로 그려져 있다. 반대로 3-methylenecyclohexene이나, 두 C=C가 서로 다른 고리에 걸쳐 transoid로 고정된 이중 고리 다이엔처럼 s-trans로 묶여 있는 다이엔은 아무리 가열해도 DA 반응을 할 수 없다. s-cis 형태를 취할 수 없는 다이엔은 DA 반응에 참여하지 못한다. (출처: L13 p.16)
@@ -84,6 +92,10 @@ p.17의 연습 문제(생성물에서 다이엔과 dienophile 찾기)는 아래 
 ### 5-4. Cyclopentadiene 이야기: DA 반응은 되돌아갈 수도 있다
 
 cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로 자기 자신과 반응한다는 것이다. 한 분자는 다이엔, 다른 분자는 dienophile로 DA 반응을 해서, 상온에서는 이량체(dicyclopentadiene)로 존재한다. 그럼 단량체는 어떻게 얻을까? 이량체를 가열해 "분해(crack)"하면 된다. DA 반응은 가역적일 수 있으므로, 가열하면 역 DA(retro-Diels–Alder) 반응이 일어난다. 이때 끓는점이 낮은 단량체(b.p. 42 °C)를 증류로 빼내면 평형이 계속 단량체 쪽으로 밀린다. 이렇게 얻은 단량체는 −20 °C에서 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 다시 이량화한다.
+
+![dicyclopentadiene의 역 Diels–Alder 반응: 가열하면 cyclopentadiene 두 분자로 갈라진다](../figures/L13/retro_da_dcpd.svg)
+
+*그림: 보충: 슬라이드에는 평형 화살표만 있고 굽은 화살표는 없다. 역 DA는 정방향 DA의 화살표를 거꾸로 돌린 것이므로 여기서 그려 넣었다. 빨간색은 끊어지는 σ 결합(이량화 때 생겼던 C1–C6, C4–C5), 파란색은 다이엔 쪽에 남아 있던 π 결합이다. 주황색 화살표 셋은 (1) C4–C5 σ 전자가 C3=C4 π 결합으로, (2) C2=C3 π 전자가 C1=C2 π 결합으로, (3) C1–C6 σ 전자가 C5=C6 π 결합으로 옮겨가는 과정이다. 초록색은 새로 생긴 π 결합이다. 가운데 꺾인 선은 CH2 다리(C7)다.*
 
 응용 예도 있다. cyclopentadiene을 Cl2로 처리하면 hexachlorocyclopentadiene이 되고, 이것을 maleic anhydride와 DA 반응시키면 염소가 여섯 개 붙은 norbornene 무수물 부가물이 생긴다. 이 화합물은 난연제(flame retardant)로 쓰인다.[6] (출처: L13 p.18)
 
@@ -98,6 +110,12 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 왜 그럴까? 반응이 협동적이고 초면으로 일어나기 때문이다. dienophile의 두 탄소는 같은 면에서 동시에 결합을 만들고, 그 사이에 C5–C6 결합이 회전할 수 있는 중간체가 없다. 그래서 알켄의 cis/trans 정보가 고리에 그대로 찍힌다. 반응물의 입체화학이 생성물의 입체화학을 결정하므로 이것을 입체특이성(stereospecificity)이라고 한다. (출처: L13 p.19)
 
+![butadiene + dimethyl maleate(cis): 두 CO2Me가 cis인 생성물](../figures/L13/maleate_cis.svg)
+
+![butadiene + dimethyl fumarate(trans): 두 CO2Me가 trans인 생성물](../figures/L13/fumarate_trans.svg)
+
+*그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 다이엔의 π 결합, 빨간색은 dienophile의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 σ 결합이다. 생성물에서 쐐기(wedge)는 지면 앞, 점선 쐐기(hash)는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 CO2Me는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 CO2Me는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.*
+
 ### 6-2. 이치환 다이엔: "in"과 "out"
 
 다이엔 쪽 치환기는 어떻게 될까? s-cis 형태의 다이엔을 그려 보면, 말단 탄소(C1, C4)의 치환기는 고리 안쪽을 향해 서로 마주 보는 "in" 자리와 바깥쪽을 향하는 "out" 자리 가운데 하나에 놓인다. 규칙은 단순하다. "in" 두 개는 생성물에서 1,4-cis가 되고, "out" 두 개도 서로 1,4-cis가 된다. 그러니 "in" 하나와 "out" 하나는 trans가 된다.
@@ -109,6 +127,10 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 지금까지는 한 반응물 안의 치환기끼리의 관계를 보았다. 그런데 dienophile의 치환기와 다이엔 사이의 관계는 무엇이 정할까? 예를 들어 cyclopentadiene + maleic anhydride에서는 무수물 고리가 새 C=C 쪽을 향하는 endo 부가물과, CH2 다리 쪽을 향하는 exo 부가물이 둘 다 이론적으로 가능하다. 실제로는 endo 부가물만 생긴다. DA 반응은 보통 endo TS를 거치는 쪽이 우세하며, 이를 endo 규칙(endo rule)이라고 한다.
 
 그 이유는 2차 오비탈 겹침(secondary orbital overlap)이다. endo TS에서는 dienophile의 C=O 기가 다이엔 바로 아래에 놓여, 결합을 만들지 않는 다이엔의 "뒤쪽"(C2, C3)과 결합성으로 상호작용한다. 이 추가 안정화 덕분에 endo TS의 에너지가 낮아진다. 결과적으로 생성물에서는 새 이중 결합과 C=O 기가 분자의 같은 쪽에 놓인다. (출처: L13 p.21)
+
+![cyclopentadiene + maleic anhydride의 endo 부가물(생성)과 exo 부가물(생성 안 됨)](../figures/L13/endo_exo.svg)
+
+*그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.*
 
 좀 더 기하학적으로 보면, TS에서 평면인 다이엔과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 다이엔 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 카보닐 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 입체이성질체가 섞여 나오는 경우도 많다.[7] (출처: L13 p.22)
 
