@@ -169,6 +169,12 @@ def anchor(target, e, toward):
             "direction": {"x": dx, "y": dy}, "gap": e.get("gap", 2)}
 
 
+def lp_offset(ang):
+    """원자 중심에서 비공유 전자쌍까지의 변위. 라벨은 가로가 넓어서 타원으로 잡는다."""
+    r = math.radians(ang)
+    return 21.0 * math.cos(r), -17.0 * math.sin(r)
+
+
 def decorate(doc, spec):
     """compose가 만든 문서에 색, 비공유 전자쌍, 굽은 화살표를 넣는다."""
     atoms = doc["atoms"]  # compose는 스펙의 원자 순서대로 원자를 만든다
@@ -202,8 +208,9 @@ def decorate(doc, spec):
         if key in marks:
             return marks[key]
         r = math.radians(ang)
+        ox, oy = lp_offset(ang)
         mark = {"id": next_id, "kind": "lone_pair", "angle": float((ang - 90) % 360),
-                "offset": {"x": 15.5 * math.cos(r), "y": -15.5 * math.sin(r)}, "size_pt": 4.0}
+                "offset": {"x": ox, "y": oy}, "size_pt": 4.0}
         atoms[i].setdefault("marks", []).append(mark)
         marks[key] = next_id
         next_id += 1
@@ -226,8 +233,8 @@ def decorate(doc, spec):
             i, ang = e["lp"]
             m = lone_pair(i, ang)
             p = atoms[i]["position"]
-            r = math.radians(ang)
-            return ((p["x"] + 15.5 * math.cos(r), p["y"] - 15.5 * math.sin(r)),
+            ox, oy = lp_offset(ang)
+            return ((p["x"] + ox, p["y"] + oy),
                     {"kind": "lone_pair", "atom": ids[i], "mark": m})
         return (e["pt"][0] * SCALE, e["pt"][1] * SCALE), None
 
