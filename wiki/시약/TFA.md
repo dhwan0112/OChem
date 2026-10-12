@@ -48,5 +48,5 @@ Boc(*t*-뷰톡시카보닐)는 산으로 벗기며, 대표 시약이 TFA다. 카
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 6.2절
+- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.19–21
 - [L12 보호기](../../notes/L12_Protecting_Groups.md) 6-3절, 7절, 흔한 오해

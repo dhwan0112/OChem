@@ -39,4 +39,4 @@ NaIO₄가 다이올의 두 OH와 고리형 **과아이오딘산 에스터**를 
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 5.1절
+- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.16

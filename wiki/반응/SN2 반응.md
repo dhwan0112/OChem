@@ -64,8 +64,8 @@ tags: [분류/반응, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 
 ## 출처
 
-- [L1 알켄의 친전자성 첨가 1부](../../notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) 3.4절, 7절
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 2–3절
+- [L1 알켄의 친전자성 첨가 1부](../../notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md): 슬라이드 L1 p.12, p.21–23
+- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.8–10
 - [L5 환원](../../notes/L05_Reduction.md) 1-1절
 - [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7절
 - [L7 엔올레이트 알킬화](../../notes/L07_Enolate_Alkylation.md) II절, III절, VI절
