@@ -32,7 +32,9 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 석신이미드의 N
 
 (출처: L2 p.11–12, L14 p.30)
 
-- 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> 브로모하이드린(±, anti) (출처: L2 p.11)
+- 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> 브로모하이드린(±, anti). 물이 bromonium ion의 반대쪽에서 공격하므로 **stereoselective**이다. (출처: L2 p.11)
+- 예: 1-메틸사이클로헥센 --[1. NBS, HBr; 2. 알코올]--> Br은 2차 탄소(CH)에, OR은 메틸이 붙은 3차 탄소에 anti. stereoselective이면서 regioselective이다(→ [[할로하이드린 형성]]). (출처: L2 p.12)
+- 예: 1-메틸사이클로헥센 --[NBS(cat. HBr), H₂O]--> *trans*-2-브로모-1-메틸사이클로헥산올(±) (→ [L2 연습 문제](../../practice/L02_Exercises.md) 3번)
 - 예: 사이클로헥센 --[1. NBS, HBr; 2. HC≡CCH₂OH]--> *trans*-1-브로모-2-(프로파질옥시)사이클로헥세인(±) (출처: L2 p.12)
 
 보충: 알릴 위치 브로민화는 브로모늄 이온이 아니라 라디칼 연쇄 반응(Wohl–Ziegler 반응)으로 진행한다. 슬라이드에는 반응식만 있고 메커니즘은 나오지 않는다(표준 교재 내용). (보충 근거: Clayden p.573, Wade p.228)
@@ -49,5 +51,5 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 석신이미드의 N
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 3.1–3.2절
+- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.11–12
 - [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 11.1절 (큐베인 합성)

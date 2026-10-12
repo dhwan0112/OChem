@@ -7,48 +7,58 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 ---
 # Boc 보호기
 
-> 아민을 t-뷰틸 카바메이트(RNH–CO–OC(CH₃)₃)로 가리는 [[보호기]]다. Boc₂O와 염기로 씌우고, **산**([[TFA]] 등)으로 벗긴다.
+> 아민을 t-butyl carbamate(RNH–CO–OC(CH₃)₃)로 가리는 [[보호기|protecting group]]이다. Boc₂O와 염기로 씌우고, **산**([[TFA]] 등)으로 벗긴다.
 
 ## 개요
 
-아민은 좋은 친핵체이자 염기라서 친전자체가 있는 반응에 거의 항상 끼어든다. 질소를 카보닐에 붙여 카바메이트로 만들면 비공유 전자쌍이 C=O와 공명해 친핵성과 염기성이 크게 떨어진다. 그래서 표에서는 카바메이트가 아민을 "친전자체로부터" 보호한다고 적는다. Boc는 그중 산으로 벗기는 카바메이트다. (출처: L12 p.5, p.8)
+아민은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 거의 항상 끼어든다. 질소를 carbonyl에 붙여 carbamate로 만들면 비공유 전자쌍이 C=O와 공명해 친핵성과 염기성이 크게 떨어진다(→ [[보호기]]의 "왜 carbamate인가"). Boc는 그중 산으로 벗기는 carbamate이고, [[펩타이드 합성]]의 N-보호기 두 가지 중 하나다. (출처: L12 p.5, p.8)
 
 ## 도입
 
-메티오닌 --[Boc₂O, 염기]--> Boc–Met
+Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. 아민 N이 무수물의 carbonyl 탄소를 공격하고, [[사면체 중간체|tetrahedral intermediate]]에서 t-BuOCO2⁻가 떨어져 나간다.[^1]
 
-아민 N이 무수물(Boc₂O, (t-BuOCO)₂O)의 카보닐 탄소를 공격하고, [[사면체 중간체]]에서 t-BuOCO₂⁻가 떨어진다. 보충: 떨어진 t-BuOCO₂⁻는 CO₂와 t-BuO⁻로 분해된다. (출처: L12 p.10)
+`methionine --[Boc2O, base]--> Boc-Met`
 
-## 제거 메커니즘: 왜 산에 약한가
+(출처: L12 p.10)
 
-1. 카바메이트의 카보닐 O가 양성자화된다.
-2. t-Bu–O 결합이 끊어지며 **t-뷰틸 양이온**이 떨어진다. 3차 [[탄소 양이온]]이라 비교적 안정해서 S<sub>N</sub>1형 이탈이 쉽다. 카밤산 RNH–COOH가 남는다.
-3. t-뷰틸 양이온은 β-H를 잃고 아이소뷰텐이 된다.
-4. 카밤산은 쯔비터이온을 거쳐 CO₂를 내놓고 H₂N–R이 된다. (출처: L12 p.10)
+보충: 왜 Cbz는 chloroformate로, Boc는 무수물로 씌울까? Cbz에 해당하는 t-butyl chloroformate(t-BuOCOCl)는 불안정해서 시약으로 다루기 어렵기 때문이다. 그래서 Boc는 "Boc 무수물"인 di-t-butyl dicarbonate를 쓴다. (보충 근거: Clayden p.558, Wade p.1186)
 
-![Boc의 양성자화와 t-뷰틸 양이온 이탈](../../figures/L12/boc_cleavage.svg)
+## 메커니즘: 왜 산에 약한가
 
-*그림: 1–2단계. 카보닐 산소가 H⁺를 잡고, t-Bu–O 결합 전자가 새 C=O로 가며 카밤산과 t-뷰틸 양이온이 생긴다.*
+그렇다면 Boc는 왜 산에서 벗겨질까? 메커니즘을 따라가 보면 답이 보인다.
 
-![카밤산의 탈카복실화와 아이소뷰텐 생성](../../figures/L12/boc_decarboxylation.svg)
+1. carbamate의 carbonyl O가 H⁺에 의해 양성자화된다.
+2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 양이온은 3차 [[탄소 양이온|carbocation]]이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
+3. t-butyl cation은 β-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
+4. carbamic acid는 양성자가 옮겨 간 zwitterion(O⁻/NH2⁺) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
-*그림: 3–4단계. 카밤산이 CO₂와 아민으로 깨지고, t-뷰틸 양이온은 H⁺를 잃어 아이소뷰텐이 된다.*
+![Boc 카바메이트의 카보닐 산소가 양성자화되고 t-뷰틸 양이온이 떨어져 카밤산이 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-즉 Boc가 산에 약한 진짜 이유는 안정한 3차 양이온을 내놓을 수 있다는 데 있다. 보충: 부산물(CO₂, 아이소뷰텐)이 기체라 반응이 한 방향으로 깔끔하게 진행된다.
+*그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, 양성자화된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.*
+
+![카밤산이 쯔비터이온을 거쳐 CO2와 아민이 되고, t-뷰틸 양이온이 H⁺를 잃어 아이소뷰텐이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
+
+*그림: 위 3–4단계. 윗줄: carbamic acid가 양성자 이동으로 O⁻/N⁺H2 zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 CO2와 H2N–R이 떨어진다. 아랫줄: t-butyl cation의 메틸 C–H 결합(파랑) 전자가 양이온 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.*
+
+즉 Boc가 산에 약한 진짜 이유는 "안정한 3차 양이온을 내놓을 수 있다"는 데 있다. 부산물이 CO2와 isobutene이라는 기체라서 반응이 한 방향으로 깔끔하게 진행된다는 점도 장점이다.[^2] (출처: L12 p.10)
+
+보충: 반대로 Boc는 왜 염기에 강할까? carbonyl이 t-butyl기에 가려져 OH⁻조차 공격하지 못하기 때문이다. 그리고 산 쪽은 3 M HCl 정도의 묽은 산 수용액으로도 벗겨지며, 이 조건에서는 펩타이드 결합이나 methyl ester가 가수분해되지 않는다. 고체상 합성에서는 TFA로 짧게 처리해 벗긴다. (보충 근거: Clayden p.558–559, Wade p.1187)
 
 ## 선택성
 
 - 염기에는 안정하다. 그래서 염기로 벗기는 [[Fmoc 보호기|Fmoc]]와 거울상처럼 짝을 이루어 [[직교 보호]]의 토대가 된다. (출처: L12 p.11)
-- 산에 약한 아세탈, 실릴 에터, THP, t-Bu 에스터와는 산 조건에서 직교하지 않는다. TFA로 Boc를 벗기면 이들도 손상될 위험이 있다. (출처: L12 p.5)
+- 산에 약한 acetal, silyl ether, THP, t-Bu ester와는 산 조건에서 직교하지 않는다. TFA로 Boc를 벗기면 이들도 손상될 위험이 있다. 반면 [[Cbz 보호기|Cbz]]는 TFA에 견딘다. (출처: L12 p.5)
+- t-butyl ester(카복실산 보호기)의 산 절단도 같은 원리(t-butyl cation 경유)다. (출처: L12 p.5)
 
 ## 예
 
-Boc–Phe–Ala–OMe --[TFA]--> H₂N–Phe–Ala–OMe. 메틸 에스터와 아마이드는 TFA에 견딘다. (출처: L12 연습 풀이 p.3)
+- methionine `--[Boc₂O, base]-->` Boc-Met. (L12) (출처: L12 p.10)
+- Boc–Phe–Ala–OMe `--[TFA]-->` H₂N–Phe–Ala–OMe. methyl ester와 아마이드는 TFA에 견딘다. (L12 Practice) (출처: L12 연습 풀이 p.3)
 
 ## 흔한 오해
 
-- "Boc와 Fmoc는 같은 카바메이트라 같은 조건에서 벗겨진다": 정반대다. Boc는 산에, Fmoc는 염기에 약하다. (출처: L12 p.10–11)
-- "Boc 제거는 S<sub>N</sub>2다": 3차 탄소라 뒤쪽 공격이 아니라 t-뷰틸 양이온이 떨어지는 S<sub>N</sub>1형이다. (출처: L12 p.10)
+- **"Boc와 Fmoc는 같은 carbamate니까 같은 조건에서 벗겨진다"고 생각하기 쉽지만 사실은** 정반대다. Boc는 안정한 t-butyl cation을 낼 수 있어 산에 약하고, Fmoc는 1차 CH2라 SN1/SN2가 막혀 산에 강한 대신 9번 C–H가 산성이라 염기에 약하다. 둘은 서로 직교한다. (출처: L12 p.10–11)
+- **"Boc 제거는 SN2다"라고 생각하기 쉽지만 사실은** 3차 탄소라 뒤쪽 공격이 아니라 t-butyl cation이 떨어지는 SN1형이다. (출처: L12 p.10)
 
 ## 관련 문서
 
@@ -58,5 +68,8 @@ Boc–Phe–Ala–OMe --[TFA]--> H₂N–Phe–Ala–OMe. 메틸 에스터와 �
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 6절, 7-3절
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 6-2절, 7-3절 (L12 p.5, p.8, p.10)
 - [L12 연습문제](../../practice/L12_Practice.md) 문제 3
+
+[^1]: 보충: 이탈한 t-BuOCO2⁻는 CO2와 t-BuO⁻로 분해된다. 슬라이드에는 Boc2O와 염기라는 조건과 생성물만 나온다.
+[^2]: 보충: 기체 부산물이 반응을 정방향으로 밀어 준다는 해석은 교재 수준의 보충이다.

@@ -70,4 +70,4 @@ BH₄⁻의 B–H 결합 전자쌍이 수소화물(친핵체)로서 카보닐 �
 
 - [L5 환원](../../notes/L05_Reduction.md) 2-0, 2-1절
 - [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 3.1절
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 오존 분해 절
+- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.18
