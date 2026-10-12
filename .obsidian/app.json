@@ -1,6 +1,6 @@
 {
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
   "attachmentFolderPath": "figures",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,

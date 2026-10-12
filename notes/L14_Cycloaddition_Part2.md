@@ -2,10 +2,10 @@
 
 <!-- wiki-links:start -->
 
-> **관련 위키 문서** ([[위키 대문]])
-> - 반응: [[4+3 고리화 첨가]], [[6+4 고리화 첨가]], [[광화학 2+2 고리화 첨가]], [[딜스-알더 반응]], [[역전자 요구 딜스-알더 반응]]
-> - 시약: [[NBS]], [[루이스 산 촉매]]
-> - 개념: [[endo 규칙]], [[딜스-알더 위치선택성]], [[방향족성]], [[알릴 양이온]], [[우드워드-호프만 규칙]], [[입체특이성과 입체선택성]], [[초면과 대면]], [[치환기 효과]], [[큐베인]], [[페리고리 반응]], [[프런티어 분자 오비탈]]
+> **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
+> - 반응: [4+3 고리화 첨가](../wiki/반응/4+3%20고리화%20첨가.md), [6+4 고리화 첨가](../wiki/반응/6+4%20고리화%20첨가.md), [광화학 2+2 고리화 첨가](../wiki/반응/광화학%202+2%20고리화%20첨가.md), [딜스-알더 반응](../wiki/반응/딜스-알더%20반응.md), [역전자 요구 딜스-알더 반응](../wiki/반응/역전자%20요구%20딜스-알더%20반응.md)
+> - 시약: [NBS](../wiki/시약/NBS.md), [루이스 산 촉매](../wiki/시약/루이스%20산%20촉매.md)
+> - 개념: [endo 규칙](../wiki/개념/endo%20규칙.md), [딜스-알더 위치선택성](../wiki/개념/딜스-알더%20위치선택성.md), [방향족성](../wiki/개념/방향족성.md), [알릴 양이온](../wiki/개념/알릴%20양이온.md), [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md), [입체특이성과 입체선택성](../wiki/개념/입체특이성과%20입체선택성.md), [초면과 대면](../wiki/개념/초면과%20대면.md), [치환기 효과](../wiki/개념/치환기%20효과.md), [큐베인](../wiki/개념/큐베인.md), [페리고리 반응](../wiki/개념/페리고리%20반응.md), [프런티어 분자 오비탈](../wiki/개념/프런티어%20분자%20오비탈.md)
 
 <!-- wiki-links:end -->
 
@@ -14,82 +14,82 @@
 
 ## 개요
 
-L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 것을 봤다. L14는 남은 질문, 즉 왜 [4+4]나 열적 [2+2]는 안 되는지, 왜 X-diene + Z-dienophile이 빠른지, 비대칭 성분끼리는 어느 위치 이성질체가 나오는지를 [[우드워드-호프만 규칙|Woodward–Hoffmann 규칙]]과 [[프런티어 분자 오비탈|FMO]]로 답한다. 이어 regioselectivity와 endo stereoselectivity를 합쳐 생성물을 예측하고 Lewis acid 촉매를 본다. 같은 논리를 6원 고리 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2]를 다루고, [4+2]와 [2+2]를 모두 쓰는 큐베인 합성으로 마무리한다. 핵심 질문은 "허용되는가, 얼마나 빠른가, 어느 방향인가"이다. (출처: L14 p.1–2)
+L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 것을 봤다. L14는 남은 질문, 즉 왜 [4+4]나 열적 [2+2]는 안 되는지, 왜 X-diene + Z-dienophile이 빠른지, 비대칭 성분끼리는 어느 위치 이성질체가 나오는지를 [Woodward–Hoffmann 규칙](../wiki/개념/우드워드-호프만%20규칙.md)과 [FMO](../wiki/개념/프런티어%20분자%20오비탈.md)로 답한다. 이어 regioselectivity와 endo stereoselectivity를 합쳐 생성물을 예측하고 Lewis acid 촉매를 본다. 같은 논리를 6원 고리 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2]를 다루고, [4+2]와 [2+2]를 모두 쓰는 큐베인 합성으로 마무리한다. 핵심 질문은 "허용되는가, 얼마나 빠른가, 어느 방향인가"이다. (출처: L14 p.1–2)
 
 ## 강의 흐름
 
 ### 1. DA 반응의 최전선 오비탈 다시 보기 (슬라이드 p.3)
 - 주된 상호작용은 HOMO(diene)–LUMO(dienophile)이고, 양 끝 위상이 맞는다(butadiene + maleic anhydride).
-- → [[프런티어 분자 오비탈]]
+- → [프런티어 분자 오비탈](../wiki/개념/프런티어%20분자%20오비탈.md)
 
 ### 2. Woodward–Hoffmann 규칙 (슬라이드 p.4–7)
 - (4q+2)s + (4r)a 성분 수가 홀수면 열적 허용. suprafacial/antarafacial 정의, "허용 ≠ 반드시 일어남".
 - 2.1 DA [π4s + π2s]: 합 1, 허용(p.6). 2.2 [4+4] [π4s + π4s]: 합 0, 열적 금지(p.7).
-- → [[우드워드-호프만 규칙]], [[초면과 대면]]
+- → [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md), [초면과 대면](../wiki/개념/초면과%20대면.md)
 
 ### 3. 치환기의 분류: C, Z, X형 (슬라이드 p.8–9)
 - C(conjugation): HOMO↑ LUMO↓, Z(EWG): LUMO 크게↓, X(EDG): HOMO 크게↑.
-- → [[프런티어 분자 오비탈]], [[치환기 효과]]
+- → [프런티어 분자 오비탈](../wiki/개념/프런티어%20분자%20오비탈.md), [치환기 효과](../wiki/개념/치환기%20효과.md)
 
 ### 4. 반응 속도: 왜 X-diene + Z-dienophile이 빠른가 (슬라이드 p.10)
 - (a) butadiene + ethylene < (b) + Z-dienophile < (c) X-diene + Z-dienophile. normal electron demand.
-- → [[프런티어 분자 오비탈]], [[역전자 요구 딜스-알더 반응]]
+- → [프런티어 분자 오비탈](../wiki/개념/프런티어%20분자%20오비탈.md), [역전자 요구 딜스-알더 반응](../wiki/반응/역전자%20요구%20딜스-알더%20반응.md)
 
 ### 5. DA 반응의 위치선택성 (슬라이드 p.11–15)
 - dienophile의 electrophilic 위치(β-탄소)가 diene의 nucleophilic 위치와 결합한다.
 - 5.1 C2-치환 diene → "pseudo para"(p.12). 5.2 C1-치환 diene → "pseudo ortho", concerted but unsynchronous TS(p.13). 5.3 ortho/para 규칙(p.14). 5.4 실제 선택성 9:1, 6.8:1, 6:1, 10:1(p.15).
-- → [[딜스-알더 위치선택성]]
+- → [딜스-알더 위치선택성](../wiki/개념/딜스-알더%20위치선택성.md)
 
 ### 6. 위치선택성과 입체선택성의 결합 (슬라이드 p.16–19)
 - (E)-1-methoxybutadiene + acrolein: "ortho" + endo("out" 치환기와 EWG cis) → cis-2-methoxycyclohex-3-ene-1-carbaldehyde.
 - 6.1 (E)-1-acetoxybutadiene + (E)-crotonaldehyde: 3단계(stereospecificity)까지(연습 문제 3).
-- → [[딜스-알더 위치선택성]], [[endo 규칙]]
+- → [딜스-알더 위치선택성](../wiki/개념/딜스-알더%20위치선택성.md), [endo 규칙](../wiki/개념/endo%20규칙.md)
 
 ### 7. DA 반응의 Lewis acid 촉매 (슬라이드 p.20)
 - SnCl4 배위로 dienophile LUMO↓(속도), 편극↑(regioselectivity). isoprene + MVK para:meta 71:29 → 93:7.
-- → [[딜스-알더 위치선택성]], [[루이스 산 촉매]]
+- → [딜스-알더 위치선택성](../wiki/개념/딜스-알더%20위치선택성.md), [루이스 산 촉매](../wiki/시약/루이스%20산%20촉매.md)
 
 ### 8. 6원환을 넘어서: [6+4] 고리화 첨가 (슬라이드 p.21)
 - supra–supra 열적 cycloaddition은 총 전자 수 4n+2일 때 허용. tropone + cyclopentadiene("endo" 표기는 문헌과 다름, 해당 문서 각주), fulvene + 1-NEt2-diene → azulene 골격.
-- → [[6+4 고리화 첨가]]
+- → [6+4 고리화 첨가](../wiki/반응/6+4%20고리화%20첨가.md)
 
 ### 9. [4+3] 고리화 첨가 (슬라이드 p.22–23)
 - 1,3-dibromoacetone + Zn → oxyallyl cation(3원자 2π) + diene → cyclohept-4-enone. 6전자라 허용.
-- → [[4+3 고리화 첨가]], [[알릴 양이온]]
+- → [4+3 고리화 첨가](../wiki/반응/4+3%20고리화%20첨가.md), [알릴 양이온](../wiki/개념/알릴%20양이온.md)
 
 ### 10. 광화학 [2+2] 고리화 첨가 (슬라이드 p.24–28)
 - 10.1 열적 π2s + π2s는 금지(p.24–25). 10.2 빛을 받으면 HOMO/HOMO, LUMO/LUMO 모두 결합성이라 허용(p.26).
 - 10.3 각 성분 stereospecific, endo 선택성 없음(p.27). 10.4 regioselectivity는 LUMO/LUMO 큰 계수(isobutylene + cyclohexenone)(p.28).
-- → [[광화학 2+2 고리화 첨가]]
+- → [광화학 2+2 고리화 첨가](../wiki/반응/광화학%202+2%20고리화%20첨가.md)
 
 ### 11. 큐베인 (슬라이드 p.29–30)
 - cubane과 octanitrocubane. Eaton & Cole 합성: 자발적 DA endo 이량화 → hν 분자 내 [2+2] → Favorskii 고리 축소 두 번.
-- → [[큐베인]]
+- → [큐베인](../wiki/개념/큐베인.md)
 
 ### 12. 요약 (슬라이드 p.31)
-- DA: 빠름(HOMO–LUMO 간격), stereospecific, stereoselective(endo), regioselective(ortho/para). 다양한 cycloaddition: 열적 [6+4], [4+3], 광화학 [2+2](열적 [2+2] cumulene은 회색 처리, L15에서).
-- → [[딜스-알더 반응]], [[페리고리 반응]]
+- DA: 빠름(HOMO–LUMO 간격), stereospecific, stereoselective(endo), regioselective(ortho/para). 다양한 cycloaddition: 열적 [6+4], [4+3], 광화학 [2+2] (열적 [2+2] cumulene은 회색 처리, L15에서).
+- → [딜스-알더 반응](../wiki/반응/딜스-알더%20반응.md), [페리고리 반응](../wiki/개념/페리고리%20반응.md)
 
 ## 반응 요약표
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | butadiene 이량화 [4+2] | 가열 | 4-vinylcyclohexene | – | – | π4s+π2s, 허용 (p.7) |
-| butadiene [4+4] | 가열 | (cycloocta-1,5-diene 생성 안 됨) | – | – | [[우드워드-호프만 규칙|열적 금지]] (p.7) |
+| butadiene [4+4] | 가열 | (cycloocta-1,5-diene 생성 안 됨) | – | – | [열적 금지](../wiki/개념/우드워드-호프만%20규칙.md) (p.7) |
 | 2-methoxybutadiene + acrylonitrile | DA | 4-methoxycyclohex-3-ene-1-carbonitrile | pseudo para | – | (p.11–12) |
 | 4-methylpenta-1,3-diene + methyl acrylate | DA | methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate | pseudo ortho | – | 비대칭 협동 TS (p.13) |
 | (E)-penta-1,3-diene + CH2=CHW | W=CN 100 °C / W=COOR 200 °C | 1,2-이치환 cyclohexene | ortho:meta = 9:1 / 6.8:1 | – | (p.15) |
 | 2-X-butadiene + methyl acrylate | – | 1,4-이치환 cyclohexene | para:meta = 6:1 (Me), 10:1 (OMe) | – | (p.15) |
-| (E)-1-methoxybutadiene + acrolein | DA | cis-2-methoxycyclohex-3-ene-1-carbaldehyde | ortho | [[endo 규칙|endo]] → OMe/CHO cis | 라세미 (p.16–17) |
+| (E)-1-methoxybutadiene + acrolein | DA | cis-2-methoxycyclohex-3-ene-1-carbaldehyde | ortho | [endo](../wiki/개념/endo%20규칙.md) → OMe/CHO cis | 라세미 (p.16–17) |
 | (E)-1-acetoxybutadiene + (E)-crotonaldehyde | DA | 6-formyl-5-methylcyclohex-2-en-1-yl acetate | ortho (OAc/CHO) | OAc/CHO cis, CHO/Me trans | 라세미 (p.18–19) |
-| isoprene + methyl vinyl ketone | toluene 120 °C / SnCl4·5H2O 0 °C | 1-(4-methylcyclohex-3-en-1-yl)ethanone | para:meta = 71:29 / 93:7 | – | [[루이스 산 촉매|Lewis acid]] (p.20) |
-| tropone + cyclopentadiene | [[6+4 고리화 첨가|6+4 cycloaddition]], 열 | 다리걸친 이환 케톤 | – | 슬라이드 "endo" | 10π (p.21) |
+| isoprene + methyl vinyl ketone | toluene 120 °C / SnCl4·5H2O 0 °C | 1-(4-methylcyclohex-3-en-1-yl)ethanone | para:meta = 71:29 / 93:7 | – | [Lewis acid](../wiki/시약/루이스%20산%20촉매.md) (p.20) |
+| tropone + cyclopentadiene | [6+4 cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md), 열 | 다리걸친 이환 케톤 | – | 슬라이드 "endo" | 10π (p.21) |
 | 6,6-dimethylfulvene + 1-NEt2-butadiene | [6+4] 후 −HNEt2 | dimethyl azulene형 골격 | CMe2–C4 | – | (p.21) |
-| 1,3-dibromoacetone + Zn + diene | Zn | cyclohept-4-en-1-one | – | – | [[4+3 고리화 첨가|4+3 cycloaddition]] (p.22–23) |
-| ethylene + maleic anhydride | 가열 ✗ / hν ✓ | cyclobutane-1,2-dicarboxylic anhydride | – | supra–supra | [[광화학 2+2 고리화 첨가|광화학 2+2]] (p.24) |
+| 1,3-dibromoacetone + Zn + diene | Zn | cyclohept-4-en-1-one | – | – | [4+3 cycloaddition](../wiki/반응/4+3%20고리화%20첨가.md) (p.22–23) |
+| ethylene + maleic anhydride | 가열 ✗ / hν ✓ | cyclobutane-1,2-dicarboxylic anhydride | – | supra–supra | [광화학 2+2](../wiki/반응/광화학%202+2%20고리화%20첨가.md) (p.24) |
 | dimethyl 1,2-cyclobutenedicarboxylate + 3-methylcyclohex-2-enone | hν | 4-4-6 삼환 diester ketone | – | 각 성분 stereospecific, anti | (p.27) |
 | isobutylene + cyclohex-2-enone | hν | 7,7-dimethylbicyclo[4.2.0]octan-2-one | CMe2–Cβ | cis 융합으로 그림 | LUMO/LUMO (p.28) |
-| 큐베인 합성 핵심 단계 | HNEt2 → 자발적 DA; hν | endo 이량체 → 새장 다이케톤 | – | endo | [[큐베인]] (p.30) |
+| 큐베인 합성 핵심 단계 | HNEt2 → 자발적 DA; hν | endo 이량체 → 새장 다이케톤 | – | endo | [큐베인](../wiki/개념/큐베인.md) (p.30) |
 
 ## 연습 문제
 → [L14 연습 문제](../practice/L14_Exercises.md)

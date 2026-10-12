@@ -7,15 +7,15 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 ---
 # Boc 보호기
 
-> 아민을 t-butyl carbamate(RNH–CO–OC(CH₃)₃)로 가리는 [[보호기|protecting group]]이다. Boc₂O와 염기로 씌우고, **산**([[TFA]] 등)으로 벗긴다.
+> 아민을 t-butyl carbamate(RNH–CO–OC(CH₃)₃)로 가리는 [protecting group](../개념/보호기.md)이다. Boc₂O와 염기로 씌우고, **산**([TFA](TFA.md) 등)으로 벗긴다.
 
 ## 개요
 
-아민은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 거의 항상 끼어든다. 질소를 carbonyl에 붙여 carbamate로 만들면 비공유 전자쌍이 C=O와 공명해 친핵성과 염기성이 크게 떨어진다(→ [[보호기]]의 "왜 carbamate인가"). Boc는 그중 산으로 벗기는 carbamate이고, [[펩타이드 합성]]의 N-보호기 두 가지 중 하나다. (출처: L12 p.5, p.8)
+아민은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 거의 항상 끼어든다. 질소를 carbonyl에 붙여 carbamate로 만들면 비공유 전자쌍이 C=O와 공명해 친핵성과 염기성이 크게 떨어진다(→ [보호기](../개념/보호기.md)의 "왜 carbamate인가"). Boc는 그중 산으로 벗기는 carbamate이고, [펩타이드 합성](../반응/펩타이드%20합성.md)의 N-보호기 두 가지 중 하나다. (출처: L12 p.5, p.8)
 
 ## 도입
 
-Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. 아민 N이 무수물의 carbonyl 탄소를 공격하고, [[사면체 중간체|tetrahedral intermediate]]에서 t-BuOCO2⁻가 떨어져 나간다.[^1]
+Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. 아민 N이 무수물의 carbonyl 탄소를 공격하고, [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 t-BuOCO2⁻가 떨어져 나간다.[^1]
 
 `methionine --[Boc2O, base]--> Boc-Met`
 
@@ -28,7 +28,7 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 그렇다면 Boc는 왜 산에서 벗겨질까? 메커니즘을 따라가 보면 답이 보인다.
 
 1. carbamate의 carbonyl O가 H⁺에 의해 양성자화된다.
-2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 양이온은 3차 [[탄소 양이온|carbocation]]이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
+2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 양이온은 3차 [carbocation](../개념/탄소%20양이온.md)이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
 3. t-butyl cation은 β-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid는 양성자가 옮겨 간 zwitterion(O⁻/NH2⁺) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
@@ -46,8 +46,8 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ## 선택성
 
-- 염기에는 안정하다. 그래서 염기로 벗기는 [[Fmoc 보호기|Fmoc]]와 거울상처럼 짝을 이루어 [[직교 보호]]의 토대가 된다. (출처: L12 p.11)
-- 산에 약한 acetal, silyl ether, THP, t-Bu ester와는 산 조건에서 직교하지 않는다. TFA로 Boc를 벗기면 이들도 손상될 위험이 있다. 반면 [[Cbz 보호기|Cbz]]는 TFA에 견딘다. (출처: L12 p.5)
+- 염기에는 안정하다. 그래서 염기로 벗기는 [Fmoc](Fmoc%20보호기.md)와 거울상처럼 짝을 이루어 [직교 보호](../개념/직교%20보호.md)의 토대가 된다. (출처: L12 p.11)
+- 산에 약한 acetal, silyl ether, THP, t-Bu ester와는 산 조건에서 직교하지 않는다. TFA로 Boc를 벗기면 이들도 손상될 위험이 있다. 반면 [Cbz](Cbz%20보호기.md)는 TFA에 견딘다. (출처: L12 p.5)
 - t-butyl ester(카복실산 보호기)의 산 절단도 같은 원리(t-butyl cation 경유)다. (출처: L12 p.5)
 
 ## 예
@@ -62,9 +62,9 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ## 관련 문서
 
-- 시약: [[Fmoc 보호기]], [[Cbz 보호기]], [[TFA]], [[DCC]]
-- 반응: [[펩타이드 합성]]
-- 개념: [[보호기]], [[직교 보호]], [[탄소 양이온]], [[사면체 중간체]]
+- 시약: [Fmoc 보호기](Fmoc%20보호기.md), [Cbz 보호기](Cbz%20보호기.md), [TFA](TFA.md), [DCC](DCC.md)
+- 반응: [펩타이드 합성](../반응/펩타이드%20합성.md)
+- 개념: [보호기](../개념/보호기.md), [직교 보호](../개념/직교%20보호.md), [탄소 양이온](../개념/탄소%20양이온.md), [사면체 중간체](../개념/사면체%20중간체.md)
 
 ## 출처
 

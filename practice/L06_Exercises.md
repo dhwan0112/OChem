@@ -1,6 +1,6 @@
 # L6 연습 문제와 해설
 
-> [L6 산화와 알켄 합성 강의 노트](../notes/L06_Oxidation_and_Alkene_Synthesis.md)에서 옮긴 연습 문제와 해설이다. "L6c p.N"은 수정본 슬라이드 PDF 쪽이다. 개념 설명은 [[에스터 부분 환원]], [[알코올 산화]], [[DMP]], [[MnO2]], [[존스 산화]], [[피닉 산화]], [[린들라 환원]], [[용해 금속 환원]], [[위티그 반응]], [[인 일라이드]], [[HWE 반응]], [[알켄의 입체선택적 합성]] 문서에 있다.
+> [L6 산화와 알켄 합성 강의 노트](../notes/L06_Oxidation_and_Alkene_Synthesis.md)에서 옮긴 연습 문제와 해설이다. "L6c p.N"은 수정본 슬라이드 PDF 쪽이다. 개념 설명은 [에스터 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [알코올 산화](../wiki/반응/알코올%20산화.md), [DMP](../wiki/시약/DMP.md), [MnO2](../wiki/시약/MnO2.md), [존스 산화](../wiki/반응/존스%20산화.md), [피닉 산화](../wiki/반응/피닉%20산화.md), [린들라 환원](../wiki/반응/린들라%20환원.md), [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md), [위티그 반응](../wiki/반응/위티그%20반응.md), [인 일라이드](../wiki/시약/인%20일라이드.md), [HWE 반응](../wiki/반응/HWE%20반응.md), [알켄의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md) 문서에 있다.
 
 ## 문제
 
@@ -21,7 +21,7 @@
 
 3. 11은 Z로 바뀔 자리가 삼중결합인 엔-인(enyne)이다: HO–CH(Me)–C≡C–CH=CH(E)–(N-Boc-6-methylpiperidin-2-yl), 입체중심은 12와 같다. Lindlar 촉매는 C≡C만 syn으로 환원해 Z-C=C를 만들고, 이미 있는 E-C=C는 건드리지 않는다. 그래서 (Z,E)-다이엔 12가 생긴다. (L6c p.23, p.25)
 
-4. 빈칸은 Ph3P=CH–CHO(formylmethylene triphenylphosphorane), 즉 알데하이드로 안정화된 일리드다. 일리드 탄소가 기질 알데하이드와 Wittig 반응을 해 OHC–CH=CH–R을 만든다. C=O에 공액된 안정화 일리드이므로 E-선택적이다([[옥사포스페테인]] 문서 각주의 통상적 설명 참고). (L6c p.29–30)
+4. 빈칸은 Ph3P=CH–CHO(formylmethylene triphenylphosphorane), 즉 알데하이드로 안정화된 일리드다. 일리드 탄소가 기질 알데하이드와 Wittig 반응을 해 OHC–CH=CH–R을 만든다. C=O에 공액된 안정화 일리드이므로 E-선택적이다([옥사포스페테인](../wiki/개념/옥사포스페테인.md) 문서 각주의 통상적 설명 참고). (L6c p.29–30)
 
 5. (a) C2=C3를 끊는다. 가장 좋은 조합은 acetone (CH3)2C=O + Ph3P=CH–CH2CH3(propylidene 일리드: 1-bromopropane + PPh3로 SN2한 뒤 BuLi로 탈양성자화)이다. 대안은 propanal CH3CH2CHO + Ph3P=C(CH3)2인데, 이 일리드는 2-bromopropane(2차 할로젠화물)에서 와야 해서 SN2가 더 느리다. C2에 같은 CH3가 두 개 있으므로 E/Z 문제는 없다. (b) 엑소 C=CH2를 끊는다: cyclohex-2-en-1-one + Ph3P=CH2(CH3Br + PPh3, 그 다음 BuLi). 고리 안의 C=C는 그대로 둔다. 반대 조합(고리 일리드 + HCHO)은 비현실적이다. (L6c p.26–27, p.32)
 
