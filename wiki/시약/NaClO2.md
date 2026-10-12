@@ -51,4 +51,4 @@ Boger의 반코마이신 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 3.1–3.3절
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 3절

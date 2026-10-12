@@ -59,7 +59,7 @@ H₂가 촉매 표면에 흡착되고, 알켄이 한쪽 면을 표면에 대고 
 
 ## 출처
 
-- [L5 환원](../../notes/L05_Reduction.md) 1-5절, 3절
-- [L3 친전자성 방향족 치환 1부](../../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) 3.1절 (슬라이드 p.13)
-- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 5.3절
+- [L5 환원](../../notes/L05_Reduction.md) 1절, 3절
+- [L3 친전자성 방향족 치환 1부](../../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) 3절 (슬라이드 p.13)
+- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 5절
 - [L12 보호기](../../notes/L12_Protecting_Groups.md) 보호기 표, 카바메이트 절

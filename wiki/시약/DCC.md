@@ -47,4 +47,4 @@ L-페닐알라닌과 L-알라닌으로 Phe-Ala 다이펩타이드를 만드는 �
 ## 출처
 
 - [L12 연습문제](../../practice/L12_Practice.md) 문제 3
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7-1절, 7-2절, 7-5절
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절

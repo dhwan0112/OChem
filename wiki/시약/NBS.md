@@ -52,4 +52,4 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 석신이미드의 N
 ## 출처
 
 - [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.11–12
-- [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 11.1절 (큐베인 합성)
+- [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 11절 (큐베인 합성)

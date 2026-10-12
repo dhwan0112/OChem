@@ -57,6 +57,6 @@ Stahl 계에서는 Cu(I)가 TEMPO-H와 ½ O₂로 Cu(II)–OH와 TEMPO•가 되
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.5–2.6절
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절
 
-[^1]: 슬라이드는 "nitrosonium cation"이라고 부르지만 정식으로는 옥소암모늄(oxoammonium) 이온이라 부르는 경우가 많다. (L6 노트 각주 5)
+[^1]: 슬라이드는 "nitrosonium cation"이라고 부르지만 정식으로는 옥소암모늄(oxoammonium) 이온이라 부르는 경우가 많다. (출처: L6c p.11–12 관련 보충)

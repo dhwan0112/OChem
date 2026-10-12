@@ -46,4 +46,4 @@ tags: [분류/시약, 범위/Test1, 인명시약, 단원/산화-알켄-합성, �
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.3절, 3.3절
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절, 3절

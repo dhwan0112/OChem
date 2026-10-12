@@ -54,5 +54,5 @@ diene을 s-cis로 그리면 말단 탄소(C1, C4)의 치환기는 고리 안쪽�
 
 ## 출처
 
-- [L13 고리화 첨가 1부](../../notes/L13_Cycloaddition_Part1.md) 5-2–5-3절, 6-2절 (p.15–16, p.18, p.20)
+- [L13 고리화 첨가 1부](../../notes/L13_Cycloaddition_Part1.md) 5절, 6절 (p.15–16, p.18, p.20)
 - [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 6절 (p.17)

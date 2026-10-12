@@ -46,6 +46,6 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 ## 출처
 
 - [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.14
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.3절
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절
 - [Tutorial 1](../../practice/Tutorial_1.md) 문제 4, [Tutorial 2](../../practice/Tutorial_2.md) 문제 3
 - [Test 1 (2025)](../../practice/Test1_2025.md) 문제 3

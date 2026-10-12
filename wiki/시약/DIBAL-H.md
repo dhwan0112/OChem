@@ -48,5 +48,5 @@ Lewis acid인 Al이 ester 카보닐 O에 배위한 뒤 Al–H의 hydride가 분�
 
 ## 출처
 
-- [L5 환원](../../notes/L05_Reduction.md) 2-5절 (슬라이드 p.29)
+- [L5 환원](../../notes/L05_Reduction.md) 2절 (슬라이드 p.29)
 - [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 0절 (L6c p.2)

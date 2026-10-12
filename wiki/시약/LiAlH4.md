@@ -76,7 +76,7 @@ ester는 [[사면체 중간체|tetrahedral intermediate]]에서 OR이 떨어지�
 
 ## 출처
 
-- [L5 환원](../../notes/L05_Reduction.md) 1-1a~1-2절, 2-0절, 2-1절, 2-3절 (슬라이드 p.7–9, p.17, p.21, p.23–26)
+- [L5 환원](../../notes/L05_Reduction.md) 1절, 2절 (슬라이드 p.7–9, p.17, p.21, p.23–26)
 - [L5 연습 문제](../../practice/L05_Exercises.md) 6번
 - [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 0절, 4절
 - [L15 고리화 첨가 3부](../../notes/L15_Cycloaddition_Part3.md) 아이소옥사졸린 절
