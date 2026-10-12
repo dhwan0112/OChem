@@ -57,6 +57,26 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 태그와 목록 문서는 `python3 tools/build_wiki_index.py`가 자동으로 만든다. 문서를 고친 뒤 다시 실행하면 되고, 깨진 위키링크도 함께 검사한다.
 
+## 교과서와 강의 대응
+
+노트의 "보충:" 서술은 표준 교재와 대조해 `(보충 근거: Clayden p.N)` 또는 `(보충 근거: Wade p.N)`으로 근거를 단다. 교과서 쪽수는 **책에 인쇄된 쪽수**다(슬라이드 출처의 p.N이 PDF 쪽수인 것과 다르다). PDF로 열 때는 Clayden 2판은 인쇄 쪽 + 27, Wade 8판은 인쇄 쪽 + 38이 PDF 쪽이다.
+
+| 강의 | Clayden 2판 (장, 시작 쪽) | Wade 8판 (장, 시작 쪽) |
+|---|---|---|
+| L1–L2 알켄 첨가 | 19장 Electrophilic addition to alkenes (p.427) | 8장 Reactions of Alkenes (p.328) |
+| L3–L4 방향족 치환 | 21장 Electrophilic aromatic substitution (p.471) | 17장 Reactions of Aromatic Compounds (p.756) |
+| L5 환원 | 23장 Chemoselectivity and protecting groups (p.528), 6·10·11장 | 18장 Ketones and Aldehydes (p.816), 19장 Amines (p.879) |
+| L6 산화·알켄 합성 | 23장 (p.528), 위티그는 11장 (p.237)과 27장 S, Si, P (p.656) | 11장 Reactions of Alcohols (p.467), 18장 |
+| L7 엔올레이트 알킬화 | 25장 Alkylation of enolates (p.584) | 22장 Condensations and Alpha Substitutions (p.1045) |
+| L8–L9 알돌·클라이젠 | 26장 Aldol and Claisen reactions (p.614) | 22장 (p.1045) |
+| L10 엔올·엔아민 | 20장 Enols and enolates (p.449), 25장 | 22장 (p.1045) |
+| L11 공액 첨가 | 22장 Conjugate addition and SNAr (p.498) | 22장, 17장 |
+| L12 보호기 | 23장 (p.528) | 24장 Amino Acids, Peptides (p.1155) |
+| L13–L15 고리화 첨가 | 34장 Pericyclic reactions 1 (p.877) | 15장 Conjugated Systems, Orbital Symmetry (p.667) |
+| Test 2: 시그마트로픽·전자고리화 | 35장 Pericyclic reactions 2 (p.909) | 15장 |
+
+교과서 PDF(`Clayden-...pdf`, `Wade ...pdf`)는 저장소 루트에 있다.
+
 ## 연습 문제와 기출 (`practice/`)
 
 - [Test 1 (2025) 문제 및 해설](practice/Test1_2025.md): 출제 경향 분석 포함
