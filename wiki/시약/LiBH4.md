@@ -62,7 +62,7 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 
 ## 출처
 
-- [L5 환원](../../notes/L05_Reduction.md) 2-1절, 2-2절, 2-4절 (슬라이드 p.17, p.21–22, p.25, p.27)
+- [L5 환원](../../notes/L05_Reduction.md) 2절 (슬라이드 p.17, p.21–22, p.25, p.27)
 - [L5 연습 문제](../../practice/L05_Exercises.md) 5번, 8번
 - [L7 엔올레이트 알킬화](../../notes/L07_Enolate_Alkylation.md) 에반스 보조기 절
 

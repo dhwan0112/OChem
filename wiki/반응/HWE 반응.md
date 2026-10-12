@@ -3,7 +3,7 @@ aliases: [Horner–Wadsworth–Emmons reaction, HWE reaction, 호너-워즈워�
 분류: 반응
 강의: [L6, L7, L8]
 주제태그: [알켄-합성, 올레핀화, 포스포네이트]
-tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산화-알켄-합성, 강의/L06, 유형/C–C-결합-형성, 유형/친핵성-첨가, 주제/알켄-합성, 주제/올레핀화, 주제/포스포네이트]
+tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산화-알켄-합성, 단원/엔올레이트, 강의/L06, 강의/L07, 강의/L08, 유형/C–C-결합-형성, 유형/친핵성-첨가, 주제/알켄-합성, 주제/올레핀화, 주제/포스포네이트]
 ---
 # HWE 반응
 
@@ -58,7 +58,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate 음이온을 stabilized yli
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7.7절, 7.8절 (L6c p.36–38)
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7절 (L6c p.36–38)
 - [L7 엔올레이트 알킬화](../../notes/L07_Enolate_Alkylation.md) (p.3)
 - [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) (p.5–6)
 - [L6 연습 문제](../../practice/L06_Exercises.md) 6번

@@ -68,7 +68,7 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 6-2절, 7-3절 (L12 p.5, p.8, p.10)
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 6절, 7절 (L12 p.5, p.8, p.10)
 - [L12 연습문제](../../practice/L12_Practice.md) 문제 3
 
 [^1]: 보충: 이탈한 t-BuOCO2⁻는 CO2와 t-BuO⁻로 분해된다. 슬라이드에는 Boc2O와 염기라는 조건과 생성물만 나온다.

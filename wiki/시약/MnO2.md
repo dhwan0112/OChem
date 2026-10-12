@@ -49,4 +49,4 @@ MnO₂는 너무 순해서 아무 알코올이나 산화하지 못한다. 그런
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.4절, 3.3절
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절, 3절

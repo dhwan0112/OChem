@@ -47,4 +47,4 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, �
 
 ## 출처
 
-- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 5.3절 (Mukaiyama 알돌)
+- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 5절 (Mukaiyama 알돌)

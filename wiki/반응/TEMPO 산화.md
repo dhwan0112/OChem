@@ -68,7 +68,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.5절, 2.6절 (L6c p.11–13)
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절 (L6c p.11–13)
 
 [^1]: 슬라이드는 "nitrosonium cation"이라고 부르지만, 정식으로는 oxoammonium(옥소암모늄) 이온이라고 부르는 경우가 많다. 슬라이드의 TEMPO 이름 "tetramethylpiperidine N-oxide"도 정확히는 2,2,6,6-tetramethylpiperidin-1-oxyl(nitroxyl radical)이다.
 [^2]: 보충: Stahl 계는 1차 alcohol을 2차 alcohol보다 훨씬 빠르게 산화하는 것으로 알려져 있다.

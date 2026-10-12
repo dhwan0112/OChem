@@ -49,4 +49,4 @@ THP 에터의 고리 O 옆 탄소에는 산소가 두 개(고리 O와 RO) 붙어
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 4절, 8-1절, 흔한 오해
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 4절, 8절, 흔한 오해

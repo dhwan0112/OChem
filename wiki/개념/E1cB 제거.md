@@ -57,6 +57,6 @@ E2는 H와 이탈기가 한 번에 떨어지고, E1은 이탈기가 먼저 떨�
 
 ## 출처
 
-- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 2.3–2.4절, 3.2절
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7-4절
-- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 7.1절
+- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 2절, 3절
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절
+- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 7절

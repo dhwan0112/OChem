@@ -99,9 +99,9 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 
 ## 출처
 
-- [L13 고리화 첨가 1부](../../notes/L13_Cycloaddition_Part1.md) 6-3절, 7-4절 (p.16, p.18, p.21–24, p.29)
-- [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 6절, 10.3절, 11.1절 (p.16–17, p.27, p.30)
-- [L15 고리화 첨가 3부](../../notes/L15_Cycloaddition_Part3.md) 0절, 15.4절 (p.3, p.16)
+- [L13 고리화 첨가 1부](../../notes/L13_Cycloaddition_Part1.md) 6절, 7절 (p.16, p.18, p.21–24, p.29)
+- [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 6절, 10절, 11절 (p.16–17, p.27, p.30)
+- [L15 고리화 첨가 3부](../../notes/L15_Cycloaddition_Part3.md) 0절, 15절 (p.3, p.16)
 
 [^1]: 보충: endo 생성물은 속도론적(kinetic) 생성물이다. 입체 장애가 적은 exo 생성물이 열역학적으로 더 안정한 경우가 많아서, 고온이나 장시간(retro-DA가 가능한 가역 조건)에서는 exo 비율이 늘어날 수 있다. (보충 근거: Clayden p.884) (출처: L13 p.22) 또 [[루이스 산 촉매|Lewis acid 촉매]]는 일반적으로 endo 선택성도 높이는 것으로 알려져 있다. 다만 Clayden은 Lewis acid가 dienophile LUMO를 더 낮춰 반응을 빠르게 하고 LUMO 계수 차이를 키워 regioselectivity를 높인다는 점만 설명하며(보충 근거: Clayden p.891), endo 선택성 향상은 이 교재에서 확인되지 않는다. L14 슬라이드의 예도 regioselectivity만 보여 준다. (출처: L14 p.20)
 [^2]: 슬라이드 p.29의 그림에는 아래쪽(dienophile 역할) cyclopentadiene의 오비탈이 "LUMO of diene"이라고 적혀 있다. 그 분자가 화합물로서 diene이라는 뜻으로 읽어야 하며, 반응에서의 역할은 dienophile이다(그 C=C의 LUMO). (출처: L13 p.29)

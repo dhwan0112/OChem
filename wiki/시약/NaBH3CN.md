@@ -58,7 +58,7 @@ reductive amination에서 실제로 hydride를 받는 것은 카보닐이 아니
 
 ## 출처
 
-- [L5 환원](../../notes/L05_Reduction.md) 1-3절, 2-0절 (슬라이드 p.10–12, p.14, p.17)
+- [L5 환원](../../notes/L05_Reduction.md) 1절, 2절 (슬라이드 p.10–12, p.14, p.17)
 - [L5 연습 문제](../../practice/L05_Exercises.md) 2번, 4번
 
 [^1]: 검토 의견: 흔히 인용되는 Borch 조건은 pH 6–7 부근이며, pH 3–4처럼 더 산성이면 NaBH₃CN이 aldehyde·ketone도 상당히 환원하기 시작한다고 알려져 있다(보충 근거: Clayden p.234–235, pH 6 조건 부분만). 시험에서는 슬라이드 값(pH 3–4)을 따른다(→ [[환원성 아미노화]]).

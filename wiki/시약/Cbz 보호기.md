@@ -45,6 +45,6 @@ Cbz는 H2/Pd [[수소화분해|hydrogenolysis]]로 벗기는 것이 기본이고
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 4절, 6-2–6-3절 (L12 p.5, p.8)
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 4절, 6절 (L12 p.5, p.8)
 
 [^1]: 보충: Cbz hydrogenolysis의 생성물(toluene, CO2, 아민)은 표준 교재 내용이며 슬라이드에는 조건만 나온다. (보충 근거: Clayden p.557)

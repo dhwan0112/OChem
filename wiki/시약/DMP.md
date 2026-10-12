@@ -68,5 +68,5 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2.1절, 3.2–3.3절 (L6c p.6–7, p.16–17)
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절, 3절 (L6c p.6–7, p.16–17)
 - [L6 연습 문제](../../practice/L06_Exercises.md) 2번

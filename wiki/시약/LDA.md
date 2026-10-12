@@ -72,9 +72,9 @@ BuLi의 탄소음이온이 염기로서 N–H의 수소를 떼어 내고, 훨씬
 
 ## 출처
 
-- [L7 엔올레이트와 α-알킬화](../../notes/L07_Enolate_Alkylation.md) 1.2–1.3절(p.5–7), 1.4–1.5절, 2.2–2.3절, 6.2절
-- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 5.2–5.3절
+- [L7 엔올레이트와 α-알킬화](../../notes/L07_Enolate_Alkylation.md) I절(p.5–7), II절, VI절
+- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 5절
 - [L10 엔올과 엔아민](../../notes/L10_Enol_and_Enamine.md) 실릴 엔올 에터 할로젠화
-- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 4.3절
+- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 4절
 
 [^1]: 다이아이소프로필아민의 pKa가 L7 p.4의 표에서는 36, p.6의 반응식에서는 38로 서로 다르게 적혀 있다. 둘 다 문헌에서 쓰이는 값(측정 조건에 따라 다름)이며, 어느 값이든 케톤(19)과의 차이가 커서 결론은 같다. 평형 상수는 대략 10^(ΔpKa)로 어림한다. (출처: L7 p.4, p.6)

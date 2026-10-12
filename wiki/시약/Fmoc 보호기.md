@@ -53,6 +53,6 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [[탄소
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7-4절 (L12 p.11)
+- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절 (L12 p.11)
 
 [^1]: 보충: 슬라이드의 염기는 일반적인 :NR3로 그려져 있다. 실제로 piperidine 같은 2차 아민이 흔히 쓰이고, 이 아민이 생성된 dibenzofulvene을 포획한다는 점은 표준 펩타이드 화학 내용이다.
