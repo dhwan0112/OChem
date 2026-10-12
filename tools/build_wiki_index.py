@@ -64,6 +64,7 @@ def read_doc(path):
 UNIT = {1: "알켄-첨가", 2: "알켄-첨가", 3: "방향족-치환", 4: "방향족-치환", 5: "환원",
         6: "산화-알켄-합성", 7: "엔올레이트", 8: "엔올레이트", 9: "엔올레이트", 10: "엔올레이트",
         11: "공액-첨가", 12: "보호기", 13: "고리화-첨가", 14: "고리화-첨가", 15: "고리화-첨가"}
+UNIT_NAME = {"산화-알켄-합성": "산화·알켄 합성"}
 # 시험 범위 (수정된 일정표: Test 1 = 1–5주차, Test 2 = 6–10주차, 라디칼 제외)
 def exam_scope(n):
     return "Test1" if n <= 10 else "Test2"
@@ -289,12 +290,15 @@ def build_hub_pages(docs):
     for scope, desc in (("Test1", "1–5주차, 강의 L1–L10"),
                         ("Test2", "6–10주차, 강의 L11–L15 (라디칼 화학 제외; 시그마트로픽·전자고리화 반응은 자료가 나오면 추가)")):
         lines = ["---", f"tags: [모음, 범위/{scope}]", "---", f"# {scope[:-1]} {scope[-1]} 범위",
-                 "", f"> {desc}. {note} {star if scope == 'Test1' else ''}".rstrip(), ""]
+                 "", f"> {desc}. {note} {star}".rstrip(), ""]
         for u in units:
-            items = [d for d in docs if f"범위/{scope}" in d.get("tags", []) and f"단원/{u}" in d.get("tags", [])]
+            # 이 범위에 속한 강의의 단원으로만 묶는다 (예: L13에서 다시 쓰인 오존 분해는 고리화 첨가 아래)
+            items = [d for d in docs
+                     if any(exam_scope(n) == scope and UNIT.get(n) == u for n in d["lectures"])]
             if not items:
                 continue
-            lines += [f"## {u.replace('-', ' ')}", ""]
+            lec = sorted(n for n, v in UNIT.items() if v == u)
+            lines += [f"## {UNIT_NAME.get(u, u.replace('-', ' '))} (L{lec[0]}" + (f"–L{lec[-1]})" if len(lec) > 1 else ")"), ""]
             for cat in CATEGORIES:
                 group = sorted((d for d in items if d["category"] == cat), key=lambda d: d["title"])
                 if group:
