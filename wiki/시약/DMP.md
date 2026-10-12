@@ -1,8 +1,9 @@
 ---
 aliases: [Dess–Martin periodinane, Dess-Martin periodinane, 데스-마틴 페리오디네인, 데스-마틴 시약, Dess–Martin]
 분류: 시약
-태그: [산화제, 초원자가 아이오딘]
 강의: [L6]
+주제태그: [산화제, 초원자가-아이오딘]
+tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 인명시약, 단원/산화-알켄-합성, 강의/L06, 시약유형/산화제, 주제/초원자가-아이오딘]
 ---
 # DMP
 
@@ -48,7 +49,7 @@ aliases: [Dess–Martin periodinane, Dess-Martin periodinane, 데스-마틴 페�
 
 ## 예: "3 = 1 + 2"
 
-민감한 기질의 1차 알코올을 카복실산으로 보낼 때 존스 시약 대신 두 단계로 나눈다. Boger의 반코마이신 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO --[NaClO₂]--> R–CO₂H(2단계 77%). 두 번째 단계는 [[NaClO2]]([[피닉 산화]])다. (출처: L6c p.16–17)
+민감한 기질의 1차 알코올을 카복실산으로 보낼 때 존스 시약 대신 두 단계로 나눈다. Boger의 반코마이신 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO --[NaClO₂]--> R–CO₂H(2단계 77%). 두 번째 단계는 [[NaClO2]] ([[피닉 산화]])다. (출처: L6c p.16–17)
 
 ## 흔한 오해
 

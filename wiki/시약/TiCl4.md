@@ -1,8 +1,9 @@
 ---
 aliases: [TiCl₄, titanium tetrachloride, 사염화 티타늄, "Ti(IV)"]
 분류: 시약
-태그: [루이스 산]
 강의: [L8]
+주제태그: [루이스-산]
+tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, 강의/L08, 시약유형/루이스-산]
 ---
 # TiCl4
 

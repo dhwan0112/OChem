@@ -1,8 +1,9 @@
 ---
 aliases: [2,2,6,6-tetramethylpiperidine N-oxyl, 2,2,6,6-tetramethylpiperidin-1-oxyl, 템포, 나이트록실 라디칼]
 분류: 시약
-태그: [산화제, 촉매, 라디칼]
 강의: [L6]
+주제태그: [산화제, 촉매, 라디칼]
+tags: [분류/시약, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 시약유형/산화제, 시약유형/촉매, 주제/라디칼]
 ---
 # TEMPO
 
