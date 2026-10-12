@@ -1,5 +1,5 @@
 ---
-aliases: [N,N'-dicyclohexylcarbodiimide, 다이사이클로헥실카보다이이미드, 디사이클로헥실카보디이미드, 카보다이이미드, 커플링제, coupling agent]
+aliases: ["N,N′-dicyclohexylcarbodiimide", DCC, 다이사이클로헥실카보다이이미드, 디사이클로헥실카보디이미드, 카보다이이미드, 커플링제, coupling agent]
 분류: 시약
 강의: [L12]
 주제태그: [커플링제, 아마이드-결합, 펩타이드]

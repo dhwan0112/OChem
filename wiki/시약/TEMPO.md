@@ -1,5 +1,5 @@
 ---
-aliases: [2,2,6,6-tetramethylpiperidine N-oxyl, 2,2,6,6-tetramethylpiperidin-1-oxyl, 템포, 나이트록실 라디칼]
+aliases: ["2,2,6,6-tetramethylpiperidine N-oxyl", "2,2,6,6-tetramethylpiperidin-1-oxyl", 템포, 나이트록실 라디칼]
 분류: 시약
 강의: [L6]
 주제태그: [산화제, 촉매, 라디칼]
