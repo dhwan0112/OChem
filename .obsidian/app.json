@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "figures",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "tools/"
+  ],
+  "readableLineLength": true,
+  "showFrontmatter": false
+}

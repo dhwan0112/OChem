@@ -285,9 +285,16 @@ def convert_to_svg(src, out):
         sys.exit("reshiki convert 오류: " + r.stderr.strip())
 
 
+# 배경 카드 (라이트, 다크). 옵시디언 기본 테마의 배경색과 같다.
+# 뷰어의 테마와 운영체제의 다크/라이트 설정이 달라도 선과 글자가 항상 읽히게 한다.
+CARD = ("#ffffff", "#1e1e1e")
+
+
 def style_block():
     light = "".join(f".c-{k}.fill{{fill:{v[0]}}}.c-{k}.stroke{{stroke:{v[0]}}}" for k, v in PALETTE.items())
     dark = "".join(f".c-{k}.fill{{fill:{v[1]}}}.c-{k}.stroke{{stroke:{v[1]}}}" for k, v in PALETTE.items())
+    light += f".card{{fill:{CARD[0]}}}"
+    dark += f".card{{fill:{CARD[1]}}}"
     return f"<style>{light}@media (prefers-color-scheme: dark){{{dark}}}</style>"
 
 
@@ -311,10 +318,11 @@ def theme_svg(svg):
 
     svg = re.sub(r"<(line|path|text|circle|ellipse|polygon|polyline)\b[^>]*?/?>", tag, svg)
     # 표시 크기: 결합 하나가 화면에서 약 26px
-    m = re.search(r'viewBox="[-0-9.e]+ [-0-9.e]+ ([-0-9.e]+) ([-0-9.e]+)"', svg)
-    w, h = float(m.group(1)), float(m.group(2))
+    m = re.search(r'viewBox="([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+)"', svg)
+    x, y, w, h = map(float, m.groups())
     svg = re.sub(r'width="[^"]+" height="[^"]+"', f'width="{w * 0.62:.0f}" height="{h * 0.62:.0f}"', svg, count=1)
-    return svg.replace(">", ">" + style_block(), 1)
+    card = f'<rect class="card" x="{x:.3f}" y="{y:.3f}" width="{w:.3f}" height="{h:.3f}" rx="14"/>'
+    return svg.replace(">", ">" + style_block() + card, 1)
 
 
 def build(path, out=None):
