@@ -1,8 +1,9 @@
 ---
 aliases: [tetra-n-propylammonium perruthenate, 테트라프로필암모늄 퍼루테네이트, Ley–Griffith 산화, TPAP/NMO, Pr4N+ RuO4-]
 분류: 시약
-태그: [산화제, 촉매, 루테늄]
 강의: [L6]
+주제태그: [산화제, 촉매, 루테늄]
+tags: [분류/시약, 범위/Test1, 인명시약, 단원/산화-알켄-합성, 강의/L06, 시약유형/산화제, 시약유형/촉매, 주제/루테늄]
 ---
 # TPAP
 

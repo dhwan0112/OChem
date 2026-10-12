@@ -1,8 +1,9 @@
 ---
 aliases: [Horner–Wadsworth–Emmons reaction, HWE reaction, 호너-워즈워스-에먼스 반응, Horner-Wadsworth-Emmons]
 분류: 반응
-태그: [알켄 합성, 올레핀화, 포스포네이트]
 강의: [L6]
+주제태그: [알켄-합성, 올레핀화, 포스포네이트]
+tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산화-알켄-합성, 강의/L06, 유형/C–C-결합-형성, 유형/친핵성-첨가, 주제/알켄-합성, 주제/올레핀화, 주제/포스포네이트]
 ---
 # HWE 반응
 

@@ -1,5 +1,14 @@
 # L12. 보호기 (Protecting Groups)
 
+<!-- wiki-links:start -->
+
+> **관련 위키 문서** ([[위키 대문]])
+> - 반응: [[아세탈 형성]], [[펩타이드 합성]]
+> - 시약: [[Boc 보호기]], [[Cbz 보호기]], [[Fmoc 보호기]], [[Pd-C|Pd/C]], [[TFA]], [[그리냐르 시약]], [[실릴 에터 보호기]]
+> - 개념: [[E1cB 제거]], [[α-수소의 산도]], [[보호기]], [[사면체 중간체]], [[직교 보호]], [[탄소 양이온]]
+
+<!-- wiki-links:end -->
+
 CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장 (Protecting groups).
 
 ## 개요
