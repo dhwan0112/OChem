@@ -343,7 +343,7 @@ LDA(lithium diisopropylamide)는 부피가 큰 강염기라 가장 덜 가려진
 
 [13] 슬라이드에 실제로 그려진 것은 "이미늄 ⇌ 엔아민"(양성자 이동에 의한 산-염기 평형)이다. 중성 "이민 ⇌ 엔아민" 호변이성은 1차 아민 유래 화합물에 해당하므로 문구와 그림이 약간 어긋난다.
 
-[14] 엔아민 알킬화에는 MeI, 알릴·벤질 할라이드, α-할로카보닐 화합물처럼 반응성이 큰 친전자체가 잘 맞는다.
+[14] 엔아민 알킬화에는 알릴·벤질 할라이드, α-할로카보닐 화합물처럼 반응성이 큰 친전자체가 잘 맞는다. 보충: MeI 같은 단순 할로젠화 알킬은 질소 쪽 알킬화가 상당히 경쟁해(4차 암모늄염이 생겨 가수분해 후 출발물로 돌아간다) 수율이 낮다. (보충 근거: Clayden p.592)
 
 [15] B. List, R. A. Lerner, C. F. Barbas III, "Proline-Catalyzed Direct Asymmetric Aldol Reactions", J. Am. Chem. Soc. 2000, 122, 2395–2396 (Scripps Research Institute).
 
