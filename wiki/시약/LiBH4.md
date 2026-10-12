@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test1, 단원/엔올레이트, 단원/환원, 강�
 
 ## 개요
 
-NaBH₄는 에틸 아세테이트나 에틸 벤조에이트 같은 ester를 아주 느리게만 환원하지만, LiBH₄는 쉽게 환원한다(→ [[금속 수소화물의 반응성]]). Na⁺를 Li⁺로 바꾸기만 했는데 왜 ester가 환원될까? 보통 Li⁺가 더 강한 Lewis acid로서 카보닐 산소에 배위해 카보닐을 활성화하기 때문이라고 설명한다.[^1] 그 결과 LiBH₄는 NaBH₄보다 강하고 LiAlH₄보다는 온화한 중간 세기의 시약이 된다. aldehyde와 ketone은 물론 환원하고, 특히 카복실산·amide·nitrile이 있어도 **ester와 lactone**만 골라 alcohol로 바꾸는 데 쓰인다. (출처: L5 p.21–22)
+NaBH₄는 에틸 아세테이트나 에틸 벤조에이트 같은 ester를 아주 느리게만 환원하지만, LiBH₄는 쉽게 환원한다(→ [금속 수소화물의 반응성](../개념/금속%20수소화물의%20반응성.md)). Na⁺를 Li⁺로 바꾸기만 했는데 왜 ester가 환원될까? 보통 Li⁺가 더 강한 Lewis acid로서 카보닐 산소에 배위해 카보닐을 활성화하기 때문이라고 설명한다.[^1] 그 결과 LiBH₄는 NaBH₄보다 강하고 LiAlH₄보다는 온화한 중간 세기의 시약이 된다. aldehyde와 ketone은 물론 환원하고, 특히 카복실산·amide·nitrile이 있어도 **ester와 lactone**만 골라 alcohol로 바꾸는 데 쓰인다. (출처: L5 p.21–22)
 
 ## 무엇을 하나
 
@@ -28,24 +28,24 @@ NaBH₄는 에틸 아세테이트나 에틸 벤조에이트 같은 ester를 아�
 
 `MeO2C-CH2-CH(CH3)-CH2-CO2H --[LiBH4, EtOH]--> HO-CH2-CH2-CH(CH3)-CH2-CO2H`
 
-ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 [[금속 수소화물의 반응성|카보닐 반응성 서열]](aldehyde > ketone > ester > amide > carboxylate)에서 찾을 수 있다. 산은 hydride 시약과 만나면 deprotonation되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다. (출처: L5 p.18, p.22)
+ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 [카보닐 반응성 서열](../개념/금속%20수소화물의%20반응성.md)(aldehyde > ketone > ester > amide > carboxylate)에서 찾을 수 있다. 산은 hydride 시약과 만나면 deprotonation되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다. (출처: L5 p.18, p.22)
 
-[[보레인]]과는 거울처럼 상보적이다. 같은 기질 MeO₂C–CH₂CH(CH₃)CH₂–CO₂H에 LiBH₄를 쓰면 ester가 환원되고, BH₃를 쓰면 산이 환원된다([L5 연습 문제](../../practice/L05_Exercises.md) 8번). (출처: L5 p.22, p.27)
+[보레인](보레인.md)과는 거울처럼 상보적이다. 같은 기질 MeO₂C–CH₂CH(CH₃)CH₂–CO₂H에 LiBH₄를 쓰면 ester가 환원되고, BH₃를 쓰면 산이 환원된다([L5 연습 문제](../../practice/L05_Exercises.md) 8번). (출처: L5 p.22, p.27)
 
 ## 예
 
 - `MeO2C-CH2CH(CH3)CH2-CO2H --[LiBH4, EtOH]--> HOCH2CH2CH(CH3)CH2-CO2H` (ester만 환원) (L5) (출처: L5 p.22)
 - 3β-아세톡시 스테로이드-20-온: NaBH₄는 ketone만 환원하고 acetate를 남기지만, LiBH₄는 ketone과 acetate를 모두 환원해 3β-OH가 드러난 다이올을 준다([L5 연습 문제](../../practice/L05_Exercises.md) 5번). (L5) (출처: L5 p.25)
-- [[에반스 옥사졸리디논]] 제거: 알킬화된 N-acyl oxazolidinone을 LiBH₄로 환원하면 키랄 1차 alcohol(2-벤질뷰탄-1-올)이 나오고 α-입체중심은 유지된다. (L7) (출처: L7 p.28)
+- [에반스 옥사졸리디논](에반스%20옥사졸리디논.md) 제거: 알킬화된 N-acyl oxazolidinone을 LiBH₄로 환원하면 키랄 1차 alcohol(2-벤질뷰탄-1-올)이 나오고 α-입체중심은 유지된다. (L7) (출처: L7 p.28)
 
 ## 이웃 시약과 비교
 
 | 시약 | ketone | ester | amide | 카복실산 |
 |---|---|---|---|---|
-| [[NaBH4]] | O | 느림 | X | X |
+| [NaBH4](NaBH4.md) | O | 느림 | X | X |
 | **LiBH₄** | O | O | X | X |
-| [[LiAlH4]] | O | O | O | 느림(충분히 쓰면 O) |
-| [[보레인]] | 느림 | 느림 | O | O |
+| [LiAlH4](LiAlH4.md) | O | O | O | 느림(충분히 쓰면 O) |
+| [보레인](보레인.md) | 느림 | 느림 | O | O |
 
 (출처: L5 p.17)
 
@@ -56,9 +56,9 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 
 ## 관련 문서
 
-- 반응: [[에스터 부분 환원]], [[엔올레이트 알킬화]]
-- 비교 시약: [[NaBH4]], [[LiAlH4]], [[보레인]], [[DIBAL-H]], [[에반스 옥사졸리디논]]
-- 개념: [[금속 수소화물의 반응성]], [[키랄 보조기]]
+- 반응: [에스터 부분 환원](../반응/에스터%20부분%20환원.md), [엔올레이트 알킬화](../반응/엔올레이트%20알킬화.md)
+- 비교 시약: [NaBH4](NaBH4.md), [LiAlH4](LiAlH4.md), [보레인](보레인.md), [DIBAL-H](DIBAL-H.md), [에반스 옥사졸리디논](에반스%20옥사졸리디논.md)
+- 개념: [금속 수소화물의 반응성](../개념/금속%20수소화물의%20반응성.md), [키랄 보조기](../개념/키랄%20보조기.md)
 
 ## 출처
 

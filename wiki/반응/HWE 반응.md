@@ -7,7 +7,7 @@ tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산�
 ---
 # HWE 반응
 
-> phosphonate carbanion (EtO)₂P(O)CH⁻–EWG + aldehyde·ketone → **E-alkene** + 수용성 phosphate 염. [[위티그 반응]]의 phosphonate 변형이다.
+> phosphonate carbanion (EtO)₂P(O)CH⁻–EWG + aldehyde·ketone → **E-alkene** + 수용성 phosphate 염. [위티그 반응](위티그%20반응.md)의 phosphonate 변형이다.
 
 ## 개요
 
@@ -17,7 +17,7 @@ stabilized ylide로 *E*-alkene을 만들 수 있다면, 더 좋은 방법이 따
 
 `(EtO)2P(O)CH2C(O)R --[염기: EtO− 또는 NaH]--> 포스포네이트 카바니온` (P=C, 탄소 음이온, enolate로 쓰는 공명 구조)
 
-P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 carbanion은 enolate 공명 구조로도 그릴 수 있다(→ [[엔올과 엔올레이트]], [[α-수소의 산도]]). 이 carbanion이 카보닐에 첨가한 뒤 Wittig과 같은 방식으로 4원 고리([[옥사포스페테인]]형)를 거쳐 phosphate를 내보내며 C=C가 생긴다. (출처: L6c p.36, L8 p.6)
+P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 carbanion은 enolate 공명 구조로도 그릴 수 있다(→ [엔올과 엔올레이트](../개념/엔올과%20엔올레이트.md), [α-수소의 산도](../개념/α-수소의%20산도.md)). 이 carbanion이 카보닐에 첨가한 뒤 Wittig과 같은 방식으로 4원 고리([옥사포스페테인](../개념/옥사포스페테인.md)형)를 거쳐 phosphate를 내보내며 C=C가 생긴다. (출처: L6c p.36, L8 p.6)
 
 L7의 enolate 복습 슬라이드는 이 phosphonate 음이온을 stabilized ylide와 같은 부류로 묶는다. `(EtO)2P(=O)CH2C(=O)R --[EtO− 또는 NaH]-->`로 생긴 음이온은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[^2] (출처: L7 p.3)
 
@@ -26,10 +26,10 @@ L7의 enolate 복습 슬라이드는 이 phosphonate 음이온을 stabilized yli
 예: (EtO)2P(O)CH2CO2Et + PhCHO
 1. EtO⁻가 P와 C=O 사이의 산성 CH₂ 양성자를 떼어 enolate를 만든다.
 2. enolate의 α-탄소(nucleophile)가 PhCHO의 카보닐 탄소(electrophile)를 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol addition과 같은 모양이다.
-3. alkoxide O⁻가 인을 공격해 4원 고리 중간체([[옥사포스페테인]]형)를 만든다.
+3. alkoxide O⁻가 인을 공격해 4원 고리 중간체([옥사포스페테인](../개념/옥사포스페테인.md)형)를 만든다.
 4. C–P, O–P 결합이 재배열되며 (EtO)2PO2⁻가 떨어지고 C=C가 생겨 (*E*)-EtO2C–CH=CH–Ph가 된다.
 
-일반식은 R1COR2 + R3O2C–CH(R4)–P(O)(OR5)2 --[Base]--> R3O2C–C(R4)=CR1R2이다. L8이 aldol에 앞서 HWE를 다시 꺼내는 이유가 2단계다. HWE에서는 alkoxide가 인에 붙잡혀 alkene으로 가지만, aldol에서는 alkoxide가 그냥 양성자를 받아 OH로 남는다(→ [[알돌 반응]]). (출처: L8 p.5, p.6)
+일반식은 R1COR2 + R3O2C–CH(R4)–P(O)(OR5)2 --[Base]--> R3O2C–C(R4)=CR1R2이다. L8이 aldol에 앞서 HWE를 다시 꺼내는 이유가 2단계다. HWE에서는 alkoxide가 인에 붙잡혀 alkene으로 가지만, aldol에서는 alkoxide가 그냥 양성자를 받아 OH로 남는다(→ [알돌 반응](알돌%20반응.md)). (출처: L8 p.5, p.6)
 
 생성물은 이치환 alkene에서 *E*-선택성이 높다. ketone과도 잘 반응한다.[^3] (출처: L6c p.36)
 
@@ -48,13 +48,13 @@ L7의 enolate 복습 슬라이드는 이 phosphonate 음이온을 stabilized yli
 ## 흔한 오해
 
 - **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 페닐이 아니라 에톡시가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)
-- **"*Z*-alkene이 필요할 때도 HWE"**: 슬라이드 요약에서 *Z*는 unstabilized Wittig ylide, *E*는 stabilized ylide 또는 HWE다(→ [[알켄의 입체선택적 합성]]). (출처: L6c p.38)
+- **"*Z*-alkene이 필요할 때도 HWE"**: 슬라이드 요약에서 *Z*는 unstabilized Wittig ylide, *E*는 stabilized ylide 또는 HWE다(→ [알켄의 입체선택적 합성](../개념/알켄의%20입체선택적%20합성.md)). (출처: L6c p.38)
 
 ## 관련 문서
 
-- 반응: [[위티그 반응]], [[린들라 환원]], [[용해 금속 환원]], [[알돌 반응]]
-- 시약: [[인 일라이드]]
-- 개념: [[알켄의 입체선택적 합성]], [[엔올과 엔올레이트]], [[α-수소의 산도]], [[입체특이성과 입체선택성]], [[옥사포스페테인]]
+- 반응: [위티그 반응](위티그%20반응.md), [린들라 환원](린들라%20환원.md), [용해 금속 환원](용해%20금속%20환원.md), [알돌 반응](알돌%20반응.md)
+- 시약: [인 일라이드](../시약/인%20일라이드.md)
+- 개념: [알켄의 입체선택적 합성](../개념/알켄의%20입체선택적%20합성.md), [엔올과 엔올레이트](../개념/엔올과%20엔올레이트.md), [α-수소의 산도](../개념/α-수소의%20산도.md), [입체특이성과 입체선택성](../개념/입체특이성과%20입체선택성.md), [옥사포스페테인](../개념/옥사포스페테인.md)
 
 ## 출처
 

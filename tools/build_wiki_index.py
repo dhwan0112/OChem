@@ -11,6 +11,7 @@
 import glob
 import os
 import re
+import urllib.parse
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -247,18 +248,33 @@ def load_docs():
 
 
 def short(summary, n=70):
-    """표에 넣을 짧은 요약: 첫 문장, 위키링크는 글자만 남긴다."""
+    """표에 넣을 짧은 요약: 첫 문장, 링크는 글자만 남긴다."""
     s = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", summary)
     s = re.sub(r"\[\[([^\]]+)\]\]", r"\1", s)
+    s = re.sub(r"\[((?:\\.|[^\]\\])+)\]\([^)]+\)", lambda m: re.sub(r"\\(.)", r"\1", m.group(1)), s)
     s = re.split(r"(?<!cat)(?<!eq)(?<!aq)\. ", s)[0]
     return s if len(s) <= n else s[: n - 1] + "…"
 
 
-def link(doc):
-    # 파일 이름과 제목이 다르면(예: Pd/C → Pd-C) 별칭 링크를 쓴다
-    if doc["file"] == doc["title"]:
-        return f"[[{doc['file']}]]"
-    return f"[[{doc['file']}|{doc['title']}]]"
+def url(path):
+    """마크다운 링크 주소: GitHub와 옵시디언이 모두 읽도록 공백과 괄호만 인코딩한다."""
+    return path.replace("%", "%25").replace(" ", "%20").replace("(", "%28").replace(")", "%29")
+
+
+def mdlink(text, target, from_dir):
+    """target(절대 경로)으로 가는 상대 경로 마크다운 링크. 글자 속 대괄호는 이스케이프한다."""
+    rel = os.path.relpath(target, from_dir).replace(os.sep, "/")
+    text = text.replace("[", "\\[").replace("]", "\\]")
+    return f"[{text}]({url(rel)})"
+
+
+def link(doc, from_dir=None):
+    """위키 문서로 가는 링크. 보이는 글자는 문서 제목(예: Pd-C 파일의 제목 Pd/C)."""
+    return mdlink(doc["title"], doc["path"], from_dir or WIKI)
+
+
+def hub(name, from_dir=None):
+    return mdlink(name, os.path.join(WIKI, name + ".md"), from_dir or WIKI)
 
 
 def build_front_page(docs):
@@ -274,7 +290,7 @@ def build_front_page(docs):
         "강의 순서가 필요하면 [README](../README.md)의 강의 노트(뼈대)를 본다. 강의 노트는 슬라이드 순서와 쪽수, "
         "그리고 이 문서들로 가는 링크만 담고 있다.",
         "",
-        "**모아 보기**: [[Test 1 범위]] · [[Test 2 범위]] · [[인명반응 목록]]. "
+        f"**모아 보기**: {hub('Test 1 범위')} · {hub('Test 2 범위')} · {hub('인명반응 목록')}. "
         "태그 창에서 `범위/`, `단원/`, `유형/`, `시약유형/`, `개념유형/`, `기출/`, `인명반응` 태그로도 골라 볼 수 있다.",
         "",
         "이 문서는 `tools/build_wiki_index.py`가 자동으로 만든다. 직접 고치지 말고 스크립트를 다시 실행한다.",
@@ -283,8 +299,9 @@ def build_front_page(docs):
     # 단원별 시작점: 개관 문서와, 다른 문서에서 가장 많이 링크되는 핵심 문서
     backlinks = {}
     for d in docs:
-        for target in set(re.findall(r"\[\[([^\]|#\\]+)", d.get("text", ""))):
-            backlinks[target.strip()] = backlinks.get(target.strip(), 0) + 1
+        for target in set(re.findall(r"\]\(([^)#]+\.md)\)", d.get("text", ""))):
+            stem = os.path.splitext(os.path.basename(urllib.parse.unquote(target)))[0]
+            backlinks[stem] = backlinks.get(stem, 0) + 1
     lines += ["## 단원별 시작점", "", "| 단원 | 개관 | 핵심 문서 |", "|---|---|---|"]
     for u in dict.fromkeys(UNIT.values()):
         lec = [n for n, v in UNIT.items() if v == u]
@@ -358,11 +375,11 @@ def update_lecture_notes(docs):
         n = int(re.match(r"L(\d+)_", os.path.basename(path)).group(1))
         related = [d for d in docs if n in d["lectures"]]
         text = open(path, encoding="utf-8").read()
-        block_lines = [START, "", "> **관련 위키 문서** ([[위키 대문]])"]
+        block_lines = [START, "", f"> **관련 위키 문서** ({hub('위키 대문', NOTES)})"]
         for cat in CATEGORIES:
             items = sorted((d for d in related if d["category"] == cat), key=lambda d: d["title"])
             if items:
-                block_lines.append(f"> - {cat}: " + ", ".join(link(d) for d in items))
+                block_lines.append(f"> - {cat}: " + ", ".join(link(d, NOTES) for d in items))
         block_lines += ["", END]
         block = "\n".join(block_lines)
         if START in text:
@@ -377,20 +394,20 @@ def update_lecture_notes(docs):
 
 
 def check_links(docs):
-    names = set()
-    for d in docs:
-        names |= {d["file"], d["title"], *d["aliases"]}
-    names |= {"위키 대문", "Test 1 범위", "Test 2 범위", "인명반응 목록"}
+    """wiki, notes, practice, README의 상대 경로 링크가 실제 파일을 가리키는지, 옵시디언 전용 [[ ]]가 남지 않았는지 본다."""
     broken = []
-    files = [d["path"] for d in docs] + glob.glob(os.path.join(NOTES, "*.md"))
-    for hub in ("위키 대문", "Test 1 범위", "Test 2 범위", "인명반응 목록"):
-        path = os.path.join(WIKI, hub + ".md")
-        if os.path.exists(path):
-            files.append(path)
+    files = glob.glob(os.path.join(WIKI, "**", "*.md"), recursive=True) + glob.glob(os.path.join(NOTES, "*.md")) \
+        + glob.glob(os.path.join(ROOT, "practice", "*.md")) + [os.path.join(ROOT, "README.md")]
     for path in files:
         text = open(path, encoding="utf-8").read()
-        for target in re.findall(r"\[\[([^\]|#\\]+)", text):
-            if target.strip() not in names:
+        text = re.sub(r"```.*?```|`[^`\n]*`", "", text, flags=re.S)  # 코드 안의 예시는 건너뛴다
+        for target in re.findall(r"\[\[([^\]]+)\]\]", text):
+            broken.append((os.path.relpath(path, ROOT), f"[[{target}]]"))
+        for target in re.findall(r"\]\(([^)\s]+)\)", text):
+            if re.match(r"[a-z]+:", target) or target.startswith("#"):
+                continue
+            dest = os.path.normpath(os.path.join(os.path.dirname(path), urllib.parse.unquote(target.split("#")[0])))
+            if not os.path.exists(dest):
                 broken.append((os.path.relpath(path, ROOT), target))
     return broken
 
@@ -403,9 +420,9 @@ def main():
         print("모음 문서:", ", ".join(build_hub_pages(docs)))
         print("강의 노트 갱신:", update_lecture_notes(docs))
     broken = check_links(docs)
-    print(f"위키 문서 {len(docs)}개, 깨진 위키링크 {len(broken)}개")
+    print(f"위키 문서 {len(docs)}개, 깨진 링크 {len(broken)}개")
     for path, target in broken:
-        print(f"  {path}: [[{target}]]")
+        print(f"  {path}: {target}")
     return 1 if broken else 0
 
 

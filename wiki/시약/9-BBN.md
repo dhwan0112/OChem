@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 단원/알켄-첨가, 강의/L02, 시약유�
 ---
 # 9-BBN
 
-> 9-borabicyclo[3.3.1]nonane. 부피가 큰 dialkylborane(R₂BH)으로, [[수소붕소화-산화|hydroboration-oxidation]]에서 [[보레인|BH₃]]보다 **regioselectivity가 훨씬 높다**.
+> 9-borabicyclo[3.3.1]nonane. 부피가 큰 dialkylborane(R₂BH)으로, [hydroboration-oxidation](../반응/수소붕소화-산화.md)에서 [BH₃](보레인.md)보다 **regioselectivity가 훨씬 높다**.
 
 ## 개요
 
@@ -36,9 +36,9 @@ BH₃의 regioselectivity는 B–H 극성에서 오는 전자 효과에 기댄�
 
 ## 관련 문서
 
-- 반응: [[수소붕소화-산화]]
-- 시약: [[보레인]]
-- 개념: [[마르코프니코프 규칙]]
+- 반응: [수소붕소화-산화](../반응/수소붕소화-산화.md)
+- 시약: [보레인](보레인.md)
+- 개념: [마르코프니코프 규칙](../개념/마르코프니코프%20규칙.md)
 
 ## 출처
 

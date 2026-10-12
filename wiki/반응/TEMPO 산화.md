@@ -11,7 +11,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ## 개요
 
-값싼 표백제(NaOCl)를 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, [[TEMPO]]라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 메틸이 N–O• 라디칼을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C). 슬라이드는 이 계를 "N–O" 산화제로 부른다. 더 나아가 구리와 함께 쓰면 공기 중 O₂를 terminal oxidant로 쓸 수도 있다(Stahl oxidation). (출처: L6c p.11, p.13)
+값싼 표백제(NaOCl)를 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, [TEMPO](../시약/TEMPO.md)라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 메틸이 N–O• 라디칼을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C). 슬라이드는 이 계를 "N–O" 산화제로 부른다. 더 나아가 구리와 함께 쓰면 공기 중 O₂를 terminal oxidant로 쓸 수도 있다(Stahl oxidation). (출처: L6c p.11, p.13)
 
 `RCH2OH + NaOCl --[CH2Cl2–H2O, NaHCO3, KBr (0.1 mol equiv), TEMPO (0.01 mol equiv), 0 °C]--> RCHO`
 
@@ -29,7 +29,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ![TEMPO 산화의 중간체 부가물(I)에서 분자 내 α-H 제거로 알데하이드와 하이드록실아민이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-*그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 lone pair가 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(alkoxy) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. [[알코올 산화]] 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.*
+*그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 lone pair가 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(alkoxy) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. [알코올 산화](알코올%20산화.md) 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.*
 
 ## Cu(I)/TEMPO 호기성 산화 (Stahl oxidation)
 
@@ -63,8 +63,8 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ## 관련 문서
 
-- 시약: [[TEMPO]], [[DMP]], [[TPAP]]
-- 반응: [[알코올 산화]], [[스원 산화]], [[피닉 산화]]
+- 시약: [TEMPO](../시약/TEMPO.md), [DMP](../시약/DMP.md), [TPAP](../시약/TPAP.md)
+- 반응: [알코올 산화](알코올%20산화.md), [스원 산화](스원%20산화.md), [피닉 산화](피닉%20산화.md)
 
 ## 출처
 

@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 ---
 # mCPBA
 
-> *meta*-chloroperoxybenzoic acid(*m*-ClC₆H₄CO₃H). alkene을 [[에폭시화|epoxide]]로 바꾸는 가장 흔한 peracid다.
+> *meta*-chloroperoxybenzoic acid(*m*-ClC₆H₄CO₃H). alkene을 [epoxide](../반응/에폭시화.md)로 바꾸는 가장 흔한 peracid다.
 
 ## 개요
 
@@ -17,8 +17,8 @@ peracid는 carboxylic acid의 C(=O)와 산성 H 사이에 산소가 하나 더 �
 
 | 기질 | 생성물 | 비고 |
 |---|---|---|
-| alkene | epoxide | stereospecific syn 산소 전달 ([[에폭시화]]) |
-| alkene → epoxide → H₂O/H⁺ | *trans*-1,2-diol | anti diol ([[에폭사이드 고리 열기]], [[다이하이드록실화]]) |
+| alkene | epoxide | stereospecific syn 산소 전달 ([에폭시화](../반응/에폭시화.md)) |
+| alkene → epoxide → H₂O/H⁺ | *trans*-1,2-diol | anti diol ([에폭사이드 고리 열기](../반응/에폭사이드%20고리%20열기.md), [다이하이드록실화](../반응/다이하이드록실화.md)) |
 
 예: `cyclohexene --[mCPBA]--> cyclohexene oxide (95%)` + *m*-chlorobenzoic acid. (출처: L1 p.14)
 
@@ -28,7 +28,7 @@ nucleophile이 말단 OH의 산소를 공격하면 O–O 결합이 끊어지면�
 
 ## 선택성
 
-- 전자가 풍부한(더 치환된) alkene일수록 빠르다(ethylene 1, 사치환 >6500). 그래서 1 당량만 쓰면 더 치환된 이중결합만 골라 epoxidation할 수 있다. 자세한 속도표와 보충은 [[에폭시화]]에 있다. (출처: L1 p.15) (보충 근거: Clayden p.431)
+- 전자가 풍부한(더 치환된) alkene일수록 빠르다(ethylene 1, 사치환 >6500). 그래서 1 당량만 쓰면 더 치환된 이중결합만 골라 epoxidation할 수 있다. 자세한 속도표와 보충은 [에폭시화](../반응/에폭시화.md)에 있다. (출처: L1 p.15) (보충 근거: Clayden p.431)
 
 ## 흔한 오해
 
@@ -36,8 +36,8 @@ nucleophile이 말단 OH의 산소를 공격하면 O–O 결합이 끊어지면�
 
 ## 관련 문서
 
-- 반응: [[에폭시화]], [[에폭사이드 고리 열기]], [[다이하이드록실화]]
-- 비교 시약: [[OsO4]] (syn diol을 바로 만든다)
+- 반응: [에폭시화](../반응/에폭시화.md), [에폭사이드 고리 열기](../반응/에폭사이드%20고리%20열기.md), [다이하이드록실화](../반응/다이하이드록실화.md)
+- 비교 시약: [OsO4](OsO4.md) (syn diol을 바로 만든다)
 
 ## 출처
 

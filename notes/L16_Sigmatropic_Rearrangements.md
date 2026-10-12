@@ -2,10 +2,10 @@
 
 <!-- wiki-links:start -->
 
-> **관련 위키 문서** ([[위키 대문]])
-> - 반응: [[1,5-수소 이동]], [[2,3-시그마트로픽 자리옮김]], [[시그마트로픽 자리옮김]], [[존스 산화]], [[코프 자리옮김]], [[클라이젠 자리옮김]], [[클라이젠 축합]]
-> - 시약: [[SeO2]]
-> - 개념: [[우드워드-호프만 규칙]], [[초면과 대면]], [[페리고리 반응]]
+> **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
+> - 반응: [1,5-수소 이동](../wiki/반응/1,5-수소%20이동.md), [2,3-시그마트로픽 자리옮김](../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md), [존스 산화](../wiki/반응/존스%20산화.md), [코프 자리옮김](../wiki/반응/코프%20자리옮김.md), [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md), [클라이젠 축합](../wiki/반응/클라이젠%20축합.md)
+> - 시약: [SeO2](../wiki/시약/SeO2.md)
+> - 개념: [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md), [초면과 대면](../wiki/개념/초면과%20대면.md), [페리고리 반응](../wiki/개념/페리고리%20반응.md)
 
 <!-- wiki-links:end -->
 
@@ -23,68 +23,68 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 
 ### 1. 시그마트로픽 자리옮김이란 무엇인가 (Clayden p.910, p.917, p.919, p.922)
 - 세 갈래는 Δσ로 나뉜다(cycloaddition ±2, sigmatropic 0, electrocyclic ±1). [i,j]는 옛 σ 결합과 새 σ 결합의 위치 번호이고 TS 고리 크기 = i + j다.
-- → [[시그마트로픽 자리옮김]]
+- → [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 2. 클라이젠 자리옮김: 처음 발견된 [3,3] (Clayden p.909–912)
 - allyl aryl/vinyl ether → γ,δ-불포화 카보닐. 알릴기가 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
-- → [[클라이젠 자리옮김|Claisen rearrangement]], [[아세탈 형성]]
+- → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [아세탈 형성](../wiki/반응/아세탈%20형성.md)
 
 ### 3. 의자형 전이 상태: 왜 *E* 알켄이 생기나 (Clayden p.910–911)
 - chair형 TS에서 치환기 R이 equatorial 자리를 택하고 그대로 *E* 알켄이 된다.
-- → [[클라이젠 자리옮김]]
+- → [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md)
 
 ### 4. 우드워드-호프만 규칙으로 [3,3]을 판정하기 (Clayden p.912–913)
 - π2s + σ2a + π2a, (4q+2)s 하나로 합 1 → 열적 허용. σ 결합의 s/a는 보존/반전으로 정하고, 꼬리표를 달리 붙여도 홀짝은 같다.
-- → [[클라이젠 자리옮김]], [[시그마트로픽 자리옮김]], [[우드워드-호프만 규칙]]
+- → [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md), [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md), [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md)
 
 ### 5. 방향: 규칙은 "허용"만 말하고 "어느 쪽"은 말하지 않는다 (Clayden p.913, p.923)
 - Claisen은 C=O + C–C가 C=C + C–O보다 안정해서 카보닐 쪽으로 간다. 허용은 Woodward–Hoffmann, 방향은 열역학.
-- → [[클라이젠 자리옮김]], [[시그마트로픽 자리옮김]]
+- → [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md), [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 6. 코프 자리옮김 (Clayden p.913–915)
 - 모체는 축퇴 반응이라 미는 힘이 필요하다: oxy-Cope(enol → C=O), anionic oxy-Cope(KH, 빠름), 고리 긴장, 더 치환된 알켄. Ireland–Claisen과 citral 공업 합성(Claisen → Cope).
-- → [[코프 자리옮김|Cope rearrangement]], [[클라이젠 자리옮김|Ireland–Claisen]]
+- → [Cope rearrangement](../wiki/반응/코프%20자리옮김.md), [Ireland–Claisen](../wiki/반응/클라이젠%20자리옮김.md)
 
 ### 7. 다른 원소가 낀 [3,3] 자리옮김 (Clayden p.916–917)
 - Fischer indole 합성(약한 N–N 결합이 끊어지는 [3,3]), 크로뮴산 에스터의 [3,3]으로 3차 allylic alcohol → 자리 옮긴 enone.
-- → [[시그마트로픽 자리옮김]]
+- → [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 8. [2,3] 시그마트로픽 자리옮김 (Clayden p.917–919)
 - 5원자 TS, carbanion 또는 S·Se가 낀다. ω 성분으로 ω2a + σ2s + π2a. benzyl allyl ether 음이온, 설펜산 에스터 ⇌ 알릴 설폭사이드, SeO2 알릴 산화.
-- → [[2,3-시그마트로픽 자리옮김]], [[SeO2]]
+- → [2,3-시그마트로픽 자리옮김](../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [SeO2](../wiki/시약/SeO2.md)
 
 ### 9. [1,5] 시그마트로픽 수소 이동 (Clayden p.919–921)
 - suprafacial로 쉽게 일어나며(π4s + σ2s), 5-치환 cyclopentadiene이 이성질화해 Diels–Alder 혼합물을 준다.
-- → [[1,5-수소 이동]]
+- → [1,5-수소 이동](../wiki/반응/1,5-수소%20이동.md)
 
 ### 10. [1,3]H와 [1,7]H: 사슬 길이가 초면/대면을 바꾼다 (Clayden p.921–922)
 - 열적으로 [1,3]H는 antarafacial만 허용이지만 기하상 불가, [1,7]H는 antarafacial로 가능(비타민 D). 광화학에서는 뒤집힌다.
-- → [[1,5-수소 이동]], [[전자고리화 반응]](비타민 D의 빛 단계)
+- → [1,5-수소 이동](../wiki/반응/1,5-수소%20이동.md), [전자고리화 반응](../wiki/반응/전자고리화%20반응.md)(비타민 D의 빛 단계)
 
 ### 11. 한 장 정리: 시그마트로픽 반응의 허용 판정 (Clayden p.912–913, p.918, p.921)
 - [3,3], [2,3], [1,5]H, [1,3]H, [1,7]H의 TS 고리 크기와 Woodward–Hoffmann 기술 표.
-- → [[시그마트로픽 자리옮김]]
+- → [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ## 반응 요약표
 
 | 반응 | 출발물 → 생성물 | 조건 | 추진력 | 문서 |
 |---|---|---|---|---|
-| 방향족 Claisen | allyl aryl ether → *o*-allylphenol | 가열 | 방향족성 회복 | [[클라이젠 자리옮김]] |
-| 지방족 Claisen | allyl vinyl ether → γ,δ-불포화 알데하이드 (*E*) | 가열 | C=O 생성 | [[클라이젠 자리옮김]] |
-| acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → γ,δ-불포화 알데하이드 | EtCO2H, 가열 | C=O 생성 | [[클라이젠 자리옮김]] |
-| 오쏘에스터·오쏘아마이드 변형 | → γ,δ-불포화 에스터·아마이드 | 산, 가열 | C=O 생성 | [[클라이젠 자리옮김]] |
-| Ireland–Claisen | allyl ester → γ,δ-불포화 카복실산 (*E*) | LDA(Me3SiCl); H⁺/H2O | 카복실레이트 생성 | [[클라이젠 자리옮김]] |
-| Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | 없음(축퇴) | [[코프 자리옮김]] |
-| oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | enol·enolate → C=O | [[코프 자리옮김]] |
-| 긴장 해소 Cope | 3원 고리 포함 1,5-diene → 고리 확장 | 33 °C, 36 h | 고리 긴장 해소 | [[코프 자리옮김]] |
-| citral 합성 | enol ether → (Claisen) → (Cope) → citral | 가열 | C=O, conjugation, 삼치환 알켄 | [[코프 자리옮김]] |
-| Fischer indole | 페닐하이드라존 → indole | 약산, 가열 | N–N 절단, 방향족화 | [[시그마트로픽 자리옮김]] |
-| 크로뮴산 에스터 [3,3] | 3차 allylic alcohol → 자리 옮긴 enone | CrO3, H⁺ | Cr(VI) 산화 | [[시그마트로픽 자리옮김]] |
-| [2,3] carbanion | benzyl allyl ether → homoallylic alcohol (*E*) | BuLi; H⁺ | carbanion → 알콕사이드 | [[2,3-시그마트로픽 자리옮김]] |
-| [2,3] 황 (정·역) | allylic alcohol ⇌ 설펜산 에스터 ⇌ 알릴 설폭사이드 | PhSCl, 피리딘 / (MeO)3P, MeOH | S=O 생성 / 친황 포획 | [[2,3-시그마트로픽 자리옮김]] |
-| SeO2 알릴 산화 | 알켄 → allylic alcohol / enal | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | [[2,3-시그마트로픽 자리옮김]] |
-| [1,5]H 이동 | 5-R-cyclopentadiene ⇌ 1-R, 2-R 이성질체 | 빠른 평형 | 더 치환된 diene | [[1,5-수소 이동]] |
-| [1,7]H 이동 | 프로비타민 D2 → 비타민 D2 | 열(빛 불필요), antarafacial | – | [[1,5-수소 이동]] |
+| 방향족 Claisen | allyl aryl ether → *o*-allylphenol | 가열 | 방향족성 회복 | [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md) |
+| 지방족 Claisen | allyl vinyl ether → γ,δ-불포화 알데하이드 (*E*) | 가열 | C=O 생성 | [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md) |
+| acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → γ,δ-불포화 알데하이드 | EtCO2H, 가열 | C=O 생성 | [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md) |
+| 오쏘에스터·오쏘아마이드 변형 | → γ,δ-불포화 에스터·아마이드 | 산, 가열 | C=O 생성 | [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md) |
+| Ireland–Claisen | allyl ester → γ,δ-불포화 카복실산 (*E*) | LDA(Me3SiCl); H⁺/H2O | 카복실레이트 생성 | [클라이젠 자리옮김](../wiki/반응/클라이젠%20자리옮김.md) |
+| Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | 없음(축퇴) | [코프 자리옮김](../wiki/반응/코프%20자리옮김.md) |
+| oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | enol·enolate → C=O | [코프 자리옮김](../wiki/반응/코프%20자리옮김.md) |
+| 긴장 해소 Cope | 3원 고리 포함 1,5-diene → 고리 확장 | 33 °C, 36 h | 고리 긴장 해소 | [코프 자리옮김](../wiki/반응/코프%20자리옮김.md) |
+| citral 합성 | enol ether → (Claisen) → (Cope) → citral | 가열 | C=O, conjugation, 삼치환 알켄 | [코프 자리옮김](../wiki/반응/코프%20자리옮김.md) |
+| Fischer indole | 페닐하이드라존 → indole | 약산, 가열 | N–N 절단, 방향족화 | [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md) |
+| 크로뮴산 에스터 [3,3] | 3차 allylic alcohol → 자리 옮긴 enone | CrO3, H⁺ | Cr(VI) 산화 | [시그마트로픽 자리옮김](../wiki/반응/시그마트로픽%20자리옮김.md) |
+| [2,3] carbanion | benzyl allyl ether → homoallylic alcohol (*E*) | BuLi; H⁺ | carbanion → 알콕사이드 | [2,3-시그마트로픽 자리옮김](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| [2,3] 황 (정·역) | allylic alcohol ⇌ 설펜산 에스터 ⇌ 알릴 설폭사이드 | PhSCl, 피리딘 / (MeO)3P, MeOH | S=O 생성 / 친황 포획 | [2,3-시그마트로픽 자리옮김](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| SeO2 알릴 산화 | 알켄 → allylic alcohol / enal | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | [2,3-시그마트로픽 자리옮김](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| [1,5]H 이동 | 5-R-cyclopentadiene ⇌ 1-R, 2-R 이성질체 | 빠른 평형 | 더 치환된 diene | [1,5-수소 이동](../wiki/반응/1,5-수소%20이동.md) |
+| [1,7]H 이동 | 프로비타민 D2 → 비타민 D2 | 열(빛 불필요), antarafacial | – | [1,5-수소 이동](../wiki/반응/1,5-수소%20이동.md) |
 
 (출처: Clayden p.909–922)
 
