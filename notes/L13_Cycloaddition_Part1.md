@@ -79,13 +79,15 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 - butadiene + acrolein --[150 °C, 0.5 h]--> cyclohex-3-ene-1-carbaldehyde
 - butadiene + CH2=C(COOMe)2 --[25 °C, 24 h]--> dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%)
 
-EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 불포화 sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
+EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 보충: 짝지음 기가 없는 단순 알켄이 얼마나 나쁜 dienophile인지는 cyclopentadiene에서 잘 드러난다. 반응성이 아주 큰 이 다이엔에 단순 알켄을 섞어 가열해도 알켄과는 거의 반응하지 않고, cyclopentadiene끼리 먼저 이량화해 버린다(5-4절). (보충 근거: Clayden p.880) 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 불포화 sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
 
 ### 5-2. 다이엔: 전자가 풍부하고, s-cis여야 한다
 
 다이엔 쪽은 반대다. 전자 주는 기(EDG)가 붙은 전자 풍부 다이엔이 중성이거나 전자가 부족한 다이엔보다 빠르다. 그래서 가장 이상적인 짝은 "EDG-다이엔 + EWG-dienophile"이다. 왜 그런지는 7절의 FMO에서 설명한다.
 
-그런데 다이엔에는 전자 말고도 중요한 조건이 하나 더 있다. 바로 모양이다. butadiene의 C2–C3 단일 결합은 회전할 수 있어서 두 가지 형태를 오간다. 두 C=C가 반대쪽을 향한 s-trans 형태는 더 안정하지만, C1과 C4가 멀리 떨어져 있어 dienophile의 양 끝에 동시에 닿을 수 없다. 두 C=C가 같은 쪽을 향한 s-cis 형태에서만 C1과 C4가 가까워져 반응할 수 있다. 비유하자면 dienophile을 양손으로 잡으려면 두 팔을 같은 방향으로 뻗어야 하는 셈이다. 두 형태는 빠르게 서로 바뀌므로 s-cis 분자가 반응해 없어지면 평형이 다시 채워 준다. 하지만 butadiene은 상온에서 겨우 1%만 s-cis 형태로 존재한다(슬라이드 수치). 예를 들어 butadiene(s-cis) + methyl acrylate는 methyl cyclohex-3-ene-1-carboxylate를 준다. (출처: L13 p.15)
+그런데 다이엔에는 전자 말고도 중요한 조건이 하나 더 있다. 바로 모양이다. butadiene의 C2–C3 단일 결합은 회전할 수 있어서 두 가지 형태를 오간다. 두 C=C가 반대쪽을 향한 s-trans 형태는 더 안정하지만, C1과 C4가 멀리 떨어져 있어 dienophile의 양 끝에 동시에 닿을 수 없다. 두 C=C가 같은 쪽을 향한 s-cis 형태에서만 C1과 C4가 가까워져 반응할 수 있다. 비유하자면 dienophile을 양손으로 잡으려면 두 팔을 같은 방향으로 뻗어야 하는 셈이다. 두 형태는 빠르게 서로 바뀌므로 s-cis 분자가 반응해 없어지면 평형이 다시 채워 준다. 하지만 butadiene은 상온에서 겨우 1%만 s-cis 형태로 존재한다(슬라이드 수치). 예를 들어 butadiene(s-cis) + methyl acrylate는 methyl cyclohex-3-ene-1-carboxylate를 준다.
+
+보충: s-trans가 더 안정한데도 반응이 되는 것은 C2–C3 회전 장벽이 약 30 kJ/mol로 작아서 s-cis로 넘어가는 일이 상온에서도 빠르기 때문이다. 같은 논리로 치환기가 s-cis를 방해하는지 돕는지가 속도를 바꾼다. (Z,Z)-hexa-2,4-diene처럼 말단 치환기가 "in" 자리에 놓이면 s-cis에서 두 치환기가 부딪혀 butadiene보다 느리고, (E,E)-hexa-2,4-diene("out" 치환기)은 butadiene과 비슷하며, 2,3-dimethylbutadiene처럼 가운데 치환기는 오히려 s-trans를 불안정하게 해서 더 빠르다. (보충 근거: Clayden p.879; Wade p.687) (출처: L13 p.15)
 
 ![butadiene의 s-trans와 s-cis 형태: s-cis만 methyl acrylate와 DA 반응을 할 수 있다](../figures/L13/s_cis_s_trans.svg)
 
@@ -93,13 +95,17 @@ EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응�
 
 ### 5-3. 고리형 다이엔: 처음부터 s-cis로 고정된 다이엔
 
-그렇다면 처음부터 s-cis로 묶여 있는 다이엔은 어떨까? 예상대로 반응성이 매우 크다. cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane("exo-methylene" 다이엔)은 고리 때문에 s-cis로 고정되어 있어서 사슬형 다이엔보다 훨씬 반응성이 크다. 예를 들어 cyclopentadiene + acrolein은 20 °C에서 68 h 만에 5-norbornene-2-carbaldehyde를 92%로 준다. 슬라이드에서는 CHO가 CH2 다리의 반대쪽(endo)으로 그려져 있다. 반대로 3-methylenecyclohexene이나, 두 C=C가 서로 다른 고리에 걸쳐 transoid로 고정된 이중 고리 다이엔처럼 s-trans로 묶여 있는 다이엔은 아무리 가열해도 DA 반응을 할 수 없다. s-cis 형태를 취할 수 없는 다이엔은 DA 반응에 참여하지 못한다. (출처: L13 p.16)
+그렇다면 처음부터 s-cis로 묶여 있는 다이엔은 어떨까? 예상대로 반응성이 매우 크다. cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane("exo-methylene" 다이엔)은 고리 때문에 s-cis로 고정되어 있어서 사슬형 다이엔보다 훨씬 반응성이 크다. 예를 들어 cyclopentadiene + acrolein은 20 °C에서 68 h 만에 5-norbornene-2-carbaldehyde를 92%로 준다. 슬라이드에서는 CHO가 CH2 다리의 반대쪽(endo)으로 그려져 있다. 반대로 3-methylenecyclohexene이나, 두 C=C가 서로 다른 고리에 걸쳐 transoid로 고정된 이중 고리 다이엔처럼 s-trans로 묶여 있는 다이엔은 아무리 가열해도 DA 반응을 할 수 없다. s-cis 형태를 취할 수 없는 다이엔은 DA 반응에 참여하지 못한다.
+
+보충: s-trans 고정 다이엔이 안 되는 이유는 "두 끝이 멀어서"만이 아니다. DA에서 다이엔 가운데의 σ 결합(C2–C3)은 생성물의 새 π 결합이 되고, 그 σ 결합의 형태(s-cis/s-trans)가 그대로 새 C=C의 배열(cis/trans)이 된다. s-trans로 반응한다면 6원자 고리 안에 trans C=C가 생겨야 하는데, 이것은 불가능한 구조다. (보충 근거: Clayden p.880) (출처: L13 p.16)
 
 p.17의 연습 문제(생성물에서 다이엔과 dienophile 찾기)는 아래 연습 문제 1, 2로 옮겼다. (출처: L13 p.17)
 
 ### 5-4. Cyclopentadiene 이야기: DA 반응은 되돌아갈 수도 있다
 
 cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로 자기 자신과 반응한다는 것이다. 한 분자는 다이엔, 다른 분자는 dienophile로 DA 반응을 해서, 상온에서는 이량체(dicyclopentadiene)로 존재한다. 그럼 단량체는 어떻게 얻을까? 이량체를 가열해 "분해(crack)"하면 된다. DA 반응은 가역적일 수 있으므로, 가열하면 역 DA(retro-Diels–Alder) 반응이 일어난다. 이때 끓는점이 낮은 단량체(b.p. 42 °C)를 증류로 빼내면 평형이 계속 단량체 쪽으로 밀린다. 이렇게 얻은 단량체는 −20 °C에서 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 다시 이량화한다.
+
+보충: 왜 가열하면 거꾸로 갈까? DA는 두 분자가 한 분자가 되는 반응이라 엔트로피 면에서는 불리하다(ΔS < 0). 상온에서는 강한 σ 결합 두 개를 얻는 엔탈피 이득이 이겨서 평형이 생성물 쪽에 있지만, 온도를 올리면 −TΔS 항의 비중이 커져 해리(역 DA) 쪽이 유리해진다. 고리화 첨가의 평형이 보통 생성물 쪽에 치우치는 이유가 "C–C σ 결합이 C–C π 결합보다 강하기 때문"이라는 점과 짝을 이루는 설명이다. (보충 근거: Clayden p.880, 907)
 
 ![dicyclopentadiene의 역 Diels–Alder 반응: 가열하면 cyclopentadiene 두 분자로 갈라진다](../figures/L13/retro_da_dcpd.svg)
 
@@ -128,7 +134,9 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 다이엔 쪽 치환기는 어떻게 될까? s-cis 형태의 다이엔을 그려 보면, 말단 탄소(C1, C4)의 치환기는 고리 안쪽을 향해 서로 마주 보는 "in" 자리와 바깥쪽을 향하는 "out" 자리 가운데 하나에 놓인다. 규칙은 단순하다. "in" 두 개는 생성물에서 1,4-cis가 되고, "out" 두 개도 서로 1,4-cis가 된다. 그러니 "in" 하나와 "out" 하나는 trans가 된다.
 
-예를 들어 (E,E)-1,4-diphenyl-1,3-butadiene은 두 Ph가 모두 "out"이다. 그래서 dimethyl acetylenedicarboxylate(DMAD, MeO2C-C≡C-CO2Me)와 반응하면 두 Ph가 cis인 3,6-diphenylcyclohexa-1,4-diene-1,2-diester가 생긴다. 반면 (E,Z) 다이엔(R 하나는 "in", 하나는 "out")은 두 R이 trans인 생성물을 준다. dienophile이 알카인이면 원래 삼중 결합 자리에 C=C가 하나 남으므로, 생성물은 cyclohexene이 아니라 cyclohexa-1,4-diene이다. (출처: L13 p.20)
+예를 들어 (E,E)-1,4-diphenyl-1,3-butadiene은 두 Ph가 모두 "out"이다. 그래서 dimethyl acetylenedicarboxylate(DMAD, MeO2C-C≡C-CO2Me)와 반응하면 두 Ph가 cis인 3,6-diphenylcyclohexa-1,4-diene-1,2-diester가 생긴다. 반면 (E,Z) 다이엔(R 하나는 "in", 하나는 "out")은 두 R이 trans인 생성물을 준다. dienophile이 알카인이면 원래 삼중 결합 자리에 C=C가 하나 남으므로, 생성물은 cyclohexene이 아니라 cyclohexa-1,4-diene이다.
+
+보충: "trans,trans 다이엔인데 왜 cis 생성물이 나오나?"가 헷갈린다면 대칭으로 확인하면 된다. (E,E)-다이엔 + DMAD는 반응물 전체에 다이엔 가운데를 지나는 거울면이 하나 있다. 반응이 협동적이라 치환기가 도중에 자리를 옮길 수 없으므로, 생성물도 같은 거울면을 가져야 하고 그러려면 두 Ph가 같은 쪽(cis, meso형)이어야 한다. (E,Z)-다이엔은 처음부터 이 대칭이 없으므로 두 치환기가 반대쪽에 놓인다. 또 dienophile은 다이엔 평면 안이 아니라 아래에서 다가오므로 "in" 치환기가 있어도 반응 자체는 막히지 않는다(다만 s-cis를 방해해 느려진다, 5-2절 보충). (보충 근거: Clayden p.883) (출처: L13 p.20)
 
 ### 6-3. Endo 규칙: 두 반응물 사이의 입체선택성
 
@@ -140,9 +148,13 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 *그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.*
 
-좀 더 기하학적으로 보면, TS에서 평면인 다이엔과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 다이엔 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 카보닐 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 입체이성질체가 섞여 나오는 경우도 많다.[7] (출처: L13 p.22)
+좀 더 기하학적으로 보면, TS에서 평면인 다이엔과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 다이엔 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 카보닐 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 입체이성질체가 섞여 나오는 경우도 많다.[7]
 
-p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)는 연습 문제 3으로 옮겼다. 슬라이드 p.24에 풀이가 있다. 카보닐이 다이엔 아래로 들어간(tucked under) endo TS를 거치면 세 H가 한 면에 모이므로, CHO와 두 Me가 모두 cis인 all-cis 생성물이 생긴다. (출처: L13 p.23–24)
+보충: endo가 속도론적 생성물이라는 증거는 가역적인 DA에서 나온다. cyclopentadiene 대신 furan을 maleic anhydride와 반응시키면 DA가 가역적으로 일어나 평형(열역학적 지배)에 이르고, 이때는 exo 부가물이 얻어진다. exo가 더 안정한 이유는 다리 걸친 고리에서 무수물 고리가 원자 하나짜리 다리(O 또는 CH2) 쪽을 향하는 것이 원자 두 개짜리 다리(C=C 쪽) 쪽을 향하는 것보다 입체 장애가 작기 때문이다. 또 분자 내 DA에서는 두 반응 부위가 이미 묶여 있어 2차 오비탈 겹침의 도움이 덜 중요해지므로, 사슬이 접히기 편한 쪽을 따라 exo가 나오기도 한다. 즉 endo 규칙은 분자 간·비가역 반응에서 가장 믿을 만하다. (보충 근거: Clayden p.884, 888–889) (출처: L13 p.22)
+
+p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)는 연습 문제 3으로 옮겼다. 슬라이드 p.24에 풀이가 있다. 카보닐이 다이엔 아래로 들어간(tucked under) endo TS를 거치면 세 H가 한 면에 모이므로, CHO와 두 Me가 모두 cis인 all-cis 생성물이 생긴다.
+
+보충: 교재는 이런 문제를 푸는 순서를 다음처럼 제시한다. (1) 먼저 평면 구조로 메커니즘과 후보 생성물을 그리고 이미 아는 입체화학(여기서는 out/out → 두 Me cis)을 표시한다. (2) 다이엔을 위에, dienophile을 아래에 겹쳐 그리되 C=O가 다이엔 밑으로 들어가게(tucked under) 놓는다. (3) 새 입체중심이 될 탄소에 H를 모두 그려 넣는다. (4) 고리를 펴서 그리면 같은 방향을 향하던 H들이 모두 고리의 한 면에 모인다. (5) 나머지 치환기를 반대 면에 그린다. 이 순서를 따르면 슬라이드 p.24의 all-cis 답이 그대로 나온다. (보충 근거: Clayden p.885) (출처: L13 p.23–24)
 
 ## 7. 왜 그런가: 분자 오비탈로 다시 보기
 
@@ -156,7 +168,9 @@ butadiene은 이 알켄 두 개의 π와 π*를 섞어 만든다고 생각하면
 
 FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전자가 흘러가는 상호작용으로 시작되고, 두 오비탈의 에너지가 가까울수록 상호작용이 강하다. DA에서 가능한 짝은 두 가지다. 다이엔 HOMO(ψ2)와 dienophile LUMO(π*)의 짝은 에너지 차이가 작아 겹침이 좋다. 반대로 다이엔 LUMO(ψ3)와 dienophile HOMO(π)의 짝은 에너지 차이가 커서 겹침이 나쁘다. 그래서 주된 상호작용은 앞의 짝이다.
 
-이제 답이 나온다. 다이엔에 EDG를 붙이면 HOMO가 올라가고, dienophile에 EWG를 붙이면 LUMO가 내려간다. 둘 다 HOMO(다이엔)–LUMO(dienophile) 사이 간격을 좁혀 TS를 안정화하므로 반응이 빨라진다. ethylene이 900 atm을 요구했던 것도, acrolein이나 maleic anhydride가 쉽게 반응하는 것도 같은 이유다.[8] (출처: L13 p.27)
+이제 답이 나온다. 다이엔에 EDG를 붙이면 HOMO가 올라가고, dienophile에 EWG를 붙이면 LUMO가 내려간다. 둘 다 HOMO(다이엔)–LUMO(dienophile) 사이 간격을 좁혀 TS를 안정화하므로 반응이 빨라진다. ethylene이 900 atm을 요구했던 것도, acrolein이나 maleic anhydride가 쉽게 반응하는 것도 같은 이유다.[8]
+
+보충: 여기서 헷갈리기 쉬운 점이 있다. 두 짝 가운데 하나를 고르는 기준은 **대칭이 아니라 에너지**다. 다이엔 ψ2(가운데 마디 1개)와 dienophile π*(마디 1개)도, 다이엔 ψ3(마디 2개)와 dienophile π(마디 0개)도 양 끝의 위상 관계가 같아서 둘 다 대칭은 맞는다. 단지 앞의 짝이 에너지가 더 가까워 주도할 뿐이다. 반대로 알켄 + 알켄(예: 알켄 + maleic anhydride를 가열)에서는 HOMO/LUMO를 어느 쪽으로 짝지어도 한쪽 끝이 반결합성이라, 에너지를 아무리 맞춰도 열적으로는 반응하지 않는다(→ [L14](L14_Cycloaddition_Part2.md) 광화학 [2+2]). (보충 근거: Clayden p.886) (출처: L13 p.27)
 
 ### 7-3. 오비탈로 본 입체특이성
 
@@ -168,7 +182,9 @@ endo 선호는 cyclopentadiene 이량화를 예로 설명한다. 두 cyclopentad
 
 ### 7-5. 그럼 다이엔 두 개는 왜 [4+4]를 하지 않을까?
 
-butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 생기지만, [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 같은 다이엔 두 개인데 왜 한쪽만 될까? 오비탈을 겹쳐 보면 답이 보인다. [4+2]에서는 한 분자의 HOMO(ψ2)와 다른 분자의 LUMO(dienophile 역할을 하는 C=C 부분)의 양 끝이 모두 위상이 맞아 결합성이다. 그런데 [4+4]에서는 HOMO(ψ2)와 다른 분자의 LUMO(ψ3)를 겹치면, 한쪽 끝은 결합성이지만 다른 끝은 위상이 어긋나 반결합성이다. 두 결합을 동시에 만들 수 없으므로 열적으로는 진행되지 않는다. (출처: L13 p.30)
+butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 생기지만, [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 같은 다이엔 두 개인데 왜 한쪽만 될까? 오비탈을 겹쳐 보면 답이 보인다. [4+2]에서는 한 분자의 HOMO(ψ2)와 다른 분자의 LUMO(dienophile 역할을 하는 C=C 부분)의 양 끝이 모두 위상이 맞아 결합성이다. 그런데 [4+4]에서는 HOMO(ψ2)와 다른 분자의 LUMO(ψ3)를 겹치면, 한쪽 끝은 결합성이지만 다른 끝은 위상이 어긋나 반결합성이다. 두 결합을 동시에 만들 수 없으므로 열적으로는 진행되지 않는다.
+
+보충: "열적으로는"이라는 단서가 중요하다. 같은 [4+4]가 광화학 조건이나 Ni(0) 같은 전이 금속 촉매를 쓰면 가능하다. 광화학 조건에서 선택 규칙이 뒤집히는 이유는 [L14](L14_Cycloaddition_Part2.md)의 광화학 [2+2]와 같다. (보충 근거: Clayden p.887; Wade p.695) (출처: L13 p.30)
 
 정리 슬라이드는 지금까지의 흐름을 다섯 줄로 요약한다. DA는 다이엔과 알켄이 cyclohexene을 만드는 반응이고, 메커니즘은 협동적이며 고리형 TS를 거친다. 속도는 전자 풍부 다이엔과 전자 부족 dienophile일수록 빠르다. 입체화학은 반응물 안에서는 입체특이성, 두 반응물 사이에서는 입체선택성(endo TS)으로 정해지고, 이는 FMO로 설명된다. Woodward–Hoffmann 규칙으로 반응성을 예측하는 부분은 회색으로 처리되어 있어 다음 강의로 넘어가는 것으로 보인다. (출처: L13 p.31)
 
@@ -180,7 +196,9 @@ FMO 그림을 매번 그리지 않고도 반응이 허용되는지 판단할 방
 
 용어도 정리해 두자. 초면(suprafacial) 성분은 양 끝에서 같은 면으로 새 결합을 만드는 성분이고, 대면(antarafacial) 성분은 양 끝에서 서로 반대 면으로 새 결합을 만드는 성분이다. (출처: L13 p.34)
 
-이제 DA에 적용해 보자. DA는 [π4s + π2s]다. (4q+2)s에 해당하는 것은 알켄(π2s) 1개다. (4r)a에 해당하는 성분은 없다. 다이엔 π4는 초면이므로 (4r)s이고, 세는 대상이 아니다. 합이 1, 즉 홀수이므로 허용된 반응이다. 기하학적으로는 앞에서 본 초면-초면 접근 그대로다. (출처: L13 p.35)
+이제 DA에 적용해 보자. DA는 [π4s + π2s]다. (4q+2)s에 해당하는 것은 알켄(π2s) 1개다. (4r)a에 해당하는 성분은 없다. 다이엔 π4는 초면이므로 (4r)s이고, 세는 대상이 아니다. 합이 1, 즉 홀수이므로 허용된 반응이다. 기하학적으로는 앞에서 본 초면-초면 접근 그대로다.
+
+보충: Woodward–Hoffmann 규칙과 FMO는 역할이 다르다. 규칙은 "열적으로 허용되는가"만 답하고, endo 선택성이나 위치선택성은 설명하지 못한다. 그것은 HOMO/LUMO의 크기와 계수를 보는 FMO의 몫이다. 또 규칙을 적용할 때 그리는 오비탈은 각 성분 양 끝의 "색칠하지 않은" p 오비탈일 뿐 HOMO나 LUMO가 아니므로, 두 방법의 그림을 한 그림에 섞지 않는 것이 좋다. (보충 근거: Clayden p.892–893) (출처: L13 p.35)
 
 p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지됨을 보이기)는 연습 문제 7로 옮겼다. (출처: L13 p.36)
 
@@ -199,7 +217,9 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 - **"π4s도 Woodward–Hoffmann 계산에 넣는다"고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a만 센다. DA [π4s+π2s]의 합은 1(허용), [π4s+π4s]의 합은 0(금지)이다. 또 '허용'은 일어날 수 있다는 뜻이지 반드시 일어난다는 뜻이 아니다. (p.33–35)
 - **"DA로 생긴 고리는 영원하다"고 생각하기 쉽지만 사실은** DA는 가역적일 수 있다. dicyclopentadiene을 가열·증류하면 역 DA로 단량체가 나온다. (p.18)
 - **"DA 생성물은 언제나 cyclohexene"이라고 생각하기 쉽지만 사실은** 알카인 dienophile(DMAD 등)을 쓰면 cyclohexa-1,4-diene이 생긴다. (p.20)
-- **역합성 요령:** 생성물 고리의 C=C를 C2=C3로 놓고, 그 양옆 탄소 C1, C4에서 다음 결합(C1–C6, C4–C5)을 끊으면 다이엔과 dienophile이 나온다. (p.17)
+- **역합성 요령:** 생성물 고리의 C=C를 C2=C3로 놓고, 그 양옆 탄소 C1, C4에서 다음 결합(C1–C6, C4–C5)을 끊으면 다이엔과 dienophile이 나온다. (p.17) 보충: DA 생성물인지 알아보는 세 가지 표지는 (1) 6원자 고리, (2) 고리 안의 C=C, (3) 그 C=C의 맞은편(고리 밖)에 붙은 짝지음 기(EWG)다. 세 가지가 다 보이면 DA 역합성을 먼저 시도한다. (보충 근거: Clayden p.881)
+- **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** 홀수여야 하는 것은 (4q+2)s와 (4r)a에 해당하는 **성분의 개수**다. DA의 전자 수 6은 짝수지만 세는 성분은 1개라 허용이다. (보충 근거: Clayden p.892)
+- **"endo는 언제나 열역학적으로도 유리하다"고 생각하기 쉽지만 사실은** endo는 대개 덜 안정한 속도론적 생성물이다. 가역 조건(furan + maleic anhydride)에서는 더 안정한 exo가 얻어진다. (보충 근거: Clayden p.884)
 
 ## 반응 정리표
 
@@ -265,7 +285,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 [4] 보충: 엄밀히 세면 π 결합 3개가 끊어지고, π 결합 1개(C2=C3)와 σ 결합 2개가 새로 생긴다. 순수하게 보면 π 결합 2개가 σ 결합 2개로 바뀐 셈이다. (보충 근거: Clayden p.878) (출처: L13 p.10)
 
-[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니어서, dienophile을 활성화하는 효과가 상대적으로 작다. Clayden의 딜스-알더 위치선택성 요약표도 할로젠과 아릴을 Z(전자 끄는 기, CHO·COR·CO2R·CN·NO2) 쪽이 아니라 X(전자 주는 기 또는 짝지음 기) 쪽에 넣는다. (보충 근거: Clayden p.890) Ph는 짝지음으로, Cl은 주로 유발 효과로 작용한다는 설명은 이 교재에서 직접 확인되지 않는다. (출처: L13 p.14)
+[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니어서, dienophile을 활성화하는 효과가 상대적으로 작다. 그래도 Clayden은 dienophile에 "최소한 페닐기나 염소 원자 정도의 추가 짝지음"이 있어야 고리화 첨가가 일어난다고 하며, 위치선택성 요약표에서도 할로젠·알켄일·아릴을 CHO·COR·CO2R·CN·NO2와 함께 Z 칸("전자 끄는 기 또는 짝지음 기")에 넣는다(아릴은 X 칸에도 함께 적혀 있다). (보충 근거: Clayden p.880, 890) Ph는 짝지음으로, Cl은 주로 유발 효과로 작용한다는 설명은 이 교재에서 직접 확인되지 않는다. (출처: L13 p.14)
 
 [6] 보충: 이 부가물은 chlorendic anhydride로 불린다. (출처: L13 p.18)
 
