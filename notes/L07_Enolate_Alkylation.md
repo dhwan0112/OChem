@@ -258,30 +258,20 @@ SN2인 만큼 제약도 SN2 그대로다. 이탈기 X는 염화·브로민화·�
 
 | 반응 | 시약/조건 | 생성물 | 위치선택성 | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| DA: 1-아세톡시뷰타다이엔 + (E)-크로톤알데하이드 | 가열 | 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde | ortho (OAc 옆에 CHO) | OAc/CHO cis(endo), CHO/Me trans(E 보존) | 라세미 (p.3) |
-| 케텐 + 알켄 [2+2] | heat | 사이클로뷰탄온 | 알켄 친핵성 탄소 → 케텐 C=O 탄소 | 알켄 기하 보존 | supra-antara (p.6–7) |
-| Cl2CHCOCl → Cl2C=C=O, + 사이클로펜타다이엔 | Et3N | 7,7-다이클로로바이사이클로[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소, CCl2가 알릴 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
-| 케텐 + 이민 (Staudinger) | PhOCH2COCl, Et3N | 3-페녹시 β-락탐 (92%) | 이민 N → 케텐 C=O 탄소 | 그림상 3,4-trans | p.12 |
-| CSI + CH2=C(Me)CH2Cl | 이후 NaHCO3, H2O | 4-(클로로메틸)-4-메틸아제티딘-2-온 | 3차 탄소가 N과 결합 | – | SO3 이탈 (p.12) |
-| 니트론 + R-CH=CH2 (EDG) | 열 | 5-치환 isoxazolidine | 니트론 C–CH2, O–CHR | exo TS | 쌍극자 LUMO (p.15–16) |
-| 니트론 + CH2=CH-COR (EWG) | 열 | 4-아실 isoxazolidine | O–CH2(β), C–CH(COR) | – | 쌍극자 HOMO (p.15) |
-| isoxazolidine N–O 절단 | Zn, HOAc | 1,3-아미노알코올 | – | 입체 보존 | p.16 |
-| 니트론 제조 | RCHO + RNHOH | 니트론 | – | – | 축합 (p.16) |
-| 니트릴 옥사이드 제조 | 1. NH2OH 2. Cl2 3. NEt3 | R-C≡N⁺-O⁻ | – | – | 하이드록시모일 클로라이드 경유 (p.17) |
-| 니트릴 옥사이드 + Z/E 알켄 | – | isoxazoline | R'는 C3 | Z → cis, E → trans | 입체특이적 (p.19) |
-| 니트릴 옥사이드 + 말단 알카인 | – | 3,5-이치환 isoxazole | R이 C5(O 옆) | – | p.19 |
-| isoxazoline 환원 | LiAlH4 | 1,3-아미노알코올 | – | – | p.20 |
-| isoxazoline 환원/가수분해 | H2/Ni, H2O | β-하이드록시 케톤 | – | cis → syn, trans → anti | aldol 등가체 (p.20) |
-| 오존 분해 | 1. O3 2. Me2S | 알데하이드/케톤 + DMSO | – | 노보넨 → cis-1,3-다이알데하이드 | p.21, 23 |
-| 오존 분해 | 1. O3 2. H2O2 | 카복실산 | – | – | p.21 |
-| 오존 분해 | 1. O3 2. NaBH4 | 알코올 | – | – | p.21 |
-| Danishefsky 다이엔 DA | DA 후 H⁺ | 사이클로헥센온 | OMe/OSiR3 협력 | – | p.26 |
-| Rawal형 다이엔 + 엔알 | Cr-salen 3 (5 mol%), 4Å MS, CH2Cl2 | 작용기화 사이클로헥센 | N과 CHO ortho | 거울상선택적 | p.27, 29 |
-| Rawal형 다이엔 + 2-치환 아크롤레인 | TADDOL 7, toluene, -80 °C; LiAlH4; HF | 4,4-이치환 사이클로헥센온 | – | 73–92% ee | H-결합 촉매 (p.28) |
-| SPAAC | 아자이드 + 사이클로옥타인 | 트라이아졸 | – | – | Cu-free (p.30) |
-| IEDDA | 테트라진 + TCO | 다이하이드로피리다진 + N2 | – | – | 역-DA로 N2 방출 (p.30) |
-
----
+| LDA 제조 | n-BuLi + HN(i-Pr)2, THF | LiN(i-Pr)2 + 뷰테인 | – | – | 뷰테인(pKa 50)이 빠져 비가역 (p.6) |
+| 엔올레이트 형성 (정량) | LDA, THF, −78 °C | 리튬 엔올레이트 | 덜 치환된 α-C (속도론적) | – | 아민(pKa 36~38)이 훨씬 약한 산 (p.5–8) |
+| 엔올레이트 형성 (소량, 평형) | NaOEt, EtOH | 소듐 엔올레이트 소량 | – | – | EtOH(16)가 케톤(19)보다 강한 산 (p.5) |
+| 속도론적 vs 열역학적 엔올레이트 | LDA, −78 °C (속도론적) | 2-메틸사이클로헥사논 → C1=C6 엔올레이트 | 덜 가려진 C6 | – | 열역학적 엔올레이트는 C1=C2, 더 안정 (p.11–12) |
+| 케톤 α-알킬화 | 1. LDA, DME/THF 2. CH3I (또는 BnBr) | 2,6-다이메틸사이클로헥사논 56% (2,2-이치환체 6%) | 덜 치환된 α-C | 새 입체중심은 라세미 | SN2: 메틸·1차·알릴·벤질 좋음, 3차는 제거 (p.10–11) |
+| 에스터 α-알킬화 | 1. LDA, THF 2. EtI | 2-에틸뷰탄산 메틸 96% | α-C | – | 에스터 α-H pKa ~25 (p.13) |
+| 락톤 α-알킬화 | 1. LDA 2. MeI | α-메틸-γ-뷰티로락톤 88% | α-C | – | (p.14) |
+| 아세토아세트산 에스터 합성 | 1. NaOEt 2. R–X 3. aq. NaOH, 가열 4. H3O⁺, 가열(−CO2) | 메틸 케톤 CH3COCH2R | 두 C=O 사이 CH2 | – | R–X에 −CH2COCH3를 붙이는 효과 (p.16–18) |
+| 말론산 에스터 합성 | 1. NaOEt 2. R–X 3. KOH 환류 4. H2SO4 환류(−CO2) | 카복실산 RCH2COOH | 두 C=O 사이 CH2 | – | R–X에 −CH2COOH를 붙이는 효과 (p.19–20) |
+| β-케토산 탈카복실화 | 가열 | 엔올 → 케톤 + CO2 | – | – | 6원자 고리형 전이 상태 (p.16) |
+| 산 염화물 + Et3N | Cl2CHCOCl, Et3N | 다이클로로케텐 Cl2C=C=O | – | – | 엔올레이트가 Cl⁻을 잃음 (p.23) |
+| C-알킬화 vs O-알킬화 | soft: MeI, MeBr / hard: MeOMs, Me2SO4, Me3O⁺ | soft → 케톤 (C), hard → 엔올 에터 (O) | C 또는 O | – | 큰 양이온(Cs⁺, K⁺)은 O 반응 경향 (p.24–25) |
+| Evans 비대칭 알킬화 | N-아실 옥사졸리디논, LDA, −78 °C; BnBr | α-벤질 생성물 92% | α-C | 99:1 dr | Li 킬레이트 Z-엔올레이트, 보조기가 한 면을 가림 (p.27) |
+| 보조기 제거 | LiBH4 / LiOH, H2O2 | 키랄 1차 알코올 / 키랄 카복실산 | – | α-입체중심 유지 | (p.28) |
 
 ## 연습 문제
 
