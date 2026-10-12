@@ -1,5 +1,5 @@
 ---
-aliases: [lithium diisopropylamide, 리튬 다이아이소프로필아마이드, "LiN(i-Pr)2"]
+aliases: [lithium diisopropylamide, 리튬 다이아이소프로필아마이드, LiN(i-Pr)2]
 분류: 시약
 강의: [L7, L8, L10, L11]
 주제태그: [염기, 엔올레이트]

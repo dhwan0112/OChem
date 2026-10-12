@@ -23,9 +23,21 @@ END = "<!-- wiki-links:end -->"
 
 def parse_list(value):
     value = value.strip()
-    if value.startswith("[") and value.endswith("]"):
-        return [v.strip().strip("'\"") for v in value[1:-1].split(",") if v.strip()]
-    return [value] if value else []
+    if not (value.startswith("[") and value.endswith("]")):
+        return [value] if value else []
+    # 쉼표로 나누되, 큰따옴표 안의 쉼표와 숫자 사이 쉼표(1,3-쌍극자 등)는 나누지 않는다
+    items, cur, quoted = [], "", False
+    body = value[1:-1]
+    for k, ch in enumerate(body):
+        if ch == '"':
+            quoted = not quoted
+        if ch == "," and not quoted and not (body[k - 1:k].isdigit() and body[k + 1:k + 2].isdigit()):
+            items.append(cur)
+            cur = ""
+        else:
+            cur += ch
+    items.append(cur)
+    return [v.strip().strip('"') for v in items if v.strip()]
 
 
 def read_doc(path):
@@ -164,7 +176,8 @@ PAST_EXAM = {
 
 def slug(tag):
     """옵시디언 태그에는 공백을 쓸 수 없다."""
-    return re.sub(r"\s+", "-", tag.strip().lstrip("#"))
+    # 태그에는 쉼표도 쓸 수 없다 (1,5-다이카보닐 → 1-5-다이카보닐)
+    return re.sub(r"[\s,]+", "-", tag.strip().lstrip("#"))
 
 
 def compute_tags(doc, extra):

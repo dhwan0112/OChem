@@ -1,5 +1,5 @@
 ---
-aliases: [TiCl₄, titanium tetrachloride, 사염화 티타늄, "Ti(IV)"]
+aliases: [TiCl₄, titanium tetrachloride, 사염화 티타늄, Ti(IV)]
 분류: 시약
 강의: [L8]
 주제태그: [루이스-산]
