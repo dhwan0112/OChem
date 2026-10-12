@@ -20,7 +20,7 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 | cat. OsO₄ / NMO | 알켄에 두 O를 syn으로 붙이고 Os(VIII) → Os(VI) | Os(VI)를 Os(VIII)로 재산화 | L2 p.14 |
 | cat. TPAP / NMO (Ley–Griffith) | 알코올을 산화하고 Ru(VII) → Ru(V) | Ru(V)를 Ru(VII)로 재산화, 자신은 *N*-메틸모폴린이 됨 | L6c p.10 |
 
-보충: NMO는 N–O 결합의 산소 하나를 금속에 넘겨주고 3차 아민(*N*-메틸모폴린)으로 환원된다. 촉매량 OsO₄ + NMO 조합은 흔히 Upjohn 조건이라 부른다.
+보충: NMO는 N–O 결합의 산소 하나를 금속에 넘겨주고 3차 아민(*N*-메틸모폴린)으로 환원된다. 촉매량 OsO₄ + NMO 조합은 흔히 Upjohn 조건이라 부른다. (보충 근거: Clayden p.442, p.545)
 
 ## 예
 
@@ -31,7 +31,7 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 ## 시험에서
 
 - Tutorial 1 문제 4와 Test 1(2025) 문제 3은 *cis*-1,2-다이올을 만드는 시약으로 OsO₄/NMO를 요구한다. (출처: Tutorial 1 문제 4, Test 1 문제 3)
-- 검토 의견: Test 1 문제 3의 공식 답은 "OsO₄, then H₂O"다. 개념은 맞지만 출제 근거 쪽도 OsO₄/NMO를 쓰므로, 답안에는 "cat. OsO₄, NMO"로 쓰는 편이 안전하다. 공식 답 자체는 그대로 둔다.
+- 검토 의견: Test 1 문제 3의 공식 답은 "OsO₄, then H₂O"다. 개념은 맞지만 출제 근거 쪽도 OsO₄/NMO를 쓰므로, 답안에는 "cat. OsO₄, NMO"로 쓰는 편이 안전하다. 공식 답 자체는 그대로 둔다. (보충 근거: Clayden p.442)
 
 ## 흔한 오해
 
