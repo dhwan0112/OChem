@@ -186,7 +186,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 ## 9. 보충: 위치선택성("ortho/para" 규칙)
 
-이 강의 슬라이드에는 위치선택성(regioselectivity)이 나오지 않는다(아마 2부에서 다룰 것이다, → 고리화 첨가 2부 문서 참고). 여기서는 표준 교재의 결론만 짧게 적어 둔다. 비대칭 다이엔과 비대칭 dienophile이 반응할 때, 1-치환 다이엔(예: 1-methoxybutadiene)은 주로 "ortho"(1,2-이치환) 생성물을, 2-치환 다이엔(예: 2-methoxybutadiene)은 주로 "para"(1,4-이치환) 생성물을 준다. 다이엔 HOMO 계수가 가장 큰 말단 탄소가 dienophile LUMO 계수가 가장 큰 탄소(EWG의 β-탄소)와 결합하기 때문이다.
+이 강의 슬라이드에는 위치선택성(regioselectivity)이 나오지 않는다(아마 2부에서 다룰 것이다, → 고리화 첨가 2부 문서 참고). 여기서는 표준 교재의 결론만 짧게 적어 둔다. 비대칭 다이엔과 비대칭 dienophile이 반응할 때, 1-치환 다이엔(예: 1-methoxybutadiene)은 주로 "ortho"(1,2-이치환) 생성물을, 2-치환 다이엔(예: 2-methoxybutadiene)은 주로 "para"(1,4-이치환) 생성물을 준다. 다이엔 HOMO 계수가 가장 큰 말단 탄소가 dienophile LUMO 계수가 가장 큰 탄소(EWG의 β-탄소)와 결합하기 때문이다. (보충 근거: Clayden p.889–891)
 
 ## 흔한 오해
 
@@ -241,7 +241,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 1. **다이엔은 cyclopentadiene, dienophile도 cyclopentadiene이다(이량화).** norbornene 부분의 C=C를 C2=C3로 보고 C1–C6, C4–C5 결합을 끊는다. 그러면 한 분자는 다이엔(s-cis 고정 cyclopentadiene)으로, 다른 분자는 C=C 하나만 쓰는 dienophile로 작용한 것이 보인다. 융합된 cyclopentene 고리의 C=C는 dienophile 분자에 남아 있던 이중 결합이다. 이 반응은 endo 선택적이어서 endo-dicyclopentadiene을 준다(p.29). (출처: L13 p.17, 18, 29)
 
-2. **다이엔: 1-vinyl-3,4-dihydronaphthalene(CH2=CH-C1=C2H-CH2CH2- 벤젠 융합). Dienophile: cyclohex-2-ene-1,4-dione.** 새로 생긴 고리 C에서 C=C(고리 B와 공유하는 탄소 = C3, 그 이웃 CH = C2)를 C2=C3로 놓는다. 고리 C의 CH2가 C1, 고리 B/C 접합 CH가 C4가 된다. 그러면 C1–C6, C4–C5가 새 σ 결합이고, C5와 C6은 고리 C/D 접합 탄소다. C5–C6을 다시 이중 결합으로 바꾸면 양쪽에 C=O가 붙은 cyclohex-2-ene-1,4-dione이 dienophile이 되고, 다이엔은 dihydronaphthalene 고리 안의 C=C와 vinyl기가 s-cis로 짝지어진 다이엔이다. 고리 D에 C=O 외에 다른 C=C가 없으므로 p-benzoquinone(이 경우 생성물에 C=C가 하나 더 남음)이 아니라 cyclohexenedione이 맞다. 보충: 두 C=O는 dienophile을 강하게 활성화하는 EWG다. (출처: L13 p.17)
+2. **다이엔: 1-vinyl-3,4-dihydronaphthalene(CH2=CH-C1=C2H-CH2CH2- 벤젠 융합). Dienophile: cyclohex-2-ene-1,4-dione.** 새로 생긴 고리 C에서 C=C(고리 B와 공유하는 탄소 = C3, 그 이웃 CH = C2)를 C2=C3로 놓는다. 고리 C의 CH2가 C1, 고리 B/C 접합 CH가 C4가 된다. 그러면 C1–C6, C4–C5가 새 σ 결합이고, C5와 C6은 고리 C/D 접합 탄소다. C5–C6을 다시 이중 결합으로 바꾸면 양쪽에 C=O가 붙은 cyclohex-2-ene-1,4-dione이 dienophile이 되고, 다이엔은 dihydronaphthalene 고리 안의 C=C와 vinyl기가 s-cis로 짝지어진 다이엔이다. 고리 D에 C=O 외에 다른 C=C가 없으므로 p-benzoquinone(이 경우 생성물에 C=C가 하나 더 남음)이 아니라 cyclohexenedione이 맞다. 보충: 두 C=O는 dienophile을 강하게 활성화하는 EWG다. (보충 근거: Clayden p.886–887) (출처: L13 p.17)
 
 3. **CHO와 두 Me가 모두 cis인 all-cis 2,5-dimethylcyclohex-3-ene-1-carbaldehyde(슬라이드의 왼쪽 생성물: Me, CHO, Me가 모두 hash).** (E,E)-다이엔의 두 Me는 "out"이므로 생성물에서 서로 cis다(입체특이성). endo TS에서는 CHO가 다이엔 아래로 들어간다. 그러면 CHO 탄소의 H는 다이엔 말단의 "in" H들과 반대쪽, 즉 Me 쪽과 반대 방향을 향하게 된다. 결과적으로 세 H(C1-H, C2-H, C5-H)가 모두 한 면(wedge)에, CHO와 두 Me가 모두 반대 면에 놓인다(p.24 그림). exo 생성물은 CHO만 반대쪽(wedge)에 있는 오른쪽 구조다. (출처: L13 p.23–24)
 
@@ -249,7 +249,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 5. **(a) syn(cis-3,6-dimethyl). (b) anti(trans-3,6-dimethyl).** s-cis 형태에서 (E,E)-다이엔의 두 Me는 모두 "out"이고, out끼리는 생성물에서 1,4-cis다. (E,Z)-다이엔에서는 Me 하나가 "in", 하나가 "out"이므로 trans가 된다. DMAD는 알카인이라 생성물은 cyclohexa-1,4-diene-1,2-dicarboxylate이다. (출처: L13 p.20, 28)
 
-6. **(a) butadiene + acrolein이 훨씬 빠르다**(150 °C, 0.5 h 대 165 °C, 17 h, 900 atm). CHO(EWG)가 dienophile의 LUMO를 낮춰 다이엔 HOMO–dienophile LUMO 에너지 차이가 줄어들기 때문이다. **(b) cyclopentadiene 쪽이 빠르다.** s-cis로 고정되어 있어 반응 가능한 형태가 100%인 반면, butadiene은 상온에서 약 1%만 s-cis다. 보충: cyclopentadiene의 고리 CH2(알킬)는 다이엔 HOMO를 약간 올리는 효과도 있다. **(c) 반응하지 않는다.** 3-methylenecyclohexene은 두 C=C가 s-trans로 고정되어 있어 C1과 C4가 가까워질 수 없다. (출처: L13 p.14–16, 27)
+6. **(a) butadiene + acrolein이 훨씬 빠르다**(150 °C, 0.5 h 대 165 °C, 17 h, 900 atm). CHO(EWG)가 dienophile의 LUMO를 낮춰 다이엔 HOMO–dienophile LUMO 에너지 차이가 줄어들기 때문이다. **(b) cyclopentadiene 쪽이 빠르다.** s-cis로 고정되어 있어 반응 가능한 형태가 100%인 반면, butadiene은 상온에서 약 1%만 s-cis다. 보충: cyclopentadiene의 고리 CH2(알킬)는 다이엔 HOMO를 약간 올리는 효과도 있다(보충 근거: Clayden p.886, 890). **(c) 반응하지 않는다.** 3-methylenecyclohexene은 두 C=C가 s-trans로 고정되어 있어 C1과 C4가 가까워질 수 없다. (출처: L13 p.14–16, 27)
 
 7. **Woodward–Hoffmann:** [4+2]는 [π4s + π2s]다. (4q+2)s 성분(π2s)이 1개, (4r)a 성분이 0개로 합이 1(홀수)이므로 열적으로 허용된다. [4+4]는 [π4s + π4s]다. 두 성분 모두 (4r)s라서 세지 않으므로 (4q+2)s는 0개, (4r)a도 0개이고 합이 0(짝수)이다. 따라서 열적으로 금지된다. **FMO:** [4+2]에서는 한 butadiene의 HOMO(ψ2)와 다른 butadiene의 C=C 하나(dienophile 부분)의 LUMO가 겹치며 양 끝이 모두 결합성이므로, 4-vinylcyclohexene이 생긴다. [4+4]에서는 ψ2(HOMO)와 다른 분자의 ψ3(LUMO)의 양 끝 가운데 한쪽은 결합성이지만 다른 쪽은 위상이 맞지 않아 반결합성이다. 따라서 두 σ 결합을 동시에 만들 수 없어 cycloocta-1,5-diene은 열적으로 생기지 않는다. (출처: L13 p.30, 33–36)
 
@@ -257,22 +257,22 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 ## 각주
 
-[1] 보충: Claisen 자리옮김은 [3,3]-시그마트로픽 자리옮김의 한 종류다. p.5의 분류에서 고리화 첨가와는 다른 갈래(시그마트로픽 자리옮김)에 속한다. (출처: L13 p.4–5)
+[1] 보충: Claisen 자리옮김은 [3,3]-시그마트로픽 자리옮김의 한 종류다. p.5의 분류에서 고리화 첨가와는 다른 갈래(시그마트로픽 자리옮김)에 속한다. (보충 근거: Clayden p.909) (출처: L13 p.4–5)
 
-[2] 보충: 첫 번째 예는 Robinson 고리 만들기(Robinson annulation, Michael 첨가 + 분자 내 aldol 축합)이고, 생성물은 Wieland–Miescher ketone으로 알려진 화합물이다(→ 엔올레이트·aldol·Robinson 고리 만들기 관련 강의 참고). (출처: L13 p.6)
+[2] 보충: 첫 번째 예는 Robinson 고리 만들기(Robinson annulation, Michael 첨가 + 분자 내 aldol 축합)이고, 생성물은 Wieland–Miescher ketone으로 알려진 화합물이다(→ 엔올레이트·aldol·Robinson 고리 만들기 관련 강의 참고). (보충 근거: Clayden p.638–639, 845) (출처: L13 p.6)
 
 [3] Diels–Alder 반응은 Otto Diels와 Kurt Alder가 1928년에 처음 보고했고, 두 사람은 이 업적으로 1950년 노벨 화학상을 받았다. (출처: L13 p.7)
 
-[4] 보충: 엄밀히 세면 π 결합 3개가 끊어지고, π 결합 1개(C2=C3)와 σ 결합 2개가 새로 생긴다. 순수하게 보면 π 결합 2개가 σ 결합 2개로 바뀐 셈이다. (출처: L13 p.10)
+[4] 보충: 엄밀히 세면 π 결합 3개가 끊어지고, π 결합 1개(C2=C3)와 σ 결합 2개가 새로 생긴다. 순수하게 보면 π 결합 2개가 σ 결합 2개로 바뀐 셈이다. (보충 근거: Clayden p.878) (출처: L13 p.10)
 
-[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니다. Ph는 짝지음으로, Cl은 주로 유발 효과로 dienophile을 활성화하며 그 효과도 상대적으로 작다. (출처: L13 p.14)
+[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니다. Ph와 Cl은 모두 추가 짝지음(conjugation)을 제공해 dienophile을 활성화하는 치환기로 분류되며, 그 효과도 상대적으로 작다. (보충 근거: Clayden p.880, 890) (출처: L13 p.14)
 
 [6] 보충: 이 부가물은 chlorendic anhydride로 불린다. (출처: L13 p.18)
 
-[7] 보충: endo 생성물은 속도론적(kinetic) 생성물이다. 입체 장애가 적은 exo 생성물이 열역학적으로 더 안정한 경우가 많아서, 고온이나 장시간(역 DA가 가능한 가역 조건)에서는 exo 비율이 늘어날 수 있다. (출처: L13 p.22)
+[7] 보충: endo 생성물은 속도론적(kinetic) 생성물이다. 입체 장애가 적은 exo 생성물이 열역학적으로 더 안정한 경우가 많아서, 고온이나 장시간(역 DA가 가능한 가역 조건)에서는 exo 비율이 늘어날 수 있다. (보충 근거: Clayden p.884) (출처: L13 p.22)
 
-[8] 보충: 이렇게 다이엔 HOMO–dienophile LUMO 상호작용이 지배하는 전형적인 경우를 정상 전자 요구(normal electron demand) DA라고 부른다. (출처: L13 p.27)
+[8] 보충: 이렇게 다이엔 HOMO–dienophile LUMO 상호작용이 지배하는 전형적인 경우를 정상 전자 요구(normal electron demand) DA라고 부른다. (보충 근거: Clayden p.886–887) (출처: L13 p.27)
 
 [9] 슬라이드 p.29의 그림에는 아래쪽(dienophile 역할) cyclopentadiene의 오비탈이 "LUMO of diene"이라고 적혀 있다. 그 분자가 화합물로서 다이엔이라는 뜻으로 읽어야 하며, 반응에서의 역할은 dienophile이다(그 C=C의 LUMO). (출처: L13 p.29)
 
-[10] R. B. Woodward와 R. Hoffmann의 첫 논문 "Stereochemistry of Electrocyclic Reactions"는 1964년 말 JACS에 투고되어 1965년 1월호에 실렸다. 슬라이드에는 Woodward가 편집인 Marshall Gates에게 보낸 편지와 게재 승인서가 실려 있다. 1981년 노벨 화학상은 "화학 반응의 진행에 관해 각자 독립적으로 발전시킨 이론"으로 Kenichi Fukui(FMO 이론)와 Roald Hoffmann이 공동 수상했다. Woodward는 1979년에 세상을 떠나 공동 수상하지 못했다(보충). (출처: L13 p.32)
+[10] R. B. Woodward와 R. Hoffmann의 첫 논문 "Stereochemistry of Electrocyclic Reactions"는 1964년 말 JACS에 투고되어 1965년 1월호에 실렸다. 슬라이드에는 Woodward가 편집인 Marshall Gates에게 보낸 편지와 게재 승인서가 실려 있다. 1981년 노벨 화학상은 "화학 반응의 진행에 관해 각자 독립적으로 발전시킨 이론"으로 Kenichi Fukui(FMO 이론)와 Roald Hoffmann이 공동 수상했다. Woodward는 1979년에 세상을 떠나 공동 수상하지 못했다(보충). (보충 근거: Clayden p.892) (출처: L13 p.32)
