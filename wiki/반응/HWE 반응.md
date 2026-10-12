@@ -7,43 +7,47 @@ tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산�
 ---
 # HWE 반응
 
-> 포스포네이트 카바니온 (EtO)₂P(O)CH⁻–EWG + 알데하이드·케톤 → **E-알켄** + 수용성 포스페이트 염. [[위티그 반응]]의 포스포네이트 변형이다.
+> phosphonate carbanion (EtO)₂P(O)CH⁻–EWG + aldehyde·ketone → **E-alkene** + 수용성 phosphate 염. [[위티그 반응]]의 phosphonate 변형이다.
 
 ## 개요
 
-1953년 Wittig이 포스포늄 일리드로 올레핀 합성을 보고했고, 1958년 Horner가 포스포늄 대신 포스포네이트로 안정화된 카바니온을 쓰는 변형을 발표했다. 이후 Wadsworth와 Emmons가 적용 범위를 넓혔다. 안정화 Wittig 일리드도 E를 주는데 굳이 HWE를 쓰는 이유는 둘이다. 케톤과도 잘 반응하고, 부산물이 물에 씻겨 나간다. (출처: L6c p.36–37)
+stabilized ylide로 *E*-alkene을 만들 수 있다면, 더 좋은 방법이 따로 필요할까? 슬라이드의 답은 Horner–Wadsworth–Emmons(HWE) 반응이다. 1953년 Wittig이 phosphonium ylide로 olefin 합성을 보고했고, 1958년 Horner가 phosphonium 대신 phosphonate로 안정화된 carbanion(phosphonate-stabilized carbanion)을 쓰는 변형을 발표했다. 이후 Wadsworth와 Emmons가 적용 범위를 넓혔다.[^1] (출처: L6c p.36)
 
 ## 원리
 
-(EtO)₂P(O)CH₂C(O)R --[EtO⁻ 또는 NaH]--> 포스포네이트 카바니온
+`(EtO)2P(O)CH2C(O)R --[염기: EtO− 또는 NaH]--> 포스포네이트 카바니온` (P=C, 탄소 음이온, enolate로 쓰는 공명 구조)
 
-P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 카바니온은 엔올레이트 공명 구조로도 그릴 수 있다(→ [[엔올과 엔올레이트]]). 이 카바니온이 카보닐에 첨가한 뒤 Wittig과 같은 방식으로 P–O를 내보내며 C=C가 생긴다. (출처: L6c p.36)
+P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 carbanion은 enolate 공명 구조로도 그릴 수 있다(→ [[엔올과 엔올레이트]], [[α-수소의 산도]]). 이 carbanion이 카보닐에 첨가한 뒤 Wittig과 같은 방식으로 4원 고리([[옥사포스페테인]]형)를 거쳐 phosphate를 내보내며 C=C가 생긴다. (출처: L6c p.36, L8 p.6)
 
-보충: 포스포네이트 카바니온은 안정화 포스포늄 일리드보다 친핵성이 커서 케톤과도 잘 반응한다(Clayden 27장). (보충 근거: Clayden p.628, p.692) Wadsworth와 Emmons의 논문은 1961년에 나왔다.
+생성물은 이치환 alkene에서 *E*-선택성이 높다. ketone과도 잘 반응한다.[^2] (출처: L6c p.36)
 
-보충: 안정화 포스포늄 일리드는 물에서 재결정할 수 있을 만큼 안정해 반응성이 낮다. 그래서 더 반응성 있는 포스포네이트 카바니온으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
+보충: 그럼 stabilized Wittig ylide는 왜 부족할까? 이름 그대로 너무 안정하기 때문이다. Ph₃P=CHCHO 같은 ylide는 물에서 재결정할 수 있을 정도이고, 원료 phosphonium salt보다도 안정하다. 안정한 만큼 반응성이 낮아 ketone처럼 덜 electrophilic한 상대와는 잘 반응하지 않는다. 그래서 같은 *E*-선택적 olefination을 하되, 더 반응성 있는 phosphonate carbanion으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
 
 ## 선택성
 
-- 이치환 알켄에서 **E-선택성**이 높다. (출처: L6c p.36)
-- 부산물인 다이에틸 포스페이트 염은 물에 녹아, 분리가 까다로운 Ph₃P=O보다 훨씬 쉽게 제거된다. (출처: L6c p.37)
+- 이치환 alkene에서 ***E*-선택성**이 높다. (출처: L6c p.36)
+- 실험실에서 HWE를 좋아하는 이유 하나는 부산물인 diethyl phosphate 염이 물에 녹아, 분리가 까다로운 Ph₃P=O보다 훨씬 쉽게 씻겨 나간다는 점이다. (출처: L6c p.37)
 
 ## 예
 
-- 2,2-다이메틸사이클로펜탄온 + (EtO)₂P(O)CH₂CO₂Et --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate (그림에서 CO₂Et는 gem-다이메틸 반대쪽) (출처: L6c p.37)
-- 분자 내 HWE: β-락탐 N–CH(P(O)(OEt)₂)CO₂*t*-Bu와 측쇄 케톤을 가진 기질 --[NaH, THF, 85%]--> 6원 고리가 닫힌 1-카바세펨 골격 (슬라이드의 빈칸 문제, 노트 연습 문제 6의 풀이) (출처: L6c p.37)
+- `2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate`. 그림에서 CO₂Et는 gem-다이메틸 반대쪽으로 그려져 있다. (L6) (출처: L6c p.37)
+- 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응(β-lactam 기질 → 6원 고리가 닫힌 1-carbacephem 골격, 85%)이다([L6 연습 문제](../../practice/L06_Exercises.md) 6번). (L6) (출처: L6c p.37)
 
 ## 흔한 오해
 
-- "HWE도 Wittig처럼 Ph₃P=O가 나온다": P에 페닐이 아니라 에톡시가 붙어 있어 수용성 포스페이트 염이 나온다.
-- "Z-알켄이 필요할 때도 HWE": 슬라이드 요약에서 Z는 비안정화 Wittig 일리드, E는 안정화 일리드 또는 HWE다. (출처: L6c p.38)
+- **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 페닐이 아니라 에톡시가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)
+- **"*Z*-alkene이 필요할 때도 HWE"**: 슬라이드 요약에서 *Z*는 unstabilized Wittig ylide, *E*는 stabilized ylide 또는 HWE다(→ [[알켄의 입체선택적 합성]]). (출처: L6c p.38)
 
 ## 관련 문서
 
-- 반응: [[위티그 반응]], [[린들라 환원]], [[용해 금속 환원]]
+- 반응: [[위티그 반응]], [[린들라 환원]], [[용해 금속 환원]], [[알돌 반응]]
 - 시약: [[인 일라이드]]
-- 개념: [[엔올과 엔올레이트]], [[α-수소의 산도]], [[입체특이성과 입체선택성]], [[옥사포스페테인]]
+- 개념: [[알켄의 입체선택적 합성]], [[엔올과 엔올레이트]], [[α-수소의 산도]], [[입체특이성과 입체선택성]], [[옥사포스페테인]]
 
 ## 출처
 
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7.7절, 7.8절, 연습 문제 6
+- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7.7절, 7.8절 (L6c p.36–38)
+- [L6 연습 문제](../../practice/L06_Exercises.md) 6번
+
+[^1]: 보충: Wadsworth와 Emmons의 논문은 1961년에 나왔다.
+[^2]: 보충: phosphonate carbanion은 stabilized phosphonium ylide보다 nucleophilicity가 커서 ketone과도 잘 반응한다(Clayden 27장). (보충 근거: Clayden p.628, p.692)
