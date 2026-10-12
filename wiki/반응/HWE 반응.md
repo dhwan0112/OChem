@@ -1,7 +1,7 @@
 ---
 aliases: [Horner–Wadsworth–Emmons reaction, HWE reaction, 호너-워즈워스-에먼스 반응, Horner-Wadsworth-Emmons]
 분류: 반응
-강의: [L6]
+강의: [L6, L7, L8]
 주제태그: [알켄-합성, 올레핀화, 포스포네이트]
 tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산화-알켄-합성, 강의/L06, 유형/C–C-결합-형성, 유형/친핵성-첨가, 주제/알켄-합성, 주제/올레핀화, 주제/포스포네이트]
 ---
@@ -19,7 +19,19 @@ stabilized ylide로 *E*-alkene을 만들 수 있다면, 더 좋은 방법이 따
 
 P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 carbanion은 enolate 공명 구조로도 그릴 수 있다(→ [[엔올과 엔올레이트]], [[α-수소의 산도]]). 이 carbanion이 카보닐에 첨가한 뒤 Wittig과 같은 방식으로 4원 고리([[옥사포스페테인]]형)를 거쳐 phosphate를 내보내며 C=C가 생긴다. (출처: L6c p.36, L8 p.6)
 
-생성물은 이치환 alkene에서 *E*-선택성이 높다. ketone과도 잘 반응한다.[^2] (출처: L6c p.36)
+L7의 enolate 복습 슬라이드는 이 phosphonate 음이온을 stabilized ylide와 같은 부류로 묶는다. `(EtO)2P(=O)CH2C(=O)R --[EtO− 또는 NaH]-->`로 생긴 음이온은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[^2] (출처: L7 p.3)
+
+### 메커니즘 단계와 aldol과의 관계
+
+예: (EtO)2P(O)CH2CO2Et + PhCHO
+1. EtO⁻가 P와 C=O 사이의 산성 CH₂ 양성자를 떼어 enolate를 만든다.
+2. enolate의 α-탄소(nucleophile)가 PhCHO의 카보닐 탄소(electrophile)를 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol addition과 같은 모양이다.
+3. alkoxide O⁻가 인을 공격해 4원 고리 중간체([[옥사포스페테인]]형)를 만든다.
+4. C–P, O–P 결합이 재배열되며 (EtO)2PO2⁻가 떨어지고 C=C가 생겨 (*E*)-EtO2C–CH=CH–Ph가 된다.
+
+일반식은 R1COR2 + R3O2C–CH(R4)–P(O)(OR5)2 --[Base]--> R3O2C–C(R4)=CR1R2이다. L8이 aldol에 앞서 HWE를 다시 꺼내는 이유가 2단계다. HWE에서는 alkoxide가 인에 붙잡혀 alkene으로 가지만, aldol에서는 alkoxide가 그냥 양성자를 받아 OH로 남는다(→ [[알돌 반응]]). (출처: L8 p.5, p.6)
+
+생성물은 이치환 alkene에서 *E*-선택성이 높다. ketone과도 잘 반응한다.[^3] (출처: L6c p.36)
 
 보충: 그럼 stabilized Wittig ylide는 왜 부족할까? 이름 그대로 너무 안정하기 때문이다. Ph₃P=CHCHO 같은 ylide는 물에서 재결정할 수 있을 정도이고, 원료 phosphonium salt보다도 안정하다. 안정한 만큼 반응성이 낮아 ketone처럼 덜 electrophilic한 상대와는 잘 반응하지 않는다. 그래서 같은 *E*-선택적 olefination을 하되, 더 반응성 있는 phosphonate carbanion으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
 
@@ -47,7 +59,10 @@ P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성
 ## 출처
 
 - [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 7.7절, 7.8절 (L6c p.36–38)
+- [L7 엔올레이트 알킬화](../../notes/L07_Enolate_Alkylation.md) (p.3)
+- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) (p.5–6)
 - [L6 연습 문제](../../practice/L06_Exercises.md) 6번
 
 [^1]: 보충: Wadsworth와 Emmons의 논문은 1961년에 나왔다.
-[^2]: 보충: phosphonate carbanion은 stabilized phosphonium ylide보다 nucleophilicity가 커서 ketone과도 잘 반응한다(Clayden 27장). (보충 근거: Clayden p.628, p.692)
+[^2]: 슬라이드는 HWE 음이온도 "stabilized ylide"라고 부르지만, 엄밀히 말하면 인 원자에 양전하가 없으므로 ylide라기보다 phosphonate-stabilized carbanion이다. (출처: L7 p.3)
+[^3]: 보충: phosphonate carbanion은 stabilized phosphonium ylide보다 nucleophilicity가 커서 ketone과도 잘 반응한다(Clayden 27장). (보충 근거: Clayden p.628, p.692)
