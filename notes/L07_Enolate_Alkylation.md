@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [HWE 반응](../wiki/반응/HWE%20반응.md), [SN2 반응](../wiki/반응/SN2%20반응.md), [말론산 에스터 합성](../wiki/반응/말론산%20에스터%20합성.md), [아세토아세트산 에스터 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md), [에스터 가수분해](../wiki/반응/에스터%20가수분해.md), [엔올레이트 알킬화](../wiki/반응/엔올레이트%20알킬화.md), [케토-엔올 토토머화](../wiki/반응/케토-엔올%20토토머화.md), [탈카복실화](../wiki/반응/탈카복실화.md)
-> - 시약: [LDA](../wiki/시약/LDA.md), [LiBH4](../wiki/시약/LiBH4.md), [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md), [에반스 옥사졸리디논](../wiki/시약/에반스%20옥사졸리디논.md), [인 일라이드](../wiki/시약/인%20일라이드.md)
-> - 개념: [α-수소의 산도](../wiki/개념/α-수소의%20산도.md), [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md), [엔올레이트 화학 개관](../wiki/개념/엔올레이트%20화학%20개관.md), [이민](../wiki/개념/이민.md), [친전자체와 친핵체](../wiki/개념/친전자체와%20친핵체.md), [케텐](../wiki/개념/케텐.md), [키랄 보조기](../wiki/개념/키랄%20보조기.md), [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md)
+> - 반응: [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [decarboxylation](../wiki/반응/탈카복실화.md), [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md), [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md), [keto-enol tautomerism](../wiki/반응/케토-엔올%20토토머화.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
+> - 시약: [alkoxide base](../wiki/시약/알콕사이드%20염기.md), [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md), [LDA](../wiki/시약/LDA.md), [LiBH4](../wiki/시약/LiBH4.md), [phosphorus ylide](../wiki/시약/인%20일라이드.md)
+> - 개념: [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [chiral auxiliary](../wiki/개념/키랄%20보조기.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md), [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md), [imine](../wiki/개념/이민.md), [ketene](../wiki/개념/케텐.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)
 
 <!-- wiki-links:end -->
 

@@ -7,11 +7,11 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/산화-알켄-합�
 ---
 # DIBAL-H
 
-> 다이아이소뷰틸알루미늄 하이드라이드(*i*-Bu₂AlH). ester를 −70 °C에서 환원하면 alcohol까지 가지 않고 **aldehyde에서 멈춘다**.
+> diisobutylaluminum hydride(*i*-Bu₂AlH). ester를 −70 °C에서 환원하면 alcohol까지 가지 않고 **aldehyde에서 멈춘다**.
 
 ## 개요
 
-ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만, aldehyde가 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. DIBAL-H는 이 문제를 "aldehyde를 hydride가 다 사라진 뒤에야 꺼내는" 방식으로 푼다. DIBAL-H는 alane(알레인)이고, Al–H–Al 다리 결합을 가진 이량체(bridged dimer)로 존재한다. 반응 자체의 메커니즘과 다른 길은 [에스터 부분 환원](../반응/에스터%20부분%20환원.md) 문서에 있다. (출처: L5 p.29, L6c p.2)
+ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만, aldehyde가 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. DIBAL-H는 이 문제를 "aldehyde를 hydride가 다 사라진 뒤에야 꺼내는" 방식으로 푼다. DIBAL-H는 alane(알레인)이고, Al–H–Al 다리 결합을 가진 이량체(bridged dimer)로 존재한다. 반응 자체의 메커니즘과 다른 길은 [ester 부분 환원](../반응/에스터%20부분%20환원.md) 문서에 있다. (출처: L5 p.29, L6c p.2)
 
 ## 무엇을 하나
 
@@ -23,17 +23,17 @@ ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만,
 
 ## 메커니즘 요약
 
-Lewis acid인 Al이 ester 카보닐 O에 배위한 뒤 Al–H의 hydride가 분자 내에서 전달되어 [tetrahedral intermediate](../개념/사면체%20중간체.md) R–CH(OEt)–O–Al(*i*-Bu)₂가 생긴다. 이 중간체가 −70 °C에서 무너지지 않으므로 반응 중에 aldehyde가 없고, H₃O⁺ 후처리에서야 aldehyde가 나온다. (출처: L5 p.29, L6c p.2)
+Lewis acid인 Al이 ester carbonyl O에 배위한 뒤 Al–H의 hydride가 분자 내에서 전달되어 [tetrahedral intermediate](../개념/사면체%20중간체.md) R–CH(OEt)–O–Al(*i*-Bu)₂가 생긴다. 이 intermediate가 −70 °C에서 무너지지 않으므로 반응 중에 aldehyde가 없고, H₃O⁺ 후처리에서야 aldehyde가 나온다. (출처: L5 p.29, L6c p.2)
 
-![DIBAL-H가 에스터 산소에 배위한 뒤 수소화물을 전달해 저온에서 안정한 사면체 중간체를 만드는 과정](../../figures/L05/dibal_ester.svg)
+![DIBAL-H가 ester 산소에 배위한 뒤 hydride를 전달해 저온에서 안정한 tetrahedral intermediate를 만드는 과정](../../figures/L05/dibal_ester.svg)
 
-*그림: Al이 카보닐 O에 배위하고 Al–H(파랑)가 카보닐 탄소(빨강)로 hydride를 준다. 가운데 tetrahedral intermediate는 −70 °C에서 무너지지 않는다.*
+*그림: Al이 carbonyl O에 배위하고 Al–H(파랑)가 carbonyl 탄소(빨강)로 hydride를 준다. 가운데 tetrahedral intermediate는 −70 °C에서 무너지지 않는다.*
 
 ## 이웃 시약과 비교
 
-- **[NaBH4](NaBH4.md)·[LiBH4](LiBH4.md)·[LiAlH4](LiAlH4.md):** 모두 음이온성(nucleophilic) hydride다. DIBAL-H는 중성이고 Al이 Lewis acid라 먼저 산소에 배위한다는 점에서 [보레인](보레인.md)과 같은 "특수 시약"으로 분류된다(→ [금속 수소화물의 반응성](../개념/금속%20수소화물의%20반응성.md)). (출처: L5 p.18)
-- **우회로 1(alcohol 경유):** ester --[LiAlH₄]--> 1차 alcohol --[DMP, Swern 등]--> aldehyde. 마지막 단계에는 [DMP](DMP.md)나 [스원 산화](../반응/스원%20산화.md)처럼 aldehyde에서 멈추는 산화제를 쓴다. (출처: L6c p.2)
-- **우회로 2(산 염화물 경유):** ester → 카복실산 → 산 염화물 → H₂, Pd/BaSO₄, quinoline([로젠문트 환원](../반응/로젠문트%20환원.md)). (출처: L5 p.17, p.33)
+- **[NaBH4](NaBH4.md)·[LiBH4](LiBH4.md)·[LiAlH4](LiAlH4.md):** 모두 음이온성(nucleophilic) hydride다. DIBAL-H는 중성이고 Al이 Lewis acid라 먼저 산소에 배위한다는 점에서 [borane](보레인.md)과 같은 "특수 시약"으로 분류된다(→ [metal hydride의 반응성](../개념/금속%20수소화물의%20반응성.md)). (출처: L5 p.18)
+- **우회로 1(alcohol 경유):** ester --[LiAlH₄]--> 1차 alcohol --[DMP, Swern 등]--> aldehyde. 마지막 단계에는 [DMP](DMP.md)나 [Swern 산화](../반응/스원%20산화.md)처럼 aldehyde에서 멈추는 산화제를 쓴다. (출처: L6c p.2)
+- **우회로 2(acid chloride 경유):** ester → carboxylic acid → acid chloride → H₂, Pd/BaSO₄, quinoline([Rosenmund 환원](../반응/로젠문트%20환원.md)). (출처: L5 p.17, p.33)
 
 ## 흔한 오해
 
@@ -42,11 +42,11 @@ Lewis acid인 Al이 ester 카보닐 O에 배위한 뒤 Al–H의 hydride가 분�
 
 ## 관련 문서
 
-- 반응: [에스터 부분 환원](../반응/에스터%20부분%20환원.md), [로젠문트 환원](../반응/로젠문트%20환원.md), [알코올 산화](../반응/알코올%20산화.md)
-- 비교 시약: [LiAlH4](LiAlH4.md), [LiBH4](LiBH4.md), [보레인](보레인.md), [DMP](DMP.md)
-- 개념: [사면체 중간체](../개념/사면체%20중간체.md), [금속 수소화물의 반응성](../개념/금속%20수소화물의%20반응성.md)
+- 반응: [ester 부분 환원](../반응/에스터%20부분%20환원.md), [Rosenmund 환원](../반응/로젠문트%20환원.md), [alcohol 산화](../반응/알코올%20산화.md)
+- 비교 시약: [LiAlH4](LiAlH4.md), [LiBH4](LiBH4.md), [borane](보레인.md), [DMP](DMP.md)
+- 개념: [tetrahedral intermediate](../개념/사면체%20중간체.md), [metal hydride의 반응성](../개념/금속%20수소화물의%20반응성.md)
 
 ## 출처
 
 - [L5 환원](../../notes/L05_Reduction.md) 2절 (슬라이드 p.29)
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 0절 (L6c p.2)
+- [L6 산화와 alkene 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 0절 (L6c p.2)

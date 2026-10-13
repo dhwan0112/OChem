@@ -1,6 +1,6 @@
 # L1 연습 문제와 해설
 
-> L1 강의 노트([L1 알켄의 친전자성 첨가 1부](../notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md))에 있던 연습 문제와 해설을 옮긴 것이다. 관련 개념: [할로젠 첨가](../wiki/반응/할로젠%20첨가.md), [브로모늄 이온](../wiki/개념/브로모늄%20이온.md), [에폭시화](../wiki/반응/에폭시화.md), [할로젠화수소 첨가](../wiki/반응/할로젠화수소%20첨가.md), [마르코프니코프 규칙](../wiki/개념/마르코프니코프%20규칙.md), [다이엔의 친전자성 첨가](../wiki/반응/다이엔의%20친전자성%20첨가.md), [느슨한 SN2 전이 상태](../wiki/개념/느슨한%20SN2%20전이%20상태.md), [할로하이드린 형성](../wiki/반응/할로하이드린%20형성.md).
+> L1 강의 노트([L1 Electrophilic Addition to Alkenes, Part 1](../notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md))에 있던 연습 문제와 해설을 옮긴 것이다. 관련 개념: [halogen addition](../wiki/반응/할로젠%20첨가.md), [bromonium ion](../wiki/개념/브로모늄%20이온.md), [epoxidation](../wiki/반응/에폭시화.md), [hydrohalogenation](../wiki/반응/할로젠화수소%20첨가.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md), [electrophilic addition to dienes](../wiki/반응/다이엔의%20친전자성%20첨가.md), [loose SN2 transition state](../wiki/개념/느슨한%20SN2%20전이%20상태.md), [halohydrin formation](../wiki/반응/할로하이드린%20형성.md).
 
 ## 문제
 

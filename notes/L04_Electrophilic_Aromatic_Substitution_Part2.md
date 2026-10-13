@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [나이트로화](../wiki/반응/나이트로화.md), [방향족 할로젠화](../wiki/반응/방향족%20할로젠화.md), [설폰화](../wiki/반응/설폰화.md), [친전자성 방향족 치환](../wiki/반응/친전자성%20방향족%20치환.md), [클레멘센 환원](../wiki/반응/클레멘센%20환원.md), [프리델-크래프츠 아실화](../wiki/반응/프리델-크래프츠%20아실화.md), [프리델-크래프츠 알킬화](../wiki/반응/프리델-크래프츠%20알킬화.md)
-> - 시약: [KMnO4](../wiki/시약/KMnO4.md), [루이스 산 촉매](../wiki/시약/루이스%20산%20촉매.md), [혼산](../wiki/시약/혼산.md)
-> - 개념: [방향족성](../wiki/개념/방향족성.md), [보호기](../wiki/개념/보호기.md), [아레늄 이온](../wiki/개념/아레늄%20이온.md), [아실륨 이온](../wiki/개념/아실륨%20이온.md), [치환기 효과](../wiki/개념/치환기%20효과.md), [탄소 양이온](../wiki/개념/탄소%20양이온.md)
+> - 반응: [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md), [Clemmensen reduction](../wiki/반응/클레멘센%20환원.md), [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [Friedel–Crafts acylation](../wiki/반응/프리델-크래프츠%20아실화.md), [Friedel–Crafts alkylation](../wiki/반응/프리델-크래프츠%20알킬화.md), [nitration](../wiki/반응/나이트로화.md), [sulfonation](../wiki/반응/설폰화.md)
+> - 시약: [KMnO4](../wiki/시약/KMnO4.md), [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md), [mixed acid](../wiki/시약/혼산.md)
+> - 개념: [acylium ion](../wiki/개념/아실륨%20이온.md), [arenium ion](../wiki/개념/아레늄%20이온.md), [aromaticity](../wiki/개념/방향족성.md), [carbocation](../wiki/개념/탄소%20양이온.md), [protecting group](../wiki/개념/보호기.md), [substituent effect](../wiki/개념/치환기%20효과.md)
 
 <!-- wiki-links:end -->
 

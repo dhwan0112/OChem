@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 범위/Test2, 단원/고리화-첨가, 단�
 ---
 # NBS
 
-> *N*-브로모석신이미드. 이 과목에서는 주로 **Br₂를 조금씩 내놓는 다루기 쉬운 브로민 공급원**으로 쓰여, [브로모늄 이온](../개념/브로모늄%20이온.md)을 거치는 [브로모하이드린·브로모에터](../반응/할로하이드린%20형성.md) 합성에 등장한다.
+> *N*-브로모석신이미드. 이 과목에서는 주로 **Br₂를 조금씩 내놓는 다루기 쉬운 브로민 공급원**으로 쓰여, [bromonium ion](../개념/브로모늄%20이온.md)을 거치는 [브로모하이드린·브로모에터](../반응/할로하이드린%20형성.md) 합성에 등장한다.
 
 ## 개요
 
@@ -33,7 +33,7 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 석신이미드의 N
 (출처: L2 p.11–12, L14 p.30)
 
 - 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> 브로모하이드린(±, anti). 물이 bromonium ion의 반대쪽에서 공격하므로 **stereoselective**이다. (출처: L2 p.11)
-- 예: 1-메틸사이클로헥센 --[1. NBS, HBr; 2. 알코올]--> Br은 2차 탄소(CH)에, OR은 메틸이 붙은 3차 탄소에 anti. stereoselective이면서 regioselective이다(→ [할로하이드린 형성](../반응/할로하이드린%20형성.md)). (출처: L2 p.12)
+- 예: 1-메틸사이클로헥센 --[1. NBS, HBr; 2. 알코올]--> Br은 2차 탄소(CH)에, OR은 메틸이 붙은 3차 탄소에 anti. stereoselective이면서 regioselective이다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (출처: L2 p.12)
 - 예: 1-메틸사이클로헥센 --[NBS(cat. HBr), H₂O]--> *trans*-2-브로모-1-메틸사이클로헥산올(±) (→ [L2 연습 문제](../../practice/L02_Exercises.md) 3번)
 - 예: 사이클로헥센 --[1. NBS, HBr; 2. HC≡CCH₂OH]--> *trans*-1-브로모-2-(프로파질옥시)사이클로헥세인(±) (출처: L2 p.12)
 
@@ -46,10 +46,10 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 석신이미드의 N
 
 ## 관련 문서
 
-- 반응: [할로하이드린 형성](../반응/할로하이드린%20형성.md), [할로젠 첨가](../반응/할로젠%20첨가.md)
-- 개념: [브로모늄 이온](../개념/브로모늄%20이온.md), [느슨한 SN2 전이 상태](../개념/느슨한%20SN2%20전이%20상태.md)
+- 반응: [halohydrin formation](../반응/할로하이드린%20형성.md), [halogen addition](../반응/할로젠%20첨가.md)
+- 개념: [bromonium ion](../개념/브로모늄%20이온.md), [loose SN2 transition state](../개념/느슨한%20SN2%20전이%20상태.md)
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.11–12
-- [L14 고리화 첨가 2부](../../notes/L14_Cycloaddition_Part2.md) 11절 (큐베인 합성)
+- [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.11–12
+- [L14 Cycloaddition, Part 2](../../notes/L14_Cycloaddition_Part2.md) 11절 (큐베인 합성)

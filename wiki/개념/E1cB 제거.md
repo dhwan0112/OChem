@@ -7,56 +7,56 @@ tags: [분류/개념, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 ---
 # E1cB 제거
 
-> 먼저 산성 H를 떼어 **짝염기(음이온, cB = conjugate base)**를 만든 다음, 그 음이온이 이웃한 이탈기를 밀어내는 2단계 제거. 원래 나쁜 이탈기인 HO⁻도 떨어질 수 있다는 것이 특징이다. 알돌 탈수와 Fmoc 탈보호가 대표 예다.
+> 먼저 산성 H를 떼어 **conjugate base(음이온, cB, 짝염기)**를 만든 다음, 그 음이온이 이웃한 leaving group을 밀어내는 2단계 제거. 원래 나쁜 leaving group인 HO⁻도 떨어질 수 있다는 것이 특징이다. aldol 탈수와 Fmoc deprotection이 대표 예다.
 
 ## 개요
 
-E2는 H와 이탈기가 한 번에 떨어지고, E1은 이탈기가 먼저 떨어져 탄소 양이온이 생긴다. E1cB는 순서가 반대다. **H가 먼저** 떨어져 음이온이 생기고, 이탈기는 나중에 떨어진다. 그래서 떼어 낼 H가 충분히 산성이어서 음이온이 안정해야 한다. 카보닐의 α-H나 플루오렌 9번 H가 그런 예다(→ [α-수소의 산도](α-수소의%20산도.md)). (출처: L8 p.10; L12 p.11)
+E2는 H와 leaving group이 한 번에 떨어지고, E1은 leaving group이 먼저 떨어져 carbocation이 생긴다. E1cB는 순서가 반대다. **H가 먼저** 떨어져 음이온이 생기고, leaving group은 나중에 떨어진다. 그래서 떼어 낼 H가 충분히 산성이어서 음이온이 안정해야 한다. carbonyl의 α-H나 fluorene 9번 H가 그런 예다(→ [α-수소의 산도](α-수소의%20산도.md)). (출처: L8 p.10; L12 p.11)
 
 ## 메커니즘: aldol 탈수
 
-[aldol](../반응/알돌%20반응.md) 생성물 CH₃CH(OH)CH₂CHO에 염기를 더 오래, 더 세게 작용시키면 물이 빠진다. 그런데 HO⁻는 원래 나쁜 이탈기인데 어떻게 떨어질까? 비결은 이탈 전에 먼저 음이온(짝염기)을 만드는 데 있다. (출처: L8 p.10)
+[aldol](../반응/알돌%20반응.md) 생성물 CH₃CH(OH)CH₂CHO에 염기를 더 오래, 더 세게 작용시키면 물이 빠진다. 그런데 HO⁻는 원래 나쁜 leaving group인데 어떻게 떨어질까? 비결은 이탈 전에 먼저 음이온(conjugate base)을 만드는 데 있다. (출처: L8 p.10)
 
-1. aldol의 α-H는 여전히 카보닐 옆에 있으므로 산성이다. HO⁻가 이 H를 떼어 [enolate](엔올과%20엔올레이트.md)(짝염기)를 만든다. 이때 β-탄소의 OH는 그대로 붙어 있다.
+1. aldol의 α-H는 여전히 carbonyl 옆에 있으므로 산성이다. HO⁻가 이 H를 떼어 [enolate](엔올과%20엔올레이트.md)(conjugate base)를 만든다. 이때 β-탄소의 OH는 그대로 붙어 있다.
 2. enolate의 전자쌍이 내려오며 Cα=Cβ 이중결합을 만들고, β-탄소의 HO⁻를 밀어낸다.
 
 `CH₃CH(OH)CH₂CHO → CH₃CH=CHCHO (2-butenal, enal) + H₂O (HO⁻ 재생)`
 
-이 반응이 앞으로 가는 원동력은 생성물의 **conjugation**이다. 알켄과 카보닐이 이어져 전자가 넓게 퍼지므로 α,β-불포화 카보닐 화합물이 안정하다. 더 강한 염기, 더 높은 온도, 더 긴 반응 시간일수록 탈수 생성물이 나오기 쉽다. (출처: L8 p.10, p.11)
+이 반응이 앞으로 가는 원동력은 생성물의 **conjugation**이다. alkene과 carbonyl이 이어져 전자가 넓게 퍼지므로 α,β-unsaturated carbonyl 화합물이 안정하다. 더 강한 염기, 더 높은 온도, 더 긴 반응 시간일수록 탈수 생성물이 나오기 쉽다. (출처: L8 p.10, p.11)
 
 ![알돌의 α-H가 떨어져 엔올레이트가 되고 β-OH가 HO⁻로 떨어져 2-butenal이 되는 E1cB 탈수 메커니즘](../../figures/L08/aldol_e1cb.svg)
 
-*그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(짝염기, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 공액 안정화 덕분에 앞으로 진행된다. (출처: L8 p.10)*
+*그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(conjugate base, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 conjugation 안정화 덕분에 앞으로 진행된다. (출처: L8 p.10)*
 
 ## 예
 
-- **알돌 축합:** PhCHO + PhCOCH₃ --[HO⁻, 20 °C]--> (*E*)-칼콘(85%). [Knoevenagel](../반응/크뇌베나겔%20축합.md) 생성물과 분자내 알돌의 2-아세틸사이클로펜탄올 → 1-아세틸사이클로펜텐도 같은 단계다(→ [알돌 반응](../반응/알돌%20반응.md), [분자내 알돌 반응](../반응/분자내%20알돌%20반응.md)). (출처: L8 p.28, p.29, p.31)
-- **[Fmoc 보호기](../시약/Fmoc%20보호기.md) 제거:** 아민 염기가 플루오렌 9번 C–H(pKa 약 25)를 떼면 14전자 방향족 음이온이 생기고, 이것이 CH₂–O 결합을 밀어내 다이벤조풀벤과 카바메이트 음이온이 된다. 카바메이트는 CO₂를 잃고 아민이 된다. (출처: L12 p.11)
+- **aldol condensation:** PhCHO + PhCOCH₃ --[HO⁻, 20 °C]--> (*E*)-chalcone(85%). [Knoevenagel](../반응/크뇌베나겔%20축합.md) 생성물과 분자내 aldol의 2-acetylcyclopentan-1-ol → 1-acetylcyclopentene도 같은 단계다(→ [aldol reaction](../반응/알돌%20반응.md), [intramolecular aldol reaction](../반응/분자내%20알돌%20반응.md)). (출처: L8 p.28, p.29, p.31)
+- **[Fmoc protecting group](../시약/Fmoc%20보호기.md) 제거:** amine 염기가 fluorene 9번 C–H(pKa 약 25)를 떼면 14전자 aromatic 음이온이 생기고, 이것이 CH₂–O 결합을 밀어내 dibenzofulvene과 carbamate 음이온이 된다. carbamate는 CO₂를 잃고 amine이 된다. (출처: L12 p.11)
 
 ![아민 염기에 의한 Fmoc의 E1cB 제거](../../figures/L12/fmoc_removal.svg)
 
-*그림: NR₃가 플루오렌 9번 H를 떼고(가역), 생긴 방향족 음이온의 전자쌍이 C9=CH₂를 만들며 CH₂–O 결합이 끊어진다.*
+*그림: NR₃가 fluorene 9번 H를 떼고(가역), 생긴 aromatic 음이온의 전자쌍이 C9=CH₂를 만들며 CH₂–O 결합이 끊어진다.*
 
 ## 비교: 산 조건 탈수는 다르다
 
-산 촉매 알돌에서는 3차 OH가 양성자화되어 물로 떨어지고 탄소 양이온이 생긴 뒤 α-H가 빠진다. 슬라이드는 이것을 **E1**로 표기한다. 같은 "알돌 탈수"라도 조건에 따라 경로가 다르다. (출처: L8 p.13; L10 p.3)
+산 촉매 aldol에서는 3차 OH가 protonation되어 물로 떨어지고 carbocation이 생긴 뒤 α-H가 빠진다. 슬라이드는 이것을 **E1**로 표기한다. 같은 "aldol 탈수"라도 조건에 따라 경로가 다르다. (출처: L8 p.13; L10 p.3)
 
-보충: [첨가-제거 반응](../반응/첨가-제거%20반응.md)에서 β-이탈기를 가진 엔온에 친핵체가 짝지음 첨가한 뒤 엔올레이트가 이탈기를 밀어내는 두 번째 단계도, "음이온이 먼저 생기고 이탈기가 나중에 떨어진다"는 점에서 같은 모양이다(L11 p.22). 슬라이드는 이 단계를 E1cB라고 부르지 않는다. (보충 근거: Clayden p.399, p.511)
+보충: [addition–elimination 반응](../반응/첨가-제거%20반응.md)에서 β-leaving group을 가진 enone에 nucleophile이 conjugate addition한 뒤 enolate가 leaving group을 밀어내는 두 번째 단계도, "음이온이 먼저 생기고 leaving group이 나중에 떨어진다"는 점에서 같은 모양이다(L11 p.22). 슬라이드는 이 단계를 E1cB라고 부르지 않는다. (보충 근거: Clayden p.399, p.511)
 
 ## 흔한 오해
 
-- "염기성 알돌 탈수는 E2다": 엔올레이트(짝염기)가 먼저 생긴 뒤 HO⁻가 떨어지는 E1cB다. 산성 탈수는 슬라이드에서 E1로 표기한다. (출처: L8 p.10, p.13)
-- "Fmoc의 pKa 25짜리 C–H를 떼려면 강염기가 필요하다": 아민 염기로 충분하다. 탈양성자화가 가역이어도 이어지는 E1cB 제거와 탈카복실화가 반응을 끌고 간다. (출처: L12 p.11)
-- "α-H만 있으면 알돌은 항상 탈수된다": 탈수에는 OH 탄소 옆 α-탄소의 H가 필요하다. 보충: α-탄소가 4차인 알돌(예: (CH₃)₂CHCO₂Et의 LDA 알돌 생성물)은 E1cB로 탈수될 수 없다(L8 p.19 연습 문제 4 해설). (보충 근거: Clayden p.616)
+- "염기성 aldol 탈수는 E2다": enolate(conjugate base)가 먼저 생긴 뒤 HO⁻가 떨어지는 E1cB다. 산성 탈수는 슬라이드에서 E1로 표기한다. (출처: L8 p.10, p.13)
+- "Fmoc의 pKa 25짜리 C–H를 떼려면 강염기가 필요하다": amine 염기로 충분하다. deprotonation이 가역이어도 이어지는 E1cB elimination과 decarboxylation이 반응을 끌고 간다. (출처: L12 p.11)
+- "α-H만 있으면 aldol은 항상 탈수된다": 탈수에는 OH 탄소 옆 α-탄소의 H가 필요하다. 보충: α-탄소가 4차인 aldol(예: (CH₃)₂CHCO₂Et의 LDA aldol 생성물)은 E1cB로 탈수될 수 없다(L8 p.19 연습 문제 4 해설). (보충 근거: Clayden p.616)
 
 ## 관련 문서
 
-- 반응: [알돌 반응](../반응/알돌%20반응.md), [분자내 알돌 반응](../반응/분자내%20알돌%20반응.md), [역알돌 반응](../반응/역알돌%20반응.md), [첨가-제거 반응](../반응/첨가-제거%20반응.md)
-- 시약: [Fmoc 보호기](../시약/Fmoc%20보호기.md)
-- 개념: [엔올과 엔올레이트](엔올과%20엔올레이트.md), [α-수소의 산도](α-수소의%20산도.md), [탄소 양이온](탄소%20양이온.md), [방향족성](방향족성.md)
+- 반응: [aldol reaction](../반응/알돌%20반응.md), [intramolecular aldol reaction](../반응/분자내%20알돌%20반응.md), [retro-aldol reaction](../반응/역알돌%20반응.md), [addition–elimination 반응](../반응/첨가-제거%20반응.md)
+- 시약: [Fmoc protecting group](../시약/Fmoc%20보호기.md)
+- 개념: [enol과 enolate](엔올과%20엔올레이트.md), [α-수소의 산도](α-수소의%20산도.md), [carbocation](탄소%20양이온.md), [aromaticity](방향족성.md)
 
 ## 출처
 
-- [L8 알돌 반응](../../notes/L08_Aldol_Reactions.md) 2절, 3절
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절
-- [L11 짝지음 첨가](../../notes/L11_Conjugate_Addition.md) 7절
+- [L8 aldol reaction](../../notes/L08_Aldol_Reactions.md) 2절, 3절
+- [L12 protecting group](../../notes/L12_Protecting_Groups.md) 7절
+- [L11 conjugate addition](../../notes/L11_Conjugate_Addition.md) 7절

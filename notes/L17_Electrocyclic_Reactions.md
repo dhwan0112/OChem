@@ -3,8 +3,8 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [광화학 2+2 고리화 첨가](../wiki/반응/광화학%202+2%20고리화%20첨가.md), [나자로프 고리화](../wiki/반응/나자로프%20고리화.md), [전자고리화 반응](../wiki/반응/전자고리화%20반응.md), [코프 자리옮김](../wiki/반응/코프%20자리옮김.md)
-> - 개념: [1,3-쌍극자](../wiki/개념/1,3-쌍극자.md), [알릴 양이온](../wiki/개념/알릴%20양이온.md), [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md), [초면과 대면](../wiki/개념/초면과%20대면.md), [콘로테이션과 디스로테이션](../wiki/개념/콘로테이션과%20디스로테이션.md), [페리고리 반응](../wiki/개념/페리고리%20반응.md)
+> - 반응: [Cope rearrangement](../wiki/반응/코프%20자리옮김.md), [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md), [photochemical \[2+2\] cycloaddition](../wiki/반응/광화학%202+2%20고리화%20첨가.md)
+> - 개념: [1,3-dipole](../wiki/개념/1,3-쌍극자.md), [allyl cation](../wiki/개념/알릴%20양이온.md), [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
 
 <!-- wiki-links:end -->
 

@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [SN2 반응](../wiki/반응/SN2%20반응.md), [공액 첨가](../wiki/반응/공액%20첨가.md), [마이클 반응](../wiki/반응/마이클%20반응.md), [이미늄 촉매 공액 첨가](../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [첨가-제거 반응](../wiki/반응/첨가-제거%20반응.md), [친핵성 방향족 치환](../wiki/반응/친핵성%20방향족%20치환.md), [친핵성 아실 치환](../wiki/반응/친핵성%20아실%20치환.md), [환원성 아미노화](../wiki/반응/환원성%20아미노화.md)
-> - 시약: [LDA](../wiki/시약/LDA.md), [LiAlH4](../wiki/시약/LiAlH4.md), [NaBH4](../wiki/시약/NaBH4.md), [Pd/C](../wiki/시약/Pd-C.md), [그리냐르 시약](../wiki/시약/그리냐르%20시약.md), [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md), [유기구리 시약](../wiki/시약/유기구리%20시약.md), [피롤리딘](../wiki/시약/피롤리딘.md)
-> - 개념: [1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md), [E1cB 제거](../wiki/개념/E1cB%20제거.md), [마이젠하이머 착물](../wiki/개념/마이젠하이머%20착물.md), [방향족성](../wiki/개념/방향족성.md), [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [엔아민](../wiki/개념/엔아민.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md), [이미늄 이온](../wiki/개념/이미늄%20이온.md), [이민](../wiki/개념/이민.md), [친전자체와 친핵체](../wiki/개념/친전자체와%20친핵체.md), [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md)
+> - 반응: [addition-elimination](../wiki/반응/첨가-제거%20반응.md), [conjugate addition](../wiki/반응/공액%20첨가.md), [iminium-catalysed conjugate addition](../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [Michael reaction](../wiki/반응/마이클%20반응.md), [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [nucleophilic aromatic substitution](../wiki/반응/친핵성%20방향족%20치환.md), [reductive amination](../wiki/반응/환원성%20아미노화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
+> - 시약: [alkoxide base](../wiki/시약/알콕사이드%20염기.md), [Grignard reagent](../wiki/시약/그리냐르%20시약.md), [LDA](../wiki/시약/LDA.md), [LiAlH4](../wiki/시약/LiAlH4.md), [NaBH4](../wiki/시약/NaBH4.md), [organocuprate](../wiki/시약/유기구리%20시약.md), [Pd/C](../wiki/시약/Pd-C.md), [pyrrolidine](../wiki/시약/피롤리딘.md)
+> - 개념: [1,2-addition vs 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md), [aromaticity](../wiki/개념/방향족성.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [enamine](../wiki/개념/엔아민.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md), [imine](../wiki/개념/이민.md), [iminium ion](../wiki/개념/이미늄%20이온.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [Meisenheimer complex](../wiki/개념/마이젠하이머%20착물.md)
 
 <!-- wiki-links:end -->
 
@@ -25,117 +25,117 @@ L1~L2의 알켄은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 
 ### 2. conjugate addition(Michael addition)의 일반형 (슬라이드 p.4)
 - Nu는 β-탄소에, H는 α-탄소에 붙는다. 짝지은 EWG가 반드시 필요하다. 예: mesityl oxide + PhSH(94%), chalcone + CN⁻(95%).
-- → [공액 첨가](../wiki/반응/공액%20첨가.md)
+- → [conjugate addition](../wiki/반응/공액%20첨가.md)
 
 #### 2.1 아민의 첨가 (슬라이드 p.5)
 - 1차·2차 아민 → β-아미노 carbonyl. zwitterion → 양성자 이동 → tautomerization의 네 단계, 모두 가역.
-- → [공액 첨가](../wiki/반응/공액%20첨가.md)의 "메커니즘", [케토-엔올 토토머화](../wiki/반응/케토-엔올%20토토머화.md)
+- → [conjugate addition](../wiki/반응/공액%20첨가.md)의 "메커니즘", [keto–enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md)
 
 #### 2.2 organocuprate의 첨가 (슬라이드 p.6–7)
 - C–Cu는 C–Mg보다 덜 분극되어 soft하므로 β-탄소를 고른다. R₂CuLi는 CuBr + 2 RLi로 만들고, MeMgBr + CuCl(0.01 eq)은 transmetallation으로 촉매적으로 돈다. CuCl이 없으면 1,2.
-- → [유기구리 시약](../wiki/시약/유기구리%20시약.md), [그리냐르 시약](../wiki/시약/그리냐르%20시약.md)
+- → [organocuprate](../wiki/시약/유기구리%20시약.md), [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
 
 #### 2.3 연습: cuprate로 무엇을 만들 수 있나 (슬라이드 p.8)
 - 생성물에서 β-치환기 하나를 R₂CuLi의 R로 떼고 α–β에 C=C를 다시 넣으면 출발 enone이 나온다.
-- → [유기구리 시약](../wiki/시약/유기구리%20시약.md)의 "역합성 요령", [연습 문제](../practice/L11_Exercises.md) 문제 1
+- → [organocuprate](../wiki/시약/유기구리%20시약.md)의 "역합성 요령", [연습 문제](../practice/L11_Exercises.md) 문제 1
 
 ### 3. 1,2-첨가와 1,4-첨가 (슬라이드 p.9–13)
 - 1,2는 알릴 알코올, 1,4는 enol을 거쳐 케톤을 준다. 무엇이 정하는가: 받개의 작용기, nucleophile, 반응 조건.
-- → [1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md)
+- → [1,2-addition과 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)
 
 #### 3.1 요인 1: 받개의 작용기 (슬라이드 p.10)
 - 직접 첨가 비율 acyl chloride > enal > enone > ester > amide. cinnamaldehyde + NaBH₄는 1,2, cyclopentenone + NaBH₄는 1,4 후 1,2.
-- → [1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md), [NaBH4](../wiki/시약/NaBH4.md), [첨가-제거 반응](../wiki/반응/첨가-제거%20반응.md)(acyl chloride + NH₃)
+- → [1,2-addition과 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md), [NaBH4](../wiki/시약/NaBH4.md), [addition-elimination](../wiki/반응/첨가-제거%20반응.md)(acyl chloride + NH₃)
 
 #### 3.2 요인 2: nucleophile, Grignard vs cuprate (슬라이드 p.11–12)
 - hard nucleophile(RMgBr, RLi)은 carbonyl 탄소로(1,2), soft nucleophile(R₂CuLi, RS⁻)은 β-탄소로(1,4).
-- → [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md), [그리냐르 시약](../wiki/시약/그리냐르%20시약.md), [유기구리 시약](../wiki/시약/유기구리%20시약.md)
+- → [HSAB](../wiki/개념/하드-소프트%20산염기.md), [Grignard reagent](../wiki/시약/그리냐르%20시약.md), [organocuprate](../wiki/시약/유기구리%20시약.md)
 
 #### 3.3 요인 3: kinetic vs thermodynamic product (슬라이드 p.13)
 - MVK + NaCN/HCN: 5–10 °C에서 cyanohydrin(1,2, kinetic, 가역), 80 °C에서 NC–CH₂CH₂–COCH₃(1,4, thermodynamic). 1,4는 약한 C=C π를 잃고 C=O를 보존한다.
-- → [1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
+- → [1,2-addition과 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md), [kinetic control과 thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
 ### 4. enolate의 conjugate addition: 1,5-dicarbonyl (슬라이드 p.14–17)
-- → [마이클 반응](../wiki/반응/마이클%20반응.md)
+- → [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 #### 4.1 기본형 (슬라이드 p.14)
 - enolate α-탄소가 Michael acceptor의 β-탄소를 쳐서 새 enolate → 양성자화하면 1,5-dicarbonyl. acrylonitrile도 좋은 받개다.
-- → [마이클 반응](../wiki/반응/마이클%20반응.md)의 "메커니즘", [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md)
+- → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "메커니즘", [enol과 enolate](../wiki/개념/엔올과%20엔올레이트.md)
 
 #### 4.2 경쟁 반응: conjugate addition vs aldol (슬라이드 p.15)
 - aldol(1,2)은 가역이라 결국 conjugate addition으로 모인다. 경향은 R = H < alkyl < OR < NR₂. LDA enolate + 아마이드 받개(60%).
-- → [마이클 반응](../wiki/반응/마이클%20반응.md)의 "선택성", [알돌 반응](../wiki/반응/알돌%20반응.md)
+- → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "선택성", [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 #### 4.3 반대이온과 enolate 종류 (슬라이드 p.16)
 - Li⁺ + enal은 고리형 TS로 aldol(72%). t-BuOK는 thermodynamic enolate로 4차 탄소를 만든다(53%).
-- → [마이클 반응](../wiki/반응/마이클%20반응.md), [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md)
+- → [Michael reaction](../wiki/반응/마이클%20반응.md), [kinetic enolate와 thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [alkoxide base](../wiki/시약/알콕사이드%20염기.md)
 
 #### 4.4 안정한 enolate: 1,3-dicarbonyl과 nitroalkane (슬라이드 p.17)
 - malonate + ethyl crotonate, PhCH₂NO₂ + cyclohexenone(Al₂O₃, 92%), nitromethane의 conjugate addition 후 분자 내 SN2 고리화(65%).
-- → [마이클 반응](../wiki/반응/마이클%20반응.md), [말론산 에스터 합성](../wiki/반응/말론산%20에스터%20합성.md), [α-수소의 산도](../wiki/개념/α-수소의%20산도.md)
+- → [Michael reaction](../wiki/반응/마이클%20반응.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [α-H acidity](../wiki/개념/α-수소의%20산도.md)
 
 ### 5. enamine: 중성이면서 soft한 nucleophile (슬라이드 p.18–20)
 
 #### 5.1 enamine 복습 (슬라이드 p.18)
 - ketone + 2차 아민 → enamine, R–X로 α-alkylation 후 가수분해. iminium과 enamine은 양성자 하나 차이.
-- → [엔아민](../wiki/개념/엔아민.md), [스토크 엔아민 반응](../wiki/반응/스토크%20엔아민%20반응.md), [이미늄 이온](../wiki/개념/이미늄%20이온.md), [환원성 아미노화](../wiki/반응/환원성%20아미노화.md)
+- → [enamine](../wiki/개념/엔아민.md), [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md), [iminium ion](../wiki/개념/이미늄%20이온.md), [reductive amination](../wiki/반응/환원성%20아미노화.md)
 
 #### 5.2 enamine의 conjugate addition (슬라이드 p.19)
 - pyrrolidine·morpholine enamine이 받개의 말단 CH₂에 붙고, 후처리 가수분해로 1,5-dicarbonyl(95%, 75%).
-- → [마이클 반응](../wiki/반응/마이클%20반응.md)의 "enamine" 절, [연습 문제](../practice/L11_Exercises.md) 문제 6
+- → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "enamine" 절, [연습 문제](../practice/L11_Exercises.md) 문제 6
 
 #### 5.3 합성 응용: dopamine antagonist (슬라이드 p.20)
 - ester enolate + acrylonitrile(Triton B) → H₂/Pd/C로 아민, lactam 고리화 → alkylation과 환원.
-- → [마이클 반응](../wiki/반응/마이클%20반응.md)의 "예", [연습 문제](../practice/L11_Exercises.md) 문제 7
+- → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "예", [연습 문제](../practice/L11_Exercises.md) 문제 7
 
 ### 6. iminium ion 촉매 (슬라이드 p.21)
 - 키랄 imidazolidinone이 enal을 iminium으로 바꿔 받개를 활성화하고, 벤질기가 한쪽 면을 가려 87–97% ee.
-- → [이미늄 촉매 공액 첨가](../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [이미늄 이온](../wiki/개념/이미늄%20이온.md)
+- → [iminium-catalyzed conjugate addition](../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [iminium ion](../wiki/개념/이미늄%20이온.md)
 
 ### 7. β-이탈기가 있는 conjugate addition과 SNAr (슬라이드 p.22–23)
 
 #### 7.1 첨가-제거 메커니즘 (슬라이드 p.22)
 - β-F enone + R₂NH: 첨가로 생긴 enolate가 F⁻를 밀어내 β-아미노 enone. C=C가 다시 생긴다.
-- → [첨가-제거 반응](../wiki/반응/첨가-제거%20반응.md)
+- → [addition-elimination](../wiki/반응/첨가-제거%20반응.md)
 
 #### 7.2 친핵성 방향족 치환(SNAr) (슬라이드 p.22–23)
 - 강한 EWG가 붙은 할로벤젠에서 첨가(느림) → σ complex → 제거. 규칙: F >> Cl ~ Br >> I, 강한 EWG(NO₂ 최강), 이탈기는 EWG의 ortho/para.
-- → [SNAr](../wiki/반응/친핵성%20방향족%20치환.md), [마이젠하이머 착물](../wiki/개념/마이젠하이머%20착물.md)
+- → [SNAr](../wiki/반응/친핵성%20방향족%20치환.md), [Meisenheimer complex](../wiki/개념/마이젠하이머%20착물.md)
 
 ### 8. 요약 (슬라이드 p.24)
 - 1,4 vs 1,2 / RMgBr + CuCl(촉매) / enolate·enamine → 1,5-dicarbonyl / iminium 촉매 / β-이탈기 → SNAr. 공통 뼈대: Nu가 β-탄소 공격 → enolate → enol → 케톤.
-- → [공액 첨가](../wiki/반응/공액%20첨가.md)의 "공통 뼈대"
+- → [conjugate addition](../wiki/반응/공액%20첨가.md)의 "공통 뼈대"
 
 ## 반응 요약표
 
 | 반응 | 시약/조건 | 생성물 | 위치선택성 | 비고 |
 |---|---|---|---|---|
-| 티올 첨가 ([공액 첨가](../wiki/반응/공액%20첨가.md)) | mesityl oxide + PhSH, 25 °C | (CH3)2C(SPh)CH2COCH3 (94%) | 1,4 | soft (p.4) |
-| 시안화 첨가 ([공액 첨가](../wiki/반응/공액%20첨가.md)) | chalcone + ⁻CN, EtOH, HOAc | PhCH(CN)CH2COPh (95%) | 1,4 | 새 입체중심, 라세미(보충) (p.4) |
-| 아민 첨가 ([공액 첨가](../wiki/반응/공액%20첨가.md)) | mesityl oxide + MeNH2, H2O | (CH3)2C(NHMe)CH2COCH3 (75%) | 1,4 | zwitterion 경유 (p.5) |
-| cuprate 제조 ([유기구리 시약](../wiki/시약/유기구리%20시약.md)) | CuBr + 2 RLi, Et2O, −78 °C | R2CuLi + LiBr | – | 즉시 사용 (p.6) |
-| Cu 촉매 Grignard ([유기구리 시약](../wiki/시약/유기구리%20시약.md)) | isophorone + MeMgBr, CuCl 0.01 eq | 3,3,5,5-tetramethylcyclohexanone (83%) | 1,4 | CuCl 없으면 1,2 (p.6–7) |
-| Grignard/RLi ([그리냐르 시약](../wiki/시약/그리냐르%20시약.md)) | 2-cyclohexenone + CH3MgBr 또는 CH3Li; H3O⁺ | 1-methyl-2-cyclohexen-1-ol (95%) | 1,2 | hard (p.11) |
-| cuprate ([유기구리 시약](../wiki/시약/유기구리%20시약.md)) | 2-cyclohexenone + (CH3)2CuLi; H3O⁺ | 3-methylcyclohexanone (97%) | 1,4 | soft (p.11) |
-| acyl chloride + NH3 ([첨가-제거 반응](../wiki/반응/첨가-제거%20반응.md)) | CH2=CHCOCl + NH3 | CH2=CHCONH2 | 1,2(아실 치환) | (p.10) |
-| acrylate + NH3 ([공액 첨가](../wiki/반응/공액%20첨가.md)) | CH2=CHCO2Me + NH3 | H2NCH2CH2CO2Me | 1,4 | (p.10) |
+| 티올 첨가 ([conjugate addition](../wiki/반응/공액%20첨가.md)) | mesityl oxide + PhSH, 25 °C | (CH3)2C(SPh)CH2COCH3 (94%) | 1,4 | soft (p.4) |
+| 시안화 첨가 ([conjugate addition](../wiki/반응/공액%20첨가.md)) | chalcone + ⁻CN, EtOH, HOAc | PhCH(CN)CH2COPh (95%) | 1,4 | 새 입체중심, 라세미(보충) (p.4) |
+| 아민 첨가 ([conjugate addition](../wiki/반응/공액%20첨가.md)) | mesityl oxide + MeNH2, H2O | (CH3)2C(NHMe)CH2COCH3 (75%) | 1,4 | zwitterion 경유 (p.5) |
+| cuprate 제조 ([organocuprate](../wiki/시약/유기구리%20시약.md)) | CuBr + 2 RLi, Et2O, −78 °C | R2CuLi + LiBr | – | 즉시 사용 (p.6) |
+| Cu 촉매 Grignard ([organocuprate](../wiki/시약/유기구리%20시약.md)) | isophorone + MeMgBr, CuCl 0.01 eq | 3,3,5,5-tetramethylcyclohexanone (83%) | 1,4 | CuCl 없으면 1,2 (p.6–7) |
+| Grignard/RLi ([Grignard reagent](../wiki/시약/그리냐르%20시약.md)) | 2-cyclohexenone + CH3MgBr 또는 CH3Li; H3O⁺ | 1-methyl-2-cyclohexen-1-ol (95%) | 1,2 | hard (p.11) |
+| cuprate ([organocuprate](../wiki/시약/유기구리%20시약.md)) | 2-cyclohexenone + (CH3)2CuLi; H3O⁺ | 3-methylcyclohexanone (97%) | 1,4 | soft (p.11) |
+| acyl chloride + NH3 ([addition-elimination](../wiki/반응/첨가-제거%20반응.md)) | CH2=CHCOCl + NH3 | CH2=CHCONH2 | 1,2(아실 치환) | (p.10) |
+| acrylate + NH3 ([conjugate addition](../wiki/반응/공액%20첨가.md)) | CH2=CHCO2Me + NH3 | H2NCH2CH2CO2Me | 1,4 | (p.10) |
 | enal 환원 ([NaBH4](../wiki/시약/NaBH4.md)) | cinnamaldehyde + NaBH4, EtOH | cinnamyl alcohol (97%) | 1,2 | (p.10) |
 | 고리 enone 환원 ([NaBH4](../wiki/시약/NaBH4.md)) | cyclopentenone + NaBH4, EtOH | cyclopentanol (99%) | 1,4 후 1,2 | (p.10) |
-| HCN 첨가, 저온 ([1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md)) | MVK + NaCN, HCN, 5–10 °C | cyanohydrin | 1,2 | kinetic, 가역 (p.13) |
-| HCN 첨가, 고온 ([1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md)) | MVK + NaCN, HCN, 80 °C | NCCH2CH2COCH3 | 1,4 | thermodynamic (p.13) |
-| enolate Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | cyclohexanone + LDA; (E)-CH3CH=CHCONMe2 | 1,5-ketoamide (60%) | 1,4 | 아마이드 받개 (p.15) |
-| Li enolate + enal ([알돌 반응](../wiki/반응/알돌%20반응.md)) | ethyl isobutyrate + LDA, −78 °C; (CH3)2C=CHCHO | β-hydroxy ester (72%) | 1,2(aldol) | Li⁺ 배위 (p.16) |
-| thermodynamic enolate Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | 2-methylcyclopentanone + methyl acrylate, t-BuOK | 4차 탄소 생성물 (53%) | 1,4 | (p.16) |
-| malonate Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | CH2(CO2Et)2 + ethyl crotonate, NaOEt | (EtO2C)2CHCH(CH3)CH2CO2Et | 1,4 | 안정한 enolate (p.17) |
-| nitroalkane Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | PhCH2NO2 + 2-cyclohexenone, Al2O3 | 3-(CH(Ph)NO2)cyclohexanone (92%) | 1,4 | (p.17) |
-| Michael–분자 내 alkylation ([마이클 반응](../wiki/반응/마이클%20반응.md)) | I(CH2)4CH=CHCO2Me + CH3NO2, Cs2CO3, DMF | methyl 2-(2-nitrocyclohexyl)acetate (65%) | 1,4 후 SN2 | (p.17) |
-| enamine alkylation ([스토크 엔아민 반응](../wiki/반응/스토크%20엔아민%20반응.md)) | cyclohexanone + pyrrolidine; R–X; H3O⁺ | 2-R-cyclohexanone | α | (p.18) |
-| enamine Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | pyrrolidine enamine + CH2=C(SMe)CO2Me; H2O | 1,5-dicarbonyl (95%) | 1,4 | (p.19) |
-| enamine Michael ([마이클 반응](../wiki/반응/마이클%20반응.md)) | morpholine enamine + CH2=C(SO2Ph)COCH3, SiO2; H2O | 1,5-diketone (75%) | 1,4 | (p.19) |
-| iminium 촉매 ([이미늄 촉매 공액 첨가](../wiki/반응/이미늄%20촉매%20공액%20첨가.md)) | enal + pyrrole, imidazolidinone 20 mol% | β-pyrrolyl aldehyde (68–90%) | 1,4 | 87–97% ee, (R) (p.21) |
-| β-이탈기 치환 ([첨가-제거 반응](../wiki/반응/첨가-제거%20반응.md)) | 2-F-cyclohexenyl methyl ketone + R2NH | β-아미노 enone | β 치환 | (p.22) |
-| SNAr ([친핵성 방향족 치환](../wiki/반응/친핵성%20방향족%20치환.md)) | o-F-acetophenone + R2NH | o-NR2-acetophenone | ipso | ortho EWG (p.23) |
-| SNAr ([친핵성 방향족 치환](../wiki/반응/친핵성%20방향족%20치환.md)) | p-Cl-nitrobenzene + HO⁻ | p-nitrophenol | ipso | para EWG (p.23) |
+| HCN 첨가, 저온 ([1,2-addition과 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)) | MVK + NaCN, HCN, 5–10 °C | cyanohydrin | 1,2 | kinetic, 가역 (p.13) |
+| HCN 첨가, 고온 ([1,2-addition과 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)) | MVK + NaCN, HCN, 80 °C | NCCH2CH2COCH3 | 1,4 | thermodynamic (p.13) |
+| enolate Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | cyclohexanone + LDA; (E)-CH3CH=CHCONMe2 | 1,5-ketoamide (60%) | 1,4 | 아마이드 받개 (p.15) |
+| Li enolate + enal ([aldol reaction](../wiki/반응/알돌%20반응.md)) | ethyl isobutyrate + LDA, −78 °C; (CH3)2C=CHCHO | β-hydroxy ester (72%) | 1,2(aldol) | Li⁺ 배위 (p.16) |
+| thermodynamic enolate Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | 2-methylcyclopentanone + methyl acrylate, t-BuOK | 4차 탄소 생성물 (53%) | 1,4 | (p.16) |
+| malonate Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | CH2(CO2Et)2 + ethyl crotonate, NaOEt | (EtO2C)2CHCH(CH3)CH2CO2Et | 1,4 | 안정한 enolate (p.17) |
+| nitroalkane Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | PhCH2NO2 + 2-cyclohexenone, Al2O3 | 3-(CH(Ph)NO2)cyclohexanone (92%) | 1,4 | (p.17) |
+| Michael–분자 내 alkylation ([Michael reaction](../wiki/반응/마이클%20반응.md)) | I(CH2)4CH=CHCO2Me + CH3NO2, Cs2CO3, DMF | methyl 2-(2-nitrocyclohexyl)acetate (65%) | 1,4 후 SN2 | (p.17) |
+| enamine alkylation ([Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md)) | cyclohexanone + pyrrolidine; R–X; H3O⁺ | 2-R-cyclohexanone | α | (p.18) |
+| enamine Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | pyrrolidine enamine + CH2=C(SMe)CO2Me; H2O | 1,5-dicarbonyl (95%) | 1,4 | (p.19) |
+| enamine Michael ([Michael reaction](../wiki/반응/마이클%20반응.md)) | morpholine enamine + CH2=C(SO2Ph)COCH3, SiO2; H2O | 1,5-diketone (75%) | 1,4 | (p.19) |
+| iminium 촉매 ([iminium-catalyzed conjugate addition](../wiki/반응/이미늄%20촉매%20공액%20첨가.md)) | enal + pyrrole, imidazolidinone 20 mol% | β-pyrrolyl aldehyde (68–90%) | 1,4 | 87–97% ee, (R) (p.21) |
+| β-이탈기 치환 ([addition-elimination](../wiki/반응/첨가-제거%20반응.md)) | 2-F-cyclohexenyl methyl ketone + R2NH | β-아미노 enone | β 치환 | (p.22) |
+| SNAr ([nucleophilic aromatic substitution](../wiki/반응/친핵성%20방향족%20치환.md)) | o-F-acetophenone + R2NH | o-NR2-acetophenone | ipso | ortho EWG (p.23) |
+| SNAr ([nucleophilic aromatic substitution](../wiki/반응/친핵성%20방향족%20치환.md)) | p-Cl-nitrobenzene + HO⁻ | p-nitrophenol | ipso | para EWG (p.23) |
 
 ## 연습 문제
 → [L11 연습 문제](../practice/L11_Exercises.md)

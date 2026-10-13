@@ -36,10 +36,10 @@ BH₃의 regioselectivity는 B–H 극성에서 오는 전자 효과에 기댄�
 
 ## 관련 문서
 
-- 반응: [수소붕소화-산화](../반응/수소붕소화-산화.md)
-- 시약: [보레인](보레인.md)
-- 개념: [마르코프니코프 규칙](../개념/마르코프니코프%20규칙.md)
+- 반응: [hydroboration-oxidation](../반응/수소붕소화-산화.md)
+- 시약: [borane](보레인.md)
+- 개념: [Markovnikov's rule](../개념/마르코프니코프%20규칙.md)
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.26–27
+- [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.26–27

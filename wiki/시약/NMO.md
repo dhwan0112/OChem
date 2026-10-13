@@ -26,7 +26,7 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 
 - R–CH₂–CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R–CH₂–CH(OH)–C(OH)(CH₃)₂ (출처: L2 p.14)
 - α-하이드록시 에스터(2차 알코올) --[TPAP(cat.), NMO]--> α-케토 에스터 (93%) (출처: L6c p.10)
-- 바레니클린 중간체: 노보넨형 C=C --[cat. OsO₄, NMO, 85%]--> exo-*cis*-다이올 --[NaIO₄]--> 다이알데하이드 (→ [과아이오딘산 절단](../반응/과아이오딘산%20절단.md)) (출처: Tutorial 2 문제 3)
+- 바레니클린 중간체: 노보넨형 C=C --[cat. OsO₄, NMO, 85%]--> exo-*cis*-다이올 --[NaIO₄]--> 다이알데하이드 (→ [periodate cleavage](../반응/과아이오딘산%20절단.md)) (출처: Tutorial 2 문제 3)
 
 ## 시험에서
 
@@ -35,17 +35,17 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 
 ## 흔한 오해
 
-- "NMO가 알켄에 OH를 붙인다": 두 O를 붙이는 것은 OsO₄다. NMO는 환원된 Os를 되돌릴 뿐이다. 그래서 입체화학(syn)도 OsO₄의 고리형 오스메이트 에스터가 정한다(→ [다이하이드록실화](../반응/다이하이드록실화.md)). (출처: L2 p.14)
+- "NMO가 알켄에 OH를 붙인다": 두 O를 붙이는 것은 OsO₄다. NMO는 환원된 Os를 되돌릴 뿐이다. 그래서 입체화학(syn)도 OsO₄의 고리형 오스메이트 에스터가 정한다(→ [dihydroxylation](../반응/다이하이드록실화.md)). (출처: L2 p.14)
 - "TPAP 산화에서 TPAP가 화학량론적 산화제다": TPAP는 촉매량이고, 산화 당량은 NMO가 댄다. (출처: L6c p.10)
 
 ## 관련 문서
 
-- 반응: [다이하이드록실화](../반응/다이하이드록실화.md), [알코올 산화](../반응/알코올%20산화.md), [과아이오딘산 절단](../반응/과아이오딘산%20절단.md)
+- 반응: [dihydroxylation](../반응/다이하이드록실화.md), [alcohol oxidation](../반응/알코올%20산화.md), [periodate cleavage](../반응/과아이오딘산%20절단.md)
 - 시약: [OsO4](OsO4.md), [TPAP](TPAP.md), [NaIO4](NaIO4.md), [KMnO4](KMnO4.md)
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.14
-- [L6 산화와 알켄 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절
+- [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.14
+- [L6 Oxidation and Alkene Synthesis](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 2절
 - [Tutorial 1](../../practice/Tutorial_1.md) 문제 4, [Tutorial 2](../../practice/Tutorial_2.md) 문제 3
 - [Test 1 (2025)](../../practice/Test1_2025.md) 문제 3
