@@ -28,7 +28,7 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 2. Claisen rearrangement: 처음 발견된 [3,3] (Clayden p.909–912)
-- allyl aryl/vinyl ether → γ,δ-불포화 carbonyl. allyl기가 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
+- allyl aryl/vinyl ether → γ,δ-불포화 carbonyl. allyl group이 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [acetal formation](../wiki/반응/아세탈%20형성.md)
 
 ### 3. chair형 transition state: 왜 *E* alkene이 생기나 (Clayden p.910–911)
@@ -60,7 +60,7 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md)
 
 ### 10. [1,3]H와 [1,7]H: 사슬 길이가 suprafacial/antarafacial을 바꾼다 (Clayden p.921–922)
-- 열적으로 [1,3]H는 antarafacial만 허용이지만 기하상 불가, [1,7]H는 antarafacial로 가능(vitamin D). 광화학에서는 뒤집힌다.
+- 열적으로 [1,3]H는 antarafacial만 허용이지만 기하상 불가, [1,7]H는 antarafacial로 vitamin D. 광화학에서는 뒤집힌다.
 - → [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md), [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md)(vitamin D의 빛 단계)
 
 ### 11. 한 장 정리: sigmatropic 반응의 허용 판정 (Clayden p.912–913, p.918, p.921)
@@ -76,7 +76,7 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 | acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → γ,δ-불포화 aldehyde | EtCO2H, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
 | orthoester·orthoamide 변형 | → γ,δ-불포화 ester·amide | 산, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
 | Ireland–Claisen | allyl ester → γ,δ-불포화 carboxylic acid (*E*) | LDA(Me3SiCl); H⁺/H2O | carboxylate 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | 없음(degenerate) | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
+| Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | degenerate | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | enol·enolate → C=O | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | strain-release Cope | 3원 고리 포함 1,5-diene → 고리 확장 | 33 °C, 36 h | ring strain 해소 | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | citral 합성 | enol ether → (Claisen) → (Cope) → citral | 가열 | C=O, conjugation, 삼치환 alkene | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |

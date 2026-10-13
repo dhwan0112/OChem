@@ -17,7 +17,7 @@
 
 ## 개요
 
-이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation(산화)이다. alcohol을 aldehyde, ketone, carboxylic acid로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 그래서 DMP, Swern, TPAP, MnO₂, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 *E*와 *Z*는 성질이 다른 별개의 화합물이므로, 한 가지 isomer만 골라 만드는 법(Lindlar, Na/NH₃, Wittig, HWE)을 배운다. 이전 강의(L2)에서 C=C를 산화해 끊거나(ozonolysis) 작용기를 붙였다면(epoxidation, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다. 강의 도입부에는 L5의 DIBAL-H 환원도 다시 나온다.
+이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation(산화)이다. alcohol을 aldehyde, ketone, carboxylic acid로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 그래서 DMP, Swern, TPAP, MnO₂, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 *E*와 *Z*는 성질이 다른 별개의 화합물이므로, 한 가지 isomer만 골라 만드는 법(Lindlar, Na/NH₃, Wittig, HWE)을 배운다. 이전 강의(L2)에서 C=C를 산화해 ozonolysis 작용기를 epoxidation, dihydroxylation, 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다. 강의 도입부에는 L5의 DIBAL-H 환원도 다시 나온다.
 
 ## 강의 흐름
 
@@ -153,7 +153,7 @@
 | allyl 산화 ([SeO2](../wiki/시약/SeO2.md)) | SeO₂ | R–CH=C(CH₃)–CHO | allyl CH₃; 그림상 R과 trans인 CH₃ | benzyl CH₃에는 안 됨 (p.18) |
 | [Lindlar hydrogenation](../wiki/반응/린들라%20환원.md) | H₂, Pd/CaCO₃/Pb(OAc)₂ | Z-alkene | syn 첨가 → Z | 과잉 환원 없음 (p.23) |
 | [dissolving metal reduction](../wiki/반응/용해%20금속%20환원.md) | Na, NH₃(l), t-BuOH | E-alkene | trans vinyl anion → E | SET (p.23–24) |
-| ylide 생성 ([phosphorus ylide](../wiki/시약/인%20일라이드.md)) | PPh₃ + RCH₂X (S<sub>N</sub>2); BuLi/PhLi/t-BuOK (안정화형은 Na₂CO₃) | Ph₃P=CHR | 1°/2° halogenation물 | (p.26, 29) |
+| ylide 생성 ([phosphorus ylide](../wiki/시약/인%20일라이드.md)) | PPh₃ + RCH₂X (S<sub>N</sub>2); BuLi/PhLi/t-BuOK (안정화형은 Na₂CO₃) | Ph₃P=CHR | 1°/2° halide | (p.26, 29) |
 | [Wittig](../wiki/반응/위티그%20반응.md) (비안정화) | Ph₃P=CHR (R = alkyl) + R′CHO | R–CH=CH–R′ | Z-선택적 | syn oxaphosphetane (p.31, 34) |
 | [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph₃P=CHCO₂Et, Ph₃P=CHCHO 등 + RCHO | α,β-불포화 carbonyl | E-선택적 | (p.30) |
 | [HWE](../wiki/반응/HWE%20반응.md) | (EtO)₂P(O)CH₂EWG, NaH/EtO⁻/KHMDS + aldehyde·ketone | alkene | E-선택적(이치환) | 수용성 phosphate 부산물 (p.36–37) |

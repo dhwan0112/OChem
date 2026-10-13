@@ -29,7 +29,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 메커니즘의 이름은 "hydride" 첨가다.
 
-1. BH₄⁻의 B–H 결합 전자쌍이 수소화물(nucleophile)로서 carbonyl 탄소(electrophile)를 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
+1. BH₄⁻의 B–H 결합 전자쌍이 nucleophile로서 carbonyl electrophile를 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO⁻는 BH₃에 붙어 EtOBH₃⁻가 된다.
 3. 그런데 EtOBH₃⁻에는 아직 B–H가 남아 있으니 여전히 환원제다.
 
@@ -91,4 +91,4 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 - [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.18
 
 [^1]: p.20–21의 교재 발췌는 H. C. Brown 연구진의 논문들을 인용한다. Brown은 붕소 화합물(보레인 등)을 유기합성에 도입한 공로로 1979년 노벨 화학상을 받았다(→ [borane](보레인.md)).
-[^2]: 슬라이드에는 생성물의 입체화학이 그려져 있지 않다. 표준 교재에 따르면 작은 수소화물이 주로 축 방향(axial)에서 공격하므로 OH가 에쿼토리얼인 *trans*-4-*tert*-butylcyclohexanol이 주생성물이다.
+[^2]: 슬라이드에는 생성물의 입체화학이 그려져 있지 않다. 표준 교재에 따르면 작은 수소화물이 주로 축 axial에서 공격하므로 OH가 에쿼토리얼인 *trans*-4-*tert*-butylcyclohexanol이 주생성물이다.

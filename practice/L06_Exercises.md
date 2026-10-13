@@ -19,11 +19,11 @@
 
 2. DMP(CH2Cl2; 슬라이드 예 84%)가 대표적이다. geraniol은 allyl 1차 alcohol이므로 MnO2도 맞는 답이다. 그밖에 Swern, TEMPO/NaOCl, Cu/TEMPO도 가능하다. Jones(CrO3/H2SO4)는 1차 alcohol을 carboxylic acid까지 산화하고 강산성이라, geranial에서 멈추지 않으며 민감한 기질에도 부적합하다. (L6c p.7, p.10, p.16)
 
-3. 11은 Z로 바뀔 자리가 삼중결합인 엔-인(enyne)이다: HO–CH(Me)–C≡C–CH=CH(E)–(N-Boc-6-methylpiperidin-2-yl), stereocenter는 12와 같다. Lindlar 촉매는 C≡C만 syn으로 환원해 Z-C=C를 만들고, 이미 있는 E-C=C는 건드리지 않는다. 그래서 (Z,E)-diene 12가 생긴다. (L6c p.23, p.25)
+3. 11은 Z로 바뀔 자리가 삼중결합인 enyne이다: HO–CH(Me)–C≡C–CH=CH(E)–(N-Boc-6-methylpiperidin-2-yl), stereocenter는 12와 같다. Lindlar 촉매는 C≡C만 syn으로 환원해 Z-C=C를 만들고, 이미 있는 E-C=C는 건드리지 않는다. 그래서 (Z,E)-diene 12가 생긴다. (L6c p.23, p.25)
 
 4. 빈칸은 Ph3P=CH–CHO(formylmethylene triphenylphosphorane), 즉 aldehyde로 안정화된 ylide다. ylide 탄소가 기질 aldehyde와 Wittig 반응을 해 OHC–CH=CH–R을 만든다. C=O에 공액된 안정화 ylide이므로 E-선택적이다([oxaphosphetane](../wiki/개념/옥사포스페테인.md) 문서 각주의 통상적 설명 참고). (L6c p.29–30)
 
-5. (a) C2=C3를 끊는다. 가장 좋은 조합은 acetone (CH3)2C=O + Ph3P=CH–CH2CH3(propylidene ylide: 1-bromopropane + PPh3로 SN2한 뒤 BuLi로 deprotonation)이다. 대안은 propanal CH3CH2CHO + Ph3P=C(CH3)2인데, 이 ylide는 2-bromopropane(2차 halogenation물)에서 와야 해서 SN2가 더 느리다. C2에 같은 CH3가 두 개 있으므로 E/Z 문제는 없다. (b) 엑소 C=CH2를 끊는다: cyclohex-2-en-1-one + Ph3P=CH2(CH3Br + PPh3, 그 다음 BuLi). 고리 안의 C=C는 그대로 둔다. 반대 조합(고리 ylide + HCHO)은 비현실적이다. (L6c p.26–27, p.32)
+5. (a) C2=C3를 끊는다. 가장 좋은 조합은 acetone (CH3)2C=O + Ph3P=CH–CH2CH3(propylidene ylide: 1-bromopropane + PPh3로 SN2한 뒤 BuLi로 deprotonation)이다. 대안은 propanal CH3CH2CHO + Ph3P=C(CH3)2인데, 이 ylide는 2-bromopropane(2차 halide)에서 와야 해서 SN2가 더 느리다. C2에 같은 CH3가 두 개 있으므로 E/Z 문제는 없다. (b) 엑소 C=CH2를 끊는다: cyclohex-2-en-1-one + Ph3P=CH2(CH3Br + PPh3, 그 다음 BuLi). 고리 안의 C=C는 그대로 둔다. 반대 조합(고리 ylide + HCHO)은 비현실적이다. (L6c p.26–27, p.32)
 
 6. (a) 빈칸은 dienyl phosphonate (EtO)2P(O)–CH2–CH=CH–C(CH3)=CH–CH3((2E,4E)-4-methylhexa-2,4-dien-1-yl diethyl phosphonate)다. KHMDS가 P 옆 CH2를 deprotonate하고, 생긴 carbanion이 methyl ketone과 HWE 반응을 해 새 삼치환 C=C(그림의 빨간 결합)를 만든다. 슬라이드의 "dr = 7:1"은 새 C=C의 geometric isomer 비로 해석된다. (b) 분자 내 HWE다. P와 CO2t-Bu 사이의 C–H를 NaH가 떼어 carbanion을 만들고, 이것이 같은 분자의 ketone을 공격한다. 고리 원자는 N, β-lactam C4, CH2, CH2, ketone C, carbanion C이므로 6원 고리가 닫힌다. 생성물은 1-carbacephem(1-carbacephem) 골격이다: tert-butyl 7-phthalimido-3-(ROCH2)-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate. C2=C3 이중결합에서 C2에는 CO2t-Bu, C3에는 CH2OR이 붙고, β-lactam stereochemistry는 유지된다. 부산물은 (EtO)2PO2− Na+다. (L6c p.36–37)
 

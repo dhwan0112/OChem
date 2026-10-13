@@ -15,7 +15,7 @@
 
 ## 개요
 
-염기로 만든 enolate 이야기의 "중성 버전"이다. 산 조건에서는 enolate 대신 enol이, 2차 amine을 쓰면 enamine이 nucleophile이 된다. 앞부분은 단순 ketone에서 1%도 안 되는 enol이 어떻게 반응을 이끌고(산 촉매 aldol), 왜 1,3-dicarbonyl에서는 enol이 주인공이 되는지(keto-enol tautomerism, K(enol/keto) 표, 비타민 C)를 다룬다. 이어 halogenation으로 enol의 반응성을 확인하고 silyl enol ether로 위치를 고르는 법을 본 뒤, enamine으로 강염기 없이 aldehyde를 alkylate하는 방법(Stork)과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol로 끝난다.
+염기로 만든 enolate 이야기의 "중성 버전"이다. 산 조건에서는 enolate 대신 enol이, 2차 amine을 쓰면 enamine이 nucleophile이 된다. 앞부분은 단순 ketone에서 1%도 안 되는 enol이 어떻게 반응을 이끌고(산 촉매 aldol), 왜 1,3-dicarbonyl에서는 enol이 주인공이 되는지(keto-enol tautomerism, K(enol/keto) 표, 비타민 C)를 다룬다. 이어 halogenation으로 enol의 반응성을 확인하고 silyl enol ether로 위치를 고르는 법을 본 뒤, enamine으로 강염기 없이 aldehyde를 alkylate하는 Stork과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol로 끝난다.
 
 ## 강의 흐름
 
@@ -48,11 +48,11 @@
 - → [keto-enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md)
 
 ### 8. 산 조건 halogenation (슬라이드 p.9)
-- acetone --[Br₂, HOAc]--> bromoacetone. enol의 C=C가 Br₂를 공격한다. AlCl₃ 촉매에서도 acyl기로 불활성화된 benzene 고리는 반응하지 않는다. 산 조건은 대개 mono.
+- acetone --[Br₂, HOAc]--> bromoacetone. enol의 C=C가 Br₂를 공격한다. AlCl₃ 촉매에서도 acyl group으로 불활성화된 benzene 고리는 반응하지 않는다. 산 조건은 대개 mono.
 - → [α-halogenation](../wiki/반응/α-할로젠화.md), [haloform reaction](../wiki/반응/할로폼%20반응.md) (염기 조건과의 대비), [substituent effect](../wiki/개념/치환기%20효과.md)
 
 ### 9. Silyl enol ether를 경유한 halogenation (슬라이드 p.10)
-- LDA → Me₃SiCl → Br₂로 덜 치환된 α-탄소에 Br. silyl기는 "큰 수소".
+- LDA → Me₃SiCl → Br₂로 덜 치환된 α-탄소에 Br. silyl group은 "큰 수소".
 - → [α-halogenation](../wiki/반응/α-할로젠화.md), [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md), [LDA](../wiki/시약/LDA.md)
 
 ### 10. Enamine: 질소가 밀어주는 enol (슬라이드 p.11)

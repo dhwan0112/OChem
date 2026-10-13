@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 시
 ---
 # TEMPO
 
-> 2,2,6,6-tetramethylpiperidine *N*-oxyl. 네 methyl기가 N–O• radical을 감싼 안정한 nitroxyl radical로, 1 mol%만 넣으면 표백제(NaOCl)나 공기(O₂)로 1차 alcohol을 aldehyde에서 깔끔하게 멈춘다.
+> 2,2,6,6-tetramethylpiperidine *N*-oxyl. 네 methyl group이 N–O• radical을 감싼 안정한 nitroxyl radical로, 1 mol%만 넣으면 NaOCl나 공기(O₂)로 1차 alcohol을 aldehyde에서 깔끔하게 멈춘다.
 
 ## 개요
 
@@ -43,7 +43,7 @@ Stahl 계에서는 Cu(I)가 TEMPO-H와 ½ O₂로 Cu(II)–OH와 TEMPO•가 되
 ## 이웃 시약과 비교
 
 - **[TPAP](TPAP.md):** 같은 "촉매 + 최종 산화제" 설계. TPAP는 NMO, TEMPO는 NaOCl 또는 O₂를 쓴다. (출처: L6c p.10–13)
-- **[DMP](DMP.md)·[Swern](../반응/스원%20산화.md):** 화학량론적 시약이고 더 비싸거나(DMP) 저온·악취 부산물(Swern)이 따른다. TEMPO/NaOCl은 값싼 표백제, Stahl은 공기를 쓴다. (출처: L6c p.7–9, p.11–13)
+- **[DMP](DMP.md)·[Swern](../반응/스원%20산화.md):** 화학량론적 시약이고 더 비싸거나(DMP) 저온·악취 Swern이 따른다. TEMPO/NaOCl은 값싼 표백제, Stahl은 공기를 쓴다. (출처: L6c p.7–9, p.11–13)
 - **[Jones reagent](존스%20시약.md):** 1차 alcohol을 산까지 보낸다. TEMPO는 aldehyde에서 멈춘다. (출처: L6c p.16)
 
 ## 흔한 오해

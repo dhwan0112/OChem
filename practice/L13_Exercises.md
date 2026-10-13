@@ -19,9 +19,9 @@
 
 2. **diene: 1-vinyl-3,4-dihydronaphthalene(CH2=CH-C1=C2H-CH2CH2- benzene 융합). Dienophile: cyclohex-2-ene-1,4-dione.** 새로 생긴 고리 C에서 C=C(고리 B와 공유하는 탄소 = C3, 그 이웃 CH = C2)를 C2=C3로 놓는다. 고리 C의 CH2가 C1, 고리 B/C 접합 CH가 C4가 된다. 그러면 C1–C6, C4–C5가 새 σ 결합이고, C5와 C6은 고리 C/D 접합 탄소다. C5–C6을 다시 이중 결합으로 바꾸면 양쪽에 C=O가 붙은 cyclohex-2-ene-1,4-dione이 dienophile이 되고, diene은 dihydronaphthalene 고리 안의 C=C와 vinyl기가 s-cis로 짝지어진 diene이다. 고리 D에 C=O 외에 다른 C=C가 없으므로 p-benzoquinone(이 경우 생성물에 C=C가 하나 더 남음)이 아니라 cyclohexenedione이 맞다. 보충: 두 C=O는 dienophile을 강하게 활성화하는 EWG다. (보충 근거: Clayden p.886–887) (출처: L13 p.17)
 
-3. **CHO와 두 Me가 모두 cis인 all-cis 2,5-dimethylcyclohex-3-ene-1-carbaldehyde(슬라이드의 왼쪽 생성물: Me, CHO, Me가 모두 hash).** (E,E)-diene의 두 Me는 "out"이므로 생성물에서 서로 cis다(stereospecificity). endo TS에서는 CHO가 diene 아래로 들어간다. 그러면 CHO 탄소의 H는 diene 말단의 "in" H들과 반대쪽, 즉 Me 쪽과 반대 방향을 향하게 된다. 결과적으로 세 H(C1-H, C2-H, C5-H)가 모두 한 면(wedge)에, CHO와 두 Me가 모두 반대 면에 놓인다(p.24 그림). exo 생성물은 CHO만 반대쪽(wedge)에 있는 오른쪽 구조다. (출처: L13 p.23–24)
+3. **CHO와 두 Me가 모두 cis인 all-cis 2,5-dimethylcyclohex-3-ene-1-carbaldehyde(슬라이드의 왼쪽 생성물: Me, CHO, Me가 모두 hash).** (E,E)-diene의 두 Me는 "out"이므로 생성물에서 서로 cis다(stereospecificity). endo TS에서는 CHO가 diene 아래로 들어간다. 그러면 CHO 탄소의 H는 diene 말단의 "in" H들과 반대쪽, 즉 Me 쪽과 반대 방향을 향하게 된다. 결과적으로 세 H(C1-H, C2-H, C5-H)가 모두 한 면(wedge)에, CHO와 두 Me가 모두 반대 면에 놓인다(p.24 그림). exo 생성물은 CHO만 wedge에 있는 오른쪽 구조다. (출처: L13 p.23–24)
 
-4. **(a) cis(syn)-dimethyl cyclohex-4-ene-1,2-dicarboxylate. (b) trans(anti)-diester(라셈).** DA는 협동적인 초면-초면 반응이다. dienophile의 두 탄소가 같은 면에서 동시에 새 σ 결합을 만들고, C–C 회전이 가능한 intermediate가 없다. 따라서 Z-alkene의 cis 관계와 E-alkene의 trans 관계가 그대로 고리에 옮겨진다(stereospecificity). (출처: L13 p.19, 28)
+4. **(a) cis(syn)-dimethyl cyclohex-4-ene-1,2-dicarboxylate. (b) trans(anti)-diester(라셈).** DA는 협동적인 초면-초면 반응이다. dienophile의 두 탄소가 같은 면에서 동시에 새 σ 결합을 만들고, C–C 회전이 가능한 intermediate가 없다. 따라서 Z-alkene의 cis 관계와 E-alkene의 trans 관계가 그대로 고리에 stereospecificity. (출처: L13 p.19, 28)
 
 5. **(a) syn(cis-3,6-dimethyl). (b) anti(trans-3,6-dimethyl).** s-cis 형태에서 (E,E)-diene의 두 Me는 모두 "out"이고, out끼리는 생성물에서 1,4-cis다. (E,Z)-diene에서는 Me 하나가 "in", 하나가 "out"이므로 trans가 된다. DMAD는 alkyne이라 생성물은 cyclohexa-1,4-diene-1,2-dicarboxylate이다. (출처: L13 p.20, 28)
 
@@ -29,4 +29,4 @@
 
 7. **Woodward–Hoffmann:** [4+2]는 [π4s + π2s]다. (4q+2)s 성분(π2s)이 1개, (4r)a 성분이 0개로 합이 1(홀수)이므로 열적으로 허용된다. [4+4]는 [π4s + π4s]다. 두 성분 모두 (4r)s라서 세지 않으므로 (4q+2)s는 0개, (4r)a도 0개이고 합이 0(짝수)이다. 따라서 열적으로 금지된다. **FMO:** [4+2]에서는 한 butadiene의 HOMO(ψ2)와 다른 butadiene의 C=C 하나(dienophile 부분)의 LUMO가 겹치며 양 끝이 모두 결합성이므로, 4-vinylcyclohexene이 생긴다. [4+4]에서는 ψ2(HOMO)와 다른 분자의 ψ3(LUMO)의 양 끝 가운데 한쪽은 결합성이지만 다른 쪽은 위상이 맞지 않아 반결합성이다. 따라서 두 σ 결합을 동시에 만들 수 없어 cycloocta-1,5-diene은 열적으로 생기지 않는다. (출처: L13 p.30, 33–36)
 
-8. **dicyclopentadiene을 가열해 분해(crack)하고 증류한다.** 가열하면 역 DA 반응이 일어나 단량체가 생긴다. 끓는점이 낮은 cyclopentadiene(b.p. 42 °C)이 끓는점이 높은 이량체에서 증류되어 빠져나가므로 평형이 단량체 쪽으로 이동한다. 단량체는 −20 °C에서는 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 DA 이량화(endo)로 다시 dicyclopentadiene이 된다. 그래서 사용 직전에 새로 분해해서 쓴다. (출처: L13 p.18)
+8. **dicyclopentadiene을 가열해 crack하고 증류한다.** 가열하면 역 DA 반응이 일어나 단량체가 생긴다. 끓는점이 낮은 cyclopentadiene(b.p. 42 °C)이 끓는점이 높은 이량체에서 증류되어 빠져나가므로 평형이 단량체 쪽으로 이동한다. 단량체는 −20 °C에서는 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 DA endo로 다시 dicyclopentadiene이 된다. 그래서 사용 직전에 새로 분해해서 쓴다. (출처: L13 p.18)

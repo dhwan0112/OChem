@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 인명시약, 단원/산화-알켄-합성, �
 ---
 # TPAP
 
-> tetra-*n*-propylammonium perruthenate(Pr₄N⁺ RuO₄⁻, Ru(VII)). **촉매량**만 쓰고 NMO를 최종 산화제로 넣어 alcohol을 aldehyde·ketone으로 바꾼다(Ley–Griffith oxidation).
+> tetra-*n*-propylammonium perruthenate(Pr₄N⁺ RuO₄⁻, Ru(VII)). **촉매량**만 쓰고 NMO를 최종 산화제로 넣어 alcohol을 aldehyde·ketone으로 Ley–Griffith oxidation.
 
 ## 개요
 

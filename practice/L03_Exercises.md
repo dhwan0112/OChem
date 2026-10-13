@@ -20,6 +20,6 @@
 3. H₂SO₄가 HNO₃의 OH를 protonation해 -OH₂⁺를 만들고, H₂O가 떨어져 나가 NO₂⁺가 된다. NO₂⁺에서 N은 sp 혼성이고 분자는 직선형(O=N⁺=O)이다. (L3 p.12)
 4. 주생성물은 isopropylbenzene(cumene), 부생성물은 *n*-propylbenzene이다. 다중 치환 생성물도 생긴다. 1차 cation은 용액에서 존재하지 못하므로 착물이 1,2-수소화물 이동으로 2차 cation이 된 뒤 반응한다. *n*-propylbenzene을 원한다면 프로판오일 chloride(CH₃CH₂COCl)/AlCl₃로 acylation한 뒤 Zn/Hg, HCl로 클레멘센 환원한다. (L3 p.17, p.20)
 5. (i) AlCl₃가 무수물 carbonyl O에 배위해 고리가 열리면서 acylium 이온이 생긴다. benzene이 이를 공격하고 H⁺가 빠지면 아릴 ketone(carboxylate-AlCl₃)이 되며, 후처리하면 3-benzoylpropanoic acid이 된다. (ii) Zn/Hg, HCl로 ketone만 CH₂로 환원해 4-phenylbutanoic acid을 얻는다. (iii) H₃PO₄가 COOH를 protonate하고 물이 빠져 acylium 이온이 생긴다. 같은 분자의 benzene 고리가 분자내 공격해 6원 고리가 닫히고, H⁺가 빠지면 α-테트랄론이 된다. (L4 p.3)
-6. nitro기가 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
+6. nitro group이 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
 7. phenol에서는 산소 비공유 전자쌍이 고리와 공액되어 HOMO 에너지가 크게 올라간다. 그래서 친핵성이 훨씬 커진다. 공명 구조를 그리면 O의 전자가 오르토와 파라 위치로 밀려 들어가 그 위치의 전자 밀도가 높아진다. 그래서 세 위치(2,4,6)에서 촉매 없이 빠르게 치환된다. (L3 p.23-25)
 8. benzene --[HNO₃/H₂SO₄]--> nitrobenzene --[H₂, Pd/C 또는 Sn/HCl]--> aniline --[NaNO₂, HCl, 0 °C]--> diazonium 염 --[H₂O, 가열]--> phenol. (L3 p.12-13)

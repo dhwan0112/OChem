@@ -15,7 +15,7 @@
 
 ## 개요
 
-L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방향족 고리에는 대부분 치환기가 이미 붙어 있으므로, 이 강의는 그 치환기가 반응성(activating/deactivating)과 배향(ortho/meta/para)을 어떻게 정하는지 묻는다. 답은 하나의 원리, 즉 cyclohexadienyl cation을 더 안정하게 만드는 경로가 이긴다는 것이다. 강의는 conjugation으로 강하게 주는 aniline에서 시작해 σ conjugation의 alkyl, inductive/conjugation으로 끄는 EWG, 끌면서 주는 halogen 순으로 가고, 치환기가 여럿일 때의 협력·경쟁과 NMR 증거로 마무리한다. (출처: L4 p.2, p.24)
+L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방향족 고리에는 대부분 치환기가 이미 붙어 있으므로, 이 강의는 그 치환기가 activating/deactivating과 ortho/meta/para을 어떻게 정하는지 묻는다. 답은 하나의 원리, 즉 cyclohexadienyl cation을 더 안정하게 만드는 경로가 이긴다는 것이다. 강의는 conjugation으로 강하게 주는 aniline에서 시작해 σ conjugation의 alkyl, inductive/conjugation으로 끄는 EWG, 끌면서 주는 halogen 순으로 가고, 치환기가 여럿일 때의 협력·경쟁과 NMR 증거로 마무리한다. (출처: L4 p.2, p.24)
 
 ## 강의 흐름
 
@@ -28,7 +28,7 @@ L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방
 - → [substituent effect](../wiki/개념/치환기%20효과.md), [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md), [protecting group](../wiki/개념/보호기.md)
 
 ### 2. alkylbenzene: σ 전자를 주는 치환기 (슬라이드 p.7–11)
-- 2.1 methyl은 σ conjugation으로 activating, o/p. 2.2 o/p 공격에서만 3차 carbocation 공명 구조(nitration o 63/m 3/p 34). 2.3 toluene sulfonation(TsOH)과 사카린 합성.
+- 2.1 methyl은 σ conjugation으로 activating, o/p. 2.2 o/p 공격에서만 3차 carbocation 공명 nitration o 63/m 3/p 34. 2.3 toluene sulfonation(TsOH)과 사카린 합성.
 - → [substituent effect](../wiki/개념/치환기%20효과.md), [sulfonation](../wiki/반응/설폰화.md), [nitration](../wiki/반응/나이트로화.md)
 
 ### 3. 전자를 끄는 치환기는 메타 생성물을 준다 (슬라이드 p.12–14)

@@ -18,7 +18,7 @@ CM3121 Advanced Organic Chemistry (10/21 강의 예습)
 
 ## 개요
 
-pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 다룬다. cycloaddition([L13](L13_Cycloaddition_Part1.md)–[L15](L15_Cycloaddition_Part3.md))이 σ 결합 둘을, sigmatropic rearrangement([L16](L16_Sigmatropic_Rearrangements.md))가 σ 결합 하나를 옮기는 것과 달리, 한 conjugated π계의 양 끝을 σ 결합 하나로 잇거나 끊는다. 먼저 방향(열역학)과 허용(Woodward–Hoffmann)을 가르고, 4π는 antarafacial, 6π는 suprafacial이라는 결론이 conrotation/disrotation이라는 입체화학으로 바뀌는 과정을 본다. HOMO 위상으로 같은 답을 확인하고(보충), 빛을 쬐면 뒤집힌다는 판정표를 정리한 뒤, endiandric acid, Nazarov cyclization과 dienyl anion, 작은 고리 열림, periplanone B 합성으로 응용한다. (출처: Clayden p.922–923)
+pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 다룬다. cycloaddition([L13](L13_Cycloaddition_Part1.md)–[L15](L15_Cycloaddition_Part3.md))이 σ 결합 둘을, sigmatropic rearrangement([L16](L16_Sigmatropic_Rearrangements.md))가 σ 결합 하나를 옮기는 것과 달리, 한 conjugated π계의 양 끝을 σ 결합 하나로 잇거나 끊는다. 먼저 방향(열역학)과 Woodward–Hoffmann을 가르고, 4π는 antarafacial, 6π는 suprafacial이라는 결론이 conrotation/disrotation이라는 입체화학으로 바뀌는 과정을 본다. HOMO 위상으로 같은 답을 확인하고(보충), 빛을 쬐면 뒤집힌다는 판정표를 정리한 뒤, endiandric acid, Nazarov cyclization과 dienyl anion, 작은 고리 열림, periplanone B 합성으로 응용한다. (출처: Clayden p.922–923)
 
 ## 강의 흐름
 

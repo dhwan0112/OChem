@@ -1,6 +1,6 @@
 # CM3121 Tutorial 2 — EAS를 이용한 합성, 산화·환원, 알켄 합성
 
-> 범위: L3/L4 방향족 친전자성 치환(EAS), L2 alkene 산화(OsO4, NaIO4), L5 환원, L6 산화·alkene 합성(Wittig/HWE)
+> 범위: L3/L4 방향족 친전자성 치환(EAS), L2 alkene OsO4, NaIO4, L5 환원, L6 산화·alkene Wittig/HWE
 > 출처 파일: 문제 `Tutorial_Questions_2.pdf`, 공식 풀이 `Tutorial_2_answers.pdf` (손글씨 스캔본)
 
 ---
@@ -9,7 +9,7 @@
 
 탄소 수 6개 이하인 분자에서 출발하여 다음 각 화합물의 간결한 합성 경로를 제안하라.
 
-- (a) N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalene-2-amine(N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalen-2-amine). 테트랄린(tetralin) 골격의 포화 고리 benzyl 위치 두 곳에 CH3가 있고, 방향족 고리에 NH–nBu가 있다.
+- (a) N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalene-2-amine(N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalen-2-amine). tetralin 골격의 포화 고리 benzyl 위치 두 곳에 CH3가 있고, 방향족 고리에 NH–nBu가 있다.
 - (b) 1-브로모-4-(프로프-1-엔-2-일)benzene(1-bromo-4-(prop-1-en-2-yl)benzene, p-Br–C6H4–C(CH3)=CH2)
 - (c) 1-(3-브로모-4-ethoxyphenyl)-2,2-dimethyl프로판-1-올(1-(3-bromo-4-ethoxyphenyl)-2,2-dimethylpropan-1-ol, Ar–CH(OH)–C(CH3)3; Ar = 3-Br-4-OEt-C6H3)
 
@@ -27,7 +27,7 @@
 3. 또는 `4-브로모아세토페논 --[Ph3P=CH2 (Wittig)]--> 목표물`
 
 **(c)**
-1. `페놀 --[EtI, base]--> 에톡시벤젠(phenetole)`
+1. `페놀 --[EtI, base]--> phenetole`
 2. `에톡시벤젠 --[(CH3)3CCOCl (피발로일 클로라이드), AlCl3]--> 4-에톡시페닐 tert-뷰틸 케톤 (para)`
 3. `--[Br2, AlBr3]--> 3-브로모-4-에톡시페닐 tert-뷰틸 케톤` (OEt의 ortho에 Br)
 4. `--[NaBH4]--> 목표 알코올`
@@ -38,15 +38,15 @@
 
 이 문제의 핵심은 왜 이 순서로 치환기를 도입해야 하느냐이다. 방향족 다치환 화합물 합성에서는 먼저 들어간 치환기가 다음 치환기의 위치를 정한다. 그래서 역합성할 때는 "어떤 치환기가 다른 치환기를 원하는 자리로 보내 줄 수 있는가"를 먼저 따져야 한다.
 
-(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation는 보호(protection)와 위치 조절을 동시에 해 준다. 첫 번째 alkylation는 amide의 para 위치에서 일어난다. 두 번째 alkylation는 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl기의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치(β 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl기가 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
+(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation는 protection와 위치 조절을 동시에 해 준다. 첫 번째 alkylation는 amide의 para 위치에서 일어난다. 두 번째 alkylation는 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl group의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치(β 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl group이 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
 
 다만 몇 가지는 알아 두어야 한다. 2,5-dibromohexane에서 생기는 이차 carbocation은 1,2-수소 이동으로 다른 이차 cation과 섞일 수 있다. 또 생성물의 두 methyl 입체중심(C5, C8)은 cis/trans 부분입체이성질체 혼합물로 얻어진다. 공식 풀이는 이 부분을 다루지 않았다. 이런 점은 시험 답안의 큰 줄기를 바꾸지는 않는다. (→ [L3](../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) EAS 강의 Friedel–Crafts 부분, L05 문서의 amide 환원 부분 참고)
 
-(b)에서는 Br을 먼저 넣는다. 그래야 Br(o/p 지향)이 acetyl기를 para로 보낸다. 반대로 acetyl기를 먼저 넣으면 acetyl이 meta 지향기라서 Br이 meta로 가 버린다. acetylation 뒤에는 ketone을 alkene으로 바꾸면 된다. 첫 번째 방법은 MeMgBr 첨가로 삼차 alcohol을 만든 뒤 산 촉매 탈수(E1)를 하는 것이다. 삼차 benzyl cation을 거치므로 쉽게 일어나고, 콘쥬게이션된 1,1-이치환 alkene이 생긴다. 두 번째 방법은 Wittig reaction(Ph3P=CH2)으로 C=O를 C=CH2로 한 번에 바꾸는 것이다. 이 경우 이중결합 위치가 정확히 정해진다. 그런데 아릴 bromide가 있는데도 Grignard 시약이 괜찮은가? 아릴 C–Br은 Grignard와 반응하지 않으므로 문제없다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 Wittig 부분 참고)
+(b)에서는 Br을 먼저 넣는다. 그래야 Br(o/p 지향)이 acetyl group을 para로 보낸다. 반대로 acetyl group을 먼저 넣으면 acetyl이 meta 지향기라서 Br이 meta로 가 버린다. acetylation 뒤에는 ketone을 alkene으로 바꾸면 된다. 첫 번째 방법은 MeMgBr 첨가로 삼차 alcohol을 만든 뒤 산 촉매 탈수(E1)를 하는 것이다. 삼차 benzyl cation을 거치므로 쉽게 일어나고, 콘쥬게이션된 1,1-이치환 alkene이 생긴다. 두 번째 방법은 Wittig reaction(Ph3P=CH2)으로 C=O를 C=CH2로 한 번에 바꾸는 것이다. 이 경우 이중결합 위치가 정확히 정해진다. 그런데 아릴 bromide가 있는데도 Grignard 시약이 괜찮은가? 아릴 C–Br은 Grignard와 반응하지 않으므로 문제없다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 Wittig 부분 참고)
 
-(c)에서는 세 치환기의 관계가 열쇠다. OEt와 CH(OH)tBu는 서로 para이고, Br은 OEt의 ortho이자 acyl기의 meta에 있다. 그래서 순서는 이렇다. 먼저 phenol을 Williamson ether 합성으로 ethoxybenzene으로 만든다. 다음으로 강한 o/p 지향기인 OEt가 피발로일기를 para로 보낸다(부피가 커서 ortho는 불리하다). 그다음 bromination 단계에서는 OEt(o/p 지향)와 acyl group(meta 지향)가 둘 다 같은 자리, 즉 OEt의 ortho이자 acyl의 meta를 가리킨다. 이처럼 두 지향 효과가 일치하므로 regioselectivity이 높다. 마지막으로 NaBH4가 ketone만 이차 alcohol로 환원한다.
+(c)에서는 세 치환기의 관계가 열쇠다. OEt와 CH(OH)tBu는 서로 para이고, Br은 OEt의 ortho이자 acyl group의 meta에 있다. 그래서 순서는 이렇다. 먼저 phenol을 Williamson ether 합성으로 ethoxybenzene으로 만든다. 다음으로 강한 o/p 지향기인 OEt가 피발로일기를 para로 보낸다(부피가 커서 ortho는 불리하다). 그다음 bromination 단계에서는 OEt(o/p 지향)와 acyl group(meta 지향)가 둘 다 같은 자리, 즉 OEt의 ortho이자 acyl의 meta를 가리킨다. 이처럼 두 지향 효과가 일치하므로 regioselectivity이 높다. 마지막으로 NaBH4가 ketone만 이차 alcohol로 환원한다.
 
-**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 탈카보닐화(decarbonylation)되기 쉽다. 그러면 tert-butyl화 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation가 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-브로모-4-에톡시벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
+**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 decarbonylation되기 쉽다. 그러면 tert-butylation 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation가 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-브로모-4-에톡시벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
 
 ### 핵심 개념
 
@@ -78,7 +78,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 그런데 평형 속에 아주 소량 남아 있는 자유 aniline은 NH2 덕분에 benzene보다 엄청나게 반응성이 크다. 그래서 "양은 적지만 매우 빠른" 자유 aniline 경로(para 생성물)와 "양은 많지만 느린" anilinium 경로(meta 생성물)가 비슷한 속도로 경쟁한다. 그 결과 대략 1:1 혼합물이 나온다. anilinium 경로의 생성물은 마지막 후처리에서 염기로 중화되어 m-nitroaniline이 된다. 실제 문헌값은 para 약 51%, meta 약 47%, ortho 약 2% 수준이다.
 
-그래서 해결책은 질소의 염기성을 없애는 것이다. acetylation로 acetanilide를 만들면 질소 전자쌍이 carbonyl과 공명하여 염기성이 크게 떨어진다. 그래서 강산에서도 protonate되지 않는다. 그러면서도 고리에 대해서는 여전히 o/p 지향 활성화기로 작용한다. 게다가 acetyl아미노기는 부피가 커서 ortho 공격이 억제되고 para가 주생성물이 된다. nitration가 끝나면 산 수용액에서 가열해 amide를 가수분해하고 NH2를 되돌린다. 즉 acetyl기는 "염기성 차단 + 입체적 para 유도"를 동시에 하는 일시적 protecting group다. ortho 이성질체가 소량 생길 수 있지만 문제의 요구(meta 배제)는 충족된다. (→ [L4](../notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) EAS 강의의 aniline 부분, L12 문서의 protecting group 개념 참고)
+그래서 해결책은 질소의 염기성을 없애는 것이다. acetylation로 acetanilide를 만들면 질소 전자쌍이 carbonyl과 공명하여 염기성이 크게 떨어진다. 그래서 강산에서도 protonate되지 않는다. 그러면서도 고리에 대해서는 여전히 o/p 지향 활성화기로 작용한다. 게다가 acetyl아미노기는 부피가 커서 ortho 공격이 억제되고 para가 주생성물이 된다. nitration가 끝나면 산 수용액에서 가열해 amide를 가수분해하고 NH2를 되돌린다. 즉 acetyl group은 "염기성 차단 + 입체적 para 유도"를 동시에 하는 일시적 protecting group다. ortho 이성질체가 소량 생길 수 있지만 문제의 요구(meta 배제)는 충족된다. (→ [L4](../notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) EAS 강의의 aniline 부분, L12 문서의 protecting group 개념 참고)
 
 ### 핵심 개념
 
@@ -92,7 +92,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 다음 변환을 완성하라(바레니클린, Varenicline 합성 intermediate).
 
-출발물: 피라진이 융합된 벤조노보나다이엔(pyrazine-fused benzonorbornadiene). 퀴녹살린형 방향족 고리에 CH2 다리를 가진 노보넨 이중결합이 붙어 있는 삼환 화합물이다.
+출발물: 피라진이 융합된 pyrazine-fused benzonorbornadiene. 퀴녹살린형 방향족 고리에 CH2 다리를 가진 노보넨 이중결합이 붙어 있는 삼환 화합물이다.
 
 `출발물 --[cat. OsO4, NMO, 85%]--> [상자 1] --[NaIO4]--> [상자 2] --[상자 3: 시약]--> N-벤질 브릿지 아제핀(N-benzyl bridged azepine, 바레니클린의 N-Bn 전구체)`
 
@@ -110,7 +110,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 다음으로 NaIO4는 vicinal diol을 고리형 periodic acid ester(periodate ester)를 거쳐 C–C 결합에서 자른다. 그 결과 두 개의 C=O가 생긴다. 그런데 이 C–C 결합은 고리 안에 있었으므로, 자르면 고리가 열려 두 개의 aldehyde가 같은 분자 안에 남는다. 즉 원래 C=C였던 두 탄소 사이의 결합이 끊어지고, 그 두 탄소가 각각 CHO가 되어 다리목 탄소에 하나씩 매달린 cis-dialdehyde가 된다. CH2 다리와 방향족 고리는 그대로 남아 5원자 탄소 고리(인데인형 골격)를 이룬다. diol의 입체화학은 이 단계에서 사라지므로 exo/endo는 최종 결과에 영향을 주지 않는다.
 
-마지막으로 이 dialdehyde에 일차 amine BnNH2를 넣으면 한쪽 CHO와 imine(iminium)을 만든다. NaBH3CN은 이것을 선택적으로 환원해 이차 amine을 만든다. 그런데 이 이차 amine이 분자 안의 두 번째 CHO와 다시 iminium 고리를 만들고, 이것도 환원된다. 그래서 질소 하나가 두 탄소를 동시에 잇는 7원자 질소 고리(벤즈아제핀 다리 구조)가 생긴다. NaBH3CN을 쓰는 이유는 약산성(pH 약 4–6)에서도 안정하고, aldehyde보다 iminium 이온을 훨씬 빨리 환원하기 때문이다. 그래서 aldehyde가 먼저 alcohol로 환원되어 버리는 부반응이 억제된다. 이 N-benzyl 화합물을 수소화분해(H2, Pd)로 탈벤질화하면 바레니클린이 된다(문제 범위 밖). (→ [L2](../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 문서의 OsO4·NaIO4 부분, L05 문서의 환원적 amine화 부분 참고)
+마지막으로 이 dialdehyde에 일차 amine BnNH2를 넣으면 한쪽 CHO와 imine(iminium)을 만든다. NaBH3CN은 이것을 선택적으로 환원해 이차 amine을 만든다. 그런데 이 이차 amine이 분자 안의 두 번째 CHO와 다시 iminium 고리를 만들고, 이것도 환원된다. 그래서 질소 하나가 두 탄소를 동시에 잇는 7원자 질소 고리(벤즈아제핀 다리 구조)가 생긴다. NaBH3CN을 쓰는 이유는 약산성(pH 약 4–6)에서도 안정하고, aldehyde보다 iminium 이온을 훨씬 빨리 환원하기 때문이다. 그래서 aldehyde가 먼저 alcohol로 환원되어 버리는 부반응이 억제된다. 이 N-benzylation합물을 H2, Pd로 탈벤질화하면 바레니클린이 된다(문제 범위 밖). (→ [L2](../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) 문서의 OsO4·NaIO4 부분, L05 문서의 환원적 amine화 부분 참고)
 
 ### 핵심 개념
 
@@ -170,7 +170,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 공식 풀이
 
-- 역합성: 목표 α,β-불포화 ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone(cyclohexyl methyl ketone)이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethyl리덴사이클로헥세인에서, 그 alkene은 cyclohexane온에서 온다.
+- 역합성: 목표 α,β-불포화 ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethyl리덴사이클로헥세인에서, 그 alkene은 cyclohexane온에서 온다.
 - 정방향:
   1. `사이클로헥산올 --[DMP]--> 사이클로헥산온`
   2. `사이클로헥산온 --[Ph3P=CHCH3 (Wittig)]--> 에틸리덴사이클로헥세인`
@@ -182,11 +182,11 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 해설
 
-이 문제의 핵심은 왜 탄소를 하나씩 붙이는 이런 우회로가 필요하냐이다. 목표물은 cyclohexyl기에 탄소 4개짜리 불포화 ester 사슬이 붙은 구조다. 그런데 출발물인 cyclohexane올의 산소는 고리 탄소에 붙어 있다. 그래서 고리 탄소에 곁사슬 탄소를 붙이는 C–C 결합 형성이 두 번 필요하다. 하나는 고리–CH(CH3) 결합이고, 다른 하나는 C=C 결합이다. 두 번 모두 carbonyl 올레핀화(olefination)로 해결하는 것이 이 풀이의 설계다.
+이 문제의 핵심은 왜 탄소를 하나씩 붙이는 이런 우회로가 필요하냐이다. 목표물은 cyclohexyl기에 탄소 4개짜리 불포화 ester 사슬이 붙은 구조다. 그런데 출발물인 cyclohexane올의 산소는 고리 탄소에 붙어 있다. 그래서 고리 탄소에 곁사슬 탄소를 붙이는 C–C 결합 형성이 두 번 필요하다. 하나는 고리–CH(CH3) 결합이고, 다른 하나는 C=C 결합이다. 두 번 모두 carbonyl olefination로 해결하는 것이 이 풀이의 설계다.
 
 먼저 DMP(Dess–Martin periodinane)로 이차 alcohol을 ketone으로 산화한다. 다음으로 비안정화 ylide Ph3P=CHCH3(ethyl트라이페닐포스포늄 염 + BuLi)로 Wittig 반응을 해 ethyl리덴사이클로헥세인을 만든다. 고리 탄소가 대칭이라 E/Z 문제는 없다. 그런데 이제 이 alkene의 곁사슬 탄소에 산소를 넣어야 한다. 수소붕소화는 B를 덜 치환된 탄소로 보낸다. 고리 쪽 탄소는 삼치환이고 곁사슬 CH는 이치환이므로 B는 곁사슬 CH로 간다. 산화(H2O2, 보통 NaOH와 함께) 후 1-cyclohexylethanol이 되고, 다시 DMP로 산화하면 cyclohexyl methyl ketone이 된다. 즉 Wittig + 수소붕소화 + 산화의 조합이 "ketone → 탄소 하나 늘어난 ketone"을 만드는 장치로 쓰였다.
 
-마지막 단계는 안정화된 인 ylide로 하는 올레핀화다. ester로 안정화된 ylide나 포스포네이트 anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 치환기(cyclohexyl)와 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
+마지막 단계는 안정화된 인 ylide로 하는 올레핀화다. ester로 안정화된 ylide나 포스포네이트 anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 cyclohexyl와 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
 
 ### 핵심 개념
 

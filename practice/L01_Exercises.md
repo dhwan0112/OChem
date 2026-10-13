@@ -22,4 +22,4 @@
 5. 0 °C에서는 3,4-다이브로모-1-뷰텐(1,2-첨가, kinetic 생성물)이, 가열하면 (*E*)-1,4-다이브로모-2-뷰텐(1,4-첨가, thermodynamic 생성물)이 주생성물이다. 1,4-생성물은 이치환 내부 alkene이라 더 안정하고, 가열하면 두 생성물 사이의 평형이 thermodynamic 생성물 쪽으로 이동한다. (L2 p.6)
 6. 생성물은 1-브로모-2-메톡시-2-methyl프로페인((CH₃)₂C(OMe)CH₂Br)이다. bromonium 이온이 열리는 느슨한 S<sub>N</sub>2 transition state에서 C-Br 결합이 먼저 늘어나며 부분 양전하가 생긴다. 이 양전하는 alkyl group 두 개가 안정화하는 3차 탄소 쪽에 더 잘 쌓이므로 methanol이 그쪽을 공격한다. 이는 전자 효과에 의한 선택성이다. (L1 p.22-23)
 7. (a) mCPBA로 직접 에폭시화한다. (b) Br₂/H₂O로 bromohydrin((CH₃)₂C(OH)CH₂Br)을 만든 뒤, 염기로 alkoxide를 만들어 분자내 S<sub>N</sub>2로 고리를 닫는다. (L1 p.14, p.21)
-8. 2,3-dimethyl-2-뷰텐 > 2-methyl-2-뷰텐 > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl기가 많을수록 π 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)
+8. 2,3-dimethyl-2-뷰텐 > 2-methyl-2-뷰텐 > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl group이 많을수록 π 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)

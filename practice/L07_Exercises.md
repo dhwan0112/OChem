@@ -21,7 +21,7 @@
 7. (p.21, p.23) 다음 중 methoxide(MeO−) 또는 일반 염기 조건에서 α-탄소 enolate를 만들 수 없는 것을 모두 고르고 이유를 써라.
    (a) cyclohexanone (b) benzaldehyde (c) acetic acid (d) acetamide CH3CONH2 (e) pivaldehyde (f) acetic acid methyl
 
-8. (p.25, p.28) (a) acetone의 칼륨 enolate를 dimethyl 설페이트(Me2SO4)와 반응시킬 때와, lithium enolate를 MeI와 반응시킬 때 각각 주로 생기는 생성물은? (b) Evans alkylation 생성물(α-benzyl N-뷰타노일 oxazolidinone)을 LiBH4로, 또는 LiOH/H2O2로 처리했을 때 생성물은?
+8. (p.25, p.28) (a) acetone의 칼륨 enolate를 dimethyl Me2SO4와 반응시킬 때와, lithium enolate를 MeI와 반응시킬 때 각각 주로 생기는 생성물은? (b) Evans alkylation 생성물(α-benzyl N-뷰타노일 oxazolidinone)을 LiBH4로, 또는 LiOH/H2O2로 처리했을 때 생성물은?
 
 ---
 
@@ -44,7 +44,7 @@
    4. `--[heat, −CO2]--> CH3COCH(Bu)2 = 3-뷰틸-2-헵타논`
    - 해설: acetoacetic ester 합성은 R-X마다 활성 탄소에 R을 하나씩 붙이고, 마지막에 CO2Et가 H로 바뀜. 목표물의 C3에 Bu가 두 개(C4~C7 사슬도 butyl) 있으므로 이중 alkylation. 보충: 1-butyl bromide는 1차라 SN2에 적합. (보충 근거: Clayden p.587) (출처: L7 p.16, p.17, p.20)
 
-5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 치환된(kinetic) enolate → C6 methyl화. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
+5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methyl화. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
 6. `CH2(CO2Et)2 --[(1) NaOEt; (2) PhCH2Br]--> 벤질말론산 다이에틸 PhCH2CH(CO2Et)2 --[(1) 50% KOH (또는 NaOH), reflux; (2) dil. H2SO4 (또는 H3O+), reflux, −CO2]--> PhCH2CH2COOH`. 해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
 

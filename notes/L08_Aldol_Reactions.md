@@ -17,7 +17,7 @@
 
 ## 개요
 
-aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 β-hydroxy carbonyl 화합물을 만드는 반응이다. L7에서 enolate의 상대가 halogenation alkyl이었다면, 이번에는 carbonyl 화합물로 바꾼 셈이다. 강의는 천연물과 HWE 복습으로 aldol의 의미를 보여 준 뒤, 염기성·산성 조건의 기본 aldol과 그 역반응(retro-aldol)을 다룬다. 이어 강의의 절반을 crossed aldol을 제어하는 세 가지 방법(lithium enolate, silyl enol ether, 약염기)에 쓰고, intramolecular aldol과 enolate의 세 electrophile 정리로 끝난다. 전체 지도는 [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
+aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 β-hydroxy carbonyl 화합물을 만드는 반응이다. L7에서 enolate의 상대가 alkyl halide이었다면, 이번에는 carbonyl 화합물로 바꾼 셈이다. 강의는 천연물과 HWE 복습으로 aldol의 의미를 보여 준 뒤, 염기성·산성 조건의 기본 aldol과 그 retro-aldol을 다룬다. 이어 강의의 절반을 crossed aldol을 제어하는 세 가지 방법(lithium enolate, silyl enol ether, 약염기)에 쓰고, intramolecular aldol과 enolate의 세 electrophile 정리로 끝난다. 전체 지도는 [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
 
 ## 강의 흐름
 

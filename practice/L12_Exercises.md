@@ -10,8 +10,8 @@
 4. 한 분자에 TES 에테르와 TBDPS 에테르가 있다. 묽은 산 조건에서 어느 쪽이 먼저 제거되는가? 또 TBS와 TIPS를 염기 조건에서 비교하면? (p.7)
 5. 산 조건에서 Boc-NHR이 탈보호되는 메커니즘을 단계별로 쓰고, 부산물 두 가지를 쓰라. (p.10)
 6. Fmoc 카바메이트가 산에는 안정하고 amine 염기에는 불안정한 이유를 구조와 메커니즘으로 설명하라. (p.11)
-7. p.9의 dipeptide 합성에서 Leu와 Gly를 보호 없이 커플링시키면 어떤 문제가 생기는가? N-protecting group는 염기로, C-protecting group는 산으로 제거되어야 한다면 각각 어떤 protecting group가 적합한가? (p.9, p.11, p.5)
-8. amine이 Boc로, alcohol이 TBS로, ketone이 acetal로 보호된 분자가 있다. (a) TBAF, (b) TFA, (c) 피페리딘 처리 시 각각 어느 protecting group가 제거되는가(주된 반응 기준)? (p.5, p.6, p.8, p.13)
+7. p.9의 dipeptide 합성에서 Leu와 Gly를 보호 없이 커플링시키면 어떤 문제가 생기는가? N-protecting group은 염기로, C-protecting group은 산으로 제거되어야 한다면 각각 어떤 protecting group이 적합한가? (p.9, p.11, p.5)
+8. amine이 Boc로, alcohol이 TBS로, ketone이 acetal로 보호된 분자가 있다. (a) TBAF, (b) TFA, (c) 피페리딘 처리 시 각각 어느 protecting group이 제거되는가(주된 반응 기준)? (p.5, p.6, p.8, p.13)
 
 ## 정답 및 해설
 
@@ -25,8 +25,8 @@
 
 5. (1) carbonyl O가 protonate된다. (2) t-Bu–O 결합이 끊어지며 t-butyl cation이 이탈하고 carbamic acid RNHCOOH가 생긴다. (3) t-butyl cation이 H+를 잃고 아이소뷰텐이 된다. (4) carbamic acid이 decarboxylate되어 RNH2 + CO2가 된다. 부산물은 CO2와 아이소뷰텐(2-methyl프로펜). (출처: L12 p.10)
 
-6. 산 안정성: 카바메이트 O에 붙은 탄소가 1차 CH2라 안정한 carbocation이 생기지 않아 SN1이 불가능하고, 옆의 부피 큰 fluorene일기 때문에 SN2도 불가능하다. 즉 Boc와 달리 산에서 C–O가 끊어질 경로가 없다. 염기 불안정성: fluorene 9번 C–H는 pKa 약 25로 비교적 산성인데, deprotonation로 생기는 anion이 14전자 방향족계로 안정하기 때문이다. amine 염기가 이 H를 떼면 anion이 CH2–O 결합을 밀어내며 다이벤조풀벤과 카바메이트 anion을 만들고(E1cB), 카바메이트 anion은 CO2를 잃고 amine이 된다. (출처: L12 p.11)
+6. 산 안정성: 카바메이트 O에 붙은 탄소가 1차 CH2라 안정한 carbocation이 생기지 않아 SN1이 불가능하고, 옆의 부피 큰 fluorene일기 때문에 SN2도 불가능하다. 즉 Boc와 달리 산에서 C–O가 끊어질 경로가 없다. 염기 불안정성: fluorene 9번 C–H는 pKa 약 25로 비교적 산성인데, deprotonation로 생기는 anion이 14전자 방향족계로 안정하기 때문이다. amine 염기가 이 H를 떼면 anion이 CH2–O 결합을 밀어내며 다이벤조풀벤과 카바메이트 anion을 E1cB, 카바메이트 anion은 CO2를 잃고 amine이 된다. (출처: L12 p.11)
 
-7. 두 amino acid 모두 NH2(nucleophile)와 CO2H를 가지므로 보호 없이 활성화·커플링하면 Leu–Leu, Gly–Gly, Gly–Leu 등 여러 dipeptide와 올리고머가 섞여 생긴다. N-protecting group를 염기로 벗기려면 Fmoc가 적합하다(amine 염기로 제거, 산에 안정). C-protecting group를 산으로 벗기려면 t-butyl ester가 적합하다(아이소뷰텐/H+로 도입, 강산으로 제거). 이 조합은 서로 직교적이어서 각 말단을 골라서 드러낼 수 있다. (출처: L12 p.5, p.9, p.11)
+7. 두 amino acid 모두 NH2(nucleophile)와 CO2H를 가지므로 보호 없이 활성화·커플링하면 Leu–Leu, Gly–Gly, Gly–Leu 등 여러 dipeptide와 올리고머가 섞여 생긴다. N-protecting group을 염기로 벗기려면 Fmoc가 적합하다(amine 염기로 제거, 산에 안정). C-protecting group을 산으로 벗기려면 t-butyl ester가 적합하다(아이소뷰텐/H+로 도입, 강산으로 제거). 이 조합은 서로 직교적이어서 각 말단을 골라서 드러낼 수 있다. (출처: L12 p.5, p.9, p.11)
 
-8. (a) TBAF: F-가 Si를 공격하여 TBS만 제거된다(Boc, acetal은 F-에 안정). (b) TFA: Boc가 제거된다. 다만 acetal과 TBS도 산에 불안정하므로 특히 물이 있으면 함께 손상될 위험이 있다. Boc/acetal/TBS는 산 조건에서 서로 직교적이지 않다. (c) 피페리딘(amine 염기): Boc, TBS, acetal 모두 염기에 안정하므로 제거되는 protecting group가 없다(피페리딘은 Fmoc 제거용). (출처: L12 p.5, p.6, p.8, p.11, p.13)
+8. (a) TBAF: F-가 Si를 공격하여 TBS만 제거된다(Boc, acetal은 F-에 안정). (b) TFA: Boc가 제거된다. 다만 acetal과 TBS도 산에 불안정하므로 특히 물이 있으면 함께 손상될 위험이 있다. Boc/acetal/TBS는 산 조건에서 서로 직교적이지 않다. (c) 피페리딘(amine 염기): Boc, TBS, acetal 모두 염기에 안정하므로 제거되는 protecting group이 없다(피페리딘은 Fmoc 제거용). (출처: L12 p.5, p.6, p.8, p.11, p.13)

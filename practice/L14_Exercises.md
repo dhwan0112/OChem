@@ -33,7 +33,7 @@
 (출처: L14 p.3, p.9–10)
 
 **정답 3.**
-- 1단계(위치): C1-OAc diene은 OAc에서 먼 C4가 친핵성이다. crotonaldehyde에서는 CHO의 β-탄소(CHMe)가 친전자성이다. CHO(Z)가 Me(약한 X)보다 지배적이기 때문이다. 그래서 C4–Cβ가 결합하고, 그 결과 OAc 탄소와 CHO 탄소가 이웃한다(ortho). 고리 번호로는 C1(OAc), C2=C3, C4(H2), C5(Me), C6(CHO)가 된다.
+- 1단계(위치): C1-OAc diene은 OAc에서 먼 C4가 친핵성이다. crotonaldehyde에서는 CHO의 β-탄소(CHMe)가 친전자성이다. CHO(Z)가 Me(약한 X)보다 지배적이기 때문이다. 그래서 C4–Cβ가 결합하고, 그 결과 OAc 탄소와 CHO 탄소가 ortho. 고리 번호로는 C1(OAc), C2=C3, C4(H2), C5(Me), C6(CHO)가 된다.
 - 2단계(엔도): (E)-diene의 OAc는 "out" 치환기다. 엔도 TS에서는 "in" H와 CHO가 trans가 되므로 **OAc와 CHO는 cis**다.
 - 3단계(stereospecificity): dienophile의 CHO와 Me는 trans였으므로 생성물에서도 **CHO와 Me는 trans**다.
 - 답: **6-폼일-5-methyl사이클로헥스-2-엔-1-일 acetate**. 상대 입체화학은 C1-OAc/C6-CHO cis, C6-CHO/C5-Me trans이다. 슬라이드 그림에서는 OAc와 CHO가 쐐기, Me가 점선으로 그려져 있다. 라세미이므로 "or its enantiomer"이다.

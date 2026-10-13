@@ -12,7 +12,7 @@
 
 4. 2-butanone(CH₃COCH₂CH₃)을 (1) LDA, (2) Me₃SiCl, (3) Br₂로 차례로 처리했다.
    (a) 주생성물을 쓰라.
-   (b) 3단계에서 C–Br 결합이 생기는 과정과 silyl기가 떨어지는 과정을 설명하라.
+   (b) 3단계에서 C–Br 결합이 생기는 과정과 silyl group이 떨어지는 과정을 설명하라.
 
 5. 1-phenylpentane-1-온을 Br₂와 0.75 mol% AlCl₃(Et₂O)로 처리한 생성물을 쓰고, AlCl₃가 있는데도 benzene 고리가 brominate되지 않는 이유를 설명하라.
 
@@ -39,11 +39,11 @@
    (출처: L10 p.6)
 
 4. (→ [α-halogenation](../wiki/반응/α-할로젠화.md), [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md)) (a) LDA가 덜 가려진 CH₃의 α-H를 떼어내 CH₃CH₂C(OLi)=CH₂가 되고, Me₃SiCl로 CH₃CH₂C(OSiMe₃)=CH₂가 된 뒤, Br₂와 반응해 **1-bromobutane-2-온(BrCH₂COCH₂CH₃)**이 된다.
-   (b) 산소 비공유 전자쌍이 밀어주며 말단 CH₂(C=C)가 Br–Br을 공격해 C–Br이 생기고 Br⁻가 떨어진다. 이때 silyl화된 oxocarbenium(C=O⁺–SiMe₃)이 생긴다. 이어서 Br⁻가 Si를 공격해 O–Si 결합이 끊어지면 Me₃SiBr이 떨어지고 ketone C=O가 재생된다. silyl기가 enol의 H 자리를 대신하는 "큰 수소" 역할이다.
+   (b) 산소 비공유 전자쌍이 밀어주며 말단 CH₂(C=C)가 Br–Br을 공격해 C–Br이 생기고 Br⁻가 떨어진다. 이때 silyl화된 oxocarbenium(C=O⁺–SiMe₃)이 생긴다. 이어서 Br⁻가 Si를 공격해 O–Si 결합이 끊어지면 Me₃SiBr이 떨어지고 ketone C=O가 재생된다. silyl group이 enol의 H 자리를 대신하는 "큰 수소" 역할이다.
    참고: 같은 ketone을 Br₂/HOAc로 처리하면 주로 더 치환된 enol을 거쳐 3-bromobutane-2-온이 많이 생긴다(이유는 [α-halogenation](../wiki/반응/α-할로젠화.md)의 regioselectivity 절과 각주 참고).
    (출처: L10 p.9, p.10)
 
-5. (→ [α-halogenation](../wiki/반응/α-할로젠화.md)) 생성물은 2-브로모-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl기가 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enol화를 돕는다.
+5. (→ [α-halogenation](../wiki/반응/α-할로젠화.md)) 생성물은 2-브로모-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl group이 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enol화를 돕는다.
    (출처: L10 p.9)
 
 6. (→ [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md), [enamine](../wiki/개념/엔아민.md)) (1) 1-(cyclohex-1-en-1-yl)pyrrolidine(enamine), (2) 2-allylcyclohexanone의 iminium bromide, (3) 2-allylcyclohexanone(2-(prop-2-en-1-yl)cyclohexan-1-one) + pyrrolidine.

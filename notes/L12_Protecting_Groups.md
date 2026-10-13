@@ -17,7 +17,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 ## 개요
 
-실제 합성 표적에는 반응할 자리가 여럿이라, 원하는 곳만 반응시키려면 방해되는 작용기를 잠시 가려야 한다. 이 강의는 palytoxin이라는 극단적인 예로 protecting group이 왜 필요한지 보여 준 뒤, 언제 쓰는지(덜 반응적인 작용기를 반응시킬 때, 공존할 수 없는 작용기가 있을 때)와 쓰는 법(보호 → 반응 → 탈보호)을 정리한다. 이어 alcohol의 silyl ether, amine의 carbamate(Boc, Cbz, Fmoc), aldehyde·ketone의 acetal을 차례로 다루며 각 protecting group가 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다. carbamate 다음에는 Boc와 Fmoc가 직교하게 쓰이는 peptide 합성(SPPS 포함)을 보고, 마지막에 acetal로 앞에서 막혔던 두 Grignard 문제를 푼다.
+실제 합성 표적에는 반응할 자리가 여럿이라, 원하는 곳만 반응시키려면 방해되는 작용기를 잠시 가려야 한다. 이 강의는 palytoxin이라는 극단적인 예로 protecting group이 왜 필요한지 보여 준 뒤, 언제 쓰는지(덜 반응적인 작용기를 반응시킬 때, 공존할 수 없는 작용기가 있을 때)와 쓰는 법(보호 → 반응 → 탈보호)을 정리한다. 이어 alcohol의 silyl ether, amine의 carbamate(Boc, Cbz, Fmoc), aldehyde·ketone의 acetal을 차례로 다루며 각 protecting group이 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다. carbamate 다음에는 Boc와 Fmoc가 직교하게 쓰이는 peptide 합성(SPPS 포함)을 보고, 마지막에 acetal로 앞에서 막혔던 두 Grignard 문제를 푼다.
 
 ## 강의 흐름
 
@@ -25,11 +25,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 - palytoxin: OH 40개, 키랄 중심 64개. 거의 같은 OH 중 하나만 반응시키려면 나머지를 막아야 한다.
 - → [protecting group](../wiki/개념/보호기.md)의 "개요"
 
-### 2. 언제 protecting group를 쓰는가 (슬라이드 p.3)
+### 2. 언제 protecting group을 쓰는가 (슬라이드 p.3)
 - (1) 덜 반응적인 ester만 반응시킬 때(ethyl acetoacetate + PhMgBr은 ketone을 침, 52%), (2) 공존할 수 없는 작용기가 있을 때("impossible Grignard reagent", 산성 H).
 - → [protecting group](../wiki/개념/보호기.md)의 "언제 쓰나", [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
 
-### 3. protecting group는 어떻게 쓰는가 (슬라이드 p.4)
+### 3. protecting group은 어떻게 쓰는가 (슬라이드 p.4)
 - FG1 보호 → FG2에서 반응 → FG1 탈보호. 조건: 깔끔한 보호·탈보호, 반응 조건에서의 안정성. 강의의 주인공은 silyl ether, carbamate, acetal.
 - → [protecting group](../wiki/개념/보호기.md)의 "원리"
 
@@ -52,7 +52,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 - → [peptide synthesis](../wiki/반응/펩타이드%20합성.md)
 
 #### 7-2. 해결 전략 (슬라이드 p.9)
-- Leu는 N-보호(PG1) + C(=O)X 활성화, Gly는 C-보호(PG2). PG1과 PG2는 서로 다른 조건에서 벗겨져야 한다(orthogonal).
+- Leu는 N-보호(PG1) + C(=O)X 활성화, Gly는 C-보호(PG2). PG1과 PG2는 서로 다른 조건에서 벗겨져야 orthogonal.
 - → [peptide synthesis](../wiki/반응/펩타이드%20합성.md)의 "원리", [orthogonal protection](../wiki/개념/직교%20보호.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
 
 #### 7-3. N-Boc: 산으로 벗기는 protecting group (슬라이드 p.10)
@@ -64,7 +64,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 - → [Fmoc](../wiki/시약/Fmoc%20보호기.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [aromaticity](../wiki/개념/방향족성.md)
 
 #### 7-5. 고체상 peptide 합성(SPPS) (슬라이드 p.12)
-- 순차적 전략(수지 위에서 탈보호 A와 커플링 B 반복, C→N 방향)과 수렴적 전략(fragment coupling). N-protecting group, 곁사슬 protecting group, 수지 연결부가 다른 시점에 끊어진다.
+- 순차적 전략(수지 위에서 탈보호 A와 커플링 B 반복, C→N 방향)과 수렴적 fragment coupling. N-protecting group, 곁사슬 protecting group, 수지 연결부가 다른 시점에 끊어진다.
 - → [peptide synthesis](../wiki/반응/펩타이드%20합성.md)의 "SPPS", [orthogonal protection](../wiki/개념/직교%20보호.md), [DCC](../wiki/시약/DCC.md)
 
 ### 8. aldehyde·ketone의 protecting group: acetal (슬라이드 p.13–14)
