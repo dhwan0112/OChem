@@ -18,7 +18,7 @@ TFA는 acetic acid의 CH₃를 CF₃로 바꾼 산이다. 보충: fluorine 세 �
 | 기질/조건 | 생성물 | 비고 |
 |---|---|---|
 | alkene + TFA, 그다음 염기/H₂O | alcohol (Markovnikov) | ester를 거치는 [acid-catalyzed hydration](../반응/산%20촉매%20수화.md) |
-| Boc–NR₂ + TFA | 유리 amine | 부산물 CO₂ + 아이소뷰텐 |
+| Boc–NR₂ + TFA | 유리 amine | 부산물 CO₂ + isobutene |
 
 (출처: L2 p.20, L12 p.8)
 
@@ -26,15 +26,15 @@ TFA는 acetic acid의 CH₃를 CF₃로 바꾼 산이다. 보충: fluorine 세 �
 
 산 촉매 수화는 E1 탈수와 평형이라 한쪽으로 몰기 어렵다. TFA를 쓰면 이 문제를 피한다. (출처: L2 p.19–20)
 
-1. TFA가 alkene을 protonation해(δ⁺인 H) 더 안정한 [carbocation](../개념/탄소%20양이온.md)을 만들고, 짝염기가 그 cation을 붙잡아(δ⁻인 O) trifluoroacetate ester가 된다.
+1. TFA가 alkene을 protonate해(δ⁺인 H) 더 안정한 [carbocation](../개념/탄소%20양이온.md)을 만들고, 짝염기가 그 cation을 붙잡아(δ⁻인 O) trifluoroacetate ester가 된다.
 2. ester를 염기성 수용액으로 가수분해하면 alcohol과 trifluoroacetate anion이 나온다.
 
 - 예: cyclohexene --[TFA]--> cyclohexyl trifluoroacetate --[염기, H₂O]--> cyclohexane올 (출처: L2 p.20)
-- 예: 카바졸 골격의 아이소프로펜일기 **12** --[TFA, DCM]--> 3차 TFA ester **13** --[NH₄OH, MeOH]--> 3차 alcohol **5** (85%, >99.5% ee) (출처: L2 p.21)
+- 예: 카바졸 골격의 isopropenyl group **12** --[TFA, DCM]--> 3차 TFA ester **13** --[NH₄OH, MeOH]--> 3차 alcohol **5** (85%, >99.5% ee) (출처: L2 p.21)
 
 ## Boc 제거
 
-Boc(*t*-뷰톡시카보닐)는 산으로 벗기며, 대표 시약이 TFA다. 카바메이트가 끊어져 생긴 carbamic acid이 CO₂를 내놓고 유리 amine이 된다. Cbz는 수소화분해, Fmoc는 염기로 벗기므로 서로 [orthogonal protection](../개념/직교%20보호.md)이 된다. Boc가 산에 약한 것은 안정한 *t*-butyl cation을 낼 수 있기 때문이다. (출처: L12 p.8, p.11)
+Boc(*t*-butoxycarbonyl)는 산으로 벗기며, 대표 시약이 TFA다. 카바메이트가 끊어져 생긴 carbamic acid이 CO₂를 내놓고 유리 amine이 된다. Cbz는 수소화분해, Fmoc는 염기로 벗기므로 서로 [orthogonal protection](../개념/직교%20보호.md)이 된다. Boc가 산에 약한 것은 안정한 *t*-butyl cation을 낼 수 있기 때문이다. (출처: L12 p.8, p.11)
 
 ## 흔한 오해
 

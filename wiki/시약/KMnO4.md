@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test1, 단원/방향족-치환, 단원/산화-알�
 
 ## 개요
 
-지금까지의 alcohol 산화는 이미 산소가 붙은 탄소를 더 산화했다. 그렇다면 산소가 없는 C–H도 산화할 수 있을까? benzyl 위치는 라디칼이나 cation이 생겼을 때 고리와의 공명으로 안정화되는 특별한 자리라서 가능하다. KMnO₄는 이 benzyl C–H를 끝까지, 즉 carboxylic acid까지 산화한다. (출처: L6c p.18)
+지금까지의 alcohol 산화는 이미 산소가 붙은 탄소를 더 산화했다. 그렇다면 산소가 없는 C–H도 산화할 수 있을까? benzyl 위치는 radical이나 cation이 생겼을 때 고리와의 공명으로 안정화되는 특별한 자리라서 가능하다. KMnO₄는 이 benzyl C–H를 끝까지, 즉 carboxylic acid까지 산화한다. (출처: L6c p.18)
 
 ## 무엇을 하나
 
@@ -21,9 +21,9 @@ tags: [분류/시약, 범위/Test1, 단원/방향족-치환, 단원/산화-알�
 
 ## 예: 사카린 합성
 
-toluene --[ClSO₂OH]--> *o*-toluene설포닐 chloride --[(NH₄)₂CO₃]--> *o*-toluenesulfonamide(89%) --[KMnO₄]--> 2-설파모일벤조산(분리 안 함) --[HCl]--> 사카린(58%)
+toluene --[ClSO₂OH]--> *o*-toluenesulfonyl chloride --[(NH₄)₂CO₃]--> *o*-toluenesulfonamide(89%) --[KMnO₄]--> 2-sulfamoylbenzoic acid(분리 안 함) --[HCl]--> 사카린(58%)
 
-KMnO₄가 benzyl CH₃를 CO₂H로 바꾸고, 마지막 HCl 단계에서 CO₂H와 SO₂NH₂가 분자 내에서 고리를 닫아 이미드가 된다. 첫 단계는 [sulfonation](../반응/설폰화.md) 계열의 electrophilic aromatic substitution이다. (출처: L6c p.18)
+KMnO₄가 benzyl CH₃를 CO₂H로 바꾸고, 마지막 HCl 단계에서 CO₂H와 SO₂NH₂가 분자 내에서 고리를 닫아 imide가 된다. 첫 단계는 [sulfonation](../반응/설폰화.md) 계열의 electrophilic aromatic substitution이다. (출처: L6c p.18)
 
 같은 경로는 L4에서도 [sulfonation](../반응/설폰화.md)의 응용 예로 나온다. 3단계에서 *o*-toluenesulfonamide의 methyl이 KMnO₄로 carboxylic acid이 되고(분리하지 않음), HCl로 고리를 닫아 saccharin(58%)을 얻는다. (출처: L4 p.11)
 

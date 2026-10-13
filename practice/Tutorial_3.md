@@ -10,7 +10,7 @@
 
 `화합물 1 --[PPh3, NEt3, THF, reflux, 2시간]--> 2`
 
-- 화합물 1: 2-(4-methoxyphenyl)-2-옥소에틸 2-bromoacetate, 즉 4-MeO-C6H4-CO-CH2-O-CO-CH2Br (펜아실 bromoacetate, phenacyl bromoacetate).
+- 화합물 1: 2-(4-methoxyphenyl)-2-oxoethyl 2-bromoacetate, 즉 4-MeO-C6H4-CO-CH2-O-CO-CH2Br (펜아실 bromoacetate, phenacyl bromoacetate).
 
 ### 공식 풀이
 
@@ -39,9 +39,9 @@
 
 다음 화합물로부터 해당하는 enolate를 제시하라. enolate가 형성되지 않으면 NA라고 답하라.
 
-- (3) `PhCO-CH=CH-CH3` (크로토노페논, (E)-1-phenyl뷰트-2-엔-1-온) `--[LDA]-->`
-- (4) `PhCO-CH=CH2` (1-phenyl프로프-2-엔-1-온, phenyl 비닐 ketone) `--[LDA]-->`
-- (5) methyl 2-(시아노메틸)벤조에이트, 즉 benzene 고리 오르토 위치에 CO2Me와 CH2CN `--[LDA]-->`
+- (3) `PhCO-CH=CH-CH3` (크로토노페논, (E)-1-phenyl뷰트-2-ene-1-one) `--[LDA]-->`
+- (4) `PhCO-CH=CH2` (1-phenyl프로프-2-ene-1-one, phenyl 비닐 ketone) `--[LDA]-->`
+- (5) methyl 2-(시아노메틸)benzoate, 즉 benzene 고리 오르토 위치에 CO2Me와 CH2CN `--[LDA]-->`
 
 ### 공식 풀이
 
@@ -92,7 +92,7 @@ b. a의 결과를 바탕으로 다음 반응의 생성물을 예측하라.
 
 a에서 α-탄소는 원래 sp3 입체중심이다. 그런데 OH⁻(또는 EtO⁻)가 이 α-H를 떼어 내면 α-탄소는 sp2가 되어 enolate의 평면에 놓인다. 즉 입체 정보가 사라진다. 그 뒤 enolate가 용매 EtOH로부터 양성자를 다시 받을 때, 위쪽 면과 아래쪽 면은 거울상 관계이므로 정확히 같은 확률로 공격받는다. 그래서 R과 S가 1:1로 생기고, 이 과정이 가역적으로 반복되면서 결국 라세미체가 된다.
 
-b는 같은 원리를 고리 화합물에 적용한 것이다. 7에서 carbonyl에 이웃한 고리 접합 탄소(C8a)는 H를 가지므로 enolate가 될 수 있다. 하지만 이번에는 다른 쪽 고리 접합 탄소(C4a)의 입체중심이 그대로 남아 있다. 그래서 두 면의 protonation 생성물은 거울상이 아니라 부분입체 이성질체(diastereomer, cis와 trans)이고, 평형은 50:50이 아니라 더 안정한 쪽으로 기운다. trans-데칼린은 두 고리가 모두 의자 형태이면서 접합 결합이 서로 equatorial 관계로 연결되어 cis보다 고리 간 고우시 상호작용이 적다. 그래서 가역적 enol화의 thermodynamic 결과로 trans-1-데칼론 8이 주생성물이 된다. 분자식이 그대로(C10H16O)인 것도 이것이 이성질화(에피머화, epimerization)임을 알려 준다.
+b는 같은 원리를 고리 화합물에 적용한 것이다. 7에서 carbonyl에 이웃한 고리 접합 탄소(C8a)는 H를 가지므로 enolate가 될 수 있다. 하지만 이번에는 다른 쪽 고리 접합 탄소(C4a)의 입체중심이 그대로 남아 있다. 그래서 두 면의 protonation 생성물은 거울상이 아니라 부분입체 이성질체(diastereomer, cis와 trans)이고, 평형은 50:50이 아니라 더 안정한 쪽으로 기운다. trans-데칼린은 두 고리가 모두 의자 형태이면서 접합 결합이 서로 equatorial 관계로 연결되어 cis보다 고리 간 고우시 상호작용이 적다. 그래서 가역적 enolization의 thermodynamic 결과로 trans-1-데칼론 8이 주생성물이 된다. 분자식이 그대로(C10H16O)인 것도 이것이 이성질화(에피머화, epimerization)임을 알려 준다.
 
 ### 핵심 개념
 
@@ -109,7 +109,7 @@ a. geraniol(9)을 geranylacetone(10)으로 어떻게 바꿀 수 있는가? 한 �
 b. ketone 11로부터 천연물 sativene, 12의 합성을 제안하라.
 
 - 11: 각 methyl(angular methyl)이 붙은 고리 접합 탄소 바로 옆에 ketone을 가진 decalone. 다른 고리에 isopropyl group(hash)와 2차 OH(쐐기)가 있고, 반대쪽 고리 접합 H는 쐐기.
-- 12 (사티벤): 삼환 골격에 엑소메틸렌(C=CH2), 각 methyl, isopropyl을 가진 sesquiterpene.
+- 12 (사티벤): 삼환 골격에 exo-methylene(C=CH2), 각 methyl, isopropyl을 가진 sesquiterpene.
 
 ### 공식 풀이
 
@@ -132,15 +132,15 @@ b:
 
 이 문제의 핵심은 왜 "CH2COCH3 하나를 붙이는" 일을 acetone이 아니라 acetoacetic ethyl로 하는가, 그리고 b에서 왜 enolate가 고리 하나를 더 만들 수 있는가이다.
 
-a는 전형적인 acetoacetic ester acetoacetic ester synthesis이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 geraniol의 OH는 나쁜 leaving group이므로 PBr3로 bromide로 바꾼다. allyl bromide이므로 SN2 반응성이 좋다. 그런데 acetone을 직접 enolate로 만들면 자기 aldol 축합이나 다중 alkylation가 섞이기 쉽다. 그래서 두 carbonyl 사이 CH2(pKa 약 11)를 가진 ethyl acetoacetate를 쓰면 NaOEt만으로도 깨끗하게 하나의 안정화 enolate가 생기고, 이것이 제라닐 bromide를 SN2로 alkylation한다. 그 뒤 비누화와 산성화로 β-keto산을 만들고, 가열하면 6원 고리 transition state로 CO2가 빠져 enol을 거쳐 methyl ketone이 된다. 즉 ester는 활성화기 역할만 하고 사라지며, 결과는 "acetone enolate로 alkylation한 것"과 같다. 탄소 수를 확인하면 제라닐(C10) + CH2COCH3(C3) = C13으로 geranylacetone과 일치한다.
+a는 전형적인 acetoacetic ester acetoacetic ester synthesis이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 geraniol의 OH는 나쁜 leaving group이므로 PBr3로 bromide로 바꾼다. allyl bromide이므로 SN2 반응성이 좋다. 그런데 acetone을 직접 enolate로 만들면 자기 aldol 축합이나 다중 alkylation가 섞이기 쉽다. 그래서 두 carbonyl 사이 CH2(pKa 약 11)를 가진 ethyl acetoacetate를 쓰면 NaOEt만으로도 깨끗하게 하나의 안정화 enolate가 생기고, 이것이 제라닐 bromide를 SN2로 alkylation한다. 그 뒤 비누화와 산성화로 β-keto acid을 만들고, 가열하면 6원 고리 transition state로 CO2가 빠져 enol을 거쳐 methyl ketone이 된다. 즉 ester는 활성화기 역할만 하고 사라지며, 결과는 "acetone enolate로 alkylation한 것"과 같다. 탄소 수를 확인하면 제라닐(C10) + CH2COCH3(C3) = C13으로 geranylacetone과 일치한다.
 
-b는 분자 내 enolate alkylation(intramolecular enolate alkylation)이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 2차 OH를 TsCl로 tosylate로 바꿔 좋은 leaving group으로 만든다. 그런데 ketone의 한쪽 α-탄소는 각 methyl이 붙은 4급 탄소여서 H가 없다. 그래서 NaOEt는 반대쪽 α-CH2에서만 enolate를 만들 수 있고, 반응 위치가 자동으로 정해진다. 이 enolate 탄소가 데칼린 골격을 가로질러 C-OTs 탄소 뒷면을 공격하면(SN2, 입체 반전) 새 C-C 결합이 생겨 삼환 ketone이 된다. SN2는 leaving group 정반대편에서의 공격을 요구하므로, 이 고리화가 가능한 것은 11의 OH(따라서 OTs)의 입체 배치가 enolate 탄소가 뒷면에서 닿을 수 있도록 미리 설계되어 있기 때문이다. 마지막으로 남은 ketone을 비티히 반응(Ph3P=CH2)으로 C=CH2로 바꾸면 사티벤의 엑소메틸렌이 완성된다.
+b는 분자 내 enolate alkylation(intramolecular enolate alkylation)이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 2차 OH를 TsCl로 tosylate로 바꿔 좋은 leaving group으로 만든다. 그런데 ketone의 한쪽 α-탄소는 각 methyl이 붙은 4급 탄소여서 H가 없다. 그래서 NaOEt는 반대쪽 α-CH2에서만 enolate를 만들 수 있고, 반응 위치가 자동으로 정해진다. 이 enolate 탄소가 데칼린 골격을 가로질러 C-OTs 탄소 뒷면을 공격하면(SN2, 입체 반전) 새 C-C 결합이 생겨 삼환 ketone이 된다. SN2는 leaving group 정반대편에서의 공격을 요구하므로, 이 고리화가 가능한 것은 11의 OH(따라서 OTs)의 입체 배치가 enolate 탄소가 뒷면에서 닿을 수 있도록 미리 설계되어 있기 때문이다. 마지막으로 남은 ketone을 비티히 반응(Ph3P=CH2)으로 C=CH2로 바꾸면 사티벤의 exo-methylene이 완성된다.
 
 검토 의견: 공식 답은 옳다. a에서 덧붙이면, allyl alcohol에 PBr3를 쓰면 일부 allyl 자리옮김(SN2') 생성물이나 이중결합 기하 이성질화가 생길 수 있고, HCl 산성화·가열 단계에서는 삼치환 alkene이 산에 민감할 수 있으므로 온화한 조건이 필요하다. 이는 답의 타당성을 바꾸지 않는 실험적 주의점이다.
 
 ### 핵심 개념
 
-a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarboxylation로 "R-CH2COCH3" 도입. b: tosylate를 leaving group으로 한 분자 내 enolate SN2 고리화 + 비티히 methyl렌화.
+a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarboxylation로 "R-CH2COCH3" 도입. b: tosylate를 leaving group으로 한 분자 내 enolate SN2 고리화 + 비티히 methylene화.
 
 ---
 
@@ -150,11 +150,11 @@ a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarbo
 
 a. `화합물 13 --[1. LDA; 2. 아크롤레인(acrolein, CH2=CH-CHO); 3. HCl 수용액]--> 14`
 
-- 13: (S)-헵트-6-엔-2-일 acetate, 즉 CH3CO-O-CH(CH3)-CH2CH2CH2-CH=CH2 (그림의 쐐기 표기 기준으로 S 배열).
+- 13: (S)-헵트-6-ene-2-일 acetate, 즉 CH3CO-O-CH(CH3)-CH2CH2CH2-CH=CH2 (그림의 쐐기 표기 기준으로 S 배열).
 
 b. `사이클로헥산온(15) --[?]--> 16`
 
-- 16: 2-(1-hydroxy-3-phenylpropyl)-2-methylcyclohexane-1-온, 즉 C2가 CH3와 CH(OH)-CH2CH2-Ph를 가진 4급 탄소.
+- 16: 2-(1-hydroxy-3-phenylpropyl)-2-methylcyclohexane-1-one, 즉 C2가 CH3와 CH(OH)-CH2CH2-Ph를 가진 4급 탄소.
 
 ### 공식 풀이
 
@@ -162,13 +162,13 @@ a:
 1. `13 --[LDA]--> 아세테이트 에스터 엔올레이트 (⁻CH2-CO-OR ↔ CH2=C(O⁻)-OR)`
 2. `--[아크롤레인, Aldol]--> CH2=CH-CH(O⁻)-CH2-CO-OR` (alkoxide)
 3. `--[HCl]--> CH2=CH-CH(OH)-CH2-CO-OR` (β-hydroxy ester)
-4. `--[H⁺]--> 14 = CH2=CH-CH=CH-CO-OR` (펜타-2,4-디엔산 ester, 탈수 생성물)
-(R = (S)-헵트-6-엔-2-일, 입체중심 유지)
+4. `--[H⁺]--> 14 = CH2=CH-CH=CH-CO-OR` (펜타-2,4-dienoic acid ester, 탈수 생성물)
+(R = (S)-헵트-6-ene-2-일, 입체중심 유지)
 
 b:
 1. `15 --[LDA]--> 사이클로헥산온 엔올레이트`
-2. `--[MeI]--> 2-메틸사이클로헥산온`
-3. `--[Me3SiCl, Et3N]--> 1-트리메틸실릴옥시-2-메틸사이클로헥센` (더 치환된 C1=C2 silyl enol 에테르, silyl enol ether)
+2. `--[MeI]--> 2-methyl사이클로헥산온`
+3. `--[Me3SiCl, Et3N]--> 1-트리메틸실릴옥시-2-methyl사이클로헥센` (더 치환된 C1=C2 silyl enol 에테르, silyl enol ether)
 4. `--[i) PhCH2CH2CHO, TiCl4; ii) H2O]--> 16`
 
 (출처: Tutorial_3_answers p.3)
@@ -177,7 +177,7 @@ b:
 
 이 문제의 핵심은 어떤 enolate(또는 enol 등가체)를 어떤 조건으로 만들어야 원하는 탄소에서 aldol이 일어나는가이다.
 
-a에서 LDA는 강하고 부피가 큰 비친핵성 염기이다. 그래서 ester carbonyl을 공격하지 않고 acetyl의 CH3에서만 H를 떼어 lithium ester enolate를 정량적으로 만든다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate 문서 참고). 반대쪽 alcohol 부분의 CH(CH3)는 산소에 붙은 탄소여서 carbonyl의 α-위치가 아니므로 반응하지 않고, 따라서 그 입체중심도 그대로 유지된다. 그다음 acrolein을 넣으면 lithium enolate는 aldehyde carbonyl에 1,2-첨가하는 aldol 반응을 한다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). acrolein은 Michael 수용체이기도 하지만, lithium enolate와 반응성이 큰 aldehyde carbonyl의 조합에서는 저온 1,2-첨가가 우세하다. 그 결과 allyl형 2차 alkoxide가 생기고, HCl 수용액이 이것을 protonation한다. 공식 풀이는 여기서 산 촉매 탈수까지 진행되어, C=C가 ester와 짝을 이루고 원래 비닐기와도 짝을 이루는 디엔산 ester 14가 생긴다고 본다. 탈수의 구동력은 짝을 이룬 dienoate의 안정성이다.
+a에서 LDA는 강하고 부피가 큰 비친핵성 염기이다. 그래서 ester carbonyl을 공격하지 않고 acetyl의 CH3에서만 H를 떼어 lithium ester enolate를 정량적으로 만든다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate 문서 참고). 반대쪽 alcohol 부분의 CH(CH3)는 산소에 붙은 탄소여서 carbonyl의 α-위치가 아니므로 반응하지 않고, 따라서 그 입체중심도 그대로 유지된다. 그다음 acrolein을 넣으면 lithium enolate는 aldehyde carbonyl에 1,2-첨가하는 aldol 반응을 한다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). acrolein은 Michael 수용체이기도 하지만, lithium enolate와 반응성이 큰 aldehyde carbonyl의 조합에서는 저온 1,2-첨가가 우세하다. 그 결과 allyl형 2차 alkoxide가 생기고, HCl 수용액이 이것을 protonation한다. 공식 풀이는 여기서 산 촉매 탈수까지 진행되어, C=C가 ester와 짝을 이루고 원래 비닐기와도 짝을 이루는 dienoic acid ester 14가 생긴다고 본다. 탈수의 구동력은 짝을 이룬 dienoate의 안정성이다.
 
 검토 의견: 공식 풀이는 14를 탈수 생성물 CH2=CH-CH=CH-CO2R로 제시하며, 이 문서에서도 그대로 공식 답으로 둔다. 다만 3단계 조건은 단지 "HCl 수용액"(일반적인 산성 후처리)이므로, 실제로는 β-hydroxy ester CH2=CH-CH(OH)-CH2-CO2R가 분리될 가능성이 높다. ester aldol 생성물은 ketone aldol 생성물에 비해 α-H 산성도가 낮아 E1cB 탈수가 잘 일어나지 않으며, 산 촉매 탈수(allyl cation 경유 E1)는 보통 가열이나 더 강한 조건이 필요하다. 시험에서 공식 답에 맞추려면 "산 처리로 탈수되어 짝 디엔 ester 형성"을 쓰되, 탈수 전의 β-hydroxy ester를 intermediate로 함께 보여 주는 것이 안전하다.
 

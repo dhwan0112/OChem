@@ -68,7 +68,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 ### 5. 교차 aldol reaction: 문제와 세 가지 해법
 
 #### 5.1 무엇이 문제인가 (p.17)
-- 둘 다 enol화되면 4가지 혼합물. 누가 nucleophile인지 강제로 정해야 한다.
+- 둘 다 enolization되면 4가지 혼합물. 누가 nucleophile인지 강제로 정해야 한다.
 - → [crossed aldol reaction](../wiki/반응/교차%20알돌%20반응.md)
 
 #### 5.2 해법 1: lithium enolate를 미리 만든다 (directed aldol) (p.18–21)

@@ -20,14 +20,14 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 ## 강의 흐름
 
 ### 0. 복습: electrophile의 δ⁺와 alkene의 HOMO (슬라이드 p.4–5)
-- 시약의 δ⁺ 부분이 electrophile이다. 아이소뷰텐 HOMO는 CH₂ 말단에 커서 Markovnikov regioselectivity를 궤도함수로 설명한다.
+- 시약의 δ⁺ 부분이 electrophile이다. isobutene HOMO는 CH₂ 말단에 커서 Markovnikov regioselectivity를 궤도함수로 설명한다.
 - → [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
 
 ### 1. benzene은 왜 alkene처럼 반응하지 않는가 (슬라이드 p.9–10)
 - C–C 1.39 Å, 6π 전자가 고리 전체에 퍼져 있어 RCO₃H, Br₂와 반응하지 않는다. Lewis acid(AlCl₃, FeCl₃)가 있으면 Br₂와 substitution한다(1.1).
 - → [aromaticity](../wiki/개념/방향족성.md), [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md), [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md)
 
-### 2. S<sub>E</sub>Ar의 메커니즘: cyclohexadiene일 cation (슬라이드 p.11)
+### 2. S<sub>E</sub>Ar의 메커니즘: cyclohexadienyl cation (슬라이드 p.11)
 - π 전자가 E⁺를 공격하는 단계가 rate-determining step이고, H⁺가 빠져 aromaticity가 회복된다. 양전하는 E 기준 ortho, para에만 놓인다. ipso/ortho/meta/para 용어.
 - → [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [arenium ion](../wiki/개념/아레늄%20이온.md)
 

@@ -48,7 +48,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 ## 선택성
 
 - **aldehyde vs ketone:** isopropyl alcohol, 0 °C의 2차 속도상수는 benzaldehyde가 820 × 10⁻⁴, acetophenone이 2.05 × 10⁻⁴ M⁻¹s⁻¹로 약 400배 차이다. 그러니 ketone이 함께 있어도 aldehyde만 골라 환원할 수 있다. 비양성자성 용매 다이글라임(CH₃OCH₂CH₂OCH₂CH₂OCH₃)에서는 aldehyde만 환원되고 acetone은 전혀 환원되지 않는다. 보충: 이 차이를 교과서는 주로 입체 장애로 설명한다. aldehyde 탄소에는 작은 H가 붙어 있지만 ketone 탄소에는 탄소 치환기가 둘이라 수소화물이 접근하기 더 어렵다(자세한 비교는 [metal hydride reactivity](../개념/금속%20수소화물의%20반응성.md)). (보충 근거: Clayden p.132) (출처: L5 p.21)
-- **cation 효과:** NaBH₄는 ethyl acetate나 ethyl 벤조에이트 같은 ester를 아주 느리게만 환원하지만, [LiBH4](LiBH4.md)는 쉽게 환원한다. (출처: L5 p.21)
+- **cation 효과:** NaBH₄는 ethyl acetate나 ethyl benzoate 같은 ester를 아주 느리게만 환원하지만, [LiBH4](LiBH4.md)는 쉽게 환원한다. (출처: L5 p.21)
 - **엔알 vs enone:** cinnamaldehyde는 1,2-환원되어 신나밀 alcohol(97%)에서 멈추지만, cyclopentenone은 1,4 후 1,2 환원되어 cyclopentanol(99%)까지 간다(→ [1,2-addition vs 1,4-addition](../개념/1,2-첨가와%201,4-첨가.md)). (출처: L11 p.10)
 - **ozone 분해 후처리:** O₃ 다음 NaBH₄를 쓰면 carbonyl 조각이 바로 alcohol이 된다(→ [ozonolysis](../반응/오존%20분해.md)). (출처: L2 p.18)
 

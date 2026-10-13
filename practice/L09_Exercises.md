@@ -5,13 +5,13 @@
 ## 문제
 
 1. (p.2, p.3 빈 칸) ketone enolate R–C(O⁻)=CH2와 ester R'–CO–OEt의 Claisen reaction 생성물을 쓰고, 친핵성 acyl 치환 관점에서 메커니즘을 설명하라.
-2. (p.4, Task 2) ethyl acetate를 소듐 에톡사이드로 처리할 때 Claisen 자기 축합 생성물은? 후처리 전 실제로 플라스크에 존재하는 화학종은?
+2. (p.4, Task 2) ethyl acetate를 소듐 ethoxide로 처리할 때 Claisen 자기 축합 생성물은? 후처리 전 실제로 플라스크에 존재하는 화학종은?
 3. (p.6) Claisen 자기 축합에 염기가 촉매량이 아닌 1당량 필요한 이유를 pKa를 들어 설명하라.
 4. (p.8, p.9) ethyl phenylacetate와 diethyl carbonate를 NaOEt/EtOH로 반응시킨 생성물을 쓰고, diethyl carbonate가 자기 축합하지 않는 이유를 쓰라.
-5. (p.11) ethyl 벤조에이트 + acetophenone을 1. NaOCH2CH3, 2. H3O⁺로 처리하면 acetophenone의 aldol 생성물이 아니라 교차 Claisen 생성물(PhCOCH2COPh)이 얻어지는 이유를 설명하라.
+5. (p.11) ethyl benzoate + acetophenone을 1. NaOCH2CH3, 2. H3O⁺로 처리하면 acetophenone의 aldol 생성물이 아니라 교차 Claisen 생성물(PhCOCH2COPh)이 얻어지는 이유를 설명하라.
 6. (p.13 a) Ph–C(CH3)(OH)–CO–CH2–CO–CO2Et를 Claisen 반응으로 합성하는 방법을 제안하라.
-7. (p.13 b) ethyl 2-옥소사이클로옥테인카복실레이트를 Claisen형 반응으로 합성하는 방법을 제안하라.
-8. (p.12 응용) diethyl 헵테인다이오에이트(EtO2C(CH2)5CO2Et)를 1. NaOEt, 2. H3O⁺로 처리한 생성물은?
+7. (p.13 b) ethyl 2-oxocyclooctanecarboxylate를 Claisen형 반응으로 합성하는 방법을 제안하라.
+8. (p.12 응용) diethyl heptanedioate(EtO2C(CH2)5CO2Et)를 1. NaOEt, 2. H3O⁺로 처리한 생성물은?
 
 ## 정답 및 해설
 
@@ -19,14 +19,14 @@
 
 2. ethyl acetoacetate CH3COCH2CO2Et (76%)다. 후처리 전에는 소듐 acetoacetate [CH3CO–CH–CO2Et]⁻ Na⁺와 EtOH로 존재하며, EtOH는 증류로 제거된다. HCl 처리 후 중성 β-ketoester가 얻어진다. (p.5)
 
-3. (→ [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) enolate 형성(ester α-H pKa 약 25를 EtO⁻로 떼는 단계)과 첨가·제거 단계는 모두 가역이고 평형이 불리하다. 그러나 생성물 β-ketoester의 활성 methyl렌 C–H(슬라이드 pKa ~9)는 EtOH(16)보다 약 10⁷배 강한 산이므로 EtO⁻에 의해 거의 완전히 deprotonate된다. 이 비편재화 anion 형성이 앞의 평형을 모두 생성물 쪽으로 끌어당기며, 생성물 한 분자당 염기 한 분자가 소모되므로 1당량이 필요하다. (p.6)
+3. (→ [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) enolate 형성(ester α-H pKa 약 25를 EtO⁻로 떼는 단계)과 첨가·제거 단계는 모두 가역이고 평형이 불리하다. 그러나 생성물 β-ketoester의 활성 methylene C–H(슬라이드 pKa ~9)는 EtOH(16)보다 약 10⁷배 강한 산이므로 EtO⁻에 의해 거의 완전히 deprotonate된다. 이 비편재화 anion 형성이 앞의 평형을 모두 생성물 쪽으로 끌어당기며, 생성물 한 분자당 염기 한 분자가 소모되므로 1당량이 필요하다. (p.6)
 
 4. (→ [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md)) Ph–CH(CO2Et)2 (diethyl phenyl말로네이트, 86%). diethyl carbonate는 α-H가 없어 enolate를 만들 수 없으므로 electrophile로만 작용한다. phenylacetate enolate가 carbonate C=O를 공격하고 EtO⁻가 떨어지며, 생성된 malonic ester의 산성 CH가 deprotonate되어 반응이 완결된다. (p.8, p.9)
 
-5. (→ [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)) ethyl 벤조에이트는 α-H가 없어 electrophile로만 작용하고, enolate가 될 수 있는 것은 acetophenone의 CH3뿐이다. acetophenone enolate가 다른 acetophenone에 첨가하는 aldol은 가역이며, 첨가물(3차 alkoxide)은 입체 장애가 크고 아릴 ketone의 공액 안정화를 잃으므로 평형이 출발물 쪽(retro-aldol, retro-aldol)으로 치우친다(보충; 보충 근거: Wade p.1062; Clayden p.619). 반면 ethyl 벤조에이트에 첨가한 tetrahedral intermediate는 EtO⁻를 내보내 PhCOCH2COPh를 주고, 이 1,3-diketone의 매우 산성인 CH2가 EtO⁻에 deprotonate되어 안정한 비편재화 enolate로 갇힌다. 이 사실상 비가역적인 산-염기 단계가 원동력이므로 모든 가역 평형이 Claisen 생성물 쪽으로 흘러가고, H3O⁺ 처리로 중성 diketone을 얻는다. (p.6, p.10, p.11)
+5. (→ [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)) ethyl benzoate는 α-H가 없어 electrophile로만 작용하고, enolate가 될 수 있는 것은 acetophenone의 CH3뿐이다. acetophenone enolate가 다른 acetophenone에 첨가하는 aldol은 가역이며, 첨가물(3차 alkoxide)은 입체 장애가 크고 아릴 ketone의 공액 안정화를 잃으므로 평형이 출발물 쪽(retro-aldol, retro-aldol)으로 치우친다(보충; 보충 근거: Wade p.1062; Clayden p.619). 반면 ethyl benzoate에 첨가한 tetrahedral intermediate는 EtO⁻를 내보내 PhCOCH2COPh를 주고, 이 1,3-diketone의 매우 산성인 CH2가 EtO⁻에 deprotonate되어 안정한 비편재화 enolate로 갇힌다. 이 사실상 비가역적인 산-염기 단계가 원동력이므로 모든 가역 평형이 Claisen 생성물 쪽으로 흘러가고, H3O⁺ 처리로 중성 diketone을 얻는다. (p.6, p.10, p.11)
 
-6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-온)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 α-탄소는 H가 없는 4차 탄소이므로 CH3만 enol화되고, oxalate는 enol화되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
+6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-one)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 α-탄소는 H가 없는 4차 탄소이므로 CH3만 enolization되고, oxalate는 enolization되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
 
-7. 두 경로가 가능하다. (i) 교차 Claisen(권장): 사이클로옥탄온 + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-옥소사이클로옥테인카복실레이트. p.9의 carbonate electrophile와 p.10의 ketone + ester를 합친 것으로, carbonate는 enol화되지 않고 생성물 β-ketoester의 deprotonation가 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로(→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)의 고리 크기 각주) 실용적으로는 (i)이 낫다.
+7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile와 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation가 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로(→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)의 고리 크기 각주) 실용적으로는 (i)이 낫다.
 
-8. (→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)) 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-옥소사이클로헥산카복실레이트(cyclohexane온 C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)
+8. (→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)) 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-oxocyclohexanecarboxylate(cyclohexanone C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)

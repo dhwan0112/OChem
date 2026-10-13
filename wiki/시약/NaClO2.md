@@ -27,7 +27,7 @@ aldehyde를 이미 손에 넣었다면 산까지의 마지막 한 걸음을 무�
 
 (CH₃)₂C=CHCH₃ + HOCl → (CH₃)₂C(OH)–CH(Cl)CH₃ (3-chloro-2-methylbutan-2-ol)
 
-OH는 3차 탄소에, Cl은 2차 탄소에 붙는다. Cl이 electrophile로 먼저 붙고, 생긴 chloronium 이온의 더 치환된 탄소를 물이 공격하기 때문이다([Markovnikov형](../개념/마르코프니코프%20규칙.md), → [halohydrin 형성](../반응/할로하이드린%20형성.md)). 보충: 표준 메커니즘에서는 chlorous acid HClO₂가 aldehyde에 첨가한 뒤 고리형 transition state로 분해되며 RCO₂H와 HOCl이 생긴다. (출처: L6c p.15)
+OH는 3차 탄소에, Cl은 2차 탄소에 붙는다. Cl이 electrophile로 먼저 붙고, 생긴 chloronium 이온의 더 치환된 탄소를 물이 공격하기 때문이다([Markovnikov형](../개념/마르코프니코프%20규칙.md), → [halohydrin formation](../반응/할로하이드린%20형성.md)). 보충: 표준 메커니즘에서는 chlorous acid HClO₂가 aldehyde에 첨가한 뒤 고리형 transition state로 분해되며 RCO₂H와 HOCl이 생긴다. (출처: L6c p.15)
 
 ## 예: "3 = 1 + 2"
 
@@ -45,7 +45,7 @@ Boger의 vancomycin 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO --[N
 
 ## 관련 문서
 
-- 반응: [Pinnick oxidation](../반응/피닉%20산화.md), [alcohol oxidation](../반응/알코올%20산화.md), [halohydrin 형성](../반응/할로하이드린%20형성.md)
+- 반응: [Pinnick oxidation](../반응/피닉%20산화.md), [alcohol oxidation](../반응/알코올%20산화.md), [halohydrin formation](../반응/할로하이드린%20형성.md)
 - 비교 시약: [Jones reagent](존스%20시약.md), [DMP](DMP.md), [TEMPO](TEMPO.md)
 - 개념: [Markovnikov's rule](../개념/마르코프니코프%20규칙.md)
 

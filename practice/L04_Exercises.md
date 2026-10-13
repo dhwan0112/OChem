@@ -11,7 +11,7 @@
 5. (슬라이드 p.19 빈칸) 4-methylacetanilide(*p*-CH₃-C₆H₄-NHCOCH₃)를 Br₂로 처리했을 때의 주생성물을 예측하고 이유를 쓰시오.
 6. 다음을 친전자성 bromination 반응성이 큰 순서로 나열하시오: benzene, nitrobenzene, 아니솔, chlorobenzene, toluene, N,N-dimethylaniline.
 7. benzene에서 출발해 *m*-bromonitrobenzene과 *p*-bromonitrobenzene을 각각 만드는 방법을 쓰시오. (반응 순서에 주의)
-8. superacid에서 관찰한 cyclohexadiene일 cation의 ¹³C NMR에서 C2/C6과 C4가 각각 186.6, 178.1 ppm으로 나타나는 것은 무엇을 의미하는가?
+8. superacid에서 관찰한 cyclohexadienyl cation의 ¹³C NMR에서 C2/C6과 C4가 각각 186.6, 178.1 ppm으로 나타나는 것은 무엇을 의미하는가?
 
 ## 정답 및 해설
 
@@ -19,7 +19,7 @@
 2. (i) Ac₂O로 acetanilide를 만든다. N의 전자쌍이 C=O와 공액되어 활성이 줄어든다. (ii) Br₂/HOAc, 실온에서 bromination한다. 한 번만, 그리고 입체 장애 때문에 주로 파라에 들어간다. (iii) HCl, EtOH/H₂O, 가열 환류로 amide를 가수분해해 *p*-bromoaniline을 얻는다. (L4 p.5)
 3. 오르토/파라 공격에서는 공명 구조 중 하나에서 양전하가 methyl이 붙은 3차 탄소에 놓여 σ 공액으로 안정화된다. 메타 공격에서는 양전하가 methyl이 붙은 탄소에 오지 않으므로 그런 안정화가 없다. 오르토 위치는 두 개, 파라는 하나라서 통계적으로 오르토가 많다(63% 대 34%). (L4 p.8-9)
 4. Cl은 전기음성도가 커서 유발 효과로 고리 전체의 전자를 끌어가므로 반응성이 낮아진다. 하지만 비공유 전자쌍이 공액으로 오르토/파라 위치의 cation intermediate를 안정화하므로, 반응이 일어날 때는 오르토/파라로 간다. 반응성은 유발 효과가, 배향은 공액이 결정한다. (L4 p.15)
-5. 2-브로모-4-methylacetanilide(N-(2-브로모-4-methylphenyl)acetamide)가 주생성물이다. 파라 위치는 methyl이 이미 차지하고 있다. NHAc(중간 활성화)는 Me(약한 활성화)보다 강한 배향기이므로 NHAc의 오르토 위치로 들어간다. Me의 오르토 위치도 가능하지만 더 약한 배향기의 선택이 진다. 근거는 L4 p.17의 BHT 원리(강한 활성화기가 이김)와 p.24의 반응성 순서이며, 슬라이드에 답은 없다.
+5. 2-bromo-4-methylacetanilide(N-(2-bromo-4-methylphenyl)acetamide)가 주생성물이다. 파라 위치는 methyl이 이미 차지하고 있다. NHAc(중간 활성화)는 Me(약한 활성화)보다 강한 배향기이므로 NHAc의 오르토 위치로 들어간다. Me의 오르토 위치도 가능하지만 더 약한 배향기의 선택이 진다. 근거는 L4 p.17의 BHT 원리(강한 활성화기가 이김)와 p.24의 반응성 순서이며, 슬라이드에 답은 없다.
 6. N,N-dimethylaniline > 아니솔 > toluene > benzene > chlorobenzene > nitrobenzene. 강한 활성화(NMe₂ 10¹⁴, OMe 10⁹) > 약한 활성화(Me) > 기준 > 약한 비활성화(Cl) > 강한 비활성화(NO₂) 순이다. (L4 p.21, p.24)
 7. *m*-bromonitrobenzene: 먼저 nitration(HNO₃/H₂SO₄)하고 그다음 bromination(Br₂, Fe, 가열)한다. NO₂가 메타 배향이기 때문이다. *p*-bromonitrobenzene: 먼저 bromination(Br₂, FeBr₃)하고 그다음 nitration한다. Br이 o,p 배향이므로 파라 생성물을 분리한다. (원리: L4 p.14-16)
-8. C2/C6(오르토)과 C4(파라)가 크게 디실딩되었다는 것은 이 위치들에 양전하가 많이 놓여 있다는 뜻이다(전하 0.26+, 0.30+). 공명 구조에서 예측한 대로 양전하가 오르토/파라에 분포한다는 직접적인 실험 증거다. 메타(136.9 ppm)는 양전하가 적다. (L4 p.20)
+8. C2/C6(오르토)과 C4(파라)가 크게 deshielding되었다는 것은 이 위치들에 양전하가 많이 놓여 있다는 뜻이다(전하 0.26+, 0.30+). 공명 구조에서 예측한 대로 양전하가 오르토/파라에 분포한다는 직접적인 실험 증거다. 메타(136.9 ppm)는 양전하가 적다. (L4 p.20)

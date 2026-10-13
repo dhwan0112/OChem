@@ -63,7 +63,7 @@ L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방
 | PhCF₃, PhNMe₃⁺ | HNO₃, H₂SO₄ | meta | m |
 | PhNO₂ | 발연 HNO₃/H₂SO₄ 또는 Br₂, Fe | meta | m |
 | PhX | HNO₃, H₂SO₄ | 주로 p | o,p |
-| *p*-크레솔 | 아이소뷰텐, H₂SO₄ | BHT | OH의 o |
+| *p*-크레솔 | isobutene, H₂SO₄ | BHT | OH의 o |
 
 반응은 [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md), [nitration](../wiki/반응/나이트로화.md), [sulfonation](../wiki/반응/설폰화.md), [Friedel–Crafts alkylation](../wiki/반응/프리델-크래프츠%20알킬화.md)에 있고, 비고가 포함된 전체 표는 [substituent effect](../wiki/개념/치환기%20효과.md)에 있다.
 

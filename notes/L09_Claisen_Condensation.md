@@ -15,7 +15,7 @@
 
 ## 개요
 
-enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation가 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enol화되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
+enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation가 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enolization되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
 
 ## 강의 흐름
 
@@ -34,7 +34,7 @@ enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldo
 - → [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [alkoxide base](../wiki/시약/알콕사이드%20염기.md), [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md)
 
 ### 4. 교차 Claisen condensation: 짝을 골라 섞기 (슬라이드 p.8–11)
-- 한쪽을 enol화되지 않는 ester로: oxalate > formate > carbonate > (ethyl acetate) > benzoate.
+- 한쪽을 enolization되지 않는 ester로: oxalate > formate > carbonate > (ethyl acetate) > benzoate.
 - ester + carbonate/oxalate(p.9), ketone + oxalate/formate(p.10, 더 산성인 ketone이 enolate), benzoate + acetophenone이 aldol이 아니라 Claisen인 이유(p.11).
 - → [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
 

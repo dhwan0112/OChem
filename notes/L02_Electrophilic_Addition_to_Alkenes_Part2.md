@@ -67,7 +67,7 @@ L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 *
 | bromoether | NBS, HBr, 그다음 ROH | β-bromo ether | OR은 더 치환된 C에 | anti | |
 | anti diol | 1. mCPBA 2. H₂O, HClO₄ | *trans*-1,2-diol | | anti | |
 | [syn diol](../wiki/반응/다이하이드록실화.md) | OsO₄ (또는 cat. OsO₄, NMO) | *cis*-1,2-diol | | syn, stereospecific | osmate ester |
-| [diol 절단](../wiki/반응/과아이오딘산%20절단.md) | NaIO₄ | carbonyl 2개 | | | 고리형 periodate ester |
+| [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md) | NaIO₄ | carbonyl 2개 | | | 고리형 periodate ester |
 | [ozonolysis](../wiki/반응/오존%20분해.md) | 1. O₃ 2. Me₂S / H₂O₂ / NaBH₄ | aldehyde / carboxylic acid / alcohol | | | 1,3-dipolar cycloaddition |
 | [acid-catalyzed hydration](../wiki/반응/산%20촉매%20수화.md) | H₂O, H⁺ | alcohol | Markovnikov | | 평형, 3차 cation 필요 |
 | TFA 경유 수화 | 1. TFA 2. 염기, H₂O | alcohol | Markovnikov | | ester 경유 |
