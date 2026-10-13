@@ -23,7 +23,7 @@ tags: [분류/개념, 범위/Test1, 단원/알켄-첨가, 강의/L01, 강의/L02
 
 ![비대칭 bromonium ion을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-*그림: C–Br 결합이 늘어나며 3차 탄소에 δ+가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 deprotonation되면 ether가 된다.*
+*그림: C–Br 결합이 늘어나며 3차 탄소에 δ+가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 deprotonate되면 ether가 된다.*
 
 ## 예
 

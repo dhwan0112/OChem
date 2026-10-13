@@ -24,7 +24,7 @@ allyl 위치의 C–H는 benzyl 위치처럼 공명으로 안정화되는 특별
 
 ## 선택성
 
-말단 isopropylidene =C(CH₃)₂에는 methyl이 두 개 있다. 슬라이드 그림에서는 R과 *trans* 위치에 있는 methyl이 CHO가 된다. 보충: 이 *E* 선택성은 표준 교재(Riley 산화)와도 맞는다. (보충 근거: Clayden p.919) (출처: L6c p.18)
+말단 isopropylidene =C(CH₃)₂에는 methyl이 두 개 있다. 슬라이드 그림에서는 R과 *trans* 위치에 있는 methyl이 CHO가 된다. 보충: 이 *E* 선택성은 표준 교재(Riley oxidation)와도 맞는다. (보충 근거: Clayden p.919) (출처: L6c p.18)
 
 ## 메커니즘: pericyclic 반응 두 번
 
@@ -34,7 +34,7 @@ L6에서 미뤄 둔 메커니즘은 L16(예습판, Clayden 기반)에서 나온�
 2. **[2,3] rearrangement:** allyl seleninic acid는 allyl sulfoxide처럼(C–Se 결합이 더 약해서 더 쉽게) [2,3] sigmatropic rearrangement를 해 불안정한 Se(II) ester가 되고, 이것이 곧 분해되어 allylic alcohol이 된다(→ [2,3-sigmatropic rearrangement](../반응/2,3-시그마트로픽%20자리옮김.md)).
 3. 특히 methyl기는 산화가 더 진행되어 aldehyde(또는 ketone)가 되기도 한다.
 
-결과적으로 allyl 위치의 CH₃가 CH₂OH나 CH=O로 바뀐다. NBS allyl 브로민화와 결과는 비슷하지만 메커니즘은 전혀 다르다. 촉매량 SeO₂와 t-BuOOH(재산화제)를 함께 쓰면 독성 있고 냄새나는 selenium 부산물을 줄일 수 있다. (출처: Clayden p.919)
+결과적으로 allyl 위치의 CH₃가 CH₂OH나 CH=O로 바뀐다. NBS allyl bromination와 결과는 비슷하지만 메커니즘은 전혀 다르다. 촉매량 SeO₂와 t-BuOOH(재산화제)를 함께 쓰면 독성 있고 냄새나는 selenium 부산물을 줄일 수 있다. (출처: Clayden p.919)
 
 ## 예: 시레닌 합성
 

@@ -7,35 +7,35 @@ tags: [분류/시약, 범위/Test1, 범위/Test2, 기출/Test1-2025, 단원/공�
 ---
 # NaBH4
 
-> 수소화붕소나트륨. 알데하이드와 케톤만 알코올로 바꾸는 가장 흔한 온화한 환원제다. 에스터는 아주 느리고, 아마이드와 카복실산은 건드리지 않는다.
+> 수소화붕소나트륨. aldehyde와 ketone만 alcohol로 바꾸는 가장 흔한 온화한 환원제다. ester는 아주 느리고, amide와 carboxylic acid은 건드리지 않는다.
 
 ## 개요
 
-NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 분자에 에스터나 아마이드가 함께 있어도 알데하이드·케톤만 골라 환원할 수 있다. 다만 "온화하다"는 말은 상대적이다. [수소화물 시약의 세기](../개념/금속%20수소화물의%20반응성.md)는 LiAlH₄ > LiBH₄ > NaBH₄ > NaBH₃CN 순이고, NaBH₄는 그 아래쪽에 있다. (출처: L5 p.18–19)
+NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 분자에 ester나 amide가 함께 있어도 aldehyde·ketone만 골라 환원할 수 있다. 다만 "온화하다"는 말은 상대적이다. [수소화물 시약의 세기](../개념/금속%20수소화물의%20반응성.md)는 LiAlH₄ > LiBH₄ > NaBH₄ > NaBH₃CN 순이고, NaBH₄는 그 아래쪽에 있다. (출처: L5 p.18–19)
 
 ## 무엇을 하나
 
 | 기질 | 생성물 | 비고 |
 |---|---|---|
-| 알데하이드 | 1차 알코올 | 빠름 |
-| 케톤 | 2차 알코올 | 알데하이드보다 약 400배 느림 |
-| 이민 | 아민 | 다만 [reductive amination](../반응/환원성%20아미노화.md)에는 부적합(아래) |
-| 에스터 | (1차 알코올) | 매우 느림, 보통 살아남음 |
-| 아마이드, 카복실산 | 반응 없음 | |
+| aldehyde | 1차 alcohol | 빠름 |
+| ketone | 2차 alcohol | aldehyde보다 약 400배 느림 |
+| imine | amine | 다만 [reductive amination](../반응/환원성%20아미노화.md)에는 부적합(아래) |
+| ester | (1차 alcohol) | 매우 느림, 보통 살아남음 |
+| amide, carboxylic acid | 반응 없음 | |
 
-예: 뷰탄알 --[NaBH₄, MeOH]--> 1-뷰탄올(85%), 뷰탄온 --[NaBH₄, MeOH]--> 2-뷰탄올(87%). (출처: L5 p.17, p.19)
+예: butanal --[NaBH₄, MeOH]--> 1-butanol(85%), butanone --[NaBH₄, MeOH]--> 2-butanol(87%). (출처: L5 p.17, p.19)
 
 ## 메커니즘
 
 메커니즘의 이름은 "hydride" 첨가다.
 
-1. BH₄⁻의 B–H 결합 전자쌍이 수소화물(nucleophile)로서 카보닐 탄소(electrophile)를 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
-2. alkoxide O가 용매 EtOH의 H를 받아 알코올이 되고, 남은 EtO⁻는 BH₃에 붙어 EtOBH₃⁻가 된다.
+1. BH₄⁻의 B–H 결합 전자쌍이 수소화물(nucleophile)로서 carbonyl 탄소(electrophile)를 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
+2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO⁻는 BH₃에 붙어 EtOBH₃⁻가 된다.
 3. 그런데 EtOBH₃⁻에는 아직 B–H가 남아 있으니 여전히 환원제다.
 
-![NaBH4의 수소화물이 케톤 탄소를 공격하고 알콕사이드가 EtOH에서 양성자를 받는 메커니즘](../../figures/L05/nabh4_ketone.svg)
+![NaBH4의 수소화물이 ketone 탄소를 공격하고 alkoxide가 EtOH에서 양성자를 받는 메커니즘](../../figures/L05/nabh4_ketone.svg)
 
-*그림: 왼쪽은 1번 단계다. BH₄⁻의 B–H 결합(파랑, nucleophile)이 카보닐 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 간다. 가운데는 2번 단계다. alkoxide O⁻(파랑)의 비공유 전자쌍이 EtOH의 H(빨강)를 가져가고, H–O 결합 전자는 O에 남아 EtO⁻가 된다. 새 C–H 결합은 초록이다. EtO⁻는 BH₃와 만나 EtOBH₃⁻가 된다.*
+*그림: 왼쪽은 1번 단계다. BH₄⁻의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 간다. 가운데는 2번 단계다. alkoxide O⁻(파랑)의 비공유 전자쌍이 EtOH의 H(빨강)를 가져가고, H–O 결합 전자는 O에 남아 EtO⁻가 된다. 새 C–H 결합은 초록이다. EtO⁻는 BH₃와 만나 EtOBH₃⁻가 된다.*
 
 (출처: L5 p.19)
 
@@ -47,35 +47,35 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 ## 선택성
 
-- **알데하이드 vs 케톤:** 아이소프로필 알코올, 0 °C의 2차 속도상수는 벤즈알데하이드가 820 × 10⁻⁴, 아세토페논이 2.05 × 10⁻⁴ M⁻¹s⁻¹로 약 400배 차이다. 그러니 케톤이 함께 있어도 알데하이드만 골라 환원할 수 있다. 비양성자성 용매 다이글라임(CH₃OCH₂CH₂OCH₂CH₂OCH₃)에서는 알데하이드만 환원되고 아세톤은 전혀 환원되지 않는다. 보충: 이 차이를 교과서는 주로 입체 장애로 설명한다. 알데하이드 탄소에는 작은 H가 붙어 있지만 케톤 탄소에는 탄소 치환기가 둘이라 수소화물이 접근하기 더 어렵다(자세한 비교는 [metal hydride reactivity](../개념/금속%20수소화물의%20반응성.md)). (보충 근거: Clayden p.132) (출처: L5 p.21)
-- **양이온 효과:** NaBH₄는 에틸 아세테이트나 에틸 벤조에이트 같은 에스터를 아주 느리게만 환원하지만, [LiBH4](LiBH4.md)는 쉽게 환원한다. (출처: L5 p.21)
-- **엔알 vs 엔온:** 신남알데하이드는 1,2-환원되어 신나밀 알코올(97%)에서 멈추지만, 사이클로펜텐온은 1,4 후 1,2 환원되어 사이클로펜탄올(99%)까지 간다(→ [1,2-addition vs 1,4-addition](../개념/1,2-첨가와%201,4-첨가.md)). (출처: L11 p.10)
-- **오존 분해 후처리:** O₃ 다음 NaBH₄를 쓰면 카보닐 조각이 바로 알코올이 된다(→ [ozonolysis](../반응/오존%20분해.md)). (출처: L2 p.18)
+- **aldehyde vs ketone:** isopropyl alcohol, 0 °C의 2차 속도상수는 benzaldehyde가 820 × 10⁻⁴, acetophenone이 2.05 × 10⁻⁴ M⁻¹s⁻¹로 약 400배 차이다. 그러니 ketone이 함께 있어도 aldehyde만 골라 환원할 수 있다. 비양성자성 용매 다이글라임(CH₃OCH₂CH₂OCH₂CH₂OCH₃)에서는 aldehyde만 환원되고 acetone은 전혀 환원되지 않는다. 보충: 이 차이를 교과서는 주로 입체 장애로 설명한다. aldehyde 탄소에는 작은 H가 붙어 있지만 ketone 탄소에는 탄소 치환기가 둘이라 수소화물이 접근하기 더 어렵다(자세한 비교는 [metal hydride reactivity](../개념/금속%20수소화물의%20반응성.md)). (보충 근거: Clayden p.132) (출처: L5 p.21)
+- **cation 효과:** NaBH₄는 ethyl acetate나 ethyl 벤조에이트 같은 ester를 아주 느리게만 환원하지만, [LiBH4](LiBH4.md)는 쉽게 환원한다. (출처: L5 p.21)
+- **엔알 vs enone:** cinnamaldehyde는 1,2-환원되어 신나밀 alcohol(97%)에서 멈추지만, cyclopentenone은 1,4 후 1,2 환원되어 cyclopentanol(99%)까지 간다(→ [1,2-addition vs 1,4-addition](../개념/1,2-첨가와%201,4-첨가.md)). (출처: L11 p.10)
+- **ozone 분해 후처리:** O₃ 다음 NaBH₄를 쓰면 carbonyl 조각이 바로 alcohol이 된다(→ [ozonolysis](../반응/오존%20분해.md)). (출처: L2 p.18)
 
 ## 조건과 용매
 
-보통 알코올 용매에서 과량 쓴다. NaBH₄는 물에 잘 녹고 물과는 느리게 반응해 H₂를 내며(알칼리를 넣으면 더 느려진다), **메탄올과는 빠르게** 반응한다(60 °C, 24분에 H₂ 100% 발생, 같은 조건 에탄올은 2% 미만). 즉 메탄올은 환원제를 갉아먹는다. 그래서 슬라이드의 결론은 "**EtOH가 MeOH보다 좋은 용매**"다.[^1] (출처: L5 p.20)
+보통 alcohol 용매에서 과량 쓴다. NaBH₄는 물에 잘 녹고 물과는 느리게 반응해 H₂를 내며(알칼리를 넣으면 더 느려진다), **methanol과는 빠르게** 반응한다(60 °C, 24분에 H₂ 100% 발생, 같은 조건 ethanol은 2% 미만). 즉 methanol은 환원제를 갉아먹는다. 그래서 슬라이드의 결론은 "**EtOH가 MeOH보다 좋은 용매**"다.[^1] (출처: L5 p.20)
 
-실험 사진 예시는 4-*tert*-뷰틸사이클로헥산온 --[NaBH₄, ethanol]--> 4-*tert*-뷰틸사이클로헥산올이며, TLC(S = 출발물, C = co-spot, R = 반응액)로 진행을 확인한다.[^2] (출처: L5 p.20)
+실험 사진 예시는 4-*tert*-butylcyclohexanone --[NaBH₄, ethanol]--> 4-*tert*-butylcyclohexanol이며, TLC(S = 출발물, C = co-spot, R = 반응액)로 진행을 확인한다.[^2] (출처: L5 p.20)
 
-대조적으로 [LiAlH4](LiAlH4.md)는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, 에터, 3차 아민으로 제한되며, 보통 다이에틸 에터, THF, 다이글라임을 쓴다. (출처: L5 p.21)
+대조적으로 [LiAlH4](LiAlH4.md)는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, ether, 3차 amine으로 제한되며, 보통 diethyl ether, THF, 다이글라임을 쓴다. (출처: L5 p.21)
 
 ## 이웃 시약과 비교
 
-| 시약 | 알데하이드·케톤 | 에스터 | 아마이드 | 카복실산 |
+| 시약 | aldehyde·ketone | ester | amide | carboxylic acid |
 |---|---|---|---|---|
 | [NaBH3CN](NaBH3CN.md) | 느림 | X | X | X |
 | **NaBH₄** | O | 느림 | X | X |
 | [LiBH4](LiBH4.md) | O | O | X | X |
-| [LiAlH4](LiAlH4.md) | O | O | O(→ 아민) | 느림(충분히 쓰면 O) |
+| [LiAlH4](LiAlH4.md) | O | O | O(→ amine) | 느림(충분히 쓰면 O) |
 
 (출처: L5 p.17)
 
 ## 흔한 오해
 
-- "NaBH₄로도 환원성 아미노화가 된다": 이민이 생기기 전에 카보닐을 먼저 알코올로 환원해 버린다. 그래서 [NaBH3CN](NaBH3CN.md)을 쓴다. (출처: L5 p.17)
+- "NaBH₄로도 환원성 아미노화가 된다": imine이 생기기 전에 carbonyl을 먼저 alcohol로 환원해 버린다. 그래서 [NaBH3CN](NaBH3CN.md)을 쓴다. (출처: L5 p.17)
 - "MeOH가 표준 용매다": MeOH는 NaBH₄를 갉아먹는다. 슬라이드 결론은 EtOH다. (출처: L5 p.20)
-- "NaBH₄는 엔온의 C=O만 환원한다": 사이클로펜텐온처럼 1,4 환원이 먼저 일어나는 기질도 있다. (출처: L11 p.10)
+- "NaBH₄는 enone의 C=O만 환원한다": cyclopentenone처럼 1,4 환원이 먼저 일어나는 기질도 있다. (출처: L11 p.10)
 
 ## 관련 문서
 
@@ -91,4 +91,4 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 - [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.18
 
 [^1]: p.20–21의 교재 발췌는 H. C. Brown 연구진의 논문들을 인용한다. Brown은 붕소 화합물(보레인 등)을 유기합성에 도입한 공로로 1979년 노벨 화학상을 받았다(→ [borane](보레인.md)).
-[^2]: 슬라이드에는 생성물의 입체화학이 그려져 있지 않다. 표준 교재에 따르면 작은 수소화물이 주로 축 방향(axial)에서 공격하므로 OH가 에쿼토리얼인 *trans*-4-*tert*-뷰틸사이클로헥산올이 주생성물이다.
+[^2]: 슬라이드에는 생성물의 입체화학이 그려져 있지 않다. 표준 교재에 따르면 작은 수소화물이 주로 축 방향(axial)에서 공격하므로 OH가 에쿼토리얼인 *trans*-4-*tert*-butylcyclohexanol이 주생성물이다.

@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 
 ## 개요
 
-amine은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 거의 항상 끼어든다. 질소를 carbonyl에 붙여 carbamate로 만들면 비공유 전자쌍이 C=O와 공명해 nucleophilicity와 염기성이 크게 떨어진다(→ [protecting group](../개념/보호기.md) 문서의 "왜 carbamate인가"). Boc는 그중 산으로 벗기는 carbamate이고, [peptide 합성](../반응/펩타이드%20합성.md)의 N-protecting group 두 가지 중 하나다. (출처: L12 p.5, p.8)
+amine은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 거의 항상 끼어든다. 질소를 carbonyl에 붙여 carbamate로 만들면 비공유 전자쌍이 C=O와 공명해 nucleophilicity와 염기성이 크게 떨어진다(→ [protecting group](../개념/보호기.md) 문서의 "왜 carbamate인가"). Boc는 그중 산으로 벗기는 carbamate이고, [peptide synthesis](../반응/펩타이드%20합성.md)의 N-protecting group 두 가지 중 하나다. (출처: L12 p.5, p.8)
 
 ## 도입
 
@@ -27,14 +27,14 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 그렇다면 Boc는 왜 산에서 벗겨질까? 메커니즘을 따라가 보면 답이 보인다.
 
-1. carbamate의 carbonyl O가 H⁺에 의해 protonation된다.
+1. carbamate의 carbonyl O가 H⁺에 의해 protonate된다.
 2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 cation은 3차 [carbocation](../개념/탄소%20양이온.md)이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
 3. t-butyl cation은 β-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid는 양성자가 옮겨 간 zwitterion(O⁻/NH2⁺) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
-![Boc carbamate의 carbonyl 산소가 protonation되고 t-butyl cation이 떨어져 carbamic acid가 되는 단계](../../figures/L12/boc_cleavage.svg)
+![Boc carbamate의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid가 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-*그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonation된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.*
+*그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.*
 
 ![carbamic acid가 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
@@ -62,13 +62,13 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ## 관련 문서
 
-- 시약: [Fmoc 보호기](Fmoc%20보호기.md), [Cbz 보호기](Cbz%20보호기.md), [TFA](TFA.md), [DCC](DCC.md)
-- 반응: [펩타이드 합성](../반응/펩타이드%20합성.md)
-- 개념: [보호기](../개념/보호기.md), [직교 보호](../개념/직교%20보호.md), [탄소 양이온](../개념/탄소%20양이온.md), [사면체 중간체](../개념/사면체%20중간체.md)
+- 시약: [Fmoc protecting group](Fmoc%20보호기.md), [Cbz protecting group](Cbz%20보호기.md), [TFA](TFA.md), [DCC](DCC.md)
+- 반응: [peptide synthesis](../반응/펩타이드%20합성.md)
+- 개념: [protecting group](../개념/보호기.md), [orthogonal protection](../개념/직교%20보호.md), [carbocation](../개념/탄소%20양이온.md), [tetrahedral intermediate](../개념/사면체%20중간체.md)
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 6절, 7절 (L12 p.5, p.8, p.10)
+- [L12 protecting group](../../notes/L12_Protecting_Groups.md) 6절, 7절 (L12 p.5, p.8, p.10)
 - [L12 연습문제](../../practice/L12_Practice.md) 문제 3
 
 [^1]: 보충: 이탈한 t-BuOCO2⁻는 CO2와 t-BuO⁻로 분해된다. 슬라이드에는 Boc2O와 염기라는 조건과 생성물만 나온다.

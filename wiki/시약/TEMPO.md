@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 시
 
 ## 개요
 
-값싼 표백제만으로는 산화의 선택성이 없다. 여기에 TEMPO를 촉매로 끼우면 aldehyde에서 멈춘다. 슬라이드는 이름을 "tetramethylpiperidine N-oxide"로 적었지만 정확히는 nitroxyl radical(N-oxyl)이다(m.p. 36–38 °C). 반응 이름은 [TEMPO 산화](../반응/TEMPO%20산화.md)다. (출처: L6c p.11)
+값싼 표백제만으로는 산화의 선택성이 없다. 여기에 TEMPO를 촉매로 끼우면 aldehyde에서 멈춘다. 슬라이드는 이름을 "tetramethylpiperidine N-oxide"로 적었지만 정확히는 nitroxyl radical(N-oxyl)이다(m.p. 36–38 °C). 반응 이름은 [TEMPO oxidation](../반응/TEMPO%20산화.md)다. (출처: L6c p.11)
 
 ## 무엇을 하나
 
@@ -27,7 +27,7 @@ tags: [분류/시약, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 시
 TEMPO 자체가 alcohol을 산화하는 것이 아니다.
 
 1. OCl⁻(최종 산화제)가 Br⁻를 OBr⁻로 산화한다.
-2. OBr⁻가 TEMPO를 nitrosonium 양이온(N⁺=O)으로 산화한다.[^1] 실제 산화제는 이 양이온이다.
+2. OBr⁻가 TEMPO를 nitrosonium cation(N⁺=O)으로 산화한다.[^1] 실제 산화제는 이 cation이다.
 3. alkoxide가 N⁺를 공격해 부가물 N(O⁻)–O–CH₂R이 생긴다.
 4. N에 붙은 O⁻가 분자 내에서 α-H를 떼고 N–O 결합이 끊어져 RCHO와 hydroxylamine(TEMPO-H)이 된다.
 5. TEMPO-H는 다시 산화되어 순환이 닫힌다.
@@ -44,16 +44,16 @@ Stahl 계에서는 Cu(I)가 TEMPO-H와 ½ O₂로 Cu(II)–OH와 TEMPO•가 되
 
 - **[TPAP](TPAP.md):** 같은 "촉매 + 최종 산화제" 설계. TPAP는 NMO, TEMPO는 NaOCl 또는 O₂를 쓴다. (출처: L6c p.10–13)
 - **[DMP](DMP.md)·[Swern](../반응/스원%20산화.md):** 화학량론적 시약이고 더 비싸거나(DMP) 저온·악취 부산물(Swern)이 따른다. TEMPO/NaOCl은 값싼 표백제, Stahl은 공기를 쓴다. (출처: L6c p.7–9, p.11–13)
-- **[Jones 시약](존스%20시약.md):** 1차 alcohol을 산까지 보낸다. TEMPO는 aldehyde에서 멈춘다. (출처: L6c p.16)
+- **[Jones reagent](존스%20시약.md):** 1차 alcohol을 산까지 보낸다. TEMPO는 aldehyde에서 멈춘다. (출처: L6c p.16)
 
 ## 흔한 오해
 
-- "TEMPO radical이 alcohol을 직접 산화한다": 실제 산화제는 nitrosonium(oxoammonium) 양이온이다. TEMPO는 촉매이고, NaOCl 또는 O₂가 최종 산화제다. (출처: L6c p.12)
+- "TEMPO radical이 alcohol을 직접 산화한다": 실제 산화제는 nitrosonium(oxoammonium) cation이다. TEMPO는 촉매이고, NaOCl 또는 O₂가 최종 산화제다. (출처: L6c p.12)
 
 ## 관련 문서
 
-- 반응: [TEMPO 산화](../반응/TEMPO%20산화.md), [alcohol 산화](../반응/알코올%20산화.md)
-- 비교 시약: [TPAP](TPAP.md), [DMP](DMP.md), [MnO2](MnO2.md), [Jones 시약](존스%20시약.md)
+- 반응: [TEMPO oxidation](../반응/TEMPO%20산화.md), [alcohol oxidation](../반응/알코올%20산화.md)
+- 비교 시약: [TPAP](TPAP.md), [DMP](DMP.md), [MnO2](MnO2.md), [Jones reagent](존스%20시약.md)
 
 ## 출처
 

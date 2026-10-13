@@ -44,8 +44,8 @@ MnO₂는 너무 순해서 아무 alcohol이나 산화하지 못한다. 그런�
 
 ## 관련 문서
 
-- 반응: [alcohol 산화](../반응/알코올%20산화.md)
-- 비교 시약: [DMP](DMP.md), [TPAP](TPAP.md), [TEMPO](TEMPO.md), [SeO2](SeO2.md), [Jones 시약](존스%20시약.md)
+- 반응: [alcohol oxidation](../반응/알코올%20산화.md)
+- 비교 시약: [DMP](DMP.md), [TPAP](TPAP.md), [TEMPO](TEMPO.md), [SeO2](SeO2.md), [Jones reagent](존스%20시약.md)
 
 ## 출처
 

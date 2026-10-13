@@ -23,7 +23,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, �
 4. titanium alkoxide가 Me₃Si를 다시 받아 aldol의 silyl ether가 되고, TiCl₄가 재생된다.
 5. 물로 후처리하면 Si–O가 끊어져 aldol이 된다.
 
-![TiCl4로 활성화된 벤즈알데하이드를 실릴 엔올 에터가 공격하는 단계](../../figures/L08/mukaiyama_aldol.svg)
+![TiCl4로 활성화된 benzaldehyde를 silyl enol ether가 공격하는 단계](../../figures/L08/mukaiyama_aldol.svg)
 
 *그림: TiCl₄가 배위한 aldehyde를 O⁺–TiCl₃로 나타냈다. C=C(파랑)가 활성화된 carbonyl 탄소(빨강)를 공격하고, C=O⁺ π 전자가 산소로 가서 titanium alkoxide가 된다(2단계).*
 
@@ -42,8 +42,8 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, �
 ## 관련 문서
 
 - 반응: [Mukaiyama aldol reaction](../반응/무카이야마%20알돌%20반응.md), [crossed aldol reaction](../반응/교차%20알돌%20반응.md), [aldol reaction](../반응/알돌%20반응.md)
-- 시약: [silyl enol ether](실릴%20엔올%20에터.md), [Lewis acid 촉매](루이스%20산%20촉매.md)
-- 개념: [electrophile과 nucleophile](../개념/친전자체와%20친핵체.md), [enol과 enolate](../개념/엔올과%20엔올레이트.md)
+- 시약: [silyl enol ether](실릴%20엔올%20에터.md), [Lewis acid catalyst](루이스%20산%20촉매.md)
+- 개념: [electrophile과 nucleophile](../개념/친전자체와%20친핵체.md), [enol and enolate](../개념/엔올과%20엔올레이트.md)
 
 ## 출처
 

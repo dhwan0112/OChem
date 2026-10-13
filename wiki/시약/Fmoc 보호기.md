@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 
 ## 개요
 
-Fmoc(9-fluorenylmethoxycarbonyl)의 개성은 [Boc](Boc%20보호기.md)와 정반대라는 데 있다. Boc는 산에 약하고 염기에 강하며, Fmoc는 산에 강하고 염기에 약하다. 이 거울상 관계 덕분에 둘은 [orthogonal protection](../개념/직교%20보호.md)의 토대가 되고, [peptide 합성](../반응/펩타이드%20합성.md)에서 N-protecting group으로 쓰인다. (출처: L12 p.11)
+Fmoc(9-fluorenylmethoxycarbonyl)의 개성은 [Boc](Boc%20보호기.md)와 정반대라는 데 있다. Boc는 산에 약하고 염기에 강하며, Fmoc는 산에 강하고 염기에 약하다. 이 거울상 관계 덕분에 둘은 [orthogonal protection](../개념/직교%20보호.md)의 토대가 되고, [peptide synthesis](../반응/펩타이드%20합성.md)에서 N-protecting group으로 쓰인다. (출처: L12 p.11)
 
 ## 도입
 
@@ -36,7 +36,7 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [carboca
 
 (출처: L12 p.11)
 
-보충: pKa 약 25짜리 C–H를 amine(짝산 pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 aromatic anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 aromatic인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 π계를 이룬다). (보충 근거: Clayden p.559)
+보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 aromatic anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 aromatic인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 π계를 이룬다). (보충 근거: Clayden p.559)
 
 실제 peptide 합성에서는 piperidine 같은 2차 amine을 주로 쓴다.[^1] 결국 Boc(산에 약하고 염기에 강함)와 Fmoc(산에 강하고 염기에 약함)는 거울상처럼 서로 보완하는 관계이고, 이것이 orthogonal protection 전략의 토대가 된다. (출처: L12 p.11)
 
@@ -47,12 +47,12 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [carboca
 
 ## 관련 문서
 
-- 시약: [Boc 보호기](Boc%20보호기.md), [Cbz 보호기](Cbz%20보호기.md)
-- 반응: [펩타이드 합성](../반응/펩타이드%20합성.md)
-- 개념: [E1cB 제거](../개념/E1cB%20제거.md), [직교 보호](../개념/직교%20보호.md), [보호기](../개념/보호기.md), [방향족성](../개념/방향족성.md), [탄소 양이온](../개념/탄소%20양이온.md), [α-수소의 산도](../개념/α-수소의%20산도.md)
+- 시약: [Boc protecting group](Boc%20보호기.md), [Cbz protecting group](Cbz%20보호기.md)
+- 반응: [peptide synthesis](../반응/펩타이드%20합성.md)
+- 개념: [E1cB elimination](../개념/E1cB%20제거.md), [orthogonal protection](../개념/직교%20보호.md), [protecting group](../개념/보호기.md), [aromaticity](../개념/방향족성.md), [carbocation](../개념/탄소%20양이온.md), [alpha-hydrogen acidity](../개념/α-수소의%20산도.md)
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절 (L12 p.11)
+- [L12 protecting group](../../notes/L12_Protecting_Groups.md) 7절 (L12 p.11)
 
 [^1]: 보충: 슬라이드의 염기는 일반적인 :NR3로 그려져 있다. 실제로 piperidine 같은 2차 amine이 흔히 쓰이고, 이 amine이 생성된 dibenzofulvene을 포획한다는 점은 표준 peptide 화학 내용이다.

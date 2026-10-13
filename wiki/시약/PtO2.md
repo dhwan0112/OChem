@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 단원/환원, 강의/L05, 시약유형/촉�
 ---
 # PtO2
 
-> platinum oxide(IV), 흔히 **Adams 촉매**라 부른다. H₂와 함께 alkene을 syn으로 수소화하고, AcOH 속에서는 benzene 고리까지 환원한다. 실제로 일하는 것은 PtO₂가 아니라 hydrogenation 중에 생기는 Pt 금속이다.
+> platinum oxide(IV), 흔히 **Adams catalyst**라 부른다. H₂와 함께 alkene을 syn으로 수소화하고, AcOH 속에서는 benzene 고리까지 환원한다. 실제로 일하는 것은 PtO₂가 아니라 hydrogenation 중에 생기는 Pt 금속이다.
 
 ## 개요
 
@@ -32,8 +32,8 @@ H가 모두 촉매 표면 쪽, 즉 alkene의 같은 면에서 들어오므로 sy
 
 ## 관련 문서
 
-- 반응: [catalytic hydrogenation](../반응/촉매%20수소화.md), [Lindlar 환원](../반응/린들라%20환원.md), [hydrogenolysis](../반응/수소화분해.md)
-- 시약: [Pd/C](Pd-C.md), [Lindlar 촉매](린들라%20촉매.md)
+- 반응: [catalytic hydrogenation](../반응/촉매%20수소화.md), [Lindlar reduction](../반응/린들라%20환원.md), [hydrogenolysis](../반응/수소화분해.md)
+- 시약: [Pd/C](Pd-C.md), [Lindlar catalyst](린들라%20촉매.md)
 - 개념: [stereospecificity와 stereoselectivity](../개념/입체특이성과%20입체선택성.md), [aromaticity](../개념/방향족성.md)
 
 ## 출처

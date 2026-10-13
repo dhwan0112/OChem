@@ -25,19 +25,19 @@
 
 #### 1-0. 일상 속 질소 화합물 (p.2–3)
 - serotonin·dopamine 등 neurotransmitter와 vitamin·약물 상당수가 질소 화합물이라 amine 합성은 기본기다.
-- → [amine 합성 개관](../wiki/개념/아민%20합성%20개관.md)
+- → [amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md)
 
 #### 1-0-1. amine의 분류와 성질 (p.4)
 - 1·2·3차 amine과 4차 ammonium salt. N의 lone pair 때문에 base·nucleophile이지만 amide는 염기성·친핵성이 약하다. 고리형 amine 이름(azepane~aziridine).
-- → [amine 합성 개관](../wiki/개념/아민%20합성%20개관.md), [pyrrolidine](../wiki/시약/피롤리딘.md)
+- → [amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md), [pyrrolidine](../wiki/시약/피롤리딘.md)
 
 #### 1-1. S<sub>N</sub>2로 amine 만들기: 왜 생각대로 안 되나 (p.5–6)
 - NH₃ + RX는 생성 amine이 더 좋은 nucleophile이라 over-alkylation이 일어난다(NH₃ 2 eq에서 1차 45%, 2차 43%).
-- → [amine 합성 개관](../wiki/개념/아민%20합성%20개관.md), [SN2 반응](../wiki/반응/SN2%20반응.md)
+- → [amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
 #### 1-1a. azide 이온 alkylation 후 환원 (p.7)
 - R–N₃는 더 이상 nucleophile이 아니라 한 번에서 멈추고, LiAlH₄·H₂/Pd·PPh₃로 환원하면 1차 amine.
-- → [azide·nitrile을 거친 amine 합성](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [Staudinger 환원](../wiki/반응/스타우딩거%20환원.md)
+- → [azide·nitrile을 거친 amine 합성](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [Staudinger reduction](../wiki/반응/스타우딩거%20환원.md)
 
 #### 1-1b. cyanide 이온 alkylation 후 환원 (p.8)
 - 탄소가 하나 늘어난 1차 amine RCH₂CH₂NH₂.
@@ -45,7 +45,7 @@
 
 #### 1-2. amide를 환원해 amine 만들기 (p.9)
 - LiAlH₄ 또는 BH₃로 C=O → CH₂. "acylation 후 reduction"은 깔끔한 N-alkylation 우회로.
-- → [amide 환원](../wiki/반응/아마이드%20환원.md)
+- → [amide reduction](../wiki/반응/아마이드%20환원.md)
 
 #### 1-3. reductive amination (p.10–14)
 - carbonyl + amine → imine/iminium → hydride. NaBH₃CN(pH 3–4)이 표준. 새 C–N의 탄소에는 H가 있어야 한다.
@@ -54,11 +54,11 @@
 
 #### 1-4. Eschweiler–Clarke methylation (p.15)
 - HCHO + HCOOH로 1차 amine → N,N-dimethyl. HCOO⁻가 hydride 공급원이고 3차에서 멈춘다.
-- → [Eschweiler–Clarke 반응](../wiki/반응/에슈바일러-클라크%20반응.md)
+- → [Eschweiler–Clarke reaction](../wiki/반응/에슈바일러-클라크%20반응.md)
 
 #### 1-5. 응용: venlafaxine 합성 (p.16)
 - nitrile carbanion 첨가 → nitrile hydrogenation → Eschweiler–Clarke. 특허 경로는 H₂/Pd-C/HCHO 한 번에 94%.
-- → [amine 합성 개관](../wiki/개념/아민%20합성%20개관.md), [Eschweiler–Clarke 반응](../wiki/반응/에슈바일러-클라크%20반응.md)
+- → [amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md), [Eschweiler–Clarke reaction](../wiki/반응/에슈바일러-클라크%20반응.md)
 
 ### 2. metal hydride에 의한 환원 (슬라이드 p.17–29)
 
@@ -82,11 +82,11 @@
 #### 2-4. Borane (BH₃): 서열을 거스르는 시약 (p.27–28)
 - Lewis acid라 carboxylic acid·amide를 빠르게, ester·ketone은 느리게 환원한다. LiBH₄와 상보적.
 - amide 환원 메커니즘: O→B 배위 → tetrahedral intermediate → O–BH₂ 이탈로 iminium → 두 번째 hydride.
-- → [borane](../wiki/시약/보레인.md), [amide 환원](../wiki/반응/아마이드%20환원.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
+- → [borane](../wiki/시약/보레인.md), [amide reduction](../wiki/반응/아마이드%20환원.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
 
 #### 2-5. DIBAL-H: ester를 aldehyde에서 멈추기 (p.29)
 - −70 °C에서 tetrahedral intermediate가 무너지지 않아 aldehyde에서 멈춘다.
-- → [ester 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../wiki/시약/DIBAL-H.md)
+- → [partial reduction of esters](../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../wiki/시약/DIBAL-H.md)
 
 ### 3. catalytic hydrogenation (H₂/metal) (슬라이드 p.30–34)
 
@@ -101,7 +101,7 @@
 #### 3-2. 다른 작용기의 hydrogenation (p.33)
 - 쉬운 순서: RCOCl > ArNO₂ > alkyne > imine > alkene > benzyl 제거 > nitrile > benzene 고리.
 - Rosenmund(H₂, Pd/BaSO₄, quinoline)로 acid chloride → aldehyde, imine hydrogenation은 reductive amination.
-- → [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md), [Rosenmund 환원](../wiki/반응/로젠문트%20환원.md), [hydrogenolysis](../wiki/반응/수소화분해.md), [benzyl ether protecting group](../wiki/시약/벤질%20에터%20보호기.md), [reductive amination](../wiki/반응/환원성%20아미노화.md)
+- → [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md), [Rosenmund reduction](../wiki/반응/로젠문트%20환원.md), [hydrogenolysis](../wiki/반응/수소화분해.md), [benzyl ether protecting group](../wiki/시약/벤질%20에터%20보호기.md), [reductive amination](../wiki/반응/환원성%20아미노화.md)
 
 #### 요약 (p.34)
 - (1) amine의 합성, (2) reductive amination, (3) metal hydride 환원(일반 시약과 특수 시약 Borane, DIBAL-H), (4) catalytic hydrogenation.
@@ -110,10 +110,10 @@
 
 | 반응 | 시약/조건 | 생성물 | 선택성·stereochemistry | 비고 |
 |---|---|---|---|---|
-| amine 직접 alkylation ([amine 합성 개관](../wiki/개념/아민%20합성%20개관.md)) | NH₃(대과량) + RX | RNH₂ (+ over-alkylation 생성물) | S<sub>N</sub>2 (inversion) | NH₃ 2 eq이면 1차/2차 혼합 (p.6) |
+| amine 직접 alkylation ([amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md)) | NH₃(대과량) + RX | RNH₂ (+ over-alkylation 생성물) | S<sub>N</sub>2 (inversion) | NH₃ 2 eq이면 1차/2차 혼합 (p.6) |
 | [azide 경로](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaN₃, EtOH 2) LiAlH₄; H₂O (또는 H₂/Pd, PPh₃) | RNH₂ | S<sub>N</sub>2 (inversion) | 1차 amine만 (p.7) |
 | [nitrile 경로](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaCN 2) LiAlH₄; H₂O (또는 H₂/Pd) | RCH₂CH₂NH₂ | S<sub>N</sub>2 (inversion) | 탄소 1개 증가 (p.8) |
-| [amide 환원](../wiki/반응/아마이드%20환원.md) | LiAlH₄ 또는 BH₃; H₂O | RCH₂NR′₂ | C=O → CH₂ | 1·2·3차 amine 모두 (p.9) |
+| [amide reduction](../wiki/반응/아마이드%20환원.md) | LiAlH₄ 또는 BH₃; H₂O | RCH₂NR′₂ | C=O → CH₂ | 1·2·3차 amine 모두 (p.9) |
 | [reductive amination](../wiki/반응/환원성%20아미노화.md) | amine + R₂C=O, NaBH₃CN (pH 3–4, EtOH) 또는 H₂/Ni, H₂/Pd-C | 한 단계 더 치환된 amine | carbonyl 탄소에 N | imine/iminium 경유 (p.10–12) |
 | [Eschweiler–Clarke](../wiki/반응/에슈바일러-클라크%20반응.md) | HCHO, HCOOH | RN(CH₃)₂ | – | HCOOH = hydride원, quaternary salt 없음 (p.15) |
 | [NaBH4](../wiki/시약/NaBH4.md) 환원 | NaBH₄, EtOH/MeOH | aldehyde → 1차, ketone → 2차 alcohol | aldehyde > ketone (약 400배) | diglyme에선 aldehyde만 (p.19–21) |

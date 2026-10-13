@@ -1,6 +1,6 @@
 # L5 연습 문제와 해설
 
-> [L5 환원 강의 노트](../notes/L05_Reduction.md)에서 옮긴 연습 문제와 해설이다. 문제 옆의 p.는 L5 슬라이드 PDF 쪽이다. 개념 설명은 [amine 합성 개관](../wiki/개념/아민%20합성%20개관.md), [reductive amination](../wiki/반응/환원성%20아미노화.md), [amide 환원](../wiki/반응/아마이드%20환원.md), [Eschweiler–Clarke 반응](../wiki/반응/에슈바일러-클라크%20반응.md), [metal hydride의 반응성](../wiki/개념/금속%20수소화물의%20반응성.md), [NaBH3CN](../wiki/시약/NaBH3CN.md), [LiBH4](../wiki/시약/LiBH4.md), [LiAlH4](../wiki/시약/LiAlH4.md), [borane](../wiki/시약/보레인.md), [ester 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [Rosenmund 환원](../wiki/반응/로젠문트%20환원.md), [hydrogenolysis](../wiki/반응/수소화분해.md) 문서에 있다.
+> [L5 환원 강의 노트](../notes/L05_Reduction.md)에서 옮긴 연습 문제와 해설이다. 문제 옆의 p.는 L5 슬라이드 PDF 쪽이다. 개념 설명은 [amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md), [reductive amination](../wiki/반응/환원성%20아미노화.md), [amide reduction](../wiki/반응/아마이드%20환원.md), [Eschweiler–Clarke reaction](../wiki/반응/에슈바일러-클라크%20반응.md), [metal hydride의 반응성](../wiki/개념/금속%20수소화물의%20반응성.md), [NaBH3CN](../wiki/시약/NaBH3CN.md), [LiBH4](../wiki/시약/LiBH4.md), [LiAlH4](../wiki/시약/LiAlH4.md), [borane](../wiki/시약/보레인.md), [partial reduction of esters](../wiki/반응/에스터%20부분%20환원.md), [Rosenmund reduction](../wiki/반응/로젠문트%20환원.md), [hydrogenolysis](../wiki/반응/수소화분해.md) 문서에 있다.
 
 ## 문제
 
@@ -30,12 +30,12 @@
 4. NaBH<sub>4</sub>는 aldehyde/ketone을 빠르게 환원하므로(p.17 표) imine이 생기기 전에 carbonyl을 alcohol로 바꿔 버린다. 또 imine 형성에 필요한 산성 조건에서 분해되어 H<sub>2</sub>를 낸다. NaBH<sub>3</sub>CN은 aldehyde/ketone을 느리게만 환원하고(p.17 표의 "느림") imine은 환원하며, pH > 3 수용액에서도 안정하다(p.17). 그래서 carbonyl, amine, 환원제를 한 용기에 넣어도 된다. 보충: 전자를 끄는 CN기 때문에 B-H의 hydride 공여력이 약해지고, 더 친전자적인 protonation iminium만 빠르게 환원된다. (보충 근거: Clayden p.234)
 
 5. (a) NaBH<sub>4</sub>: ketone만 환원된다. C20이 2차 alcohol CH(OH)CH<sub>3</sub>가 되고 **3β-acetate는 남는다**. NaBH<sub>4</sub>는 ester를 매우 느리게만 환원한다(p.17, p.21).
-   (b) LiBH<sub>4</sub>: ketone과 ester가 모두 환원된다(p.22). C20 alcohol과 함께 acetate가 환원되어 **C3의 3β-OH가 드러난 diol**이 되고, acetyl 부분은 에탄올로 떨어져 나간다. 끊어지는 것은 acyl C-O 결합이므로 C3의 β 배향은 유지된다. C20에 새 stereocenter가 생기지만 슬라이드에 배향이 지정되어 있지 않다.
+   (b) LiBH<sub>4</sub>: ketone과 ester가 모두 환원된다(p.22). C20 alcohol과 함께 acetate가 환원되어 **C3의 3β-OH가 드러난 diol**이 되고, acetyl 부분은 ethanol로 떨어져 나간다. 끊어지는 것은 acyl C-O 결합이므로 C3의 β 배향은 유지된다. C20에 새 stereocenter가 생기지만 슬라이드에 배향이 지정되어 있지 않다.
 
-6. LiAlH<sub>4</sub>는 강한 환원제다(p.17). **lactam(고리형 amide)의 C=O는 CH<sub>2</sub>가 되어** N-methyl 고리형 3차 amine이 된다. **enone의 C=O는 2차 alcohol**(allyl alcohol)이 된다. 보충: LiAlH<sub>4</sub>는 enone을 주로 1,2-환원하므로 C=C는 남는다(1,4-첨가와의 비교는 → [1,2-첨가와 1,4-첨가](../wiki/개념/1,2-첨가와%201,4-첨가.md)). aryl methyl ether와 고리형 ether는 변하지 않는다. 보충: 3-methoxy, 4,5-에폭시 고리, N-methyl, 6-OH, 7,8-이중결합의 조합은 morphine 계열(morphinan, codeine 유사) 골격에 해당한다. 새 C-OH stereocenter의 배향은 슬라이드에 제시되지 않았다.
+6. LiAlH<sub>4</sub>는 강한 환원제다(p.17). **lactam(고리형 amide)의 C=O는 CH<sub>2</sub>가 되어** N-methyl 고리형 3차 amine이 된다. **enone의 C=O는 2차 alcohol**(allyl alcohol)이 된다. 보충: LiAlH<sub>4</sub>는 enone을 주로 1,2-환원하므로 C=C는 남는다(1,4-첨가와의 비교는 → [1,2-addition vs 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)). aryl methyl ether와 고리형 ether는 변하지 않는다. 보충: 3-methoxy, 4,5-에폭시 고리, N-methyl, 6-OH, 7,8-이중결합의 조합은 morphine 계열(morphinan, codeine 유사) 골격에 해당한다. 새 C-OH stereocenter의 배향은 슬라이드에 제시되지 않았다.
 
-7. **alcohol 경유(p.17 "via alcohol")**: `ester --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(furan-2-일)propane-1-올 --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(furan-2-일)propanal`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol 산화](../wiki/반응/알코올%20산화.md)).
+7. **alcohol 경유(p.17 "via alcohol")**: `ester --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(furan-2-일)propane-1-올 --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(furan-2-일)propanal`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol oxidation](../wiki/반응/알코올%20산화.md)).
    **acid chloride 경유(p.17, p.33)**: ester 가수분해 → carboxylic acid → SOCl<sub>2</sub> → acid chloride → H<sub>2</sub>, Pd/BaSO<sub>4</sub>, quinoline(Rosenmund) → aldehyde.
 
-8. (a) LiBH<sub>4</sub>: ester만 환원되어 **HOCH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CO<sub>2</sub>H** (5-hydroxy-3-methylpentanoic acid). LiBH<sub>4</sub>는 산 존재하에 ester를 선택 환원한다(p.22). 산은 탈양성자화되어 반응성 최하위인 carboxylate(p.18)가 된다.
+8. (a) LiBH<sub>4</sub>: ester만 환원되어 **HOCH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CO<sub>2</sub>H** (5-hydroxy-3-methylpentanoic acid). LiBH<sub>4</sub>는 산 존재하에 ester를 선택 환원한다(p.22). 산은 deprotonate되어 반응성 최하위인 carboxylate(p.18)가 된다.
    (b) BH<sub>3</sub>: 산만 환원되어 **MeO<sub>2</sub>CCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>2</sub>OH** (methyl 5-hydroxy-3-methylpentanoate). BH<sub>3</sub>는 Lewis 산이라 전자가 풍부한 carboxylic acid/amide를 선택 환원하고, Lewis 염기성이 약한 ester는 느리다(p.27-28).
