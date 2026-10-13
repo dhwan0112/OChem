@@ -13,7 +13,7 @@
 
 ## 개요
 
-L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted이고 입체특이적이며 endo 생성물을 선호한다는 것을 봤다. 그런데 몇 가지 질문이 남는다. 왜 어떤 [4+2]는 잘 되는데 [4+4]나 열적 [2+2]는 안 되는가? 왜 전자가 풍부한 diene과 전자가 부족한 dienophile의 조합이 빠른가? 비대칭 diene과 dienophile가 만나면 두 가지 위치 이성질체 중 어느 쪽이 나오는가? 이 강의는 이 질문들을 Woodward–Hoffmann 규칙과 최전선 분자 frontier molecular orbital, FMO 이론 두 가지로 답한다. 그 다음 같은 논리를 6원환 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2] cycloaddition를 다루고, 마지막에는 [4+2]와 [2+2]를 모두 써서 cubane이라는 정육면체 분자를 만드는 합성으로 마무리한다. 이 강의의 핵심 질문은 결국 "반응이 *허용되는가*, 얼마나 *빠른가*, 그리고 *어느 방향으로* 일어나는가"이다. (→ [L13](L13_Cycloaddition_Part1.md) cycloaddition 1부 문서 참고)
+L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted이고 입체특이적이며 endo 생성물을 선호한다는 것을 봤다. 그런데 몇 가지 질문이 남는다. 왜 어떤 [4+2]는 잘 되는데 [4+4]나 열적 [2+2]는 안 되는가? 왜 전자가 풍부한 diene과 전자가 부족한 dienophile의 조합이 빠른가? 비대칭 diene과 dienophile이 만나면 두 가지 위치 이성질체 중 어느 쪽이 나오는가? 이 강의는 이 질문들을 Woodward–Hoffmann 규칙과 최전선 분자 frontier molecular orbital, FMO 이론 두 가지로 답한다. 그 다음 같은 논리를 6원환 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2] cycloaddition을 다루고, 마지막에는 [4+2]와 [2+2]를 모두 써서 cubane이라는 정육면체 분자를 만드는 합성으로 마무리한다. 이 강의의 핵심 질문은 결국 "반응이 *허용되는가*, 얼마나 *빠른가*, 그리고 *어느 방향으로* 일어나는가"이다. (→ [L13](L13_Cycloaddition_Part1.md) cycloaddition 1부 문서 참고)
 
 (출처: L14 p.1–2)
 
@@ -23,7 +23,7 @@ L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted�
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
 
-전자가 풍부한 diene과 전자가 부족한 dienophile를 섞으면 반응이 더 빠르다. 왜 그런가?
+전자가 풍부한 diene과 전자가 부족한 dienophile을 섞으면 반응이 더 빠르다. 왜 그런가?
 
 DA 반응에서 새 결합은 한 성분의 HOMO에 있는 전자가 다른 성분의 LUMO로 흘러 들어가면서 생긴다. 이때 가능한 조합은 두 가지다. 하나는 HOMO(diene)–LUMO(dienophile) 조합이고, 다른 하나는 HOMO(dienophile)–LUMO(diene) 조합이다. 슬라이드의 예는 butadiene과 maleic anhydride이다. 무수물은 carbonyl 두 개 때문에 π*(LUMO)가 아주 낮다. 그래서 diene HOMO(ψ2)와 무수물 LUMO(π*)의 에너지 차이는 작고 겹침이 좋다. 반대로 무수물 HOMO(π)와 diene LUMO(ψ3)는 에너지 차이가 크고 겹침이 나쁘다. 즉 반응은 주로 **HOMO(diene)–LUMO(dienophile)** 상호작용으로 일어나고, 이 간격이 좁을수록 빠르다.
 
@@ -106,7 +106,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 ---
 
-## 4. 반응 속도: 왜 X-diene + Z-dienophile가 빠른가
+## 4. 반응 속도: 왜 X-diene + Z-dienophile이 빠른가
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [역전자 요구 Diels–Alder reaction](../../wiki/반응/역전자%20요구%20딜스-알더%20반응.md)
 
@@ -116,7 +116,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 2. **(b) butadiene + Z-dienophile**: Z가 dienophile LUMO를 크게 내린다. 그래서 HOMO(diene)–LUMO(dienophile) 간격이 좁아진다(굵은 화살표).
 3. **(c) X-diene + Z-dienophile**: 여기에 더해 X가 diene HOMO를 올린다. 그래서 간격이 가장 좁고 반응이 가장 빠르다.
 
-정리하면 **LUMO(dienophile)–HOMO(diene) 간격이 작을수록 반응이 빠르다.** 이렇게 diene이 전자를 주고 dienophile가 전자를 받는 일반적인 경우를 "정상 전자 normal electron demand" DA라고 부른다[2].
+정리하면 **LUMO(dienophile)–HOMO(diene) 간격이 작을수록 반응이 빠르다.** 이렇게 diene이 전자를 주고 dienophile이 전자를 받는 일반적인 경우를 "정상 전자 normal electron demand" DA라고 부른다[2].
 
 (출처: L14 p.10)
 
@@ -130,7 +130,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 슬라이드의 답은 이렇다. **π 전자의 polarization이 regioselectivity을 결정한다.** 구체적으로는 **dienophile의 "친전자성" 위치가 diene의 "친핵성" 위치와 결합한다.** DA 반응은 협동 반응이므로 진짜 이온 intermediate는 없다. 그래도 각 성분이 극성 반응에서 어디가 반응할지를 상상하면 답을 맞힐 수 있다.
 
-보충: 이 "극성 반응 상상"이 왜 FMO 계수와 같은 답을 주는가? dienophile 쪽은 L11의 Michael 받개 그 자체다. carbonyl과의 짝지음은 C=C의 LUMO(π*)를 낮출 뿐 아니라 β-탄소의 계수가 α-탄소보다 커지도록 일그러뜨리고, 그래서 nucleophile는 늘 β-탄소를 공격한다. diene 쪽은 electrophile(예: H⁺)가 어느 말단에 붙어야 더 안정한 allyl cation이 생기는지를 보면 된다. 더 안정한 cation을 주는 말단이 곧 HOMO 계수가 큰 말단이다. 실험 결과로 계수를 거꾸로 추론하는 것처럼 보이지만, 계산으로 구한 HOMO 계수도 같은 결론을 준다. (보충 근거: Clayden p.889–890) (→ [L11](L11_Conjugate_Addition.md) conjugate addition 문서 참고)
+보충: 이 "극성 반응 상상"이 왜 FMO 계수와 같은 답을 주는가? dienophile 쪽은 L11의 Michael 받개 그 자체다. carbonyl과의 짝지음은 C=C의 LUMO(π*)를 낮출 뿐 아니라 β-탄소의 계수가 α-탄소보다 커지도록 일그러뜨리고, 그래서 nucleophile은 늘 β-탄소를 공격한다. diene 쪽은 electrophile(예: H⁺)가 어느 말단에 붙어야 더 안정한 allyl cation이 생기는지를 보면 된다. 더 안정한 cation을 주는 말단이 곧 HOMO 계수가 큰 말단이다. 실험 결과로 계수를 거꾸로 추론하는 것처럼 보이지만, 계산으로 구한 HOMO 계수도 같은 결론을 준다. (보충 근거: Clayden p.889–890) (→ [L11](L11_Conjugate_Addition.md) conjugate addition 문서 참고)
 
 (출처: L14 p.11)
 
@@ -139,7 +139,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 슬라이드는 이 과정을 세 단계 사고 실험으로 보여준다.
 
 1. **diene이 electrophile(E+)와 반응한다고 상상한다.** OMe의 산소 비공유 전자쌍이 C2=C1 π 결합 쪽으로 밀려 들어간다. 그러면 C1(CH2 말단)이 E+를 공격하고, 그 결과 산소에 의해 안정화된 oxocarbenium 이온이 생긴다. 즉 OMe에 인접한 말단 **C1이 diene의 친핵성 위치**다.
-2. **dienophile가 nucleophile(Nu−)와 반응한다고 상상한다.** acrylonitrile에서는 Nu−가 **β-탄소(CH2 말단)**를 공격하고 전자는 C≡N의 질소로 밀려난다(Michael형 첨가). 즉 β-탄소가 친전자성 위치다.
+2. **dienophile이 nucleophile(Nu−)와 반응한다고 상상한다.** acrylonitrile에서는 Nu−가 **β-탄소(CH2 말단)**를 공격하고 전자는 C≡N의 질소로 밀려난다(Michael형 첨가). 즉 β-탄소가 친전자성 위치다.
 3. **친핵성 C1과 친전자성 β-탄소를 연결한다.** 그러면 OMe가 붙은 탄소와 CN이 붙은 탄소가 고리에서 1,4 관계가 된다. 생성물은 enol ether를 가진 **4-methoxycyclohex-3-ene-1-carbonitrile**이고, 이를 **"pseudo para"** 생성물이라 부른다.
 
 ![2-methoxybutadiene + E⁺, acrylonitrile + Nu⁻ 상상 반응: diene의 nucleophilic 말단과 dienophile의 electrophilic 말단](../../figures/L14/regio_para_polar.svg)
@@ -174,7 +174,7 @@ C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜�
 
 "meta"(1,3) 생성물은 *부생성물*일 뿐이다. 그래서 "ortho/para 규칙"이라는 이름이 붙었다[3].
 
-보충: 교재의 기억법은 "DA는 방향족성 transition state를 거치는, ortho·para 지향성 cycloaddition"다. 여기서 "방향족성"은 고리 모양 TS에 전자 6개가 있다는 뜻일 뿐이다. 단, 분자 내 DA에서 diene과 dienophile를 잇는 사슬이 아주 짧으면(탄소 3개 정도) 다른 배향을 취할 수 없어서 "meta" 생성물이 그대로 나오기도 한다. 규칙은 분자 간 반응에 대한 것이다. (보충 근거: Clayden p.891)
+보충: 교재의 기억법은 "DA는 방향족성 transition state를 거치는, ortho·para 지향성 cycloaddition"다. 여기서 "방향족성"은 고리 모양 TS에 전자 6개가 있다는 뜻일 뿐이다. 단, 분자 내 DA에서 diene과 dienophile을 잇는 사슬이 아주 짧으면(탄소 3개 정도) 다른 배향을 취할 수 없어서 "meta" 생성물이 그대로 나오기도 한다. 규칙은 분자 간 반응에 대한 것이다. (보충 근거: Clayden p.891)
 
 (출처: L14 p.14)
 
@@ -263,7 +263,7 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 
 Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다면 6π 성분과 4π 성분이 만나는 [6+4]는 허용되는가?
 
-슬라이드는 수프라페이셜–수프라페이셜 조건에서의 규칙을 이렇게 다시 쓴다. *한 성분이 (4q+2)s이고 다른 성분이 (4r)s이면 허용된다.* 6π는 4×1+2이고 4π는 4×1이므로 조건에 맞는다. 즉 **[6+4]는 열적으로 허용된다.** 슬라이드는 이것을 더 간단하게 요약한다. **수프라–수프라 열적 cycloaddition는 관여하는 전자의 총수가 4n+2일 때 허용된다.** [4+2]는 6개, [6+4]는 10개로 둘 다 4n+2이고, [4+4]와 [2+2]는 각각 8개와 4개로 4n이다.
+슬라이드는 수프라페이셜–수프라페이셜 조건에서의 규칙을 이렇게 다시 쓴다. *한 성분이 (4q+2)s이고 다른 성분이 (4r)s이면 허용된다.* 6π는 4×1+2이고 4π는 4×1이므로 조건에 맞는다. 즉 **[6+4]는 열적으로 허용된다.** 슬라이드는 이것을 더 간단하게 요약한다. **수프라–수프라 열적 cycloaddition은 관여하는 전자의 총수가 4n+2일 때 허용된다.** [4+2]는 6개, [6+4]는 10개로 둘 다 4n+2이고, [4+4]와 [2+2]는 각각 8개와 4개로 4n이다.
 
 **예 1 – tropone + cyclopentadiene.** tropone(cyclohepta-2,4,6-trienone)의 triene 6π 부분이 cyclopentadiene의 diene 4π 부분과 [6+4]로 반응한다. 그 결과 CH2 다리와 C=O 다리를 가진 다리걸친 이환 생성물이 생긴다. 슬라이드는 이 생성물의 입체화학을 "endo"로 표시해 두었다[5].
 
@@ -281,7 +281,7 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 
 > 개념 문서: [4+3 cycloaddition](../../wiki/반응/4+3%20고리화%20첨가.md), [allyl cation](../../wiki/개념/알릴%20양이온.md)
 
-3원자 성분으로도 cycloaddition가 가능할까? 가능하다. 핵심은 **allyl cation**이다.
+3원자 성분으로도 cycloaddition이 가능할까? 가능하다. 핵심은 **allyl cation**이다.
 
 **allyl cation 만들기 (1,3-dibromoacetone + Zn)**
 
@@ -299,7 +299,7 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 
 그럼 이 반응은 허용되는가? 슬라이드의 질문인 "FMO를 그려라, 허용되는가?"의 답은 연습 문제 4에 정리했다. 요약하면 allyl cation LUMO(ψ2)와 diene HOMO(ψ2)의 말단 위상이 맞고, 전자는 총 6개(4n+2)다. 그러므로 **열적으로 허용된다.**
 
-![2-(BrZnO)allyl cation과 diene의 [4+3] cycloaddition와 이어지는 ZnBr 이탈](../../figures/L14/cyclo43_oxyallyl.svg)
+![2-(BrZnO)allyl cation과 diene의 [4+3] cycloaddition과 이어지는 ZnBr 이탈](../../figures/L14/cyclo43_oxyallyl.svg)
 
 *그림: 빨간 +는 allyl cation의 양전하(π 전자 2개 성분), 파란색은 allyl cation의 C=C와 diene의 π 결합(4π 성분)이다. 첫 단계의 화살표 셋은 모두 반시계 방향으로 돈다. (1) diene의 오른쪽 π 전자가 cation 탄소와 새 σ 결합을 만들고, (2) diene의 왼쪽 π 전자가 가운데로 옮겨 새 C=C가 되며, (3) allyl cation의 C=C 전자가 diene 왼쪽 말단과 새 σ 결합을 만든다. 그러면 양전하는 O–ZnBr이 붙은 탄소에 남는다(초록 결합이 새 σ 결합). 둘째 단계에서는 O–Zn 결합 전자(파랑)가 C=O를 만들며 ZnBr⁺이 떨어져 cyclohept-4-enone이 된다.*
 
@@ -398,7 +398,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 hν로 반응시키면 실제로 �
 
 **Diels–Alder reaction**
 
-- 전자 풍부 diene + 전자 부족 dienophile는 반응이 빠르다. HOMO(diene)–LUMO(dienophile) 간격이 좁기 때문이다.
+- 전자 풍부 diene + 전자 부족 dienophile은 반응이 빠르다. HOMO(diene)–LUMO(dienophile) 간격이 좁기 때문이다.
 - **입체특이적**: 1,4-이치환 diene이나 1,2-이치환 dienophile의 기하가 생성물에 보존된다.
 - **입체선택적**: 치환된 diene과 치환된 dienophile의 조합에서 엔도 TS가 선호된다.
 - **위치선택적**: 전자 풍부 diene + 전자 부족 dienophile에서 "para"/"ortho" 생성물이 선호된다.
@@ -514,7 +514,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 hν로 반응시키면 실제로 �
 
 **정답 8.**
 - (a) tropone은 6π, cyclopentadiene은 4π이므로 합이 10 = 4×2+2이다. 수프라–수프라 열적 반응으로 **허용**된다. Woodward–Hoffmann 규칙으로 보면 π6s가 (4q+2)s 성분 1개이고 π4s는 세지 않으므로 합이 1이다.
-- (b) [4+2]: HNEt2로 생성된 2-bromocyclopentadienone이 자발적으로 DA 이량화하는 단계다. 엔도 이량체가 생긴다. [2+2]: 케탈 하나를 푼 뒤 hν로 분자 내 [2+2] cycloaddition를 일으켜 새장을 닫는 단계다. 수프라–수프라 [2+2]는 열적으로 금지(합 2, 짝수)이고 광화학적으로 허용되기 때문에 빛이 필요하다.
+- (b) [4+2]: HNEt2로 생성된 2-bromocyclopentadienone이 자발적으로 DA 이량화하는 단계다. 엔도 이량체가 생긴다. [2+2]: 케탈 하나를 푼 뒤 hν로 분자 내 [2+2] cycloaddition을 일으켜 새장을 닫는 단계다. 수프라–수프라 [2+2]는 열적으로 금지(합 2, 짝수)이고 광화학적으로 허용되기 때문에 빛이 필요하다.
 (출처: L14 p.21, p.25, p.30)
 
 ---
@@ -523,7 +523,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 hν로 반응시키면 실제로 �
 
 [1] 슬라이드에는 1981년 노벨 화학상 수상자 후쿠이 Kenichi Fukui와 로알드 Roald Hoffmann의 사진이 함께 나온다. 수상 사유는 "화학 반응의 경로에 관해 독립적으로 발전시킨 이론"이다. 후쿠이는 FMO 이론, 호프만은 R. B. Woodward와 함께 만든 오비탈 대칭 보존 규칙으로 수상했다. Woodward는 1979년에 세상을 떠나 이 상을 함께 받지 못했다. (출처: L14 p.4)
 
-[2] 보충: diene이 전자 부족하고 dienophile가 전자 풍부해서 HOMO(dienophile)–LUMO(diene) 간격이 더 작은 경우도 있다. 이를 "역전자 inverse electron demand" DA라고 한다. 이 강의 슬라이드에서는 다루지 않는다. (보충 근거: Clayden p.887)
+[2] 보충: diene이 전자 부족하고 dienophile이 전자 풍부해서 HOMO(dienophile)–LUMO(diene) 간격이 더 작은 경우도 있다. 이를 "역전자 inverse electron demand" DA라고 한다. 이 강의 슬라이드에서는 다루지 않는다. (보충 근거: Clayden p.887)
 
 [3] "ortho/para"라는 이름은 benzene의 이치환 패턴에서 빌려 온 것이다. 그래서 슬라이드는 "pseudo ortho", "pseudo para"처럼 따옴표나 "pseudo"를 붙여 쓴다.
 

@@ -54,7 +54,7 @@ carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물�
 - enolate α-탄소가 R–X를 SN2로 공격한다. methyl·1차·allyl·benzyl 좋음, 2차 불량, 3차는 제거.
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
-#### 2.2 실제 ketone alkylation는 어떻게 되나? (p.10–12)
+#### 2.2 실제 ketone alkylation은 어떻게 되나? (p.10–12)
 - 2-methylcyclohexanone + LDA; CH₃I → 2,6-이치환체 56%(2,2-이치환체 6%). polyalkylation 주의.
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md)
 
@@ -106,7 +106,7 @@ carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물�
 
 ### VI. 비대칭 alkylation 반응
 
-#### 6.1 보통의 alkylation는 왜 라세미체를 주나? (p.26)
+#### 6.1 보통의 alkylation은 왜 라세미체를 주나? (p.26)
 - 평면 enolate의 두 면은 동등하다. chiral auxiliary가 한 면을 가리면 diastereomer 비가 치우친다.
 - → [chiral auxiliary](../wiki/개념/키랄%20보조기.md)
 

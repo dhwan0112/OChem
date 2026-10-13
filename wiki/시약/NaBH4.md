@@ -29,7 +29,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 메커니즘의 이름은 "hydride" 첨가다.
 
-1. BH₄⁻의 B–H 결합 전자쌍이 nucleophile로서 carbonyl electrophile를 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
+1. BH₄⁻의 B–H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO⁻는 BH₃에 붙어 EtOBH₃⁻가 된다.
 3. 그런데 EtOBH₃⁻에는 아직 B–H가 남아 있으니 여전히 환원제다.
 

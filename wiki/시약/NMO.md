@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/산화-알켄-합�
 ---
 # NMO
 
-> *N*-methyl모폴린 *N*-oxide. 스스로 기질을 산화하기보다는 **값비싼 금속 산화제를 촉매량만 쓰도록 금속을 다시 산화해 주는 공산화제(최종 산화제)**다. [OsO₄](OsO4.md) dihydroxylation와 [TPAP](TPAP.md) 산화에 짝으로 붙는다.
+> *N*-methyl모폴린 *N*-oxide. 스스로 기질을 산화하기보다는 **값비싼 금속 산화제를 촉매량만 쓰도록 금속을 다시 산화해 주는 공산화제(최종 산화제)**다. [OsO₄](OsO4.md) dihydroxylation과 [TPAP](TPAP.md) 산화에 짝으로 붙는다.
 
 ## 개요
 

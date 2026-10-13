@@ -15,7 +15,7 @@
 
 ## 개요
 
-enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation가 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enolization되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
+enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation이 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enolization되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
 
 ## 강의 흐름
 

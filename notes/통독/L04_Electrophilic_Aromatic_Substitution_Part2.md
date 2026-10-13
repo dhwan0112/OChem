@@ -13,10 +13,10 @@
 
 ## 개요
 
-L3에서는 benzene 자체가 어떻게 electrophile와 반응하는지 배웠다. 그런데 실제 합성에서 다루는 방향족 고리에는 대부분 **이미 치환기가 붙어 있다**. 그러면 두 가지 질문이 생긴다.
+L3에서는 benzene 자체가 어떻게 electrophile과 반응하는지 배웠다. 그런데 실제 합성에서 다루는 방향족 고리에는 대부분 **이미 치환기가 붙어 있다**. 그러면 두 가지 질문이 생긴다.
 
 1. **반응성**: 이 치환기는 고리를 benzene보다 빠르게 반응하게 만드는가(활성화, activating), 느리게 만드는가(비활성화, deactivating)?
-2. **배향**: 새 electrophile는 오르토, 메타, 파라 중 어디로 들어가는가?
+2. **배향**: 새 electrophile은 오르토, 메타, 파라 중 어디로 들어가는가?
 
 L4의 답은 하나의 원리로 정리된다. **cyclohexadienyl cation intermediate를 더 안정하게 만드는 경로가 이긴다.** L3에서 본 것처럼 그 cation의 양전하는 공격 위치를 기준으로 오르토, 파라 탄소에만 놓인다. 그래서 원래 치환기가 전자를 주는 기(EDG)라면 양전하가 치환기 바로 옆 ipso에 놓이는 오르토/파라 공격이 유리하다. 전자를 끄는 기(EWG)라면 그런 배치를 피할 수 있는 메타 공격이 상대적으로 유리하다.
 
@@ -29,9 +29,9 @@ L4의 답은 하나의 원리로 정리된다. **cyclohexadienyl cation intermed
 > 개념 문서: [Friedel–Crafts acylation](../../wiki/반응/프리델-크래프츠%20아실화.md), [Clemmensen reduction](../../wiki/반응/클레멘센%20환원.md), [acylium ion](../../wiki/개념/아실륨%20이온.md)
 
 L3 p.22의 빈칸 문제(succinic acid 무수물 → 3-benzoylpropanoic acid → 4-phenylbutanoic acid → α-테트랄론)의 메커니즘이 p.3에 정리되어 있다. 핵심은 세 가지다.
-1. AlCl₃가 무수물의 carbonyl 산소에 배위해 고리가 열리면서 acylium 이온이 생기고, Friedel–Crafts acylation가 일어난다.
+1. AlCl₃가 무수물의 carbonyl 산소에 배위해 고리가 열리면서 acylium 이온이 생기고, Friedel–Crafts acylation이 일어난다.
 2. 클레멘센 Zn/Hg, HCl으로 ketone만 CH₂로 바뀐다.
-3. H₃PO₄가 carboxylic acid을 acylium 이온으로 만들고, 분자내 Friedel–Crafts acylation로 6원 고리가 닫힌다.
+3. H₃PO₄가 carboxylic acid을 acylium 이온으로 만들고, 분자내 Friedel–Crafts acylation으로 6원 고리가 닫힌다.
 
 자세한 내용은 L3 문서 6.4절에 있다(→ [L3](L03_Electrophilic_Aromatic_Substitution_Part1.md) Friedel–Crafts acylation 문서 참고). (출처: L4 p.3)
 
@@ -61,7 +61,7 @@ aniline(phenylamine)은 phenol, phenyl ether, 심지어 phenoxide 이온보다�
 
 (출처: L4 p.4)
 
-### 1.3 해결책: acetylation로 질소의 힘을 줄이기
+### 1.3 해결책: acetylation으로 질소의 힘을 줄이기
 
 amide의 N은 일반 amine보다 염기성이 훨씬 약하다. N의 비공유 전자쌍이 carbonyl기와 공액되어 있기 때문이다. 이 성질을 이용한다.
 1. aniline --[Ac₂O]--> acetanilide(PhNHCOCH₃)
@@ -116,7 +116,7 @@ methyl group은 OR기를 약하게 만든 버전처럼, 고리 π 계의 전자 
 
 toluene의 nitration 데이터도 같은 경향을 보인다. 오르토 63%, 메타 3%, 파라 34%다. 오르토와 파라 공격에서는 "가장 안정한" 3차 cation 공명 구조가 하나씩 있지만 메타 공격에는 없다. 오르토 위치는 2개(2×H), 파라는 1개(1×H)라서 통계 효과로 오르토가 파라보다 많이 나온다. (출처: L4 p.9)
 
-### 2.3 toluene의 sulfonation와 응용
+### 2.3 toluene의 sulfonation과 응용
 
 - toluene --[진한 H₂SO₄]--> *o*-toluenesulfonic acid + *p*-toluenesulfonic acid 혼합물. 여기에 NaCl을 넣으면 파라 생성물이 나트륨염으로 약 40% 분리된다. *p*-toluenesulfonic acid이 바로 유기합성에서 자주 쓰는 산인 **TsOH**다.
 - 메커니즘 그림에서는 SO₃가 electrophile로 공격하고, 생긴 sulfonate가 protonate되어 SO₂OH가 된다.
@@ -132,7 +132,7 @@ toluene의 nitration 데이터도 같은 경향을 보인다. 오르토 63%, 메
 
 (출처: L4 p.11)
 
-보충: 같은 toluene인데 sulfonation에서는 TsOH가, chlorosulfonation에서는 오르토가 주로 분리된다는 차이에 주목할 만하다. 교재는 이것을 **sulfonation가 가역적**이라는 첫 단서로 본다. 가역 반응이라면 생성물이 처음 생긴 자리에 머무르지 않고, 입체적으로 덜 붐비는 파라 쪽으로 쏠릴 수 있기 때문이다. 자세한 논의는 교재 24장에 있다. 어쨌든 chlorosulfonation에서 오르토 이성질체가 주생성물이라는 점이 사카린 합성에는 다행이다. (보충 근거: Clayden p.486)
+보충: 같은 toluene인데 sulfonation에서는 TsOH가, chlorosulfonation에서는 오르토가 주로 분리된다는 차이에 주목할 만하다. 교재는 이것을 **sulfonation이 가역적**이라는 첫 단서로 본다. 가역 반응이라면 생성물이 처음 생긴 자리에 머무르지 않고, 입체적으로 덜 붐비는 파라 쪽으로 쏠릴 수 있기 때문이다. 자세한 논의는 교재 24장에 있다. 어쨌든 chlorosulfonation에서 오르토 이성질체가 주생성물이라는 점이 사카린 합성에는 다행이다. (보충 근거: Clayden p.486)
 
 ---
 
@@ -151,7 +151,7 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 - **메타 공격**: 공명 구조 세 개 모두에서 양전하가 CF₃가 붙은 탄소에 놓이지 않는다.
 - **오르토 공격**: 공명 구조 중 하나에서 양전하가 CF₃가 붙은 탄소(C1) 바로 위에 놓인다. 전자를 끄는 기 바로 옆의 양전하는 매우 불리하므로, 그 구조는 "아주 작은 기여 very minor resonance contributor"가 된다.
 
-그래서 전자 끄는 치환기는 electrophile를 **메타 위치로 보내고 반응성을 낮춘다**. 즉 **비활성화, 메타 배향**이다. (출처: L4 p.12)
+그래서 전자 끄는 치환기는 electrophile을 **메타 위치로 보내고 반응성을 낮춘다**. 즉 **비활성화, 메타 배향**이다. (출처: L4 p.12)
 
 ![CF₃-benzene의 오르토 공격 intermediate에서 양전하가 CF₃가 붙은 탄소로 옮겨 가는 공명](../../figures/L04/cf3_ortho_minor.svg)
 
@@ -223,7 +223,7 @@ halobenzene의 nitration(진한 HNO₃/H₂SO₄, 25 °C) 데이터는 다음과
 
 (출처: L4 p.16)
 
-nitration, sulfonation, Friedel–Crafts acylation는 **매우 비활성화하는 치환기**를 붙인다. 그래서 조건이 가혹하지 않으면 한 번 치환된 뒤 깔끔하게 멈춘다. 반대로 가혹한 조건에서는 더 반응한다. 예를 들어 nitrobenzene --[Br₂, Fe 가루, 135–145 °C]--> *m*-bromonitrobenzene(74%)이다. (출처: L4 p.16)
+nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하는 치환기**를 붙인다. 그래서 조건이 가혹하지 않으면 한 번 치환된 뒤 깔끔하게 멈춘다. 반대로 가혹한 조건에서는 더 반응한다. 예를 들어 nitrobenzene --[Br₂, Fe 가루, 135–145 °C]--> *m*-bromonitrobenzene(74%)이다. (출처: L4 p.16)
 
 강의 마지막 장(p.24)의 도표는 치환기를 반응성 순서로 정리한다.
 - **강한 활성화**(o,p): -NH₂, -NHR, -NR₂, -OH, -OR
@@ -262,7 +262,7 @@ nitration, sulfonation, Friedel–Crafts acylation는 **매우 비활성화하�
 
 슬라이드 p.19는 빈칸으로 남겨져 있다(연습 문제 5번에서 다룬다). (출처: L4 p.19)
 
-보충: Clayden에도 같은 기질의 bromination가 실려 있고, Br은 **NHCOMe의 오르토(methyl의 메타)** 로 들어간다. "물을 탄" 활성화기인 amide라도 전자쌍을 하나 더 내줄 수 있으므로 alkyl group을 이긴다는 설명이다. 연습 문제 5번의 예측과 일치한다. (보충 근거: Clayden p.491–492)
+보충: Clayden에도 같은 기질의 bromination이 실려 있고, Br은 **NHCOMe의 오르토(methyl의 메타)** 로 들어간다. "물을 탄" 활성화기인 amide라도 전자쌍을 하나 더 내줄 수 있으므로 alkyl group을 이긴다는 설명이다. 연습 문제 5번의 예측과 일치한다. (보충 근거: Clayden p.491–492)
 
 보충: 치환기가 여럿일 때 교재가 권하는 순서는 **전자 효과를 먼저, 입체 효과를 나중에** 보는 것이다. 전자 효과에서는 대체로 활성화기가 비활성화기보다 우선한다. 그다음 남은 후보 중에서 **두 치환기 사이에 끼는 자리**처럼 치환기 셋이 연달아 붙게 되는 위치는 피한다. 예를 들어 3,4-dimethoxybenzaldehyde의 nitration에서는 두 OMe가 정하는 후보 C2, C5, C6 중 붐비지 않는 **C6**에서 반응한다. aldehyde가 C6의 전자를 끌어가는데도 그렇다. (보충 근거: Clayden p.492)
 
@@ -294,7 +294,7 @@ benzene을 superacid(SbF₅/FSO₃H, SO₂FCl 용매, -120 °C)으로 처리하�
 - phenol: 오르토 6.70, 메타 7.14, 파라 6.81
 - aniline: 오르토 6.51, 메타 7.01, 파라 6.61 (가장 강하게 차폐)
 
-**오르토/파라 위치만** 크게 차폐된다. 이는 그 위치의 전자 밀도가 높다는 뜻이고, electrophile가 그 위치를 공격하는 이유와 일치한다. (출처: L4 p.21)
+**오르토/파라 위치만** 크게 차폐된다. 이는 그 위치의 전자 밀도가 높다는 뜻이고, electrophile이 그 위치를 공격하는 이유와 일치한다. (출처: L4 p.21)
 
 bromination 상대 속도도 이 경향과 맞는다. benzene 1, 아니솔(OMe) 10⁹, N,N-dimethylaniline(NMe₂) 10¹⁴. (출처: L4 p.21)
 
@@ -315,7 +315,7 @@ bromination 상대 속도도 이 경향과 맞는다. benzene 1, 아니솔(OMe) 
 - **"할로젠은 비활성화기이므로 메타 배향이다"**: 할로젠은 **비활성화이면서 오르토/파라 배향**인 예외적인 기다. 반응성은 유발 효과가, 배향은 공액이 정한다.
 - **"alkyl group은 공액(π)으로 전자를 준다"**: alkyl group은 비공유 전자쌍이 없다. 이 강의에서는 **C-H σ 결합과 π 계의 겹침(σ 공액)** 으로 설명한다.
 - **"오르토 위치가 두 개이므로 항상 오르토 생성물이 더 많다"**: 통계적으로는 그렇지만, 큰 치환기에서는 입체 장애 때문에 파라가 우세하다(예: acetanilide).
-- **"aniline도 저온에서 Br₂를 천천히 넣으면 한 번만 brominate된다"**: phenol은 그렇지만 aniline은 CS₂, <5 °C에서도 2,4,6-tribromo 생성물을 준다. acetylation로 활성을 낮춰야 한다.
+- **"aniline도 저온에서 Br₂를 천천히 넣으면 한 번만 brominate된다"**: phenol은 그렇지만 aniline은 CS₂, <5 °C에서도 2,4,6-tribromo 생성물을 준다. acetylation으로 활성을 낮춰야 한다.
 
 ---
 

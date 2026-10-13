@@ -37,7 +37,7 @@ KMnO₄가 benzyl CH₃를 CO₂H로 바꾸고, 마지막 HCl 단계에서 CO₂
 
 (출처: L6c p.10, p.18)
 
-보충: KMnO₄는 alkene과도 반응한다(차갑고 묽은 염기성 조건에서 syn diol, 센 조건에서는 C=C 절단)(보충 근거: Wade p.365–366). 이 강의 범위 밖이며, alkene의 syn dihydroxylation는 [OsO4](OsO4.md)로 다룬다(→ [dihydroxylation](../반응/다이하이드록실화.md)).
+보충: KMnO₄는 alkene과도 반응한다(차갑고 묽은 염기성 조건에서 syn diol, 센 조건에서는 C=C 절단)(보충 근거: Wade p.365–366). 이 강의 범위 밖이며, alkene의 syn dihydroxylation은 [OsO4](OsO4.md)로 다룬다(→ [dihydroxylation](../반응/다이하이드록실화.md)).
 
 ## 흔한 오해
 

@@ -15,7 +15,7 @@
 
 ## 개요
 
-이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation다. alcohol을 aldehyde, ketone, carboxylic acid으로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 1차 alcohol은 aldehyde에서 멈추게 할 수도 있고 carboxylic acid까지 보낼 수도 있다. 그래서 DMP, Swern, TPAP, MnO2, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분해서 기억해야 한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 E와 Z는 성질이 다른 별개의 화합물이므로, 한 가지 이성질체만 골라 만드는 법(Lindlar, Na/NH3, Wittig, HWE)을 배운다. 이전 강의에서 C=C를 산화해 끊거나(ozone분해) 작용기를 붙였다면(에폭시화, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 이전 강의의 C=C oxidation 문서 참고). 강의 도입부에는 이전 강의의 DIBAL-H 환원도 다시 나온다.
+이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation이다. alcohol을 aldehyde, ketone, carboxylic acid으로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 1차 alcohol은 aldehyde에서 멈추게 할 수도 있고 carboxylic acid까지 보낼 수도 있다. 그래서 DMP, Swern, TPAP, MnO2, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분해서 기억해야 한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 E와 Z는 성질이 다른 별개의 화합물이므로, 한 가지 이성질체만 골라 만드는 법(Lindlar, Na/NH3, Wittig, HWE)을 배운다. 이전 강의에서 C=C를 산화해 끊거나(ozone분해) 작용기를 붙였다면(에폭시화, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 이전 강의의 C=C oxidation 문서 참고). 강의 도입부에는 이전 강의의 DIBAL-H 환원도 다시 나온다.
 
 ---
 
@@ -53,7 +53,7 @@ ester를 LiAlH4로 환원하면 alcohol까지 가 버린다. 그렇다면 aldehy
 - `neral --[H2, CO, Rh(CO)2acac, (R,R)-Chiraphos]--> (+)-citronellal`
 - `(+)-citronellal --[Al cat.]--> (−)-isopulegol --[H2, Ni cat.]--> (−)-menthol`
 
-여기서 물음표로 남은 첫 단계, 즉 allyl 1차 alcohol을 α,β-불포화 aldehyde로 바꾸는 단계가 바로 이번 강의의 산화 반응이다. 이 단계에서 산화제가 너무 세면 carboxylic acid까지 가 버리고, 분자 안에 있는 C=C 두 개도 공격받을 수 있다. 그래서 순한 산화제가 필요하다.[2]
+여기서 물음표로 남은 첫 단계, 즉 allyl 1차 alcohol을 α,β-unsaturated aldehyde로 바꾸는 단계가 바로 이번 강의의 산화 반응이다. 이 단계에서 산화제가 너무 세면 carboxylic acid까지 가 버리고, 분자 안에 있는 C=C 두 개도 공격받을 수 있다. 그래서 순한 산화제가 필요하다.[2]
 
 (출처: L6c p.3–5)
 
@@ -142,7 +142,7 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 
 ### 2.5 TEMPO oxidation: "N–O"가 산화제
 
-이번에는 값싼 NaOCl를 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, TEMPO라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C).
+이번에는 값싼 NaOCl을 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, TEMPO라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C).
 
 `RCH2OH + NaOCl --[CH2Cl2–H2O, NaHCO3, KBr (0.1 mol equiv), TEMPO (0.01 mol equiv), 0 °C]--> RCHO`
 
@@ -300,7 +300,7 @@ Z가 되는 이유는 H2가 금속 표면에 흡착된 상태에서 두 H가 alk
 
 핵심은 3단계다. 두 H가 한꺼번에 들어오는 Lindlar와 달리, 여기서는 intermediate가 스스로 덜 붐비는 trans 모양을 고를 시간이 있다.
 
-보충: 비닐 anion이 어떻게 모양을 "고를" 수 있을까? 음전하는 π 오비탈이 아니라 sp<sup>2</sup> 오비탈에 들어 있는데, 비닐 anion은 기하학적으로 불안정해서 cis와 trans 사이를 쉽게 오간다. 그래서 양성자를 받기 전에 R<sup>1</sup>과 R<sup>2</sup>가 멀어지는 더 안정한 trans 배치로 모이고, 마지막 protonation가 그 기하를 고정한다. Na를 액체 NH<sub>3</sub>에 녹이면 용매화된 전자 때문에 짙은 파란색 용액이 되며, 이 전자가 alkyne의 π* 오비탈(LUMO)로 들어가는 것이 1단계다. (보충 근거: Clayden p.542–543, p.682)
+보충: 비닐 anion이 어떻게 모양을 "고를" 수 있을까? 음전하는 π 오비탈이 아니라 sp<sup>2</sup> 오비탈에 들어 있는데, 비닐 anion은 기하학적으로 불안정해서 cis와 trans 사이를 쉽게 오간다. 그래서 양성자를 받기 전에 R<sup>1</sup>과 R<sup>2</sup>가 멀어지는 더 안정한 trans 배치로 모이고, 마지막 protonation이 그 기하를 고정한다. Na를 액체 NH<sub>3</sub>에 녹이면 용매화된 전자 때문에 짙은 파란색 용액이 되며, 이 전자가 alkyne의 π* 오비탈(LUMO)로 들어가는 것이 1단계다. (보충 근거: Clayden p.542–543, p.682)
 
 검토 의견: 슬라이드는 양성자 공급원을 *t*-BuOH로 적는다. Clayden은 비닐 anion이 NH<sub>3</sub>에서도 양성자를 떼어 올 만큼 염기성이 커서 alkyne 환원에는 별도의 양성자 공급원이 꼭 필요하지는 않으며, *t*-BuOH는 흔히 덧붙이는 것이라고 설명한다. 시험에서는 슬라이드대로 *t*-BuOH를 쓰면 되지만, "NH<sub>3</sub>는 단지 용매일 뿐 절대 양성자를 주지 않는다"고 단정할 필요는 없다. (보충 근거: Clayden p.543, p.682)
 
@@ -337,7 +337,7 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 ### 7.2 Wittig reaction: C=O를 C=C로 바꾼다
 
-Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane가 만나 C=C가 생기는 반응이다. 쉽게 말해 carbonyl의 =O 자리에 일리드의 =CHR이 들어가고, 산소는 Ph3P=O로 빠져나간다.
+Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane이 만나 C=C가 생기는 반응이다. 쉽게 말해 carbonyl의 =O 자리에 일리드의 =CHR이 들어가고, 산소는 Ph3P=O로 빠져나간다.
 
 `cyclohexanone + Ph3P=CH2 --> methylenecyclohexane (86%) + Ph3P=O`
 
@@ -384,7 +384,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 일리드는 nucleophile다. 그래서 반응은 다음과 같이 진행된다.
 
-1. 일리드 nucleophile가 aldehyde의 carbonyl electrophile를 공격하고, carbonyl O는 P+와 결합한다.
+1. 일리드 nucleophile이 aldehyde의 carbonyl electrophile을 공격하고, carbonyl O는 P+와 결합한다.
 2. 그 결과 4원 고리 oxaphosphetane intermediate가 생긴다.
 3. oxaphosphetane이 제거 반응으로 분해되면서 C–P와 C–O 결합이 끊어지고, C=C와 P=O가 생긴다.
 
@@ -425,7 +425,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 생성물은 이치환 alkene에서 E-선택성이 높다. ketone과도 잘 반응한다.[15]
 
-보충: 그럼 안정화 Wittig 일리드는 왜 부족할까? 이름 그대로 너무 안정하기 때문이다. Ph<sub>3</sub>P=CHCHO 같은 일리드는 물에서 재결정할 수 있을 정도이고, 원료 phosphonium염보다도 안정하다. 안정한 만큼 반응성이 낮아 ketone처럼 덜 친전자적인 상대와는 잘 반응하지 않는다. 그래서 같은 E-선택적 olefination를 하되, 더 반응성 있는 phosphonate carbanion으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
+보충: 그럼 안정화 Wittig 일리드는 왜 부족할까? 이름 그대로 너무 안정하기 때문이다. Ph<sub>3</sub>P=CHCHO 같은 일리드는 물에서 재결정할 수 있을 정도이고, 원료 phosphonium염보다도 안정하다. 안정한 만큼 반응성이 낮아 ketone처럼 덜 친전자적인 상대와는 잘 반응하지 않는다. 그래서 같은 E-선택적 olefination을 하되, 더 반응성 있는 phosphonate carbanion으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
 
 `2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate`
 
@@ -478,7 +478,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 | 용해 금속 환원 | Na, NH3(l), t-BuOH | E-alkene | – | trans 비닐 anion → E | SET (p.23–24) |
 | 일리드 생성 | PPh3 + RCH2X (SN2); BuLi/PhLi/t-BuOK (안정화형은 Na2CO3) | Ph3P=CHR | 1°/2° halide | – | (p.26, 29) |
 | Wittig (비안정화) | Ph3P=CHR (R = alkyl) + R'CHO | R–CH=CH–R' | C=O 자리에 C=C | Z-선택적 | syn oxaphosphetane (p.31, 34) |
-| Wittig (안정화) | Ph3P=CHCO2Et, Ph3P=CHCHO 등 + RCHO | α,β-불포화 carbonyl | C=O 자리에 C=C | E-선택적 | (p.30) |
+| Wittig (안정화) | Ph3P=CHCO2Et, Ph3P=CHCHO 등 + RCHO | α,β-unsaturated carbonyl | C=O 자리에 C=C | E-선택적 | (p.30) |
 | HWE | (EtO)2P(O)CH2EWG, NaH/EtO−/KHMDS + aldehyde·ketone | alkene | C=O 자리에 C=C | E-선택적(이치환) | 수용성 phosphate 부산물 (p.36–37) |
 
 (쪽 번호는 모두 L6c 기준)

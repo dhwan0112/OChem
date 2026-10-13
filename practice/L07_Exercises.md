@@ -54,5 +54,5 @@
    - (d) acetamide: N-H가 먼저 deprotonate되어 amidate anion 형성.
    - (a) cyclohexanone, (f) acetic acid methyl은 enolate 형성 가능(MeO−와는 가역 평형, LDA로는 정량적). (출처: L7 p.21, p.23)
 
-8. (a) K+ enolate + Me2SO4(hard electrophile, 느슨한 이온쌍): O-methylation → 2-methoxypropene CH2=C(OCH3)CH3(enol ether). Li+ enolate + MeI(soft electrophile): C-methylation → 2-뷰타논 CH3COCH2CH3. 근거: hard electrophile는 전하 밀도가 큰 O, soft electrophile는 HOMO 계수가 큰 C와 반응. 큰 cation일수록 O-반응 증가.
+8. (a) K+ enolate + Me2SO4(hard electrophile, 느슨한 이온쌍): O-methylation → 2-methoxypropene CH2=C(OCH3)CH3(enol ether). Li+ enolate + MeI(soft electrophile): C-methylation → 2-뷰타논 CH3COCH2CH3. 근거: hard electrophile은 전하 밀도가 큰 O, soft electrophile은 HOMO 계수가 큰 C와 반응. 큰 cation일수록 O-반응 증가.
    (b) LiBH4 → 2-benzylbutane-1-ol HOCH2CH(CH2Ph)CH2CH3; LiOH/H2O2 → 2-benzylbutanoic acid HO2CCH(CH2Ph)CH2CH3. 두 경우 모두 α-입체 중심의 배열은 alkylation 생성물에서 그대로 유지되고 oxazolidinone 보조기는 떨어져 나감. (출처: L7 p.24, p.25, p.28)

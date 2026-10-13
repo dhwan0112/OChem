@@ -13,13 +13,13 @@
 
 ## 개요
 
-L1–L2에서 alkene의 이중결합은 bromine이나 과산 같은 electrophile를 만나자마자 반응했다. benzene도 겉보기에는 이중결합이 세 개나 있다. 그러면 benzene도 alkene처럼 반응할까? **그렇지 않다.** benzene은 mCPBA와도, 그냥 Br₂와도 반응하지 않는다.
+L1–L2에서 alkene의 이중결합은 bromine이나 과산 같은 electrophile을 만나자마자 반응했다. benzene도 겉보기에는 이중결합이 세 개나 있다. 그러면 benzene도 alkene처럼 반응할까? **그렇지 않다.** benzene은 mCPBA와도, 그냥 Br₂와도 반응하지 않는다.
 
 이 강의의 출발 질문은 "benzene은 왜 alkene과 다르게 행동하는가, 그리고 어떻게 하면 반응시킬 수 있는가?"다. 답은 두 가지로 요약된다.
-1. benzene과 반응시키려면 **훨씬 강력한 electrophile**를 만들어야 한다. Lewis acid, 진한 sulfuric acid 등이 그 역할을 한다.
+1. benzene과 반응시키려면 **훨씬 강력한 electrophile**을 만들어야 한다. Lewis acid, 진한 sulfuric acid 등이 그 역할을 한다.
 2. 일단 반응하면 benzene은 **첨가가 아니라 치환**으로 끝난다. H 하나를 내주고 aromaticity을 되찾는 쪽을 택하기 때문이다.
 
-이 반응을 **electrophilic aromatic substitution(S<sub>E</sub>Ar)** 이라 한다. 이 강의에서는 halogenation, nitration, sulfonation, Friedel–Crafts alkylation와 acylation, 그리고 phenol의 반응을 다룬다. 고리에 이미 붙어 있는 치환기가 반응 위치를 어떻게 정하는지(배향 효과)는 L4에서 본격적으로 다룬다. (출처: L3 p.7)
+이 반응을 **electrophilic aromatic substitution(S<sub>E</sub>Ar)** 이라 한다. 이 강의에서는 halogenation, nitration, sulfonation, Friedel–Crafts alkylation과 acylation, 그리고 phenol의 반응을 다룬다. 고리에 이미 붙어 있는 치환기가 반응 위치를 어떻게 정하는지(배향 효과)는 L4에서 본격적으로 다룬다. (출처: L3 p.7)
 
 > 강의 첫 장에는 Ben Bradshaw(바르셀로나 대학)의 "Synthetic Map"이 실려 있다. 작용기들 사이의 변환 관계를 지하철 노선도처럼 그린 그림이다. 이 과목에서 배우는 반응들이 그 지도 위의 "노선"이라고 생각하면 큰 그림을 잡는 데 도움이 된다.[1] (출처: L3 p.1)
 
@@ -112,7 +112,7 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 
 - **환원해서 아미노기로**: nitrobenzene --[H₂, Pd/C 또는 Sn, 묽은 HCl]--> aniline
 - **diazonium 화학**: aniline --[NaNO₂, HCl, 0 °C]--> 아릴 diazonium 염(ArN₂⁺ Cl⁻) --[H₂O, 가열]--> phenol
-  - 메커니즘: N₂는 매우 좋은 leaving group다. 그래서 가열하면 N₂가 떠나며 **아릴 cation(aryl cation)** 이 남는다. 이 cation을 nucleophile(여기서는 물)가 붙잡아 phenol이 된다.
+  - 메커니즘: N₂는 매우 좋은 leaving group이다. 그래서 가열하면 N₂가 떠나며 **아릴 cation(aryl cation)** 이 남는다. 이 cation을 nucleophile(여기서는 물)가 붙잡아 phenol이 된다.
 
 (출처: L3 p.13)
 
@@ -129,7 +129,7 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 benzene은 sulfuric acid만으로도 천천히 반응해 **benzenesulfonic acid** 이 된다.
 1. sulfuric acid 분자 하나가 다른 sulfuric acid 분자의 OH를 protonation한다.
 2. 물이 빠지면서 반응성이 매우 큰 cation HSO₃⁺(HO-S⁺(=O)₂)가 생긴다. 이것이 electrophile다.
-3. 이 cation이 bromination나 nitration와 같은 메커니즘으로 benzene과 결합한다. 공격 단계가 속도 결정 단계이고, 그다음 H⁺가 빠진다.
+3. 이 cation이 bromination나 nitration과 같은 메커니즘으로 benzene과 결합한다. 공격 단계가 속도 결정 단계이고, 그다음 H⁺가 빠진다.
 
 같은 cation intermediate는 **삼산화황(SO₃)의 protonation**로도 만들 수 있다. 그래서 sulfonation의 또 다른 방법은 진한 sulfuric acid에 SO₃를 녹인 **fuming sulfuric acid(oleum)** 을 쓰는 것이다. (출처: L3 p.14)
 
@@ -141,9 +141,9 @@ benzene은 sulfuric acid만으로도 천천히 반응해 **benzenesulfonic acid*
 
 ### 5.1 기본 아이디어
 
-S<sub>N</sub>1 반응에서 carbocation은 아무리 약한 nucleophile와도 반응한다. benzene 고리도 예외가 아니다. 탄소 electrophile를 넣으려면 반응성이 큰 탄소 electrophile가 필요하고, 그것이 바로 **carbocation**이다. (출처: L3 p.15)
+S<sub>N</sub>1 반응에서 carbocation은 아무리 약한 nucleophile와도 반응한다. benzene 고리도 예외가 아니다. 탄소 electrophile을 넣으려면 반응성이 큰 탄소 electrophile이 필요하고, 그것이 바로 **carbocation**이다. (출처: L3 p.15)
 
-Friedel–Crafts alkylation는 보통 benzene을 **3차 alkyl chloride와 Lewis acid AlCl₃**로 처리한다.
+Friedel–Crafts alkylation은 보통 benzene을 **3차 alkyl chloride와 Lewis acid AlCl₃**로 처리한다.
 1. AlCl₃가 *t*-BuCl의 Cl을 끌어당겨 R-Cl⁺-AlCl₃⁻ 착물을 만든다.
 2. *t*-Bu cation이 풀려난다.
 3. benzene이 이 cation을 공격해 cyclohexadienyl cation이 된다.
@@ -169,11 +169,11 @@ carbocation의 안정성 순서는 CH₃⁺ < CH₃CH₂⁺ < (CH₃)₂CH⁺ < 
 
 ### 5.3 문제 2: 다중 치환
 
-슬라이드에는 "생성물이 더 반응성이 the products are more reactive"라고 적혀 있다. alkyl group은 고리에 전자를 주는 기라서, alkylbenzene은 benzene보다 electrophile를 더 잘 공격한다. 그래서 한 번 alkylate된 생성물이 또 alkylate되는 **과잉 치환**이 일어난다(→ [L4](L04_Electrophilic_Aromatic_Substitution_Part2.md) 2절 alkylbenzene의 활성화 참고). (출처: L3 p.17)
+슬라이드에는 "생성물이 더 반응성이 the products are more reactive"라고 적혀 있다. alkyl group은 고리에 전자를 주는 기라서, alkylbenzene은 benzene보다 electrophile을 더 잘 공격한다. 그래서 한 번 alkylate된 생성물이 또 alkylate되는 **과잉 치환**이 일어난다(→ [L4](L04_Electrophilic_Aromatic_Substitution_Part2.md) 2절 alkylbenzene의 활성화 참고). (출처: L3 p.17)
 
-보충: 다중 치환을 줄이는 실용적인 방법은 **benzene을 크게 과량**으로 쓰는 것이다. electrophile가 이미 alkylate된 생성물보다 benzene을 만날 확률이 훨씬 커지기 때문이다. 그래도 완전히 막을 수는 없어서, benzyl chloride로 diphenylmethane을 만드는 반응은 과량의 benzene을 써도 수율이 50% 정도에 그친다. (보충 근거: Clayden p.492–493; Wade p.781)
+보충: 다중 치환을 줄이는 실용적인 방법은 **benzene을 크게 과량**으로 쓰는 것이다. electrophile이 이미 alkylate된 생성물보다 benzene을 만날 확률이 훨씬 커지기 때문이다. 그래도 완전히 막을 수는 없어서, benzyl chloride로 diphenylmethane을 만드는 반응은 과량의 benzene을 써도 수율이 50% 정도에 그친다. (보충 근거: Clayden p.492–493; Wade p.781)
 
-보충: 반대 방향의 한계도 있다. Friedel–Crafts 반응은 benzene, 활성화된 benzene, halobenzene에서만 잘 되고, nitrobenzene, benzenesulfonic acid, phenyl ketone처럼 **강하게 비활성화된 고리에서는 실패**한다(6.2절에서 nitrobenzene을 acylation 용매로 쓰는 것과 같은 이유다). 그래서 합성 순서가 중요하다. 예를 들어 *p*-nitro-*t*-butylbenzene은 *t*-butyl화를 먼저 하고 nitration를 나중에 해야 하며, 순서를 바꾸면 alkylation 단계가 진행되지 않는다. (보충 근거: Wade p.780)
+보충: 반대 방향의 한계도 있다. Friedel–Crafts 반응은 benzene, 활성화된 benzene, halobenzene에서만 잘 되고, nitrobenzene, benzenesulfonic acid, phenyl ketone처럼 **강하게 비활성화된 고리에서는 실패**한다(6.2절에서 nitrobenzene을 acylation 용매로 쓰는 것과 같은 이유다). 그래서 합성 순서가 중요하다. 예를 들어 *p*-nitro-*t*-butylbenzene은 *t*-butyl화를 먼저 하고 nitration을 나중에 해야 하며, 순서를 바꾸면 alkylation 단계가 진행되지 않는다. (보충 근거: Wade p.780)
 
 ---
 
@@ -183,30 +183,30 @@ carbocation의 안정성 순서는 CH₃⁺ < CH₃CH₂⁺ < (CH₃)₂CH⁺ < 
 
 ### 6.1 메커니즘
 
-Friedel–Crafts acylation는 보통 benzene을 **acid chloride(RCOCl)과 AlCl₃**로 처리한다.
+Friedel–Crafts acylation은 보통 benzene을 **acid chloride(RCOCl)과 AlCl₃**로 처리한다.
 1. AlCl₃가 acid chloride의 Cl과 착물을 만든다.
 2. Cl이 AlCl₄⁻로 떠나면서 **acylium 이온(acylium ion, R-C≡O⁺)** 이 생긴다. 이 이온은 산소의 비공유 전자쌍이 양전하를 나눠 갖기 때문에 꽤 안정하다.
 3. benzene이 acylium 이온의 탄소를 공격하고, H⁺(HCl)가 빠지면 아릴 ketone이 된다.
 
 ![acid chloride-AlCl3 착물에서 acylium 이온이 생기고 benzene이 그 탄소를 공격하는 메커니즘](../../figures/L03/fc_acylation.svg)
 
-*그림: R을 CH₃로 acetyl chloride. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 C=O 쪽으로 밀려 들어가 C≡O⁺ 삼중 결합을 만들고, 동시에 C–Cl⁺ 결합(빨강) 전자가 Cl로 떠나 AlCl₄⁻가 된다. 오른쪽: acylium 이온의 친전자성 탄소(빨강)를 benzene의 π 결합(파랑)이 공격한다. 이후 단계(H⁺ 이탈)는 bromination와 같다.*
+*그림: R을 CH₃로 acetyl chloride. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 C=O 쪽으로 밀려 들어가 C≡O⁺ 삼중 결합을 만들고, 동시에 C–Cl⁺ 결합(빨강) 전자가 Cl로 떠나 AlCl₄⁻가 된다. 오른쪽: acylium 이온의 친전자성 탄소(빨강)를 benzene의 π 결합(파랑)이 공격한다. 이후 단계(H⁺ 이탈)는 bromination과 같다.*
 
 (출처: L3 p.18)
 
 acid chloride 대신 **acid anhydride** 도 쓸 수 있다. 이 경우 AlCl₃가 무수물의 carbonyl 산소에 배위하고, 무수물이 쪼개지면서 acylium 이온과 carboxylate-AlCl₃⁻가 생긴다. (출처: L3 p.19)
 
-### 6.2 acylation가 alkylation보다 나은 이유
+### 6.2 acylation이 alkylation보다 나은 이유
 
 alkylation의 두 가지 문제가 acylation에서는 생기지 않는다.
 1. **다중 치환이 없다**: 생성물의 acyl group이 π 계에서 전자를 끌어가 고리를 비활성화하므로 두 번째 치환이 어렵다. 고리가 처음부터 너무 비활성화되어 있으면 아예 반응하지 않는다. 예를 들어 nitrobenzene은 Friedel–Crafts acylation에 불활성이어서 **이 반응의 용매로 쓰이기도 한다**.
 2. **자리 옮김이 없다**: electrophile인 acylium 이온이 이미 비교적 안정하기 때문이다.
 
-또한 acylation는 acyl 염화물에 특별한 구조적 조건이 필요 없다. R이 거의 무엇이든 된다. (출처: L3 p.18, p.21)
+또한 acylation은 acyl 염화물에 특별한 구조적 조건이 필요 없다. R이 거의 무엇이든 된다. (출처: L3 p.18, p.21)
 
 ### 6.3 acylation + 환원 = 깔끔한 alkylation
 
-acylation가 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방법은 **먼저 acylate하고 carbonyl을 methylene(-CH₂-)으로 환원**하는 것이다.
+acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방법은 **먼저 acylate하고 carbonyl을 methylene(-CH₂-)으로 환원**하는 것이다.
 - **클레멘센 Clemmensen reduction**: 아연 아말감(Zn/Hg, 아연과 수은의 합금)과 HCl을 쓴다. 아릴-alkyl ketone을 환원하는 데 특히 효과적이다.
   - 예: 프로피오페논(PhCOCH₂CH₃) --[Zn/Hg, HCl]--> *n*-propylbenzene. 이렇게 하면 직접 alkylation에서 생기는 자리 cumene 문제를 피할 수 있다.
 - **chemoselectivity**: ketone만 환원되고 carboxylic acid은 반응하지 않는다.
@@ -244,7 +244,7 @@ benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런
 
 (출처: L3 p.23)
 
-> 슬라이드에는 "Phenol reacts three times as rapidly"라고 적혀 있다. 그러나 문맥상 이는 "세 번이나, 빠르게(촉매 없이 실온에서) 반응한다"는 뜻으로 읽는 것이 자연스럽다. L4 p.21의 데이터를 보면 OMe 치환 benzene(아니솔)의 bromination가 benzene보다 **10⁹배** 빠르므로, "3배 빠르다"는 해석은 맞지 않는다.[4]
+> 슬라이드에는 "Phenol reacts three times as rapidly"라고 적혀 있다. 그러나 문맥상 이는 "세 번이나, 빠르게(촉매 없이 실온에서) 반응한다"는 뜻으로 읽는 것이 자연스럽다. L4 p.21의 데이터를 보면 OMe 치환 benzene(아니솔)의 bromination이 benzene보다 **10⁹배** 빠르므로, "3배 빠르다"는 해석은 맞지 않는다.[4]
 
 ### 7.2 이유: HOMO가 바뀌었다
 
@@ -282,7 +282,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 - **"benzene도 이중결합이 있으니 Br₂와 첨가 반응한다"**: benzene의 π 전자는 고리 전체에 퍼져 안정하다. Br₂만으로는 반응하지 않고, Lewis acid이 있을 때 **치환**한다.
 - **"S<sub>E</sub>Ar 2단계도 alkene처럼 anion이 cation을 공격한다"**: H⁺가 빠져 방향족성을 회복하는 것이 훨씬 유리하므로 치환으로 끝난다.
-- **"Friedel–Crafts alkylation로 *n*-propylbenzene을 깔끔하게 만들 수 있다"**: 1,2-수소화물 이동으로 cumene이 주생성물이 된다. *n*-propylbenzene은 **acylation + 클레멘센 환원**으로 만든다.
+- **"Friedel–Crafts alkylation으로 *n*-propylbenzene을 깔끔하게 만들 수 있다"**: 1,2-수소화물 이동으로 cumene이 주생성물이 된다. *n*-propylbenzene은 **acylation + 클레멘센 환원**으로 만든다.
 - **"acylation도 다중 치환이 문제다"**: acyl group이 고리를 비활성화하므로 한 번 치환된 뒤 멈춘다.
 - **"phenol의 반응성은 고리 π 전자 덕분이다"**: 산소 비공유 전자쌍이 HOMO의 에너지를 끌어올렸기 때문이다.
 
@@ -334,7 +334,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 [1] syntheticmap.com에서 볼 수 있다. 슬라이드에 "Copyright Dr. Ben Bradshaw (Universitat de Barcelona)"라고 명시되어 있다.
 
-[2] 보충: cyclohexadienyl cation 단계는 방향족 안정화 에너지를 잃은 상태다. H⁺를 잃으면 그 에너지를 되찾지만, nucleophile가 첨가하면 비방향족 diene으로 남는다. Clayden 등 표준 교재의 설명이다. (보충 근거: Clayden p.475)
+[2] 보충: cyclohexadienyl cation 단계는 방향족 안정화 에너지를 잃은 상태다. H⁺를 잃으면 그 에너지를 되찾지만, nucleophile이 첨가하면 비방향족 diene으로 남는다. Clayden 등 표준 교재의 설명이다. (보충 근거: Clayden p.475)
 
 [3] 보충: Friedel–Crafts acylation의 생성물인 아릴 ketone은 루이스 염기로서 AlCl₃와 1:1 착물을 만든다. 그래서 AlCl₃는 촉매가 아니라 화학량론적 양이 필요하다는 것이 표준적인 설명이다. succinic acid 무수물의 경우 carboxylic acid(염) 부분까지 있으므로 2 당량 이상을 쓰는 것으로 이해할 수 있다. (보충 근거: Clayden p.494) 슬라이드에는 "2.2 equivalents"라는 수치만 있다.
 

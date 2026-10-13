@@ -16,7 +16,7 @@
 alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 π 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
 
 강의의 질문은 크게 세 가지다.
-1. alkene은 왜, 어떻게 electrophile와 반응하는가? (메커니즘)
+1. alkene은 왜, 어떻게 electrophile과 반응하는가? (메커니즘)
 2. 비대칭 alkene이라면 어느 쪽 탄소에 무엇이 붙는가? (regioselectivity, regioselectivity)
 3. 이 반응들로 무엇을 만들 수 있는가? (합성 응용)
 
@@ -88,7 +88,7 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 π 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 높다. 그리고 π HOMO가 σ\* LUMO와 결합성으로 겹치려면 Br₂가 **end-on** 다가와야 한다.
 
-그 결과 Br 원자 하나가 두 탄소에 동시에 걸쳐 앉은 **3원 고리 cation, bromonium 이온**이 생기고 Br⁻ 하나가 떨어져 나간다. 이 단계 덕분에 이 반응을 "이중결합에 대한 electrophilic addition"라 부르며, 여기서 electrophile는 bromine이다. (출처: L1 p.10)
+그 결과 Br 원자 하나가 두 탄소에 동시에 걸쳐 앉은 **3원 고리 cation, bromonium 이온**이 생기고 Br⁻ 하나가 떨어져 나간다. 이 단계 덕분에 이 반응을 "이중결합에 대한 electrophilic addition"라 부르며, 여기서 electrophile은 bromine이다. (출처: L1 p.10)
 
 > bromonium 이온은 보통 금방 반응해 사라지는 불안정한 intermediate다. 그런데 바이(아다만틸리덴)(bi(adamantylidene))에서 만든 bromonium 이온은 양쪽의 거대한 아다만틸기가 뒤쪽 공격을 막아서 **분리할 수 있을 만큼 안정**하다. 이 화합물은 bromonium 이온이 실제로 존재한다는 구조적 증거가 되었다.[2] (출처: L1 p.11)
 
@@ -102,7 +102,7 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 bromonium 이온은 양전하를 띤 electrophile이고, 1단계에서 떨어져 나간 Br⁻은 nucleophile다. 이 둘의 반응은 **평범한 S<sub>N</sub>2 치환**이다.
 
-S<sub>N</sub>2이므로 nucleophile는 C-Br σ\* 궤도함수와 최대로 겹치기 위해 **leaving group의 정반대편에서** 일직선으로 들어온다. 그래서 공격받는 탄소의 입체배치가 **inversion** 된다. 결과적으로 두 Br은 서로 반대 면(anti)에 붙는다. 이 "anti 첨가"는 L2에서 cyclohexene bromination의 입체화학으로 다시 다룬다. (출처: L1 p.12)
+S<sub>N</sub>2이므로 nucleophile은 C-Br σ\* 궤도함수와 최대로 겹치기 위해 **leaving group의 정반대편에서** 일직선으로 들어온다. 그래서 공격받는 탄소의 입체배치가 **inversion** 된다. 결과적으로 두 Br은 서로 반대 면(anti)에 붙는다. 이 "anti 첨가"는 L2에서 cyclohexene bromination의 입체화학으로 다시 다룬다. (출처: L1 p.12)
 
 보충: Br⁻가 탄소가 아니라 양전하를 띤 Br을 공격할 수도 있을까? 실제로 그럴 수 있지만, 그 결과는 Br₂와 alkene이 다시 생기는 것뿐이다. 즉 1단계(bromonium 이온 형성)는 **가역적**이고, 생성물로 이어지는 길은 탄소를 공격하는 S<sub>N</sub>2뿐이다. 또 bromonium 이온은 "carbocation 옆의 Br이 비공유 전자쌍을 내주어 양전하를 달래 준 구조"로 볼 수도 있다. Br은 주기율표 아래쪽 원소라 비공유 전자쌍이 넓게 퍼져 있어서, 3원 고리의 각 긴장을 감수하고도 이런 안정화가 가능하다. 이 관점은 7.2절의 느슨한 S<sub>N</sub>2 transition state를 이해하는 다리가 된다. (보충 근거: Clayden p.429)
 
@@ -118,7 +118,7 @@ epoxide는 bromonium 이온의 Br⁺ 자리에 O가 들어간 3원 고리라고 
 
 에폭시화에는 주로 **peroxy-carboxylic acid, peracid** 을 쓴다. 과산은 carboxylic acid의 C(=O)와 산성 H 사이에 **산소가 하나 더 끼어 있는** 구조(R-C(=O)-O-O-H)다. (출처: L1 p.13)
 
-과산은 왜 산소 쪽이 친전자성일까? nucleophile가 말단 OH의 산소를 공격하면 약한 O-O 결합이 끊어지면서 **carboxylate(좋은 leaving group)** 가 떨어져 나가기 때문이다. 즉 "산소 원자에서 일어나는 S<sub>N</sub>2"다. (출처: L1 p.13)
+과산은 왜 산소 쪽이 친전자성일까? nucleophile이 말단 OH의 산소를 공격하면 약한 O-O 결합이 끊어지면서 **carboxylate(좋은 leaving group)** 가 떨어져 나가기 때문이다. 즉 "산소 원자에서 일어나는 S<sub>N</sub>2"다. (출처: L1 p.13)
 
 ### 4.2 mCPBA
 
@@ -169,7 +169,7 @@ hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cycloh
 
 (출처: L1 p.16)
 
-보충: 왜 Br₂와 달리 HBr에서는 3원 고리 intermediate가 아니라 열린 carbocation이 생길까? bromonium 이온의 고리는 Br의 **비공유 전자쌍**이 반대쪽 탄소와 결합해야 닫힌다. 그런데 H에는 내줄 비공유 전자쌍이 없으므로 고리를 만들 수 없고, 양성자가 붙은 결과는 carbocation으로 그리는 것이 맞다. 그래서 HBr 첨가에는 bromination 같은 anti stereospecificity이 없고, regioselectivity은 오직 cation의 안정성으로 정해진다. 덧붙여 alkene의 protonation는 가역적이어서, 생긴 cation이 다른 β-H를 잃으면 더 안정한 alkene으로 이성질화될 수 있다(산 촉매 alkene 이성질화). (보충 근거: Clayden p.433–434)
+보충: 왜 Br₂와 달리 HBr에서는 3원 고리 intermediate가 아니라 열린 carbocation이 생길까? bromonium 이온의 고리는 Br의 **비공유 전자쌍**이 반대쪽 탄소와 결합해야 닫힌다. 그런데 H에는 내줄 비공유 전자쌍이 없으므로 고리를 만들 수 없고, 양성자가 붙은 결과는 carbocation으로 그리는 것이 맞다. 그래서 HBr 첨가에는 bromination 같은 anti stereospecificity이 없고, regioselectivity은 오직 cation의 안정성으로 정해진다. 덧붙여 alkene의 protonation은 가역적이어서, 생긴 cation이 다른 β-H를 잃으면 더 안정한 alkene으로 이성질화될 수 있다(산 촉매 alkene 이성질화). (보충 근거: Clayden p.433–434)
 
 ### 5.2 비대칭 alkene이면 어디에 붙는가?
 
@@ -221,9 +221,9 @@ bromonium 이온이 생긴 뒤 Br⁻가 가까운 탄소를 바로 공격하면 
 
 > 개념 문서: [halohydrin formation](../../wiki/반응/할로하이드린%20형성.md), [loose SN2 transition state](../../wiki/개념/느슨한%20SN2%20전이%20상태.md), [halogen addition](../../wiki/반응/할로젠%20첨가.md)
 
-### 7.1 용매가 nucleophile가 될 때
+### 7.1 용매가 nucleophile이 될 때
 
-bromination를 물이나 methanol 같은 **친핵성 용매** 속에서 하면 어떻게 될까? 용매 분자가 Br⁻와 경쟁해 bromonium 이온을 연다. 용매는 Br⁻보다 압도적으로 농도가 높아서 대부분 용매가 먼저 반응한다.
+bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 어떻게 될까? 용매 분자가 Br⁻와 경쟁해 bromonium 이온을 연다. 용매는 Br⁻보다 압도적으로 농도가 높아서 대부분 용매가 먼저 반응한다.
 
 - 2-methyl프로펜 --[Br₂, H₂O]--> bromohydrin. OH는 3차 탄소에, Br은 CH₂에 붙는다.
 - 이 bromohydrin을 염기(HO⁻)로 처리하면 alkoxide(O⁻)가 생긴다. 이 alkoxide가 분자 안에서 S<sub>N</sub>2로 옆 탄소의 Br을 밀어내면 **epoxide**가 된다. 즉 bromohydrin은 epoxide의 전구체다.
@@ -240,7 +240,7 @@ bromination를 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 바로 이 강의의 핵심 포인트다.
 
-답은 **"느슨한 S<sub>N</sub>2 transition state(loose S<sub>N</sub>2 transition state)"** 다. bromonium 이온이 열릴 때는 nucleophile가 들어오기 전에 C-Br 결합이 먼저 상당히 늘어난다. 그러면 탄소 위에 **부분 양전하**가 쌓인다. 이때 3차 탄소 쪽은 alkyl기들이 이 양전하를 안정화해 주므로 Br이 더 많이 떨어져 나간 상태에 도달할 수 있다. 그래서 **입체 효과가 아닌 전자 효과가 regioselectivity을 결정**한다. (출처: L1 p.23)
+답은 **"느슨한 S<sub>N</sub>2 transition state(loose S<sub>N</sub>2 transition state)"** 다. bromonium 이온이 열릴 때는 nucleophile이 들어오기 전에 C-Br 결합이 먼저 상당히 늘어난다. 그러면 탄소 위에 **부분 양전하**가 쌓인다. 이때 3차 탄소 쪽은 alkyl기들이 이 양전하를 안정화해 주므로 Br이 더 많이 떨어져 나간 상태에 도달할 수 있다. 그래서 **입체 효과가 아닌 전자 효과가 regioselectivity을 결정**한다. (출처: L1 p.23)
 
 치환기가 많을수록 반응 속도도 급격히 빨라진다(Br₂/MeOH 기준 상대 속도).
 
@@ -300,7 +300,7 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 
 ## 정답 및 해설
 
-1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition를 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
+1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
 2. HOMO는 채워진 C=C π 궤도함수, LUMO는 비어 있는 Br-Br σ\* 궤도함수다. π 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 σ\*는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
 3. *cis*-2-butene에서는 *cis*-2,3-dimethyl옥시레인(메소 화합물)이, *trans*-2-butene에서는 *trans*-2,3-dimethyl옥시레인(라세미체)이 생긴다. 두 C-O 결합이 같은 면에서 동시에 생기므로 입체특이적이다. 메소/라세미 판정은 보충 설명이며, 원리는 L1 p.15의 스틸벤 예와 같다. (보충 근거: Clayden p.854)
 4. 주생성물은 1-bromo-1-phenyl에테인(PhCHBrCH₃)이다. H⁺가 말단 CH₂에 붙으면 공명 안정화된 benzyl cation이 생긴다. 반대로 붙으면 불안정한 1차 cation이 생기므로 그 경로는 일어나지 않는다. (L1 p.17)

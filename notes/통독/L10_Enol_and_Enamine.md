@@ -13,7 +13,7 @@
 
 ## 개요
 
-carbonyl 화합물의 α-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 이 강의는 그 이야기의 "중성 버전"을 다룬다. 산 조건에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile가 된다. 그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 앞부분의 주제다. 뒷부분에서는 halogenation로 enol의 반응성을 확인하고, enamine이 강염기 없이 aldehyde를 alkylate하는 방법과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol 반응까지 살펴본다.
+carbonyl 화합물의 α-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 이 강의는 그 이야기의 "중성 버전"을 다룬다. 산 조건에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile이 된다. 그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 앞부분의 주제다. 뒷부분에서는 halogenation으로 enol의 반응성을 확인하고, enamine이 강염기 없이 aldehyde를 alkylate하는 방법과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol 반응까지 살펴본다.
 
 ## 본문
 
@@ -24,16 +24,16 @@ carbonyl 화합물의 α-탄소에서 새 결합을 만드는 방법은 앞에�
 산 조건 이야기를 하기 전에, 염기 조건에서 이미 아는 세 반응을 다시 떠올려 보자. 공통점은 무엇일까? 세 반응 모두 enolate(R–C(O⁻)=CH₂)가 nucleophile이고, 새 C–C 결합이 carbonyl의 α-탄소에서 생긴다는 것이다. 슬라이드는 이 결합을 점선 박스로 강조한다. (→ [L7](L07_Enolate_Alkylation.md) enolate 반응 강의 문서 참고)
 
 1. α-alkylation(α-alkylation): `R–C(O⁻)=CH₂ + Br–CH₂R' --> R–CO–CH₂–CH₂R'` — S_N2로 Br⁻가 떨어진다.
-2. aldol reaction: enolate + aldehyde/ketone `R'–CO–R''` ⇌ β-hydroxy carbonyl `R–CO–CH₂–C(OH)R'R''` ⇌ (탈수) α,β-불포화 carbonyl `R–CO–CH=CR'R''`. 각 단계가 가역으로 그려져 있다.
+2. aldol reaction: enolate + aldehyde/ketone `R'–CO–R''` ⇌ β-hydroxy carbonyl `R–CO–CH₂–C(OH)R'R''` ⇌ (탈수) α,β-unsaturated carbonyl `R–CO–CH=CR'R''`. 각 단계가 가역으로 그려져 있다.
 3. Claisen reaction: enolate + ester ⇌ 1,3-dicarbonyl `R–CO–CH₂–CO–R'` — EtO⁻가 떨어진다.[1]
 
 (출처: L10 p.2)
 
-### 산 조건의 aldol reaction: enol이 nucleophile가 되다
+### 산 조건의 aldol reaction: enol이 nucleophile이 되다
 
 > 개념 문서: [keto-enol tautomerization](../../wiki/반응/케토-엔올%20토토머화.md), [aldol reaction](../../wiki/반응/알돌%20반응.md), [carbocation](../../wiki/개념/탄소%20양이온.md)
 
-그렇다면 염기가 없을 때는 무엇이 nucleophile가 될까? 답은 enol이다. cyclopentanone을 산 촉매로 처리하는 예를 따라가 보면 이 반응은 세 막으로 나뉜다.
+그렇다면 염기가 없을 때는 무엇이 nucleophile이 될까? 답은 enol이다. cyclopentanone을 산 촉매로 처리하는 예를 따라가 보면 이 반응은 세 막으로 나뉜다.
 
 **첫째 막, enolization(acid-catalysed enolization).** 산은 먼저 carbonyl 산소를 protonate해 oxonium 이온을 만든다. 그러면 carbonyl이 더 강하게 전자를 끌어당기므로 α-C–H가 약해진다. 이어서 α-C–H 결합의 전자쌍이 C=C를 만들고, C=O⁺H의 π 전자는 산소로 올라가며 H⁺가 떨어진다. 그 결과 enol(cyclopent-1-en-1-ol)이 생기고 산은 다시 돌아온다.[2]
 
@@ -67,7 +67,7 @@ enolate를 보면 이 관계가 더 잘 보인다. enolate의 음전하는 산�
 
 *그림: 슬라이드 p.4의 "A proton can add here" 두 자리를 굽은 화살표로 나타냈다. 위: enolate 산소의 비공유 전자쌍(파랑)이 H–B의 H(빨강)를 잡고 H–B 결합 전자가 B로 가서 enol과 B⁻가 된다. 아래: 산소 전자쌍이 C–O 쪽으로 밀어 C=O를 만들고, C=C의 π 전자(파랑)가 H를 잡아 α-탄소에 새 C–H(초록)가 생기며 keto형이 된다. 두 경로 모두 가역(⇌)이고, 같은 enolate에서 양성자 자리만 다르다.*
 
-보충: 호변이성화는 눈에 보이는 결과를 낳는다. ketone을 산이나 염기가 조금 든 D2O에 두면 α-H만 차례로 D로 바뀌는데, 이것이 enol(enolate)을 거친다는 증거다. 또 α-탄소가 입체중심이면 평면인 enol을 거치면서 배열을 잃는다. 그래서 두 carbonyl 사이 탄소만 입체중심인 β-ketoester는 광학 활성 상태로 보관하기 어렵고, 교과서는 이부프로펜이 라세미체로 투여되어도 몸 안에서 enolization를 거쳐 활성 (S)체를 공급받는다고 소개한다. (보충 근거: Clayden p.451, p.459, p.460)
+보충: 호변이성화는 눈에 보이는 결과를 낳는다. ketone을 산이나 염기가 조금 든 D2O에 두면 α-H만 차례로 D로 바뀌는데, 이것이 enol(enolate)을 거친다는 증거다. 또 α-탄소가 입체중심이면 평면인 enol을 거치면서 배열을 잃는다. 그래서 두 carbonyl 사이 탄소만 입체중심인 β-ketoester는 광학 활성 상태로 보관하기 어렵고, 교과서는 이부프로펜이 라세미체로 투여되어도 몸 안에서 enolization을 거쳐 활성 (S)체를 공급받는다고 소개한다. (보충 근거: Clayden p.451, p.459, p.460)
 
 (출처: L10 p.4)
 
@@ -155,11 +155,11 @@ E 신호가 δ 15.5라는 극단적인 낮은 장(downfield)에 있는 것은 �
 
 > 개념 문서: [α-halogenation](../../wiki/반응/α-할로젠화.md), [haloform reaction](../../wiki/반응/할로폼%20반응.md), [substituent effect](../../wiki/개념/치환기%20효과.md)
 
-enol이 정말 nucleophile로 작용한다는 증거는 무엇일까? 가장 간단한 예가 halogenation다.
+enol이 정말 nucleophile로 작용한다는 증거는 무엇일까? 가장 간단한 예가 halogenation이다.
 
 `아세톤 --[Br₂, HOAc]--> 브로모아세톤(CH₃COCH₂Br)`
 
-메커니즘은 산 촉매 aldol의 첫 두 막과 거의 같다. 먼저 AcOH가 carbonyl 산소를 protonate하고 α-C–H가 끊기며 enol CH₃–C(OH)=CH₂가 생긴다. 이어서 enol 산소의 비공유 전자쌍이 밀어주면 enol의 C=C가 Br–Br의 Br을 공격하고, Br–Br 결합이 끊어지며 Br⁻가 떨어진다. 그러면 protonate된 carbonyl(C=O⁺–H)을 가진 α-bromoketone이 생기고, O–H의 H⁺가 빠지면서 bromoacetone이 된다. 즉 electrophile가 protonate된 carbonyl에서 Br₂로 바뀌었을 뿐이다.[9]
+메커니즘은 산 촉매 aldol의 첫 두 막과 거의 같다. 먼저 AcOH가 carbonyl 산소를 protonate하고 α-C–H가 끊기며 enol CH₃–C(OH)=CH₂가 생긴다. 이어서 enol 산소의 비공유 전자쌍이 밀어주면 enol의 C=C가 Br–Br의 Br을 공격하고, Br–Br 결합이 끊어지며 Br⁻가 떨어진다. 그러면 protonate된 carbonyl(C=O⁺–H)을 가진 α-bromoketone이 생기고, O–H의 H⁺가 빠지면서 bromoacetone이 된다. 즉 electrophile이 protonate된 carbonyl에서 Br₂로 바뀌었을 뿐이다.[9]
 
 ![enol의 C=C가 Br₂를 공격해 protonate된 α-bromoketone을 거쳐 bromoacetone이 되는 메커니즘](../../figures/L10/enol_bromination.svg)
 
@@ -193,21 +193,21 @@ LDA(lithium diisopropylamide)는 부피가 큰 강염기라 가장 덜 least hin
 
 enol의 산소 대신 질소가 붙어 있으면 어떻게 될까? 그것이 enamine이다. enamine은 aldehyde나 ketone이 **2차 amine(secondary amine)**과 반응할 때 생긴다. 자주 쓰이는 2차 amine은 pyrrolidine, piperidine, morpholine이다.
 
-대표적인 사용법은 Stork enamine alkylation다.
+대표적인 사용법은 Stork enamine alkylation이다.
 
 `사이클로헥사논 --[피롤리딘, cat. H⁺]--> 1-(cyclohex-1-en-1-yl)pyrrolidine --[1. R–X; 2. H₂O, H⁺]--> 2-알킬사이클로헥사논`
 
 왜 2차 amine이어야 할까? amine이 carbonyl에 붙고 물이 빠지면 iminium 이온이 생기는데, 2차 amine에서 온 iminium은 질소에 H가 없어서 중성 imine이 될 수 없다. 그래서 대신 α-C–H에서 H⁺를 잃고 enamine이 된다.[12]
 
-alkylation 단계는 enol bromination와 같은 그림이다. 질소의 비공유 전자쌍이 C=C로 밀고 들어가면 enamine의 α-탄소(원래 carbonyl 탄소의 이웃)가 R–X의 탄소를 S_N2로 공격하고 X⁻가 떨어진다. 그 결과 α-위치에 R이 붙은 iminium 이온(C=N⁺R₂)이 생긴다. 이 iminium은 다른 쪽 α-H를 잃고 다시 enamine으로 갈 수도 있는데, 슬라이드에는 R이 없는 쪽으로 C=C가 생긴 enamine이 그려져 있다. 마지막으로 H₂O, H⁺로 가수분해하면 2-alkylcyclohexanone과 pyrrolidine이 나온다. 슬라이드는 이 관계를 "imine과 enamine은 호변이성체"라고 요약한다.[13] enamine 형성과 가수분해(슬라이드의 녹색 단계)의 메커니즘은 교재 Chapter 11에 있다고 안내하며, 환원성 reductive amination도 함께 복습하라고 한다.
+alkylation 단계는 enol bromination과 같은 그림이다. 질소의 비공유 전자쌍이 C=C로 밀고 들어가면 enamine의 α-탄소(원래 carbonyl 탄소의 이웃)가 R–X의 탄소를 S_N2로 공격하고 X⁻가 떨어진다. 그 결과 α-위치에 R이 붙은 iminium 이온(C=N⁺R₂)이 생긴다. 이 iminium은 다른 쪽 α-H를 잃고 다시 enamine으로 갈 수도 있는데, 슬라이드에는 R이 없는 쪽으로 C=C가 생긴 enamine이 그려져 있다. 마지막으로 H₂O, H⁺로 가수분해하면 2-alkylcyclohexanone과 pyrrolidine이 나온다. 슬라이드는 이 관계를 "imine과 enamine은 호변이성체"라고 요약한다.[13] enamine 형성과 가수분해(슬라이드의 녹색 단계)의 메커니즘은 교재 Chapter 11에 있다고 안내하며, 환원성 reductive amination도 함께 복습하라고 한다.
 
 ![Stork enamine alkylation: enamine의 α-탄소가 R–X를 공격해 iminium 이온이 되는 메커니즘](../../figures/L10/stork_alkylation.svg)
 
 *그림: cyclohexanone과 pyrrolidine으로 만든 enamine(파랑, nucleophile)과 R–X(빨강, electrophile). 화살표 셋은 (1) 질소의 비공유 전자쌍이 C–N 쪽으로 밀어 C=N⁺를 만들고 (2) C=C의 π 전자가 R의 탄소를 공격하며(S_N2) (3) R–X 결합 전자가 X로 가서 X⁻가 떨어지는 과정이다. 오른쪽 iminium 이온(빨간 C=N⁺)의 초록색이 새 C–R 결합이다. 이후 가수분해 단계는 슬라이드가 교재로 미루므로 그리지 않았다.*
 
-enol과 비교하면 enamine의 장점이 보인다. enamine은 중성이면서도 enol보다 친핵성이 크다. 질소가 산소보다 전자를 잘 내주기 때문이다. 또 alkylation 뒤 생기는 iminium은 양전하를 띠어 더 이상 nucleophile로 작용하지 않으므로 다중 alkylation가 억제된다.[14]
+enol과 비교하면 enamine의 장점이 보인다. enamine은 중성이면서도 enol보다 친핵성이 크다. 질소가 산소보다 전자를 잘 내주기 때문이다. 또 alkylation 뒤 생기는 iminium은 양전하를 띠어 더 이상 nucleophile로 작용하지 않으므로 다중 alkylation이 억제된다.[14]
 
-보충: 2차 amine 가운데 pyrrolidine·piperidine·모폴린 같은 고리형 amine을 즐겨 쓰는 이유는, alkyl group이 고리로 "묶여" 있어 질소 주변이 덜 붐비므로 amine과 enamine 모두 친핵성이 커지기 때문이다. 끓는점이 높아 가열하며 enamine을 만들기 쉬운 것도 장점이다. 또 비대칭 ketone에서는 덜 치환된 enamine이 주로 생기는데, 더 치환된 enol이 우세한 enol과는 반대다. enamine 형성은 가역이라 thermodynamic 지배를 받는데, 더 치환된 enamine에서는 질소의 치환기와 C=C의 치환기가 부딪혀, 질소 비공유 전자쌍이 C=C와 공액하는 데 필요한 평면성이 깨지기 때문이다. 그래서 Stork alkylation는 비대칭 ketone의 덜 치환된 α-탄소에서 일어난다. (보충 근거: Clayden p.592)
+보충: 2차 amine 가운데 pyrrolidine·piperidine·모폴린 같은 고리형 amine을 즐겨 쓰는 이유는, alkyl group이 고리로 "묶여" 있어 질소 주변이 덜 붐비므로 amine과 enamine 모두 친핵성이 커지기 때문이다. 끓는점이 높아 가열하며 enamine을 만들기 쉬운 것도 장점이다. 또 비대칭 ketone에서는 덜 치환된 enamine이 주로 생기는데, 더 치환된 enol이 우세한 enol과는 반대다. enamine 형성은 가역이라 thermodynamic 지배를 받는데, 더 치환된 enamine에서는 질소의 치환기와 C=C의 치환기가 부딪혀, 질소 비공유 전자쌍이 C=C와 공액하는 데 필요한 평면성이 깨지기 때문이다. 그래서 Stork alkylation은 비대칭 ketone의 덜 치환된 α-탄소에서 일어난다. (보충 근거: Clayden p.592)
 
 (출처: L10 p.11)
 
@@ -215,7 +215,7 @@ enol과 비교하면 enamine의 장점이 보인다. enamine은 중성이면서�
 
 > 개념 문서: [Stork enamine reaction](../../wiki/반응/스토크%20엔아민%20반응.md)
 
-aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자성이 커서, 강염기로 enolate를 만들면 남은 aldehyde와 바로 aldol 자기 self-condensation을 일으킨다. enamine은 바로 이 문제의 좋은 해법이다. 강염기 없이 α-alkylation가 일어나므로 자기 축합이 없다.
+aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자성이 커서, 강염기로 enolate를 만들면 남은 aldehyde와 바로 aldol 자기 self-condensation을 일으킨다. enamine은 바로 이 문제의 좋은 해법이다. 강염기 없이 α-alkylation이 일어나므로 자기 축합이 없다.
 
 첫 번째 예는 pentane알이다.
 
@@ -227,7 +227,7 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 
 `OHC–CH(Et)(n-Bu) --[피롤리딘, cat. H⁺]--> 피롤리딘–CH=C(Et)(n-Bu) --[1. CH₂=CH–CH₂Br, reflux MeCN; 2. H₂O]--> OHC–C(Et)(n-Bu)(CH₂CH=CH₂)`
 
-생성물인 2-allyl-2-ethylhexanal(2-ethyl-2-(prop-2-en-1-yl)hexanal)에서는 α-탄소가 4차 quaternary carbon가 된다. 즉 enamine을 쓰면 가지 달린 aldehyde에도 치환기를 하나 더 넣을 수 있다.
+생성물인 2-allyl-2-ethylhexanal(2-ethyl-2-(prop-2-en-1-yl)hexanal)에서는 α-탄소가 4차 quaternary carbon이 된다. 즉 enamine을 쓰면 가지 달린 aldehyde에도 치환기를 하나 더 넣을 수 있다.
 
 (출처: L10 p.12)
 
@@ -265,7 +265,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 먼저 proline의 2차 amine이 ketone R¹–CO–CH₂R²를 공격해 carbinolamine **I**을 만든다. **I**에서 물이 빠지면 carboxylate와 짝을 이룬 iminium 이온 **II**가 되고, α-H를 잃으면 enamine **III**이 된다. 여기까지가 앞에서 본 enamine 형성과 같은 과정이다.
 
-이제 핵심 단계다. enamine **III**에 RCHO가 다가오면 transition state **IV**에서 proline의 carboxylic acid H가 aldehyde 산소와 수소결합을 한다. 그래서 aldehyde는 활성화되는 동시에 특정 방향으로 붙잡힌다. 이 상태에서 enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격해 새 C–C 결합과 입체중심이 생긴다. 즉 carboxylic acid은 electrophile를 활성화하면서 입체화학을 정하는 "손잡이" 역할을 한다.
+이제 핵심 단계다. enamine **III**에 RCHO가 다가오면 transition state **IV**에서 proline의 carboxylic acid H가 aldehyde 산소와 수소결합을 한다. 그래서 aldehyde는 활성화되는 동시에 특정 방향으로 붙잡힌다. 이 상태에서 enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격해 새 C–C 결합과 입체중심이 생긴다. 즉 carboxylic acid은 electrophile을 활성화하면서 입체화학을 정하는 "손잡이" 역할을 한다.
 
 공격 뒤에는 β-hydroxy iminium **V**가 생기고, 물이 더해져 carbinolamine **VI**이 된다. **VI**이 aldol 생성물 R–CH(OH)–CH(R²)–CO–R¹을 내놓으면 proline이 재생되어 다음 순환을 시작한다. 물은 I → II에서 빠졌다가 V → VI에서 다시 들어가므로 전체적으로는 소모되지 않는다. 슬라이드는 List 등이 처음 제안한 transition state **VII**도 함께 보여 준다.[17]
 
@@ -273,14 +273,14 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 ### 정리
 
-슬라이드의 요약은 네 줄이다. keto와 enol은 호변이성체이고, 1,3-dicarbonyl 화합물은 안정한 enol을 만들며, enol은 halogenation 반응을 하고, enamine은 alkylation와 aldol형 반응의 nucleophile다.
+슬라이드의 요약은 네 줄이다. keto와 enol은 호변이성체이고, 1,3-dicarbonyl 화합물은 안정한 enol을 만들며, enol은 halogenation 반응을 하고, enamine은 alkylation과 aldol형 반응의 nucleophile다.
 
 (출처: L10 p.15. p.16은 빈 슬라이드)
 
 ## 흔한 오해
 
 - keto형과 enol형을 공명 구조라고 생각하기 쉽지만 사실은 H의 위치가 다른 별개의 화합물(호변이성체)이다. 둘 사이는 평형(⇌)이고, 공명(↔)은 enolate의 두 구조처럼 전자만 움직인 경우다.
-- enol이 1 %도 없으니 반응에 중요하지 않다고 생각하기 쉽지만 사실은 산 조건 aldol과 halogenation의 실제 nucleophile가 바로 그 소량의 enol이다.
+- enol이 1 %도 없으니 반응에 중요하지 않다고 생각하기 쉽지만 사실은 산 조건 aldol과 halogenation의 실제 nucleophile이 바로 그 소량의 enol이다.
 - 1,3-dicarbonyl이면 무조건 enol이 많다고 생각하기 쉽지만 사실은 β-ketoester(K = 0.047–0.26)나 α-alkyl 치환 diketone(K = 0.29–0.83)은 keto형이 우세하다.
 - 산 촉매 aldol이 β-hydroxy carbonyl에서 멈춘다고 생각하기 쉽지만 사실은 E1 탈수가 쉽게 일어나 enone까지 간다.
 - 산 조건 halogenation도 염기 조건처럼 여러 번 halogenate된다고 생각하기 쉽지만 사실은 산 조건에서는 대개 모노할로젠화에서 멈춘다.[9]
@@ -309,7 +309,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 ## 연습 문제
 
-1. cyclopentanone을 산 촉매 조건에 두었을 때의 최종 생성물을 쓰고, (a) enolization, (b) aldol addition, (c) 탈수 단계의 nucleophile·electrophile와 intermediate를 설명하라. 탈수는 E1과 E1cB 중 어느 경로인가?
+1. cyclopentanone을 산 촉매 조건에 두었을 때의 최종 생성물을 쓰고, (a) enolization, (b) aldol addition, (c) 탈수 단계의 nucleophile·electrophile과 intermediate를 설명하라. 탈수는 E1과 E1cB 중 어느 경로인가?
 
 2. 다음 화합물을 평형 enol 함량이 작은 것부터 큰 것 순으로 나열하라: acetone, cyclohexanone, methyl acetoacetate(CH₃COCH₂CO₂Me), pentane-2,4-dione, CH₃COCH₂COCF₃.
 
@@ -331,7 +331,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 1. 최종 생성물은 2-cyclopentylidenecyclopentan-1-one이다.
    (a) H⁺가 carbonyl O를 protonate하고, α-C–H가 끊기며 enol(cyclopent-1-en-1-ol)이 생긴다.
-   (b) nucleophile는 enol의 C=C(α-탄소, 산소 비공유 전자쌍이 밀어줌), electrophile는 protonate된 cyclopentanone의 carbonyl 탄소다. protonate된 ketone intermediate가 H⁺를 잃으면 aldol 2-(1-hydroxycyclopentyl)cyclopentan-1-one이 된다.
+   (b) nucleophile은 enol의 C=C(α-탄소, 산소 비공유 전자쌍이 밀어줌), electrophile은 protonate된 cyclopentanone의 carbonyl 탄소다. protonate된 ketone intermediate가 H⁺를 잃으면 aldol 2-(1-hydroxycyclopentyl)cyclopentan-1-one이 된다.
    (c) 3차 OH가 protonate되고 H₂O가 떨어져 3차 carbocation이 생긴 뒤, 이웃 α-H가 빠져 C=O와 공액된 C=C가 생긴다. 슬라이드에 명시된 대로 **E1**이다.
    (출처: L10 p.3)
 
@@ -348,7 +348,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
    참고: 같은 ketone을 Br₂/HOAc로 처리하면 주로 더 치환된 enol을 거쳐 3-bromobutane-2-one이 많이 생긴다.[11]
    (출처: L10 p.9, p.10)
 
-5. 생성물은 2-bromo-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl group이 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enolization를 돕는다.
+5. 생성물은 2-bromo-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl group이 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enolization을 돕는다.
    (출처: L10 p.9)
 
 6. (1) 1-(cyclohex-1-en-1-yl)pyrrolidine(enamine), (2) 2-allylcyclohexanone의 iminium bromide, (3) 2-allylcyclohexanone(2-(prop-2-en-1-yl)cyclohexan-1-one) + pyrrolidine.
@@ -361,8 +361,8 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
    (출처: L10 p.12)
 
 8. (a) 생성물 34f는 CH₃COCH₂CH(OH)CH(CH₃)₂ (4-hydroxy-5-methyl헥산-2-one)이며, 97 % 수율, 96 % ee다. 34a 등과 같은 방향의 쐐기로 그려져 있다.
-   (b) proline N이 acetone carbonyl을 공격해 carbinolamine(I)이 되고, 물이 빠져 iminium(II), α-deprotonation로 enamine(III)이 된다. enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격하는 단계(transition state IV)에서 C–C 결합이 생기고, iminium(V) → 물 첨가(VI) → 생성물 방출과 proline 재생이 이어진다.
-   carboxylic acid은 transition state에서 aldehyde 산소에 수소결합(양성자 공여)해 electrophile를 활성화하고, aldehyde가 enamine의 한쪽 면으로 접근하도록 배향해 거울상 선택성을 만든다.
+   (b) proline N이 acetone carbonyl을 공격해 carbinolamine(I)이 되고, 물이 빠져 iminium(II), α-deprotonation으로 enamine(III)이 된다. enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격하는 단계(transition state IV)에서 C–C 결합이 생기고, iminium(V) → 물 첨가(VI) → 생성물 방출과 proline 재생이 이어진다.
+   carboxylic acid은 transition state에서 aldehyde 산소에 수소결합(양성자 공여)해 electrophile을 활성화하고, aldehyde가 enamine의 한쪽 면으로 접근하도록 배향해 거울상 선택성을 만든다.
    (출처: L10 p.13, p.14)
 
 ## 각주
@@ -377,23 +377,23 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 [5] keto-enol 상호 전환이 NMR 시간 척도보다 느리기 때문에 두 호변이성체가 각각의 신호를 보이고, 적분비로 비율을 구할 수 있다. (보충 근거: Clayden p.458)
 
-[6] 교재에서는 ester C=O가 알콕시 산소와 이미 공명 안정화되어 있어 enolization로 얻는 공액 안정화 이득이 작다고 설명한다.
+[6] 교재에서는 ester C=O가 알콕시 산소와 이미 공명 안정화되어 있어 enolization으로 얻는 공액 안정화 이득이 작다고 설명한다.
 
 [7] p.6은 pentane-2,4-dione을 76 % enol(K ≈ 3.2)로, p.7 표의 화합물 1은 K = 5.5(약 85 % enol)로 제시한다. enol 함량은 용매·농도·온도에 크게 의존하므로 측정 조건이 다른 데이터로 보인다.
 
 [8] 아스코르브산은 carboxylic acid이 없는데도 산성(pKa 약 4.1)이다. 공액된 enol OH가 deprotonate되면 음전하가 C=O까지 비편재화되기 때문이다. (보충 근거: Clayden p.459)
 
-[9] 산 조건에서 모노할로젠화에서 멈추기 쉬운 것은, 도입된 할로젠의 전자끄는 효과가 carbonyl 산소의 염기성을 낮춰 두 번째 enolization의 protonation 단계를 느리게 하기 때문이다. 반대로 염기 조건에서는 할로젠이 α-H의 산성도를 높여 다중 halogenation가 일어나며, methylketone에서는 할로폼 반응으로 이어진다. 보충: 산 조건에서도 Br2를 1당량보다 더 넣으면 두 번째 bromination가 일어나는데, 이때는 Br이 있는 탄소보다 반대편 α-탄소가 반응해 1,3-dibromoacetone 같은 생성물이 된다. 그래서 "산 조건 = 모노할로젠화"는 할로젠을 1당량 쓸 때의 이야기다. (보충 근거: Clayden p.463)
+[9] 산 조건에서 모노할로젠화에서 멈추기 쉬운 것은, 도입된 할로젠의 전자끄는 효과가 carbonyl 산소의 염기성을 낮춰 두 번째 enolization의 protonation 단계를 느리게 하기 때문이다. 반대로 염기 조건에서는 할로젠이 α-H의 산성도를 높여 다중 halogenation이 일어나며, methylketone에서는 할로폼 반응으로 이어진다. 보충: 산 조건에서도 Br2를 1당량보다 더 넣으면 두 번째 bromination이 일어나는데, 이때는 Br이 있는 탄소보다 반대편 α-탄소가 반응해 1,3-dibromoacetone 같은 생성물이 된다. 그래서 "산 조건 = 모노할로젠화"는 할로젠을 1당량 쓸 때의 이야기다. (보충 근거: Clayden p.463)
 
-[10] 루이스산은 carbonyl 산소에 배위하여 브뢴스테드 산처럼 enolization를 촉진한다고 이해할 수 있다.
+[10] 루이스산은 carbonyl 산소에 배위하여 브뢴스테드 산처럼 enolization을 촉진한다고 이해할 수 있다.
 
-[11] 비대칭 ketone의 산 촉매 halogenation는 더 안정한(더 치환된) enol을 주로 거치므로 더 치환된 α-탄소가 주로 halogenate된다. LDA(저온, kinetic 조건) → TMSCl → Br₂ 경로는 반대로 덜 치환된 α-탄소를 halogenation한다. 두 방법을 고르면 원하는 쪽에 할로젠을 넣을 수 있다. 보충: 교과서의 설명은 transition state의 전하다. 산 조건의 enol 반응은 양전하를 띤 transition state를 거치므로 양전하를 안정화하는 alkyl group이 많은 쪽이 빠르고, 염기 조건의 enolate 반응은 음전하 transition state를 거치므로 덜 치환된 쪽(methyl)이 빠르다. (보충 근거: Clayden p.464)
+[11] 비대칭 ketone의 산 촉매 halogenation은 더 안정한(더 치환된) enol을 주로 거치므로 더 치환된 α-탄소가 주로 halogenate된다. LDA(저온, kinetic 조건) → TMSCl → Br₂ 경로는 반대로 덜 치환된 α-탄소를 halogenation한다. 두 방법을 고르면 원하는 쪽에 할로젠을 넣을 수 있다. 보충: 교과서의 설명은 transition state의 전하다. 산 조건의 enol 반응은 양전하를 띤 transition state를 거치므로 양전하를 안정화하는 alkyl group이 많은 쪽이 빠르고, 염기 조건의 enolate 반응은 음전하 transition state를 거치므로 덜 치환된 쪽(methyl)이 빠르다. (보충 근거: Clayden p.464)
 
 [12] enamine 형성 메커니즘(표준 교재): 2차 amine N이 carbonyl 탄소를 공격하고 양성자가 이동해 carbinolamine이 된다. OH가 protonate되어 H₂O로 떨어지면 iminium 이온이 되고, α-C–H가 deprotonate되어 enamine이 된다. 전 과정이 가역이므로 물을 제거하면 enamine 쪽으로 진행한다.
 
 [13] 슬라이드에 실제로 그려진 것은 "iminium ⇌ enamine"(양성자 이동에 의한 산-염기 평형)이다. 중성 "imine ⇌ enamine" 호변이성은 1차 amine 유래 화합물에 해당하므로 문구와 그림이 약간 어긋난다.
 
-[14] enamine alkylation에는 allyl·benzyl halide, α-halocarbonyl 화합물처럼 반응성이 큰 electrophile가 잘 맞는다. 보충: MeI 같은 단순 alkyl halide은 질소 쪽 alkylation가 상당히 경쟁해(4차 암모늄염이 생겨 가수분해 후 출발물로 돌아간다) 수율이 낮다. (보충 근거: Clayden p.592)
+[14] enamine alkylation에는 allyl·benzyl halide, α-halocarbonyl 화합물처럼 반응성이 큰 electrophile이 잘 맞는다. 보충: MeI 같은 단순 alkyl halide은 질소 쪽 alkylation이 상당히 경쟁해(4차 암모늄염이 생겨 가수분해 후 출발물로 돌아간다) 수율이 낮다. (보충 근거: Clayden p.592)
 
 [15] B. List, R. A. Lerner, C. F. Barbas III, "Proline-Catalyzed Direct Asymmetric Aldol Reactions", J. Am. Chem. Soc. 2000, 122, 2395–2396 (Scripps Research Institute).
 

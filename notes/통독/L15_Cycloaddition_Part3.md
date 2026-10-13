@@ -15,7 +15,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
 
 ## 개요
 
-cycloaddition 시리즈의 마지막 편이다. 앞 강의들에서 Diels–Alder 반응과 프런티어 분자 frontier molecular orbital, FMO, Woodward–Hoffmann 규칙을 익혔다면(→ [L13](L13_Cycloaddition_Part1.md)·[L14](L14_Cycloaddition_Part2.md) cycloaddition 1·2부 문서 참고), 이번 강의는 그 규칙의 "예외처럼 보이는 경우"와 "다른 고리 크기"로 시야를 넓힌다. 먼저 원래는 열적으로 금지되어야 할 [2+2] cycloaddition가 ketene과 isocyanate에서는 왜 버젓이 일어나는지 살펴보고, 그 결과물인 β-락탐(β-lactam)이 페니실린과 어떻게 연결되는지 본다. 이어서 1,3-쌍극자(1,3-dipole)가 만드는 5원자 헤테로고리, 그리고 사실은 1,3-쌍극 cycloaddition가 세 번 연달아 일어나는 반응인 ozone ozonolysis를 다룬다. 마지막으로 siloxydiene을 이용한 비대칭 합성과, 살아 있는 세포 안에서 cycloaddition를 일으키는 생체접합 bioconjugate chemistry으로 마무리한다.
+cycloaddition 시리즈의 마지막 편이다. 앞 강의들에서 Diels–Alder 반응과 프런티어 분자 frontier molecular orbital, FMO, Woodward–Hoffmann 규칙을 익혔다면(→ [L13](L13_Cycloaddition_Part1.md)·[L14](L14_Cycloaddition_Part2.md) cycloaddition 1·2부 문서 참고), 이번 강의는 그 규칙의 "예외처럼 보이는 경우"와 "다른 고리 크기"로 시야를 넓힌다. 먼저 원래는 열적으로 금지되어야 할 [2+2] cycloaddition이 ketene과 isocyanate에서는 왜 버젓이 일어나는지 살펴보고, 그 결과물인 β-락탐(β-lactam)이 페니실린과 어떻게 연결되는지 본다. 이어서 1,3-쌍극자(1,3-dipole)가 만드는 5원자 헤테로고리, 그리고 사실은 1,3-쌍극 cycloaddition이 세 번 연달아 일어나는 반응인 ozone ozonolysis를 다룬다. 마지막으로 siloxydiene을 이용한 비대칭 합성과, 살아 있는 세포 안에서 cycloaddition을 일으키는 생체접합 bioconjugate chemistry으로 마무리한다.
 
 ## 0. 워밍업: Diels–Alder 생성물은 어떻게 한 번에 맞히나? (Practice)
 
@@ -108,7 +108,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 1. 효소 활성부위의 친핵성 O⁻(세린)가 긴장된 β-락탐의 carbonyl 탄소를 공격해 tetrahedral intermediate를 만든다.
 2. C–N 결합이 끊어지며 4원 고리가 열리고, 떨어져 나가는 N은 근처의 B–H⁺에서 양성자를 받는다.
-3. 결과적으로 효소의 세린이 ester 형태로 acylate된 채 묶여 버린다. 이것이 공유결합 covalent inhibition다.
+3. 결과적으로 효소의 세린이 ester 형태로 acylate된 채 묶여 버린다. 이것이 공유결합 covalent inhibition이다.
 
 고리 긴장이 큰 4원 고리라서 보통의 amide보다 훨씬 쉽게 열린다는 점이 이 메커니즘의 핵심이다.
 
@@ -131,7 +131,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 보충: 두 방법 모두 N에 치환기가 붙어 있는데, 그 이유는 서로 다르다. ketene + imine에서 N-아릴(4-methoxyphenyl)을 쓰는 것은 N-아릴 imine이 N-H imine보다 안정해서 다루기 쉽기 때문이다. isocyanate + alkene에서 N-SO2Cl을 쓰는 것은 alkene이 그다지 친핵적이지 않으므로 isocyanate를 강한 전자 끄는 기로 활성화해야 하고, 그 기를 반응 뒤 쉽게 떼어 낼 수 있어야 하기 때문이다. CSI는 시판되고 단순 alkene과도 반응한다. 다만 enol ether나 바이닐 sulfide처럼 아주 전자가 풍부한 alkene과는 반응이 협동적이지 않고 자유 회전이 가능한 intermediate를 거치는 단계적 반응으로 바뀌어, alkene의 E/Z 혼합물에서도 trans 생성물만 나온다. 즉 이때는 입체특이적이 아니라 입체선택적이다. (보충 근거: Clayden p.900–901)
 
-![페녹시케텐과 imine의 [2+2] cycloaddition로 β-락탐이 생기는 과정](../../figures/L15/staudinger_beta_lactam.svg)
+![페녹시케텐과 imine의 [2+2] cycloaddition으로 β-락탐이 생기는 과정](../../figures/L15/staudinger_beta_lactam.svg)
 
 *그림: 파란 N은 imine의 친핵성 질소, 빨간색은 ketene의 C=O(친전자성 carbonyl 탄소)다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 아래쪽 화살표는 N의 비공유 전자쌍이 ketene carbonyl 탄소를 공격해 N–C(=O) 결합을 만드는 것을, 위쪽 화살표는 ketene의 C=C 전자가 imine 탄소와 결합하는 것을 나타낸다. 초록 결합이 새로 생긴 두 σ 결합이다. 그림에서는 imine 탄소의 치환기(슬라이드의 O–CH2–다이옥솔레인 곁사슬)를 OR로, 4-methoxyphenyl을 Ar로 줄였고, 생성물의 PhO(점선 쐐기)와 OR(쐐기)는 슬라이드처럼 trans로 그렸다.*
 
@@ -158,7 +158,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 (*: 이 강의에서 본격적으로 다루는 것. 슬라이드에서 박스 표시)
 
-니트론을 예로 들어 보자. 니트론은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR–O⁻ 두 공명 구조를 오간다. 원자 번호를 O(1), N(2), C(3)로 매기면, N(2)은 이미 4개의 결합을 가진 cation이라 nucleophile가 들어갈 자리가 없지만, C(3)는 두 번째 공명 구조에서 양전하를 띠므로 nucleophile 공격을 받을 수 있다. 반대로 O(1)는 음전하를 가진 친핵성 말단이다.
+니트론을 예로 들어 보자. 니트론은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR–O⁻ 두 공명 구조를 오간다. 원자 번호를 O(1), N(2), C(3)로 매기면, N(2)은 이미 4개의 결합을 가진 cation이라 nucleophile이 들어갈 자리가 없지만, C(3)는 두 번째 공명 구조에서 양전하를 띠므로 nucleophile 공격을 받을 수 있다. 반대로 O(1)는 음전하를 가진 친핵성 말단이다.
 
 슬라이드는 "각 화합물의 공액 π계 전자수를 세어 보라"고 묻는다. 답은 모두 4개다. 즉 1,3-쌍극자는 세 원자에 4개의 π 전자가 퍼진, allyl anion과 등전자적인 계다.[5]
 
@@ -170,7 +170,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 1,3-쌍극자 a–b–c(4π)와 dipolarophile d=e(2π)가 만나면 5원자 고리 생성물(cycloadduct)이 생긴다. 이름은 [3+2]지만 전자수로는 4 + 2 = 6, 즉 4n+2이므로 Diels–Alder와 똑같이 열적 supra-supra 경로가 허용된다. 쌍극자가 삼중결합형(a≡b–c)이면 생성물 고리 안에 a=b 이중결합이 하나 남는다.
 
-보충: diene과 1,3-쌍극자의 결정적인 차이는 반응 상대의 폭이다. diene은 친핵성이라 주로 자기 HOMO를 쓰므로 전자 부족 dienophile가 있어야 잘 반응한다. 반면 1,3-쌍극자는 이름 그대로 친핵성 끝과 친전자성 끝을 다 가져서, 상대가 전자 풍부하면 LUMO를, 전자 부족하면 HOMO를 쓴다. 그래서 DA에서는 나쁜 dienophile인 단순 alkene도 좋은 쌍극친화체가 된다. 또 DA의 diene은 s-cis여야 했지만, 니트릴 oxide·azide처럼 직선형인 쌍극자도 cycloaddition를 잘 한다. (보충 근거: Clayden p.901–902)
+보충: diene과 1,3-쌍극자의 결정적인 차이는 반응 상대의 폭이다. diene은 친핵성이라 주로 자기 HOMO를 쓰므로 전자 부족 dienophile이 있어야 잘 반응한다. 반면 1,3-쌍극자는 이름 그대로 친핵성 끝과 친전자성 끝을 다 가져서, 상대가 전자 풍부하면 LUMO를, 전자 부족하면 HOMO를 쓴다. 그래서 DA에서는 나쁜 dienophile인 단순 alkene도 좋은 쌍극친화체가 된다. 또 DA의 diene은 s-cis여야 했지만, 니트릴 oxide·azide처럼 직선형인 쌍극자도 cycloaddition을 잘 한다. (보충 근거: Clayden p.901–902)
 
 (출처: L15 p.14)
 
@@ -184,7 +184,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 반대로 상대가 전자 부족 alkene(R-CO-CH=CH2, EWG)이면 역할이 뒤바뀐다. 이번에는 니트론이 HOMO, alkene이 LUMO를 쓴다. 니트론의 친핵성 O⁻가 짝지은 첨가처럼 alkene의 친전자성 β-탄소(말단 CH2)를 공격하고, 니트론 탄소는 α-탄소와 결합한다. 그래서 COR이 C4에 있는 4-acyl isoxazolidine이 생긴다.[6]
 
-![니트론과 전자 풍부 alkene의 1,3-쌍극 cycloaddition로 5-치환 isoxazolidine이 생기는 과정](../../figures/L15/nitrone_cycloaddition.svg)
+![니트론과 전자 풍부 alkene의 1,3-쌍극 cycloaddition으로 5-치환 isoxazolidine이 생기는 과정](../../figures/L15/nitrone_cycloaddition.svg)
 
 *그림: 전자 풍부 alkene(파랑, HOMO)과 니트론(빨간 C=N, LUMO)의 경우다. 세 화살표는 모두 같은 방향(시계 방향)으로 돈다. (1) 니트론 O⁻의 비공유 전자쌍(파랑)이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene의 π 전자가 말단 CH2에서 니트론의 친전자성 탄소와 결합하며, (3) C=N의 π 전자가 N⁺로 돌아가 N이 중성이 된다. 초록 결합이 새로 생긴 C–O와 C–C 결합이므로 R은 O 옆 탄소(C5)에 놓인다. 전자 부족 alkene에서는 역할이 바뀌어 4-치환 생성물이 된다(본문 참고).*
 
@@ -196,7 +196,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 입체화학은 어떨까? Diels–Alder에서는 2차 궤도 상호작용 때문에 endo가 이겼지만, 니트론 cycloaddition에서는 입체 장애가 가장 작은 exo 전이상태가 선호된다. 보충: 왜 endo 규칙이 없을까? endo를 끌어당기던 것은 dienophile의 짝지음 기가 diene "뒤쪽"과 겹치는 2차 상호작용이었는데, 니트론과 단순 alkene에는 쌍극자나 쌍극친화체 뒤쪽에서 겹칠 짝지음 기가 없다. 그래서 입체 장애만 남고, 생성물도 더 안정한 exo가 된다. (보충 근거: Clayden p.902)
 
-고리형 니트론(1-pyrrole린 N-oxide)과 R-CH=CH2를 반응시키면 R이 O 옆 탄소에 exo로 놓인 이환 isoxazolidine이 생긴다. 이것을 Zn/HOAc로 처리하면 약한 N–O 결합이 환원적으로 끊어져, 2-치환 pyrrolidine에 CH2-CH(OH)R가 붙은 1,3-amino alcohol이 된다. 분자 내 버전도 가능하다. 2-allyl-1-pyrrole린 N-oxide는 분자 내 1,3-쌍극 cycloaddition로 bridged 삼환 isoxazolidine을 만들고, Zn/HOAc로 N–H와 OH를 가진 이환 amino alcohol이 된다. 즉 니트론 cycloaddition는 "1,3-amino alcohol을 입체선택적으로 만드는 도구"로 쓰인다. 보충: 1,3-쌍극 cycloaddition의 가치는 헤테로고리 그 자체보다 그다음 변환에 있다. cycloaddition에서 만든 C–C와 C–O 결합은 남기고, 원래 쌍극자에 있던 약한 N–O 결합만 LiAlH4, Zn/HOAc, H2/Ni 같은 환원제로 끊으면 나머지 골격과 입체화학은 그대로 NH와 OH가 1,3 관계로 드러난다. (보충 근거: Clayden p.902)
+고리형 니트론(1-pyrrole린 N-oxide)과 R-CH=CH2를 반응시키면 R이 O 옆 탄소에 exo로 놓인 이환 isoxazolidine이 생긴다. 이것을 Zn/HOAc로 처리하면 약한 N–O 결합이 환원적으로 끊어져, 2-치환 pyrrolidine에 CH2-CH(OH)R가 붙은 1,3-amino alcohol이 된다. 분자 내 버전도 가능하다. 2-allyl-1-pyrrole린 N-oxide는 분자 내 1,3-쌍극 cycloaddition으로 bridged 삼환 isoxazolidine을 만들고, Zn/HOAc로 N–H와 OH를 가진 이환 amino alcohol이 된다. 즉 니트론 cycloaddition은 "1,3-amino alcohol을 입체선택적으로 만드는 도구"로 쓰인다. 보충: 1,3-쌍극 cycloaddition의 가치는 헤테로고리 그 자체보다 그다음 변환에 있다. cycloaddition에서 만든 C–C와 C–O 결합은 남기고, 원래 쌍극자에 있던 약한 N–O 결합만 LiAlH4, Zn/HOAc, H2/Ni 같은 환원제로 끊으면 나머지 골격과 입체화학은 그대로 NH와 OH가 1,3 관계로 드러난다. (보충 근거: Clayden p.902)
 
 니트론 자체는 간단히 만든다. aldehyde RCHO와 N-치환 hydroxylamine RNHOH를 축합시키면(imine 형성과 같은 원리, -H2O) R-CH=N⁺(R)-OH가 되고, 양성자가 빠지면 니트론 R-CH=N⁺(R)-O⁻가 된다(→ imine 형성 메커니즘 문서 참고).
 
@@ -232,9 +232,9 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 슬라이드 p.18은 생성물 칸을 비워 둔 퀴즈이고, p.19가 정답이다. 협동적 supra-supra 반응이므로 alkene의 기하는 그대로 보존된다. 그래서 R'-C≡N⁺-O⁻가 (Z)-RCH=CHR와 만나면 4,5-cis-이치환 isoxazoline(4,5-dihydroisoxazole, C3에 R')이, (E)-RCH=CHR와 만나면 4,5-trans-이치환 isoxazoline이 생긴다. alkyne과 만나면 이야기가 조금 달라지는데, 고리에 이중결합이 두 개가 되어 방향족 isoxazole이 된다. 말단 alkyne HC≡C-R에서는 치환된 탄소가 O와 결합하므로 R이 C5(O 옆)에 오는 3,5-이치환 isoxazole이 생긴다.
 
-보충: 이 regioselectivity은 니트론과 같은 논리다. 니트릴 oxide cycloaddition를 주도하는 것은 alkene(또는 alkyne)의 HOMO와 니트릴 oxide의 LUMO다. 친핵성인 말단 CH2(CH) 탄소가 니트릴 oxide의 친전자성 탄소와 결합하므로, 남은 치환된 탄소가 O와 결합해 R이 C5에 놓인다. isoxazole이 특히 안정한 것은 고리의 C=C, C=N π 전자 4개에 O의 비공유 전자쌍 2개가 더해진 6π 방향족 고리이기 때문이다. (보충 근거: Clayden p.903)
+보충: 이 regioselectivity은 니트론과 같은 논리다. 니트릴 oxide cycloaddition을 주도하는 것은 alkene(또는 alkyne)의 HOMO와 니트릴 oxide의 LUMO다. 친핵성인 말단 CH2(CH) 탄소가 니트릴 oxide의 친전자성 탄소와 결합하므로, 남은 치환된 탄소가 O와 결합해 R이 C5에 놓인다. isoxazole이 특히 안정한 것은 고리의 C=C, C=N π 전자 4개에 O의 비공유 전자쌍 2개가 더해진 6π 방향족 고리이기 때문이다. (보충 근거: Clayden p.903)
 
-![니트릴 oxide와 (Z)-alkene의 1,3-쌍극 cycloaddition로 cis-isoxazoline이 생기는 과정](../../figures/L15/nitrile_oxide_cycloaddition.svg)
+![니트릴 oxide와 (Z)-alkene의 1,3-쌍극 cycloaddition으로 cis-isoxazoline이 생기는 과정](../../figures/L15/nitrile_oxide_cycloaddition.svg)
 
 *그림: 니트릴 oxide와 (Z)-alkene의 협동적 [3+2]. 빨간 C≡N⁺이 LUMO 쪽(친전자성 탄소), 파란 C=C와 O⁻가 전자를 주는 쪽이다. 세 화살표는 모두 같은 방향(시계 방향)으로 돈다. (1) O⁻의 비공유 전자쌍이 alkene 오른쪽 탄소와 결합하고, (2) alkene의 π 전자가 니트릴 oxide의 탄소와 결합하며, (3) C≡N의 π 결합 하나가 N⁺로 돌아가 N이 중성이 된다. 초록 결합이 새로 생긴 C–C와 C–O 결합이고, 고리 안에는 C=N이 하나 남는다. alkene에서 같은 쪽에 있던 두 R은 생성물에서도 같은 쪽(둘 다 쐐기)이므로 4,5-cis isoxazoline이 된다.*
 
@@ -266,7 +266,7 @@ ozone은 C=C를 완전히 끊어 carbonyl 화합물로 만든다. 그런데 같�
 
 > 개념 문서: [ozone](../../wiki/시약/오존.md)
 
-강의는 여기서 잠시 ozone층 이야기를 한다. 성층권에서는 O2가 자외선에 광분해되어 O 원자가 생기고(느림), O + O2 → O3가 된다. O3는 자외선을 흡수해 다시 O2 + O로 쪼개지고 재결합하기를 빠르게 반복하며 자외선을 열로 바꾼다. O3가 없어지는 것은 O 원자와의 반응이나 염소 같은 미량 기체에 의해서다(느림). 그런데 여러 자유 radical이 ozone을 파괴하면서 ozone 구멍이 생겼고, 지표에 도달하는 자외선이 늘어 건강 문제가 걱정거리가 되었다. 1987년 몬트리올 Montreal Protocol는 CFC(염화불화탄소) 같은 ozone 파괴 물질을 단계적으로 퇴출하기 위해 만들어졌다.
+강의는 여기서 잠시 ozone층 이야기를 한다. 성층권에서는 O2가 자외선에 광분해되어 O 원자가 생기고(느림), O + O2 → O3가 된다. O3는 자외선을 흡수해 다시 O2 + O로 쪼개지고 재결합하기를 빠르게 반복하며 자외선을 열로 바꾼다. O3가 없어지는 것은 O 원자와의 반응이나 염소 같은 미량 기체에 의해서다(느림). 그런데 여러 자유 radical이 ozone을 파괴하면서 ozone 구멍이 생겼고, 지표에 도달하는 자외선이 늘어 건강 문제가 걱정거리가 되었다. 1987년 몬트리올 Montreal Protocol은 CFC(염화불화탄소) 같은 ozone 파괴 물질을 단계적으로 퇴출하기 위해 만들어졌다.
 
 (출처: L15 p.22)
 
@@ -282,21 +282,21 @@ ozone은 C=C를 완전히 끊어 carbonyl 화합물로 만든다. 그런데 같�
 4. 다시 1,3-쌍극 cycloaddition: carbonyl oxide가 aldehyde의 C=O와 반응해 1,2,4-trioxolane(2차 ozonide, 슬라이드 명칭 "trioxolane")을 만든다.
 5. 환원 후처리: Me2S의 황이 O–O 결합의 산소를 공격하면 고리가 무너지며 DMSO(Me2S⁺–O⁻)와 RCHO 두 분자가 생긴다.
 
-즉 정방향 → 역방향 → 정방향의 cycloaddition가 차례로 일어나는 셈이다.
+즉 정방향 → 역방향 → 정방향의 cycloaddition이 차례로 일어나는 셈이다.
 
-보충: 각 단계의 "왜?"는 결합 세기로 설명된다. O–O 단일 결합(약 140 kJ/mol)은 앞에서 "약하다"고 했던 N–O 결합(약 180 kJ/mol)보다도 훨씬 약하고, 1차 ozonide에는 이런 O–O 결합이 두 개나 있다. 그래서 만들어지자마자 역 cycloaddition로 쪼개진다. carbonyl oxide는 왔던 방향 그대로 다시 붙을 수도 있지만, 친핵성 O⁻가 aldehyde의 친전자성 carbonyl 탄소를 공격하는 배향을 훨씬 선호하므로 aldehyde가 180° 돌아 1,2,4-trioxolane이 된다. 이 ozonide도 폭발성이라 분리하지 않고 Me2S나 Ph3P로 바로 분해한다. (보충 근거: Clayden p.906–907)
+보충: 각 단계의 "왜?"는 결합 세기로 설명된다. O–O 단일 결합(약 140 kJ/mol)은 앞에서 "약하다"고 했던 N–O 결합(약 180 kJ/mol)보다도 훨씬 약하고, 1차 ozonide에는 이런 O–O 결합이 두 개나 있다. 그래서 만들어지자마자 역 cycloaddition으로 쪼개진다. carbonyl oxide는 왔던 방향 그대로 다시 붙을 수도 있지만, 친핵성 O⁻가 aldehyde의 친전자성 carbonyl 탄소를 공격하는 배향을 훨씬 선호하므로 aldehyde가 180° 돌아 1,2,4-trioxolane이 된다. 이 ozonide도 폭발성이라 분리하지 않고 Me2S나 Ph3P로 바로 분해한다. (보충 근거: Clayden p.906–907)
 
-![ozone과 alkene의 1,3-쌍극 cycloaddition로 1차 ozonide가 생기는 과정](../../figures/L15/ozonolysis_step1.svg)
+![ozone과 alkene의 1,3-쌍극 cycloaddition으로 1차 ozonide가 생기는 과정](../../figures/L15/ozonolysis_step1.svg)
 
 *그림: 1단계. 파란 O⁻(ozone의 친핵성 말단)와 파란 C=C, 빨간 말단 O와 O=O 결합(친전자성 말단)이다. 세 화살표는 같은 방향(반시계 방향)으로 돈다. (1) O⁻의 전자쌍이 alkene 왼쪽 탄소와 결합하고, (2) alkene의 π 전자가 오른쪽 말단 O와 결합하며, (3) O=O의 π 전자가 가운데 O⁺로 가서 중성이 된다. 초록 결합이 새로 생긴 두 C–O 결합이고, 결과는 O–O–O가 이어진 1차 ozonide다.*
 
-![1차 ozonide가 역 1,3-쌍극 cycloaddition로 aldehyde와 carbonyl oxide로 쪼개지는 과정](../../figures/L15/ozonolysis_retro.svg)
+![1차 ozonide가 역 1,3-쌍극 cycloaddition으로 aldehyde와 carbonyl oxide로 쪼개지는 과정](../../figures/L15/ozonolysis_retro.svg)
 
 *그림: 2단계. 빨간 O–O와 C–C가 끊어지는 결합이다. 세 화살표는 같은 방향(시계 방향)으로 돈다. (1) 약한 O–O 결합 전자가 가운데 O로 가서 O⁻가 되고, (2) C–C 결합 전자가 왼쪽 C=O를 만들어 aldehyde가 되며, (3) 오른쪽 고리 O의 비공유 전자쌍(파랑)이 C=O⁺를 만들어 carbonyl oxide가 된다. 초록 결합이 새로 생긴 두 C=O다. 이어서 aldehyde가 180° 돌아 carbonyl oxide와 다시 [3+2]를 하면 trioxolane이 된다.*
 
-![180° 돌아 정렬한 aldehyde와 carbonyl oxide가 1,3-쌍극 cycloaddition로 1,2,4-trioxolane을 만드는 과정](../../figures/L15/ozonolysis_recombination.svg)
+![180° 돌아 정렬한 aldehyde와 carbonyl oxide가 1,3-쌍극 cycloaddition으로 1,2,4-trioxolane을 만드는 과정](../../figures/L15/ozonolysis_recombination.svg)
 
-*그림: 3단계. 180° 돌아 반대 방향으로 정렬한 aldehyde(빨간 C=O)와 carbonyl oxide(파란 O⁻)의 1,3-쌍극 cycloaddition다. 세 화살표는 같은 방향(반시계 방향)으로 돈다. (1) O⁻의 전자쌍이 aldehyde의 친전자성 carbonyl 탄소와 결합하고, (2) aldehyde C=O의 π 전자가 carbonyl oxide의 탄소와 결합하며, (3) C=O⁺의 π 전자가 O⁺로 돌아가 중성이 된다. 초록 결합이 새로 생긴 두 C–O 결합이고, 결과는 O–O 결합이 하나뿐인 1,2,4-trioxolane(2차 ozonide)이다.*
+*그림: 3단계. 180° 돌아 반대 방향으로 정렬한 aldehyde(빨간 C=O)와 carbonyl oxide(파란 O⁻)의 1,3-쌍극 cycloaddition이다. 세 화살표는 같은 방향(반시계 방향)으로 돈다. (1) O⁻의 전자쌍이 aldehyde의 친전자성 carbonyl 탄소와 결합하고, (2) aldehyde C=O의 π 전자가 carbonyl oxide의 탄소와 결합하며, (3) C=O⁺의 π 전자가 O⁺로 돌아가 중성이 된다. 초록 결합이 새로 생긴 두 C–O 결합이고, 결과는 O–O 결합이 하나뿐인 1,2,4-trioxolane(2차 ozonide)이다.*
 
 (출처: L15 p.23)
 
@@ -310,7 +310,7 @@ trioxolane처럼 O–O 결합을 가진 과산화물은 폭발성일 수 있으�
 
 ## cycloaddition 반응 중간 정리
 
-여기까지 본 cycloaddition를 한데 모으면 [4+2] (Diels–Alder), [6+4] (triene + diene), [4+3] (allyl cation), 광화학 [2+2], 열적 [2+2], [3+2] (1,3-쌍극 cycloaddition)가 있다. 반응이 가능한지는 FMO의 대칭(Woodward–Hoffmann 규칙)이 정하고, regioselectivity은 FMO 계수가 가장 큰 원자끼리 결합한다는 원리로 정해진다. 열적 반응에서는 HOMO–LUMO가, 광화학 반응에서는 슬라이드 표현으로 "LUMO–LUMO"가 기준인데, 이는 빛을 받아 전자 하나가 들어간 원래 LUMO와 바닥상태 상대의 LUMO의 상호작용을 뜻한다. stereoselectivity은 [4+2]에서 2차 궤도 상호작용에 의한 endo 선호, stereospecificity은 각 반응물 내 기하 보존이다.
+여기까지 본 cycloaddition을 한데 모으면 [4+2] (Diels–Alder), [6+4] (triene + diene), [4+3] (allyl cation), 광화학 [2+2], 열적 [2+2], [3+2] (1,3-쌍극 cycloaddition)가 있다. 반응이 가능한지는 FMO의 대칭(Woodward–Hoffmann 규칙)이 정하고, regioselectivity은 FMO 계수가 가장 큰 원자끼리 결합한다는 원리로 정해진다. 열적 반응에서는 HOMO–LUMO가, 광화학 반응에서는 슬라이드 표현으로 "LUMO–LUMO"가 기준인데, 이는 빛을 받아 전자 하나가 들어간 원래 LUMO와 바닥상태 상대의 LUMO의 상호작용을 뜻한다. stereoselectivity은 [4+2]에서 2차 궤도 상호작용에 의한 endo 선호, stereospecificity은 각 반응물 내 기하 보존이다.
 
 (출처: L15 p.25)
 
@@ -335,7 +335,7 @@ C1의 OMe와 C3의 OSiR3가 같은 방향으로 regioselectivity을 밀어주므
 
 > 개념 문서: [비대칭 Diels–Alder reaction](../../wiki/반응/비대칭%20딜스-알더%20반응.md)
 
-Rawal형 aminosiloxydiene(TBSO, N(R1)CO2Me, 1)과 α,β-불포화 aldehyde(R2, R3, 2, 2.0 당량)를 키랄 Cr(III)-salen 촉매 3(5 mol%), 4Å MS, CH2Cl2 조건에서 반응시키면 고도로 작용기화된 cyclohexene 4가 위치·입체선택적으로 생긴다. 생성물에서 카바메이트 N과 CHO는 이웃 탄소(ortho 관계)에 놓이고, R2와 CHO를 가진 4차 탄소가 생긴다. 촉매 3은 키랄 trans-1,2-diaminocyclohexane 유래 salen–Cr(III) 착물(3a: X = BF4, 3b: X = SbF6)로, aldehyde carbonyl에 배위해 LUMO를 낮추는 동시에 키랄 환경으로 한쪽 면을 가린다.
+Rawal형 aminosiloxydiene(TBSO, N(R1)CO2Me, 1)과 α,β-unsaturated aldehyde(R2, R3, 2, 2.0 당량)를 키랄 Cr(III)-salen 촉매 3(5 mol%), 4Å MS, CH2Cl2 조건에서 반응시키면 고도로 작용기화된 cyclohexene 4가 위치·입체선택적으로 생긴다. 생성물에서 카바메이트 N과 CHO는 이웃 탄소(ortho 관계)에 놓이고, R2와 CHO를 가진 4차 탄소가 생긴다. 촉매 3은 키랄 trans-1,2-diaminocyclohexane 유래 salen–Cr(III) 착물(3a: X = BF4, 3b: X = SbF6)로, aldehyde carbonyl에 배위해 LUMO를 낮추는 동시에 키랄 환경으로 한쪽 면을 가린다.
 
 (출처: L15 p.27)
 
@@ -371,11 +371,11 @@ TADDOL의 두 OH 중 하나는 다른 OH와 분자 내 수소결합을 하고, �
 
 > 개념 문서: [pericyclic reaction](../../wiki/개념/페리고리%20반응.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md)
 
-### 18.1 세포 안에서 cycloaddition를 일으키려면?
+### 18.1 세포 안에서 cycloaddition을 일으키려면?
 
 > 개념 문서: [click reaction](../../wiki/반응/클릭%20반응.md), [역전자 요구 Diels–Alder reaction](../../wiki/반응/역전자%20요구%20딜스-알더%20반응.md)
 
-cycloaddition를 살아 있는 세포 안에서 일으키려면 무엇이 필요할까? 슬라이드는 네 가지 조건을 든다. 선택성(세포 속 수많은 작용기와는 반응하지 않을 것), 반응속도(낮은 농도에서도 빠를 것), 화학적 안정성, 생체적합성이다.[12]
+cycloaddition을 살아 있는 세포 안에서 일으키려면 무엇이 필요할까? 슬라이드는 네 가지 조건을 든다. 선택성(세포 속 수많은 작용기와는 반응하지 않을 것), 반응속도(낮은 농도에서도 빠를 것), 화학적 안정성, 생체적합성이다.[12]
 
 첫 번째 답은 변형 촉진 azide–alkyne cycloaddition(strain-promoted azide–alkyne cycloaddition, SPAAC)다. azide(1,3-쌍극자)와 cyclooctyne이 [3+2]로 반응해 융합 1,2,3-triazole을 만든다. 8원 고리에 억지로 끼워 넣은 삼중결합의 긴장 덕분에, 세포에 독성이 있는 구리 촉매 없이도 반응이 진행된다.
 
@@ -401,7 +401,7 @@ cycloaddition를 살아 있는 세포 안에서 일으키려면 무엇이 필요
 
 ## 최종 정리: cycloaddition란 결국 무엇인가
 
-cycloaddition는 다양한 크기의 고리를 만드는 pericyclic 반응이다. 허용 여부는 FMO와 Woodward–Hoffmann 규칙이 정한다. 열적으로는 총 전자수 4n+2가 허용되고, 열적 [2+2] (suprafacial–antarafacial)는 특수한 경우다. 광화학적으로는 4n(예: [2+2])이 허용된다. 이 반응들은 입체특이적, 입체선택적, 위치선택적이며, Lewis 산이나 수소결합으로 촉매할 수 있고, 작용기화된 고리 구조 합성에서 생체접합까지 폭넓게 응용된다. 참고로 개요 슬라이드(p.2)에는 광화학 [2+2]가 첫 항목으로 올라 있지만, 이 강의 파일에는 그에 대한 별도 상세 슬라이드가 없고 규칙만 p.25와 p.32에 언급된다.
+cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다. 허용 여부는 FMO와 Woodward–Hoffmann 규칙이 정한다. 열적으로는 총 전자수 4n+2가 허용되고, 열적 [2+2] (suprafacial–antarafacial)는 특수한 경우다. 광화학적으로는 4n(예: [2+2])이 허용된다. 이 반응들은 입체특이적, 입체선택적, 위치선택적이며, Lewis 산이나 수소결합으로 촉매할 수 있고, 작용기화된 고리 구조 합성에서 생체접합까지 폭넓게 응용된다. 참고로 개요 슬라이드(p.2)에는 광화학 [2+2]가 첫 항목으로 올라 있지만, 이 강의 파일에는 그에 대한 별도 상세 슬라이드가 없고 규칙만 p.25와 p.32에 언급된다.
 
 (출처: L15 p.2, p.32)
 
@@ -414,7 +414,7 @@ cycloaddition는 다양한 크기의 고리를 만드는 pericyclic 반응이다
 - 단순 alkene은 DA에서 나쁜 dienophile이니 1,3-쌍극 cycloaddition에서도 나쁠 것이라고 생각하기 쉽지만, 사실은 1,3-쌍극자는 HOMO와 LUMO를 상황에 따라 바꿔 쓰므로 단순 alkene도 좋은 쌍극친화체다. (보충 근거: Clayden p.901)
 - CSI + 2-치환 alkene에서 N이 덜 치환된 탄소에 붙는다고 생각하기 쉽지만, 사실은 양전하를 더 잘 견디는 더 치환된 탄소가 N과 결합해 N 옆에 4차 탄소가 생긴다.
 - [3+2]이니 5전자 반응이라고 생각하기 쉽지만, 사실은 4π + 2π = 6전자이며 그래서 열적으로 허용된다.
-- cycloaddition는 다 endo를 선호한다고 생각하기 쉽지만, 사실은 니트론 cycloaddition는 입체 장애가 작은 exo를 선호한다. endo 규칙은 [4+2]의 이야기다.
+- cycloaddition은 다 endo를 선호한다고 생각하기 쉽지만, 사실은 니트론 cycloaddition은 입체 장애가 작은 exo를 선호한다. endo 규칙은 [4+2]의 이야기다.
 - 니트론은 항상 같은 방향으로 붙는다고 생각하기 쉽지만, 사실은 EDG alkene과는 5-치환, EWG alkene과는 4-치환 생성물을 준다(슬라이드 기준). 상대에 따라 HOMO/LUMO 역할이 바뀌기 때문이다.
 - isoxazole, isoxazoline, isoxazolidine을 같은 것으로 생각하기 쉽지만, 사실은 각각 방향족(니트릴 oxide + alkyne), 이중결합 하나(니트릴 oxide + alkene), 완전 포화(니트론 + alkene)로 다르다.
 - isoxazoline을 환원하면 항상 amino alcohol이 된다고 생각하기 쉽지만, 사실은 LiAlH4는 amino alcohol을, H2/Ni + H2O는 질소가 가수분해로 빠진 β-hydroxy ketone(aldol 생성물)을 준다. cis → syn, trans → anti다.
@@ -494,7 +494,7 @@ cycloaddition는 다양한 크기의 고리를 만드는 pericyclic 반응이다
 7. 정답: (a) 3-R'-4,5-cis-다이R-isoxazoline. (b) 3-R'-4,5-trans-다이R-isoxazoline. (c) 3-R'-5-R isoxazole(방향족, R이 O 옆 C5). (a)를 H2/Ni, H2O로 처리하면 N–O 수소화 분해 → β-hydroxy imine → 가수분해 → R'-CO-CH(R)-CH(OH)-R, syn-aldol 생성물.
    해설: 협동적 supra-supra [3+2]이므로 alkene 기하가 stereospecificity, cis 고리 관계가 syn aldol로 전달된다. trans였다면 anti aldol. (출처: L15 p.18–20)
 
-8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-쌍극 cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-쌍극 cycloaddition로 carbonyl + carbonyl oxide(1,3-쌍극자) → 재배향 후 1,3-쌍극 cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.
+8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-쌍극 cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-쌍극 cycloaddition으로 carbonyl + carbonyl oxide(1,3-쌍극자) → 재배향 후 1,3-쌍극 cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.
    해설: 노보넨의 C=C가 끊어지며 두 탄소가 모두 CHO가 되고, 남은 고리 골격(다리 CH2 포함)이 5원 고리가 된다. 원래 C=C 탄소들이 exo/endo 같은 면 관계를 유지하므로 cis. 노보넨처럼 같은 분자 안에서 두 carbonyl이 생기면 trioxolane도 분자 내에서 형성되지만 최종 결과는 같다. (출처: L15 p.21, 23)
 
 ## 각주

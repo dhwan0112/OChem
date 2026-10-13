@@ -13,7 +13,7 @@
 
 ## 개요
 
-aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 β-hydroxy carbonyl(β-hydroxy carbonyl) 화합물을 만드는 반응이다. 앞 강의에서 enolate를 alkyl halide과 만나게 했다면(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고), 이번에는 그 상대를 carbonyl 화합물로 바꾼 셈이다. 생성물을 탈수하면 α,β-불포화 carbonyl(α,β-unsaturated carbonyl) 화합물이 되므로, aldol 하나로 "C–C 결합 + 산소 작용기 + (필요하면) alkene"을 한꺼번에 얻을 수 있다. 에리트로마이신 같은 polyketide 천연물에 1,3-산소 패턴이 반복되는 것도 이 반응이 합성에서 중요한 이유다. 다만 아무 carbonyl 두 개를 염기와 섞으면 생성물이 뒤죽박죽이 되기 때문에, 강의의 절반은 "원하는 교차 aldol 생성물 하나만 얻는 법"에 할애된다.[1]
+aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 β-hydroxy carbonyl(β-hydroxy carbonyl) 화합물을 만드는 반응이다. 앞 강의에서 enolate를 alkyl halide과 만나게 했다면(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고), 이번에는 그 상대를 carbonyl 화합물로 바꾼 셈이다. 생성물을 탈수하면 α,β-unsaturated carbonyl(α,β-unsaturated carbonyl) 화합물이 되므로, aldol 하나로 "C–C 결합 + 산소 작용기 + (필요하면) alkene"을 한꺼번에 얻을 수 있다. 에리트로마이신 같은 polyketide 천연물에 1,3-산소 패턴이 반복되는 것도 이 반응이 합성에서 중요한 이유다. 다만 아무 carbonyl 두 개를 염기와 섞으면 생성물이 뒤죽박죽이 되기 때문에, 강의의 절반은 "원하는 교차 aldol 생성물 하나만 얻는 법"에 할애된다.[1]
 
 (출처: L8 p.1, p.2, p.7, p.34)
 
@@ -35,7 +35,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 HWE 메커니즘(예: (EtO)2P(O)CH2CO2Et + PhCHO)은 다음과 같다.
 
 1. EtO⁻가 P와 C=O 사이의 산성 CH2 양성자를 떼어 enolate를 만든다.
-2. enolate의 α-탄소(nucleophile)가 PhCHO의 carbonyl electrophile를 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol 첨가와 같은 형태다.
+2. enolate의 α-탄소(nucleophile)가 PhCHO의 carbonyl electrophile을 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol 첨가와 같은 형태다.
 3. alkoxide O⁻가 인을 공격해 4원 고리 intermediate(oxaphosphetane형)를 만든다.
 4. C–P, O–P 결합이 재배열되며 (EtO)2PO2⁻가 떨어지고 C=C가 생겨 (E)-EtO2C–CH=CH–Ph가 된다.
 
@@ -76,7 +76,7 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 어떻게 같은 acetaldehyde가 공격하는 쪽과 공격당하는 쪽을 동시에 맡을 수 있을까? 답은 염기가 일부 분자만 enolate로 바꾸기 때문이다.
 
 1. enolate 형성. 수산화 이온이 한 acetaldehyde의 α-탄소 H를 떼어 낸다. 생긴 anion은 CH2=CH–O⁻ ↔ ⁻CH2–CHO로 공명 안정화된 enolate다.
-2. C–C 결합 형성. enolate의 α-탄소(nucleophile)가 아직 enolate가 되지 않은 두 번째 acetaldehyde의 carbonyl electrophile를 공격한다. C=O π 결합이 끊어지고 새 C–C σ 결합이 생기면서 alkoxide anion이 된다.
+2. C–C 결합 형성. enolate의 α-탄소(nucleophile)가 아직 enolate가 되지 않은 두 번째 acetaldehyde의 carbonyl electrophile을 공격한다. C=O π 결합이 끊어지고 새 C–C σ 결합이 생기면서 alkoxide anion이 된다.
 3. 양성자 전달. alkoxide(더 강한 염기)가 물에서 양성자를 받아 aldol 생성물이 되고, HO⁻(더 약한 염기)가 다시 나온다. 그래서 염기는 촉매로 충분하다.
 
 정리하면 새 C–C 결합은 "enolate의 α-탄소"와 "상대 분자의 carbonyl 탄소" 사이에 생긴다. 그래서 aldol 생성물에서 C=O는 enolate 쪽에, OH는 electrophile 쪽에 남는다.
@@ -96,7 +96,7 @@ aldol 생성물에 염기를 더 오래, 더 세게 작용시키면 물이 빠�
 
 CH3CH(OH)CH2CHO → CH3CH=CHCHO (2-butenal, 엔알 enal) + H2O (HO⁻ 재생)
 
-이 반응이 앞으로 가는 원동력은 생성물의 conjugation이다. alkene과 carbonyl이 이어져 전자가 넓게 퍼지므로 α,β-불포화 carbonyl 화합물이 안정하다.
+이 반응이 앞으로 가는 원동력은 생성물의 conjugation이다. alkene과 carbonyl이 이어져 전자가 넓게 퍼지므로 α,β-unsaturated carbonyl 화합물이 안정하다.
 
 (출처: L8 p.10)
 
@@ -104,7 +104,7 @@ CH3CH(OH)CH2CHO → CH3CH=CHCHO (2-butenal, 엔알 enal) + H2O (HO⁻ 재생)
 
 같은 염기 촉매 aldol인데 어떤 때는 aldol이, 어떤 때는 제거 생성물이 나온다. 무엇이 갈림길일까? 슬라이드의 답은 조건의 격렬함이다. 더 강한 염기, 더 높은 온도, 더 긴 반응 시간일수록 제거 생성물이 나오기 쉽다. 위 예에서 5 °C 조건은 3-hydroxybutanal에서 멈추지만, 계속 밀면 CH3CH=CHCHO + H2O가 된다.
 
-보충: 그래서 aldol 자체를 얻으려면 염기 농도를 낮게 유지한다. acetaldehyde에는 묽은 NaOH를 한 방울 정도만 넣고, acetone(→ 4-hydroxy-4-methylpentan-2-one)에는 물에 잘 녹지 않는 Ba(OH)2를 쓴다. 애초에 HO⁻(conjugate acid H2O pKa 15.7)는 aldehyde(α-H pKa 약 20)를 완전히 enolate로 바꾸지 못하므로, 소량의 enolate가 enolization되지 않은 많은 aldehyde 분자에 둘러싸이게 된다. 같은 분자가 nucleophile와 electrophile를 동시에 맡을 수 있는 것도 이 때문이다. (보충 근거: Clayden p.615)
+보충: 그래서 aldol 자체를 얻으려면 염기 농도를 낮게 유지한다. acetaldehyde에는 묽은 NaOH를 한 방울 정도만 넣고, acetone(→ 4-hydroxy-4-methylpentan-2-one)에는 물에 잘 녹지 않는 Ba(OH)2를 쓴다. 애초에 HO⁻(conjugate acid H2O pKa 15.7)는 aldehyde(α-H pKa 약 20)를 완전히 enolate로 바꾸지 못하므로, 소량의 enolate가 enolization되지 않은 많은 aldehyde 분자에 둘러싸이게 된다. 같은 분자가 nucleophile과 electrophile을 동시에 맡을 수 있는 것도 이 때문이다. (보충 근거: Clayden p.615)
 
 이렇게 두 분자가 결합하면서 물이나 methanol 같은 작은 분자를 잃는 반응을 condensation이라 한다. aldol 축합과 Claisen condensation(→ [L9](L09_Claisen_Condensation.md) Claisen condensation 문서 참고)이 대표적이다.
 
@@ -125,7 +125,7 @@ aldol은 산 촉매로도 일어난다. 그런데 염기성 조건과 달리 산
 
 #### 3.2 메커니즘: enolate 대신 enol
 
-산성 용액에는 enolate가 존재할 수 없다. 그러면 nucleophile는 무엇일까? 답은 enol이다. enol은 enolate보다 약한 nucleophile지만, 대신 산이 상대 carbonyl을 protonate해 훨씬 강한 electrophile로 만들어 주므로 반응이 일어난다(→ [L10](L10_Enol_and_Enamine.md) enol과 enamine 문서의 산 조건 aldol 참고).
+산성 용액에는 enolate가 존재할 수 없다. 그러면 nucleophile은 무엇일까? 답은 enol이다. enol은 enolate보다 약한 nucleophile지만, 대신 산이 상대 carbonyl을 protonate해 훨씬 강한 electrophile로 만들어 주므로 반응이 일어난다(→ [L10](L10_Enol_and_Enamine.md) enol과 enamine 문서의 산 조건 aldol 참고).
 
 1. 산 촉매 enolization. cyclopentanone의 carbonyl O가 protonate되어 oxonium 이온(C=OH⁺)이 되고, α-H가 떨어지며 C=C가 생겨 enol(1-hydroxycyclopentene)이 된다.
 2. 산 촉매 aldol addition. enol의 C=C(nucleophile, OH의 비공유 전자쌍이 밀어 줌)가 protonate된 두 번째 cyclopentanone의 carbonyl 탄소를 공격한다. 새 C–C 결합이 생기고, 한쪽은 protonate된 ketone, 다른 쪽은 3차 alcohol이 된다.
@@ -206,10 +206,10 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 **예시 모음.** 슬라이드 p.19는 같은 전략의 예를 더 보여 준다.
 
 - PhCOCH2CH3 --[LDA, −78 °C, THF]--> PhC(OLi)=CHCH3 --[CH3CH2CHO]--> PhCO–CH(CH3)–CH(OH)CH2CH3 (94%). enolate는 OLi와 CH3가 같은 쪽인 (Z)형으로 그려져 있다.
-- (CH3)2CH–CO–CH(CH3)2 --[LDA, −78 °C, THF]--> (CH3)2CH–C(OLi)=C(CH3)2 --[CH2=CHCHO]--> (CH3)2CH–CO–C(CH3)2–CH(OH)–CH=CH2 (82%). acrolein은 α,β-불포화 aldehyde지만, 여기서는 carbonyl 탄소에 직접 붙은(1,2-첨가) aldol로 그려져 있다.
+- (CH3)2CH–CO–CH(CH3)2 --[LDA, −78 °C, THF]--> (CH3)2CH–C(OLi)=C(CH3)2 --[CH2=CHCHO]--> (CH3)2CH–CO–C(CH3)2–CH(OH)–CH=CH2 (82%). acrolein은 α,β-unsaturated aldehyde지만, 여기서는 carbonyl 탄소에 직접 붙은(1,2-첨가) aldol로 그려져 있다.
 - ester (CH3)2CHCO2Et + LDA, 이어서 (CH3)2C=CHCHO의 빈 칸은 연습 문제 4로 옮겼다.
 
-보충: lithium enolate aldol은 왜 이렇게 깔끔할까? 교과서의 설명은 두 가지다. 첫째, LDA에 의한 enolate 형성은 Li–O 배위가 먼저 일어나고 곧바로 양성자가 떨어질 만큼 빨라서, 반쯤 만들어진 enolate가 아직 enolization되지 않은 ketone과 반응할 틈이 거의 없다(aldehyde는 예외라 자기 축합이 더 빠르다). 둘째, 나중에 넣은 aldehyde가 enolate와 같은 Li⁺에 배위한 뒤, Li를 포함한 6원 고리 transition state에서 분자 내 반응처럼 C–C 결합이 생긴다. 이 고리형 경로 때문에 lithium enolate는 보통 conjugate addition를 하지 않으며, 위 acrolein 예가 1,2-첨가(aldol)로 그려진 이유도 여기에 있다. (보충 근거: Clayden p.625, p.626)
+보충: lithium enolate aldol은 왜 이렇게 깔끔할까? 교과서의 설명은 두 가지다. 첫째, LDA에 의한 enolate 형성은 Li–O 배위가 먼저 일어나고 곧바로 양성자가 떨어질 만큼 빨라서, 반쯤 만들어진 enolate가 아직 enolization되지 않은 ketone과 반응할 틈이 거의 없다(aldehyde는 예외라 자기 축합이 더 빠르다). 둘째, 나중에 넣은 aldehyde가 enolate와 같은 Li⁺에 배위한 뒤, Li를 포함한 6원 고리 transition state에서 분자 내 반응처럼 C–C 결합이 생긴다. 이 고리형 경로 때문에 lithium enolate는 보통 conjugate addition을 하지 않으며, 위 acrolein 예가 1,2-첨가(aldol)로 그려진 이유도 여기에 있다. (보충 근거: Clayden p.625, p.626)
 
 (출처: L8 p.19)
 
@@ -227,7 +227,7 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 **silyl enol ether는 무엇이 다른가.** lithium enolate는 반응성이 너무 좋아 보관이 안 된다. 그렇다면 enolate를 "병에 담아 둘 수 있는" 형태로 만들 수는 없을까? silyl enol ether(TMS-enolate)가 그 답이다. Si는 Li보다 덜 전기양성적이라 O–Si 결합이 더 공유결합적이고, 그 결과 silyl enol ether는 lithium enolate보다 안정하고 반응성이 낮다. 그래서 정제하고 특성 분석까지 할 수 있다.
 
-그런데 enolate는 C와 O 양쪽으로 반응할 수 있는데, silyl group은 왜 O에 붙을까? 결합 에너지가 답한다. Si–O는 452 kJ/mol, Si–C는 318 kJ/mol로 Si–O가 훨씬 강하다. 보충: 규소 electrophile가 hard하다는 점도 같은 방향으로 작용한다. hard electrophile는 전하가 많이 모인 enolate의 O와 반응한다(→ [L7](L07_Enolate_Alkylation.md) C 대 O 반응성 참고). (보충 근거: Clayden p.466)
+그런데 enolate는 C와 O 양쪽으로 반응할 수 있는데, silyl group은 왜 O에 붙을까? 결합 에너지가 답한다. Si–O는 452 kJ/mol, Si–C는 318 kJ/mol로 Si–O가 훨씬 강하다. 보충: 규소 electrophile이 hard하다는 점도 같은 방향으로 작용한다. hard electrophile은 전하가 많이 모인 enolate의 O와 반응한다(→ [L7](L07_Enolate_Alkylation.md) C 대 O 반응성 참고). (보충 근거: Clayden p.466)
 
 (출처: L8 p.22)
 
@@ -281,7 +281,7 @@ RC(OSiMe3)=CH2 --[PhCHO, TiCl4]--> RCOCH2CH(OSiMe3)Ph (aldol의 silyl ether) --[
 
 LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 수 있을까? 두 짝 사이에 뚜렷한 차이가 있으면 가능하다. 슬라이드는 두 경우로 나눈다.
 
-**Case 1: 한 짝이 훨씬 더 산성이다 (thermodynamic deprotonation).** 약염기는 가장 산성인 H만 떼어 낸다. 그러니 한 짝만 유난히 산성이면 그 짝만 nucleophile가 된다.
+**Case 1: 한 짝이 훨씬 더 산성이다 (thermodynamic deprotonation).** 약염기는 가장 산성인 H만 떼어 낸다. 그러니 한 짝만 유난히 산성이면 그 짝만 nucleophile이 된다.
 
 - 1,3-dicarbonyl 화합물(monocarbonyl보다 산성): CH2(CO2Et)2 + (CH3)2CHCHO --[R2NH, HOAc]--> (CH3)2CH–CH=C(CO2Et)2 (92%). 탈수까지 진행된다.[5]
 - nitro 화합물(monocarbonyl보다 산성, nitro메테인의 수용액 pKa 약 10.2):
@@ -289,11 +289,11 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
   - cyclohexanone + CH3NO2 --[NaOH, MeOH]--> 1-(nitromethyl)cyclohexan-1-ol (70%, 첨가 생성물)
   - 비교: cyclohexanone --[NaOH, MeOH]--> 2-cyclohexylidenecyclohexan-1-one
 
-마지막 두 줄을 나란히 놓은 이유가 있다. nitro메테인이 없으면 cyclohexanone은 스스로 축합한다. 그런데 nitro메테인이 있으면 NaOH는 훨씬 산성인 CH3NO2를 먼저 deprotonate하고, 생긴 nitro네이트가 nucleophile가 된다. ketone은 electrophile 역할만 하게 되므로 교차 생성물이 선택적으로 생긴다.[6]
+마지막 두 줄을 나란히 놓은 이유가 있다. nitro메테인이 없으면 cyclohexanone은 스스로 축합한다. 그런데 nitro메테인이 있으면 NaOH는 훨씬 산성인 CH3NO2를 먼저 deprotonate하고, 생긴 nitro네이트가 nucleophile이 된다. ketone은 electrophile 역할만 하게 되므로 교차 생성물이 선택적으로 생긴다.[6]
 
 (출처: L8 p.28)
 
-**Case 2: 한 짝은 enolate를 못 만들지만 더 좋은 electrophile다.** α-H가 없는 aldehyde가 대표적이다. 이런 짝은 nucleophile가 될 수 없으니 역할 배분이 저절로 정해진다.
+**Case 2: 한 짝은 enolate를 못 만들지만 더 좋은 electrophile다.** α-H가 없는 aldehyde가 대표적이다. 이런 짝은 nucleophile이 될 수 없으니 역할 배분이 저절로 정해진다.
 
 - 비타민 A의 상업적 합성: geranial ((E)-3,7-dimethylocta-2,6-dienal) + CH3COCH3 --[EtONa, EtOH, −5 °C]--> pseudoionone (49%; (CH3)2C=CHCH2CH2C(CH3)=CH–CH=CH–COCH3). acetone이 enolate가 되어 제라니알의 CHO를 공격한다.[7]
 - PhCHO + PhCOCH3 --[HO⁻, 20 °C]--> (E)-PhCH=CH–CO–Ph (1,3-diphenylprop-2-en-1-one, benzalacetophenone, 85%). benzaldehyde는 α-H가 없어 electrophile로만 쓰이고, acetophenone이 enolate를 낸다. aldol 뒤 E1cB 탈수까지 진행된다.
@@ -341,9 +341,9 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 마지막으로 슬라이드는 enolate의 상대를 세 가지로 정리한다. 상대가 무엇이냐에 따라 생성물의 산소 배치가 달라진다는 것이 요점이다.
 
-1. aldol reaction: enolate + aldehyde/ketone ⇌ β-hydroxy carbonyl ⇌ α,β-불포화 carbonyl
+1. aldol reaction: enolate + aldehyde/ketone ⇌ β-hydroxy carbonyl ⇌ α,β-unsaturated carbonyl
 2. Claisen reaction: enolate + ester(R'CO2Et) ⇌ 1,3-dicarbonyl RCOCH2COR' (→ [L9](L09_Claisen_Condensation.md) Claisen condensation 문서 참고)
-3. conjugate addition(Michael addition): enolate + α,β-불포화 carbonyl(CH2=CHCOR') ⇌ 1,5-dicarbonyl RCOCH2CH2CH2COR'[11]
+3. conjugate addition(Michael addition): enolate + α,β-unsaturated carbonyl(CH2=CHCOR') ⇌ 1,5-dicarbonyl RCOCH2CH2CH2COR'[11]
 
 (출처: L8 p.33)
 
@@ -351,7 +351,7 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 > 개념 문서: [enolate chemistry (overview)](../../wiki/개념/엔올레이트%20화학%20개관.md)
 
-aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들며, 염기성과 산성 조건 모두에서 일어난다. 교차 aldol은 lithium enolate, silyl enol ether, 약염기로 제어하고, intramolecular aldol로는 고리를 만든다. enolate는 aldehyde/ketone 외에 ester, α,β-불포화 carbonyl과도 반응한다.
+aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들며, 염기성과 산성 조건 모두에서 일어난다. 교차 aldol은 lithium enolate, silyl enol ether, 약염기로 제어하고, intramolecular aldol로는 고리를 만든다. enolate는 aldehyde/ketone 외에 ester, α,β-unsaturated carbonyl과도 반응한다.
 
 (출처: L8 p.34)
 
@@ -359,7 +359,7 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 - aldol 반응은 늘 탈수 생성물까지 간다고 생각하기 쉽지만, 사실은 염기성 저온·짧은 시간(예: 10% NaOH, 5 °C)에서는 β-hydroxy carbonyl에서 멈출 수 있다. 다만 산성 조건에서는 탈수가 빨라 피하기 어렵다. (p.8, p.11, p.13)
 - 염기성 탈수를 E2나 E1이라고 쓰기 쉽지만, 사실은 enolate(짝염기)를 먼저 만든 뒤 HO⁻가 떨어지는 E1cB다. 산성 탈수는 슬라이드에서 E1(carbocation 경유)로 표기한다. (p.10, p.13)
-- 산성 aldol에서도 enolate가 공격한다고 생각하기 쉽지만, 사실은 nucleophile는 중성 enol이고, electrophile는 protonate된 carbonyl이다. (p.13)
+- 산성 aldol에서도 enolate가 공격한다고 생각하기 쉽지만, 사실은 nucleophile은 중성 enol이고, electrophile은 protonate된 carbonyl이다. (p.13)
 - OH가 enolate 쪽 탄소에 붙는다고 착각하기 쉽지만, 사실은 OH는 공격받은 carbonyl(electrophile) 쪽 탄소에 생기고 C=O는 enolate 쪽에 남는다. 역합성은 Cα–Cβ 결합을 끊는다. (p.9, p.20)
 - 서로 다른 두 aldehyde를 NaOH로 섞으면 교차 생성물이 주로 나온다고 생각하기 쉽지만, 사실은 둘 다 enolization될 수 있으면 4가지 혼합물이 된다. (p.17)
 - enolization되지 않는 짝만 고르면 약염기 교차 aldol이 된다고 생각하기 쉽지만, 사실은 그 짝이 enolization되는 짝보다 더 친전자적이어야 한다. benzophenone + acetaldehyde는 acetaldehyde의 자기 aldol만 준다. (보충 근거: Clayden p.619)
@@ -416,7 +416,7 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 7. **PhCO–CH(OH)–CH(Ph)–COCH3 (2-hydroxy-1,3-diphenylpentane-1,4-dione).** thermodynamic silyl enol ether는 C=C가 CHPh 쪽에 있으므로 친핵성 탄소는 benzyl CHPh다. TiCl4가 활성화한 phenylglyoxal(PhCO–CHO)에서는 aldehyde 탄소가 ketone 탄소보다 친전자적이므로 CHO가 공격받는다. aldol의 silyl ether를 거쳐 물 후처리로 aldol이 된다. 새 C–C 결합은 CH(Ph)–CH(OH)이다. (근거: L8 p.25, p.27; aldehyde 우선성은 p.30의 원리)
 
-8. **빈 칸: (1) 4-tert-butyltoluene (4-tBu-C6H4–CH3) --[oxidation]--> (2) 4-tert-butylbenzaldehyde (4-tBu-C6H4–CHO) --[alkyl aldehyde, ⁻OH (cat)]--> α,β-불포화 aldehyde --[H2/Pd]--> (3) 4-tBu-C6H4–CH2–CH(R)–CHO.**
+8. **빈 칸: (1) 4-tert-butyltoluene (4-tBu-C6H4–CH3) --[oxidation]--> (2) 4-tert-butylbenzaldehyde (4-tBu-C6H4–CHO) --[alkyl aldehyde, ⁻OH (cat)]--> α,β-unsaturated aldehyde --[H2/Pd]--> (3) 4-tBu-C6H4–CH2–CH(R)–CHO.**
    - 4-tert-butylbenzaldehyde는 α-H가 없어 electrophile로만 작용하고(p.29 Case 2), alkyl aldehyde가 enolate를 낸다. aldol 후 E1cB 탈수로 Ar과 공액된 α-치환 cinnamaldehyde 유도체가 된다.
    - H2/Pd는 C=C만 환원하고 CHO는 남겨 포화 aldehyde를 준다. 보충: Pd catalyst 수소화는 공액 엔알에서 C=C를 C=O보다 우선 환원하는 것이 일반적이다. (보충 근거: Clayden p.536)
    - 입체화학: C2에 새 입체중심이 생기지만 비키랄 H2/Pd로는 라세미체가 된다. 슬라이드에 따르면 (R)-체가 꽃향기를 낸다.
@@ -430,7 +430,7 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 [3] 슬라이드 p.15에는 "천연품 100 t/년"과 "20 t은 살구·복숭아 등의 씨에서 분리"라는 두 숫자가 함께 적혀 있어 둘의 관계가 분명하지 않다. 또 "vallinin"은 vanillin의 오타로 보인다. (출처: L8 p.15)
 
-[4] 보충: LDA는 강하고(conjugate acid diisopropylamine pKa 약 35) 입체 장애가 큰 비친핵성 염기라서 carbonyl을 공격하지 않고 deprotonation를 거의 완결·비가역적으로 수행한다. 그래서 두 번째 짝을 넣을 때는 출발 ketone이 남아 있지 않아 자기 aldol이 억제된다. aldehyde는 enolate가 만들어지는 동안 남은 aldehyde와 빠르게 자기 aldol을 일으키기 때문에 이 방법에 맞지 않는다. (보충 근거: Clayden p.398, p.588, p.625)
+[4] 보충: LDA는 강하고(conjugate acid diisopropylamine pKa 약 35) 입체 장애가 큰 비친핵성 염기라서 carbonyl을 공격하지 않고 deprotonation을 거의 완결·비가역적으로 수행한다. 그래서 두 번째 짝을 넣을 때는 출발 ketone이 남아 있지 않아 자기 aldol이 억제된다. aldehyde는 enolate가 만들어지는 동안 남은 aldehyde와 빠르게 자기 aldol을 일으키기 때문에 이 방법에 맞지 않는다. (보충 근거: Clayden p.398, p.588, p.625)
 
 [5] 보충: 1,3-dicarbonyl 화합물과 aldehyde를 amine/acetic acid 촉매로 축합하는 이 반응은 Knoevenagel 축합으로 알려져 있다(슬라이드에는 이름이 없다). malonic diethyl의 pKa(약 13)는 일반 aldehyde/ketone(약 17–20)보다 훨씬 낮아, 약염기는 사실상 말로네이트만 deprotonation한다. (보충 근거: Clayden p.629)
 

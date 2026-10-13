@@ -36,7 +36,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 이제 stereoselectivity이다. 먼저 고리 융합은 확실하다. 고리형 dienophile에서 고리의 두 CH2(C3, C6)는 C=C의 같은 쪽(cis)에 있다. 그런데 Diels–Alder는 dienophile에 대해 suprafacial(입체특이적)이다. 그래서 이 cis 관계가 그대로 생성물로 옮겨지고, 결국 4a-CO2Me와 8a-H도 cis인 cis-융합 이환 화합물이 된다. 이것은 반응 메커니즘이 강제하는 결과라서 확실하다. (→ [L13](../notes/L13_Cycloaddition_Part1.md) p.19 stereospecificity 참고)
 
-그런데 C4의 OMe 배치는 endo/exo에 따라 달라진다. 강의의 endo 규칙(L13 p.21–24)은 전자끌개가 diene endo에 놓이는 전이상태를 선호한다고 말한다. 이 규칙을 따르면 CO2Me가 endo이고, (E)-diene의 "바깥쪽(out)" 치환기인 OMe는 endo 치환기와 같은 쪽에 놓인다. 그래서 OMe와 CO2Me는 cis가 된다. 그런데 여기서 dienophile는 사치환에 가까운 붐비는 고리형 alkene이다. Cα 쪽에는 CO2Me와 고리 CH2가, Cβ 쪽에는 H와 고리 CH2가 경쟁한다. 그래서 입체 효과가 endo 선호를 뒤집을 가능성이 있다. [불확실] 이 문헌 결과를 확인하지 못했으므로 OMe의 상대배치는 "endo 규칙에 따른 예측"으로만 제시한다. 다행히 산 처리로 OMe가 제거되면 이 입체중심은 사라진다. 그래서 산 처리 생성물에서는 cis-고리 융합만 남는다.
+그런데 C4의 OMe 배치는 endo/exo에 따라 달라진다. 강의의 endo 규칙(L13 p.21–24)은 전자끌개가 diene endo에 놓이는 전이상태를 선호한다고 말한다. 이 규칙을 따르면 CO2Me가 endo이고, (E)-diene의 "바깥쪽(out)" 치환기인 OMe는 endo 치환기와 같은 쪽에 놓인다. 그래서 OMe와 CO2Me는 cis가 된다. 그런데 여기서 dienophile은 사치환에 가까운 붐비는 고리형 alkene이다. Cα 쪽에는 CO2Me와 고리 CH2가, Cβ 쪽에는 H와 고리 CH2가 경쟁한다. 그래서 입체 효과가 endo 선호를 뒤집을 가능성이 있다. [불확실] 이 문헌 결과를 확인하지 못했으므로 OMe의 상대배치는 "endo 규칙에 따른 예측"으로만 제시한다. 다행히 산 처리로 OMe가 제거되면 이 입체중심은 사라진다. 그래서 산 처리 생성물에서는 cis-고리 융합만 남는다.
 
 마지막으로 Woodward–Hoffmann 관점에서 보면 [4πs + 2πs]는 (4q+2)s 성분이 dienophile 2π이므로 열적으로 허용된다. 전자 수로 보면 6 = 4n+2이다. (→ [L13](../notes/L13_Cycloaddition_Part1.md) p.33–35 참고)
 
@@ -44,7 +44,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 - 전자가 풍부한 diene(Danishefsky) + 전자 부족 dienophile: 콘쥬게이션된 C=C만 선택적으로 반응한다.
 - regioselectivity: 1-치환 diene → "ortho", 2-치환 diene → "para". 두 효과가 일치하면 선택성이 높다.
-- 고리형 dienophile는 suprafacial 첨가로 cis-융합 이환 생성물을 준다. 고리 밖 입체중심은 endo 규칙으로 예측한다.
+- 고리형 dienophile은 suprafacial 첨가로 cis-융합 이환 생성물을 준다. 고리 밖 입체중심은 endo 규칙으로 예측한다.
 - Danishefsky diene cycloaddition물은 산 처리로 cyclohexenone이 된다(L15 p.26).
 
 ---
@@ -85,13 +85,13 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 ### 해설
 
-**(a)** 이 문제의 핵심은 cyclobutane 두 개가 맞붙은 bicyclo[2.2.0]hexane 골격을 어떻게 만드느냐이다. 4원자 고리를 보면 [2+2] cycloaddition를 떠올려야 한다. 가운데 cyclobutane을 [2+2]로 거꾸로 자르면 두 alkene이 나온다. 하나는 왼쪽 cyclobutane에 붙은 C=C(두 사차 탄소 사이), 곧 cyclobutene-1,2-diester다. 다른 하나는 CH3가 붙은 탄소와 H가 붙은 탄소 사이의 C=C, 곧 3-methylcyclohexenone이다. 그런데 표적에는 ketone 대신 락톤의 CH–O가 있다. 그래서 "광화학 [2+2]로 keto diester를 만든 뒤, ketone을 환원해 생긴 OH가 옆의 ester와 락톤을 만든다"는 2단계 경로가 나온다. 실제로 이 [2+2] 반응은 강의 L14 p.28에 그대로 실려 있다.
+**(a)** 이 문제의 핵심은 cyclobutane 두 개가 맞붙은 bicyclo[2.2.0]hexane 골격을 어떻게 만드느냐이다. 4원자 고리를 보면 [2+2] cycloaddition을 떠올려야 한다. 가운데 cyclobutane을 [2+2]로 거꾸로 자르면 두 alkene이 나온다. 하나는 왼쪽 cyclobutane에 붙은 C=C(두 사차 탄소 사이), 곧 cyclobutene-1,2-diester다. 다른 하나는 CH3가 붙은 탄소와 H가 붙은 탄소 사이의 C=C, 곧 3-methylcyclohexenone이다. 그런데 표적에는 ketone 대신 락톤의 CH–O가 있다. 그래서 "광화학 [2+2]로 keto diester를 만든 뒤, ketone을 환원해 생긴 OH가 옆의 ester와 락톤을 만든다"는 2단계 경로가 나온다. 실제로 이 [2+2] 반응은 강의 L14 p.28에 그대로 실려 있다.
 
 그렇다면 왜 열이 아니라 빛인가? 두 alkene의 [2πs + 2πs]는 (4q+2)s 성분이 2개(짝수)라서 열적으로 금지된다. 즉 HOMO–LUMO의 위상이 한쪽 끝에서 어긋난다. 그런데 빛으로 한 enone을 들뜨게 하면 HOMO–HOMO와 LUMO–LUMO 상호작용이 모두 결합성이 되어 suprafacial–suprafacial 경로가 허용된다. (→ [L14](../notes/L14_Cycloaddition_Part2.md) p.25–27 참고) 각 alkene의 기하는 유지된다(입체특이적). 그래서 cyclobutene 쪽의 두 CO2Me는 cis로, cyclohexenone 쪽의 CH3와 H도 cis로 남는다. 두 성분이 서로 마주 보는 방향은 endo 효과가 아니라 입체 장애가 가장 적은 anti으로 정해진다(강의: "no endo selectivity"). 그 결과 diester 쪽 치환기와 CH3/H가 서로 반대쪽에 놓인 cis-anti-cis 배치가 된다. 표적에서 CO2Me·락톤 C=O는 wedge이고 CH3·H는 hash인 것이 바로 이 배치다. regioselectivity은 대칭 diester라서 문제가 되지 않는다. enone 쪽은 C=C의 두 탄소가 각각 diester의 한 탄소와 결합할 뿐이다.
 
 다음은 락톤화다. NaBH4가 ketone을 이차 alcohol로 환원한다. 그런데 락톤이 닫히려면 새 OH가 가까운 쪽 ester(고리 융합 H 쪽 사차 탄소의 CO2Me)와 같은 면에 있어야 한다. 반대 면의 OH로는 5원자 락톤을 만들 수 없다. 오목한 삼환 골격에서 수소화물은 덜 막힌 볼록면, 즉 고리 융합 H 쪽 면에서 들어올 것으로 예상된다. 그러면 OH는 ester와 같은 면에 놓이고, 분자 내 ester 교환(MeOH 이탈)으로 γ-락톤이 닫힌다. [불확실] 환원의 면 선택성은 정성적 추론이다. 원하지 않는 에피머가 생기면 그 에피머는 락톤화되지 않는다.
 
-**(b)** 이 문제의 핵심은 "in situ DA"라는 힌트가 무엇을 가리키느냐이다. 먼저 표적의 C5=C6 이중결합 위치를 보자. Diels–Alder로 생긴 cyclohexene에서 새 C=C는 언제나 diene의 가운데 두 탄소(C2, C3) 사이에 생긴다. 그런데 표적에서는 C=C가 고리 융합 탄소 C4a 바로 옆에 있다. 그래서 C4a는 diene의 말단 탄소여야 하고, 다른 융합 탄소 C8a는 dienophile 탄소여야 한다. 즉 고리 융합 결합(C4a–C8a) 자체가 DA로 생긴 결합이다. 그런데 두 융합 탄소는 ketone 고리(C1–C4)로도 이미 연결되어 있다. 그래서 이 반응은 diene과 dienophile가 한 분자 안에 있는 분자 내 Diels–Alder(IMDA)여야 한다. 거꾸로 펼치면 dienophile(바이닐 ketone CH2=CH–CO–)와 diene(–CH=CH–CH=CH2)이 (CH2)3 사슬로 이어진 데카-1,7,9-triene-3-one이 C가 된다.
+**(b)** 이 문제의 핵심은 "in situ DA"라는 힌트가 무엇을 가리키느냐이다. 먼저 표적의 C5=C6 이중결합 위치를 보자. Diels–Alder로 생긴 cyclohexene에서 새 C=C는 언제나 diene의 가운데 두 탄소(C2, C3) 사이에 생긴다. 그런데 표적에서는 C=C가 고리 융합 탄소 C4a 바로 옆에 있다. 그래서 C4a는 diene의 말단 탄소여야 하고, 다른 융합 탄소 C8a는 dienophile 탄소여야 한다. 즉 고리 융합 결합(C4a–C8a) 자체가 DA로 생긴 결합이다. 그런데 두 융합 탄소는 ketone 고리(C1–C4)로도 이미 연결되어 있다. 그래서 이 반응은 diene과 dienophile이 한 분자 안에 있는 분자 내 Diels–Alder(IMDA)여야 한다. 거꾸로 펼치면 dienophile(바이닐 ketone CH2=CH–CO–)와 diene(–CH=CH–CH=CH2)이 (CH2)3 사슬로 이어진 데카-1,7,9-triene-3-one이 C가 된다.
 
 그렇다면 왜 "in situ"인가? 바이닐 ketone은 매우 반응성이 큰 dienophile다. 게다가 분자 내 반응이라 유효 농도가 높아 생성되자마자 고리화가 진행된다. 그래서 C를 분리하지 않고 그 자리에서 DA가 일어난다. 이런 바이닐 ketone은 Weinreb amide에 바이닐 Grignard를 더해 한 번에 만드는 것이 가장 깔끔하다(Weinreb amide는 과첨가 없이 ketone에서 멈춘다). [불확실] Weinreb amide가 강의 범위인지는 확인하지 못했다. 강의 범위로만 풀어야 한다면 제안 2(aldehyde + 바이닐 Grignard → allyl alcohol → DMP oxidation → in situ IMDA)가 대안이다.
 
@@ -121,7 +121,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 **메커니즘:**
 1. Na2CO3가 amide N–H를 deprotonate하여 amidate anion Me2CBr–C(O)=N⁻R을 만든다.
 2. Br⁻가 이탈하며 **아자-옥시알릴 cation(aza-oxyallyl cation)**이 생긴다. 공명 구조는 [Me2C⁺–C(=O)–N⁻R ↔ Me2C=C(O⁻)–N⁺R…]이며, 전체적으로 중성인 1,3-쌍극자형 화학종이다. 3원자(C–C–N) π계에 전자 2개가 있고, 중앙 탄소에 O⁻가 붙은 구조로, L14의 옥시알릴 cation의 질소 유사체다.
-3. 아자-옥시알릴 cation(3원자, 2π)과 tropone(O=C1–C7=C6–C5=C4–C3=C2의 8원자, 8π)이 cycloaddition한다. CMe2–O(tropone) 결합과 N–C2(tropone) 결합이 생긴다. 이것은 원자 수로 [8+3], 전자 수로 [8π + 2π] cycloaddition다.
+3. 아자-옥시알릴 cation(3원자, 2π)과 tropone(O=C1–C7=C6–C5=C4–C3=C2의 8원자, 8π)이 cycloaddition한다. CMe2–O(tropone) 결합과 N–C2(tropone) 결합이 생긴다. 이것은 원자 수로 [8+3], 전자 수로 [8π + 2π] cycloaddition이다.
 4. 그 결과 tropone 쪽 이중결합은 C1=C7, C6=C5, C4=C3로 재배치되고, C2는 sp3(H, N)가 되어 생성물이 된다.
 
 **regioselectivity:** 아자-옥시알릴 cation의 친전자성 말단(삼차 carbocation 성격의 CMe2)이 tropone의 친핵성 carbonyl O과 결합하고, 친핵성 말단(N⁻)이 tropone의 친전자성 탄소(C2)와 결합한다.
@@ -132,9 +132,9 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 ### 해설
 
-이 문제의 핵심은 생성물의 6원자 고리가 어떤 두 성분의 어떤 원자들로 만들어졌는지 알아내는 것이다. 생성물 고리를 한 바퀴 돌면 O, CMe2, C=O, N, CH, C(enol ether)이다. 이 중 CMe2–C(=O)–N은 amide에서, O–C–CH는 tropone에서 왔다. 그래서 새로 생긴 결합은 O–CMe2와 N–CH, 두 개다. 두 결합이 한 번에 생겨 고리가 닫히므로 cycloaddition로 볼 수 있다.
+이 문제의 핵심은 생성물의 6원자 고리가 어떤 두 성분의 어떤 원자들로 만들어졌는지 알아내는 것이다. 생성물 고리를 한 바퀴 돌면 O, CMe2, C=O, N, CH, C(enol ether)이다. 이 중 CMe2–C(=O)–N은 amide에서, O–C–CH는 tropone에서 왔다. 그래서 새로 생긴 결합은 O–CMe2와 N–CH, 두 개다. 두 결합이 한 번에 생겨 고리가 닫히므로 cycloaddition으로 볼 수 있다.
 
-그런데 α-bromo아마이드 자체는 cycloaddition를 할 수 없다. 그래서 먼저 반응성 intermediate를 만들어야 한다. 염기가 N–H를 떼어 내면 질소 anion이 생기고, 이것이 이웃 탄소의 Br⁻를 밀어내도록 돕는다. 그러면 Me2C carbocation, C–O⁻, N이 하나의 π계로 이어진 아자-옥시알릴 cation이 된다. 이 화학종은 강의에서 [4+3]에 쓰인 allyl cation과 똑같은 전자 구조를 가진다. 즉 3원자에 π전자 2개다. (→ [L14](../notes/L14_Cycloaddition_Part2.md) p.23–24 [4+3] 참고) 한쪽 끝(CMe2)은 친전자적이고 다른 끝(N)은 친핵적이라는 점에서 1,3-쌍극자와도 닮았다. (→ [L15](../notes/L15_Cycloaddition_Part3.md) p.13 1,3-쌍극자 참고)
+그런데 α-bromo아마이드 자체는 cycloaddition을 할 수 없다. 그래서 먼저 반응성 intermediate를 만들어야 한다. 염기가 N–H를 떼어 내면 질소 anion이 생기고, 이것이 이웃 탄소의 Br⁻를 밀어내도록 돕는다. 그러면 Me2C carbocation, C–O⁻, N이 하나의 π계로 이어진 아자-옥시알릴 cation이 된다. 이 화학종은 강의에서 [4+3]에 쓰인 allyl cation과 똑같은 전자 구조를 가진다. 즉 3원자에 π전자 2개다. (→ [L14](../notes/L14_Cycloaddition_Part2.md) p.23–24 [4+3] 참고) 한쪽 끝(CMe2)은 친전자적이고 다른 끝(N)은 친핵적이라는 점에서 1,3-쌍극자와도 닮았다. (→ [L15](../notes/L15_Cycloaddition_Part3.md) p.13 1,3-쌍극자 참고)
 
 다음 질문은 tropone이 몇 전자 성분으로 참여하느냐이다. 새 결합이 생기는 두 원자는 O와 C2다. 이 둘을 π계로 잇는 경로를 따라가면 O=C1, C7=C6, C5=C4, C3=C2를 모두 거친다. 즉 tropone 전체가 8원자 8π 성분으로 참여한다. C1과 C2는 원래 σ결합으로 이웃해 있으므로, 실제로 생기는 고리는 11원자 고리가 아니라 6원자 고리다. 그래서 반응 후 tropone의 이중결합이 한 칸씩 밀려 C1=C7, C6=C5, C4=C3가 되고, C2는 sp3가 된다. 생성물 그림의 cycloheptatriene 이중결합 배치가 바로 이렇다. 강의의 [6+4] (tropone + cyclopentadiene, L14 p.22)에서 tropone이 6π로 쓰였다면, 여기서는 carbonyl 산소까지 포함한 8π로 쓰인 셈이다.
 

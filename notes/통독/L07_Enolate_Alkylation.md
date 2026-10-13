@@ -16,7 +16,7 @@
 
 ## 개요
 
-지금까지 carbonyl 화합물은 주로 nucleophile에게 공격당하는 쪽, 즉 electrophile였다. 그런데 carbonyl 옆 탄소(α-탄소)의 수소를 염기로 떼어 내면 이야기가 뒤집힌다. 이렇게 생긴 enolate는 전자가 풍부한 탄소를 가진 훌륭한 nucleophile가 되어, alkyl halide과 SN2 반응을 하며 새 C-C 결합을 만든다. 이것이 α-alkylation(α-alkylation)이고, 탄소 골격을 늘리는 가장 기본적인 도구 중 하나다. 이 강의는 어떤 염기로 어느 쪽 enolate를 kinetic vs thermodynamic, 1,3-dicarbonyl 화합물을 쓰는 고전적 합성법(acetoacetic ester·malonic ester 합성), enolate가 C와 O 중 어디로 반응하는지, 그리고 키랄 보조기로 한쪽 거울상만 골라 만드는 비대칭 alkylation까지 다룬다. 앞 강의의 Wittig/HWE 반응에서 본 안정화 ylide도 사실은 enolate의 친척이라는 점에서 출발한다.
+지금까지 carbonyl 화합물은 주로 nucleophile에게 공격당하는 쪽, 즉 electrophile였다. 그런데 carbonyl 옆 탄소(α-탄소)의 수소를 염기로 떼어 내면 이야기가 뒤집힌다. 이렇게 생긴 enolate는 전자가 풍부한 탄소를 가진 훌륭한 nucleophile이 되어, alkyl halide과 SN2 반응을 하며 새 C-C 결합을 만든다. 이것이 α-alkylation(α-alkylation)이고, 탄소 골격을 늘리는 가장 기본적인 도구 중 하나다. 이 강의는 어떤 염기로 어느 쪽 enolate를 kinetic vs thermodynamic, 1,3-dicarbonyl 화합물을 쓰는 고전적 합성법(acetoacetic ester·malonic ester 합성), enolate가 C와 O 중 어디로 반응하는지, 그리고 키랄 보조기로 한쪽 거울상만 골라 만드는 비대칭 alkylation까지 다룬다. 앞 강의의 Wittig/HWE 반응에서 본 안정화 ylide도 사실은 enolate의 친척이라는 점에서 출발한다.
 
 ## 0. 복습: 안정화 ylide는 왜 약염기로도 만들어지나?
 
@@ -70,7 +70,7 @@ carbonyl 화합물이 α-H를 잃어 생긴 anion이 enolate이고, 음전하가
 
 반면 LDA를 쓰면 `케톤(pKa 19) + LiN(i-Pr)2 → 리튬 엔올레이트 + HN(i-Pr)2(pKa 38)` 이 되어, 이번에는 생성되는 amine이 훨씬 약한 산이므로 사실상 완전히 오른쪽으로 간다.[2] 그래서 enolate를 정량적으로 만들고 싶을 때는 LDA가 표준이다.
 
-보충: 교과서는 enolate alkylation의 염기 선택을 두 전략으로 정리한다. 하나는 conjugate acid의 pKa가 carbonyl 화합물보다 큰 강염기(LDA 등)로 출발물을 먼저 완전히 enolate로 바꾼 뒤, electrophile를 따로 넣는 2단계 방식이다. 다른 하나는 약한 염기를 electrophile와 함께 넣어 조금씩 생기는 enolate가 생기는 대로 반응하게 하는 방식이다. 후자는 간편하지만 염기와 electrophile가 서로 반응하지 않아야 하고, 남아 있는 carbonyl이 enolate와 자기 축합할 위험이 있다. 그래서 단순 ketone·ester에는 전자(LDA)를 쓰고, 산성이 큰 1,3-dicarbonyl은 alkoxide로도 완전히 deprotonate되며 K2CO3처럼 친핵성이 약한 염기라면 electrophile와 한꺼번에 넣기도 한다. (보충 근거: Clayden p.585, p.595)
+보충: 교과서는 enolate alkylation의 염기 선택을 두 전략으로 정리한다. 하나는 conjugate acid의 pKa가 carbonyl 화합물보다 큰 강염기(LDA 등)로 출발물을 먼저 완전히 enolate로 바꾼 뒤, electrophile을 따로 넣는 2단계 방식이다. 다른 하나는 약한 염기를 electrophile과 함께 넣어 조금씩 생기는 enolate가 생기는 대로 반응하게 하는 방식이다. 후자는 간편하지만 염기와 electrophile이 서로 반응하지 않아야 하고, 남아 있는 carbonyl이 enolate와 자기 축합할 위험이 있다. 그래서 단순 ketone·ester에는 전자(LDA)를 쓰고, 산성이 큰 1,3-dicarbonyl은 alkoxide로도 완전히 deprotonate되며 K2CO3처럼 친핵성이 약한 염기라면 electrophile과 한꺼번에 넣기도 한다. (보충 근거: Clayden p.585, p.595)
 
 (출처: L7 p.5, p.6)
 
@@ -112,7 +112,7 @@ LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 
 
 ### 2.1 enolate는 alkyl halide과 어떻게 반응하나?
 
-carbonyl은 원래 electrophile였다. nucleophile는 C=O 탄소에 nucleophilic addition leaving group을 밀어낸다. 그런데 deprotonation로 enolate가 되면, α-탄소가 전자가 풍부해져 electrophile(E+)와 잘 반응하는 nucleophile로 변신한다.
+carbonyl은 원래 electrophile였다. nucleophile은 C=O 탄소에 nucleophilic addition leaving group을 밀어낸다. 그런데 deprotonation으로 enolate가 되면, α-탄소가 전자가 풍부해져 electrophile(E+)와 잘 반응하는 nucleophile로 변신한다.
 
 그래서 enolate와 alkyl halide을 만나게 하면 다음이 일어난다. (1) 염기가 α-H를 떼어 enolate를 만든다. (2) enolate의 α-탄소가 R-X의 탄소를 뒤쪽에서 공격하는 SN2가 일어나 C-C 결합이 생기고 C-X 결합이 끊어진다. (3) X−가 떠나며 α-치환 carbonyl 화합물이 남는다.
 
@@ -120,7 +120,7 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 
 (출처: L7 p.9, p.10)
 
-### 2.2 실제 ketone alkylation는 어떻게 되나?
+### 2.2 실제 ketone alkylation은 어떻게 되나?
 
 2-methylcyclohexanone을 LDA(DME 용매)로 처리하면 앞에서 본 kinetic lithium enolate(C1=C6)가 생긴다. 여기에 CH3I를 넣으면 LiI가 빠지며 2,6-dimethylcyclohexanone(56%)이, benzyl bromide를 넣으면 2-benzyl-6-methylcyclohexanone(42–45%)이 생긴다.
 
@@ -130,7 +130,7 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 
 그렇다고 선택성이 완벽한 것은 아니다. LDA/THF 후 CH3I 조건에서 kinetic enolate 경로의 2,6-dimethylcyclohexanone이 56%로 주생성물이지만, thermodynamic enolate 경로의 2,2-dimethylcyclohexanone도 6% 섞여 나온다. 결론적으로 LDA/저온 조건에서는 덜 치환된 α-탄소에 alkyl group이 들어간다고 기억하면 된다. 참고로 대칭인 cyclohexanone은 이런 고민 없이 LDA/THF로 enolate(O−Li+)와 diisopropylamine이 생긴다.
 
-보충: alkylation에서 흔한 부반응이 하나 더 있다. monoalkylation 생성물에도 산성 α-H가 남아 있으면, 그것이 다시 deprotonate되어 두 번째 alkylation가 일어난다(다중 alkylation). 염기가 과량이면 이런 일이 쉬워지므로, 한 번만 alkylate하려면 electrophile를 1당량만 쓰는 것이 보통이다. 거꾸로 이 성질을 이용하면 염기와 halide를 차례로 두 번 넣어 같은 탄소에 alkyl group 두 개(서로 달라도 된다)를 넣을 수 있다. 연습 문제 4의 이중 alkylation가 그 예다. (보충 근거: Clayden p.586, p.598)
+보충: alkylation에서 흔한 부반응이 하나 더 있다. monoalkylation 생성물에도 산성 α-H가 남아 있으면, 그것이 다시 deprotonate되어 두 번째 alkylation이 일어난다(다중 alkylation). 염기가 과량이면 이런 일이 쉬워지므로, 한 번만 alkylate하려면 electrophile을 1당량만 쓰는 것이 보통이다. 거꾸로 이 성질을 이용하면 염기와 halide를 차례로 두 번 넣어 같은 탄소에 alkyl group 두 개(서로 달라도 된다)를 넣을 수 있다. 연습 문제 4의 이중 alkylation이 그 예다. (보충 근거: Clayden p.586, p.598)
 
 (출처: L7 p.10, p.11)
 
@@ -158,7 +158,7 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 
 acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, 이 enolate가 R-X와 SN2를 하면 monoalkylation acetoacetic ethyl CH3COCH(R)CO2Et가 생긴다. 그런데 여기서 끝나면 쓸모가 제한적이다. 이 화합물의 진가는 ester 부분을 "지울" 수 있다는 데 있다.
 
-먼저 aq. NaOH로 가열해 ester를 염기성 가수분해하면 carboxylate CH3COCH(R)CO2− Na+가 되고, H3O+로 산성화하면 β-keto acid CH3COCH(R)CO2H가 된다. 이 β-keto acid을 가열하면 decarboxylation가 일어난다. carboxyl group의 O-H 수소가 ketone 산소로 옮겨 가는 6원자 고리형 transition state를 거치며 C-CO2 결합이 끊어지고 CO2가 빠져나가, enol이 생긴다.[7] 최종 생성물은 methyl ketone CH3COCH2R이다.
+먼저 aq. NaOH로 가열해 ester를 염기성 가수분해하면 carboxylate CH3COCH(R)CO2− Na+가 되고, H3O+로 산성화하면 β-keto acid CH3COCH(R)CO2H가 된다. 이 β-keto acid을 가열하면 decarboxylation이 일어난다. carboxyl group의 O-H 수소가 ketone 산소로 옮겨 가는 6원자 고리형 transition state를 거치며 C-CO2 결합이 끊어지고 CO2가 빠져나가, enol이 생긴다.[7] 최종 생성물은 methyl ketone CH3COCH2R이다.
 
 ![β-keto acid이 6원자 고리형 transition state를 거쳐 CO2를 잃고 enol이 된 뒤 methyl ketone으로 tautomerize하는 메커니즘](../../figures/L07/decarboxylation.svg)
 
@@ -180,7 +180,7 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 ### 3.3 malonic ester 합성: carboxylic acid은?
 
-malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 1-bromobutane으로 alkylate하면 butylmalonic diethyl(80–90%)이 된다. 이를 50% KOH로 환류해 두 ester를 모두 가수분해하고, dil. H2SO4로 환류하면 산성화와 동시에 decarboxylation가 일어나 hexanoic acid CH3(CH2)4COOH가 75%로 얻어진다.
+malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 1-bromobutane으로 alkylate하면 butylmalonic diethyl(80–90%)이 된다. 이를 50% KOH로 환류해 두 ester를 모두 가수분해하고, dil. H2SO4로 환류하면 산성화와 동시에 decarboxylation이 일어나 hexanoic acid CH3(CH2)4COOH가 75%로 얻어진다.
 
 이번 decarboxylation의 주인공은 치환 malonic HO2C-CH(R)-CO2H다. 한쪽 carboxyl group의 수소가 다른 쪽 C=O 산소로 넘어가는 6원자 고리형 transition state를 거쳐 CO2가 빠지고, 생긴 enol이 carboxylic acid RCH2COOH로 정리된다. 그래서 malonic diethyl은 R-X에 -CH2COOH를 붙이는 도구라고 요약된다.
 
@@ -196,7 +196,7 @@ malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 
 
 조건은 단순하다. α-H가 있으면 된다. cyclohexanone은 enol 및 enolate로 바뀔 수 있고, α-탄소가 두 개인 2-뷰타논은 위치 이성질 enol 두 개와 위치 이성질 enolate 두 개(CH3CH=C(O−)CH3, CH2=C(O−)CH2CH3)를 갖는다. aldehyde도 cyclopentanecarbaldehyde처럼 α-H가 있으면 enol/enolate(cyclopentyl리덴 C=CH-O−)가 된다.
 
-반대로 α-H가 하나도 없으면 enolization가 non-enolizable. Ph2CO, benzaldehyde(PhCHO), 2,2-dimethylpropanal(pivaldehyde, (CH3)3CCHO), formaldehyde(HCHO)가 그렇다. ester는 methoxide 같은 alkoxide와 가역 평형을 이루며 enolate를 소량 만든다(`에스터 + MeO− ⇌ 에스터 엔올레이트 + MeOH`).
+반대로 α-H가 하나도 없으면 enolization이 non-enolizable. Ph2CO, benzaldehyde(PhCHO), 2,2-dimethylpropanal(pivaldehyde, (CH3)3CCHO), formaldehyde(HCHO)가 그렇다. ester는 methoxide 같은 alkoxide와 가역 평형을 이루며 enolate를 소량 만든다(`에스터 + MeO− ⇌ 에스터 엔올레이트 + MeOH`).
 
 (출처: L7 p.21)
 
@@ -210,7 +210,7 @@ malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 
 
 ### 4.3 그런데 왜 acid chloride, carboxylic acid, amide는 안 되나?
 
-표만 보면 acid chloride(pKa 16)은 꽤 산성인데, 왜 enolate 화학에 쓰지 않을까? dichloroacetyl chloride Cl2CHCOCl를 Et3N으로 처리하면 enolate Cl2C=C(O−)Cl가 생기긴 하지만, 이 enolate는 불안정해서 곧바로 Cl−를 내보내고 dichloroketene Cl2C=C=O가 되어 버린다.
+표만 보면 acid chloride(pKa 16)은 꽤 산성인데, 왜 enolate 화학에 쓰지 않을까? dichloroacetyl chloride Cl2CHCOCl를 Et3N으로 처리하면 enolate Cl2C=C(O−)Cl이 생기긴 하지만, 이 enolate는 불안정해서 곧바로 Cl−를 내보내고 dichloroketene Cl2C=C=O가 되어 버린다.
 
 carboxylic acid은 이유가 다르다. MeO−가 다가가면 C-H보다 훨씬 산성인 O-H(pKa 5)를 먼저 떼어 가므로, 안정한 carboxylate anion만 남는다. N-H가 있는 amide도 마찬가지로 N-H가 먼저 deprotonate되어 amidate anion(O− ↔ N− 공명)이 되고, α-C-H는 손대지 않는다. 즉 "더 산성인 수소가 따로 있으면 그쪽이 먼저 떨어진다".
 
@@ -230,15 +230,15 @@ enolate는 O, C, C 세 원자에 π 전자 4개가 퍼진 3원자 4전자(3-atom
 
 ### 5.2 무엇이 C냐 O냐를 가르나?
 
-첫째는 electrophile의 성질이다. soft electrophile는 C에서, hard electrophile는 O에서 반응한다. Me-X에서 X가 I, Br, Cl이면 soft라서 C-methylation(`R-C(O−)=CH2 + MeI → RCOCH2Me`)가, X가 OMs, OSO2OMe(dimethyl 설페이트), +OMe2(trimethyloxonium)이면 hard라서 O-methylation(`→ R-C(OMe)=CH2`, enol ether)가 일어난다.
+첫째는 electrophile의 성질이다. soft electrophile은 C에서, hard electrophile은 O에서 반응한다. Me-X에서 X가 I, Br, Cl이면 soft라서 C-methylation(`R-C(O−)=CH2 + MeI → RCOCH2Me`)가, X가 OMs, OSO2OMe(dimethyl 설페이트), +OMe2(trimethyloxonium)이면 hard라서 O-methylation(`→ R-C(OMe)=CH2`, enol ether)가 일어난다.
 
-![hard electrophile는 enolate의 O에서, soft electrophile는 C에서 methylation되는 두 경로](../../figures/L07/enolate_c_vs_o.svg)
+![hard electrophile은 enolate의 O에서, soft electrophile은 C에서 methylation되는 두 경로](../../figures/L07/enolate_c_vs_o.svg)
 
 *그림: 위: hard electrophile(X = OMs, OSO₂OMe, ⁺OMe₂)는 음전하가 많이 모인 O⁻(파랑)의 비공유 전자쌍이 CH₃(빨강)를 직접 공격하고, C–X 결합 전자가 X로 떠나 enol ether가 된다(초록: 새 O–C 결합). 아래: soft electrophile(X = I, Br, Cl)는 O⁻의 전자쌍이 C=O를 다시 만들면서 밀려난 C=C π 전자(파랑)가 CH₃를 공격해 ketone이 된다(초록: 새 C–C 결합). 두 경로 모두 마지막 화살표는 C–X 결합이 끊어지는 것이다. (출처: L7 p.25)*
 
 둘째는 금속 cation이다. 큰 알칼리 금속(Cs > K > Na > Li)일수록 enolate와 이온쌍이 더 분리되어 있어 O에서 반응하는 경향이 커진다.[9]
 
-보충: 셋째로 용매도 영향을 준다. DMSO, DMF 같은 극성 비양성자성 용매는 enolate를 금속 cation과 떼어 놓아 산소의 전하가 더 드러나게 하므로 O-alkylation를 돕고, THF·DME 같은 에테르 용매는 C-alkylation를 돕는다. 강의의 LDA alkylation가 THF나 DME에서 진행되는 것과 맞아떨어진다. (보충 근거: Clayden p.590)
+보충: 셋째로 용매도 영향을 준다. DMSO, DMF 같은 극성 비양성자성 용매는 enolate를 금속 cation과 떼어 놓아 산소의 전하가 더 드러나게 하므로 O-alkylation을 돕고, THF·DME 같은 에테르 용매는 C-alkylation을 돕는다. 강의의 LDA alkylation이 THF나 DME에서 진행되는 것과 맞아떨어진다. (보충 근거: Clayden p.590)
 
 (출처: L7 p.25)
 
@@ -246,9 +246,9 @@ enolate는 O, C, C 세 원자에 π 전자 4개가 퍼진 3원자 4전자(3-atom
 
 > 개념 문서: [chiral auxiliary](../../wiki/개념/키랄%20보조기.md), [Evans oxazolidinone](../../wiki/시약/에반스%20옥사졸리디논.md), [LiBH4](../../wiki/시약/LiBH4.md), [enolate chemistry (overview)](../../wiki/개념/엔올레이트%20화학%20개관.md)
 
-### 6.1 보통의 alkylation는 왜 라세미체를 주나?
+### 6.1 보통의 alkylation은 왜 라세미체를 주나?
 
-enolate는 평면이라 electrophile가 위에서 오든 아래에서 오든 확률이 같다. 그래서 R1COCH2R2를 염기와 BrCH2R3로 alkylate해 새 입체 중심이 생기면, 두 거울상 이성질체가 1:1인 라세미 혼합물이 된다.
+enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확률이 같다. 그래서 R1COCH2R2를 염기와 BrCH2R3로 alkylate해 새 입체 중심이 생기면, 두 거울상 이성질체가 1:1인 라세미 혼합물이 된다.
 
 그런데 반응 중심 가까이에 키랄한 기(Aux)가 붙어 있다면? 그 기가 한쪽 면을 더 가리게 되어 입체 이성질체 분포가 한쪽으로 치우친다(주생성물/부생성물, 서로 부분입체 이성질체). 이런 기를 키랄 chiral auxiliary라 하며, 당연히 키랄 중심을 포함해야 한다.[10]
 
@@ -266,7 +266,7 @@ enolate는 평면이라 electrophile가 위에서 오든 아래에서 오든 확
 
 보조기는 목적을 다하면 떼어 내야 한다. alkylate된 N-acyl oxazolidinone을 LiBH4로 환원하면 키랄 1차 alcohol인 2-benzylbutane-1-올(HOCH2CH(Bn)CH2CH3)이, LiOH/H2O2로 가수분해하면 키랄 carboxylic acid인 2-benzylbutanoic acid(HO2CCH(Bn)CH2CH3)이 얻어진다. 어느 경우든 α-입체 중심은 그대로 유지된다.[13]
 
-다만 이 방법은 만능이 아니다. Evans 비대칭 alkylation는 우수한 SN2 electrophile(allyl, benzyl, methyl, X-CH2OR 등)에서 가장 잘 된다.
+다만 이 방법은 만능이 아니다. Evans 비대칭 alkylation은 우수한 SN2 electrophile(allyl, benzyl, methyl, X-CH2OR 등)에서 가장 잘 된다.
 
 (출처: L7 p.28)
 
@@ -286,8 +286,8 @@ enolate는 평면이라 electrophile가 위에서 오든 아래에서 오든 확
 - acetoacetic ester 합성과 malonic ester 합성의 생성물을 섞어 기억하기 쉽지만, 사실은 acetoacetic ethyl → methyl ketone(RCH2COCH3), malonic diethyl → carboxylic acid(RCH2COOH)이다. (출처: L7 p.29)
 - acid chloride은 pKa 16으로 산성이니 좋은 enolate원이라고 생각하기 쉽지만, 사실은 생긴 enolate가 Cl−를 잃고 ketene이 된다. carboxylic acid과 N-H amide는 O-H/N-H가 먼저 떨어져 α-enolate가 생기지 않는다. (출처: L7 p.23)
 - pivaldehyde는 methyl이 아홉 개나 있으니 enolization될 것 같지만, 사실은 carbonyl 옆 α-탄소가 4차 탄소라 α-H가 없다. (출처: L7 p.21)
-- 음전하가 산소에 많으니 enolate는 늘 산소에서 반응한다고 생각하기 쉽지만, 사실은 HOMO가 탄소에 크게 걸려 있어 MeI 같은 soft electrophile는 탄소에서 반응한다. O-반응은 hard electrophile(Me2SO4, MeOMs, Me3O+)나 큰 cation(K+, Cs+)일 때 두드러진다. (출처: L7 p.24, p.25)
-- Evans 보조기가 electrophile를 "끌어당겨" 선택성을 준다고 생각하기 쉽지만, 사실은 Li chelate로 고정된 Z-enolate의 한 면을 보조기 치환기가 가려서, electrophile가 반대 면으로만 접근하게 만드는 것이다. (출처: L7 p.27)
+- 음전하가 산소에 많으니 enolate는 늘 산소에서 반응한다고 생각하기 쉽지만, 사실은 HOMO가 탄소에 크게 걸려 있어 MeI 같은 soft electrophile은 탄소에서 반응한다. O-반응은 hard electrophile(Me2SO4, MeOMs, Me3O+)나 큰 cation(K+, Cs+)일 때 두드러진다. (출처: L7 p.24, p.25)
+- Evans 보조기가 electrophile을 "끌어당겨" 선택성을 준다고 생각하기 쉽지만, 사실은 Li chelate로 고정된 Z-enolate의 한 면을 보조기 치환기가 가려서, electrophile이 반대 면으로만 접근하게 만드는 것이다. (출처: L7 p.27)
 
 ## 반응 정리표
 
@@ -360,7 +360,7 @@ enolate는 평면이라 electrophile가 위에서 오든 아래에서 오든 확
    - (d) acetamide: N-H가 먼저 deprotonate되어 amidate anion 형성.
    - (a) cyclohexanone, (f) acetic acid methyl은 enolate 형성 가능(MeO−와는 가역 평형, LDA로는 정량적). (출처: L7 p.21, p.23)
 
-8. (a) K+ enolate + Me2SO4(hard electrophile, 느슨한 이온쌍): O-methylation → 2-methoxypropene CH2=C(OCH3)CH3(enol ether). Li+ enolate + MeI(soft electrophile): C-methylation → 2-뷰타논 CH3COCH2CH3. 근거: hard electrophile는 전하 밀도가 큰 O, soft electrophile는 HOMO 계수가 큰 C와 반응. 큰 cation일수록 O-반응 증가.
+8. (a) K+ enolate + Me2SO4(hard electrophile, 느슨한 이온쌍): O-methylation → 2-methoxypropene CH2=C(OCH3)CH3(enol ether). Li+ enolate + MeI(soft electrophile): C-methylation → 2-뷰타논 CH3COCH2CH3. 근거: hard electrophile은 전하 밀도가 큰 O, soft electrophile은 HOMO 계수가 큰 C와 반응. 큰 cation일수록 O-반응 증가.
    (b) LiBH4 → 2-benzylbutane-1-ol HOCH2CH(CH2Ph)CH2CH3; LiOH/H2O2 → 2-benzylbutanoic acid HO2CCH(CH2Ph)CH2CH3. 두 경우 모두 α-입체 중심의 배열은 alkylation 생성물에서 그대로 유지되고 oxazolidinone 보조기는 떨어져 나감. (출처: L7 p.24, p.25, p.28)
 
 ## 각주
@@ -379,7 +379,7 @@ enolate는 평면이라 electrophile가 위에서 오든 아래에서 오든 확
 
 [7] 슬라이드는 decarboxylation 다음에 바로 ketone을 그렸지만, 고리형 transition state에서 직접 생기는 것은 enol이고, 이것이 tautomerize하여 ketone이 된다. (출처: L7 p.16)
 
-[8] 이것이 hard/soft 구분의 근거다. 전하 밀도가 큰 O는 전하 charge-controlled 반응을 하는 hard electrophile와, HOMO 계수가 큰 C는 오비탈 orbital-controlled 반응을 하는 soft electrophile와 잘 맞는다. (보충 근거: Clayden p.453) (출처: L7 p.24, p.25 관련 보충)
+[8] 이것이 hard/soft 구분의 근거다. 전하 밀도가 큰 O는 전하 charge-controlled 반응을 하는 hard electrophile과, HOMO 계수가 큰 C는 오비탈 orbital-controlled 반응을 하는 soft electrophile과 잘 맞는다. (보충 근거: Clayden p.453) (출처: L7 p.24, p.25 관련 보충)
 
 [9] 반대로 작은 Li+는 산소에 단단히 배위해 산소를 가려 주므로, lithium enolate는 C-반응에 유리하다. 강의에서 alkylation에 LDA(lithium enolate)와 alkyl halide을 쓰는 것과 맞아떨어진다. (보충 근거: Clayden p.590, p.648) (출처: L7 p.25 관련 보충)
 

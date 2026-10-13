@@ -13,7 +13,7 @@
 
 ## 개요
 
-L1에서는 "alkene의 π 전자가 electrophile를 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
+L1에서는 "alkene의 π 전자가 electrophile을 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
 
 L2는 다음 질문들에 답한다.
 - regioselectivity을 한 줄로 예측하는 요령이 있을까? (δ⁺/δ⁻ 규칙)
@@ -38,7 +38,7 @@ L1에서 본 반응들의 regioselectivity을 다시 보자.
 
 > **시약에서 "δ⁻"로 표시되는 원자(친핵성 부분)는 더 치환된 탄소로, "δ⁺"로 표시되는 원자(친전자성 부분)는 덜 치환된 탄소로 간다.**
 
-이 요령이 통하는 이유는 두 경우 모두 반응 도중 **양전하가 더 치환된 탄소에 쌓이고**, nucleophile가 그 자리로 가기 때문이다. 이 규칙은 뒤에 나오는 수화, TFA addition, 수소붕소화에도 그대로 적용된다. 특히 수소붕소화에서는 B-H 결합의 극성이 뒤집혀 결과가 "반마르코프니코프"가 된다. (출처: L2 p.2-4, L3 p.4)
+이 요령이 통하는 이유는 두 경우 모두 반응 도중 **양전하가 더 치환된 탄소에 쌓이고**, nucleophile이 그 자리로 가기 때문이다. 이 규칙은 뒤에 나오는 수화, TFA addition, 수소붕소화에도 그대로 적용된다. 특히 수소붕소화에서는 B-H 결합의 극성이 뒤집혀 결과가 "반마르코프니코프"가 된다. (출처: L2 p.2-4, L3 p.4)
 
 ### 1.1 diene에서의 두 가지 regioselectivity
 
@@ -65,14 +65,14 @@ isoprene + HBr 반응에서는 regioselectivity 문제가 **두 번** 나온다(
 
 > 개념 문서: [epoxide ring opening](../../wiki/반응/에폭사이드%20고리%20열기.md), [loose SN2 transition state](../../wiki/개념/느슨한%20SN2%20전이%20상태.md)
 
-epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그런데 epoxide는 중성이라 그대로는 잘 열리지 않는다. 고리를 열려면 **산 촉매** 또는 **강한 nucleophile**가 필요하다. 어느 쪽을 쓰느냐에 따라 regioselectivity이 **정반대**가 된다. 이것이 L2에서 가장 중요한 비교 중 하나다. (출처: L2 p.8)
+epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그런데 epoxide는 중성이라 그대로는 잘 열리지 않는다. 고리를 열려면 **산 촉매** 또는 **강한 nucleophile**이 필요하다. 어느 쪽을 쓰느냐에 따라 regioselectivity이 **정반대**가 된다. 이것이 L2에서 가장 중요한 비교 중 하나다. (출처: L2 p.8)
 
 ### 2.1 산 촉매 조건 (MeOH, H⁺)
 
 1. epoxide 산소가 protonate되어 양전하를 띤 intermediate가 된다.
 2. 이제 C-O 결합이 약해지고 늘어나면서 탄소에 부분 양전하가 생긴다. alkyl group 두 개가 붙은 **3차 탄소**가 이 양전하를 더 잘 견딘다.
 3. MeOH는 바로 그 **더 치환된 탄소**를 공격한다. transition state는 L1에서 본 "느슨한 S<sub>N</sub>2"다.
-4. deprotonation가 일어나 2-methoxy-2-methyl-1-propanol((CH₃)₂C(OMe)CH₂OH)이 된다.
+4. deprotonation이 일어나 2-methoxy-2-methyl-1-propanol((CH₃)₂C(OMe)CH₂OH)이 된다.
 
 이 경우 regioselectivity은 **전자 효과**가 결정하며, bromonium 이온이 열리는 경우와 똑같다. (출처: L2 p.8)
 
@@ -82,8 +82,8 @@ epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그�
 
 ### 2.2 염기성 조건 (MeO⁻)
 
-1. protonation가 일어나지 않으므로 양전하도 쌓이지 않는다.
-2. protonate되지 않은 epoxide 산소는 **나쁜 leaving group**라서, 강한 nucleophile가 밀어줄 때만 떠난다. 그래서 반응은 **순수한 S<sub>N</sub>2**가 된다.
+1. protonation이 일어나지 않으므로 양전하도 쌓이지 않는다.
+2. protonate되지 않은 epoxide 산소는 **나쁜 leaving group**라서, 강한 nucleophile이 밀어줄 때만 떠난다. 그래서 반응은 **순수한 S<sub>N</sub>2**가 된다.
 3. 순수한 S<sub>N</sub>2에서는 **입체 장애**가 관건이므로, methoxide는 **1차 탄소(덜 치환된 쪽)** 만 공격한다.
 4. 생긴 alkoxide가 MeOH에서 양성자를 받아 1-methoxy-2-methyl-2-propanol((CH₃)₂C(OH)CH₂OMe)이 된다.
 
@@ -109,13 +109,13 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 - cyclohexene --[Br₂]--> *trans*-1,2-dibromocyclohexane(±). **이 부분입체이성질체 하나만** 생긴다.
   - 1단계에서 Br⁺가 한쪽 면에 bromonium 이온을 만든다.
   - 2단계에서 Br⁻가 **반대쪽 면**에서 S<sub>N</sub>2로 공격한다(반전).
-  - 처음 생기는 형태는 두 Br이 모두 **축 diaxial** 에 있는 의자 형태다. 이것이 빠르게 고리 ring inversion를 거쳐 **이중 적도 diequatorial** 형태로 바뀐다.
+  - 처음 생기는 형태는 두 Br이 모두 **축 diaxial** 에 있는 의자 형태다. 이것이 빠르게 고리 ring inversion을 거쳐 **이중 적도 diequatorial** 형태로 바뀐다.
 
 (출처: L2 p.10)
 
 보충: cyclohexene은 고리 안의 이중결합이 *Z*일 수밖에 없어서 "출발 alkene의 기하가 생성물을 결정한다"는 stereospecificity을 직접 보여 주지 못한다. 이것은 2-butene으로 확인한다. *Z*-2-butene에 Br₂를 첨가하면 (2*R*,3*R*)/(2*S*,3*S*)-2,3-dibromobutane **라세미체**만, *E*-2-butene에서는 **메소**-2,3-dibromobutane만 생긴다. 두 경우 모두 anti 첨가이며, 기하 이성질체마다 서로 다른 부분입체이성질체가 하나씩 나온다는 사실 자체가 bromonium 이온 intermediate의 증거다. OsO₄(syn 첨가)와 결과가 정반대라는 점(연습 문제 4번)과 비교해 두면 좋다. (보충 근거: Clayden p.439–440)
 
-> 왜 diaxial로 먼저 생길까? S<sub>N</sub>2의 nucleophile와 leaving group은 일직선(180°)이어야 한다. 그래서 고리 위에서 새로 생기는 C-Br 결합과 남아 있는 C-Br 결합이 서로 반대 방향인 축 방향 배치가 되는 것이다.[1]
+> 왜 diaxial로 먼저 생길까? S<sub>N</sub>2의 nucleophile과 leaving group은 일직선(180°)이어야 한다. 그래서 고리 위에서 새로 생기는 C-Br 결합과 남아 있는 C-Br 결합이 서로 반대 방향인 축 방향 배치가 되는 것이다.[1]
 
 ### 3.1 NBS: 다루기 쉬운 bromine 공급원
 
@@ -222,7 +222,7 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 
 ### 6.1 산 촉매 수화
 
-alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이 hydration다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
+alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이 hydration이다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
 
 - methylylenecyclohexane --[H₂O, H⁺]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. δ⁺인 H가 CH₂에, δ⁻인 OH가 3차 탄소에 붙는다.
 - 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 HSO₄⁻가 염기로 작용해 β-H를 떼어낸다.
@@ -277,7 +277,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 유기보레인을 **NaOH와 H₂O₂**로 처리하면 C-B 결합이 C-O 결합으로 바뀐다.
 1. hydroperoxide anion(HOO⁻)이 보론의 빈 p 궤도함수에 결합해 음전하를 띤 보론 "ate" 착물이 된다.
 2. 약한 O-O 결합이 끊어져 HO⁻가 떨어지는 동시에, 보론에 붙어 있던 **alkyl group이 B에서 O로 이동**한다.
-3. HO⁻가 B를 공격해 붕소 ester를 가수분해한다. 이어서 protonation가 일어나 alcohol이 된다.
+3. HO⁻가 B를 공격해 붕소 ester를 가수분해한다. 이어서 protonation이 일어나 alcohol이 된다.
 
 예: Ph-C(CH₃)=CH₂ --[1. HBR₂; 2. H₂O₂, NaOH]--> Ph-CH(CH₃)-CH₂OH. OH가 **덜 치환된 탄소**에 붙는다. (출처: L2 p.25)
 
@@ -347,7 +347,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ## 정답 및 해설
 
-1. (a) (CH₃)₂C(OMe)CH₂OH. 산이 epoxide를 protonate하면 느슨한 S<sub>N</sub>2 transition state에서 3차 탄소에 부분 양전하가 쌓이므로 MeOH가 3차 탄소를 공격한다(전자 효과). (b) (CH₃)₂C(OH)CH₂OMe. protonation가 없으면 순수 S<sub>N</sub>2이므로 MeO⁻가 덜 붐비는 1차 탄소를 공격한다(입체 효과). (L2 p.8-9)
+1. (a) (CH₃)₂C(OMe)CH₂OH. 산이 epoxide를 protonate하면 느슨한 S<sub>N</sub>2 transition state에서 3차 탄소에 부분 양전하가 쌓이므로 MeOH가 3차 탄소를 공격한다(전자 효과). (b) (CH₃)₂C(OH)CH₂OMe. protonation이 없으면 순수 S<sub>N</sub>2이므로 MeO⁻가 덜 붐비는 1차 탄소를 공격한다(입체 효과). (L2 p.8-9)
 2. *trans*-1,2-dibromocyclohexane(±)이 생긴다. Br⁻가 bromonium 이온의 반대쪽에서 S<sub>N</sub>2로 공격하므로 처음에는 두 Br이 모두 축 방향인 diaxial 형태로 생긴다. 이것이 고리 뒤집기를 거쳐 두 Br이 적도 방향인 diequatorial 형태로 바뀐다. (L2 p.10)
 3. *trans*-2-bromo-1-methylcyclohexanol(±)이 생긴다. OH는 methyl이 붙은 3차 탄소에, Br은 2차 탄소에 서로 anti로 붙는다. 근거는 L2 p.12의 alcohol 예와 같은 원리(느슨한 S<sub>N</sub>2, 3차 탄소가 양전하 안정화)다.
 4. syn 첨가이므로 *E*-alkene에서는 두 OH와 R이 지그재그 사슬에서 서로 반대쪽에 놓인 diol이 생긴다. 피셔 투영식으로는 *threo*형이며, R이 같으면 **라세미체**다. *Z*-alkene에서는 *erythro*형이 생기며, R이 같으면 **메소 화합물**이다. 예를 들어 *trans*-2-butene은 (2*R*,3*R*)/(2*S*,3*S*)-2,3-butanediol 라세미체를, *cis*-2-butene은 *meso*-2,3-butanediol을 준다. (원리: L2 p.14-15. 메소/라세미 판정은 표준 입체화학에 따른 보충 설명.) (보충 근거: Wade p.365)

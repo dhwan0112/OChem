@@ -20,7 +20,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 ## 강의 흐름
 
 ### 1. conjugated system과 β-탄소의 δ+ (슬라이드 p.3)
-- C=O와 짝지은 C=C는 공명으로 carbonyl 탄소와 β-탄소 두 곳이 δ+가 된다. IR(1675 cm⁻¹)과 ¹³C NMR(β-C 약 140 ppm)이 그 증거다. β,γ-불포화 ketone은 해당 없다.
+- C=O와 짝지은 C=C는 공명으로 carbonyl 탄소와 β-탄소 두 곳이 δ+가 된다. IR(1675 cm⁻¹)과 ¹³C NMR(β-C 약 140 ppm)이 그 증거다. β,γ-unsaturated ketone은 해당 없다.
 - → [conjugate addition](../wiki/반응/공액%20첨가.md)의 "원리"
 
 ### 2. conjugate addition(Michael addition)의 일반형 (슬라이드 p.4)

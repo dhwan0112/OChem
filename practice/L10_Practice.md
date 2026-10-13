@@ -26,7 +26,7 @@ intermediate와 생성물의 구조를 제시하라 (Propose the structures of t
 
 ### 해설
 
-이 문제의 핵심은 왜 아무 탄소도 아닌 바로 그 자리에서 고리가 닫히고, alkylation가 일어나고, CO2가 빠지는가이다. 답은 모두 하나의 원리, 즉 "두 carbonyl 사이 수소의 산성도"로 이어진다.
+이 문제의 핵심은 왜 아무 탄소도 아닌 바로 그 자리에서 고리가 닫히고, alkylation이 일어나고, CO2가 빠지는가이다. 답은 모두 하나의 원리, 즉 "두 carbonyl 사이 수소의 산성도"로 이어진다.
 
 첫 단계는 Dieckmann condensation, 즉 분자 내 Claisen condensation(intramolecular Claisen condensation)이다(→ [L9](../notes/L09_Claisen_Condensation.md) Claisen 문서 참고). EtONa가 한쪽 ester의 α-CH2를 deprotonate하여 ester enolate를 만들고, 이것이 반대편 ester의 carbonyl을 공격한다. 고리 원자를 세어 보면 α-C, CH2, N, CH2, CH2, C(=O)로 6원 고리가 되므로 thermodynamic으로 유리하다. tetrahedral intermediate에서 EtO⁻가 떨어져 나가면 β-ketoester가 생긴다. 그런데 이 단계는 그 자체로는 평형이 불리할 수도 있다. 그래서 실제 구동력은 생성된 β-ketoester의 C3-H(pKa 약 11)가 EtO⁻에 의해 곧바로 deprotonate되는 마지막 단계에서 나온다. 공식 풀이는 산 처리 후의 중성 형태를 그린 것이다.
 
@@ -34,7 +34,7 @@ intermediate와 생성물의 구조를 제시하라 (Propose the structures of t
 
 세 번째 단계에서 NaOH 수용액은 ester를 saponification하여 carboxylate로 바꾸고, NH4Cl로 퀜칭하여 β-keto acid(β-keto acid)을 얻는다. 마지막으로 가열하면 β-keto acid은 6원 고리 transition state(cyclic six-membered transition state)를 거쳐 CO2를 내놓고 enol이 되며, enol은 keto 형태로 tautomerization한다(→ [L10](../notes/L10_Enol_and_Enamine.md) enol 문서 참고). 즉 CO2Et는 "enolate를 만들기 쉽게 해 주는 임시 활성화기"였고, 역할을 마친 뒤 제거되는 것이다. 최종적으로 piperidine-4-one의 3번 위치에 allyl group 하나만 남는다.
 
-검토 의견: 공식 답 자체는 옳다. 다만 (C)는 분자 안에 3차 amine(N-CH3)과 carboxylic acid이 함께 있으므로, 약산인 NH4Cl(pKa 약 9.2)로 퀜칭한 상태에서는 실제로 zwitterion(암모늄 carboxylate) 형태로 존재할 가능성이 높다. 공식 풀이의 중성 COOH 표기는 단순화한 것으로 이해하면 된다. decarboxylation에는 COOH(protonate된 형태)가 필요하며, 강산 대신 NH4Cl을 쓰는 이유는 amine의 과도한 protonation를 피하면서 β-keto acid을 얻기 위한 것으로 해석할 수 있다.
+검토 의견: 공식 답 자체는 옳다. 다만 (C)는 분자 안에 3차 amine(N-CH3)과 carboxylic acid이 함께 있으므로, 약산인 NH4Cl(pKa 약 9.2)로 퀜칭한 상태에서는 실제로 zwitterion(암모늄 carboxylate) 형태로 존재할 가능성이 높다. 공식 풀이의 중성 COOH 표기는 단순화한 것으로 이해하면 된다. decarboxylation에는 COOH(protonate된 형태)가 필요하며, 강산 대신 NH4Cl을 쓰는 이유는 amine의 과도한 protonation을 피하면서 β-keto acid을 얻기 위한 것으로 해석할 수 있다.
 
 ### 핵심 개념
 
@@ -104,7 +104,7 @@ malonic ester 합성으로 탄소 사슬을 늘리고(C3 + C3 - CO2 = C5), oxala
 
 마지막으로 iminium 이온은 다시 이웃 탄소의 H를 잃어 enamine이 되는데, 이번에는 원래 ketone 쪽 고리의 CH2에서 H가 빠져 고리 안(endocyclic) C=C가 형성된다. 동시에 alkoxide는 양성자를 받아 OH가 된다. 즉 최종 생성물은 2차 alcohol과 enamine을 가진 삼환 화합물이다. 문제에 수용액 hydrolysis 단계가 주어져 있지 않으므로, 공식 풀이는 iminium을 ketone으로 되돌리지 않고 중성 enamine 형태를 최종 생성물로 그린다.
 
-검토 의견: 공식 풀이의 연결 관계(어떤 결합이 형성되는지)와 생성물은 옳다. 다만 반응 조건이 "acid"인데 메커니즘에서는 OH⁻가 leaving group 및 염기로, O⁻(alkoxide)가 염기로 그려져 있다. 산성 조건에서는 OH가 먼저 protonate되어 H2O로 떠나고, deprotonation는 물이나 짝염기가 담당하며, aldehyde carbonyl은 protonation(또는 공격 직후 양성자 전달)되어 alkoxide 대신 중성 OH가 생긴다고 쓰는 것이 조건에 더 맞는 표기이다. 시험 답안에서는 산 조건에 맞춘 양성자 전달 단계를 쓰는 편이 안전하다.
+검토 의견: 공식 풀이의 연결 관계(어떤 결합이 형성되는지)와 생성물은 옳다. 다만 반응 조건이 "acid"인데 메커니즘에서는 OH⁻가 leaving group 및 염기로, O⁻(alkoxide)가 염기로 그려져 있다. 산성 조건에서는 OH가 먼저 protonate되어 H2O로 떠나고, deprotonation은 물이나 짝염기가 담당하며, aldehyde carbonyl은 protonation(또는 공격 직후 양성자 전달)되어 alkoxide 대신 중성 OH가 생긴다고 쓰는 것이 조건에 더 맞는 표기이다. 시험 답안에서는 산 조건에 맞춘 양성자 전달 단계를 쓰는 편이 안전하다.
 
 ### 핵심 개념
 
