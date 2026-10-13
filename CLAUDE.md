@@ -4,7 +4,7 @@ NUS CM3121(고급 유기화학) 한국어 학습 노트 저장소다. 학습자�
 
 ## 학습자 선호
 - 한국어로 공손하게 쓰고, 이모지는 쓰지 않는다. 출처를 분명히 하고 오류를 줄인다.
-- **주요 화학 용어는 영어로 바로 쓴다**(enolate, conjugate addition, Diels–Alder, endo, HOMO/LUMO, carbocation 등). 문장과 설명은 한국어다. 처음 나올 때만 필요하면 괄호로 한국어를 덧붙인다. 위키 문서 제목(파일 이름)은 링크 때문에 바꾸지 않고, `[conjugate addition](../반응/공액%20첨가.md)`처럼 보이는 글자를 영어로 쓴다.
+- **화학 용어와 화합물 이름은 영어 위주로 쓴다.** 반응·메커니즘·개념 용어(enolate, conjugate addition, Diels–Alder, endo, HOMO/LUMO, carbocation, nucleophile, regioselectivity 등), **화합물 이름**(cyclohexanone, acetaldehyde, benzaldehyde, pentane-2,4-dione, methyl vinyl ketone, cyclopentadiene, maleic anhydride 등), 작용기 이름(ester, amide, ketone, alkene 등), 시약·인명반응 이름(LDA, mCPBA, Wittig, Claisen 등)은 한글 음차(사이클로헥사논, 아세트알데하이드, 에스터 등)로 쓰지 않고 영어로 쓴다. 한국어는 문장 구조와 설명, 그리고 "산", "염기", "첨가", "고리"처럼 일상어에 가까운 말에만 쓴다. 한국어 병기는 꼭 필요할 때 처음 한 번만 괄호로 한다. 위키 문서 제목(파일 이름)은 링크 때문에 바꾸지 않고, `[conjugate addition](../반응/공액%20첨가.md)`처럼 보이는 글자를 영어로 쓴다.
 - **설명의 본체는 개념별 위키 문서**에 둔다. 강의 노트(`notes/`)는 강의 순서, 슬라이드 위치, 개념 문서 링크만 담은 **뼈대**다. 새 설명이나 보충은 강의 노트가 아니라 해당 개념 문서에 넣는다. `notes/통독/`은 재구성 직전(2026-10-12) 전체 강의 노트의 보존 사본이므로 글을 고치지 않는다(링크가 깨질 때 고치는 것과, 개념 문서에 새로 넣은 그림을 같은 소절에 함께 넣는 것만 허용).
 - 노트는 **나무위키식 서술형**으로 쓴다. 개요부터 시작해 "왜?"라는 질문에 답하는 흐름으로 쓰고, 각주, 교차 참조, "흔한 오해" 섹션을 넣는다. 문체 세부는 `notes/` 기존 문서를 따른다.
 - 학습자는 **다크 모드**로 화면을 본다.
