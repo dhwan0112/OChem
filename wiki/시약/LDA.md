@@ -19,7 +19,7 @@ THF에서 *n*-BuLi와 diisopropylamine을 섞는다.
 
 `n-BuLi + HN(i-Pr)₂ --[THF]--> LiN(i-Pr)₂ + pKa 50`
 
-BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약한 산인 뷰테인이 기체로 빠져나가므로 되돌아가지 않는다. (출처: L7 p.6)
+BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약한 산인 butane이 기체로 빠져나가므로 되돌아가지 않는다. (출처: L7 p.6)
 
 ## 원리
 
@@ -34,11 +34,11 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ### 왜 친핵성이 없나
 
-그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-테트라메틸피페리다이드)와 LHMDS(LiN(SiMe₃)₂)가 있다. (출처: L7 p.6)
+그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-tetramethylpiperidide)와 LHMDS(LiN(SiMe₃)₂)가 있다. (출처: L7 p.6)
 
 ## 선택성
 
-- **regioselectivity:** −78 °C에서 LDA는 가장 덜 가려진 α-H를 빨리, 비가역적으로 떼어 간다. 그래서 비대칭 ketone에서는 덜 치환된 C=C의 enolate가 생긴다. 2-헵타논은 methyl 쪽만 100 : 0으로 deprotonate된다. (출처: L7 p.8, p.11–12)
+- **regioselectivity:** −78 °C에서 LDA는 가장 덜 가려진 α-H를 빨리, 비가역적으로 떼어 간다. 그래서 비대칭 ketone에서는 덜 치환된 C=C의 enolate가 생긴다. 2-heptanone은 methyl 쪽만 100 : 0으로 deprotonate된다. (출처: L7 p.8, p.11–12)
 - **화학선택성:** 친핵성이 없으므로 carbonyl에 첨가하지 않는다. (출처: L7 p.6)
 
 ![2-methylcyclohexanone의 kinetic/thermodynamic enolate](../../figures/L07/kinetic_thermo_enolate.svg)

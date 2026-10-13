@@ -20,12 +20,12 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 **일차 cycloaddition물(Diels–Alder 생성물):** cis-융합 이환(bicyclo[4.4.0]) 화합물.
 - 새 고리: Cα(CO2Me, 고리 융합 사차 탄소) – CH(OMe) – CH= C(OSiMe3) – CH2 – Cβ(H, 고리 융합) – Cα
 - 원래 고리: Cα – CH2 – CH=CH – CH2 – Cβ (고립 이중결합 유지)
-- 나프탈렌 번호로 쓰면: 4a-CO2Me, 4-OMe, 2-OSiMe3, Δ2(silyl enol ether), Δ6, 8a-H. 즉 methyl 4-메톡시-2-(trimethylsilyl옥시)-cis-4a,8a-융합 hexahydronaphthalene-4a-carboxylate 형태다.
+- naphthalene 번호로 쓰면: 4a-CO2Me, 4-OMe, 2-OSiMe3, Δ2(silyl enol ether), Δ6, 8a-H. 즉 methyl 4-methoxy-2-(trimethylsilyl옥시)-cis-4a,8a-융합 hexahydronaphthalene-4a-carboxylate 형태다.
 - 고리 융합: 4a-CO2Me와 8a-H는 cis(→ cis-융합).
 - OMe의 상대배치: endo 규칙을 적용하면 OMe는 CO2Me와 cis다. [불확실: 아래 해설 참고]
 
 **산 후처리 시(Danishefsky diene의 일반적 후속 반응, L15 p.26):** silyl enol ether가 가수분해되어 ketone이 되고, β-OMe가 제거되어 cyclohexenone이 된다.
-- 생성물: cis-4a-(메톡시카보닐)-4a,5,8,8a-tetrahydronaphthalene-2(1H)-온 유형. 즉 C2=O, C3=C4 enone(C4는 4a에 인접), Δ6 alkene, cis-고리 융합.
+- 생성물: cis-4a-(methoxycarbonyl)-4a,5,8,8a-tetrahydronaphthalene-2(1H)-온 유형. 즉 C2=O, C3=C4 enone(C4는 4a에 인접), Δ6 alkene, cis-고리 융합.
 - 문제는 "cycloaddition 생성물"을 물었으므로 일차 생성물을 답으로 하되, 산 처리 생성물도 함께 알아 두는 것이 좋다.
 
 ### 해설
@@ -71,15 +71,15 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 ### 풀이 제안 (공식 답 없음)
 
 **(a)**
-- A = dimethyl 사이클로뷰트-1-엔-1,2-다이카복실레이트(dimethyl cyclobut-1-ene-1,2-dicarboxylate)
-- B = 3-methyl사이클로헥스-2-엔-1-온(3-methylcyclohex-2-en-1-one)
+- A = dimethyl 사이클로뷰트-1-ene-1,2-다이카복실레이트(dimethyl cyclobut-1-ene-1,2-dicarboxylate)
+- B = 3-methylcyclohex-2-ene-1-온(3-methylcyclohex-2-en-1-one)
 - `A + B --[hν (광화학 [2+2])]--> C`
 - C = 광화학 cycloaddition물(cis-anti-cis 삼환 keto diester). L14 p.28 슬라이드의 예시와 **동일한 반응**이다.
 - `C --[NaBH4 (케톤 환원); 이어서 분자 내 락톤화(필요시 산 촉매 또는 가열)]--> 표적 1`
 
 **(b)**
 - C = (E)-데카-1,7,9-triene-3-온((E)-deca-1,7,9-trien-3-one, CH2=CH–CO–CH2CH2CH2–CH=CH–CH=CH2). 이 화합물이 분자 내 Diels–Alder(intramolecular Diels–Alder, IMDA)를 일으켜 표적 2가 된다.
-- 제안 1(권장): A = (E)-N-메톡시-N-methyl옥타-5,7-dieneamide(Weinreb amide, CH2=CH–CH=CH–(CH2)3–CON(OMe)Me), B = 바이닐마그네슘 bromide(CH2=CHMgBr) → C(바이닐 ketone)가 생기자마자 실온 부근에서 IMDA.
+- 제안 1(권장): A = (E)-N-methoxy-N-methyl옥타-5,7-dieneamide(Weinreb amide, CH2=CH–CH=CH–(CH2)3–CON(OMe)Me), B = 바이닐마그네슘 bromide(CH2=CHMgBr) → C(바이닐 ketone)가 생기자마자 실온 부근에서 IMDA.
 - 제안 2(대안): A = (E)-옥타-5,7-diene알, B = CH2=CHMgBr → allyl alcohol → DMP 산화로 바이닐 ketone을 만들고 in situ IMDA. 이 경우 실제로는 산화 단계가 하나 더 필요하다.
 - [불확실] 문제의 상자 배치(A + B → C, C → 표적 사이 화살표에 시약 상자 없음)로 보아 C가 곧 trienone이라고 해석했다. A + B 단계가 출제자가 의도한 반응인지는 확인할 수 없다. 핵심인 "C = trienone, (E)-diene, endo IMDA → cis-융합"은 비교적 확실하다.
 
@@ -91,7 +91,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 다음은 락톤화다. NaBH4가 ketone을 이차 alcohol로 환원한다. 그런데 락톤이 닫히려면 새 OH가 가까운 쪽 ester(고리 융합 H 쪽 사차 탄소의 CO2Me)와 같은 면에 있어야 한다. 반대 면의 OH로는 5원자 락톤을 만들 수 없다. 오목한 삼환 골격에서 수소화물은 덜 막힌 볼록면, 즉 고리 융합 H 쪽 면에서 들어올 것으로 예상된다. 그러면 OH는 ester와 같은 면에 놓이고, 분자 내 ester 교환(MeOH 이탈)으로 γ-락톤이 닫힌다. [불확실] 환원의 면 선택성은 정성적 추론이다. 원하지 않는 에피머가 생기면 그 에피머는 락톤화되지 않는다.
 
-**(b)** 이 문제의 핵심은 "in situ DA"라는 힌트가 무엇을 가리키느냐이다. 먼저 표적의 C5=C6 이중결합 위치를 보자. Diels–Alder로 생긴 cyclohexene에서 새 C=C는 언제나 diene의 가운데 두 탄소(C2, C3) 사이에 생긴다. 그런데 표적에서는 C=C가 고리 융합 탄소 C4a 바로 옆에 있다. 그래서 C4a는 diene의 말단 탄소여야 하고, 다른 융합 탄소 C8a는 dienophile 탄소여야 한다. 즉 고리 융합 결합(C4a–C8a) 자체가 DA로 생긴 결합이다. 그런데 두 융합 탄소는 ketone 고리(C1–C4)로도 이미 연결되어 있다. 그래서 이 반응은 diene과 dienophile가 한 분자 안에 있는 분자 내 Diels–Alder(IMDA)여야 한다. 거꾸로 펼치면 dienophile(바이닐 ketone CH2=CH–CO–)와 diene(–CH=CH–CH=CH2)이 (CH2)3 사슬로 이어진 데카-1,7,9-triene-3-온이 C가 된다.
+**(b)** 이 문제의 핵심은 "in situ DA"라는 힌트가 무엇을 가리키느냐이다. 먼저 표적의 C5=C6 이중결합 위치를 보자. Diels–Alder로 생긴 cyclohexene에서 새 C=C는 언제나 diene의 가운데 두 탄소(C2, C3) 사이에 생긴다. 그런데 표적에서는 C=C가 고리 융합 탄소 C4a 바로 옆에 있다. 그래서 C4a는 diene의 말단 탄소여야 하고, 다른 융합 탄소 C8a는 dienophile 탄소여야 한다. 즉 고리 융합 결합(C4a–C8a) 자체가 DA로 생긴 결합이다. 그런데 두 융합 탄소는 ketone 고리(C1–C4)로도 이미 연결되어 있다. 그래서 이 반응은 diene과 dienophile가 한 분자 안에 있는 분자 내 Diels–Alder(IMDA)여야 한다. 거꾸로 펼치면 dienophile(바이닐 ketone CH2=CH–CO–)와 diene(–CH=CH–CH=CH2)이 (CH2)3 사슬로 이어진 데카-1,7,9-triene-3-one이 C가 된다.
 
 그렇다면 왜 "in situ"인가? 바이닐 ketone은 매우 반응성이 큰 dienophile다. 게다가 분자 내 반응이라 유효 농도가 높아 생성되자마자 고리화가 진행된다. 그래서 C를 분리하지 않고 그 자리에서 DA가 일어난다. 이런 바이닐 ketone은 Weinreb amide에 바이닐 Grignard를 더해 한 번에 만드는 것이 가장 깔끔하다(Weinreb amide는 과첨가 없이 ketone에서 멈춘다). [불확실] Weinreb amide가 강의 범위인지는 확인하지 못했다. 강의 범위로만 풀어야 한다면 제안 2(aldehyde + 바이닐 Grignard → allyl alcohol → DMP oxidation → in situ IMDA)가 대안이다.
 
@@ -110,16 +110,16 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 다음 반응의 메커니즘을 제안하라(힌트: 핵심 단계는 cycloaddition). regioselectivity을 설명하고, 이 반응이 Woodward–Hoffmann 규칙에 따라 허용되는지 답하라.
 
-`2-브로모-2-메틸-N-R-프로판아마이드 (Me2CBr–CO–NHR) + 트로폰 (tropone, 사이클로헵타-2,4,6-트라이엔-1-온) --[Na2CO3, solvent]--> 2,2-다이메틸-4-R-사이클로헵타[b][1,4]옥사진-3-온 유형 이환 생성물`
+`2-브로모-2-methyl-N-R-프로판아마이드 (Me2CBr–CO–NHR) + 트로폰 (tropone, 사이클로헵타-2,4,6-트라이엔-1-one) --[Na2CO3, solvent]--> 2,2-다이메틸-4-R-사이클로헵타[b][1,4]옥사진-3-one 유형 이환 생성물`
 
-생성물 구조: 6원자 1,4-옥사진-3-온 고리(O–CMe2–C(=O)–N(R)–CH–C)가 cycloheptatriene에 융합되어 있다. tropone의 산소가 CMe2에 결합하고, tropone의 C2(α-탄소)가 N에 결합하며 sp3 CH가 된다. 원래 C=O 탄소는 enol ether 탄소(C=C–O)가 된다.
+생성물 구조: 6원자 1,4-oxazine-3-one 고리(O–CMe2–C(=O)–N(R)–CH–C)가 cycloheptatriene에 융합되어 있다. tropone의 산소가 CMe2에 결합하고, tropone의 C2(α-탄소)가 N에 결합하며 sp3 CH가 된다. 원래 C=O 탄소는 enol ether 탄소(C=C–O)가 된다.
 
 (출처: Tutorial_Questions_4 p.2)
 
 ### 풀이 제안 (공식 답 없음)
 
 **메커니즘:**
-1. Na2CO3가 amide N–H를 deprotonate하여 아마이데이트 anion Me2CBr–C(O)=N⁻R을 만든다.
+1. Na2CO3가 amide N–H를 deprotonate하여 amidate anion Me2CBr–C(O)=N⁻R을 만든다.
 2. Br⁻가 이탈하며 **아자-옥시알릴 cation(aza-oxyallyl cation)**이 생긴다. 공명 구조는 [Me2C⁺–C(=O)–N⁻R ↔ Me2C=C(O⁻)–N⁺R…]이며, 전체적으로 중성인 1,3-쌍극자형 화학종이다. 3원자(C–C–N) π계에 전자 2개가 있고, 중앙 탄소에 O⁻가 붙은 구조로, L14의 옥시알릴 cation의 질소 유사체다.
 3. 아자-옥시알릴 cation(3원자, 2π)과 tropone(O=C1–C7=C6–C5=C4–C3=C2의 8원자, 8π)이 cycloaddition한다. CMe2–O(tropone) 결합과 N–C2(tropone) 결합이 생긴다. 이것은 원자 수로 [8+3], 전자 수로 [8π + 2π] cycloaddition다.
 4. 그 결과 tropone 쪽 이중결합은 C1=C7, C6=C5, C4=C3로 재배치되고, C2는 sp3(H, N)가 되어 생성물이 된다.
@@ -134,7 +134,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 이 문제의 핵심은 생성물의 6원자 고리가 어떤 두 성분의 어떤 원자들로 만들어졌는지 알아내는 것이다. 생성물 고리를 한 바퀴 돌면 O, CMe2, C=O, N, CH, C(enol ether)이다. 이 중 CMe2–C(=O)–N은 amide에서, O–C–CH는 tropone에서 왔다. 그래서 새로 생긴 결합은 O–CMe2와 N–CH, 두 개다. 두 결합이 한 번에 생겨 고리가 닫히므로 cycloaddition로 볼 수 있다.
 
-그런데 α-브로모아마이드 자체는 cycloaddition를 할 수 없다. 그래서 먼저 반응성 intermediate를 만들어야 한다. 염기가 N–H를 떼어 내면 질소 anion이 생기고, 이것이 이웃 탄소의 Br⁻를 밀어내도록 돕는다. 그러면 Me2C carbocation, C–O⁻, N이 하나의 π계로 이어진 아자-옥시알릴 cation이 된다. 이 화학종은 강의에서 [4+3]에 쓰인 allyl cation과 똑같은 전자 구조를 가진다. 즉 3원자에 π전자 2개다. (→ [L14](../notes/L14_Cycloaddition_Part2.md) p.23–24 [4+3] 참고) 한쪽 끝(CMe2)은 친전자적이고 다른 끝(N)은 친핵적이라는 점에서 1,3-쌍극자와도 닮았다. (→ [L15](../notes/L15_Cycloaddition_Part3.md) p.13 1,3-쌍극자 참고)
+그런데 α-bromo아마이드 자체는 cycloaddition를 할 수 없다. 그래서 먼저 반응성 intermediate를 만들어야 한다. 염기가 N–H를 떼어 내면 질소 anion이 생기고, 이것이 이웃 탄소의 Br⁻를 밀어내도록 돕는다. 그러면 Me2C carbocation, C–O⁻, N이 하나의 π계로 이어진 아자-옥시알릴 cation이 된다. 이 화학종은 강의에서 [4+3]에 쓰인 allyl cation과 똑같은 전자 구조를 가진다. 즉 3원자에 π전자 2개다. (→ [L14](../notes/L14_Cycloaddition_Part2.md) p.23–24 [4+3] 참고) 한쪽 끝(CMe2)은 친전자적이고 다른 끝(N)은 친핵적이라는 점에서 1,3-쌍극자와도 닮았다. (→ [L15](../notes/L15_Cycloaddition_Part3.md) p.13 1,3-쌍극자 참고)
 
 다음 질문은 tropone이 몇 전자 성분으로 참여하느냐이다. 새 결합이 생기는 두 원자는 O와 C2다. 이 둘을 π계로 잇는 경로를 따라가면 O=C1, C7=C6, C5=C4, C3=C2를 모두 거친다. 즉 tropone 전체가 8원자 8π 성분으로 참여한다. C1과 C2는 원래 σ결합으로 이웃해 있으므로, 실제로 생기는 고리는 11원자 고리가 아니라 6원자 고리다. 그래서 반응 후 tropone의 이중결합이 한 칸씩 밀려 C1=C7, C6=C5, C4=C3가 되고, C2는 sp3가 된다. 생성물 그림의 cycloheptatriene 이중결합 배치가 바로 이렇다. 강의의 [6+4] (tropone + cyclopentadiene, L14 p.22)에서 tropone이 6π로 쓰였다면, 여기서는 carbonyl 산소까지 포함한 8π로 쓰인 셈이다.
 

@@ -37,11 +37,11 @@
 
 #### 1-1a. azide 이온 alkylation 후 환원 (p.7)
 - R–N₃는 더 이상 nucleophile이 아니라 한 번에서 멈추고, LiAlH₄·H₂/Pd·PPh₃로 환원하면 1차 amine.
-- → [azide·nitrile을 거친 amine 합성](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [Staudinger reduction](../wiki/반응/스타우딩거%20환원.md)
+- → [amine synthesis via azide and nitrile](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [Staudinger reduction](../wiki/반응/스타우딩거%20환원.md)
 
 #### 1-1b. cyanide 이온 alkylation 후 환원 (p.8)
 - 탄소가 하나 늘어난 1차 amine RCH₂CH₂NH₂.
-- → [azide·nitrile을 거친 amine 합성](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md)
+- → [amine synthesis via azide and nitrile](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md)
 
 #### 1-2. amide를 환원해 amine 만들기 (p.9)
 - LiAlH₄ 또는 BH₃로 C=O → CH₂. "acylation 후 reduction"은 깔끔한 N-alkylation 우회로.

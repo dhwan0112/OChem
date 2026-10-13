@@ -47,7 +47,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 
 ## 흔한 오해
 
-- **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 phenyl이 아니라 에톡시가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)
+- **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 phenyl이 아니라 ethoxy가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)
 - **"*Z*-alkene이 필요할 때도 HWE"**: 슬라이드 요약에서 *Z*는 unstabilized Wittig ylide, *E*는 stabilized ylide 또는 HWE다(→ [stereoselective alkene synthesis](../개념/알켄의%20입체선택적%20합성.md)). (출처: L6c p.38)
 
 ## 관련 문서

@@ -20,7 +20,7 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 
 ## 강의 흐름
 
-### 1. 반응은 어떻게 분류되나: 극성, 라디칼, 그리고 pericyclic (슬라이드 p.3–5)
+### 1. 반응은 어떻게 분류되나: 극성, radical, 그리고 pericyclic (슬라이드 p.3–5)
 - 결합이 바뀌는 방식은 polar, radical, pericyclic 세 가지다. pericyclic 반응은 고리형 TS, intermediate 없음, concerted, stereospecific/stereoselective가 특징이다. chorismate mutase(Claisen rearrangement) 예.
 - pericyclic은 cycloaddition, electrocyclic, sigmatropic으로 나뉘고, L13은 Diels–Alder만 다룬다.
 - → [pericyclic reaction](../wiki/개념/페리고리%20반응.md)

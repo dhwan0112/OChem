@@ -23,7 +23,7 @@ LiAlH₄는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, et
 | ketone | 2차 alcohol | |
 | carboxylic acid | 1차 alcohol | O–H가 먼저 H₂를 내므로 느리지만 충분히 쓰면 92% |
 | amide | amine | C=O → CH₂ ([amide reduction](../반응/아마이드%20환원.md)) |
-| nitrile, azide | 1차 amine | ([azide·nitrile을 거친 amine 합성](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md)) |
+| nitrile, azide | 1차 amine | ([amine synthesis via azide and nitrile](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md)) |
 | alkyl halide | alkane | 할로젠 자리에 H |
 
 (출처: L5 p.7–9, p.17, p.23–24)
@@ -70,7 +70,7 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 ## 관련 문서
 
-- 반응: [amide reduction](../반응/아마이드%20환원.md), [azide·nitrile을 거친 amine 합성](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [partial reduction of esters](../반응/에스터%20부분%20환원.md)
+- 반응: [amide reduction](../반응/아마이드%20환원.md), [amine synthesis via azide and nitrile](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [partial reduction of esters](../반응/에스터%20부분%20환원.md)
 - 비교 시약: [NaBH4](NaBH4.md), [LiBH4](LiBH4.md), [DIBAL-H](DIBAL-H.md), [borane](보레인.md)
 - 개념: [metal hydride의 반응성](../개념/금속%20수소화물의%20반응성.md), [tetrahedral intermediate](../개념/사면체%20중간체.md)
 

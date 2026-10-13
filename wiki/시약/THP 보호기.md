@@ -27,7 +27,7 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 
 THP ether의 고리 O 옆 탄소에는 산소가 두 개(고리 O와 RO) 붙어 있다. 즉 THP 자체가 acetal이다. 그래서 [acetal](../반응/아세탈%20형성.md)과 성격이 같다. 염기와 nucleophile에는 안정하고, 물이 있는 산성 조건에서는 풀린다. (출처: L12 p.5, p.13)
 
-보충: 도입은 산이 DHP의 enol ether C=C를 protonation해 oxocarbenium ion을 만들고, alcohol이 그 탄소를 공격하는 과정이다. 제거는 그 역반응으로, 산이 acetal을 열어 다시 oxocarbenium ion을 거쳐 alcohol을 내놓는다. (보충 근거: Clayden p.550–551)
+보충: 도입은 산이 DHP의 enol ether C=C를 protonate해 oxocarbenium ion을 만들고, alcohol이 그 탄소를 공격하는 과정이다. 제거는 그 역반응으로, 산이 acetal을 열어 다시 oxocarbenium ion을 거쳐 alcohol을 내놓는다. (보충 근거: Clayden p.550–551)
 
 보충: alcohol이 chiral이면 THP의 acetal 탄소에 새 stereocenter가 생기므로 diastereomer 혼합물이 된다(보충 근거: Clayden p.551). 이 때문에 NMR 스펙트럼이 복잡해지는 것이 단점으로 꼽힌다.
 

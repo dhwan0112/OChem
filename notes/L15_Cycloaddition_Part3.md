@@ -55,7 +55,7 @@ cycloaddition 시리즈의 마지막 편이다. L13–L14에서 Diels–Alder, F
 - [4+2], [6+4], [4+3], 광화학 [2+2], 열적 [2+2], [3+2]. 허용은 FMO 대칭, regioselectivity는 큰 계수, 광화학은 "LUMO–LUMO".
 - → [pericyclic reaction](../wiki/개념/페리고리%20반응.md)
 
-### 17. siloxydiene과 아미노실록시다이엔 (슬라이드 p.26–29)
+### 17. siloxydiene과 aminosiloxydiene (슬라이드 p.26–29)
 - 17.1 siloxydiene 다섯 가지. Danishefsky diene의 DA 생성물은 H⁺로 cyclohexenone이 된다(p.26). → [Danishefsky diene](../wiki/시약/대니셰프스키%20다이엔.md)
 - 17.2 Rawal diene + enal, 키랄 Cr(III)-salen(p.27). 17.3 TADDOL 수소 결합 촉매(73–92% ee)(p.28). 17.4 (+)-tabersonine 합성(84%, 95% ee)(p.29). → [asymmetric Diels–Alder reaction](../wiki/반응/비대칭%20딜스-알더%20반응.md)
 

@@ -30,7 +30,7 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 - 6π는 π6s, 4π는 π4a로 그리면 허용 → 모든 electrocyclic reaction은 허용되고, 차이는 입체화학에 나타난다.
 - → [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md), [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md)
 
-### 3. 콘로테이션과 디스로테이션 (Clayden p.924–925)
+### 3. conrotatory과 disrotatory (Clayden p.924–925)
 - 열적 6π(octatriene → cis-dimethyl)는 disrotatory, 열적 4π(cis-dimethylcyclobutene → (*E*,*Z*)-diene)는 conrotatory. 회전 방향(시계/반시계)으로 센다.
 - → [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md)
 
@@ -39,7 +39,7 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 - → [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)
 
 ### 5. 광화학 전자고리화 반응: 규칙이 뒤집힌다 (Clayden p.921–922, p.926–927; Wade p.693)
-- 판정표 "4n·열·con". 비타민 D: 에르고스테롤의 6π 고리 열림은 광화학 conrotation으로만 가능하고, 다음 단계는 열적 [1,7]H.
+- 판정표 "4n·열·con". 비타민 D: ergosterol의 6π 고리 열림은 광화학 conrotation으로만 가능하고, 다음 단계는 열적 [1,7]H.
 - → [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md), [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md)
 
 ### 6. 자연 속 전자고리화 반응: endiandric acid (Clayden p.925–926)
@@ -70,7 +70,7 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 | cyclobutene 고리 열림 | → buta-1,3-diene | 200 °C | 4 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 | octatriene | (2*E*,4*Z*,6*E*)-octatriene → 5,6-dimethylcyclohexadiene | 열 / hν | 6 | dis(cis) / con(trans) | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
 | dimethylcyclobutene 열림 | cis-3,4-dimethylcyclobutene → (*E*,*Z*)-hexa-2,4-diene | 가열 | 4 | con | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
-| 비타민 D (1단계) | 에르고스테롤 → 프로비타민 D2 | 햇빛 | 6 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| 비타민 D (1단계) | ergosterol → 프로비타민 D2 | 햇빛 | 6 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 | endiandric acid | polyene → D/E → A | 열 | 8 → 6 | con → dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 | Nazarov | divinyl ketone → cyclopentenone | H3PO4, AcOH / hν | 4 | con(trans) / dis(cis) | [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md) |
 | dienyl anion | cyclooctadiene → cis-bicyclo[3.3.0]octene | BuLi; 0 °C; H⁺ | 6 | dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |

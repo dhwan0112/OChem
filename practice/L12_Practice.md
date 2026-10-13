@@ -8,7 +8,7 @@
 
 짝첨가 반응(conjugate addition reactions). 다음 변환을 완성하라.
 
-1. `2-메틸사이클로헥산-1,3-디온 + 메틸 비닐 케톤(methyl vinyl ketone, MVK, CH2=CH-CO-CH3) --[10% NaOH]--> (A)`
+1. `2-methyl사이클로헥산-1,3-디온 + 메틸 비닐 케톤(methyl vinyl ketone, MVK, CH2=CH-CO-CH3) --[10% NaOH]--> (A)`
 2. `(A) --[피페리딘(piperidine, 촉매), 가열, -H2O]--> (B) (이환 분자, bicyclic molecule)`
 3. 또는 출발물질로부터 `--[EtONa, 가열]--> (B)` (한 용기 반응, one-pot reactions)
 
@@ -16,7 +16,7 @@
 
 - (A): 2-methyl-2-(3-옥소부틸)cyclohexane-1,3-dione. C2가 CH3와 CH2CH2COCH3를 가진 4급 탄소.
 - (B): 비랜드-미셔 ketone(Wieland-Miescher ketone) 골격. 8a-methyl-3,4,8,8a-tetrahydronaphthalene-1,6(2H,7H)-dione, 즉 각 methyl(angular methyl)과 포화 ketone(C1)을 가진 고리 + 고리 접합부 C=C와 짝을 이룬 enone(C6=O)을 가진 고리.
-- 메커니즘(손글씨): 염기가 C2-H를 떼어 enolate 형성 → MVK에 Michael addition → (A). 피페리딘이 측쇄 methyl ketone과 enamine(말단 C=CH2-N) 형성 → enamine이 고리 ketone 하나를 분자 내 공격 → OH와 iminium을 가진 이환 intermediate → 탈수 및 피페리딘 재생으로 (B). 또는 (A)에서 EtONa로 직접 (B).
+- 메커니즘(손글씨): 염기가 C2-H를 떼어 enolate 형성 → MVK에 Michael addition → (A). piperidine이 측쇄 methyl ketone과 enamine(말단 C=CH2-N) 형성 → enamine이 고리 ketone 하나를 분자 내 공격 → OH와 iminium을 가진 이환 intermediate → 탈수 및 piperidine 재생으로 (B). 또는 (A)에서 EtONa로 직접 (B).
 
 (출처: L12_Practice_solutions p.1)
 
@@ -26,11 +26,11 @@
 
 먼저 2-methylcyclohexane-1,3-dione의 C2-H는 두 carbonyl 사이에 있어 pKa 약 11로 매우 산성이다. 그래서 묽은 NaOH만으로도 안정화된 enolate가 만들어진다. 이런 "부드러운(soft)" 안정화 enolate는 MVK의 carbonyl 탄소(1,2-첨가)보다 β-탄소(1,4-첨가)를 선호하므로 Michael addition가 일어난다(→ [L11](../notes/L11_Conjugate_Addition.md) 짝첨가 문서 참고). 생성된 enolate가 양성자를 받으면 1,5-dicarbonyl 화합물 (A)가 된다. 이때 C2는 4급 탄소가 되며 각 methyl이 여기서 정해진다.
 
-그런데 (A)에는 1,5-관계의 carbonyl들이 있으므로 intramolecular aldol 반응으로 6원 고리를 닫을 수 있다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). 공식 풀이는 이를 피페리딘 촉매의 enamine 경로로 보여 준다(→ [L10](../notes/L10_Enol_and_Enamine.md) enamine 문서 참고). 피페리딘은 2차 amine이므로 측쇄의 methyl ketone과 iminium을 거쳐 enamine을 만든다. 측쇄 말단 CH3 쪽 enamine의 탄소가 고리 ketone 하나를 공격하면 고리 원자가 C2(4급), CH2, CH2, C(=N⁺), CH2, C(OH)로 6원 고리가 된다. 즉 고리 크기가 반응 위치를 결정한다. 그 뒤 iminium이 가수분해되어 ketone으로 돌아가고 β-hydroxy ketone이 탈수되면, 새로 생긴 C=C가 ketone과 짝을 이루는 α,β-불포화 ketone(enone)이 된다. 탈수가 잘 일어나는 이유는 짝을 이룬 enone이 thermodynamic으로 안정하기 때문이다. 피페리딘은 마지막에 재생되므로 촉매이다.
+그런데 (A)에는 1,5-관계의 carbonyl들이 있으므로 intramolecular aldol 반응으로 6원 고리를 닫을 수 있다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). 공식 풀이는 이를 piperidine 촉매의 enamine 경로로 보여 준다(→ [L10](../notes/L10_Enol_and_Enamine.md) enamine 문서 참고). piperidine은 2차 amine이므로 측쇄의 methyl ketone과 iminium을 거쳐 enamine을 만든다. 측쇄 말단 CH3 쪽 enamine의 탄소가 고리 ketone 하나를 공격하면 고리 원자가 C2(4급), CH2, CH2, C(=N⁺), CH2, C(OH)로 6원 고리가 된다. 즉 고리 크기가 반응 위치를 결정한다. 그 뒤 iminium이 가수분해되어 ketone으로 돌아가고 β-hydroxy ketone이 탈수되면, 새로 생긴 C=C가 ketone과 짝을 이루는 α,β-불포화 ketone(enone)이 된다. 탈수가 잘 일어나는 이유는 짝을 이룬 enone이 thermodynamic으로 안정하기 때문이다. piperidine은 마지막에 재생되므로 촉매이다.
 
 EtONa/가열 조건은 같은 일을 enamine 대신 enolate로 한 번에 수행하는 것이다. Michael addition 후 methyl ketone의 enolate가 고리 ketone을 공격하고, E1cB 탈수까지 한 용기에서 진행된다.
 
-검토 의견: 공식 답은 옳다. 다만 손글씨 메커니즘은 iminium intermediate에서 곧바로 enone + 피페리딘으로 화살표를 그어, E1cB와 iminium 가수분해 단계를 한 번에 생략해 표기하였다. 또한 아키랄한 피페리딘이나 EtONa를 쓰면 (B)는 racemate로 얻어진다. 키랄 촉매인 L-proline을 쓰면 비대칭 변형(하조스-패리시 반응, Hajos-Parrish reaction 계열)이 가능하다는 점도 알아 두면 좋다.
+검토 의견: 공식 답은 옳다. 다만 손글씨 메커니즘은 iminium intermediate에서 곧바로 enone + piperidine으로 화살표를 그어, E1cB와 iminium 가수분해 단계를 한 번에 생략해 표기하였다. 또한 아키랄한 piperidine이나 EtONa를 쓰면 (B)는 racemate로 얻어진다. 키랄 촉매인 L-proline을 쓰면 비대칭 변형(하조스-패리시 반응, Hajos-Parrish reaction 계열)이 가능하다는 점도 알아 두면 좋다.
 
 ### 핵심 개념
 
@@ -42,7 +42,7 @@ Robinson cyclization = Michael addition(1,5-dicarbonyl 생성) + intramolecular 
 
 다음 변환을 완성하라.
 
-1. `사이클로헵트-2-엔-1-온 --[MeLi, CuCl (촉매)]--> (A)` (물이나 산으로 퀜칭하지 않음, without quenching by water or acid)
+1. `사이클로헵트-2-ene-1-one --[MeLi, CuCl (촉매)]--> (A)` (물이나 산으로 퀜칭하지 않음, without quenching by water or acid)
 2. `(A) --[3-페닐프로판알(PhCH2CH2CHO), 그다음 NH4Cl로 퀜칭]--> (B)`
 
 ### 공식 풀이
@@ -50,7 +50,7 @@ Robinson cyclization = Michael addition(1,5-dicarbonyl 생성) + intramolecular 
 - methyl이 enone의 β-탄소(C3)에 첨가(손글씨로 "MeCu"로 보이는 표기가 C3를 공격하는 화살표).
 - (A): 3-methylcycloheptanone의 enolate, 즉 C1(-O⁻)=C2 이중결합을 가지고 C3에 methyl이 있는 금속 enolate.
 - (A)의 C2가 aldehyde carbonyl을 공격.
-- (B): 2-(1-hydroxy-3-phenylpropyl)-3-methyl사이클로헵탄-1-온 (C2에 CH(OH)-CH2CH2-Ph, C3에 CH3).
+- (B): 2-(1-hydroxy-3-phenylpropyl)-3-methyl사이클로헵탄-1-one (C2에 CH(OH)-CH2CH2-Ph, C3에 CH3).
 
 (출처: L12_Practice_solutions p.2)
 
@@ -74,7 +74,7 @@ protecting group(protecting groups). 두 amino acid으로부터 dipeptide의 합
 
 `L-페닐알라닌 + L-알라닌 --[여러 단계]--> L-페닐알라닐-L-알라닌 (Phe-Ala)`
 
-(Phe의 카복실기와 Ala의 아미노기가 amide 결합을 형성하고, Phe의 NH2와 Ala의 COOH는 자유 상태로 남는 구조)
+(Phe의 carboxyl group과 Ala의 아미노기가 amide 결합을 형성하고, Phe의 NH2와 Ala의 COOH는 자유 상태로 남는 구조)
 
 ### 공식 풀이
 

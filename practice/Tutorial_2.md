@@ -10,8 +10,8 @@
 탄소 수 6개 이하인 분자에서 출발하여 다음 각 화합물의 간결한 합성 경로를 제안하라.
 
 - (a) N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalene-2-amine(N-butyl-5,8-dimethyl-5,6,7,8-tetrahydronaphthalen-2-amine). tetralin 골격의 포화 고리 benzyl 위치 두 곳에 CH3가 있고, 방향족 고리에 NH–nBu가 있다.
-- (b) 1-브로모-4-(프로프-1-엔-2-일)benzene(1-bromo-4-(prop-1-en-2-yl)benzene, p-Br–C6H4–C(CH3)=CH2)
-- (c) 1-(3-브로모-4-ethoxyphenyl)-2,2-dimethyl프로판-1-올(1-(3-bromo-4-ethoxyphenyl)-2,2-dimethylpropan-1-ol, Ar–CH(OH)–C(CH3)3; Ar = 3-Br-4-OEt-C6H3)
+- (b) 1-bromo-4-(프로프-1-ene-2-일)benzene(1-bromo-4-(prop-1-en-2-yl)benzene, p-Br–C6H4–C(CH3)=CH2)
+- (c) 1-(3-bromo-4-ethoxyphenyl)-2,2-dimethylpropane-1-올(1-(3-bromo-4-ethoxyphenyl)-2,2-dimethylpropan-1-ol, Ar–CH(OH)–C(CH3)3; Ar = 3-Br-4-OEt-C6H3)
 
 ### 공식 풀이
 
@@ -23,7 +23,7 @@
 
 **(b)**
 1. `벤젠 --[Br2, FeBr3]--> 브로모벤젠 --[Ac2O, AlCl3]--> 4-브로모아세토페논`
-2. `4-브로모아세토페논 --[MeMgBr, THF; then H⁺]--> 2-(4-브로모페닐)프로판-2-올 --[H⁺, heat, −H2O]--> 목표물`
+2. `4-브로모아세토페논 --[MeMgBr, THF; then H⁺]--> 2-(4-브로모페닐)프로판-2-ol --[H⁺, heat, −H2O]--> 목표물`
 3. 또는 `4-브로모아세토페논 --[Ph3P=CH2 (Wittig)]--> 목표물`
 
 **(c)**
@@ -46,7 +46,7 @@
 
 (c)에서는 세 치환기의 관계가 열쇠다. OEt와 CH(OH)tBu는 서로 para이고, Br은 OEt의 ortho이자 acyl group의 meta에 있다. 그래서 순서는 이렇다. 먼저 phenol을 Williamson ether 합성으로 ethoxybenzene으로 만든다. 다음으로 강한 o/p 지향기인 OEt가 피발로일기를 para로 보낸다(부피가 커서 ortho는 불리하다). 그다음 bromination 단계에서는 OEt(o/p 지향)와 acyl group(meta 지향)가 둘 다 같은 자리, 즉 OEt의 ortho이자 acyl의 meta를 가리킨다. 이처럼 두 지향 효과가 일치하므로 regioselectivity이 높다. 마지막으로 NaBH4가 ketone만 이차 alcohol로 환원한다.
 
-**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 decarbonylation되기 쉽다. 그러면 tert-butylation 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation가 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-브로모-4-에톡시벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
+**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 decarbonylation되기 쉽다. 그러면 tert-butylation 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation가 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-bromo-4-ethoxy벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
 
 ### 핵심 개념
 
@@ -152,7 +152,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 덧붙이면, 1번, 5번, 6번 생성물은 모두 γ-hydroxy carbonyl 화합물이다. 그래서 산성 후처리나 가열 조건에서 분자 내 ester화가 일어나 γ-락톤으로 닫히기 쉽다(1번 → γ-발레로락톤, 5번·6번 → γ-뷰티로락톤). 공식 풀이는 열린 형태로 답했다. (→ [L5](../notes/L05_Reduction.md) 문서의 금속 수소화물·보레인 비교 부분 참고)
 
-**검토 의견:** 3번 답(BH3가 amide만 환원하고 ketone은 유지)은 강의 내용(L5 p.27)과 일치하므로 시험에서는 공식 답을 따르는 것이 안전하다. 다만 실제로는 BH3·THF가 ketone도 0 °C–실온에서 꽤 빠르게 환원한다(Brown의 반응성 서열에서 ketone은 ester보다 훨씬 빠르다). 반면 삼차 amide의 완전 환원에는 보통 가열(환류)이 필요하다. 그래서 실제 실험에서는 ketone까지 환원된 5-(dimethyl아미노)pentane-2-올이 섞일 가능성이 크다. ketone 보존이 목적이라면 ketone을 acetal로 보호한 뒤 환원하는 편이 확실하다.
+**검토 의견:** 3번 답(BH3가 amide만 환원하고 ketone은 유지)은 강의 내용(L5 p.27)과 일치하므로 시험에서는 공식 답을 따르는 것이 안전하다. 다만 실제로는 BH3·THF가 ketone도 0 °C–실온에서 꽤 빠르게 환원한다(Brown의 반응성 서열에서 ketone은 ester보다 훨씬 빠르다). 반면 삼차 amide의 완전 환원에는 보통 가열(환류)이 필요하다. 그래서 실제 실험에서는 ketone까지 환원된 5-(dimethyl아미노)pentane-2-ol이 섞일 가능성이 크다. ketone 보존이 목적이라면 ketone을 acetal로 보호한 뒤 환원하는 편이 확실하다.
 
 ### 핵심 개념
 
@@ -170,7 +170,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 공식 풀이
 
-- 역합성: 목표 α,β-불포화 ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethyl리덴사이클로헥세인에서, 그 alkene은 cyclohexane온에서 온다.
+- 역합성: 목표 α,β-불포화 ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
 - 정방향:
   1. `사이클로헥산올 --[DMP]--> 사이클로헥산온`
   2. `사이클로헥산온 --[Ph3P=CHCH3 (Wittig)]--> 에틸리덴사이클로헥세인`
@@ -184,9 +184,9 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 이 문제의 핵심은 왜 탄소를 하나씩 붙이는 이런 우회로가 필요하냐이다. 목표물은 cyclohexyl기에 탄소 4개짜리 불포화 ester 사슬이 붙은 구조다. 그런데 출발물인 cyclohexane올의 산소는 고리 탄소에 붙어 있다. 그래서 고리 탄소에 곁사슬 탄소를 붙이는 C–C 결합 형성이 두 번 필요하다. 하나는 고리–CH(CH3) 결합이고, 다른 하나는 C=C 결합이다. 두 번 모두 carbonyl olefination로 해결하는 것이 이 풀이의 설계다.
 
-먼저 DMP(Dess–Martin periodinane)로 이차 alcohol을 ketone으로 산화한다. 다음으로 비안정화 ylide Ph3P=CHCH3(ethyl트라이페닐포스포늄 염 + BuLi)로 Wittig 반응을 해 ethyl리덴사이클로헥세인을 만든다. 고리 탄소가 대칭이라 E/Z 문제는 없다. 그런데 이제 이 alkene의 곁사슬 탄소에 산소를 넣어야 한다. 수소붕소화는 B를 덜 치환된 탄소로 보낸다. 고리 쪽 탄소는 삼치환이고 곁사슬 CH는 이치환이므로 B는 곁사슬 CH로 간다. 산화(H2O2, 보통 NaOH와 함께) 후 1-cyclohexylethanol이 되고, 다시 DMP로 산화하면 cyclohexyl methyl ketone이 된다. 즉 Wittig + 수소붕소화 + 산화의 조합이 "ketone → 탄소 하나 늘어난 ketone"을 만드는 장치로 쓰였다.
+먼저 DMP(Dess–Martin periodinane)로 이차 alcohol을 ketone으로 산화한다. 다음으로 비안정화 ylide Ph3P=CHCH3(ethyl트라이페닐포스포늄 염 + BuLi)로 Wittig 반응을 해 ethylylidenecyclohexane을 만든다. 고리 탄소가 대칭이라 E/Z 문제는 없다. 그런데 이제 이 alkene의 곁사슬 탄소에 산소를 넣어야 한다. 수소붕소화는 B를 덜 치환된 탄소로 보낸다. 고리 쪽 탄소는 삼치환이고 곁사슬 CH는 이치환이므로 B는 곁사슬 CH로 간다. 산화(H2O2, 보통 NaOH와 함께) 후 1-cyclohexylethanol이 되고, 다시 DMP로 산화하면 cyclohexyl methyl ketone이 된다. 즉 Wittig + 수소붕소화 + 산화의 조합이 "ketone → 탄소 하나 늘어난 ketone"을 만드는 장치로 쓰였다.
 
-마지막 단계는 안정화된 인 ylide로 하는 올레핀화다. ester로 안정화된 ylide나 포스포네이트 anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 cyclohexyl와 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
+마지막 단계는 안정화된 인 ylide로 하는 olefination다. ester로 안정화된 ylide나 phosphonate anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 cyclohexyl와 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
 
 ### 핵심 개념
 

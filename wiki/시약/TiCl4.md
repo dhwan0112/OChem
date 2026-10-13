@@ -27,7 +27,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, �
 
 *그림: TiCl₄가 배위한 aldehyde를 O⁺–TiCl₃로 나타냈다. C=C(파랑)가 활성화된 carbonyl 탄소(빨강)를 공격하고, C=O⁺ π 전자가 산소로 가서 titanium alkoxide가 된다(2단계).*
 
-산 촉매 aldol에서 H⁺가 carbonyl을 protonation해 enol의 공격을 돕던 것과 같은 구도다. 여기서는 H⁺ 대신 Ti(IV)가 carbonyl 산소를 붙잡는다(→ [aldol reaction](../반응/알돌%20반응.md)). (출처: L8 p.13, p.25)
+산 촉매 aldol에서 H⁺가 carbonyl을 protonate해 enol의 공격을 돕던 것과 같은 구도다. 여기서는 H⁺ 대신 Ti(IV)가 carbonyl 산소를 붙잡는다(→ [aldol reaction](../반응/알돌%20반응.md)). (출처: L8 p.13, p.25)
 
 ## 예
 

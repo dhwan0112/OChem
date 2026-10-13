@@ -8,9 +8,9 @@
 
 2. (*E*)-뷰트-2-엔일 phenyl ether PhO–CH2–CH=CH–CH3를 가열했다. [3,3] 단계 직후의 intermediate와 최종 생성물을 쓰고, methyl group이 어느 탄소에 놓이는지 설명하라.
 
-3. 펜트-1-엔-3-올 CH2=CH–CH(OH)–CH2CH3를 (a) MeCH(OMe)2, (b) MeC(OMe)3와 각각 propanoic acid 촉매로 가열했다. 각 생성물의 구조와 이중결합의 기하를 쓰고, 기하가 그렇게 정해지는 이유를 설명하라.
+3. 펜트-1-ene-3-ol CH2=CH–CH(OH)–CH2CH3를 (a) MeCH(OMe)2, (b) MeC(OMe)3와 각각 propanoic acid 촉매로 가열했다. 각 생성물의 구조와 이중결합의 기하를 쓰고, 기하가 그렇게 정해지는 이유를 설명하라.
 
-4. 헥사-1,5-diene-3-올을 그냥 가열할 때와 KH로 먼저 처리한 뒤 가열할 때를 비교하라. 두 경우의 [3,3] 직후 생성물, 최종 생성물(후처리 포함), 속도 차이의 이유를 쓰라.
+4. 헥사-1,5-diene-3-ol을 그냥 가열할 때와 KH로 먼저 처리한 뒤 가열할 때를 비교하라. 두 경우의 [3,3] 직후 생성물, 최종 생성물(후처리 포함), 속도 차이의 이유를 쓰라.
 
 5. (a) [1,5]H 이동을 π4 + σ2로 놓고 Woodward–Hoffmann 셈을 해서 초면 이동이 열적으로 허용됨을 보이라. (b) 같은 방식으로 열적 [1,3]H 이동이 어떤 조건에서 허용되는지 구하고, 그런데도 실제로 일어나지 않는 이유를 쓰라.
 
@@ -22,11 +22,11 @@
 
 1. (a) [3,3], 6원자 고리 TS. 옛 O–CH2 결합 양 끝을 1로 두면 새 C–C 결합은 고리의 *ortho* 탄소(3)와 allyl 말단 탄소(3) 사이에 생긴다. (b) [2,3], 5원자 고리 TS. 탄소 anion(2번)과 allyl 말단(3번)이 이어진다. (c) [1,5]H, 6원자 고리 TS. 같은 H가 옛 결합과 새 결합의 한쪽 끝(1)이고, 고리를 긴 쪽으로 돌아 5번 탄소에 붙는다(여러 번 일어나면 2-methyl 이성질체도 생긴다). (d) [1,7]H, 8원자 고리 TS, 열적 대면 이동. (출처: Clayden p.909–910, p.917, p.919, p.921)
 
-2. [3,3] 직후에는 방향족성을 잃은 6-치환 사이클로헥사-2,4-diene온이 생기고, tautomerization로 2-(뷰트-3-엔-2-일)phenol *o*-C6H4(OH)–CH(CH3)–CH=CH2가 된다. allyl group이 inside-out으로 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝, 즉 CH3가 달린 탄소가 고리와 결합한다. 그래서 methyl은 고리에 붙은 탄소에 놓이고 말단 바이닐기가 남는다. (출처: Clayden p.909–910의 프레닐 예를 바꿈)
+2. [3,3] 직후에는 방향족성을 잃은 6-치환 cyclohexa-2,4-diene온이 생기고, tautomerization로 2-(뷰트-3-ene-2-일)phenol *o*-C6H4(OH)–CH(CH3)–CH=CH2가 된다. allyl group이 inside-out으로 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝, 즉 CH3가 달린 탄소가 고리와 결합한다. 그래서 methyl은 고리에 붙은 탄소에 놓이고 말단 바이닐기가 남는다. (출처: Clayden p.909–910의 프레닐 예를 바꿈)
 
-3. (a) acetal 교환으로 CH2=CH–O–CH(Et)–CH=CH2가 생기고, [3,3] 자리옮김으로 (*E*)-헵트-4-엔알 OHC–CH2–CH2–CH=CH–CH2CH3이 된다. (b) 오쏘에스터에서는 MeO–C(=CH2)–O–CH(Et)–CH=CH2(ketene acetal)를 거쳐 methyl (*E*)-헵트-4-엔오에이트 MeO2C–CH2–CH2–CH=CH–Et가 된다. 두 경우 모두 의자형 TS에서 Et가 적도 자리를 택하고 그 배치가 그대로 새 C=C로 넘어가므로 *E*가 우세하다. 추진력은 C=O 생성이다. (출처: Clayden p.910–912)
+3. (a) acetal 교환으로 CH2=CH–O–CH(Et)–CH=CH2가 생기고, [3,3] 자리옮김으로 (*E*)-헵트-4-enal OHC–CH2–CH2–CH=CH–CH2CH3이 된다. (b) orthoester에서는 MeO–C(=CH2)–O–CH(Et)–CH=CH2(ketene acetal)를 거쳐 methyl (*E*)-헵트-4-엔오에이트 MeO2C–CH2–CH2–CH=CH–Et가 된다. 두 경우 모두 의자형 TS에서 Et가 적도 자리를 택하고 그 배치가 그대로 새 C=C로 넘어가므로 *E*가 우세하다. 추진력은 C=O 생성이다. (출처: Clayden p.910–912)
 
-4. 중성: [3,3] 직후 enol HO–CH=CH–CH2–CH2–CH=CH2가 생기고 tautomerization로 헥스-5-엔알이 된다. 느리다. KH 처리: alkoxide가 [3,3]을 해서 칼륨 enolate가 생기고, H⁺/H2O 후처리로 같은 헥스-5-엔알이 된다. enolate가 alkoxide보다 안정하고, TS에서부터 O⁻와 새 π 결합의 콘쥬게이션이 자라므로 훨씬 빠르다. (출처: Clayden p.913–914)
+4. 중성: [3,3] 직후 enol HO–CH=CH–CH2–CH2–CH=CH2가 생기고 tautomerization로 헥스-5-enal이 된다. 느리다. KH 처리: alkoxide가 [3,3]을 해서 칼륨 enolate가 생기고, H⁺/H2O 후처리로 같은 헥스-5-enal이 된다. enolate가 alkoxide보다 안정하고, TS에서부터 O⁻와 새 π 결합의 콘쥬게이션이 자라므로 훨씬 빠르다. (출처: Clayden p.913–914)
 
 5. (a) diene 윗면 로브에 양 끝을 이으면 π4s, H는 1s 오비탈이라 언제나 보존이므로 C–H는 σ2s. (4q+2)s = 1(σ2s), (4r)a = 0 → 합 1(홀수), 허용. (b) [1,3]H는 π2 + σ2s. 초면(π2s)이면 (4q+2)s가 2개라 금지, 대면(π2a)이면 σ2s 하나뿐이라 합 1, 허용. 즉 대면이면 허용이지만 3탄소 사슬이 짧고 단단해 H가 반대 면으로 갈 수 없어 실제로는 불가능하다. (출처: Clayden p.920–921)
 

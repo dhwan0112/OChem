@@ -34,7 +34,7 @@ H₂가 촉매 표면에 흡착되고, alkene이 한쪽 면을 표면에 대고 
 
 ## 선택성과 예
 
-- **C=C만, ketone은 그대로:** 4-(4-hydroxyphenyl)뷰트-3-엔-2-온 --[H₂, Pd/C]--> 4-(4-hydroxyphenyl)butane-2-온(보충: 이른바 라즈베리 ketone, 보충 근거: Clayden p.536). 금속 수소화물과 정반대의 선택성이다. (출처: L5 p.30)
+- **C=C만, ketone은 그대로:** 4-(4-hydroxyphenyl)뷰트-3-ene-2-one --[H₂, Pd/C]--> 4-(4-hydroxyphenyl)butane-2-온(보충: 이른바 라즈베리 ketone, 보충 근거: Clayden p.536). 금속 수소화물과 정반대의 선택성이다. (출처: L5 p.30)
 - **nitro 환원:** nitrobenzene --[H₂, Pd/C]--> aniline. [nitration](../반응/나이트로화.md) 다음 [diazonium salt reactions](../반응/다이아조늄%20염%20반응.md)으로 가는 다리다. (출처: L3 p.13, L5 p.33)
 - **imine·nitrile:** 벤라팍신 특허 경로는 사이아노 alcohol을 H₂(12 bar), Pd/C, HCHO(2.2 eq)로 한 번에 처리해 nitrile 환원과 환원성 아미노화 두 번을 연달아 일으킨다(94%). conjugate addition 생성물의 nitrile도 H₂/Pd/C로 1차 amine이 된다. (출처: L5 p.16, L11 p.20)
 - **benzyl group 제거(수소화분해):** benzyl ether(OBn)와 [Cbz protecting group](Cbz%20보호기.md)는 H₂, Pd/C로 벗긴다. 보충: Cbz는 toluene과 carbamic acid이 되고, carbamic acid이 CO₂를 잃어 amine이 된다. (보충 근거: Wade p.1171) (출처: L12 p.5, p.8)

@@ -10,7 +10,7 @@
 4. (p.17) reductive amination에 NaBH<sub>4</sub> 대신 NaBH<sub>3</sub>CN을 쓰는 이유는?
 5. (p.25) 3β-acetoxy-steroid-20-온(C3에 acetate ester, C17 측쇄에 methyl ketone C(=O)CH<sub>3</sub>)을 (a) NaBH<sub>4</sub>, (b) LiBH<sub>4</sub>로 처리한 생성물은?
 6. (p.26) methoxy aryl기, 고리형 ether, 고리형 enone(C=C-C=O), N-methyl lactam을 가진 다고리 화합물을 LiAlH<sub>4</sub>, THF(70%)로 처리할 때 각 작용기는 어떻게 되는가?
-7. (p.29) ethyl 2-(furan-2-일)프로파노에이트를 2-(furan-2-일)propanal(항생제 monensin 합성 intermediate)로 바꾸는 방법을 DIBAL 외에 제시하라.
+7. (p.29) ethyl 2-(furan-2-일)propanoate를 2-(furan-2-일)propanal(항생제 monensin 합성 intermediate)로 바꾸는 방법을 DIBAL 외에 제시하라.
 8. (p.22, p.27) MeO<sub>2</sub>C-CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>-CO<sub>2</sub>H를 (a) LiBH<sub>4</sub>/EtOH, (b) BH<sub>3</sub>·THF로 각각 처리한 생성물과 그 이유는?
 
 ## 정답 및 해설
@@ -34,7 +34,7 @@
 
 6. LiAlH<sub>4</sub>는 강한 환원제다(p.17). **lactam(고리형 amide)의 C=O는 CH<sub>2</sub>가 되어** N-methyl 고리형 3차 amine이 된다. **enone의 C=O는 2차 alcohol**(allyl alcohol)이 된다. 보충: LiAlH<sub>4</sub>는 enone을 주로 1,2-환원하므로 C=C는 남는다(1,4-첨가와의 비교는 → [1,2-addition vs 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)). aryl methyl ether와 고리형 ether는 변하지 않는다. 보충: 3-methoxy, 4,5-에폭시 고리, N-methyl, 6-OH, 7,8-이중결합의 조합은 morphine 계열(morphinan, codeine 유사) 골격에 해당한다. 새 C-OH stereocenter의 배향은 슬라이드에 제시되지 않았다.
 
-7. **alcohol 경유(p.17 "via alcohol")**: `ester --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(furan-2-일)propane-1-올 --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(furan-2-일)propanal`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol oxidation](../wiki/반응/알코올%20산화.md)).
+7. **alcohol 경유(p.17 "via alcohol")**: `ester --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(furan-2-일)propane-1-ol --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(furan-2-일)propanal`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol oxidation](../wiki/반응/알코올%20산화.md)).
    **acid chloride 경유(p.17, p.33)**: ester 가수분해 → carboxylic acid → SOCl<sub>2</sub> → acid chloride → H<sub>2</sub>, Pd/BaSO<sub>4</sub>, quinoline(Rosenmund) → aldehyde.
 
 8. (a) LiBH<sub>4</sub>: ester만 환원되어 **HOCH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CO<sub>2</sub>H** (5-hydroxy-3-methylpentanoic acid). LiBH<sub>4</sub>는 산 존재하에 ester를 선택 환원한다(p.22). 산은 deprotonate되어 반응성 최하위인 carboxylate(p.18)가 된다.
