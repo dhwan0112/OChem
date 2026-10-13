@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L04_Electrophilic_Aromatic_Substitution_Part2.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 L3에서는 벤젠 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방향족 고리에는 대부분 치환기가 이미 붙어 있으므로, 이 강의는 그 치환기가 반응성(activating/deactivating)과 배향(ortho/meta/para)을 어떻게 정하는지 묻는다. 답은 하나의 원리, 즉 cyclohexadienyl cation을 더 안정하게 만드는 경로가 이긴다는 것이다. 강의는 conjugation으로 강하게 주는 aniline에서 시작해 σ conjugation의 alkyl, inductive/conjugation으로 끄는 EWG, 끌면서 주는 halogen 순으로 가고, 치환기가 여럿일 때의 협력·경쟁과 NMR 증거로 마무리한다. (출처: L4 p.2, p.24)

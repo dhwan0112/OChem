@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L02_Electrophilic_Addition_to_Alkenes_Part2.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 **stereochemistry**와 **실제 합성 도구**로 넓힌다. 먼저 regioselectivity를 한 줄로 예측하는 δ⁺/δ⁻ 요령을 세우고, 그것으로 epoxide 고리 열기의 산/염기 대비를 설명한다. 이어 SN2 inversion에서 나오는 anti 첨가(cyclohexene 브로민화, NBS)를 보고, 1,2-diol을 *trans*/*cis*로 골라 만드는 방법, 이중결합을 완전히 끊는 두 방법(OsO₄ → NaIO₄, ozonolysis)을 다룬다. 마지막으로 OH 하나를 붙이는 두 방향, 즉 Markovnikov 수화와 "anti-Markovnikov" hydroboration-oxidation을 비교한다. 강의 끝의 요약 지도(p.28)는 [알켄의 친전자성 첨가 개관](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 설명했다.

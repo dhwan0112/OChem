@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L03_Electrophilic_Aromatic_Substitution_Part1.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 L1–L2의 알켄은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 있어 보이는 benzene은 그렇지 않다. 이 강의는 "benzene은 왜 알켄과 다르게 행동하고, 어떻게 반응시키는가?"에서 출발한다. 답은 (1) Lewis acid나 진한 황산으로 훨씬 강한 electrophile을 만들어야 하고, (2) 반응하면 addition이 아니라 aromaticity를 되찾는 substitution(S<sub>E</sub>Ar)으로 끝난다는 것이다. 공통 메커니즘(cyclohexadienyl cation)을 먼저 세운 뒤 electrophile을 만드는 방법별로 halogenation, nitration, sulfonation, Friedel–Crafts alkylation·acylation을 보고, 마지막으로 OH가 고리를 activating하는 phenol을 다룬다. 고리 위 치환기의 배향 효과는 L4에서 본격적으로 다룬다. (출처: L3 p.1, p.7)

@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L01_Electrophilic_Addition_to_Alkenes_Part1.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 L1은 alkene의 C=C π 결합이 electrophile을 공격한다는 **하나의 원리**로 여러 첨가 반응을 묶는다. 먼저 첨가와 제거가 거울 관계라는 점과 L1–L2 전체의 반응 목차(p.7)를 보여 준 뒤, Br₂ 첨가로 orbital 그림(HOMO → LUMO)과 [bromonium ion](../wiki/개념/브로모늄%20이온.md)을 도입한다. 같은 3원 고리 발상으로 epoxidation을 설명하고, HBr 첨가에서 [carbocation](../wiki/개념/탄소%20양이온.md)과 Markovnikov 규칙을 끌어낸다. 이어 diene의 1,4-첨가로 allyl cation을 다루고, 마지막으로 비대칭 bromonium ion이 더 치환된 탄소에서 열리는 이유(loose SN2 transition state)를 L1의 핵심으로 정리한다. 전체 그림은 [알켄의 친전자성 첨가 개관](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 있다.

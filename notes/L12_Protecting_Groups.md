@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L12_Protecting_Groups.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장 (Protecting groups).
 
 ## 개요

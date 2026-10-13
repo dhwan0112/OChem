@@ -41,27 +41,27 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 ## 강의 노트 (`notes/`, 뼈대)
 
-강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
+강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 강의 흐름대로 길게 읽고 싶으면 **통독본**(`notes/통독/`)을 연다. 통독본은 2026-10-12 재구성 직전의 전체 강의 노트(교과서 보강 포함)를 보존한 사본이고, 소절마다 해당 개념 문서 링크가 붙어 있다. 이후의 수정은 개념 문서에만 반영되므로 최신 내용은 개념 문서가 기준이다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
 
-| 강의 | 주제 | 시험 범위 |
-|---|---|---|
-| [L1](notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | 알켄의 친전자성 첨가 1 (브로모늄, 에폭시화, HBr, 다이엔) | Test 1 |
-| [L2](notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | 알켄의 친전자성 첨가 2 (에폭사이드 열기, 다이올, 오존 분해, 수소붕소화) | Test 1 |
-| [L3](notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) | 친전자성 방향족 치환 1 (나이트로화, 설폰화, 프리델-크래프츠, 페놀) | Test 1 |
-| [L4](notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) | 친전자성 방향족 치환 2 (배향 효과, 치환기 경쟁, NMR) | Test 1 |
-| [L5](notes/L05_Reduction.md) | 환원 (아민 합성, 금속 수소화물, 촉매 수소화) | Test 1 |
-| [L6](notes/L06_Oxidation_and_Alkene_Synthesis.md) | 산화와 알켄 합성 (알코올 산화, 위티그, HWE), 정정판 슬라이드 기준 | Test 1 |
-| [L7](notes/L07_Enolate_Alkylation.md) | 엔올레이트 알킬화 | Test 1 |
-| [L8](notes/L08_Aldol_Reactions.md) | 알돌 반응 | Test 1 |
-| [L9](notes/L09_Claisen_Condensation.md) | 클라이젠 축합 | Test 1 |
-| [L10](notes/L10_Enol_and_Enamine.md) | 엔올과 엔아민 | Test 1 |
-| [L11](notes/L11_Conjugate_Addition.md) | 공액 첨가 | Test 2 |
-| [L12](notes/L12_Protecting_Groups.md) | 보호기 | Test 2 |
-| [L13](notes/L13_Cycloaddition_Part1.md) | 고리화 첨가 1 (딜스-알더 기초, FMO) | Test 2 |
-| [L14](notes/L14_Cycloaddition_Part2.md) | 고리화 첨가 2 (위치선택성, 루이스 산 촉매, [2+2] 등) | Test 2 |
-| [L15](notes/L15_Cycloaddition_Part3.md) | 고리화 첨가 3 (케텐 [2+2], 1,3-쌍극자 고리화 첨가) | Test 2 |
-| [L16](notes/L16_Sigmatropic_Rearrangements.md) | 시그마트로픽 자리옮김 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | Test 2 |
-| [L17](notes/L17_Electrocyclic_Reactions.md) | 전자고리화 반응 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | Test 2 |
+| 강의 (뼈대) | 주제 | 통독본 | 시험 범위 |
+|---|---|---|---|
+| [L1](notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | 알켄의 친전자성 첨가 1 (브로모늄, 에폭시화, HBr, 다이엔) | [통독](notes/통독/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | Test 1 |
+| [L2](notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | 알켄의 친전자성 첨가 2 (에폭사이드 열기, 다이올, 오존 분해, 수소붕소화) | [통독](notes/통독/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | Test 1 |
+| [L3](notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) | 친전자성 방향족 치환 1 (나이트로화, 설폰화, 프리델-크래프츠, 페놀) | [통독](notes/통독/L03_Electrophilic_Aromatic_Substitution_Part1.md) | Test 1 |
+| [L4](notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) | 친전자성 방향족 치환 2 (배향 효과, 치환기 경쟁, NMR) | [통독](notes/통독/L04_Electrophilic_Aromatic_Substitution_Part2.md) | Test 1 |
+| [L5](notes/L05_Reduction.md) | 환원 (아민 합성, 금속 수소화물, 촉매 수소화) | [통독](notes/통독/L05_Reduction.md) | Test 1 |
+| [L6](notes/L06_Oxidation_and_Alkene_Synthesis.md) | 산화와 알켄 합성 (알코올 산화, 위티그, HWE), 정정판 슬라이드 기준 | [통독](notes/통독/L06_Oxidation_and_Alkene_Synthesis.md) | Test 1 |
+| [L7](notes/L07_Enolate_Alkylation.md) | 엔올레이트 알킬화 | [통독](notes/통독/L07_Enolate_Alkylation.md) | Test 1 |
+| [L8](notes/L08_Aldol_Reactions.md) | 알돌 반응 | [통독](notes/통독/L08_Aldol_Reactions.md) | Test 1 |
+| [L9](notes/L09_Claisen_Condensation.md) | 클라이젠 축합 | [통독](notes/통독/L09_Claisen_Condensation.md) | Test 1 |
+| [L10](notes/L10_Enol_and_Enamine.md) | 엔올과 엔아민 | [통독](notes/통독/L10_Enol_and_Enamine.md) | Test 1 |
+| [L11](notes/L11_Conjugate_Addition.md) | 공액 첨가 | [통독](notes/통독/L11_Conjugate_Addition.md) | Test 2 |
+| [L12](notes/L12_Protecting_Groups.md) | 보호기 | [통독](notes/통독/L12_Protecting_Groups.md) | Test 2 |
+| [L13](notes/L13_Cycloaddition_Part1.md) | 고리화 첨가 1 (딜스-알더 기초, FMO) | [통독](notes/통독/L13_Cycloaddition_Part1.md) | Test 2 |
+| [L14](notes/L14_Cycloaddition_Part2.md) | 고리화 첨가 2 (위치선택성, 루이스 산 촉매, [2+2] 등) | [통독](notes/통독/L14_Cycloaddition_Part2.md) | Test 2 |
+| [L15](notes/L15_Cycloaddition_Part3.md) | 고리화 첨가 3 (케텐 [2+2], 1,3-쌍극자 고리화 첨가) | [통독](notes/통독/L15_Cycloaddition_Part3.md) | Test 2 |
+| [L16](notes/L16_Sigmatropic_Rearrangements.md) | 시그마트로픽 자리옮김 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | [통독](notes/통독/L16_Sigmatropic_Rearrangements.md) | Test 2 |
+| [L17](notes/L17_Electrocyclic_Reactions.md) | 전자고리화 반응 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | [통독](notes/통독/L17_Electrocyclic_Reactions.md) | Test 2 |
 
 시험 범위는 수정된 일정표(Revised schedule) 기준이다. Test 1은 1–5주차, Test 2는 6–10주차를 다루며 라디칼 화학은 Test 2에서 제외된다.
 
