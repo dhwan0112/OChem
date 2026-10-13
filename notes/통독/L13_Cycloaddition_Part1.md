@@ -158,6 +158,10 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 예를 들어 (E,E)-1,4-diphenyl-1,3-butadiene은 두 Ph가 모두 "out"이다. 그래서 dimethyl acetylenedicarboxylate(DMAD, MeO2C-C≡C-CO2Me)와 반응하면 두 Ph가 cis인 3,6-diphenylcyclohexa-1,4-diene-1,2-diester가 생긴다. 반면 (E,Z) 다이엔(R 하나는 "in", 하나는 "out")은 두 R이 trans인 생성물을 준다. dienophile이 알카인이면 원래 삼중 결합 자리에 C=C가 하나 남으므로, 생성물은 cyclohexene이 아니라 cyclohexa-1,4-diene이다.
 
+![(E,E)-1,4-다이페닐부타다이엔 + DMAD: 두 out 치환기 Ph가 생성물에서 1,4-cis가 된다](../../figures/L13/inout_dmad.svg)
+
+*그림: (E,E)-1,4-diphenylbuta-1,3-diene을 s-cis로 그리면 두 Ph는 "out", 두 H는 "in" 자리에 놓인다(파랑: diene의 π 결합). DMAD(빨간 삼중 결합)와 Diels–Alder 반응을 하면 두 out 치환기(Ph)는 고리의 같은 쪽(둘 다 점선 쐐기)에, 두 in 치환기(H)는 반대쪽(둘 다 굵은 쐐기)에 놓인다. 즉 두 Ph는 1,4-cis다. 초록색은 새로 생긴 σ 결합이며, alkyne 자리에 C=C가 남아 생성물은 cyclohexa-1,4-diene이다.*
+
 보충: "trans,trans 다이엔인데 왜 cis 생성물이 나오나?"가 헷갈린다면 대칭으로 확인하면 된다. (E,E)-다이엔 + DMAD는 반응물 전체에 다이엔 가운데를 지나는 거울면이 하나 있다. 반응이 협동적이라 치환기가 도중에 자리를 옮길 수 없으므로, 생성물도 같은 거울면을 가져야 하고 그러려면 두 Ph가 같은 쪽(cis, meso형)이어야 한다. (E,Z)-다이엔은 처음부터 이 대칭이 없으므로 두 치환기가 반대쪽에 놓인다. 또 dienophile은 다이엔 평면 안이 아니라 아래에서 다가오므로 "in" 치환기가 있어도 반응 자체는 막히지 않는다(다만 s-cis를 방해해 느려진다, 5-2절 보충). (보충 근거: Clayden p.883) (출처: L13 p.20)
 
 ### 6-3. Endo 규칙: 두 반응물 사이의 입체선택성
