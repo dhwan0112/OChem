@@ -162,6 +162,10 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 (출처: L11 p.11)
 
+![CH3MgBr의 메틸이 2-cyclohexenone의 카르보닐 탄소를 직접 공격하는 1,2-addition](../../figures/L11/grignard_12_addition.svg)
+
+*그림: Grignard 시약의 1,2-addition. C–Mg 결합(파랑)의 전자쌍이 메틸과 함께 카르보닐 탄소로 가고, 빨간 C=O의 π 전자는 산소로 간다. 생성물은 C=C가 그대로 남은 magnesium alkoxide(초록이 새 C–C 결합)이고, H₃O⁺ 후처리로 1-methyl-2-cyclohexen-1-ol이 된다. 같은 엔온에 R₂CuLi를 쓰면 메틸이 β-탄소로 간다(→ [유기구리 시약](../../wiki/시약/유기구리%20시약.md)의 그림). 보충: 슬라이드는 반응식만 보여 주며, 화살표는 표준적인 카르보닐 첨가 메커니즘으로 그렸다. (출처: L11 p.11)*
+
 왜 이렇게 갈릴까? 단단함/무름(hard/soft) 개념으로 설명한다.
 - **단단한(hard) 친핵체**는 단단한 친전자체인 **카르보닐 탄소**와 반응하는 경향이 있다(1,2-첨가). 전하가 크고 작은 원자에 몰려 있어서 정전기적 인력이 큰 자리를 고른다고 보면 된다.
 - **무른(soft) 친핵체**는 무른 친전자체인 **β-탄소**와 반응하는 경향이 있다(1,4-첨가).
@@ -307,6 +311,10 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 (출처: L11 p.19)
 
+![pyrrolidine enamine의 β-탄소가 methyl 2-(methylthio)acrylate의 말단 CH2를 공격해 iminium–enolate 쌍극성 이온이 되는 단계](../../figures/L11/enamine_conjugate.svg)
+
+*그림: [enamine](../../wiki/개념/엔아민.md)의 conjugate addition(cyclohexanone의 pyrrolidine enamine + CH₂=C(SMe)CO₂Me). 질소의 비공유 전자쌍(파랑)이 N–C 결합 쪽으로 밀려 C=N⁺를 만들고, 파란 C=C의 π 전자가 받개의 β-탄소(빨간 C=C의 말단 CH₂)를 공격한다. 받개 쪽에서는 C=C의 π 전자가 C–C(O) 자리로, C=O의 π 전자가 산소로 간다. 결과는 iminium과 ester enolate가 한 분자에 있는 쌍극성 이온이고(초록이 새 C–C 결합), H₂O 후처리로 1,5-dicarbonyl 화합물이 된다. 보충: 슬라이드는 반응식만 보여 주며, 쌍극성 이온 중간체는 Clayden의 설명을 따랐다. (출처: L11 p.19) (보충 근거: Clayden p.608)*
+
 ### 5.3 합성 응용: 도파민 길항제
 
 짝지음 첨가는 의약품 합성에도 쓰인다. 슬라이드의 예는 도파민 길항제(dopamine antagonist)인 1-propyl-3-(2,5-dimethoxyphenyl)piperidine의 합성이다.[^5]
@@ -336,6 +344,10 @@ Triton B는 수산화 벤질트라이메틸암모늄이고, 에스터 α-H를 �
 즉 촉매가 받개를 활성화하고 동시에 면 선택성까지 정한다.
 
 (출처: L11 p.21)
+
+![N-methylpyrrole의 C2가 iminium ion의 β-탄소를 벤질기 반대쪽 면에서 공격하는 단계](../../figures/L11/iminium_attack.svg)
+
+*그림: 2단계(입체선택적 conjugate addition). 왼쪽 위는 촉매와 crotonaldehyde가 만든 iminium ion이다(빨간 C=N⁺와 C=C가 받개). 아래의 N-methylpyrrole(파랑)에서 질소 전자쌍이 고리로 밀려 들어가고, 고리 C=C 전자가 옮겨 가며, 파란 C2=C3의 π 전자가 iminium의 β-탄소를 공격한다. 동시에 받개의 C=C 전자는 C–C(=N⁺) 자리로, C=N⁺의 π 전자는 질소로 간다. 오른쪽 생성물은 촉매 쪽 enamine과 pyrrolium 양이온이며, 새 C–C 결합(초록 점선 쐐기)은 슬라이드처럼 벤질기(굵은 쐐기)를 피한 아래쪽 면 공격의 결과다. 이후 H⁺가 빠져 재방향족화하고 가수분해되면 (R)-aldehyde가 나온다. (출처: L11 p.21)*
 
 ## 7. β-이탈기가 있는 짝지음 첨가와 SNAr
 
@@ -378,6 +390,14 @@ Triton B는 수산화 벤질트라이메틸암모늄이고, 에스터 α-H를 �
 - `4-chloronitrobenzene + HO- --[addition, elimination]--> 4-nitrophenol`: 파라 위치의 Cl이 치환되고, 음전하는 NO2 산소까지 퍼진다.[^10]
 
 (출처: L11 p.22, p.23)
+
+![HO⁻가 4-chloronitrobenzene의 ipso 탄소를 공격해 음전하가 NO₂ 산소에 놓인 σ complex가 되는 addition 단계](../../figures/L11/snar_addition.svg)
+
+*그림: SNAr의 addition 단계(4-chloronitrobenzene + HO⁻). HO⁻(파랑)의 비공유 전자쌍이 Cl이 붙은 ipso 탄소를 공격하고, 빨간 C=C의 π 전자는 옆 C–C 자리로, 그다음 고리 C=C의 π 전자는 C–N 자리로, N=O의 π 전자는 산소로 차례로 밀려난다(주황 화살표 네 개). 오른쪽 σ complex(Meisenheimer complex)에서 ipso 탄소는 sp³이고 HO와 Cl을 함께 가지며(초록이 새 C–O 결합), 음전하는 NO₂의 두 산소에 놓인 nitronate 형태다. (출처: L11 p.23)*
+
+![σ complex에서 Cl⁻가 떨어지며 4-nitrophenol이 되는 elimination 단계](../../figures/L11/snar_elimination.svg)
+
+*그림: SNAr의 elimination 단계. NO₂의 O⁻(파랑) 전자쌍이 N=O를 다시 만들고, C=N의 π 전자는 고리 C–C 자리로, 고리 아래쪽 C=C의 π 전자는 ipso 탄소 쪽 C–C 자리로 옮겨 가며, C–Cl 결합(빨강)의 전자가 Cl⁻로 떨어진다. 결과는 aromaticity가 회복된 4-nitrophenol이다. 슬라이드는 이 단계의 화살표 중 O⁻ → N, 고리 안 하나, C–Cl → Cl만 그렸고, 그림은 같은 전자 흐름을 고리를 따라 끝까지 이어 그린 것이다. (출처: L11 p.23)*
 
 ## 8. 요약
 
