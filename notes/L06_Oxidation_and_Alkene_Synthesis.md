@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [HWE 반응](../wiki/반응/HWE%20반응.md), [SN2 반응](../wiki/반응/SN2%20반응.md), [TEMPO 산화](../wiki/반응/TEMPO%20산화.md), [린들라 환원](../wiki/반응/린들라%20환원.md), [스원 산화](../wiki/반응/스원%20산화.md), [알코올 산화](../wiki/반응/알코올%20산화.md), [에스터 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md), [위티그 반응](../wiki/반응/위티그%20반응.md), [존스 산화](../wiki/반응/존스%20산화.md), [피닉 산화](../wiki/반응/피닉%20산화.md)
-> - 시약: [DIBAL-H](../wiki/시약/DIBAL-H.md), [DMP](../wiki/시약/DMP.md), [KMnO4](../wiki/시약/KMnO4.md), [MnO2](../wiki/시약/MnO2.md), [NMO](../wiki/시약/NMO.md), [NaClO2](../wiki/시약/NaClO2.md), [SeO2](../wiki/시약/SeO2.md), [TEMPO](../wiki/시약/TEMPO.md), [TPAP](../wiki/시약/TPAP.md), [린들라 촉매](../wiki/시약/린들라%20촉매.md), [인 일라이드](../wiki/시약/인%20일라이드.md), [존스 시약](../wiki/시약/존스%20시약.md)
-> - 개념: [금속 수소화물의 반응성](../wiki/개념/금속%20수소화물의%20반응성.md), [알릴 양이온](../wiki/개념/알릴%20양이온.md), [알켄의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md), [옥사포스페테인](../wiki/개념/옥사포스페테인.md), [입체특이성과 입체선택성](../wiki/개념/입체특이성과%20입체선택성.md)
+> - 반응: [alcohol oxidation](../wiki/반응/알코올%20산화.md), [dissolving metal reduction](../wiki/반응/용해%20금속%20환원.md), [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md), [Jones oxidation](../wiki/반응/존스%20산화.md), [Lindlar reduction](../wiki/반응/린들라%20환원.md), [partial reduction of esters](../wiki/반응/에스터%20부분%20환원.md), [Pinnick oxidation](../wiki/반응/피닉%20산화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md), [Swern oxidation](../wiki/반응/스원%20산화.md), [TEMPO oxidation](../wiki/반응/TEMPO%20산화.md), [Wittig reaction](../wiki/반응/위티그%20반응.md)
+> - 시약: [DIBAL-H](../wiki/시약/DIBAL-H.md), [DMP](../wiki/시약/DMP.md), [Jones reagent](../wiki/시약/존스%20시약.md), [KMnO4](../wiki/시약/KMnO4.md), [Lindlar catalyst](../wiki/시약/린들라%20촉매.md), [MnO2](../wiki/시약/MnO2.md), [NaClO2](../wiki/시약/NaClO2.md), [NMO](../wiki/시약/NMO.md), [phosphorus ylide](../wiki/시약/인%20일라이드.md), [SeO2](../wiki/시약/SeO2.md), [TEMPO](../wiki/시약/TEMPO.md), [TPAP](../wiki/시약/TPAP.md)
+> - 개념: [allyl cation](../wiki/개념/알릴%20양이온.md), [metal hydride reactivity](../wiki/개념/금속%20수소화물의%20반응성.md), [oxaphosphetane](../wiki/개념/옥사포스페테인.md), [stereoselective alkene synthesis](../wiki/개념/알켄의%20입체선택적%20합성.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md)
 
 <!-- wiki-links:end -->
 
@@ -17,25 +17,25 @@
 
 ## 개요
 
-이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation(산화)이다. alcohol을 aldehyde, ketone, 카복실산으로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 그래서 DMP, Swern, TPAP, MnO₂, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 *E*와 *Z*는 성질이 다른 별개의 화합물이므로, 한 가지 isomer만 골라 만드는 법(Lindlar, Na/NH₃, Wittig, HWE)을 배운다. 이전 강의(L2)에서 C=C를 산화해 끊거나(ozonolysis) 작용기를 붙였다면(epoxidation, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다. 강의 도입부에는 L5의 DIBAL-H 환원도 다시 나온다.
+이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation(산화)이다. alcohol을 aldehyde, ketone, carboxylic acid로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 그래서 DMP, Swern, TPAP, MnO₂, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 *E*와 *Z*는 성질이 다른 별개의 화합물이므로, 한 가지 isomer만 골라 만드는 법(Lindlar, Na/NH₃, Wittig, HWE)을 배운다. 이전 강의(L2)에서 C=C를 산화해 끊거나(ozonolysis) 작용기를 붙였다면(epoxidation, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다. 강의 도입부에는 L5의 DIBAL-H 환원도 다시 나온다.
 
 ## 강의 흐름
 
-### 0. 도입: DIBAL-H는 왜 알데하이드에서 멈추나 (복습) (L6c p.2)
-- −70 °C에서 tetrahedral intermediate가 무너지지 않아 ester가 aldehyde에서 멈춘다. 다른 길은 LiAlH₄로 alcohol까지 환원한 뒤 순한 산화로 되돌리는 것(monensin 중간체).
-- → [에스터 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../wiki/시약/DIBAL-H.md)
+### 0. 도입: DIBAL-H는 왜 aldehyde에서 멈추나 (복습) (L6c p.2)
+- −70 °C에서 tetrahedral intermediate가 무너지지 않아 ester가 aldehyde에서 멈춘다. 다른 길은 LiAlH₄로 alcohol까지 환원한 뒤 순한 산화로 되돌리는 것(monensin intermediate).
+- → [ester 부분 환원](../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../wiki/시약/DIBAL-H.md)
 
-### 1. 알코올 산화의 큰 그림 (L6c p.3–6)
+### 1. alcohol 산화의 큰 그림 (L6c p.3–6)
 
-#### 1.1 왜 멘톨 이야기부터 하나 (p.3–5)
+#### 1.1 왜 menthol 이야기부터 하나 (p.3–5)
 - geraniol → geranial(물음표 단계)은 allylic 1차 alcohol을 aldehyde에서 멈춰야 하므로 순한 산화제가 필요하다.
-- → [알코올 산화](../wiki/반응/알코올%20산화.md), [촉매 수소화](../wiki/반응/촉매%20수소화.md)
+- → [alcohol 산화](../wiki/반응/알코올%20산화.md), [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md)
 
-#### 1.2 3차 알코올은 왜 산화되지 않나 (p.6)
+#### 1.2 3차 alcohol은 왜 산화되지 않나 (p.6)
 - 일반 메커니즘: O–LG 결합 형성 → 염기가 α-H 제거(E2형). 3차 alcohol에는 α-H가 없다.
-- → [알코올 산화](../wiki/반응/알코올%20산화.md)
+- → [alcohol 산화](../wiki/반응/알코올%20산화.md)
 
-### 2. 알코올 → 알데하이드/케톤: 순한 산화제들 (L6c p.7–14)
+### 2. alcohol → aldehyde/ketone: 순한 산화제들 (L6c p.7–14)
 
 #### 2.1 Dess–Martin periodinane (DMP): "I–O"가 산화제 (p.7)
 - geraniol → geranial 84%. 중성·실온, 민감한 작용기에 강함. I(V) → I(III).
@@ -43,13 +43,13 @@
 
 #### 2.2 Swern 산화 (1976): "S–Cl"이 산화제 (p.8–9)
 - DMSO, (COCl)₂, −78 °C; Et₃N. 싸서 대량 규모, 부산물 Me₂S·CO·CO₂·HCl. 3차 OH는 남는다.
-- → [스원 산화](../wiki/반응/스원%20산화.md)
+- → [Swern 산화](../wiki/반응/스원%20산화.md)
 
 #### 2.3 TPAP/NMO (Ley–Griffith 산화): "Ru–O"가 산화제 (p.10)
 - TPAP 촉매량 + NMO terminal oxidant(Ru(VII)/Ru(V) 순환).
 - → [TPAP](../wiki/시약/TPAP.md), [NMO](../wiki/시약/NMO.md)
 
-#### 2.4 이산화망간 (MnO₂): "Mn–O"가 산화제 (p.10)
+#### 2.4 manganese dioxide (MnO₂): "Mn–O"가 산화제 (p.10)
 - 매우 순해서 allylic·benzylic alcohol만 산화한다(retinol → retinal).
 - → [MnO2](../wiki/시약/MnO2.md)
 
@@ -61,70 +61,70 @@
 - (bpy)CuI/TEMPO/NMI, 공기 O₂가 terminal oxidant. C=C 유지.
 - → [TEMPO 산화](../wiki/반응/TEMPO%20산화.md)
 
-#### 2.7 여담: 몸 안의 알코올 산화와 "Asian flush" (p.14)
+#### 2.7 여담: 몸 안의 alcohol 산화와 "Asian flush" (p.14)
 - ADH, ALDH2가 같은 순서로 산화한다. ALDH2*2 변이에서는 두 번째 단계가 병목.
-- → [알코올 산화](../wiki/반응/알코올%20산화.md)
+- → [alcohol 산화](../wiki/반응/알코올%20산화.md)
 
-### 3. 카복실산까지 가는 산화 (L6c p.15–17)
+### 3. carboxylic acid까지 가는 산화 (L6c p.15–17)
 
-#### 3.1 알데하이드 → 카복실산: Pinnick 산화 (1981) (p.15)
+#### 3.1 aldehyde → carboxylic acid: Pinnick 산화 (1981) (p.15)
 - NaClO₂, NaH₂PO₄. 2-methyl-2-butene은 HOCl scavenger(OH는 3차, Cl은 2차 탄소).
-- → [피닉 산화](../wiki/반응/피닉%20산화.md), [NaClO2](../wiki/시약/NaClO2.md)
+- → [Pinnick 산화](../wiki/반응/피닉%20산화.md), [NaClO2](../wiki/시약/NaClO2.md)
 
-#### 3.2 1차 알코올 → 카복실산: Jones 산화와 "3 = 1 + 2" (p.16–17)
+#### 3.2 1차 alcohol → carboxylic acid: Jones 산화와 "3 = 1 + 2" (p.16–17)
 - Jones(CrO₃/H₂SO₄)는 강산성. 섬세한 기질은 DMP → NaClO₂ 두 단계.
-- → [존스 산화](../wiki/반응/존스%20산화.md), [존스 시약](../wiki/시약/존스%20시약.md), [알코올 산화](../wiki/반응/알코올%20산화.md)
+- → [Jones 산화](../wiki/반응/존스%20산화.md), [Jones 시약](../wiki/시약/존스%20시약.md), [alcohol 산화](../wiki/반응/알코올%20산화.md)
 
 #### 3.3 한눈에 정리 (요약 슬라이드) (p.17)
 - 순한 산화 a–f, aldehyde → 산 g, 1차 alcohol → 산 h, i.
-- → [알코올 산화](../wiki/반응/알코올%20산화.md)
+- → [alcohol 산화](../wiki/반응/알코올%20산화.md)
 
-### 4. 벤질·알릴 C–H 결합의 산화 (L6c p.18)
+### 4. benzyl·allyl C–H 결합의 산화 (L6c p.18)
 - KMnO₄는 benzylic CH₃ → CO₂H(saccharin 합성), SeO₂는 allylic CH₃ → CHO(enal, sirenin 합성). SeO₂는 benzylic에는 안 듣는다.
 - → [KMnO4](../wiki/시약/KMnO4.md), [SeO2](../wiki/시약/SeO2.md)
 
-### 5. 알켄의 합성: 왜 "한 가지 이성질체"가 중요한가 (L6c p.19–22)
+### 5. alkene의 합성: 왜 "한 가지 isomer"가 중요한가 (L6c p.19–22)
 - cracking·dehydrogenation은 혼합물을 준다. E2도 선호만 있고 통제는 없다(*E* 51, *Z* 18, 말단 31).
-- → [알켄의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md), [입체특이성과 입체선택성](../wiki/개념/입체특이성과%20입체선택성.md)
+- → [alkene의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md), [stereospecificity와 stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md)
 
-### 6. 알카인에서 알켄 만들기 (L6c p.23–25)
+### 6. alkyne에서 alkene 만들기 (L6c p.23–25)
 
-#### 6.1 Z-알켄: H₂ + Lindlar 촉매 (p.23)
+#### 6.1 Z-alkene: H₂ + Lindlar 촉매 (p.23)
 - 피독된 Pd에서 syn 첨가 후 멈춘다(Japanese beetle pheromone, Z만).
-- → [린들라 환원](../wiki/반응/린들라%20환원.md), [린들라 촉매](../wiki/시약/린들라%20촉매.md)
+- → [Lindlar 환원](../wiki/반응/린들라%20환원.md), [Lindlar 촉매](../wiki/시약/린들라%20촉매.md)
 
-#### 6.2 E-알켄: Na, NH₃(l), t-BuOH (p.23–24)
+#### 6.2 E-alkene: Na, NH₃(l), t-BuOH (p.23–24)
 - SET: radical anion → vinyl radical → trans vinyl anion → *E*-alkene.
 - → [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md)
 
 #### 6.3 예: Lindlar의 선택성 (Org. Lett. 2001) (p.25)
 - enyne의 C≡C만 *Z*로 환원하고 기존 *E*-C=C는 그대로 둔다(연습 문제 3).
-- → [린들라 환원](../wiki/반응/린들라%20환원.md)
+- → [Lindlar 환원](../wiki/반응/린들라%20환원.md)
 
 ### 7. Wittig 반응 (L6c p.26–38)
 
-#### 7.1 일리드란 무엇이고 어떻게 만드나 (p.26)
+#### 7.1 ylide란 무엇이고 어떻게 만드나 (p.26)
 - PPh₃ + R–X (S<sub>N</sub>2) → phosphonium salt → 염기로 deprotonation.
-- → [인 일라이드](../wiki/시약/인%20일라이드.md), [SN2 반응](../wiki/반응/SN2%20반응.md)
+- → [phosphorus ylide](../wiki/시약/인%20일라이드.md), [SN2 반응](../wiki/반응/SN2%20반응.md)
 
 #### 7.2 Wittig 반응: C=O를 C=C로 바꾼다 (p.27–28)
 - cyclohexanone + Ph₃P=CH₂ → methylenecyclohexane 86%. BASF vitamin A 합성.
-- → [위티그 반응](../wiki/반응/위티그%20반응.md)
+- → [Wittig 반응](../wiki/반응/위티그%20반응.md)
 
-#### 7.3 안정화 일리드와 비안정화 일리드 (p.29)
-- C=O 공액이면 stabilized(Na₂CO₃로 생성), 알킬이면 unstabilized(BuLi 필요).
-- → [인 일라이드](../wiki/시약/인%20일라이드.md)
+#### 7.3 안정화 ylide와 비안정화 ylide (p.29)
+- C=O 공액이면 stabilized(Na₂CO₃로 생성), alkyl이면 unstabilized(BuLi 필요).
+- → [phosphorus ylide](../wiki/시약/인%20일라이드.md)
 
-#### 7.4 입체선택성: 안정화는 E, 비안정화는 Z (p.30–31)
-- → [위티그 반응](../wiki/반응/위티그%20반응.md)
+#### 7.4 stereoselectivity: 안정화는 E, 비안정화는 Z (p.30–31)
+- → [Wittig 반응](../wiki/반응/위티그%20반응.md)
 
 #### 7.5 메커니즘: 4원 고리를 거쳐 P=O로 (p.33)
 - ylide 공격 → oxaphosphetane → C=C + P=O(구동력).
-- → [위티그 반응](../wiki/반응/위티그%20반응.md), [옥사포스페테인](../wiki/개념/옥사포스페테인.md)
+- → [Wittig 반응](../wiki/반응/위티그%20반응.md), [oxaphosphetane](../wiki/개념/옥사포스페테인.md)
 
-#### 7.6 비안정화 일리드는 왜 Z를 주나 (p.34–35)
+#### 7.6 비안정화 ylide는 왜 Z를 주나 (p.34–35)
 - 수직 접근 → syn oxaphosphetane → stereospecific syn elimination → *Z*.
-- → [옥사포스페테인](../wiki/개념/옥사포스페테인.md)
+- → [oxaphosphetane](../wiki/개념/옥사포스페테인.md)
 
 #### 7.7 Horner–Wadsworth–Emmons (HWE) 반응 (p.36–37)
 - phosphonate carbanion, *E*-선택적, ketone과도 반응, 수용성 phosphate 부산물.
@@ -132,31 +132,31 @@
 
 #### 7.8 요약 (p.38)
 - alkyne → alkene: *Z*는 H₂ + Lindlar, *E*는 Na/NH₃. Wittig: *Z*는 unstabilized, *E*는 stabilized 또는 HWE.
-- → [알켄의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md)
+- → [alkene의 입체선택적 합성](../wiki/개념/알켄의%20입체선택적%20합성.md)
 
 ## 반응 요약표
 
-| 반응 | 시약/조건 | 생성물 | 선택성·입체화학 | 비고 |
+| 반응 | 시약/조건 | 생성물 | 선택성·stereochemistry | 비고 |
 |---|---|---|---|---|
-| [에스터 부분 환원](../wiki/반응/에스터%20부분%20환원.md) | DIBAL-H, hexane, −70 °C; H₃O⁺ | 알데하이드 | – | 사면체 중간체가 저온에서 안정 (p.2) |
-| [DMP](../wiki/시약/DMP.md) 산화 | Dess–Martin periodinane, CH₂Cl₂ | 1°→RCHO, 2°→케톤 | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
-| [Swern 산화](../wiki/반응/스원%20산화.md) | (COCl)₂, DMSO, DCM, −78 °C; NEt₃ | 1°→RCHO, 2°→케톤 | 3° OH 영향 없음 | 부산물 Me₂S, CO, CO₂, HCl (p.8–9) |
-| Ley–Griffith ([TPAP](../wiki/시약/TPAP.md)) | TPAP(촉매), NMO(최종 산화제) | 알데하이드/케톤 | – | Ru(VII)/Ru(V) 순환 (p.10) |
-| [MnO2](../wiki/시약/MnO2.md) 산화 | MnO₂ | 알릴/벤질 C=O | 알릴·벤질 OH만, C=C 유지 | 일반 2° OH는 남음 (p.10) |
-| [TEMPO 산화](../wiki/반응/TEMPO%20산화.md) | TEMPO (0.01 equiv), NaOCl, KBr (0.1 equiv), NaHCO₃, CH₂Cl₂–H₂O, 0 °C | RCHO | 1° 알코올 | 활성종은 나이트로소늄 (p.11–12) |
-| Stahl 산화 ([TEMPO 산화](../wiki/반응/TEMPO%20산화.md)) | (bpy)CuI 5%, TEMPO 5%, NMI 10%, air/O₂, MeCN, rt | RCHO | 1° 알코올, C=C 무관 | O₂가 최종 산화제 (p.13) |
+| [ester 부분 환원](../wiki/반응/에스터%20부분%20환원.md) | DIBAL-H, hexane, −70 °C; H₃O⁺ | aldehyde | – | tetrahedral intermediate가 저온에서 안정 (p.2) |
+| [DMP](../wiki/시약/DMP.md) 산화 | Dess–Martin periodinane, CH₂Cl₂ | 1°→RCHO, 2°→ketone | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
+| [Swern 산화](../wiki/반응/스원%20산화.md) | (COCl)₂, DMSO, DCM, −78 °C; NEt₃ | 1°→RCHO, 2°→ketone | 3° OH 영향 없음 | 부산물 Me₂S, CO, CO₂, HCl (p.8–9) |
+| Ley–Griffith ([TPAP](../wiki/시약/TPAP.md)) | TPAP(촉매), NMO(최종 산화제) | aldehyde/ketone | – | Ru(VII)/Ru(V) 순환 (p.10) |
+| [MnO2](../wiki/시약/MnO2.md) 산화 | MnO₂ | allyl/benzyl C=O | allyl·benzyl OH만, C=C 유지 | 일반 2° OH는 남음 (p.10) |
+| [TEMPO 산화](../wiki/반응/TEMPO%20산화.md) | TEMPO (0.01 equiv), NaOCl, KBr (0.1 equiv), NaHCO₃, CH₂Cl₂–H₂O, 0 °C | RCHO | 1° alcohol | 활성종은 nitrosonium (p.11–12) |
+| Stahl 산화 ([TEMPO 산화](../wiki/반응/TEMPO%20산화.md)) | (bpy)CuI 5%, TEMPO 5%, NMI 10%, air/O₂, MeCN, rt | RCHO | 1° alcohol, C=C 무관 | O₂가 최종 산화제 (p.13) |
 | [Pinnick 산화](../wiki/반응/피닉%20산화.md) | NaClO₂, NaH₂PO₄, 2-methyl-2-butene(또는 DMSO) | RCO₂H | – | HOCl 제거제 (p.15) |
-| HOCl 제거 ([피닉 산화](../wiki/반응/피닉%20산화.md)) | 2-methyl-2-butene + HOCl | 3-chloro-2-methylbutan-2-ol | OH는 3차 C, Cl은 2차 C | Markovnikov형 (p.15) |
+| HOCl 제거 ([Pinnick 산화](../wiki/반응/피닉%20산화.md)) | 2-methyl-2-butene + HOCl | 3-chloro-2-methylbutan-2-ol | OH는 3차 C, Cl은 2차 C | Markovnikov형 (p.15) |
 | [Jones 산화](../wiki/반응/존스%20산화.md) | CrO₃, H₂SO₄ (H₂CrO₄) | 1°→RCO₂H | – | 강산성, 민감한 기질에 부적합 (p.16) |
-| 2단계 산화 ([알코올 산화](../wiki/반응/알코올%20산화.md)) | DMP → NaClO₂ | RCO₂H | – | "3 = 1 + 2" (p.16–17) |
-| 벤질 산화 ([KMnO4](../wiki/시약/KMnO4.md)) | KMnO₄ | ArCO₂H | 벤질 CH₃ | 사카린 합성 (p.18) |
-| 알릴 산화 ([SeO2](../wiki/시약/SeO2.md)) | SeO₂ | R–CH=C(CH₃)–CHO | 알릴 CH₃; 그림상 R과 trans인 CH₃ | 벤질 CH₃에는 안 됨 (p.18) |
-| [Lindlar 수소화](../wiki/반응/린들라%20환원.md) | H₂, Pd/CaCO₃/Pb(OAc)₂ | Z-알켄 | syn 첨가 → Z | 과잉 환원 없음 (p.23) |
-| [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md) | Na, NH₃(l), t-BuOH | E-알켄 | trans 비닐 음이온 → E | SET (p.23–24) |
-| 일리드 생성 ([인 일라이드](../wiki/시약/인%20일라이드.md)) | PPh₃ + RCH₂X (S<sub>N</sub>2); BuLi/PhLi/t-BuOK (안정화형은 Na₂CO₃) | Ph₃P=CHR | 1°/2° 할로젠화물 | (p.26, 29) |
-| [Wittig](../wiki/반응/위티그%20반응.md) (비안정화) | Ph₃P=CHR (R = 알킬) + R′CHO | R–CH=CH–R′ | Z-선택적 | syn 옥사포스페테인 (p.31, 34) |
-| [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph₃P=CHCO₂Et, Ph₃P=CHCHO 등 + RCHO | α,β-불포화 카보닐 | E-선택적 | (p.30) |
-| [HWE](../wiki/반응/HWE%20반응.md) | (EtO)₂P(O)CH₂EWG, NaH/EtO⁻/KHMDS + 알데하이드·케톤 | 알켄 | E-선택적(이치환) | 수용성 포스페이트 부산물 (p.36–37) |
+| 2단계 산화 ([alcohol 산화](../wiki/반응/알코올%20산화.md)) | DMP → NaClO₂ | RCO₂H | – | "3 = 1 + 2" (p.16–17) |
+| benzyl 산화 ([KMnO4](../wiki/시약/KMnO4.md)) | KMnO₄ | ArCO₂H | benzyl CH₃ | saccharin 합성 (p.18) |
+| allyl 산화 ([SeO2](../wiki/시약/SeO2.md)) | SeO₂ | R–CH=C(CH₃)–CHO | allyl CH₃; 그림상 R과 trans인 CH₃ | benzyl CH₃에는 안 됨 (p.18) |
+| [Lindlar hydrogenation](../wiki/반응/린들라%20환원.md) | H₂, Pd/CaCO₃/Pb(OAc)₂ | Z-alkene | syn 첨가 → Z | 과잉 환원 없음 (p.23) |
+| [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md) | Na, NH₃(l), t-BuOH | E-alkene | trans vinyl 음이온 → E | SET (p.23–24) |
+| ylide 생성 ([phosphorus ylide](../wiki/시약/인%20일라이드.md)) | PPh₃ + RCH₂X (S<sub>N</sub>2); BuLi/PhLi/t-BuOK (안정화형은 Na₂CO₃) | Ph₃P=CHR | 1°/2° 할로젠화물 | (p.26, 29) |
+| [Wittig](../wiki/반응/위티그%20반응.md) (비안정화) | Ph₃P=CHR (R = alkyl) + R′CHO | R–CH=CH–R′ | Z-선택적 | syn oxaphosphetane (p.31, 34) |
+| [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph₃P=CHCO₂Et, Ph₃P=CHCHO 등 + RCHO | α,β-불포화 carbonyl | E-선택적 | (p.30) |
+| [HWE](../wiki/반응/HWE%20반응.md) | (EtO)₂P(O)CH₂EWG, NaH/EtO⁻/KHMDS + aldehyde·ketone | alkene | E-선택적(이치환) | 수용성 phosphate 부산물 (p.36–37) |
 
 (쪽 번호는 모두 L6c 기준)
 

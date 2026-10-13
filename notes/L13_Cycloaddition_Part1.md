@@ -3,8 +3,8 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [1,3-쌍극자 고리화 첨가](../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [딜스-알더 반응](../wiki/반응/딜스-알더%20반응.md), [로빈슨 고리 형성](../wiki/반응/로빈슨%20고리%20형성.md), [마이클 반응](../wiki/반응/마이클%20반응.md), [역 딜스-알더 반응](../wiki/반응/역%20딜스-알더%20반응.md)
-> - 개념: [endo 규칙](../wiki/개념/endo%20규칙.md), [s-cis 형태](../wiki/개념/s-cis%20형태.md), [딜스-알더 위치선택성](../wiki/개념/딜스-알더%20위치선택성.md), [방향족성](../wiki/개념/방향족성.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [우드워드-호프만 규칙](../wiki/개념/우드워드-호프만%20규칙.md), [입체특이성과 입체선택성](../wiki/개념/입체특이성과%20입체선택성.md), [초면과 대면](../wiki/개념/초면과%20대면.md), [친전자체와 친핵체](../wiki/개념/친전자체와%20친핵체.md), [페리고리 반응](../wiki/개념/페리고리%20반응.md), [프런티어 분자 오비탈](../wiki/개념/프런티어%20분자%20오비탈.md)
+> - 반응: [1,3-dipolar cycloaddition](../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [Michael reaction](../wiki/반응/마이클%20반응.md), [retro-Diels–Alder reaction](../wiki/반응/역%20딜스-알더%20반응.md), [Robinson annulation](../wiki/반응/로빈슨%20고리%20형성.md)
+> - 개념: [aromaticity](../wiki/개념/방향족성.md), [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [endo rule](../wiki/개념/endo%20규칙.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [s-cis conformation](../wiki/개념/s-cis%20형태.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
 
 <!-- wiki-links:end -->
 

@@ -1,6 +1,6 @@
 # L2 연습 문제와 해설
 
-> L2 강의 노트([L2 알켄의 친전자성 첨가 2부](../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md))에 있던 연습 문제와 해설을 옮긴 것이다. 관련 개념: [에폭사이드 고리 열기](../wiki/반응/에폭사이드%20고리%20열기.md), [할로젠 첨가](../wiki/반응/할로젠%20첨가.md), [할로하이드린 형성](../wiki/반응/할로하이드린%20형성.md), [다이하이드록실화](../wiki/반응/다이하이드록실화.md), [오존 분해](../wiki/반응/오존%20분해.md), [산 촉매 수화](../wiki/반응/산%20촉매%20수화.md), [수소붕소화-산화](../wiki/반응/수소붕소화-산화.md), [9-BBN](../wiki/시약/9-BBN.md).
+> L2 강의 노트([L2 Electrophilic Addition to Alkenes, Part 2](../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md))에 있던 연습 문제와 해설을 옮긴 것이다. 관련 개념: [epoxide ring opening](../wiki/반응/에폭사이드%20고리%20열기.md), [halogen addition](../wiki/반응/할로젠%20첨가.md), [halohydrin formation](../wiki/반응/할로하이드린%20형성.md), [dihydroxylation](../wiki/반응/다이하이드록실화.md), [ozonolysis](../wiki/반응/오존%20분해.md), [acid-catalyzed hydration](../wiki/반응/산%20촉매%20수화.md), [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md), [9-BBN](../wiki/시약/9-BBN.md).
 
 ## 문제
 

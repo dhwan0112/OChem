@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [교차 클라이젠 축합](../wiki/반응/교차%20클라이젠%20축합.md), [디크만 축합](../wiki/반응/디크만%20축합.md), [말론산 에스터 합성](../wiki/반응/말론산%20에스터%20합성.md), [아세토아세트산 에스터 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md), [에스터 가수분해](../wiki/반응/에스터%20가수분해.md), [역알돌 반응](../wiki/반응/역알돌%20반응.md), [친핵성 아실 치환](../wiki/반응/친핵성%20아실%20치환.md), [클라이젠 축합](../wiki/반응/클라이젠%20축합.md)
-> - 시약: [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md)
-> - 개념: [α-수소의 산도](../wiki/개념/α-수소의%20산도.md), [사면체 중간체](../wiki/개념/사면체%20중간체.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md)
+> - 반응: [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [Dieckmann condensation](../wiki/반응/디크만%20축합.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
+> - 시약: [alkoxide base](../wiki/시약/알콕사이드%20염기.md)
+> - 개념: [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
 
 <!-- wiki-links:end -->
 

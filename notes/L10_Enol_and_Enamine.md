@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [SN2 반응](../wiki/반응/SN2%20반응.md), [α-할로젠화](../wiki/반응/α-할로젠화.md), [스토크 엔아민 반응](../wiki/반응/스토크%20엔아민%20반응.md), [알돌 반응](../wiki/반응/알돌%20반응.md), [에스터 가수분해](../wiki/반응/에스터%20가수분해.md), [엔올레이트 알킬화](../wiki/반응/엔올레이트%20알킬화.md), [케토-엔올 토토머화](../wiki/반응/케토-엔올%20토토머화.md), [클라이젠 축합](../wiki/반응/클라이젠%20축합.md), [프롤린 촉매 알돌 반응](../wiki/반응/프롤린%20촉매%20알돌%20반응.md), [할로폼 반응](../wiki/반응/할로폼%20반응.md), [환원성 아미노화](../wiki/반응/환원성%20아미노화.md)
-> - 시약: [LDA](../wiki/시약/LDA.md), [실릴 엔올 에터](../wiki/시약/실릴%20엔올%20에터.md), [피롤리딘](../wiki/시약/피롤리딘.md)
-> - 개념: [엔아민](../wiki/개념/엔아민.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md), [이미늄 이온](../wiki/개념/이미늄%20이온.md), [이민](../wiki/개념/이민.md), [친전자체와 친핵체](../wiki/개념/친전자체와%20친핵체.md), [탄소 양이온](../wiki/개념/탄소%20양이온.md)
+> - 반응: [aldol reaction](../wiki/반응/알돌%20반응.md), [alpha-halogenation](../wiki/반응/α-할로젠화.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md), [haloform reaction](../wiki/반응/할로폼%20반응.md), [keto-enol tautomerism](../wiki/반응/케토-엔올%20토토머화.md), [proline-catalyzed aldol reaction](../wiki/반응/프롤린%20촉매%20알돌%20반응.md), [reductive amination](../wiki/반응/환원성%20아미노화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md), [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md)
+> - 시약: [LDA](../wiki/시약/LDA.md), [pyrrolidine](../wiki/시약/피롤리딘.md), [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md)
+> - 개념: [carbocation](../wiki/개념/탄소%20양이온.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [enamine](../wiki/개념/엔아민.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [imine](../wiki/개념/이민.md), [iminium ion](../wiki/개념/이미늄%20이온.md)
 
 <!-- wiki-links:end -->
 

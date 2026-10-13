@@ -3,9 +3,9 @@
 <!-- wiki-links:start -->
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
-> - 반응: [HWE 반응](../wiki/반응/HWE%20반응.md), [교차 알돌 반응](../wiki/반응/교차%20알돌%20반응.md), [마이클 반응](../wiki/반응/마이클%20반응.md), [무카이야마 알돌 반응](../wiki/반응/무카이야마%20알돌%20반응.md), [분자내 알돌 반응](../wiki/반응/분자내%20알돌%20반응.md), [알돌 반응](../wiki/반응/알돌%20반응.md), [역알돌 반응](../wiki/반응/역알돌%20반응.md), [크뇌베나겔 축합](../wiki/반응/크뇌베나겔%20축합.md), [헨리 반응](../wiki/반응/헨리%20반응.md)
-> - 시약: [LDA](../wiki/시약/LDA.md), [TiCl4](../wiki/시약/TiCl4.md), [실릴 엔올 에터](../wiki/시약/실릴%20엔올%20에터.md), [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md)
-> - 개념: [E1cB 제거](../wiki/개념/E1cB%20제거.md), [α-수소의 산도](../wiki/개념/α-수소의%20산도.md), [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md), [엔올레이트 화학 개관](../wiki/개념/엔올레이트%20화학%20개관.md), [옥사포스페테인](../wiki/개념/옥사포스페테인.md), [탄소 양이온](../wiki/개념/탄소%20양이온.md), [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md)
+> - 반응: [aldol reaction](../wiki/반응/알돌%20반응.md), [crossed aldol reaction](../wiki/반응/교차%20알돌%20반응.md), [Henry reaction](../wiki/반응/헨리%20반응.md), [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md), [intramolecular aldol reaction](../wiki/반응/분자내%20알돌%20반응.md), [Knoevenagel condensation](../wiki/반응/크뇌베나겔%20축합.md), [Michael reaction](../wiki/반응/마이클%20반응.md), [Mukaiyama aldol reaction](../wiki/반응/무카이야마%20알돌%20반응.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
+> - 시약: [alkoxide base](../wiki/시약/알콕사이드%20염기.md), [LDA](../wiki/시약/LDA.md), [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md), [TiCl4](../wiki/시약/TiCl4.md)
+> - 개념: [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [carbocation](../wiki/개념/탄소%20양이온.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md), [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [oxaphosphetane](../wiki/개념/옥사포스페테인.md)
 
 <!-- wiki-links:end -->
 

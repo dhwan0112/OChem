@@ -17,9 +17,9 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 
 | 기질/조건 | 생성물 | 비고 |
 |---|---|---|
-| alkene + OsO₄, 그다음 H₂O | *cis*-1,2-diol | syn, stereospecific ([다이하이드록실화](../반응/다이하이드록실화.md)) |
+| alkene + OsO₄, 그다음 H₂O | *cis*-1,2-diol | syn, stereospecific ([dihydroxylation](../반응/다이하이드록실화.md)) |
 | alkene + cat. OsO₄, NMO, H₂O/*t*-BuOH | *cis*-1,2-diol | NMO가 Os(VI) → Os(VIII) 재산화 |
-| alkene + OsO₄ → NaIO₄ | carbonyl 2개 | C=C 완전 절단 ([과아이오딘산 절단](../반응/과아이오딘산%20절단.md)) |
+| alkene + OsO₄ → NaIO₄ | carbonyl 2개 | C=C 완전 절단 ([periodate cleavage](../반응/과아이오딘산%20절단.md)) |
 
 (출처: L2 p.14–16)
 
@@ -27,7 +27,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 
 ## 왜 syn인가
 
-OsO₄의 산소 두 개가 alkene과 고리형으로 한 번에 반응해 5원 고리 **osmate ester**를 만든다. 이때 Os는 전자 두 개를 얻어 Os(VI)로 환원된다. 두 C–O 결합이 같은 면에 동시에 생기므로, 가수분해 뒤에도 두 OH는 같은 쪽에 있다. mechanism 그림과 *E*/*Z* stereospecificity는 [다이하이드록실화](../반응/다이하이드록실화.md)에 있다. (출처: L2 p.14–15)
+OsO₄의 산소 두 개가 alkene과 고리형으로 한 번에 반응해 5원 고리 **osmate ester**를 만든다. 이때 Os는 전자 두 개를 얻어 Os(VI)로 환원된다. 두 C–O 결합이 같은 면에 동시에 생기므로, 가수분해 뒤에도 두 OH는 같은 쪽에 있다. mechanism 그림과 *E*/*Z* stereospecificity는 [dihydroxylation](../반응/다이하이드록실화.md)에 있다. (출처: L2 p.14–15)
 
 ## 흔한 오해
 
@@ -36,11 +36,11 @@ OsO₄의 산소 두 개가 alkene과 고리형으로 한 번에 반응해 5원 
 
 ## 관련 문서
 
-- 반응: [다이하이드록실화](../반응/다이하이드록실화.md), [과아이오딘산 절단](../반응/과아이오딘산%20절단.md), [오존 분해](../반응/오존%20분해.md), [에폭시화](../반응/에폭시화.md)
+- 반응: [dihydroxylation](../반응/다이하이드록실화.md), [periodate cleavage](../반응/과아이오딘산%20절단.md), [ozonolysis](../반응/오존%20분해.md), [epoxidation](../반응/에폭시화.md)
 - 비교 시약: [mCPBA](mCPBA.md), [NaIO4](NaIO4.md)
-- 개념: [입체특이성과 입체선택성](../개념/입체특이성과%20입체선택성.md)
+- 개념: [stereospecificity and stereoselectivity](../개념/입체특이성과%20입체선택성.md)
 - 시약: [NMO](NMO.md)
 
 ## 출처
 
-- [L2 알켄의 친전자성 첨가 2부](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.13–16
+- [L2 Electrophilic Addition to Alkenes, Part 2](../../notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md): 슬라이드 L2 p.13–16
