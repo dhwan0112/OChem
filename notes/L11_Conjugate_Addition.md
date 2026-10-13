@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L11_Conjugate_Addition.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 L1~L2의 알켄은 electrophile을 받는 nucleophile이었다. 이 강의는 C=C 옆에 carbonyl 같은 EWG가 짝지어 붙으면 알켄이 거꾸로 nucleophile을 받는 electrophile이 된다는 데서 출발한다. 먼저 β-탄소가 왜 δ+인지와 conjugate addition의 일반형을 보고, nucleophile이 carbonyl 탄소(1,2)와 β-탄소(1,4) 중 어디를 칠지를 정하는 세 요인(받개의 작용기, nucleophile의 hard/soft, kinetic/thermodynamic 조건)을 정리한다. 이어서 L7·L8·L10에서 만든 enolate와 enamine을 Michael acceptor에 붙여 1,5-dicarbonyl을 만들고, 받개를 iminium ion으로 활성화하는 유기 촉매를 본다. 마지막으로 β-이탈기가 있으면 첨가 뒤 제거가 일어난다는 점을 벤젠 고리로 넓혀 SNAr까지 잇는다.

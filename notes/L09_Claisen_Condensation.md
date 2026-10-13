@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L09_Claisen_Condensation.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 탈양성자화가 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(엔올화되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.

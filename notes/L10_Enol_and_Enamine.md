@@ -11,6 +11,8 @@
 
 > 이 강의 노트는 **뼈대**다. 강의 순서와 슬라이드 위치만 정리했고, 설명은 링크된 개념 문서에 있다.
 
+> 강의 흐름대로 길게 읽고 싶으면 **[통독본](통독/L10_Enol_and_Enamine.md)**(재구성 직전의 전체 노트, 소절마다 개념 문서 링크 포함)을 본다.
+
 ## 개요
 
 염기로 만든 enolate 이야기의 "중성 버전"이다. 산 조건에서는 enolate 대신 enol이, 2차 아민을 쓰면 enamine이 nucleophile이 된다. 앞부분은 단순 ketone에서 1%도 안 되는 enol이 어떻게 반응을 이끌고(산 촉매 aldol), 왜 1,3-dicarbonyl에서는 enol이 주인공이 되는지(keto-enol tautomerism, K(enol/keto) 표, 비타민 C)를 다룬다. 이어 halogenation으로 enol의 반응성을 확인하고 silyl enol ether로 위치를 고르는 법을 본 뒤, enamine으로 강염기 없이 aldehyde를 alkylation하는 방법(Stork)과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol로 끝난다.

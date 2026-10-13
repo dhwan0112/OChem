@@ -396,7 +396,7 @@ def update_lecture_notes(docs):
 def check_links(docs):
     """wiki, notes, practice, README의 상대 경로 링크가 실제 파일을 가리키는지, 옵시디언 전용 [[ ]]가 남지 않았는지 본다."""
     broken = []
-    files = glob.glob(os.path.join(WIKI, "**", "*.md"), recursive=True) + glob.glob(os.path.join(NOTES, "*.md")) \
+    files = glob.glob(os.path.join(WIKI, "**", "*.md"), recursive=True) + glob.glob(os.path.join(NOTES, "**", "*.md"), recursive=True) \
         + glob.glob(os.path.join(ROOT, "practice", "*.md")) + [os.path.join(ROOT, "README.md")]
     for path in files:
         text = open(path, encoding="utf-8").read()
