@@ -58,7 +58,7 @@ Woodward–Hoffmann 규칙은 반응이 **허용되는지만** 알려 주고 어
 
 ### 2.1 왜 FMO가 아니라 Woodward–Hoffmann인가
 
-cycloaddition와 시그마트로픽 반응은 HOMO–LUMO 논리와 Woodward–Hoffmann 규칙 중 편한 것을 골라 쓸 수 있었다. 전자고리화 반응, 적어도 고리 닫힘은 **분자 오비탈이 하나만** 관여하므로 두 오비탈을 겹치는 FMO 논리를 그대로 쓰기 어렵다. 그래서 Clayden은 여기서는 Woodward–Hoffmann 규칙을 쓰라고 한다(HOMO 하나의 대칭으로 보는 방법은 4절에서 보충한다). 규칙은 L13 8절과 같다. **열적 페리고리 반응에서는 (4q+2)s 성분 수와 (4r)a 성분 수의 합이 홀수여야 한다.** (출처: Clayden p.923)
+cycloaddition과 시그마트로픽 반응은 HOMO–LUMO 논리와 Woodward–Hoffmann 규칙 중 편한 것을 골라 쓸 수 있었다. 전자고리화 반응, 적어도 고리 닫힘은 **분자 오비탈이 하나만** 관여하므로 두 오비탈을 겹치는 FMO 논리를 그대로 쓰기 어렵다. 그래서 Clayden은 여기서는 Woodward–Hoffmann 규칙을 쓰라고 한다(HOMO 하나의 대칭으로 보는 방법은 4절에서 보충한다). 규칙은 L13 8절과 같다. **열적 페리고리 반응에서는 (4q+2)s 성분 수와 (4r)a 성분 수의 합이 홀수여야 한다.** (출처: Clayden p.923)
 
 ### 2.2 hexatriene(6π): 초면이면 허용
 
@@ -130,7 +130,7 @@ Clayden의 요약 상자를 옮기면 다음과 같다. (출처: Clayden p.925)
 
 ### 3.5 왜 전자고리화 반응만 따로 조심해야 하나
 
-cycloaddition와 시그마트로픽 반응에서도 결합각이 109°와 120° 사이에서 바뀌며 조금씩 회전은 있다. 하지만 전자고리화 반응에서는 평면 폴리엔이 고리가 되면서 **거의 90°**를 돈다. 이 큰 회전의 방향이 입체화학을 정하므로, 다른 페리고리 반응과 섞지 말고 따로 판정해야 한다. (출처: Clayden p.925)
+cycloaddition과 시그마트로픽 반응에서도 결합각이 109°와 120° 사이에서 바뀌며 조금씩 회전은 있다. 하지만 전자고리화 반응에서는 평면 폴리엔이 고리가 되면서 **거의 90°**를 돈다. 이 큰 회전의 방향이 입체화학을 정하므로, 다른 페리고리 반응과 섞지 말고 따로 판정해야 한다. (출처: Clayden p.925)
 
 ## 4. HOMO 대칭으로 다시 보기
 
@@ -171,7 +171,7 @@ HOMO가 한 단계 위의 오비탈로 바뀌면 양 끝 위상 관계가 뒤집
 
 ### 5.1 한 장 판정표
 
-cycloaddition와 시그마트로픽 반응에서 이미 봤듯이, 광화학 조건에서는 콘/디스 규칙이 뒤집힌다. octatriene의 경우, 가열하면 π6s disrotatory으로 cis-dimethyl 생성물이, 빛을 쬐면 π6a conrotatory으로 trans-dimethyl 생성물이 생긴다. (출처: Clayden p.926–927)
+cycloaddition과 시그마트로픽 반응에서 이미 봤듯이, 광화학 조건에서는 콘/디스 규칙이 뒤집힌다. octatriene의 경우, 가열하면 π6s disrotatory으로 cis-dimethyl 생성물이, 빛을 쬐면 π6a conrotatory으로 trans-dimethyl 생성물이 생긴다. (출처: Clayden p.926–927)
 
 | π 전자 수 | 열(Δ) | 빛(hν) |
 |---|---|---|
@@ -206,7 +206,7 @@ endiandric acid 계열 천연물은 특이하게도 **라세미체**로 발견�
 
 ### 7.1 Nazarov cyclization: pentadienyl cation의 4π 반응
 
-이중으로 α,β-불포화된 ketone(다이바이닐 ketone)이 고리가 닫혀 cyclopentenone이 되는 반응이 Nazarov cyclization다. 러시아 화학자 Nazarov의 이름을 땄다. (출처: Clayden p.927)
+이중으로 α,β-unsaturated된 ketone(다이바이닐 ketone)이 고리가 닫혀 cyclopentenone이 되는 반응이 Nazarov cyclization이다. 러시아 화학자 Nazarov의 이름을 땄다. (출처: Clayden p.927)
 
 1. 산이 ketone 산소를 protonation한다. 공명으로 양전하가 양쪽 β-탄소까지 퍼져, **p 오비탈 다섯 개에 π 전자 4개**인 pentadienyl cation이 된다.
 2. 다섯 오비탈 가운데 하나가 비어 있으므로 이것은 **4π 전자고리화 반응**이다. 열적이므로 새 σ 결합을 만드는 오비탈은 **대면(π4a)**, 즉 **conrotatory**으로 만난다.
@@ -255,7 +255,7 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 ### 8.2 아지리딘 → azomethine ylide: 4π conrotatory
 
-아지리딘은 대부분 안정하지만, 전자 끄는 기(ester)를 가진 것은 가열하면 전자고리화로 열려 **azomethine ylide**가 된다. azomethine ylide는 [L15](L15_Cycloaddition_Part3.md) 15.1절 표에 나온 1,3-쌍극자이므로, 쌍극친화체와 [3+2] cycloaddition로 붙잡을 수 있다. (출처: Clayden p.929)
+아지리딘은 대부분 안정하지만, 전자 끄는 기(ester)를 가진 것은 가열하면 전자고리화로 열려 **azomethine ylide**가 된다. azomethine ylide는 [L15](L15_Cycloaddition_Part3.md) 15.1절 표에 나온 1,3-쌍극자이므로, 쌍극친화체와 [3+2] cycloaddition으로 붙잡을 수 있다. (출처: Clayden p.929)
 
 이 붙잡기로 고리 열림의 입체화학을 알아낼 수 있다. [3+2]는 양쪽 성분 모두 초면인 입체특이적 반응([π4s + π2s])이므로, 생성물의 입체화학이 곧 intermediate ylide의 기하를 알려 준다. 결과는 **conrotatory**이다. ylide는 4π 전자계이므로 열적 conrotatory이 규칙과 맞는다. (출처: Clayden p.929)
 
@@ -270,7 +270,7 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 
 미국 바퀴벌레의 성 페로몬인 페리플라논 B(periplanone B)를 Schreiber는 1984년에 대부분 페리고리 반응으로 합성했다. 지금까지 배운 반응이 한 합성 안에 모두 나온다. (출처: Clayden p.929–930)
 
-1. **광화학 [2+2] cycloaddition:** cyclohexenone과 알렌을 hν(Et2O)로 반응시켜 cyclobutane을 만든다(72%). regioselectivity은 예측하기 어렵지만 알렌 + 불포화 ketone에서 전형적인 것이다. 새 4원 고리의 두 입체중심은 완전히 입체특이적이다(→ [L14](L14_Cycloaddition_Part2.md) 10절).
+1. **광화학 [2+2] cycloaddition:** cyclohexenone과 알렌을 hν(Et2O)로 반응시켜 cyclobutane을 만든다(72%). regioselectivity은 예측하기 어렵지만 알렌 + unsaturated ketone에서 전형적인 것이다. 새 4원 고리의 두 입체중심은 완전히 입체특이적이다(→ [L14](L14_Cycloaddition_Part2.md) 10절).
 2. **바이닐 Grignard addition:** ketone에 CH2=CHMgBr를 더해 3차 allyl alcohol을 만든다(63%).
 3. **anion 옥시-Cope rearrangement:** KH, 60 °C. 6원 고리가 10원 고리로 넓어진다(75%)(→ [L16](L16_Sigmatropic_Rearrangements.md) 6.3절).
 4. **4π 전자고리화 고리 열림:** 175 °C로 가열하면 4원 고리가 열려 12원 고리가 된다. 새 이중결합은 *Z*/*E* 혼합물로 생기는데(77%), 빛을 쬐면 덜 안정한 *Z*가 더 안정한 *E*로 이성질화된다(82%).

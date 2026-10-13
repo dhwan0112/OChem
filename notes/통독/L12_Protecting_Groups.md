@@ -117,7 +117,7 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 #### 5-4. 어떻게 벗기나
 
-탈보호 방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다. fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다. F-가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4] F-는 탄소 화학에서는 그다지 좋은 nucleophile가 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
+탈보호 방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다. fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다. F-가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4] F-는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
 
 ![F⁻가 silyl ether의 Si를 공격하고 alkoxide가 떨어지는 TBAF 탈보호](../../figures/L12/silyl_tbaf.svg)
 
@@ -132,7 +132,7 @@ silyl group이 이렇게 여러 종류인 이유는 무엇일까? 튼튼함이 �
 - 산성 조건: TMS (1) < TES (64) < TBS (20,000) < TIPS (700,000) < TBDPS (5,000,000)
 - 염기성 조건: TMS (1) < TES (10–100) < TBS ~ TBDPS (20,000) < TIPS (100,000)
 
-대체로 Si 주위가 붐빌수록 튼튼하다. Si 주변의 덩치 큰 치환기가 물, OH-, F- 같은 nucleophile가 Si에 다가가는 것을 막기 때문이다.[12] 그런데 TIPS와 TBDPS의 순서를 보면 흥미롭다. 산에서는 TBDPS가 압도적으로 가장 튼튼하지만, 염기에서는 TIPS가 가장 튼튼하고 TBDPS는 TBS와 비슷한 수준으로 내려온다. 즉 "가장 튼튼한 silyl group"는 조건에 따라 다르다.
+대체로 Si 주위가 붐빌수록 튼튼하다. Si 주변의 덩치 큰 치환기가 물, OH-, F- 같은 nucleophile이 Si에 다가가는 것을 막기 때문이다.[12] 그런데 TIPS와 TBDPS의 순서를 보면 흥미롭다. 산에서는 TBDPS가 압도적으로 가장 튼튼하지만, 염기에서는 TIPS가 가장 튼튼하고 TBDPS는 TBS와 비슷한 수준으로 내려온다. 즉 "가장 튼튼한 silyl group"는 조건에 따라 다르다.
 
 이 차이는 실전에서 무기가 된다. 한 분자에 TMS 에테르와 TBDPS 에테르가 같이 있다면, 약한 산 조건으로 TMS만 골라 벗길 수 있다.
 
@@ -144,7 +144,7 @@ silyl group이 이렇게 여러 종류인 이유는 무엇일까? 튼튼함이 �
 
 #### 6-1. 왜 카바메이트인가
 
-amine은 좋은 nucleophile이자 염기라서, electrophile가 있는 반응에서는 거의 항상 끼어든다. 그렇다면 amine의 질소를 어떻게 "얌전하게" 만들 수 있을까? 답은 질소를 carbonyl에 붙여 카바메이트(RO-C(=O)-NR2)로 만드는 것이다. 그러면 질소의 비공유 전자쌍이 C=O와 공명하며 비편재화되어 친핵성과 염기성이 크게 떨어진다.[5] 표에서 카바메이트가 "electrophile로부터" amine을 보호한다고 적힌 이유가 이것이다.
+amine은 좋은 nucleophile이자 염기라서, electrophile이 있는 반응에서는 거의 항상 끼어든다. 그렇다면 amine의 질소를 어떻게 "얌전하게" 만들 수 있을까? 답은 질소를 carbonyl에 붙여 카바메이트(RO-C(=O)-NR2)로 만드는 것이다. 그러면 질소의 비공유 전자쌍이 C=O와 공명하며 비편재화되어 친핵성과 염기성이 크게 떨어진다.[5] 표에서 카바메이트가 "electrophile로부터" amine을 보호한다고 적힌 이유가 이것이다.
 
 #### 6-2. 어떻게 씌우나
 
@@ -155,7 +155,7 @@ amine은 좋은 nucleophile이자 염기라서, electrophile가 있는 반응에
 
 대표 선수는 두 명이다. benzyl 카바메이트인 Cbz(Z라고도 함, R'RN-CO-OCH2Ph)는 BnOCOCl과 염기로 씌우고, t-butyl 카바메이트인 Boc(R'RN-CO-OC(CH3)3)는 (t-BuOCO)2O, 흔히 Boc2O라 부르는 시약과 염기로 씌운다.
 
-보충: 왜 Cbz는 chloroformate로, Boc는 무수물로 씌울까? Cbz에 해당하는 t-butyl t-BuOCOCl는 불안정해서 시약으로 다루기 어렵기 때문이다. 그래서 Boc는 "Boc 무수물"인 다이-t-butyl dicarbonate를 쓴다. (보충 근거: Clayden p.558, Wade p.1186)
+보충: 왜 Cbz는 chloroformate로, Boc는 무수물로 씌울까? Cbz에 해당하는 t-butyl t-BuOCOCl은 불안정해서 시약으로 다루기 어렵기 때문이다. 그래서 Boc는 "Boc 무수물"인 다이-t-butyl dicarbonate를 쓴다. (보충 근거: Clayden p.558, Wade p.1186)
 
 #### 6-3. 어떻게 벗기나
 
@@ -165,7 +165,7 @@ Boc는 산(예: TFA, trifluoroacetic acid)으로 벗긴다. Cbz는 H2/Pd hydroge
 
 *그림: 보충(슬라이드에는 조건만 있다). H₂/Pd 조건에서 benzyl C–O 결합(빨강)이 끊기고, H₂의 수소(초록)가 양쪽 조각에 붙어 carbamic acid와 toluene이 된다. 금속 표면에서 일어나는 반응이라 굽은 화살표는 그리지 않았다. carbamic acid는 저절로 CO₂를 잃고 amine이 된다(이 단계의 화살표는 7-3절의 두 번째 그림 참고). (보충 근거: Clayden p.557)*
 
-보충: 카바메이트는 ester와 amide의 "잡종"이지만 화학적 성질은 amide에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl group 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl group에 있다. 강산 HBr이 carbonyl 산소를 protonate하면, 친핵성이 좋은 Br-가 **benzyl 탄소를 SN2로 공격**해 BnBr을 떼어 내고 carbamic acid이 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 7-3절 Boc와 대비된다. Boc는 t-butyl group이 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br-처럼 좋은 nucleophile가 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
+보충: 카바메이트는 ester와 amide의 "잡종"이지만 화학적 성질은 amide에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl group 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl group에 있다. 강산 HBr이 carbonyl 산소를 protonate하면, 친핵성이 좋은 Br-가 **benzyl 탄소를 SN2로 공격**해 BnBr을 떼어 내고 carbamic acid이 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 7-3절 Boc와 대비된다. Boc는 t-butyl group이 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br-처럼 좋은 nucleophile이 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
 
 ![protonate된 Cbz의 benzyl 탄소를 Br⁻가 SN2로 공격해 carbamic acid와 benzyl bromide가 되는 단계](../../figures/L12/cbz_hbr.svg)
 
@@ -189,7 +189,7 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 
 #### 7-2. 해결 전략
 
-해결책은 이렇다. Leu는 N을 PG1으로 보호하고 CO2H를 C(=O)X로 N-protected amino acid. Gly는 CO2H를 PG2로 보호한다. 그러면 Gly의 NH2(nucleophile)가 Leu의 활성화된 carbonyl electrophile를 공격해 tetrahedral intermediate를 만들고, X-가 떨어져 나가며 PG1-NH-Leu-Gly-O-PG2가 생긴다.
+해결책은 이렇다. Leu는 N을 PG1으로 보호하고 CO2H를 C(=O)X로 N-protected amino acid. Gly는 CO2H를 PG2로 보호한다. 그러면 Gly의 NH2(nucleophile)가 Leu의 활성화된 carbonyl electrophile을 공격해 tetrahedral intermediate를 만들고, X-가 떨어져 나가며 PG1-NH-Leu-Gly-O-PG2가 생긴다.
 
 다음은 어떻게 할까? 사슬을 N 쪽으로 늘리고 싶으면 PG1만 벗기고(N-탈보호, 슬라이드에서는 염기), C 쪽으로 늘리고 싶으면 PG2만 벗긴다(C-탈보호, 슬라이드에서는 산). 여기서 핵심은 PG1과 PG2가 서로 다른 조건에서 벗겨져야 한다는 것이다. 한쪽을 벗기는 조건에서 다른 쪽은 멀쩡히 버텨야 한다. 이렇게 서로 간섭하지 않고 각각 선택적으로 제거할 수 있는 protecting group 조합을 orthogonal 보호라고 한다. 슬라이드는 N-보호 방식으로 N-Boc와 N-Fmoc 두 가지를 소개한다.
 
@@ -277,9 +277,9 @@ carbonyl은 ethylene 글라이콜과 p-TsOH로 고리형 acetal(1,3-다이옥솔
 
 화살표가 양방향인 데 주목하자. 이 반응은 평형이다. 그래서 보호할 때는 물을 빼 주어 평형을 acetal 쪽으로 밀고[10], 벗길 때는 반대로 물과 산(H2O, p-TsOH)을 넣어 원래 carbonyl로 되돌린다. 같은 산 촉매 반응을 물의 유무로 앞뒤로 돌리는 셈이다.
 
-acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, 산성 조건에서는 불안정하다. Grignard 시약이나 hydride 같은 nucleophile를 써야 하는 반응에서 carbonyl을 가려 두기에 딱 맞는 이유다. 형성 메커니즘을 요약하면, carbonyl O가 protonate되어 탄소가 더 친전자성이 되고, 글라이콜 OH 하나가 공격해 hemiacetal이 되며, hemiacetal의 OH가 protonate되어 물로 떨어져 나가 oxocarbenium 이온이 생기고, 마지막으로 같은 분자의 두 번째 OH가 고리를 닫는다.
+acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, 산성 조건에서는 불안정하다. Grignard 시약이나 hydride 같은 nucleophile을 써야 하는 반응에서 carbonyl을 가려 두기에 딱 맞는 이유다. 형성 메커니즘을 요약하면, carbonyl O가 protonate되어 탄소가 더 친전자성이 되고, 글라이콜 OH 하나가 공격해 hemiacetal이 되며, hemiacetal의 OH가 protonate되어 물로 떨어져 나가 oxocarbenium 이온이 생기고, 마지막으로 같은 분자의 두 번째 OH가 고리를 닫는다.
 
-![carbonyl protonation와 ethylene glycol OH의 첨가로 hemiacetal이 되는 단계](../../figures/L12/acetal_hemiacetal.svg)
+![carbonyl protonation과 ethylene glycol OH의 첨가로 hemiacetal이 되는 단계](../../figures/L12/acetal_hemiacetal.svg)
 
 *그림: 보충(슬라이드는 전체 반응식만 보여 준다). 왼쪽: carbonyl 산소(파랑)의 전자쌍이 p-TsOH의 H⁺(빨강)를 잡는다. 가운데: protonate된 carbonyl(oxonium ion)의 탄소(빨강)를 ethylene glycol의 O(파랑)가 공격하고, C=O π 전자는 O⁺로 돌아간다. 오른쪽: 양성자를 잃으면 hemiacetal이 된다(초록이 새 C–O). 모든 단계가 평형이다. (보충 근거: Clayden p.226, p.228)*
 
@@ -320,9 +320,9 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 - **"protecting group은 튼튼할수록 좋다"고 생각하기 쉽지만 사실은** 필요할 때 원하는 조건에서 깔끔하게 벗겨지는 것이 더 중요하다. 그래서 TMS부터 TBDPS까지 튼튼함이 다른 silyl group이 여럿 존재하고, 상황에 맞춰 골라 쓴다.
 - **"가장 튼튼한 silyl group은 언제나 TBDPS"라고 생각하기 쉽지만 사실은** 산에서만 그렇다. 염기에서는 TIPS (100,000)가 가장 튼튼하고 TBDPS는 TBS와 비슷한 20,000 수준이다.
-- **"silyl 에테르는 염기로 벗긴다"고 생각하기 쉽지만 사실은** 슬라이드의 탈보호 방법은 F-(TBAF)와 산/물이다. silyl 에테르는 오히려 Grignard, 유기리튬, acetylide 같은 C/N 염기를 견디라고 쓰는 protecting group다.
+- **"silyl 에테르는 염기로 벗긴다"고 생각하기 쉽지만 사실은** 슬라이드의 탈보호 방법은 F-(TBAF)와 산/물이다. silyl 에테르는 오히려 Grignard, 유기리튬, acetylide 같은 C/N 염기를 견디라고 쓰는 protecting group이다.
 - **"Boc와 Fmoc는 같은 카바메이트니까 같은 조건에서 벗겨진다"고 생각하기 쉽지만 사실은** 정반대다. Boc는 안정한 t-butyl cation을 낼 수 있어 산에 약하고, Fmoc는 1차 CH2라 SN1/SN2가 막혀 산에 강한 대신 9번 C–H가 산성이라 염기에 약하다. 둘은 서로 직교한다.
-- **"Fmoc는 산성 수소를 가지니까 강염기가 있어야 벗겨진다"고 생각하기 쉽지만 사실은** pKa 약 25짜리 C–H라도 amine 염기로 충분하다. deprotonation가 가역이어도 이어지는 E1cB 제거와 decarboxylation가 반응을 끌고 가기 때문이다.
+- **"Fmoc는 산성 수소를 가지니까 강염기가 있어야 벗겨진다"고 생각하기 쉽지만 사실은** pKa 약 25짜리 C–H라도 amine 염기로 충분하다. deprotonation이 가역이어도 이어지는 E1cB 제거와 decarboxylation이 반응을 끌고 가기 때문이다.
 - **"acetal은 산이 있으면 생기니까 산 조건에서 안전하다"고 생각하기 쉽지만 사실은** acetal 형성은 평형이라, 물이 있는 산성 조건에서는 오히려 원래 carbonyl로 되돌아간다. acetal은 염기·nucleophile에 안정하고 산에는 불안정하다.
 - **"산에 불안정한 protecting group끼리도 조심하면 구분해서 벗길 수 있다"고 쉽게 가정하기 쉽지만 사실은** Boc, acetal, silyl 에테르, THP, t-Bu ester는 모두 산에 약해서 산 조건에서는 서로 직교적이지 않다(silyl 에테르는 F-로 따로 벗길 수 있다). 마찬가지로 Cbz와 benzyl 에테르는 둘 다 H2/Pd로 벗겨진다.
 - **"Cbz도 HBr/AcOH 같은 산으로 벗겨지니 Boc와 같은 원리"라고 생각하기 쉽지만 사실은** 경로가 다르다. Boc는 t-butyl cation이 SN1으로 떨어지므로 어떤 산이든 되지만, Cbz는 Br-가 benzyl 탄소를 SN2로 공격해야 하므로 친핵성 짝염기를 가진 산(HBr)이 필요하다. 그래서 TFA로 Boc만 벗기고 Cbz를 남길 수 있다. (보충 근거: Clayden p.557–558)
@@ -359,17 +359,17 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ## 정답 및 해설
 
-1. 직접 반응시키면 더 친전자성인 ketone이 공격받아 CH3C(OH)(Ph)CH2CO2Et가 생성된다(슬라이드상 52%). 원하는 생성물을 얻으려면 (i) HOCH2CH2OH, H+로 ketone을 acetal로 보호하고, (ii) PhMgBr 2당량을 가한다. ester에 첫 번째 첨가 후 EtO-가 이탈해 ketone이 되고, 두 번째 첨가로 3차 alkoxide가 된다. (iii) H+, H2O로 protonation와 acetal 가수분해를 함께 진행하면 CH3COCH2C(OH)Ph2가 된다. (출처: L12 p.3, p.14)
+1. 직접 반응시키면 더 친전자성인 ketone이 공격받아 CH3C(OH)(Ph)CH2CO2Et가 생성된다(슬라이드상 52%). 원하는 생성물을 얻으려면 (i) HOCH2CH2OH, H+로 ketone을 acetal로 보호하고, (ii) PhMgBr 2당량을 가한다. ester에 첫 번째 첨가 후 EtO-가 이탈해 ketone이 되고, 두 번째 첨가로 3차 alkoxide가 된다. (iii) H+, H2O로 protonation과 acetal 가수분해를 함께 진행하면 CH3COCH2C(OH)Ph2가 된다. (출처: L12 p.3, p.14)
 
 2. (i) HOCH2CH2OH, H+ 촉매로 ketone을 acetal로 바꾼다. (ii) Mg, Et2O로 Grignard 시약을 만든다. (iii) HCO2Et에 Grignard 2당량: 첫 번째 첨가 후 EtO- 이탈로 aldehyde, 두 번째 첨가로 2차 alkoxide. (iv) H+, H2O로 alcohol을 만들면서 두 acetal을 동시에 벗기면 (CH3CO(CH2)3)2CHOH. 보호하지 않으면 생성되는 C–MgBr(nucleophile)이 다른 분자의 ketone(electrophile)을 공격하므로 Grignard 시약이 존재할 수 없다("impossible Grignard reagent"). (출처: L12 p.3, p.14)
 
-3. (i) t-BuMe2SiCl, imidazole로 OH를 OTBDMS로 바꾼다. (ii) HC≡CLi로 C–Br에서 SN2 치환하여 CH3CH(OTBDMS)(CH2)3C≡CH. (iii) TBAF(또는 H+/H2O)로 탈보호하여 CH3CH(OH)(CH2)3C≡CH. 이유: lithium acetylide는 강염기라 보호되지 않은 OH(alkyne보다 훨씬 산성)를 deprotonate하며 소모되어 alkylation가 일어나지 않는다. (출처: L12 p.6)
+3. (i) t-BuMe2SiCl, imidazole로 OH를 OTBDMS로 바꾼다. (ii) HC≡CLi로 C–Br에서 SN2 치환하여 CH3CH(OTBDMS)(CH2)3C≡CH. (iii) TBAF(또는 H+/H2O)로 탈보호하여 CH3CH(OH)(CH2)3C≡CH. 이유: lithium acetylide는 강염기라 보호되지 않은 OH(alkyne보다 훨씬 산성)를 deprotonate하며 소모되어 alkylation이 일어나지 않는다. (출처: L12 p.6)
 
 4. 산 안정성은 TES (64) << TBDPS (5,000,000)이므로 TES가 먼저 제거된다. 염기 조건에서는 TBS (20,000) < TIPS (100,000)이므로 TIPS가 더 안정하다. (출처: L12 p.7)
 
 5. (1) carbonyl O가 protonate된다. (2) t-Bu–O 결합이 끊어지며 t-butyl cation이 이탈하고 carbamic acid RNHCOOH가 생긴다. (3) t-butyl cation이 H+를 잃고 isobutene이 된다. (4) carbamic acid이 decarboxylate되어 RNH2 + CO2가 된다. 부산물은 CO2와 isobutene(2-methyl프로펜). (출처: L12 p.10)
 
-6. 산 안정성: 카바메이트 O에 붙은 탄소가 1차 CH2라 안정한 carbocation이 생기지 않아 SN1이 불가능하고, 옆의 부피 큰 fluorenyl기 때문에 SN2도 불가능하다. 즉 Boc와 달리 산에서 C–O가 끊어질 경로가 없다. 염기 불안정성: fluorene 9번 C–H는 pKa 약 25로 비교적 산성인데, deprotonation로 생기는 anion이 14전자 방향족계로 안정하기 때문이다. amine 염기가 이 H를 떼면 anion이 CH2–O 결합을 밀어내며 dibenzofulvene과 카바메이트 anion을 E1cB, 카바메이트 anion은 CO2를 잃고 amine이 된다. (출처: L12 p.11)
+6. 산 안정성: 카바메이트 O에 붙은 탄소가 1차 CH2라 안정한 carbocation이 생기지 않아 SN1이 불가능하고, 옆의 부피 큰 fluorenyl기 때문에 SN2도 불가능하다. 즉 Boc와 달리 산에서 C–O가 끊어질 경로가 없다. 염기 불안정성: fluorene 9번 C–H는 pKa 약 25로 비교적 산성인데, deprotonation으로 생기는 anion이 14전자 방향족계로 안정하기 때문이다. amine 염기가 이 H를 떼면 anion이 CH2–O 결합을 밀어내며 dibenzofulvene과 카바메이트 anion을 E1cB, 카바메이트 anion은 CO2를 잃고 amine이 된다. (출처: L12 p.11)
 
 7. 두 amino acid 모두 NH2(nucleophile)와 CO2H를 가지므로 보호 없이 활성화·커플링하면 Leu–Leu, Gly–Gly, Gly–Leu 등 여러 dipeptide와 올리고머가 섞여 생긴다. N-protecting group을 염기로 벗기려면 Fmoc가 적합하다(amine 염기로 제거, 산에 안정). C-protecting group을 산으로 벗기려면 t-butyl ester가 적합하다(isobutene/H+로 도입, 강산으로 제거). 이 조합은 서로 직교적이어서 각 말단을 골라서 드러낼 수 있다. (출처: L12 p.5, p.9, p.11)
 
@@ -399,4 +399,4 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 [11] 보충: 첫 번째 RMgBr addition 후 EtO-가 떨어져 aldehyde(RCHO)가 생기고, 이 aldehyde가 두 번째 RMgBr과 반응해 R2CH-O-가 된다. 산 처리 단계에서 alcohol이 되면서 acetal도 함께 가수분해된다. (보충 근거: Clayden p.549)
 
-[12] 보충: 가장 약한 TMS 에테르는 methanol만으로도 벗겨지고, 가장 튼튼한 silyl group은 fluorine화 수소산(HF)이 필요할 정도다. 또 F-나 OH-에 의한 탈보호는 겉보기와 달리 단순한 SN2가 아니다. nucleophile가 먼저 Si에 첨가해 다섯 배위의 anion intermediate를 만들고, 이것이 alkoxide를 내보내며 분해된다. Si 주위가 붐비면 이 첨가 단계가 어려워지므로 부피 큰 silyl기일수록 튼튼하다. (보충 근거: Clayden p.550)
+[12] 보충: 가장 약한 TMS 에테르는 methanol만으로도 벗겨지고, 가장 튼튼한 silyl group은 fluorine화 수소산(HF)이 필요할 정도다. 또 F-나 OH-에 의한 탈보호는 겉보기와 달리 단순한 SN2가 아니다. nucleophile이 먼저 Si에 첨가해 다섯 배위의 anion intermediate를 만들고, 이것이 alkoxide를 내보내며 분해된다. Si 주위가 붐비면 이 첨가 단계가 어려워지므로 부피 큰 silyl기일수록 튼튼하다. (보충 근거: Clayden p.550)

@@ -84,7 +84,7 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 - CH2=CH–O–CH2–CH=CH2 --[가열, [3,3]]--> OHC–CH2–CH2–CH=CH2 (펜트-4-enal)
 
-이를 지방족 Claisen rearrangement, 또는 Claisen-Cope 자리옮김이라고 부른다. 생성물의 공통점은 **γ,δ-불포화 carbonyl 화합물**이라는 것이다. carbonyl 탄소에서 α, β, γ, δ로 세면 C=C가 γ와 δ 사이에 놓인다. 합성에서 γ,δ-불포화 carbonyl이 필요하면 Claisen 자리옮김을 떠올리라는 것이 Clayden의 조언이다. (출처: Clayden p.910, p.912)
+이를 지방족 Claisen rearrangement, 또는 Claisen-Cope 자리옮김이라고 부른다. 생성물의 공통점은 **γ,δ-unsaturated carbonyl 화합물**이라는 것이다. carbonyl 탄소에서 α, β, γ, δ로 세면 C=C가 γ와 δ 사이에 놓인다. 합성에서 γ,δ-unsaturated carbonyl이 필요하면 Claisen 자리옮김을 떠올리라는 것이 Clayden의 조언이다. (출처: Clayden p.910, p.912)
 
 ![allyl vinyl ether의 [3,3] Claisen rearrangement: 굽은 화살표 세 개가 6원자 고리를 돌아 pent-4-enal이 된다](../../figures/L16/claisen_aliphatic.svg)
 
@@ -106,10 +106,10 @@ propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높�
 
 | acetal류 출발물 | [3,3] 생성물 |
 |---|---|
-| aldehyde의 acetal | γ,δ-불포화 aldehyde |
-| ketone의 acetal | γ,δ-불포화 ketone |
-| orthoester RC(OMe)3 | γ,δ-불포화 ester |
-| orthoamide(예: DMF dimethyl acetal, "amide acetal") | γ,δ-불포화 amide |
+| aldehyde의 acetal | γ,δ-unsaturated aldehyde |
+| ketone의 acetal | γ,δ-unsaturated ketone |
+| orthoester RC(OMe)3 | γ,δ-unsaturated ester |
+| orthoamide(예: DMF dimethyl acetal, "amide acetal") | γ,δ-unsaturated amide |
 
 (→ acetal 화학은 [L12](L12_Protecting_Groups.md) protecting group 문서의 acetal 부분 참고)
 
@@ -143,7 +143,7 @@ propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높�
 
 ### 4.1 왜 FMO보다 Woodward–Hoffmann인가
 
-cycloaddition는 두 분자가 공간을 사이에 두고 만나므로 한쪽 HOMO와 다른 쪽 LUMO를 겹쳐 보면 됐다([L14](L14_Cycloaddition_Part2.md) 1–2절). 그런데 [3,3] 자리옮김은 한 분자 안에서 일어나고 성분이 **셋**이다. 콘쥬게이션되지 않은 π 결합 두 개, 그리고 그 둘을 잇는 사슬 속 σ 결합 하나다. 이런 경우에는 FMO보다 Woodward–Hoffmann 규칙이 깔끔하다. (출처: Clayden p.912)
+cycloaddition은 두 분자가 공간을 사이에 두고 만나므로 한쪽 HOMO와 다른 쪽 LUMO를 겹쳐 보면 됐다([L14](L14_Cycloaddition_Part2.md) 1–2절). 그런데 [3,3] 자리옮김은 한 분자 안에서 일어나고 성분이 **셋**이다. 콘쥬게이션되지 않은 π 결합 두 개, 그리고 그 둘을 잇는 사슬 속 σ 결합 하나다. 이런 경우에는 FMO보다 Woodward–Hoffmann 규칙이 깔끔하다. (출처: Clayden p.912)
 
 규칙은 L13 8절과 같다. **열적 페리고리 반응에서는 (4q+2)s 성분 수와 (4r)a 성분 수의 합이 홀수여야 한다.** (출처: Clayden p.892, p.912)
 
@@ -151,7 +151,7 @@ cycloaddition는 두 분자가 공간을 사이에 두고 만나므로 한쪽 HO
 
 Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayden p.912–913)
 
-1. 메커니즘을 그린다(allyl 바이닐 ether → γ,δ-불포화 aldehyde).
+1. 메커니즘을 그린다(allyl 바이닐 ether → γ,δ-unsaturated aldehyde).
 2. 성분을 고른다. 메커니즘에 참여하는 결합은 모두 넣고, 나머지는 넣지 않는다. → π2(C=C), σ2(O–C), π2(C=C)
 3. 의자형 TS 모양으로 3차원 그림을 그리고 **성분의 끝에만** 오비탈을 그린다.
 4. 새 결합이 생길 곳끼리 점선으로 잇는다.
@@ -179,7 +179,7 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 
 오비탈 대칭은 [3,3] 자리옮김이 허용된다는 것만 알려 준다. 정반응이 허용이면 역반응도 허용이다. 그런데 Claisen 자리옮김은 늘 carbonyl 화합물 쪽으로 간다. 왜일까?
 
-[L10](L10_Enol_and_Enamine.md)의 keto-enol 평형을 떠올리면 된다. keto형은 **C=O π + C–C σ**, enol형은 **C=C π + C–O σ** 조합을 가지며, 앞의 조합이 더 안정해서 keto형이 우세하다. allyl 바이닐 ether(C=C + C–O)와 γ,δ-불포화 carbonyl(C=O + C–C)의 관계가 정확히 이와 같다. **carbonyl 생성이 반응을 오른쪽으로 민다.** (출처: Clayden p.913)
+[L10](L10_Enol_and_Enamine.md)의 keto-enol 평형을 떠올리면 된다. keto형은 **C=O π + C–C σ**, enol형은 **C=C π + C–O σ** 조합을 가지며, 앞의 조합이 더 안정해서 keto형이 우세하다. allyl 바이닐 ether(C=C + C–O)와 γ,δ-unsaturated carbonyl(C=O + C–C)의 관계가 정확히 이와 같다. **carbonyl 생성이 반응을 오른쪽으로 민다.** (출처: Clayden p.913)
 
 ### 5.2 판정 순서 정리
 
@@ -222,8 +222,8 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 
 1. allyl alcohol을 acetyl chloride와 염기로 acetic acid allyl ester로 만든다.
 2. LDA로 ester의 lithium enolate를 만든다(→ [L7](L07_Enolate_Alkylation.md) LDA). 필요하면 Me3SiCl로 silyl ketene acetal로 바꾼다.
-3. [3,3] 자리옮김으로 γ,δ-불포화 carboxylic acid의 lithium염(또는 silyl ester)이 생긴다.
-4. H⁺/H2O 후처리로 γ,δ-불포화 carboxylic acid을 얻는다.
+3. [3,3] 자리옮김으로 γ,δ-unsaturated carboxylic acid의 lithium염(또는 silyl ester)이 생긴다.
+4. H⁺/H2O 후처리로 γ,δ-unsaturated carboxylic acid을 얻는다.
 
 R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라고 부른다. 치환기가 알맞게 놓이면 단순 Claisen과 같은 이유(의자형 TS, 적도 R)로 *E* 선택성을 보인다. (출처: Clayden p.914)
 
@@ -240,8 +240,8 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 
 비타민 A 합성의 핵심 intermediate인 citral은 [3,3] 자리옮김을 **두 번 연달아** 써서 만든다. (출처: Clayden p.915)
 
-1. 불포화 aldehyde와 불포화 alcohol(프레놀형)이 물을 잃고 enol ether(allyl 바이닐 ether)를 만든다.
-2. **Claisen rearrangement:** 가열하면 carbonyl 생성에 힘입어 γ,δ-불포화 aldehyde가 된다.
+1. unsaturated aldehyde와 unsaturated alcohol(프레놀형)이 물을 잃고 enol ether(allyl 바이닐 ether)를 만든다.
+2. **Claisen rearrangement:** 가열하면 carbonyl 생성에 힘입어 γ,δ-unsaturated aldehyde가 된다.
 3. **Cope rearrangement:** 이 생성물은 다시 1,5-diene 구조를 가지므로 두 번째 [3,3]이 일어난다. 이번에는 C=O와의 콘쥬게이션, 그리고 말단 이중결합 둘이 삼치환 이중결합 둘로 바뀌는 것이 추진력이다.
 
 결과적으로 프레닐기가 분자 한쪽 끝에서 다른 쪽 끝으로 "걸어가며" 두 번 뒤집힌다(2.2절의 inside-out이 두 번 일어난 셈이다).
@@ -306,7 +306,7 @@ S와 Se는 S(II), S(IV), S(VI)처럼 세 산화 상태를 오갈 수 있어서, 
 2. **[2,3] 자리옮김:** allyl 셀레닌산은 allyl sulfoxide처럼(C–Se 결합이 더 약해서 더 쉽게) [2,3] 자리옮김을 해 불안정한 Se(II) ester가 되고, 이것이 곧 분해되어 allyl alcohol이 된다.
 3. 특히 methyl group의 경우 산화가 더 진행되어 aldehyde(또는 ketone)가 되기도 한다.
 
-결과적으로 allyl 위치의 CH3가 CH2OH나 CH=O로 바뀐다. NBS allyl bromination와 결과는 비슷하지만 메커니즘은 전혀 다르다. 촉매량 SeO2와 t-BuOOH(재산화제)를 함께 쓰면 독성 있고 냄새나는 셀레늄 부산물을 줄일 수 있다.
+결과적으로 allyl 위치의 CH3가 CH2OH나 CH=O로 바뀐다. NBS allyl bromination과 결과는 비슷하지만 메커니즘은 전혀 다르다. 촉매량 SeO2와 t-BuOOH(재산화제)를 함께 쓰면 독성 있고 냄새나는 셀레늄 부산물을 줄일 수 있다.
 
 ## 9. [1,5] 시그마트로픽 수소 이동
 
@@ -389,8 +389,8 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 ## 흔한 오해
 
 - "[3,3]은 6전자, [2,3]은 5전자라서 다르다": 대괄호 숫자는 **위치 번호**이고 전자 수가 아니다. [3,3]과 [2,3] 모두 참여 전자는 6개(π2 + σ2 + π2, 또는 ω2 + σ2 + π2)다. 이것은 cycloaddition의 [3+2]가 5전자가 아닌 것과 같은 함정이다([L15](L15_Cycloaddition_Part3.md) 흔한 오해). (출처: Clayden p.910, p.918)
-- "Claisen 자리옮김과 Claisen 축합은 같은 반응": 이름만 같다. Claisen condensation([L9](L09_Claisen_Condensation.md))은 ester enolate의 친핵성 acyl 치환으로 β-keto ester를 만드는 극성 반응이고, Claisen 자리옮김은 allyl 바이닐(아릴) ether의 [3,3] 페리고리 반응으로 γ,δ-불포화 carbonyl을 만든다. (출처: Clayden p.909, p.912)
-- "Cope 자리옮김과 Cope 제거는 같은 것": Cope Cope elimination는 3차 amine oxide가 고리형 TS를 거쳐 alkene과 hydroxylamine으로 쪼개지는 **제거 반응**이다. [3,3] 자리옮김인 Cope 자리옮김과 다르다. (출처: Wade p.908; Clayden p.913)
+- "Claisen 자리옮김과 Claisen 축합은 같은 반응": 이름만 같다. Claisen condensation([L9](L09_Claisen_Condensation.md))은 ester enolate의 친핵성 acyl 치환으로 β-keto ester를 만드는 극성 반응이고, Claisen 자리옮김은 allyl 바이닐(아릴) ether의 [3,3] 페리고리 반응으로 γ,δ-unsaturated carbonyl을 만든다. (출처: Clayden p.909, p.912)
+- "Cope 자리옮김과 Cope 제거는 같은 것": Cope Cope elimination은 3차 amine oxide가 고리형 TS를 거쳐 alkene과 hydroxylamine으로 쪼개지는 **제거 반응**이다. [3,3] 자리옮김인 Cope 자리옮김과 다르다. (출처: Wade p.908; Clayden p.913)
 - "Woodward–Hoffmann으로 허용이면 그쪽으로 반응이 간다": 규칙은 정반응과 역반응을 똑같이 허용한다. 방향은 carbonyl 생성, 고리 긴장, anion 안정성 같은 열역학이 정한다. sulfoxide ⇌ 설펜산 ester의 역반응이 실제로 쓰인다는 것이 그 증거다. (출처: Clayden p.913, p.918)
 - "σ 결합은 초면/대면을 정할 수 없다": 큰 로브(보존)와 작은 로브(반전)로 정한다. 양 끝이 같으면 s, 다르면 a다. 그리고 꼬리표를 다르게 붙여도 셈의 홀짝은 같다. (출처: Clayden p.913)
 - "[1,3]H는 규칙상 금지라서 안 일어난다": 열적 [1,3]H는 **대면으로는 허용**이다. 안 일어나는 이유는 3탄소 사슬이 너무 짧아 기하학적으로 불가능하기 때문이다. [L14](L14_Cycloaddition_Part2.md)의 π2s + π2a [2+2]가 "허용이지만 일어나지 않는" 것과 같은 구조다. (출처: Clayden p.921)
@@ -402,13 +402,13 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 | 반응 | 출발물 → 생성물 | 조건 | 추진력 | 입체화학 | 출처 |
 |---|---|---|---|---|---|
 | 방향족 Claisen | allyl 아릴 ether → *o*-allylphenol | 가열 | 방향족성 tautomerization | allyl group inside-out | Clayden p.909–910 |
-| 지방족 Claisen | allyl 바이닐 ether → γ,δ-불포화 aldehyde | 가열 | C=O 생성 | 의자형 TS, *E* | p.910–911 |
-| acetal 교환 + Claisen | allyl alcohol + MeCH(OMe)2 → γ,δ-불포화 aldehyde | EtCO2H, 가열(MeOH 증류) | 위와 같음 | *E* | p.911 |
-| orthoester·orthoamide 변형 | allyl alcohol + RC(OMe)3 또는 DMF dimethyl acetal → γ,δ-불포화 ester·amide | 산, 가열 | 위와 같음 | – | p.912 |
+| 지방족 Claisen | allyl 바이닐 ether → γ,δ-unsaturated aldehyde | 가열 | C=O 생성 | 의자형 TS, *E* | p.910–911 |
+| acetal 교환 + Claisen | allyl alcohol + MeCH(OMe)2 → γ,δ-unsaturated aldehyde | EtCO2H, 가열(MeOH 증류) | 위와 같음 | *E* | p.911 |
+| orthoester·orthoamide 변형 | allyl alcohol + RC(OMe)3 또는 DMF dimethyl acetal → γ,δ-unsaturated ester·amide | 산, 가열 | 위와 같음 | – | p.912 |
 | Cope(모체) | 헥사-1,5-diene → 자기 자신 | 가열 | 없음(축퇴) | – | p.913 |
 | 옥시-Cope | 헥사-1,5-diene-3-ol → 헥스-5-enal | 가열(느림) | enol → C=O | – | p.913–914 |
 | anion 옥시-Cope | 같은 alcohol → 칼륨 enolate → aldehyde | KH, 가열; H⁺/H2O | enolate 안정화 | 빠름 | p.914 |
-| 아일랜드-Claisen | allyl ester → γ,δ-불포화 carboxylic acid | LDA(필요하면 Me3SiCl); H⁺/H2O | carboxylate 생성 | *E* | p.914 |
+| 아일랜드-Claisen | allyl ester → γ,δ-unsaturated carboxylic acid | LDA(필요하면 Me3SiCl); H⁺/H2O | carboxylate 생성 | *E* | p.914 |
 | 긴장 해소 Cope | 3원 고리 포함 1,5-diene → 고리 확장 생성물 | 33 °C, 36 h (100%) | 고리 긴장 해소 | – | p.915 |
 | 시트랄 합성 | enol ether → (Claisen) → (Cope) → 시트랄 | 가열 | C=O, 콘쥬게이션, 삼치환 alkene | – | p.915 |
 | 피셔 인돌 | phenylhydrazone(enamine형) → diimine → 인돌 | 약산, 가열 | 약한 N–N 절단, 방향족화 | – | p.916 |
@@ -442,11 +442,11 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 
 1. (a) [3,3], 6원자 고리 TS. 옛 O–CH2 결합 양 끝을 1로 두면 새 C–C 결합은 고리의 *ortho* 탄소(3)와 allyl 말단 탄소(3) 사이에 생긴다. (b) [2,3], 5원자 고리 TS. 탄소 anion(2번)과 allyl 말단(3번)이 이어진다. (c) [1,5]H, 6원자 고리 TS. 같은 H가 옛 결합과 새 결합의 한쪽 끝(1)이고, 고리를 긴 쪽으로 돌아 5번 탄소에 붙는다(여러 번 일어나면 2-methyl 이성질체도 생긴다). (d) [1,7]H, 8원자 고리 TS, 열적 대면 이동. (출처: Clayden p.909–910, p.917, p.919, p.921)
 
-2. [3,3] 직후에는 방향족성을 잃은 6-치환 cyclohexa-2,4-diene온이 생기고, tautomerization로 2-(뷰트-3-ene-2-일)phenol *o*-C6H4(OH)–CH(CH3)–CH=CH2가 된다. allyl group이 inside-out으로 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝, 즉 CH3가 달린 탄소가 고리와 결합한다. 그래서 methyl은 고리에 붙은 탄소에 놓이고 말단 바이닐기가 남는다. (출처: Clayden p.909–910의 프레닐 예를 바꿈)
+2. [3,3] 직후에는 방향족성을 잃은 6-치환 cyclohexa-2,4-diene온이 생기고, tautomerization으로 2-(뷰트-3-ene-2-일)phenol *o*-C6H4(OH)–CH(CH3)–CH=CH2가 된다. allyl group이 inside-out으로 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝, 즉 CH3가 달린 탄소가 고리와 결합한다. 그래서 methyl은 고리에 붙은 탄소에 놓이고 말단 바이닐기가 남는다. (출처: Clayden p.909–910의 프레닐 예를 바꿈)
 
 3. (a) acetal 교환으로 CH2=CH–O–CH(Et)–CH=CH2가 생기고, [3,3] 자리옮김으로 (*E*)-헵트-4-enal OHC–CH2–CH2–CH=CH–CH2CH3이 된다. (b) orthoester에서는 MeO–C(=CH2)–O–CH(Et)–CH=CH2(ketene acetal)를 거쳐 methyl (*E*)-헵트-4-엔오에이트 MeO2C–CH2–CH2–CH=CH–Et가 된다. 두 경우 모두 의자형 TS에서 Et가 적도 자리를 택하고 그 배치가 그대로 새 C=C로 넘어가므로 *E*가 우세하다. 추진력은 C=O 생성이다. (출처: Clayden p.910–912)
 
-4. 중성: [3,3] 직후 enol HO–CH=CH–CH2–CH2–CH=CH2가 생기고 tautomerization로 헥스-5-enal이 된다. 느리다. KH 처리: alkoxide가 [3,3]을 해서 칼륨 enolate가 생기고, H⁺/H2O 후처리로 같은 헥스-5-enal이 된다. enolate가 alkoxide보다 안정하고, TS에서부터 O⁻와 새 π 결합의 콘쥬게이션이 자라므로 훨씬 빠르다. (출처: Clayden p.913–914)
+4. 중성: [3,3] 직후 enol HO–CH=CH–CH2–CH2–CH=CH2가 생기고 tautomerization으로 헥스-5-enal이 된다. 느리다. KH 처리: alkoxide가 [3,3]을 해서 칼륨 enolate가 생기고, H⁺/H2O 후처리로 같은 헥스-5-enal이 된다. enolate가 alkoxide보다 안정하고, TS에서부터 O⁻와 새 π 결합의 콘쥬게이션이 자라므로 훨씬 빠르다. (출처: Clayden p.913–914)
 
 5. (a) diene 윗면 로브에 양 끝을 이으면 π4s, H는 1s 오비탈이라 언제나 보존이므로 C–H는 σ2s. (4q+2)s = 1(σ2s), (4r)a = 0 → 합 1(홀수), 허용. (b) [1,3]H는 π2 + σ2s. 초면(π2s)이면 (4q+2)s가 2개라 금지, 대면(π2a)이면 σ2s 하나뿐이라 합 1, 허용. 즉 대면이면 허용이지만 3탄소 사슬이 짧고 단단해 H가 반대 면으로 갈 수 없어 실제로는 불가능하다. (출처: Clayden p.920–921)
 
@@ -454,7 +454,7 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 
 ## 각주
 
-[^1]: Clayden은 이 구분을 35장 전자고리화 반응 절의 상자로 정리한다. cycloaddition와 그 역반응을 한데 묶어 Δσ = ±2로 쓰는 식이다. (출처: Clayden p.922)
+[^1]: Clayden은 이 구분을 35장 전자고리화 반응 절의 상자로 정리한다. cycloaddition과 그 역반응을 한데 묶어 Δσ = ±2로 쓰는 식이다. (출처: Clayden p.922)
 [^2]: [1,3]H 이동은 4원자, [1,7]H 이동은 8원자 고리 TS를 거치는 셈이다. 이 크기 차이가 10절의 "초면이냐 대면이냐, 그리고 기하학적으로 가능하냐"를 가른다. (출처: Clayden p.917, p.921)
 [^3]: Clayden은 이 acetal 교환에서 첫 methanol은 S<sub>N</sub>1, 두 번째는 E1로 떨어진다고 강조하고 "acetal에서는 절대 S<sub>N</sub>2 메커니즘을 쓰지 말라"고 덧붙인다. protonate된 OR이나 OH가 떨어지는 단계가 acetal 화학의 중심이다. (출처: Clayden p.911)
 [^4]: Clayden은 [3,3] 자리옮김을 FMO로 다루는 방법이 궁금하면 Ian Fleming의 *Frontier Orbitals and Organic Chemical Reactions*(2판, 2009)를 보라고 하고, [1,5] 자리옮김에서는 FMO 접근도 함께 쓴다. (출처: Clayden p.913)

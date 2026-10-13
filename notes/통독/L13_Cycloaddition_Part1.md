@@ -14,7 +14,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
 
 ## 개요
 
-지금까지 다룬 반응은 대부분 nucleophile가 electrophile를 공격하는 극성 반응이었다. enolate가 붙고, leaving group이 떨어지고, 이온성 intermediate가 생겼다가 사라지는 식이다(→ 앞선 enolate·Michael addition 강의 참고). 이 강의에서는 전혀 다른 방식으로 결합이 생기는 반응군인 고리형 전자 이동 반응(pericyclic reaction)을 처음 다룬다. 그 대표가 Diels–Alder(DA) 반응이다. diene과 alkene을 한 단계로 이어 붙여 6원자 고리를 만들고, 두 탄소–탄소 결합과 최대 네 개의 입체중심을 한 번에 정해 준다. 그래서 합성에서 가장 강력한 고리 형성 반응 가운데 하나로 꼽힌다. 강의는 "무엇이 반응하나 → 어떻게 반응하나 → 무엇이 빠르게 하나 → 입체화학은 어떻게 정해지나 → 왜 FMO, Woodward–Hoffmann" 순서로 진행된다.
+지금까지 다룬 반응은 대부분 nucleophile이 electrophile을 공격하는 극성 반응이었다. enolate가 붙고, leaving group이 떨어지고, 이온성 intermediate가 생겼다가 사라지는 식이다(→ 앞선 enolate·Michael addition 강의 참고). 이 강의에서는 전혀 다른 방식으로 결합이 생기는 반응군인 고리형 전자 이동 반응(pericyclic reaction)을 처음 다룬다. 그 대표가 Diels–Alder(DA) 반응이다. diene과 alkene을 한 단계로 이어 붙여 6원자 고리를 만들고, 두 탄소–탄소 결합과 최대 네 개의 입체중심을 한 번에 정해 준다. 그래서 합성에서 가장 강력한 고리 형성 반응 가운데 하나로 꼽힌다. 강의는 "무엇이 반응하나 → 어떻게 반응하나 → 무엇이 빠르게 하나 → 입체화학은 어떻게 정해지나 → 왜 FMO, Woodward–Hoffmann" 순서로 진행된다.
 
 ## 1. 반응은 어떻게 분류되나: 극성, radical, 그리고 pericyclic
 
@@ -22,11 +22,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
 
 결합이 끊어지고 생기는 방식은 몇 가지나 될까? 슬라이드는 세 가지로 나눈다.
 
-첫째는 극성 polar mechanism이다. 결합이 비대칭으로 끊어지거나(이종 분해 heterolysis) 비대칭으로 생긴다. 한 분자의 전자 풍부 nucleophile가 다른 분자의 전자 부족 electrophile에 전자쌍을 주고, 그 과정에서 이온성 intermediate가 생긴다. 둘째는 radical radical mechanism이다. 결합이 대칭으로 끊어지거나(동종 분해 homolysis) 생기며, 홀전자를 가진 radical intermediate가 반응을 이끈다. 셋째가 이번 강의의 주인공인 pericyclic 메커니즘이다. 전자가 닫힌 고리를 따라 한 바퀴 돌면서 움직이고, intermediate가 전혀 없다. (출처: L13 p.3)
+첫째는 극성 polar mechanism이다. 결합이 비대칭으로 끊어지거나(이종 분해 heterolysis) 비대칭으로 생긴다. 한 분자의 전자 풍부 nucleophile이 다른 분자의 전자 부족 electrophile에 전자쌍을 주고, 그 과정에서 이온성 intermediate가 생긴다. 둘째는 radical radical mechanism이다. 결합이 대칭으로 끊어지거나(동종 분해 homolysis) 생기며, 홀전자를 가진 radical intermediate가 반응을 이끈다. 셋째가 이번 강의의 주인공인 pericyclic 메커니즘이다. 전자가 닫힌 고리를 따라 한 바퀴 돌면서 움직이고, intermediate가 전혀 없다. (출처: L13 p.3)
 
 그렇다면 pericyclic 반응은 구체적으로 어떤 모습일까? 네 가지 특징이 있다. TS가 고리 모양이고, 그 고리 안에 radical이나 이온 intermediate가 없으며, 결합 형성과 절단이 한꺼번에(협동적, concerted) 일어난다. 그 결과 반응이 stereospecific이거나 stereoselective이다(또는 둘 다). 자연계에도 이런 반응이 있다. chorismate mutase라는 효소는 chorismate의 Claisen rearrangement을 촉매해 prephenate를 만든다. 효소 활성 자리의 Arg, Glu 같은 잔기가 수소 결합으로 고리형 TS를 붙잡아 안정화한다.[1] (출처: L13 p.4)
 
-Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서 동시에 이어져 고리가 되는 cycloaddition, 한 사슬의 양 끝이 이어지는 전자고리화 반응(electrocyclic reaction), σ 결합 하나가 자리를 옮기는 시그마트로픽 sigmatropic rearrangement이다. cycloaddition에는 다시 Diels–Alder reaction, 1,3-쌍극자 cycloaddition(1,3-dipolar cycloaddition), 그 밖의 cycloaddition가 속한다. 이번 강의는 이 가운데 Diels–Alder만 다룬다. (출처: L13 p.5)
+Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서 동시에 이어져 고리가 되는 cycloaddition, 한 사슬의 양 끝이 이어지는 전자고리화 반응(electrocyclic reaction), σ 결합 하나가 자리를 옮기는 시그마트로픽 sigmatropic rearrangement이다. cycloaddition에는 다시 Diels–Alder reaction, 1,3-쌍극자 cycloaddition(1,3-dipolar cycloaddition), 그 밖의 cycloaddition이 속한다. 이번 강의는 이 가운데 Diels–Alder만 다룬다. (출처: L13 p.5)
 
 ## 2. 극성 반응으로도 6원자 고리는 만들 수 있지 않나?
 
@@ -38,7 +38,7 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 두 번째 예는 I-(CH2)4-CH=CH-CO2Me와 CH3NO2를 Cs2CO3/DMF, 20 °C에서 반응시키는 것이다. 메커니즘을 따라가 보면 다음과 같다.
 1. Cs2CO3가 CH3NO2의 α-H를 떼어 nitronate anion(nucleophile)을 만든다.
-2. nitronate가 α,β-불포화 ester의 β-탄소(electrophile)에 Michael 첨가해 I-(CH2)4-CH(CH2NO2)-CH2CO2Me가 된다.
+2. nitronate가 α,β-unsaturated ester의 β-탄소(electrophile)에 Michael 첨가해 I-(CH2)4-CH(CH2NO2)-CH2CO2Me가 된다.
 3. CH2NO2의 α-H가 다시 deprotonate된다. 이 탄소 anion이 같은 분자의 C–I 탄소를 SN2로 공격해 고리를 닫는다.
 
 결과물은 2-(2-nitrocyclohexyl)acetic acid methyl ester다(65%).
@@ -59,7 +59,7 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 용어도 정리해 두자. diene은 C=C 두 개가 단일 결합 하나로 이어진 짝지어진 diene이어야 한다. diene과 반응하는 alkene(때로는 alkyne)은 diene친화체(dienophile)라고 부르고, 생성물은 cyclohexene이다. 예를 들어 2,3-dimethyl-1,3-butadiene과 acrolein(CH2=CH-CHO)은 3,4-dimethylcyclohex-3-ene-1-carbaldehyde를 준다. diene이 고리형이면 어떻게 될까? cyclopentadiene + nitroethylene(CH2=CH-NO2)처럼 다리 걸친 이중 고리(bridged bicyclic)인 5-nitrobicyclo[2.2.1]hept-2-ene(5-nitronorbornene)이 생긴다. (출처: L13 p.8)
 
-이 반응은 실험실만의 것이 아니다. 자연계에는 DA 반응을 촉매하는 Diels–Alderase도 있다. 슬라이드의 예에서는 긴 사슬 끝의 diene과 tetronate 고리의 exo-methylene dienophile이 효소 주머니 안에서 분자 내 [4+2] cycloaddition를 해 spiro 구조의 cyclohexene을 만든다(J. Am. Chem. Soc. 2016, 138, 6095). (출처: L13 p.9)
+이 반응은 실험실만의 것이 아니다. 자연계에는 DA 반응을 촉매하는 Diels–Alderase도 있다. 슬라이드의 예에서는 긴 사슬 끝의 diene과 tetronate 고리의 exo-methylene dienophile이 효소 주머니 안에서 분자 내 [4+2] cycloaddition을 해 spiro 구조의 cyclohexene을 만든다(J. Am. Chem. Soc. 2016, 138, 6095). (출처: L13 p.9)
 
 ## 4. 어떻게 반응하나: 메커니즘과 transition state
 
@@ -91,7 +91,7 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 - butadiene + acrolein --[150 °C, 0.5 h]--> cyclohex-3-ene-1-carbaldehyde
 - butadiene + CH2=C(COOMe)2 --[25 °C, 24 h]--> dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%)
 
-EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 보충: 짝지음 기가 없는 단순 alkene이 얼마나 나쁜 dienophile인지는 cyclopentadiene에서 잘 드러난다. 반응성이 아주 큰 이 diene에 단순 alkene을 섞어 가열해도 alkene과는 거의 반응하지 않고, cyclopentadiene끼리 먼저 이량화해 버린다(5-4절). (보충 근거: Clayden p.880) 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 불포화 sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
+EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 보충: 짝지음 기가 없는 단순 alkene이 얼마나 나쁜 dienophile인지는 cyclopentadiene에서 잘 드러난다. 반응성이 아주 큰 이 diene에 단순 alkene을 섞어 가열해도 alkene과는 거의 반응하지 않고, cyclopentadiene끼리 먼저 이량화해 버린다(5-4절). (보충 근거: Clayden p.880) 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 unsaturated sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
 
 ### 5-2. diene: 전자가 풍부하고, s-cis여야 한다
 
@@ -327,7 +327,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 [4] 보충: 엄밀히 세면 π 결합 3개가 끊어지고, π 결합 1개(C2=C3)와 σ 결합 2개가 새로 생긴다. 순수하게 보면 π 결합 2개가 σ 결합 2개로 바뀐 셈이다. (보충 근거: Clayden p.878) (출처: L13 p.10)
 
-[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니어서, dienophile을 활성화하는 효과가 상대적으로 작다. 그래도 Clayden은 dienophile에 "최소한 phenyl기나 염소 원자 정도의 추가 짝지음"이 있어야 cycloaddition가 일어난다고 하며, regioselectivity 요약표에서도 할로젠·alkene일·아릴을 CHO·COR·CO2R·CN·NO2와 함께 Z 칸("전자 끄는 기 또는 짝지음 기")에 넣는다(아릴은 X 칸에도 함께 적혀 있다). (보충 근거: Clayden p.880, 890) Ph는 짝지음으로, Cl은 주로 유발 효과로 작용한다는 설명은 이 교재에서 직접 확인되지 않는다. (출처: L13 p.14)
+[5] 보충: Cl과 Ph는 NO2나 C=O만큼 강한 EWG가 아니어서, dienophile을 활성화하는 효과가 상대적으로 작다. 그래도 Clayden은 dienophile에 "최소한 phenyl기나 염소 원자 정도의 추가 짝지음"이 있어야 cycloaddition이 일어난다고 하며, regioselectivity 요약표에서도 할로젠·alkene일·아릴을 CHO·COR·CO2R·CN·NO2와 함께 Z 칸("전자 끄는 기 또는 짝지음 기")에 넣는다(아릴은 X 칸에도 함께 적혀 있다). (보충 근거: Clayden p.880, 890) Ph는 짝지음으로, Cl은 주로 유발 효과로 작용한다는 설명은 이 교재에서 직접 확인되지 않는다. (출처: L13 p.14)
 
 [6] 보충: 이 부가물은 chlorendic anhydride로 불린다. (출처: L13 p.18)
 

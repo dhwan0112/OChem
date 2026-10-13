@@ -37,7 +37,7 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 succinimide의 N에 
 - 예: 1-methylcyclohexene --[NBS(cat. HBr), H₂O]--> *trans*-2-bromo-1-methylcyclohexanol(±) (→ [L2 연습 문제](../../practice/L02_Exercises.md) 3번)
 - 예: cyclohexene --[1. NBS, HBr; 2. HC≡CCH₂OH]--> *trans*-1-bromo-2-(propargyloxy)cyclohexane(±) (출처: L2 p.12)
 
-보충: allyl 위치 bromination는 bromonium 이온이 아니라 radical 연쇄 반응(Wohl–Ziegler reaction)으로 진행한다. 슬라이드에는 반응식만 있고 메커니즘은 나오지 않는다(표준 교재 내용). (보충 근거: Clayden p.573, Wade p.228)
+보충: allyl 위치 bromination은 bromonium 이온이 아니라 radical 연쇄 반응(Wohl–Ziegler reaction)으로 진행한다. 슬라이드에는 반응식만 있고 메커니즘은 나오지 않는다(표준 교재 내용). (보충 근거: Clayden p.573, Wade p.228)
 
 ## 흔한 오해
 

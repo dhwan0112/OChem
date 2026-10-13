@@ -13,7 +13,7 @@
 
 ## 개요
 
-Claisen condensation은 ester의 enolate가 다른 ester(또는 carbonyl 화합물)의 carbonyl을 공격해 새 C–C 결합을 만드는 반응이다. 결과물은 β-ketoester(β-keto ester)나 β-diketone(β-diketone) 같은 1,3-dicarbonyl 화합물인데, 이들은 이후 alkylation·decarboxylation 등으로 온갖 골격을 만드는 출발물이 되므로 합성에서 매우 쓸모가 많다. 앞서 배운 enolate의 α-alkylation와 aldol 반응에 이어, 이번에는 "enolate + ester"라는 세 번째 조합을 다룬다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation·aldol reaction 문서 참고). 이 강의의 핵심은 단 하나로 요약된다. Claisen 축합은 C–C 결합이 생겨서 진행되는 것이 아니라, 생성물이 염기에 의해 deprotonate되기 때문에 진행된다는 것이다. 이 원리 하나로 염기 1당량이 필요한 이유, 교차 Claisen과 Dieckmann 축합이 잘 되는 이유가 모두 설명된다.[1]
+Claisen condensation은 ester의 enolate가 다른 ester(또는 carbonyl 화합물)의 carbonyl을 공격해 새 C–C 결합을 만드는 반응이다. 결과물은 β-ketoester(β-keto ester)나 β-diketone(β-diketone) 같은 1,3-dicarbonyl 화합물인데, 이들은 이후 alkylation·decarboxylation 등으로 온갖 골격을 만드는 출발물이 되므로 합성에서 매우 쓸모가 많다. 앞서 배운 enolate의 α-alkylation과 aldol 반응에 이어, 이번에는 "enolate + ester"라는 세 번째 조합을 다룬다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation·aldol reaction 문서 참고). 이 강의의 핵심은 단 하나로 요약된다. Claisen 축합은 C–C 결합이 생겨서 진행되는 것이 아니라, 생성물이 염기에 의해 deprotonate되기 때문에 진행된다는 것이다. 이 원리 하나로 염기 1당량이 필요한 이유, 교차 Claisen과 Dieckmann 축합이 잘 되는 이유가 모두 설명된다.[1]
 
 (출처: L9 p.1, p.2, p.15)
 
@@ -23,9 +23,9 @@ Claisen condensation은 ester의 enolate가 다른 ester(또는 carbonyl 화합�
 
 > 개념 문서: [Claisen condensation](../../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../../wiki/반응/알돌%20반응.md), [Michael reaction](../../wiki/반응/마이클%20반응.md)
 
-enolate는 탄소 nucleophile다. 그렇다면 이 nucleophile를 무엇과 만나게 하느냐에 따라 어떤 반응이 생길까? 슬라이드는 네 가지 상대를 정리한다.
+enolate는 탄소 nucleophile다. 그렇다면 이 nucleophile을 무엇과 만나게 하느냐에 따라 어떤 반응이 생길까? 슬라이드는 네 가지 상대를 정리한다.
 
-첫째, alkyl halide(Br–CH2R')을 만나면 S_N2로 α-alkylation가 일어나 R–CO–CH2–CH2R'이 된다. 둘째, aldehyde나 ketone(R'COR'')을 만나면 aldol 반응으로 β-hydroxy carbonyl 화합물이 되고, 이것이 탈수되면 α,β-불포화 carbonyl 화합물이 된다. 셋째가 이번 강의의 주인공으로, ester(R'–CO–OEt)를 만나면 1,3-dicarbonyl 화합물 R–CO–CH2–CO–R'이 생긴다. 넷째, α,β-불포화 carbonyl 화합물을 만나면 conjugate addition(Michael addition)로 1,5-dicarbonyl 화합물이 생긴다(→ [L11](L11_Conjugate_Addition.md) 슬라이드에 L5로 표기된 conjugate addition 문서 참고).[2]
+첫째, alkyl halide(Br–CH2R')을 만나면 S_N2로 α-alkylation이 일어나 R–CO–CH2–CH2R'이 된다. 둘째, aldehyde나 ketone(R'COR'')을 만나면 aldol 반응으로 β-hydroxy carbonyl 화합물이 되고, 이것이 탈수되면 α,β-unsaturated carbonyl 화합물이 된다. 셋째가 이번 강의의 주인공으로, ester(R'–CO–OEt)를 만나면 1,3-dicarbonyl 화합물 R–CO–CH2–CO–R'이 생긴다. 넷째, α,β-unsaturated carbonyl 화합물을 만나면 conjugate addition(Michael addition)로 1,5-dicarbonyl 화합물이 생긴다(→ [L11](L11_Conjugate_Addition.md) 슬라이드에 L5로 표기된 conjugate addition 문서 참고).[2]
 
 주목할 점은 슬라이드가 aldol·Claisen·Michael에는 모두 평형 화살표(⇌)를 썼다는 것이다. 즉 Claisen의 C–C 결합 형성 자체는 가역이다. 그런데 가역이라면 반응은 대체 어떻게 끝까지 가는가? 이 질문이 이 강의 전체를 관통한다. 참고로 p.2의 빈 박스 정답은 p.14에서 R–CO–CH2–CO–R'로 공개되며, ketone enolate(R–C(O⁻)=CH2)가 공격했으므로 이 경우는 β-diketone이다.
 
@@ -45,7 +45,7 @@ Claisen은 여기서 Nu⁻ = enolate, X = OEt인 경우에 불과하다. aldehyd
 
 *그림: 슬라이드 p.3의 일반식이다. 파란색은 nucleophile Nu⁻, 빨간색은 electrophile인 carbonyl(C=O)이다. 왼쪽 화살표 둘은 (1) Nu⁻의 비공유 전자쌍이 trigonal planar carbonyl 탄소를 공격하고 (2) C=O의 π 전자가 산소로 올라가는 첨가 단계다. 가운데 tetrahedral intermediate의 화살표 둘은 (3) O⁻의 전자쌍이 내려와 C=O를 되살리고 (4) C–X 결합 전자가 X로 가서 X⁻가 떨어지는 제거 단계다. 초록색이 새로 생긴 Nu–C 결합이며, 생성물은 다시 trigonal planar다.*
 
-보충: enolate는 O로도 반응할 수 있는데, acylation에서는 이것이 실제 문제가 된다. 반응성 큰 enolate와 반응성 큰 acylation제(예: lithium enolate + acid chloride)를 만나게 하면 O-acylation가 일어나 enol ester가 생기기 쉽다. 그래서 C-acylation를 원하면 반응성 큰 enolate에는 덜 반응적인 ester를 Claisen, acid chloride처럼 반응성 큰 acylation제에는 enamine·silyl enol ether처럼 덜 반응적인 enol 등가체를 짝짓는다. aldol에서 O-공격이 문제가 되지 않는 이유도 같은 틀로 설명된다. aldehyde가 enolate O에 첨가해도 그 intermediate에서 떨어질 수 있는 것은 enolate 자신뿐이라 그냥 출발물로 되돌아간다. (보충 근거: Clayden p.641, p.642)
+보충: enolate는 O로도 반응할 수 있는데, acylation에서는 이것이 실제 문제가 된다. 반응성 큰 enolate와 반응성 큰 acylation제(예: lithium enolate + acid chloride)를 만나게 하면 O-acylation이 일어나 enol ester가 생기기 쉽다. 그래서 C-acylation을 원하면 반응성 큰 enolate에는 덜 반응적인 ester를 Claisen, acid chloride처럼 반응성 큰 acylation제에는 enamine·silyl enol ether처럼 덜 반응적인 enol 등가체를 짝짓는다. aldol에서 O-공격이 문제가 되지 않는 이유도 같은 틀로 설명된다. aldehyde가 enolate O에 첨가해도 그 intermediate에서 떨어질 수 있는 것은 enolate 자신뿐이라 그냥 출발물로 되돌아간다. (보충 근거: Clayden p.641, p.642)
 
 (출처: L9 p.3)
 
@@ -70,7 +70,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 이제 강의의 핵심 질문으로 돌아가자. 메커니즘을 단계별로 보면 답이 보인다.
 
 1. enolate 형성. EtO⁻가 ester α-H를 떼어 낸다. 그런데 ester α-H는 EtOH보다 훨씬 약한 산이라[3] 이 평형은 왼쪽에 치우쳐 있고, enolate는 아주 조금만 생긴다.
-2. 친핵성 첨가. 그 소량의 enolate α-탄소(nucleophile)가 다른 ester의 carbonyl electrophile를 공격해 새 C–C 결합과 사면체 alkoxide intermediate를 만든다. 가역이다.
+2. 친핵성 첨가. 그 소량의 enolate α-탄소(nucleophile)가 다른 ester의 carbonyl electrophile을 공격해 새 C–C 결합과 사면체 alkoxide intermediate를 만든다. 가역이다.
 3. 제거. alkoxide가 C=O를 되살리며 EtO⁻를 내보내 중성 β-ketoester가 된다. 이것도 가역이다.
 4. 생성물의 deprotonation. 여기서 판이 뒤집힌다. 새로 생긴 β-ketoester는 두 carbonyl 사이에 낀 C–H를 갖는데, 이 수소는 슬라이드 표기로 pKa ~9(더 강한 산)다.[4] 반면 EtOH는 pKa 16(더 약한 산)이다. 그러니 EtO⁻(더 강한 염기)는 이 수소를 거의 완전히 떼어 내 비편재화된 β-ketoester anion(더 약한 염기)을 만든다. 이 산-염기 평형이 오른쪽으로 크게 치우쳐 있기 때문에, 앞의 불리한 평형 1~3이 모두 생성물 쪽으로 끌려간다.
 5. 후처리. H3O⁺를 넣으면 anion이 빠르게 protonate되어 keto형 β-ketoester가 되고, 이는 enol형과 호변이성 평형(keto ⇌ enol)을 이룬다.
@@ -95,7 +95,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 슬라이드는 두 반응을 나란히 놓는다. Claisen 자기 축합 R–CH2–CO2Et --[EtO⁻, EtOH]--> R–CH2–CO–CH(R)–CO2Et, 그리고 ethyl acetoacetate --[EtO⁻, EtOH]--> enolate CH3–C(O⁻)=CH–CO2Et --[RBr]--> CH3–CO–CH(R)–CO2Et. 왜 이 둘을 비교할까?
 
-두 반응 모두 α-치환 β-ketoester를 만들고, 무엇보다 같은 종류의 anion, 즉 두 carbonyl 사이의 비편재화된 β-ketoester enolate가 EtO⁻/EtOH 조건에서 쉽게 생긴다는 공통점이 있다. 다만 역할이 정반대다. Claisen에서 이 anion은 반응이 흘러 들어가 멈추는 "종착점(원동력)"이고, alkylation에서는 RBr을 공격하는 "출발점(nucleophile)"이다. 또 Claisen은 acyl 부분(R–CH2–CO–)이 출발 ester에서 정해지는 반면, alkylation는 acetyl group을 고정한 채 α-위치에 원하는 R을 골라 넣을 수 있다. 그리고 acetoacetate는 산성이 충분히 커서 EtO⁻만으로도 완전히 enolate가 되므로, 단순 ketone alkylation처럼 LDA 같은 강염기가 필요 없다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고).
+두 반응 모두 α-치환 β-ketoester를 만들고, 무엇보다 같은 종류의 anion, 즉 두 carbonyl 사이의 비편재화된 β-ketoester enolate가 EtO⁻/EtOH 조건에서 쉽게 생긴다는 공통점이 있다. 다만 역할이 정반대다. Claisen에서 이 anion은 반응이 흘러 들어가 멈추는 "종착점(원동력)"이고, alkylation에서는 RBr을 공격하는 "출발점(nucleophile)"이다. 또 Claisen은 acyl 부분(R–CH2–CO–)이 출발 ester에서 정해지는 반면, alkylation은 acetyl group을 고정한 채 α-위치에 원하는 R을 골라 넣을 수 있다. 그리고 acetoacetate는 산성이 충분히 커서 EtO⁻만으로도 완전히 enolate가 되므로, 단순 ketone alkylation처럼 LDA 같은 강염기가 필요 없다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고).
 
 (출처: L9 p.7)
 
@@ -149,7 +149,7 @@ oxalate를 쓰면 더 반응성이 좋다. ethyl heptanoate CH3(CH2)5–CO2Et와
 
 결국 ketone끼리의 aldol은 되돌아갈 수 있지만 Claisen 생성물은 deprotonate되어 "갇히므로", 계 전체가 Claisen 생성물 쪽으로 모인다.
 
-보충: 같은 원리가 비대칭 ketone의 regioselectivity도 정한다. 비대칭 ketone을 diethyl carbonate와 NaH로 처리하면 대개 덜 치환된 쪽(예: methyl 쪽)이 acylate된 생성물 하나만 얻어진다. 더 치환된 쪽에서 반응한 생성물은 두 carbonyl 사이 탄소에 H가 없으면 안정한 enolate로 갇히지 못해 평형 조건에서 되돌아가고, 둘 다 deprotonation될 수 있더라도 덜 치환된 dicarbonyl enolate 쪽이 사치환 C=C를 피할 수 있어 유리하다. 결과는 L7의 LDA kinetic enolate와 같은 쪽이지만, 이유는 "마지막 deprotonation가 비가역 단계"라는 thermodynamic 이유라는 점이 다르다. (보충 근거: Clayden p.645, p.646)
+보충: 같은 원리가 비대칭 ketone의 regioselectivity도 정한다. 비대칭 ketone을 diethyl carbonate와 NaH로 처리하면 대개 덜 치환된 쪽(예: methyl 쪽)이 acylate된 생성물 하나만 얻어진다. 더 치환된 쪽에서 반응한 생성물은 두 carbonyl 사이 탄소에 H가 없으면 안정한 enolate로 갇히지 못해 평형 조건에서 되돌아가고, 둘 다 deprotonation될 수 있더라도 덜 치환된 dicarbonyl enolate 쪽이 사치환 C=C를 피할 수 있어 유리하다. 결과는 L7의 LDA kinetic enolate와 같은 쪽이지만, 이유는 "마지막 deprotonation이 비가역 단계"라는 thermodynamic 이유라는 점이 다르다. (보충 근거: Clayden p.645, p.646)
 
 (출처: L9 p.10)
 
@@ -195,7 +195,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 > 개념 문서: [Claisen condensation](../../wiki/반응/클라이젠%20축합.md)
 
-결국 Claisen 축합이란 강염기 존재하에 ester 한 분자와 carbonyl 화합물 한 분자 사이에서 C–C 결합이 생기는 반응이고, 생성물은 β-ketoester 또는 β-diketone이다. 유형은 세 가지다. ester의 자기 축합, "활성화된"(enolization할 수 없고 반응성이 큰) ester와 다른 carbonyl 화합물의 교차 축합, 그리고 분자 내 반응인 Dieckmann 축합이다. 세 경우 모두 반응을 끝까지 밀어붙이는 힘은 생성물의 deprotonation라는 한 가지 원리에서 나온다.
+결국 Claisen 축합이란 강염기 존재하에 ester 한 분자와 carbonyl 화합물 한 분자 사이에서 C–C 결합이 생기는 반응이고, 생성물은 β-ketoester 또는 β-diketone이다. 유형은 세 가지다. ester의 자기 축합, "활성화된"(enolization할 수 없고 반응성이 큰) ester와 다른 carbonyl 화합물의 교차 축합, 그리고 분자 내 반응인 Dieckmann 축합이다. 세 경우 모두 반응을 끝까지 밀어붙이는 힘은 생성물의 deprotonation이라는 한 가지 원리에서 나온다.
 
 (출처: L9 p.14, p.15)
 
@@ -216,7 +216,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | 자기 축합: ethyl acetate | 2 CH3CO2Et, NaOEt; HCl | ethyl acetoacetate CH3COCH2CO2Et (76%) | 해당 없음(대칭) | 해당 없음 | EtOH 증류 제거; 1당량 염기 (p.5) |
-| 자기 축합: ethyl pentanoate | NaOEt; CH3CO2H | ethyl 3-옥소-2-propylheptanoate (77%) | 한 분자의 C=O와 다른 분자의 α-C 연결 | C2 입체중심, 라세미(보충: enolization로 쉽게 에피머화, 보충 근거: Clayden p.459) | (p.5) |
+| 자기 축합: ethyl pentanoate | NaOEt; CH3CO2H | ethyl 3-옥소-2-propylheptanoate (77%) | 한 분자의 C=O와 다른 분자의 α-C 연결 | C2 입체중심, 라세미(보충: enolization으로 쉽게 에피머화, 보충 근거: Clayden p.459) | (p.5) |
 | 교차: ester + carbonate | PhCH2CO2Et + (EtO)2CO, NaOEt, EtOH | PhCH(CO2Et)2 (86%) | carbonate는 electrophile로만 작용 | 해당 없음 | malonic ester 합성 (p.9) |
 | 교차: ester + oxalate | CH3(CH2)5CO2Et + (CO2Et)2, EtONa, EtOH | EtO2C–CO–CH(CO2Et)–C5H11 (83%) | oxalate가 electrophile | α-C 입체중심 라세미 | oxalate가 가장 반응성 큼 (p.9) |
 | 교차: ketone + oxalate | cyclohexanone, NaOEt; (CO2Et)2; H3O⁺ | 2-(EtO2C–CO–)cyclohexanone (67%) | ketone이 enolate(더 산성) | 라세미 | (p.10) |
@@ -237,7 +237,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 ## 정답 및 해설
 
-1. 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl electrophile를 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
+1. 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl electrophile을 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
 
 2. ethyl acetoacetate CH3COCH2CO2Et (76%)다. 후처리 전에는 소듐 acetoacetate [CH3CO–CH–CO2Et]⁻ Na⁺와 EtOH로 존재하며, EtOH는 증류로 제거된다. HCl 처리 후 중성 β-ketoester가 얻어진다. (p.5)
 
@@ -249,7 +249,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-one)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 α-탄소는 H가 없는 4차 탄소이므로 CH3만 enolization되고, oxalate는 enolization되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
 
-7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile와 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation가 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로[10] 실용적으로는 (i)이 낫다.
+7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile과 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation이 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로[10] 실용적으로는 (i)이 낫다.
 
 8. 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-oxocyclohexanecarboxylate(cyclohexanone C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)
 
@@ -263,7 +263,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 [4] p.6의 pKa ~9는 Solomons 그림의 값이다. Clayden 등에서는 ethyl acetoacetate의 pKa를 약 11로 제시한다. 어느 쪽이든 EtOH(16)보다 충분히 강한 산이라는 결론은 같다. (출처: L9 p.6)
 
-[5] 보충: 예를 들어 ethyl 2-methylpropanoate((CH3)2CHCO2Et)처럼 α-H가 1개뿐인 ester는 축합 생성물의 두 carbonyl 사이 탄소가 4차가 되어 deprotonation될 H가 없다. 이 경우 NaOEt 조건에서는 retro-Claisen이 유리하여 축합이 잘 되지 않는다. 반면 triphenylmethylsodium(Ph3C⁻Na⁺)처럼 ester를 완전히 enolate로 바꾸는 강염기를 쓰면 이런 ester도 축합된다. 교과서는 이 대비를 "생성물 deprotonation가 원동력"이라는 주장의 증거로 든다. (보충 근거: Clayden p.643)
+[5] 보충: 예를 들어 ethyl 2-methylpropanoate((CH3)2CHCO2Et)처럼 α-H가 1개뿐인 ester는 축합 생성물의 두 carbonyl 사이 탄소가 4차가 되어 deprotonation될 H가 없다. 이 경우 NaOEt 조건에서는 retro-Claisen이 유리하여 축합이 잘 되지 않는다. 반면 triphenylmethylsodium(Ph3C⁻Na⁺)처럼 ester를 완전히 enolate로 바꾸는 강염기를 쓰면 이런 ester도 축합된다. 교과서는 이 대비를 "생성물 deprotonation이 원동력"이라는 주장의 증거로 든다. (보충 근거: Clayden p.643)
 
 [6] 보충: NaOMe처럼 다른 alkoxide를 쓰면 ester transesterification이 일어나 methyl·ethyl ester가 섞이고, NaOH를 쓰면 ester가 가수분해(비누화)되어 carboxylic acid염이 되어 버린다. (보충 근거: Clayden p.596, p.640)
 

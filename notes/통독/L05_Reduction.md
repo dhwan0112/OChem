@@ -15,7 +15,7 @@
 
 ## 개요
 
-이 강의는 "분자에 수소를 붙이는 법", 즉 reduction을 다룬다. 출발점은 amine이다. 세로토닌, 니코틴, diazepam처럼 몸과 약에서 중요한 분자 상당수가 질소를 품고 있는데, 정작 amine을 깔끔하게 만드는 일은 생각보다 까다롭다. 그래서 강의는 amine 합성 문제를 실마리 삼아 azide·nitrile·amide·imine을 환원하는 방법으로 넘어가고, 거기서 NaBH<sub>4</sub>, LiBH<sub>4</sub>, LiAlH<sub>4</sub>, BH<sub>3</sub>, DIBAL-H라는 금속 metal hydride 시약 세트를 정리한 뒤, 마지막으로 H<sub>2</sub>와 금속 촉매를 쓰는 촉매 catalytic hydrogenation로 마무리한다. 핵심 질문은 하나다. "분자 안에 환원될 수 있는 자리가 여러 개일 때, 원하는 곳만 환원하려면 어떤 시약을 골라야 하나?" L1에서 alkene의 hydroboration로 만났던 BH<sub>3</sub>가 여기서는 carbonyl 환원제로 다시 등장하고, 이후 L7(enolate), L10(enamine/iminium), L12(protecting group)에서도 이 강의의 시약들이 계속 쓰인다.
+이 강의는 "분자에 수소를 붙이는 법", 즉 reduction을 다룬다. 출발점은 amine이다. 세로토닌, 니코틴, diazepam처럼 몸과 약에서 중요한 분자 상당수가 질소를 품고 있는데, 정작 amine을 깔끔하게 만드는 일은 생각보다 까다롭다. 그래서 강의는 amine 합성 문제를 실마리 삼아 azide·nitrile·amide·imine을 환원하는 방법으로 넘어가고, 거기서 NaBH<sub>4</sub>, LiBH<sub>4</sub>, LiAlH<sub>4</sub>, BH<sub>3</sub>, DIBAL-H라는 금속 metal hydride 시약 세트를 정리한 뒤, 마지막으로 H<sub>2</sub>와 금속 촉매를 쓰는 촉매 catalytic hydrogenation으로 마무리한다. 핵심 질문은 하나다. "분자 안에 환원될 수 있는 자리가 여러 개일 때, 원하는 곳만 환원하려면 어떤 시약을 골라야 하나?" L1에서 alkene의 hydroboration으로 만났던 BH<sub>3</sub>가 여기서는 carbonyl 환원제로 다시 등장하고, 이후 L7(enolate), L10(enamine/iminium), L12(protecting group)에서도 이 강의의 시약들이 계속 쓰인다.
 
 ## 1. amine이란 무엇이고, 왜 만들기 어려운가
 
@@ -31,7 +31,7 @@
 
 amine은 N에 붙은 탄소 수에 따라 1차(RNH<sub>2</sub>), 2차(R<sub>2</sub>NH), 3차(R<sub>3</sub>N)로 나뉜다. N에 기가 네 개 붙을 수도 있는데, 이때는 N이 형식 양전하를 띠어야 하므로 4차 quaternary ammonium salt이 된다. 또 alkyl group이 붙은 alkylamine과 아릴기가 붙은 arylamine으로도 나누는데, 화학은 대체로 비슷하지만 차이도 상당하다.
 
-amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이 전자쌍 때문에 amine은 염기이자 nucleophile가 된다. 그런데 같은 N을 가진 amide(RCONH<sub>2</sub>)는 사정이 다르다. amide는 수용성 산에 protonate되지 않을 만큼 염기성이 없고, 친핵성도 약하다.[2] 이 차이는 뒤에서 "amide를 환원하면 amine이 된다"는 사실과 맞물려 중요해진다.
+amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이 전자쌍 때문에 amine은 염기이자 nucleophile이 된다. 그런데 같은 N을 가진 amide(RCONH<sub>2</sub>)는 사정이 다르다. amide는 수용성 산에 protonate되지 않을 만큼 염기성이 없고, 친핵성도 약하다.[2] 이 차이는 뒤에서 "amide를 환원하면 amine이 된다"는 사실과 맞물려 중요해진다.
 
 고리형 amine도 이름을 익혀 두자. 7원 고리 azepane, 6원 고리 piperidine·piperazine·모폴린(morpholine), 5원 고리 pyrrolidine, 4원 고리 azetidine, 3원 고리 aziridine이다.[3]
 
@@ -44,7 +44,7 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 `NH3 (대과량) + R-X --> [R-NH3+ X-] --> RNH2 + NH4+ X-`
 
 메커니즘은 이렇다.
-1. NH<sub>3</sub>(nucleophile)의 N 비공유 전자쌍이 R-X의 electrophile를 뒤에서 공격하고, C-X 결합이 끊어지면서 C-N 결합이 생긴다. 결과물은 alkyl암모늄염 R-NH<sub>3</sub><sup>+</sup>X<sup>-</sup>다.
+1. NH<sub>3</sub>(nucleophile)의 N 비공유 전자쌍이 R-X의 electrophile을 뒤에서 공격하고, C-X 결합이 끊어지면서 C-N 결합이 생긴다. 결과물은 alkyl암모늄염 R-NH<sub>3</sub><sup>+</sup>X<sup>-</sup>다.
 2. 옆에 있던 NH<sub>3</sub>가 N-H 양성자를 떼어 가면 중성 RNH<sub>2</sub>와 NH<sub>4</sub><sup>+</sup>X<sup>-</sup>가 남는다.
 
 실제로 2-bromopropanoic acid 1 mol에 NH<sub>3</sub>를 무려 70 mol 넣으면 alanine(암모늄염 형태)을 65-70%로 얻을 수 있다.
@@ -55,13 +55,13 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 
 `CH3(CH2)6CH2Br + NH3 (2 eq) --> 옥틸아민 (45%) + 다이옥틸아민 (43%) + 트라이옥틸아민 (미량) + 테트라옥틸암모늄 브로마이드 (미량)`
 
-원하는 1차 amine과 거의 같은 양의 2차 amine이 섞여 나온다. 이것이 over-alkylation다. 원인은 생성물 자체에 있다. 새로 생긴 RNH<sub>2</sub>는 alkyl group의 전자 공여 덕분에 NH<sub>3</sub>보다 오히려 더 좋은 nucleophile라서, 남은 RX를 먼저 낚아채 버린다.[4] 즉 반응이 "한 번만 일어나고 멈추는" 장치가 없다. 그래서 아래의 방법들은 모두 "N을 한 번만 붙이고 나중에 환원으로 amine을 드러내는" 전략으로 이 문제를 피한다.
+원하는 1차 amine과 거의 같은 양의 2차 amine이 섞여 나온다. 이것이 over-alkylation이다. 원인은 생성물 자체에 있다. 새로 생긴 RNH<sub>2</sub>는 alkyl group의 전자 공여 덕분에 NH<sub>3</sub>보다 오히려 더 좋은 nucleophile라서, 남은 RX를 먼저 낚아채 버린다.[4] 즉 반응이 "한 번만 일어나고 멈추는" 장치가 없다. 그래서 아래의 방법들은 모두 "N을 한 번만 붙이고 나중에 환원으로 amine을 드러내는" 전략으로 이 문제를 피한다.
 
 (출처: L5 p.5-6)
 
 ### 1-1a. azide 이온 alkylation 후 환원
 
-overalkylation를 막으려면 어떻게 해야 할까? 한 가지 답은 nucleophile를 NH<sub>3</sub> 대신 azide 이온 N<sub>3</sub><sup>-</sup>로 바꾸는 것이다. azide 이온은 좋은 nucleophile라 S<sub>N</sub>2가 잘 되지만, 생성물인 alkyl azide R-N<sub>3</sub>는 더 이상 친핵성이 없다. 그래서 반응이 정확히 한 번에서 멈추고, 그다음 환원하면 1차 amine만 얻는다.
+overalkylation을 막으려면 어떻게 해야 할까? 한 가지 답은 nucleophile을 NH<sub>3</sub> 대신 azide 이온 N<sub>3</sub><sup>-</sup>로 바꾸는 것이다. azide 이온은 좋은 nucleophile라 S<sub>N</sub>2가 잘 되지만, 생성물인 alkyl azide R-N<sub>3</sub>는 더 이상 친핵성이 없다. 그래서 반응이 정확히 한 번에서 멈추고, 그다음 환원하면 1차 amine만 얻는다.
 
 `R-X + N3- --[S_N2, -X-]--> R-N3 --[LiAlH4 또는 H2/Pd 또는 PPh3]--> RNH2`
 
@@ -87,7 +87,7 @@ overalkylation를 막으려면 어떻게 해야 할까? 한 가지 답은 nucleo
 
 예: `벤질아민 PhCH2NH2 --[CH3COCl, base]--> PhCH2NHCOCH3 --[(1) LiAlH4; (2) H2O]--> N-벤질에틸아민 PhCH2NHCH2CH3`
 
-이 두 단계를 합쳐 보면 결국 benzylamine의 N에 ethyl group을 하나 붙인 셈이다. 그런데 왜 ethyl bromide로 직접 alkylate하지 않을까? 직접 alkylation는 1-1에서 본 overalkylation가 일어나지만, acylation는 생성물인 amide가 친핵성이 약하므로(1-0-1) 딱 한 번에서 멈춘다. 즉 "acylation 후 환원"은 깔끔한 N-alkylation의 우회로다.
+이 두 단계를 합쳐 보면 결국 benzylamine의 N에 ethyl group을 하나 붙인 셈이다. 그런데 왜 ethyl bromide로 직접 alkylate하지 않을까? 직접 alkylation은 1-1에서 본 overalkylation이 일어나지만, acylation은 생성물인 amide가 친핵성이 약하므로(1-0-1) 딱 한 번에서 멈춘다. 즉 "acylation 후 환원"은 깔끔한 N-alkylation의 우회로다.
 
 보충: 왜 ester는 alcohol이 되는데 amide는 amine이 될까? LiAlH<sub>4</sub>의 첫 수소화물이 붙어 tetrahedral intermediate가 생기는 데까지는 둘이 같다. 갈림길은 그다음이다. ester의 intermediate는 alkoxide(OR<sup>-</sup>)를 내보내 aldehyde가 되고, 이것이 다시 환원되어 alcohol이 된다. amide의 intermediate에서는 R<sub>2</sub>N<sup>-</sup>가 너무 나쁜 leaving group라 떨어지지 못하고, 대신 Al에 배위해 이탈 능력이 커진 산소가 떨어지면서 N의 비공유 전자쌍이 C=N<sup>+</sup>를 만든다. 이 iminium 이온이 두 번째 수소화물을 받아 amine이 된다. 2-4의 BH<sub>3</sub> 메커니즘도 같은 줄거리다. (보충 근거: Clayden p.531)
 
@@ -109,7 +109,7 @@ amine을 만드는 가장 강력하고 범용적인 방법이 환원성 아미�
 
 그렇다면 환원제는 정확히 무엇을 환원하는 걸까? carbonyl이 아니라 그 사이에 생기는 C=N이다.
 
-1. amine N(nucleophile)이 carbonyl electrophile를 공격하고 C=O π 결합이 끊어져 O<sup>-</sup>가 된다. 양성자가 옮겨 가면(두 단계) hemiaminal R(R')C(OH)NHR''이 생긴다.
+1. amine N(nucleophile)이 carbonyl electrophile을 공격하고 C=O π 결합이 끊어져 O<sup>-</sup>가 된다. 양성자가 옮겨 가면(두 단계) hemiaminal R(R')C(OH)NHR''이 생긴다.
 2. OH가 protonate되어 물로 떨어지고(-H<sub>2</sub>O), N의 비공유 전자쌍이 밀고 들어와 C=N을 만든다. 이것이 imine R(R')C=NR''이다. 여기까지는 모두 가역적이다.
 3. imine(또는 protonate된 iminium 이온)의 C=N 탄소에 수소화물 [H]가 붙어 2차 amine R(R')CH-NHR''이 된다.
 
@@ -157,7 +157,7 @@ N에 methyl group을 두 개 붙이고 싶다면 더 간단한 방법이 있다.
 
 *그림: 3번 단계(첫 번째 수소화물 전달)다. 포름산 이온의 H–C 결합(파랑)이 수소화물로서 iminium 탄소(빨강)를 공격하고, O<sup>-</sup>의 비공유 전자쌍이 내려와 C=O를 하나 더 만들어 CO<sub>2</sub>가 떨어져 나간다. iminium의 C=N π 전자는 N으로 돌아가 양전하를 없앤다. 새로 생긴 C–H 결합은 초록이다. 5번 단계도 같은 방식이다. 보충: 슬라이드에는 앞의 두 화살표만 있고, C=N π → N 화살표는 전자 수를 맞추려고 덧붙였다.*
 
-그럼 왜 4차 암모늄염까지 가지 않을까? 3차 amine은 N에 H가 없어 HCHO와 iminium을 만들 수 없기 때문이다. 즉 이 반응은 구조적으로 3차 amine에서 멈춘다. 1-1의 직접 alkylation와 정반대의 장점이다. CO<sub>2</sub> 기체가 빠져나가는 것도 반응을 비가역적으로 밀어 준다.
+그럼 왜 4차 암모늄염까지 가지 않을까? 3차 amine은 N에 H가 없어 HCHO와 iminium을 만들 수 없기 때문이다. 즉 이 반응은 구조적으로 3차 amine에서 멈춘다. 1-1의 직접 alkylation과 정반대의 장점이다. CO<sub>2</sub> 기체가 빠져나가는 것도 반응을 비가역적으로 밀어 준다.
 
 (출처: L5 p.15)
 
@@ -213,7 +213,7 @@ NaBH<sub>4</sub>는 아마 가장 많이 쓰이는 환원제일 것이다. 온�
 - `뷰탄온 CH3COCH2CH3 --[NaBH4, MeOH]--> 2-뷰탄올 (87%)`
 
 메커니즘의 이름은 "hydride" 첨가다.
-1. BH<sub>4</sub><sup>-</sup>의 B-H 결합 전자쌍이 nucleophile로서 carbonyl electrophile를 공격한다. C-H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
+1. BH<sub>4</sub><sup>-</sup>의 B-H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C-H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO<sup>-</sup>는 BH<sub>3</sub>에 붙어 EtOBH<sub>3</sub><sup>-</sup>가 된다.
 3. 그런데 EtOBH<sub>3</sub><sup>-</sup>에는 아직 B-H가 남아 있으니 여전히 환원제다.
 
@@ -388,7 +388,7 @@ H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서
 - `네랄 (Z) --[H2, CO, Rh(CO)2acac, (R,R)-Chiraphos]--> (+)-시트로넬랄`
 - `(+)-시트로넬랄 --[Al cat.]--> (-)-아이소풀레골 --[H2, Ni cat.]--> (-)-멘톨`
 
-첫 단계는 비대칭 asymmetric hydrogenation로, 분자에 있는 세 곳(공액 C=C, 고립된 C=C, CHO) 중 aldehyde와 공액된 C=C만 환원하면서 새 입체중심을 한쪽 거울상으로 만든다. 여기서 재미있는 점은 E 이성질체(제라니알)와 Z 이성질체(네랄)가 같은 (+)-시트로넬랄을 주려면 서로 반대 거울상의 키랄 리간드를 써야 한다는 것이다. 이중결합의 기하가 뒤집혀 있으니 같은 생성물을 얻으려면 촉매의 손잡이도 뒤집어야 하는 셈이다. 마지막 단계는 isopropenyl group의 C=C를 수소화하는 평범한 수소화다.[19]
+첫 단계는 비대칭 asymmetric hydrogenation으로, 분자에 있는 세 곳(공액 C=C, 고립된 C=C, CHO) 중 aldehyde와 공액된 C=C만 환원하면서 새 입체중심을 한쪽 거울상으로 만든다. 여기서 재미있는 점은 E 이성질체(제라니알)와 Z 이성질체(네랄)가 같은 (+)-시트로넬랄을 주려면 서로 반대 거울상의 키랄 리간드를 써야 한다는 것이다. 이중결합의 기하가 뒤집혀 있으니 같은 생성물을 얻으려면 촉매의 손잡이도 뒤집어야 하는 셈이다. 마지막 단계는 isopropenyl group의 C=C를 수소화하는 평범한 수소화다.[19]
 
 (출처: L5 p.32)
 
@@ -483,7 +483,7 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
 1. **경로 A (amide 환원, p.9)**: `PhCH2COOH --[1. SOCl2; 2. CH3NH2]--> PhCH2CONHCH3 --[1. LiAlH4; 2. H2O]--> PhCH2CH2NHCH3`. amide C=O가 CH<sub>2</sub>가 된다.
    **경로 B (환원성 아미노화, p.10-12)**: `PhCH2CHO + CH3NH2 --[NaBH3CN, 약산성]--> PhCH2CH2NHCH3`. 새 C-N 결합의 탄소 쪽(CH<sub>2</sub>)이 aldehyde에서 온다.
    **경로 C**: 2-phenylethylamine(p.7의 azide 경로)을 포밀화(예: HCOOEt)해 N-포밀 amide PhCH<sub>2</sub>CH<sub>2</sub>NHCHO로 만든 뒤 LiAlH<sub>4</sub>로 환원하면 NHCH<sub>3</sub>가 된다.
-   함정: PhCH<sub>2</sub>CH<sub>2</sub>Br + CH<sub>3</sub>NH<sub>2</sub> 직접 alkylation는 overalkylation 위험(p.6)이 있고, Eschweiler–Clarke는 N,N-dimethyl까지 가므로 monomethyl 합성에 맞지 않는다(p.15).
+   함정: PhCH<sub>2</sub>CH<sub>2</sub>Br + CH<sub>3</sub>NH<sub>2</sub> 직접 alkylation은 overalkylation 위험(p.6)이 있고, Eschweiler–Clarke는 N,N-dimethyl까지 가므로 monomethyl 합성에 맞지 않는다(p.15).
 
 2. 생성물의 2차 amine N 양쪽이 모두 CH<sub>2</sub>이므로, 어느 쪽 C-N 결합이든 환원성 아미노화로 만들 수 있다. 대안은 **fragment 1 쪽을 1차 amine**(원래 CHO 탄소가 CH<sub>2</sub>NH<sub>2</sub>가 된 ...CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)으로, **fragment 2 쪽을 aldehyde**(원래 H<sub>2</sub>N-CH<sub>2</sub>-가 OHC-로 바뀐 OHC-CH<sub>2</sub>CH<sub>2</sub>-N(Cbz)...)로 바꾸어 NaCNBH<sub>3</sub>로 연결하는 것이다. 전체 탄소 수는 그대로다.
    H<sub>2</sub>/Pd-C가 어려운 이유: 분자에 OBn(benzyl ether)과 Cbz(benzyloxycarbonyl)가 많아 수소화 조건에서 benzyl group이 떨어져 나갈 수 있다(p.33 "deprotection of benzyl group"). NaCNBH<sub>3</sub>는 이들을 건드리지 않는다.

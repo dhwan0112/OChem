@@ -29,7 +29,7 @@
 
 7. **PhCO–CH(OH)–CH(Ph)–COCH3 (2-hydroxy-1,3-diphenylpentane-1,4-dione).** thermodynamic silyl enol ether는 C=C가 CHPh 쪽에 있으므로 친핵성 탄소는 benzyl CHPh다. TiCl4가 활성화한 phenylglyoxal(PhCO–CHO)에서는 aldehyde 탄소가 ketone 탄소보다 친전자적이므로 CHO가 공격받는다. aldol의 silyl ether를 거쳐 물 후처리로 aldol이 된다. 새 C–C 결합은 CH(Ph)–CH(OH)이다. (근거: L8 p.25, p.27; aldehyde 우선성은 p.30의 원리)
 
-8. **빈 칸: (1) 4-tert-butyltoluene (4-tBu-C6H4–CH3) --[oxidation]--> (2) 4-tert-butylbenzaldehyde (4-tBu-C6H4–CHO) --[alkyl aldehyde, ⁻OH (cat)]--> α,β-불포화 aldehyde --[H2/Pd]--> (3) 4-tBu-C6H4–CH2–CH(R)–CHO.**
+8. **빈 칸: (1) 4-tert-butyltoluene (4-tBu-C6H4–CH3) --[oxidation]--> (2) 4-tert-butylbenzaldehyde (4-tBu-C6H4–CHO) --[alkyl aldehyde, ⁻OH (cat)]--> α,β-unsaturated aldehyde --[H2/Pd]--> (3) 4-tBu-C6H4–CH2–CH(R)–CHO.**
    - 4-tert-butylbenzaldehyde는 α-H가 없어 electrophile로만 작용하고(p.29 Case 2), alkyl aldehyde가 enolate를 낸다. aldol 후 E1cB 탈수로 Ar과 공액된 α-치환 cinnamaldehyde 유도체가 된다.
    - H2/Pd는 C=C만 환원하고 CHO는 남겨 포화 aldehyde를 준다. 보충: Pd catalyst 수소화는 공액 엔알에서 C=C를 C=O보다 우선 환원하는 것이 일반적이다. (보충 근거: Clayden p.536)
    - 입체화학: C2에 새 입체중심이 생기지만 비키랄 H2/Pd로는 라세미체가 된다. 슬라이드에 따르면 (R)-체가 꽃향기를 낸다.

@@ -13,7 +13,7 @@
 
 ## 개요
 
-conjugate addition(1,4-첨가)는 α,β-불포화 카르보닐 화합물의 C=C 이중결합에 nucleophile가 붙는 반응이다. L1~L2에서 본 alkene은 전자가 풍부해서 electrophile(E+)를 받아들이는 쪽이었다. 그런데 이중결합 옆에 카르보닐 같은 전자 끄는 기(EWG)가 짝지어 붙으면 성격이 뒤집혀, alkene이 오히려 nucleophile를 받는 **electrophile**가 된다. 이 강의는 이 "뒤집힌 alkene"이 amine, thiol, 시안화 이온, 유기구리 시약, enolate, enamine 같은 nucleophile와 어떻게 반응하는지 다루고, nucleophile가 카르보닐 탄소를 칠지(1,2) β-탄소를 칠지(1,4) 무엇이 정하는지 정리한다. 뒤쪽에서는 L7(enolate alkylation), L8(aldol), L10(enol과 enamine)에서 만든 nucleophile들을 다시 꺼내 1,5-다이카르보닐 화합물을 만들고, 키랄 amine 촉매가 만드는 iminium 이온과 nucleophilic aromatic substitution(SNAr)까지 이어간다. SNAr는 conjugate addition 뒤에 β-leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
+conjugate addition(1,4-첨가)는 α,β-unsaturated carbonyl 화합물의 C=C 이중결합에 nucleophile이 붙는 반응이다. L1~L2에서 본 alkene은 전자가 풍부해서 electrophile(E+)를 받아들이는 쪽이었다. 그런데 이중결합 옆에 carbonyl 같은 전자 끄는 기(EWG)가 짝지어 붙으면 성격이 뒤집혀, alkene이 오히려 nucleophile을 받는 **electrophile**이 된다. 이 강의는 이 "뒤집힌 alkene"이 amine, thiol, 시안화 이온, 유기구리 시약, enolate, enamine 같은 nucleophile과 어떻게 반응하는지 다루고, nucleophile이 carbonyl 탄소를 칠지(1,2) β-탄소를 칠지(1,4) 무엇이 정하는지 정리한다. 뒤쪽에서는 L7(enolate alkylation), L8(aldol), L10(enol과 enamine)에서 만든 nucleophile들을 다시 꺼내 1,5-다이카르보닐 화합물을 만들고, 키랄 amine 촉매가 만드는 iminium 이온과 nucleophilic aromatic substitution(SNAr)까지 이어간다. SNAr는 conjugate addition 뒤에 β-leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
 
 ---
 
@@ -21,22 +21,22 @@ conjugate addition(1,4-첨가)는 α,β-불포화 카르보닐 화합물의 C=C 
 
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
 
-α,β-불포화 카르보닐 화합물은 C=C가 C=O와 바로 붙어(짝지어) 있는 분자다. 카르보닐 탄소 옆이 α-탄소, 그 다음이 β-탄소다. 슬라이드에 나온 대표 예시는 다음과 같다.
+α,β-unsaturated carbonyl 화합물은 C=C가 C=O와 바로 붙어(짝지어) 있는 분자다. carbonyl 탄소 옆이 α-탄소, 그 다음이 β-탄소다. 슬라이드에 나온 대표 예시는 다음과 같다.
 
 | 종류 | 체계명 | 관용명 | 구조 |
 |---|---|---|---|
-| α,β-불포화 aldehyde(enal) | propenal | acrolein | CH2=CH-CHO |
-| α,β-불포화 ketone(enone) | but-3-en-2-one | methyl 비닐 ketone(MVK) | CH2=CH-CO-CH3 |
-| α,β-불포화 산 | propenoic acid | acrylic acid | CH2=CH-COOH |
-| α,β-불포화 ester | ethyl propenoate | ethyl acrylate | CH2=CH-CO2Et |
+| α,β-unsaturated aldehyde(enal) | propenal | acrolein | CH2=CH-CHO |
+| α,β-unsaturated ketone(enone) | but-3-en-2-one | methyl 비닐 ketone(MVK) | CH2=CH-CO-CH3 |
+| α,β-unsaturated 산 | propenoic acid | acrylic acid | CH2=CH-COOH |
+| α,β-unsaturated ester | ethyl propenoate | ethyl acrylate | CH2=CH-CO2Et |
 
-이중결합이 카르보닐에서 한 칸 더 떨어진 β,γ-불포화 ketone(예: CH3CO-CH2-CH=CH2)은 짝지음 계가 아니라서 이 강의의 반응성을 보이지 않는다.
+이중결합이 carbonyl에서 한 칸 더 떨어진 β,γ-unsaturated ketone(예: CH3CO-CH2-CH=CH2)은 짝지음 계가 아니라서 이 강의의 반응성을 보이지 않는다.
 
-그렇다면 왜 β-탄소가 nucleophile를 끌어당길까? 공명 구조를 그려보면 답이 나온다. 중성 구조(A)에서 C=O의 π전자를 산소로 밀면 카르보닐 탄소에 양전하가 생기고(B), 이어서 C=C의 π전자를 옮기면 **β-탄소에 양전하**가 생긴다(C). 즉 β-탄소와 카르보닐 탄소 둘 다 δ+를 띤다. 그래서 일반 alkene은 E+를 공격하지만, 짝지음 alkene은 Nu-에게 공격받는다.
+그렇다면 왜 β-탄소가 nucleophile을 끌어당길까? 공명 구조를 그려보면 답이 나온다. 중성 구조(A)에서 C=O의 π전자를 산소로 밀면 carbonyl 탄소에 양전하가 생기고(B), 이어서 C=C의 π전자를 옮기면 **β-탄소에 양전하**가 생긴다(C). 즉 β-탄소와 carbonyl 탄소 둘 다 δ+를 띤다. 그래서 일반 alkene은 E+를 공격하지만, 짝지음 alkene은 Nu-에게 공격받는다.
 
 ![methyl 비닐 ketone의 세 공명 구조 A, B, C: β-탄소에 양전하가 생기는 과정](../../figures/L11/enone_resonance.svg)
 
-*그림: methyl 비닐 ketone으로 그린 공명 구조 A ↔ B ↔ C. A의 주황 화살표는 C=O의 π 전자가 산소로 가는 것을, B의 화살표는 C=C의 π 전자가 옆의 C–C 자리로 옮겨 가는 것을 나타낸다. 파란 O⁻는 음전하를 받은 산소, 빨간 +는 양전하가 놓이는 탄소다. B에서는 카르보닐 탄소, C에서는 β-탄소가 양전하를 띤다. 그래서 nucleophile가 노릴 수 있는 δ+ 자리가 두 곳이 된다.*
+*그림: methyl 비닐 ketone으로 그린 공명 구조 A ↔ B ↔ C. A의 주황 화살표는 C=O의 π 전자가 산소로 가는 것을, B의 화살표는 C=C의 π 전자가 옆의 C–C 자리로 옮겨 가는 것을 나타낸다. 파란 O⁻는 음전하를 받은 산소, 빨간 +는 양전하가 놓이는 탄소다. B에서는 carbonyl 탄소, C에서는 β-탄소가 양전하를 띤다. 그래서 nucleophile이 노릴 수 있는 δ+ 자리가 두 곳이 된다.*
 
 이 분극은 분광학에서도 보인다.
 - IR: 단순 ketone C=O는 1715 cm-1인데 짝지음 C=O는 1675 cm-1다. 공명으로 C=O가 단일결합 성격을 일부 띠어 결합이 약해졌다는 뜻이다(비교: C-O 단일결합 1050 cm-1).
@@ -44,7 +44,7 @@ conjugate addition(1,4-첨가)는 α,β-불포화 카르보닐 화합물의 C=C 
 
 보충: IR에서는 C=C 흡수도 함께 변한다. 고립된 C=C는 약 1650 cm-1에서 약하게 흡수하지만, 짝지음 계에서는 약 1615 cm-1로 내려가고 세기가 커진다. 진동수가 내려간 것은 C=C도 약해졌다는 뜻이고, 세기가 커진 것은 C=O와 짝지으면서 C=C의 쌍극자 모멘트가 커졌다는 뜻이다. 또 13C NMR에서 α-탄소는 약 120 ppm 근처에 머문다. 전자가 빠지는 자리는 α가 아니라 β라는 점이 숫자로도 보인다. (보충 근거: Clayden p.501)
 
-보충: 공명 구조는 "어디가 δ+인가"를 보여 줄 뿐이고, 실제 결합이 생기는 단계는 nucleophile의 HOMO에서 받개의 LUMO로 전자가 들어가는 과정이다. acrolein(propenal)의 LUMO는 β-탄소에서 계수가 가장 크고, 카르보닐 탄소에서 두 번째로 크다. 그래서 β-탄소가 1순위 공격 자리이고, 카르보닐 탄소도 경쟁 자리로 남는다. 3절의 1,2/1,4 경쟁은 이 "두 번째로 큰 계수"에서 나온다. (보충 근거: Clayden p.502)
+보충: 공명 구조는 "어디가 δ+인가"를 보여 줄 뿐이고, 실제 결합이 생기는 단계는 nucleophile의 HOMO에서 받개의 LUMO로 전자가 들어가는 과정이다. acrolein(propenal)의 LUMO는 β-탄소에서 계수가 가장 크고, carbonyl 탄소에서 두 번째로 크다. 그래서 β-탄소가 1순위 공격 자리이고, carbonyl 탄소도 경쟁 자리로 남는다. 3절의 1,2/1,4 경쟁은 이 "두 번째로 큰 계수"에서 나온다. (보충 근거: Clayden p.502)
 
 (출처: L11 p.3)
 
@@ -52,7 +52,7 @@ conjugate addition(1,4-첨가)는 α,β-불포화 카르보닐 화합물의 C=C 
 
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md), [keto-enol tautomerization](../../wiki/반응/케토-엔올%20토토머화.md), [organocuprate](../../wiki/시약/유기구리%20시약.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md)
 
-conjugate addition는 **Michael addition**라고도 부른다. 일반식은 다음과 같다.
+conjugate addition은 **Michael addition**이라고도 부른다. 일반식은 다음과 같다.
 
 `CH2=CH-CO-R(OR) --[(1) Nu- (또는 H-Nu), (2) HA]--> Nu-CH2-CH2-CO-R(OR)`
 
@@ -61,7 +61,7 @@ conjugate addition는 **Michael addition**라고도 부른다. 일반식은 다�
 - Nu와 H가 C=C에 첨가된다.
 - alkene 옆에 짝지은 EWG(CHO, COR, COOR 등)가 반드시 있어야 한다.
 
-슬라이드가 든 nucleophile는 CN-, RNH2, RSH, R2CuLi, enolate 등이다.
+슬라이드가 든 nucleophile은 CN-, RNH2, RSH, R2CuLi, enolate 등이다.
 
 예시 두 개:
 - 메시틸 oxide(mesityl oxide, (CH3)2C=CH-CO-CH3) `--[PhSH, 25 °C, 5 h]-->` 4-methyl-4-(phenylthio)pentan-2-one, (CH3)2C(SPh)-CH2-CO-CH3 (94%). thiol의 황은 β-탄소에 붙는다.
@@ -69,15 +69,15 @@ conjugate addition는 **Michael addition**라고도 부른다. 일반식은 다�
 
 (출처: L11 p.4)
 
-### 2.1 amine의 첨가: 질소 nucleophile는 어떻게 β-탄소에 붙나?
+### 2.1 amine의 첨가: 질소 nucleophile은 어떻게 β-탄소에 붙나?
 
-1차 또는 2차 amine은 α,β-불포화 카르보닐 화합물에 첨가해서 **β-아미노 카르보닐 화합물**을 준다.
+1차 또는 2차 amine은 α,β-unsaturated carbonyl 화합물에 첨가해서 **β-아미노 carbonyl 화합물**을 준다.
 
 `(CH3)2C=CH-CO-CH3 --[MeNH2, H2O]--> (CH3)2C(NHMe)-CH2-CO-CH3` (75%)
 
 ![MeNH2가 메시틸 oxide의 β-탄소를 공격해 쌍극성 이온 enolate가 되는 1단계](../../figures/L11/amine_addition.svg)
 
-*그림: 아래 1단계를 그린 것이다. 화살표는 셋이다. (1) MeNH2 질소(파랑, nucleophile)의 비공유 전자쌍이 δ+인 β-탄소(빨간 C=C 쪽)를 공격한다. (2) C=C의 π 전자가 카르보닐 쪽 C–C 자리로 밀려 간다. (3) C=O의 π 전자가 산소로 올라가 O⁻(파랑)가 된다. 초록 결합은 새로 생긴 C–N 결합이다. 생성물은 N⁺와 O⁻를 함께 가진 쌍극성 이온이며, 이어서 양성자 이동과 tautomerization가 일어난다(2–4단계).*
+*그림: 아래 1단계를 그린 것이다. 화살표는 셋이다. (1) MeNH2 질소(파랑, nucleophile)의 비공유 전자쌍이 δ+인 β-탄소(빨간 C=C 쪽)를 공격한다. (2) C=C의 π 전자가 carbonyl 쪽 C–C 자리로 밀려 간다. (3) C=O의 π 전자가 산소로 올라가 O⁻(파랑)가 된다. 초록 결합은 새로 생긴 C–N 결합이다. 생성물은 N⁺와 O⁻를 함께 가진 쌍극성 이온이며, 이어서 양성자 이동과 tautomerization이 일어난다(2–4단계).*
 
 메커니즘은 네 단계로 나뉜다.
 1. **친핵성 공격**: MeNH2의 질소 비공유 nucleophile이 δ+인 β-탄소(electrophile)를 공격한다. 새 C-N 결합이 생기고, C=C의 π전자는 C=O 쪽으로 밀려 산소 anion이 된다. 이렇게 한 분자 안에 암모늄(+)과 enolate(-)가 같이 있는 쌍극성 zwitterion이 생긴다.
@@ -87,15 +87,15 @@ conjugate addition는 **Michael addition**라고도 부른다. 일반식은 다�
 
 슬라이드에는 각 단계가 가역(⇌)으로 그려져 있다.[^1]
 
-보충: amine은 중성 nucleophile이므로 따로 산을 넣지 않아도 amine 자신(N–H)이 enolate에 줄 양성자를 공급한다. conjugate addition는 언제나 enolate(또는 enol)를 거치므로, 이 양성자를 공급할 곳이 필요하다. 그래서 conjugate addition는 보통 물이나 alcohol 같은 양성자성 용매에서 하고, alcohol을 nucleophile로 쓸 때는 촉매량의 염기만 있으면 된다(enolate가 물에서 양성자를 받으며 OH-를 다시 내놓는다). 또 1차 amine 생성물은 아직 N–H가 남아 친핵성을 띠므로, 받개가 충분하면 **두 번째 conjugate addition**가 일어날 수 있다(예: MeNH2 + acrylonitrile 2분자). (보충 근거: Clayden p.503, p.510)
+보충: amine은 중성 nucleophile이므로 따로 산을 넣지 않아도 amine 자신(N–H)이 enolate에 줄 양성자를 공급한다. conjugate addition은 언제나 enolate(또는 enol)를 거치므로, 이 양성자를 공급할 곳이 필요하다. 그래서 conjugate addition은 보통 물이나 alcohol 같은 양성자성 용매에서 하고, alcohol을 nucleophile로 쓸 때는 촉매량의 염기만 있으면 된다(enolate가 물에서 양성자를 받으며 OH-를 다시 내놓는다). 또 1차 amine 생성물은 아직 N–H가 남아 친핵성을 띠므로, 받개가 충분하면 **두 번째 conjugate addition**이 일어날 수 있다(예: MeNH2 + acrylonitrile 2분자). (보충 근거: Clayden p.503, p.510)
 
 (출처: L11 p.5)
 
 ### 2.2 유기구리 시약의 첨가: 왜 구리는 β-탄소를 고르나?
 
-**lithium lithium cuprate** R2CuLi는 conjugate addition에 쓰는 대표적인 탄소 nucleophile다. 실제 구조는 tetramer 등으로 더 복잡하다. 그런데 같은 탄소 anion 시약인 Grignard 시약은 카르보닐을 직접 공격하는데, 구리 시약은 왜 β-탄소로 갈까?
+**lithium lithium cuprate** R2CuLi는 conjugate addition에 쓰는 대표적인 탄소 nucleophile다. 실제 구조는 tetramer 등으로 더 복잡하다. 그런데 같은 탄소 anion 시약인 Grignard 시약은 carbonyl을 직접 공격하는데, 구리 시약은 왜 β-탄소로 갈까?
 
-답은 전기음성도에 있다. Cu(1.9)는 Mg(1.3)보다 훨씬 덜 전기양성적이다. 그래서 C-Cu 결합은 C-Mg 결합보다 덜 분극되어 있고, 탄소의 부분 음전하가 작다. 즉 유기구리 시약은 Grignard 시약보다 **soft** nucleophile다. 무른 nucleophile가 무른 친전자 자리(β-탄소)를 고르는 경향은 4절에서 자세히 다룬다.
+답은 전기음성도에 있다. Cu(1.9)는 Mg(1.3)보다 훨씬 덜 전기양성적이다. 그래서 C-Cu 결합은 C-Mg 결합보다 덜 분극되어 있고, 탄소의 부분 음전하가 작다. 즉 유기구리 시약은 Grignard 시약보다 **soft** nucleophile다. 무른 nucleophile이 무른 친전자 자리(β-탄소)를 고르는 경향은 4절에서 자세히 다룬다.
 
 **만드는 법**:
 `CuBr + 2 R-Li --[Et2O, -78 °C]--> R2CuLi + LiBr`
@@ -120,35 +120,35 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 ### 2.3 연습: 유기구리 시약으로 무엇을 만들 수 있나?
 
-슬라이드 p.8은 분자 간(intermolecular) conjugate addition만 써서 네 화합물을 만드는 방법을 묻는다. 거꾸로 생각하는 요령은 이렇다. 생성물 ketone에서 **카르보닐로부터 β 위치에 있는 치환기 하나**를 R2CuLi에서 온 R로 보고 떼어낸다. 그리고 α-C와 β-C 사이에 C=C를 다시 넣으면 출발 enone이 나온다. 문제는 "연습 문제"에 옮겼다.
+슬라이드 p.8은 분자 간(intermolecular) conjugate addition만 써서 네 화합물을 만드는 방법을 묻는다. 거꾸로 생각하는 요령은 이렇다. 생성물 ketone에서 **carbonyl로부터 β 위치에 있는 치환기 하나**를 R2CuLi에서 온 R로 보고 떼어낸다. 그리고 α-C와 β-C 사이에 C=C를 다시 넣으면 출발 enone이 나온다. 문제는 "연습 문제"에 옮겼다.
 
 (출처: L11 p.8)
 
-## 3. 1,2-첨가와 1,4-첨가: nucleophile는 어디를 칠까?
+## 3. 1,2-첨가와 1,4-첨가: nucleophile은 어디를 칠까?
 
 > 개념 문서: [1,2-addition vs 1,4-addition](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [NaBH4](../../wiki/시약/NaBH4.md), [addition-elimination](../../wiki/반응/첨가-제거%20반응.md), [hard and soft acids and bases (HSAB)](../../wiki/개념/하드-소프트%20산염기.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md), [organocuprate](../../wiki/시약/유기구리%20시약.md), [kinetic vs thermodynamic control](../../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
-1절에서 봤듯이 δ+ 자리는 두 곳이다. 그래서 nucleophile는 카르보닐 탄소를 직접 공격(**단순 첨가, 1,2-첨가**)하거나 β-탄소를 공격(**conjugate addition, 1,4-첨가**)할 수 있다.
+1절에서 봤듯이 δ+ 자리는 두 곳이다. 그래서 nucleophile은 carbonyl 탄소를 직접 공격(**단순 첨가, 1,2-첨가**)하거나 β-탄소를 공격(**conjugate addition, 1,4-첨가**)할 수 있다.
 - 1,2-첨가: protonate하면 C=C가 남은 allyl alcohol 형태(C=C-C(OH)Nu)가 생긴다.
 - 1,4-첨가: protonate하면 먼저 **enol형**(Nu-C-C=C-OH)이 생기고, 이것이 tautomerize해서 더 안정한 **keto형**(Nu-C-CH-C=O)이 된다. "1,4"라는 이름은 O=C-C=C의 O를 1번으로 셀 때 Nu와 H가 1번(O)과 4번(β-C)에 붙은 것처럼 보이는 데서 왔다.
 
 (출처: L11 p.9)
 
-그러면 어느 쪽으로 갈지는 무엇이 정할까? 슬라이드는 세 가지를 꼽는다. (1) α,β-불포화 계의 작용기, (2) nucleophile, (3) 반응 조건이다.
+그러면 어느 쪽으로 갈지는 무엇이 정할까? 슬라이드는 세 가지를 꼽는다. (1) α,β-unsaturated 계의 작용기, (2) nucleophile, (3) 반응 조건이다.
 
-### 3.1 요인 1: α,β-불포화 계의 작용기
+### 3.1 요인 1: α,β-unsaturated 계의 작용기
 
-카르보닐이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) 비율이 달라진다. 직접 첨가 비율이 큰 것부터 나열하면 다음과 같다.
+carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) 비율이 달라진다. 직접 첨가 비율이 큰 것부터 나열하면 다음과 같다.
 
-**α,β-불포화 acyl chloride > enal > enone > α,β-불포화 ester > α,β-불포화 amide**
+**α,β-unsaturated acyl chloride > enal > enone > α,β-unsaturated ester > α,β-unsaturated amide**
 
-즉 카르보닐이 친전자적일수록 1,2, 카르보닐이 덜 친전자적일수록 1,4로 간다. 슬라이드의 예시는 다음과 같다.
+즉 carbonyl이 친전자적일수록 1,2, carbonyl이 덜 친전자적일수록 1,4로 간다. 슬라이드의 예시는 다음과 같다.
 - **1,2**: 아크릴로일 chloride CH2=CH-COCl `--[NH3]-->` acrylamide CH2=CH-CONH2[^2]
 - **1,4**: methyl acrylate CH2=CH-CO2Me `--[NH3]-->` H2N-CH2CH2-CO2Me (methyl 3-aminopropanoate)
 - **1,2**: cinnamaldehyde Ph-CH=CH-CHO `--[NaBH4, EtOH]-->` Ph-CH=CH-CH2OH (신나밀 alcohol, 97%). aldehyde라서 직접 환원된다.
 - **1,4 후 1,2**: cyclopentenone `--[NaBH4, EtOH]-->` cyclopentanol (99%). 먼저 수소화 이온이 1,4로 들어가 cyclopentanone이 되고, 그 ketone이 다시 1,2로 환원된다(→ [L5](L05_Reduction.md) 환원 문서 참고).
 
-보충: 이 순서가 "왜" 카르보닐의 반응성 순서인지는 L4~L5에서 본 카르보닐 반응성과 같다. ester의 OR, amide의 NR2는 비공유 전자쌍을 C=O로 밀어 넣어 카르보닐 탄소의 δ+를 줄인다. 그래서 nucleophile가 C=O로 직접 갈 이유가 약해지고 β-탄소가 상대적으로 유리해진다. 극단적으로 NaBH4는 ester·amide C=O를 아예 환원하지 못하므로, α,β-불포화 ester에는 짝지음 환원만 일어난다. 반대로 enone에서 C=O만 골라 환원하고 싶으면 NaBH4에 CeCl3을 넣는 Luche 환원을 쓴다. (보충 근거: Clayden p.506)
+보충: 이 순서가 "왜" carbonyl의 반응성 순서인지는 L4~L5에서 본 carbonyl 반응성과 같다. ester의 OR, amide의 NR2는 비공유 전자쌍을 C=O로 밀어 넣어 carbonyl 탄소의 δ+를 줄인다. 그래서 nucleophile이 C=O로 직접 갈 이유가 약해지고 β-탄소가 상대적으로 유리해진다. 극단적으로 NaBH4는 ester·amide C=O를 아예 환원하지 못하므로, α,β-unsaturated ester에는 짝지음 환원만 일어난다. 반대로 enone에서 C=O만 골라 환원하고 싶으면 NaBH4에 CeCl3을 넣는 Luche 환원을 쓴다. (보충 근거: Clayden p.506)
 
 보충: 슬라이드의 세 요인 외에 Clayden은 **β-탄소의 입체 장애**도 요인으로 꼽는다. β-탄소가 붐비면 직접(1,2) 첨가 쪽으로, β-탄소가 드러나 있으면 conjugate addition 쪽으로 기운다. methyl 비닐 ketone이나 exo-methylene ketone처럼 β가 CH2인 받개가 가장 반응성 좋은 Michael 받개인 이유다. (보충 근거: Clayden p.510, p.609)
 
@@ -162,13 +162,13 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 (출처: L11 p.11)
 
-![CH3MgBr의 methyl이 2-cyclohexenone의 카르보닐 탄소를 직접 공격하는 1,2-addition](../../figures/L11/grignard_12_addition.svg)
+![CH3MgBr의 methyl이 2-cyclohexenone의 carbonyl 탄소를 직접 공격하는 1,2-addition](../../figures/L11/grignard_12_addition.svg)
 
-*그림: Grignard 시약의 1,2-addition. C–Mg 결합(파랑)의 전자쌍이 methyl과 함께 카르보닐 탄소로 가고, 빨간 C=O의 π 전자는 산소로 간다. 생성물은 C=C가 그대로 남은 magnesium alkoxide(초록이 새 C–C 결합)이고, H₃O⁺ 후처리로 1-methyl-2-cyclohexen-1-ol이 된다. 같은 enone에 R₂CuLi를 쓰면 methyl이 β-탄소로 간다(→ [organocuprate](../../wiki/시약/유기구리%20시약.md)의 그림). 보충: 슬라이드는 반응식만 보여 주며, 화살표는 표준적인 카르보닐 첨가 메커니즘으로 그렸다. (출처: L11 p.11)*
+*그림: Grignard 시약의 1,2-addition. C–Mg 결합(파랑)의 전자쌍이 methyl과 함께 carbonyl 탄소로 가고, 빨간 C=O의 π 전자는 산소로 간다. 생성물은 C=C가 그대로 남은 magnesium alkoxide(초록이 새 C–C 결합)이고, H₃O⁺ 후처리로 1-methyl-2-cyclohexen-1-ol이 된다. 같은 enone에 R₂CuLi를 쓰면 methyl이 β-탄소로 간다(→ [organocuprate](../../wiki/시약/유기구리%20시약.md)의 그림). 보충: 슬라이드는 반응식만 보여 주며, 화살표는 표준적인 carbonyl 첨가 메커니즘으로 그렸다. (출처: L11 p.11)*
 
 왜 이렇게 갈릴까? 단단함/무름(hard/soft) 개념으로 설명한다.
-- **hard nucleophile**는 단단한 electrophile인 **카르보닐 탄소**와 반응하는 경향이 있다(1,2-첨가). 전하가 크고 작은 원자에 몰려 있어서 정전기적 인력이 큰 자리를 고른다고 보면 된다.
-- **soft nucleophile**는 무른 electrophile인 **β-탄소**와 반응하는 경향이 있다(1,4-첨가).
+- **hard nucleophile**은 단단한 electrophile인 **carbonyl 탄소**와 반응하는 경향이 있다(1,2-첨가). 전하가 크고 작은 원자에 몰려 있어서 정전기적 인력이 큰 자리를 고른다고 보면 된다.
+- **soft nucleophile**은 무른 electrophile인 **β-탄소**와 반응하는 경향이 있다(1,4-첨가).
 
 | 단단한 nucleophile | borderline | 무른 nucleophile |
 |---|---|---|
@@ -179,19 +179,19 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 그래서 RMgBr/RLi는 1,2로, R2CuLi와 thiol(RS-, RSH)은 1,4로 간다고 기억하면 된다.
 
-보충: "단단함/무름"은 결국 두 가지 인력 중 무엇이 지배하느냐의 문제다. 단단한 nucleophile(O, Cl처럼 작고 전기음성도 큰 원자, 또는 C–Mg처럼 분극이 큰 결합)는 **전하(정전기) 지배**를 받아 부분 양전하가 가장 큰 카르보닐 탄소로 간다. 무른 nucleophile(S, P, I, Se처럼 크고 분극되기 쉬운 원자)는 **오비탈 지배**를 받아 LUMO 계수가 가장 큰 β-탄소로 간다(1절 보충). 즉 β-탄소는 δ+는 작지만 LUMO 계수가 크기 때문에 "무른 친전자 자리"다. thiophenol이 산·염기 촉매 없이 25 °C에서 94%로 1,4-첨가하는 것(2절의 메시틸 oxide 예)이 이 원리의 대표 사례다. 표는 외우기보다, 원자의 크기·전하·분극으로 각 칸의 위치를 납득하는 편이 낫다. (보충 근거: Clayden p.507)
+보충: "단단함/무름"은 결국 두 가지 인력 중 무엇이 지배하느냐의 문제다. 단단한 nucleophile(O, Cl처럼 작고 전기음성도 큰 원자, 또는 C–Mg처럼 분극이 큰 결합)는 **전하(정전기) 지배**를 받아 부분 양전하가 가장 큰 carbonyl 탄소로 간다. 무른 nucleophile(S, P, I, Se처럼 크고 분극되기 쉬운 원자)는 **오비탈 지배**를 받아 LUMO 계수가 가장 큰 β-탄소로 간다(1절 보충). 즉 β-탄소는 δ+는 작지만 LUMO 계수가 크기 때문에 "무른 친전자 자리"다. thiophenol이 산·염기 촉매 없이 25 °C에서 94%로 1,4-첨가하는 것(2절의 메시틸 oxide 예)이 이 원리의 대표 사례다. 표는 외우기보다, 원자의 크기·전하·분극으로 각 칸의 위치를 납득하는 편이 낫다. (보충 근거: Clayden p.507)
 
 (출처: L11 p.12)
 
 ### 3.3 요인 3: 반응 조건, kinetic vs thermodynamic 생성물
 
 methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도만 바꿔도 생성물이 달라진다.
-- `MVK --[NaCN, HCN, 5–10 °C]--> 사이아노하이드린 (CH2=CH-C(OH)(CN)-CH3)`: 카르보닐에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
+- `MVK --[NaCN, HCN, 5–10 °C]--> 사이아노하이드린 (CH2=CH-C(OH)(CN)-CH3)`: carbonyl에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
 - `MVK --[NaCN, HCN, 80 °C]--> NC-CH2CH2-CO-CH3 (4-oxopentanenitrile)`: **1,4 생성물**. 이것이 **thermodynamic 생성물(thermodynamic product, P2)**이다.
 
 왜 그럴까? 에너지 도표로 보면 1,2-첨가의 활성화 에너지(EA1, TS1)가 1,4-첨가(EA2, TS2)보다 낮다. 그래서 저온에서는 빨리 생기는 P1이 쌓인다. 그런데 P2가 에너지상 더 낮다. 두 경로 모두 C-C σ 결합 하나를 얻지만, 1,2-첨가는 C=O π 결합(약 369 kJ/mol)을 잃고 1,4-첨가는 C=C π 결합(약 280 kJ/mol)을 잃는다. 즉 1,4는 더 약한 결합을 희생하고 강한 C=O를 보존하니 더 안정하다. 고온에서는 가역적인 1,2-첨가가 풀렸다가 다시 일어나기를 반복하면서 결국 안정한 P2로 모인다.
 
-보충: 그렇다면 1,2가 "왜" 더 빠를까? β-탄소도 δ+를 띠지만 카르보닐 탄소가 더 큰 양전하를 띠므로, 음전하를 띤 CN-는 정전기적으로 카르보닐 탄소에 더 빨리 끌린다. 그리고 결정적인 차이는 **가역성**이다. cyanohydrin 형성은 가역이라 평형 속에 늘 출발 enone이 조금 남아 있고, 이 enone이 가끔 1,4-첨가를 하면 그 생성물은 (사실상) 되돌아오지 않는다. 그 결과 1,4 생성물이 조금씩 쌓이고, enone–cyanohydrin 평형이 이를 보충하느라 cyanohydrin이 점점 소모된다. 실온에서도 원리상 일어나지만 매우 느리고, 80 °C에서는 몇 시간이면 끝난다. 같은 논리로 더 높은 온도(예: 160 °C)를 쓰는 예도 있다. (보충 근거: Clayden p.504–505)
+보충: 그렇다면 1,2가 "왜" 더 빠를까? β-탄소도 δ+를 띠지만 carbonyl 탄소가 더 큰 양전하를 띠므로, 음전하를 띤 CN-는 정전기적으로 carbonyl 탄소에 더 빨리 끌린다. 그리고 결정적인 차이는 **가역성**이다. cyanohydrin 형성은 가역이라 평형 속에 늘 출발 enone이 조금 남아 있고, 이 enone이 가끔 1,4-첨가를 하면 그 생성물은 (사실상) 되돌아오지 않는다. 그 결과 1,4 생성물이 조금씩 쌓이고, enone–cyanohydrin 평형이 이를 보충하느라 cyanohydrin이 점점 소모된다. 실온에서도 원리상 일어나지만 매우 느리고, 80 °C에서는 몇 시간이면 끝난다. 같은 논리로 더 높은 온도(예: 160 °C)를 쓰는 예도 있다. (보충 근거: Clayden p.504–505)
 
 (출처: L11 p.13)
 
@@ -211,31 +211,31 @@ ketone에 염기를 넣어 만든 enolate(→ [L7](L07_Enolate_Alkylation.md) en
 
 ![enolate의 α-탄소가 Michael 받개의 β-탄소를 공격하는 화살표](../../figures/L11/enolate_michael.svg)
 
-*그림: 2단계의 전자 이동만 그렸다(생성물은 연습 문제 4로 남겨 두었다). 화살표는 넷이다. (1) O⁻의 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) enolate의 C=C π 전자(파랑, nucleophile)가 받개의 β-탄소(빨강, electrophile)와 새 C–C 결합을 만든다. (3) 받개의 C=C π 전자는 카르보닐 쪽 C–C 자리로, (4) 받개의 C=O π 전자는 산소로 간다.*
+*그림: 2단계의 전자 이동만 그렸다(생성물은 연습 문제 4로 남겨 두었다). 화살표는 넷이다. (1) O⁻의 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) enolate의 C=C π 전자(파랑, nucleophile)가 받개의 β-탄소(빨강, electrophile)와 새 C–C 결합을 만든다. (3) 받개의 C=C π 전자는 carbonyl 쪽 C–C 자리로, (4) 받개의 C=O π 전자는 산소로 간다.*
 
 슬라이드 p.14의 빈칸은 2단계 생성물을 묻는다(연습 문제 참고). 그 밖의 Michael 받개 예시로는 methyl 신나메이트(Ph-CH=CH-CO2Me), acrylonitrile(CH2=CH-CN), ethyl 비닐 ketone(CH2=CH-CO-CH2CH3)이 있다. nitrile도 EWG라서 받개가 된다.
 
-보충: nitrile 받개가 특히 깔끔한 이유는, nitrile 탄소는 친전자 자리로서 반응성이 낮아 nucleophile가 C≡N에 직접 붙는 경쟁(카르보닐의 1,2-첨가에 해당)이 거의 없기 때문이다. 그러면서도 음전하는 카르보닐처럼 잘 안정화한다. 그래서 acrylonitrile은 enolate에 대해 가장 좋은 Michael 받개 중 하나다. (보충 근거: Clayden p.510)
+보충: nitrile 받개가 특히 깔끔한 이유는, nitrile 탄소는 친전자 자리로서 반응성이 낮아 nucleophile이 C≡N에 직접 붙는 경쟁(carbonyl의 1,2-첨가에 해당)이 거의 없기 때문이다. 그러면서도 음전하는 carbonyl처럼 잘 안정화한다. 그래서 acrylonitrile은 enolate에 대해 가장 좋은 Michael 받개 중 하나다. (보충 근거: Clayden p.510)
 
-보충: 역합성에서 거꾸로 쓰는 요령도 기억해 두자. Claisen 축합은 두 카르보닐 사이에 포화 탄소가 하나인 1,3-다이카르보닐을, Michael 첨가는 포화 탄소가 셋인 **1,5-다이카르보닐**을 준다. 표적에 1,5 관계가 보이면 한쪽 카르보닐 기준 β,γ 결합을 끊어 보자. β 쪽 조각은 α,β-불포화 받개, 다른 조각은 enolate(필요하면 ester를 덧붙인 안정한 enolate) 공여체가 된다. (보충 근거: Wade p.1087–1088)
+보충: 역합성에서 거꾸로 쓰는 요령도 기억해 두자. Claisen 축합은 두 carbonyl 사이에 포화 탄소가 하나인 1,3-다이카르보닐을, Michael 첨가는 포화 탄소가 셋인 **1,5-다이카르보닐**을 준다. 표적에 1,5 관계가 보이면 한쪽 carbonyl 기준 β,γ 결합을 끊어 보자. β 쪽 조각은 α,β-unsaturated 받개, 다른 조각은 enolate(필요하면 ester를 덧붙인 안정한 enolate) 공여체가 된다. (보충 근거: Wade p.1087–1088)
 
 (출처: L11 p.14)
 
 ### 4.2 경쟁 반응: conjugate addition vs aldol
 
-그런데 enolate는 카르보닐을 직접 칠 수도 있다. 그것이 바로 aldol reaction(→ [L8](L08_Aldol_Reactions.md) aldol reaction 문서 참고)이다. enolate와 enone을 섞으면 두 갈래가 생긴다.
+그런데 enolate는 carbonyl을 직접 칠 수도 있다. 그것이 바로 aldol reaction(→ [L8](L08_Aldol_Reactions.md) aldol reaction 문서 참고)이다. enolate와 enone을 섞으면 두 갈래가 생긴다.
 - **conjugate addition(촉진해야 할 것)**: 1,5-다이카르보닐로 간다.
-- **직접 첨가 = aldol(피해야 할 것)**: 3차 alkoxide를 거쳐 β-hydroxy 카르보닐이 된다. 이 aldol 단계는 **가역적**이다.
+- **직접 첨가 = aldol(피해야 할 것)**: 3차 alkoxide를 거쳐 β-hydroxy carbonyl이 된다. 이 aldol 단계는 **가역적**이다.
 
 aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오면 결국 비가역적이고 thermodynamic으로 유리한 conjugate addition 쪽으로 흘러간다(3.3절의 논리와 같다).
 
-보충: 따라서 conjugate addition를 돕는 전략은 모두 "aldol을 더 쉽게 되돌리는" 방향이다. (1) enolate를 더 안정하게 만들면(예: malonic ester처럼 EWG 두 개) aldol 생성물에서 그 안정한 anion이 다시 떨어져 나가기 쉬워지고, 덤으로 aldol 생성물이 더 붐벼서 불안정해진다. (2) 받개의 카르보닐을 덜 친전자적으로 ester, amide aldol 자체가 덜 일어나고 더 잘 되돌려진다. 4.3절과 4.4절의 예들은 모두 이 두 전략의 응용이다. (보충 근거: Clayden p.605–606)
+보충: 따라서 conjugate addition을 돕는 전략은 모두 "aldol을 더 쉽게 되돌리는" 방향이다. (1) enolate를 더 안정하게 만들면(예: malonic ester처럼 EWG 두 개) aldol 생성물에서 그 안정한 anion이 다시 떨어져 나가기 쉬워지고, 덤으로 aldol 생성물이 더 붐벼서 불안정해진다. (2) 받개의 carbonyl을 덜 친전자적으로 ester, amide aldol 자체가 덜 일어나고 더 잘 되돌려진다. 4.3절과 4.4절의 예들은 모두 이 두 전략의 응용이다. (보충 근거: Clayden p.605–606)
 
-받개의 카르보닐 치환기 R이 바뀌면 conjugate addition 경향은 다음 순서로 커진다.
+받개의 carbonyl 치환기 R이 바뀌면 conjugate addition 경향은 다음 순서로 커진다.
 
 **R = H < alkyl < OR < NR2**
 
-이 순서는 3.1절의 표를 뒤집은 것과 같다. amide는 카르보닐이 가장 덜 친전자적이어서 conjugate addition를 가장 잘 받는다. 예:
+이 순서는 3.1절의 표를 뒤집은 것과 같다. amide는 carbonyl이 가장 덜 친전자적이어서 conjugate addition을 가장 잘 받는다. 예:
 
 `cyclohexanone --[LDA]--> 리튬 엔올레이트 --[(E)-CH3CH=CH-CONMe2]--> 2-(CH(CH3)CH2CONMe2)cyclohexanone` (60%)
 
@@ -248,7 +248,7 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 **Li+는 1,2(aldol)를 돕는다.**
 `ethyl isobutyrate ((CH3)2CH-CO2Et) --[LDA, -78 °C, THF]--> 리튬 엔올레이트 --[3-methylbut-2-enal, (CH3)2C=CH-CHO]--> (CH3)2C=CH-CH(OH)-C(CH3)2-CO2Et` (72%)
 
-이번에는 엔알을 받개로 썼는데 conjugate addition가 아니라 **aldol(1,2) 생성물**이 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic mechanism)를 만든다. 그래서 enolate 탄소가 바로 옆의 카르보닐 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
+이번에는 엔알을 받개로 썼는데 conjugate addition이 아니라 **aldol(1,2) 생성물**이 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic mechanism)를 만든다. 그래서 enolate 탄소가 바로 옆의 carbonyl 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
 
 **thermodynamic enolate로 4차 탄소 만들기.**
 `2-methylcyclopentanone + CH2=CH-CO2Me --[t-BuOK]--> 2-methyl-2-(CH2CH2CO2Me)cyclopentanone` (53%)
@@ -257,13 +257,13 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 2. 평형에서는 더 치환된(C=C에 Me가 붙은) **thermodynamic enolate**가 우세하다(→ [L7](L07_Enolate_Alkylation.md) 문서의 kinetic/thermodynamic enolate 참고).
 3. 이 enolate의 Me가 붙은 α-탄소가 methyl acrylate의 β-탄소를 공격해서 4차 탄소가 생긴다. 생긴 ester enolate가 protonate되면 반응이 끝난다.
 
-보충: 위의 두 예를 나란히 놓으면 counterion의 역할이 보인다. Li+는 산소에 강하게 결합해 aldol 생성물(lithium alkoxide)을 안정화하므로, lithium enolate는 열역학 지배가 필요한 conjugate addition에 불리하다. Na+나 K+ enolate는 더 해리되어 있어 aldol이 되돌아가기 쉽고, 그래서 conjugate addition가 유리하다. t-BuOK를 고른 데도 이유가 있다. 부피가 커서 methyl acrylate의 ester 카르보닐을 공격하지 않으면서, ketone을 가역적으로 일부 deprotonation할 만큼은 염기성이 있다. 예외적으로 3차 amide 받개는 카르보닐이 워낙 둔해서 lithium enolate로도 conjugate addition가 된다(4.2절의 LDA 예). (보충 근거: Clayden p.607, p.610)
+보충: 위의 두 예를 나란히 놓으면 counterion의 역할이 보인다. Li+는 산소에 강하게 결합해 aldol 생성물(lithium alkoxide)을 안정화하므로, lithium enolate는 열역학 지배가 필요한 conjugate addition에 불리하다. Na+나 K+ enolate는 더 해리되어 있어 aldol이 되돌아가기 쉽고, 그래서 conjugate addition이 유리하다. t-BuOK를 고른 데도 이유가 있다. 부피가 커서 methyl acrylate의 ester carbonyl을 공격하지 않으면서, ketone을 가역적으로 일부 deprotonation할 만큼은 염기성이 있다. 예외적으로 3차 amide 받개는 carbonyl이 워낙 둔해서 lithium enolate로도 conjugate addition이 된다(4.2절의 LDA 예). (보충 근거: Clayden p.607, p.610)
 
 (출처: L11 p.16)
 
 ### 4.4 안정한 enolate: 1,3-다이카르보닐과 nitro알케인
 
-양쪽에서 EWG가 안정화하는 "안정한 enolate(stable enolate)"는 무른 nucleophile라서 conjugate addition를 잘 한다.
+양쪽에서 EWG가 안정화하는 "안정한 enolate(stable enolate)"는 무른 nucleophile라서 conjugate addition을 잘 한다.
 
 **1,3-다이카르보닐 화합물**:
 `CH2(CO2Et)2 + CH3CH=CH-CO2Et --[NaOEt, EtOH, reflux 1 h]--> (EtO2C)2CH-CH(CH3)-CH2-CO2Et`
@@ -274,9 +274,9 @@ malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)
 - `I-(CH2)4-CH=CH-CO2Me + CH3NO2 --[Cs2CO3, DMF, 20 °C]--> [I-(CH2)4-CH(CH2NO2)-CH2CO2Me] --> methyl 2-(2-nitrocyclohexyl)acetate` (65%)
   1. nitro메테인의 anion이 enester의 β-탄소에 conjugate addition한다(분자 간).
   2. 생성물의 CH2NO2는 여전히 산성 α-H를 갖는다. 그래서 다시 deprotonate된 nitro네이트 탄소가 같은 분자의 C-I를 SN2로 공격해 고리를 닫는다(분자 내 alkylation).
-  3. 결과는 NO2와 CH2CO2Me가 이웃한 탄소에 붙은 cyclohexane이다. conjugate addition와 alkylation가 연달아 일어난 셈이다.
+  3. 결과는 NO2와 CH2CO2Me가 이웃한 탄소에 붙은 cyclohexane이다. conjugate addition과 alkylation이 연달아 일어난 셈이다.
 
-보충: nitro group은 pKa 기준으로 카르보닐 두 개에 맞먹는 EWG다(nitro알케인 α-H의 pKa 약 10). 그래서 Al2O3, K2CO3, amine 같은 아주 약한 염기로도 nitro네이트가 생기고, ketone·ester 쪽의 자기 축합 같은 부반응을 피할 수 있다. 또 반응은 **염기 촉매**로 돈다. 첨가 직후 생긴 enolate(conjugate acid pKa 약 20–25)가 nitro네이트보다 훨씬 강한 염기라서, 다음 nitro알케인 분자에서 양성자를 떼어 새 nucleophile를 만들어 주기 때문이다. 위 고리화 예에서 Cs2CO3를 쓴 것은 큰 Cs+가 완전히 이온성인 염을 만들어 carbonic acid 이온이 염기성을 온전히 발휘하게 하기 때문이다. (보충 근거: Clayden p.611–612)
+보충: nitro group은 pKa 기준으로 carbonyl 두 개에 맞먹는 EWG다(nitro알케인 α-H의 pKa 약 10). 그래서 Al2O3, K2CO3, amine 같은 아주 약한 염기로도 nitro네이트가 생기고, ketone·ester 쪽의 자기 축합 같은 부반응을 피할 수 있다. 또 반응은 **염기 촉매**로 돈다. 첨가 직후 생긴 enolate(conjugate acid pKa 약 20–25)가 nitro네이트보다 훨씬 강한 염기라서, 다음 nitro알케인 분자에서 양성자를 떼어 새 nucleophile을 만들어 주기 때문이다. 위 고리화 예에서 Cs2CO3를 쓴 것은 큰 Cs+가 완전히 이온성인 염을 만들어 carbonic acid 이온이 염기성을 온전히 발휘하게 하기 때문이다. (보충 근거: Clayden p.611–612)
 
 (출처: L11 p.17)
 
@@ -291,7 +291,7 @@ enamine은 aldehyde나 ketone이 **2차 amine**과 반응해서 생긴다(→ [L
 `cyclohexanone + pyrrolidine --[cat. H+]--> 1-pyrrolidinylcyclohexene (엔아민)`
 `엔아민 --[1. R-X; 2. H2O, H+]--> 2-R-cyclohexanone`
 
-1. 질소의 비공유 전자쌍이 C=C 쪽으로 밀려서 enamine의 β-탄소(카르보닐이었던 탄소의 이웃)가 nucleophile가 된다. 이 탄소가 R-X를 SN2로 공격한다.
+1. 질소의 비공유 전자쌍이 C=C 쪽으로 밀려서 enamine의 β-탄소(carbonyl이었던 탄소의 이웃)가 nucleophile이 된다. 이 탄소가 R-X를 SN2로 공격한다.
 2. **iminium iminium**이 생긴다. iminium은 α-H를 잃고 enamine과 평형을 이룰 수 있다.
 3. 물과 산으로 가수분해하면 ketone이 다시 나오고, α-위치에 R이 붙어 있다.
 
@@ -307,7 +307,7 @@ enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addit
 
 두 경우 모두 enamine 탄소는 받개의 말단 CH2(β-탄소)에 붙는다. 생성물은 1,5-다이카르보닐 관계다. 세 번째 예(모폴린 enamine + EtO2C-CH=CH-NO2)는 빈칸이라서 연습 문제로 옮겼다.
 
-보충: enamine이 enol보다 나은 이유는 두 가지다. 질소가 산소보다 전자를 더 잘 밀어 주어 친핵성이 크고, 미리 정량적으로 만들어 둘 수 있다. 첨가 직후에는 enolate–iminium 쌍극성 이온이 생기는데, 빠른 양성자 이동으로 더 안정한 "카르보닐 + enamine" tautomer가 된다. 이 enamine은 반응이 끝날 때까지 그대로 있다가 산성 수용액 후처리에서 iminium을 거쳐 가수분해되고, 2차 amine은 염산염으로 씻겨 나간다. 그래서 가수분해는 별도 단계라기보다 후처리의 일부다. (보충 근거: Clayden p.608)
+보충: enamine이 enol보다 나은 이유는 두 가지다. 질소가 산소보다 전자를 더 잘 밀어 주어 친핵성이 크고, 미리 정량적으로 만들어 둘 수 있다. 첨가 직후에는 enolate–iminium 쌍극성 이온이 생기는데, 빠른 양성자 이동으로 더 안정한 "carbonyl + enamine" tautomer가 된다. 이 enamine은 반응이 끝날 때까지 그대로 있다가 산성 수용액 후처리에서 iminium을 거쳐 가수분해되고, 2차 amine은 염산염으로 씻겨 나간다. 그래서 가수분해는 별도 단계라기보다 후처리의 일부다. (보충 근거: Clayden p.608)
 
 (출처: L11 p.19)
 
@@ -317,13 +317,13 @@ enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addit
 
 ### 5.3 합성 응용: 도파민 길항제
 
-conjugate addition는 의약품 합성에도 쓰인다. 슬라이드의 예는 도파민 dopamine antagonist인 1-propyl-3-(2,5-dimethoxyphenyl)piperidine의 합성이다.[^5]
+conjugate addition은 의약품 합성에도 쓰인다. 슬라이드의 예는 도파민 dopamine antagonist인 1-propyl-3-(2,5-dimethoxyphenyl)piperidine의 합성이다.[^5]
 
 `ethyl 2-(2,5-dimethoxyphenyl)acetate --[CH2=CH-CN, Triton B (PhCH2NMe3+ OH-)]--> [빈칸 1] --[H2/Pd/C]--> [빈칸 2] --[alkylation and reduction]--> 생성물`
 
 Triton B는 수산화 benzyltrimethylammonium이고, ester α-H를 떼는 염기 역할을 한다. 빈칸은 연습 문제로 옮겼다.
 
-보충: Triton B 같은 4차 암모늄 수산화물을 쓰는 이유는, 유기 cation 덕분에 수산화 이온이 유기 용매에 녹기 때문이다. Clayden은 같은 경로를 "enolate의 acrylonitrile conjugate addition → nitrile의 1차 amine 환원 → (저절로 일어나는) 락탐 고리화 → alkylation와 amide 환원"으로 소개한다. 즉 H2/Pd/C 단계 뒤의 락탐 형성은 따로 시약이 필요 없는 자발적 반응이다. (보충 근거: Clayden p.612)
+보충: Triton B 같은 4차 암모늄 수산화물을 쓰는 이유는, 유기 cation 덕분에 수산화 이온이 유기 용매에 녹기 때문이다. Clayden은 같은 경로를 "enolate의 acrylonitrile conjugate addition → nitrile의 1차 amine 환원 → (저절로 일어나는) 락탐 고리화 → alkylation과 amide 환원"으로 소개한다. 즉 H2/Pd/C 단계 뒤의 락탐 형성은 따로 시약이 필요 없는 자발적 반응이다. (보충 근거: Clayden p.612)
 
 (출처: L11 p.20)
 
@@ -331,12 +331,12 @@ Triton B는 수산화 benzyltrimethylammonium이고, ester α-H를 떼는 염기
 
 > 개념 문서: [iminium-catalysed conjugate addition](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [iminium ion](../../wiki/개념/이미늄%20이온.md)
 
-지금까지는 nucleophile를 바꿔서 conjugate addition를 조절했다. 그러면 받개 쪽을 강화할 수는 없을까? 엔알을 2차 amine 촉매와 축합해 **iminium 이온**으로 바꾸면 된다. iminium 이온은 중성 카르보닐 화합물보다 더 친전자적이다. 양전하를 띤 C=N+가 C=O보다 전자를 더 세게 끌기 때문이다.
+지금까지는 nucleophile을 바꿔서 conjugate addition을 조절했다. 그러면 받개 쪽을 강화할 수는 없을까? 엔알을 2차 amine 촉매와 축합해 **iminium 이온**으로 바꾸면 된다. iminium 이온은 중성 carbonyl 화합물보다 더 친전자적이다. 양전하를 띤 C=N+가 C=O보다 전자를 더 세게 끌기 때문이다.
 
 슬라이드의 반응: 엔알 H-CO-CH=CH-R1과 pyrrole 유도체(R2, R3 치환, N-P)에 키랄 imidazolidinone 촉매(5-benzyl-2,2,3-trimethylimidazolidin-4-one, 20 mol%)를 넣으면 β-위치에 pyrrole C2가 붙은 aldehyde가 생긴다. 수율 68–90%, 87–97% ee, 12개 예시. R1은 방향족/지방족, R2·R3는 지방족, P = H, Me, allyl이다.[^6]
 
 crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음과 같다.
-1. **iminium 형성**: 촉매의 2차 amine(N-H)이 crotonaldehyde와 축합해서 α,β-불포화 iminium 이온이 된다.
+1. **iminium 형성**: 촉매의 2차 amine(N-H)이 crotonaldehyde와 축합해서 α,β-unsaturated iminium 이온이 된다.
 2. **입체선택적 conjugate addition**: N-methylpyrrole의 C2(nucleophile, 무른 방향족 π계)가 iminium의 β-탄소(electrophile)를 공격한다. 이때 촉매의 benzyl group이 한쪽 면을 가리고 있다. 그래서 pyrrole은 **benzyl group을 피해 반대쪽(아래쪽) 면**에서 접근한다. 생성물은 촉매 쪽 enamine과 pyrrole륨 cation(방향족성이 깨진 상태)이다.
 3. **재방향족화**: pyrrole륨에서 H+가 빠지면서 pyrrole의 방향족성이 회복된다.
 4. **가수분해**: iminium/enamine 부분이 가수분해되어 (R)-3-(1-methylpyrrol-2-yl)butanal이 나오고, 촉매가 재생된다.
@@ -349,18 +349,18 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 
 *그림: 2단계(입체선택적 conjugate addition). 왼쪽 위는 촉매와 crotonaldehyde가 만든 iminium ion이다(빨간 C=N⁺와 C=C가 받개). 아래의 N-methylpyrrole(파랑)에서 질소 전자쌍이 고리로 밀려 들어가고, 고리 C=C 전자가 옮겨 가며, 파란 C2=C3의 π 전자가 iminium의 β-탄소를 공격한다. 동시에 받개의 C=C 전자는 C–C(=N⁺) 자리로, C=N⁺의 π 전자는 질소로 간다. 오른쪽 생성물은 촉매 쪽 enamine과 pyrrolium cation이며, 새 C–C 결합(초록 점선 쐐기)은 슬라이드처럼 benzyl group(굵은 쐐기)를 피한 아래쪽 면 공격의 결과다. 이후 H⁺가 빠져 재방향족화하고 가수분해되면 (R)-aldehyde가 나온다. (출처: L11 p.21)*
 
-## 7. β-leaving group이 있는 conjugate addition와 SNAr
+## 7. β-leaving group이 있는 conjugate addition과 SNAr
 
 > 개념 문서: [addition-elimination](../../wiki/반응/첨가-제거%20반응.md), [SNAr](../../wiki/반응/친핵성%20방향족%20치환.md), [Meisenheimer complex](../../wiki/개념/마이젠하이머%20착물.md)
 
 ### 7.1 첨가-제거 메커니즘
 
-β-탄소에 leaving group(예: F)가 붙어 있으면 어떻게 될까? conjugate addition로 생긴 enolate가 그냥 protonate되지 않는다. 대신 전자를 되밀어 leaving group을 내보낸다. 결과적으로 β-leaving group이 nucleophile로 **치환**된다.
+β-탄소에 leaving group(예: F)가 붙어 있으면 어떻게 될까? conjugate addition으로 생긴 enolate가 그냥 protonate되지 않는다. 대신 전자를 되밀어 leaving group을 내보낸다. 결과적으로 β-leaving group이 nucleophile로 **치환**된다.
 
 `1-(2-fluorocyclohex-1-enyl)ethanone + R2NH --> 1-(2-NR2-cyclohex-1-enyl)ethanone`
 1. **addition**: R2NH의 질소가 F가 붙은 β-탄소를 공격한다. C=C의 π전자는 산소로 가서 enolate가 된다. 이때 β-탄소는 sp3가 되고 N과 F가 함께 붙어 있다.[^7]
 2. **elimination**: enolate 산소의 전자가 되돌아와 C=O를 다시 만든다. 동시에 α=β 이중결합이 재생되면서 F-가 떨어진다.
-3. 결과는 β-아미노 enone이다. C=C가 다시 생겼다는 점이 단순 conjugate addition와 다르다.
+3. 결과는 β-아미노 enone이다. C=C가 다시 생겼다는 점이 단순 conjugate addition과 다르다.
 
 ![R2NH가 F가 붙은 β-탄소에 첨가한 뒤 F⁻가 떨어지는 첨가-제거 메커니즘](../../figures/L11/addition_elimination.svg)
 
@@ -372,7 +372,7 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 
 같은 논리를 benzene 고리에 적용하면 **nucleophilic aromatic substitution(SNAr)**이 된다. L3~L4의 electrophilic aromatic substitution(SEAr)에서는 방향족 고리가 nucleophile였다. 그런데 강한 EWG가 붙으면 고리가 전자 부족해져 반대로 nucleophile의 공격을 받는다.
 
-보충: 그렇다면 보통의 bromobenzene은 왜 HO-와 치환하지 않을까? SN2는 nucleophile가 C–Br 결합 뒤쪽에서 일직선으로 들어와야 하는데, sp2 탄소의 C–Br 결합은 고리 평면 안에 있어서 뒤쪽이 곧 고리 안쪽이다. nucleophile가 고리 속으로 들어가 탄소를 뒤집을 수는 없으므로 **sp2 탄소에서는 SN2가 일어나지 않는다**. SN1도 불리하다. 생길 아릴 cation의 빈 오비탈이 p가 아니라 고리 밖을 향한 sp2 오비탈이라 안정화를 받지 못하기 때문이다. 그래서 halobenzene의 치환에는 첨가-제거라는 별도의 경로가 필요하고, 그 경로는 첨가로 생긴 음전하를 받아 줄 EWG가 있을 때만 열린다. (보충 근거: Clayden p.514–515)
+보충: 그렇다면 보통의 bromobenzene은 왜 HO-와 치환하지 않을까? SN2는 nucleophile이 C–Br 결합 뒤쪽에서 일직선으로 들어와야 하는데, sp2 탄소의 C–Br 결합은 고리 평면 안에 있어서 뒤쪽이 곧 고리 안쪽이다. nucleophile이 고리 속으로 들어가 탄소를 뒤집을 수는 없으므로 **sp2 탄소에서는 SN2가 일어나지 않는다**. SN1도 불리하다. 생길 아릴 cation의 빈 오비탈이 p가 아니라 고리 밖을 향한 sp2 오비탈이라 안정화를 받지 못하기 때문이다. 그래서 halobenzene의 치환에는 첨가-제거라는 별도의 경로가 필요하고, 그 경로는 첨가로 생긴 음전하를 받아 줄 EWG가 있을 때만 열린다. (보충 근거: Clayden p.514–515)
 
 `Ar(EWG)-X + Nu- --> [σ complex] --> Ar(EWG)-Nu + X-`
 1. **첨가**: Nu-가 X가 붙은 ipso 탄소를 공격한다. 그 탄소는 sp3가 되고, 음전하는 고리 전체(그리고 EWG)로 퍼진 anion성 **σ σ complex**에 놓인다.[^8]
@@ -422,12 +422,12 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 - **"1,2 생성물은 덜 안정하니 아예 안 생긴다"고 생각하기 쉽지만, 사실은** 시안화 이온 첨가에서는 저온에서 1,2(cyanohydrin)가 더 빨리 생기는 kinetic 생성물이다. 고온에서 가역 반응이 평형에 이르러야 1,4 생성물이 주로 남는다. (L11 p.13)
 - **"1,4-첨가는 Nu와 H가 1번과 4번 원자에 붙어 enol로 끝난다"고 생각하기 쉽지만, 사실은** enol은 intermediate일 뿐이고 곧 tautomerize해서 최종적으로는 C=C에 Nu와 H가 붙은 포화 ketone이 된다. (L11 p.9)
 - **"NaBH4는 enone의 C=O만 환원한다"고 생각하기 쉽지만, 사실은** cyclopentenone은 NaBH4/EtOH로 1,4 후 1,2가 일어나 cyclopentanol까지 간다. 반면 cinnamaldehyde는 1,2만 일어나 allyl alcohol에서 멈춘다. (L11 p.10)
-- **"lithium enolate + 엔알이면 Michael addition"라고 생각하기 쉽지만, 사실은** Li+가 aldehyde 산소에 배위해서 고리형 transition state를 만들기 때문에 aldol(1,2) 생성물이 나온다(72%). conjugate addition를 원하면 amide·ester처럼 덜 친전자적인 받개나 안정한 enolate, enamine을 쓴다. (L11 p.15, p.16)
+- **"lithium enolate + 엔알이면 Michael addition"라고 생각하기 쉽지만, 사실은** Li+가 aldehyde 산소에 배위해서 고리형 transition state를 만들기 때문에 aldol(1,2) 생성물이 나온다(72%). conjugate addition을 원하면 amide·ester처럼 덜 친전자적인 받개나 안정한 enolate, enamine을 쓴다. (L11 p.15, p.16)
 - **"SNAr에서도 I가 가장 좋은 leaving group"라고 생각하기 쉽지만, 사실은** SNAr에서는 F >> Cl ~ Br >> I다. 속도를 결정하는 것은 C-X 결합이 끊기는 단계가 아니라 첨가 단계다. (L11 p.23)
 - **"EWG만 있으면 위치에 상관없이 SNAr가 된다"고 생각하기 쉽지만, 사실은** leaving group이 EWG의 오쏘/파라에 있어야 음전하가 EWG로 비편재화된다. (L11 p.23)
-- **"짝지음 alkene은 electrophile가 되었으니 Br2 같은 electrophile와는 반응하지 않는다"고 생각하기 쉽지만, 사실은** α,β-불포화 카르보닐 화합물도 Br2 첨가는 (더 느리게나마) 한다. EWG는 alkene의 친핵성을 줄일 뿐 없애지 않는다. alkene과 방향족 고리의 기본 성격은 여전히 nucleophile이고, 이 강의는 예외적으로 electrophile처럼 구는 경우를 다룬다. (보충 근거: Clayden p.499, p.526)
+- **"짝지음 alkene은 electrophile이 되었으니 Br2 같은 electrophile와는 반응하지 않는다"고 생각하기 쉽지만, 사실은** α,β-unsaturated carbonyl 화합물도 Br2 첨가는 (더 느리게나마) 한다. EWG는 alkene의 친핵성을 줄일 뿐 없애지 않는다. alkene과 방향족 고리의 기본 성격은 여전히 nucleophile이고, 이 강의는 예외적으로 electrophile처럼 구는 경우를 다룬다. (보충 근거: Clayden p.499, p.526)
 - **"lithium enolate도 염기 조건이니 Michael 첨가에 그냥 쓰면 된다"고 생각하기 쉽지만, 사실은** Li+가 alkoxide 산소를 강하게 붙잡아 aldol 생성물을 안정화하므로 열역학 지배가 필요한 conjugate addition에는 불리하다. Na/K enolate(예: t-BuOK), 안정한 enolate, enamine이 더 믿을 만하다. 예외는 3차 amide처럼 아주 둔한 받개다. (보충 근거: Clayden p.607, p.610)
-- **"amine은 borderline nucleophile니까 1,4를 안 한다"고 생각하기 쉽지만, 사실은** 슬라이드 예시처럼 1차·2차 amine은 enone과 acrylate에 1,4로 첨가해서 β-아미노 카르보닐을 준다. (L11 p.5, p.10)
+- **"amine은 borderline nucleophile니까 1,4를 안 한다"고 생각하기 쉽지만, 사실은** 슬라이드 예시처럼 1차·2차 amine은 enone과 acrylate에 1,4로 첨가해서 β-아미노 carbonyl을 준다. (L11 p.5, p.10)
 
 ---
 
@@ -498,7 +498,7 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 (근거: L11 p.6–8, p.11)
 
 **문제 2**
-(i) 1-methyl-2-cyclohexene-1-올(1,2-첨가, 95%). (ii) 3-methylcyclohexanone(1,4-첨가, 97%). C-Mg 결합은 분극이 커서 탄소가 단단한 nucleophile가 되고, 단단한 친전자 자리인 카르보닐 탄소를 공격한다. Cu(1.9)는 Mg(1.3)보다 전기음성도가 커서 C-Cu 결합의 분극이 작다. 그래서 cuprate는 무른 nucleophile가 되어 무른 β-탄소를 공격한다. (근거: L11 p.6, p.11, p.12)
+(i) 1-methyl-2-cyclohexene-1-올(1,2-첨가, 95%). (ii) 3-methylcyclohexanone(1,4-첨가, 97%). C-Mg 결합은 분극이 커서 탄소가 단단한 nucleophile이 되고, 단단한 친전자 자리인 carbonyl 탄소를 공격한다. Cu(1.9)는 Mg(1.3)보다 전기음성도가 커서 C-Cu 결합의 분극이 작다. 그래서 cuprate는 무른 nucleophile이 되어 무른 β-탄소를 공격한다. (근거: L11 p.6, p.11, p.12)
 
 **문제 3**
 5–10 °C에서는 cyanohydrin CH2=CH-C(OH)(CN)CH3(1,2, kinetic 생성물 P1, 가역)이 생긴다. 80 °C에서는 NC-CH2CH2-CO-CH3(1,4, thermodynamic 생성물 P2)이 생긴다. 1,2-첨가의 활성화 에너지가 더 낮아 저온에서 빨리 생긴다. 하지만 1,2는 C=O π(약 369 kJ/mol)를 잃고 1,4는 더 약한 C=C π(약 280 kJ/mol)를 잃으므로(둘 다 C-C σ를 얻음), 1,4 생성물이 더 안정하다. 고온에서는 1,2-첨가가 되돌려지므로 평형이 안정한 P2 쪽으로 이동한다. (근거: L11 p.13)
@@ -507,7 +507,7 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 enolate의 α-탄소가 받개의 β-탄소를 공격하면 새 enolate intermediate R1-CO-CH2-CH2-CH=C(O-)-R2가 생긴다. 이것이 protonation(그리고 tautomerization)되면 **1,5-다이카르보닐 화합물 R1-CO-CH2CH2CH2-CO-R2**가 된다. (근거: L11 p.14, p.24 요약 "1,5-dicarbonyl products")
 
 **문제 5**
-t-BuOK 조건에서는 deprotonation가 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 β-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
+t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 β-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
 
 **문제 6**
 **ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate**, 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro group이 ester보다 훨씬 강한 EWG이므로 nitro group을 기준으로 한 β-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitro네이트로 안정화된다. 그 뒤 H2O 처리로 iminium이 가수분해되어 ketone이 돌아온다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity을 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.610). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)
@@ -524,7 +524,7 @@ t-BuOK 조건에서는 deprotonation가 가역적이라서 두 enolate가 평형
 
 ## 각주
 
-[^1]: 보충: amine의 conjugate addition는 가역적이다. amine은 카르보닐에 1,2로도 첨가할 수 있지만 그 생성물(헤미아미날)은 쉽게 되돌아간다. 그래서 결국 안정한 1,4 생성물이 쌓인다. 3.3절의 kinetic/thermodynamic 논리와 같은 구도다. (보충 근거: Clayden p.582)
+[^1]: 보충: amine의 conjugate addition은 가역적이다. amine은 carbonyl에 1,2로도 첨가할 수 있지만 그 생성물(헤미아미날)은 쉽게 되돌아간다. 그래서 결국 안정한 1,4 생성물이 쌓인다. 3.3절의 kinetic/thermodynamic 논리와 같은 구도다. (보충 근거: Clayden p.582)
 
 [^2]: 엄밀히 말하면 이 반응은 C=O에 1,2로 첨가한 뒤 Cl-가 떨어지는 친핵성 acyl 치환(첨가-제거)이다. 슬라이드는 첫 공격 위치를 기준으로 "1,2"라고 분류했다.
 

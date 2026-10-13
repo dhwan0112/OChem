@@ -15,7 +15,7 @@
 
 ## 정답 및 해설
 
-1. (→ [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl electrophile를 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
+1. (→ [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl electrophile을 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
 
 2. ethyl acetoacetate CH3COCH2CO2Et (76%)다. 후처리 전에는 소듐 acetoacetate [CH3CO–CH–CO2Et]⁻ Na⁺와 EtOH로 존재하며, EtOH는 증류로 제거된다. HCl 처리 후 중성 β-ketoester가 얻어진다. (p.5)
 
@@ -27,6 +27,6 @@
 
 6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-one)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 α-탄소는 H가 없는 4차 탄소이므로 CH3만 enolization되고, oxalate는 enolization되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
 
-7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile와 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation가 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로(→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)의 고리 크기 각주) 실용적으로는 (i)이 낫다.
+7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile과 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation이 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로(→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)의 고리 크기 각주) 실용적으로는 (i)이 낫다.
 
 8. (→ [Dieckmann condensation](../wiki/반응/디크만%20축합.md)) 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-oxocyclohexanecarboxylate(cyclohexanone C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)

@@ -89,7 +89,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 - → [intramolecular aldol reaction](../wiki/반응/분자내%20알돌%20반응.md)
 
 ### 7. enolate가 만나는 세 electrophile (p.33)
-- aldol(aldehyde/ketone → β-hydroxy carbonyl), Claisen(ester → 1,3-dicarbonyl), Michael(α,β-불포화 carbonyl → 1,5-dicarbonyl).
+- aldol(aldehyde/ketone → β-hydroxy carbonyl), Claisen(ester → 1,3-dicarbonyl), Michael(α,β-unsaturated carbonyl → 1,5-dicarbonyl).
 - → [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 8. 정리 (p.34)

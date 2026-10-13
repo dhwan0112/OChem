@@ -25,9 +25,9 @@
 
 이 문제의 핵심은 왜 약한 염기인 NEt3만으로 ylide가 만들어지고, 왜 그것이 분자 안의 ketone과 반응하여 고리를 닫는가이다.
 
-먼저 PPh3는 좋은 nucleophile이고 C-Br은 ester carbonyl에 이웃한 α-할로 ester 탄소이므로 SN2가 특히 빠르다. 그래서 phosphonium 염이 생긴다. 그런데 이 P⁺-CH2 수소는 양전하를 띤 인과 ester carbonyl 양쪽에 이웃해 있다. 즉 deprotonation로 생긴 탄소 anion이 ester enolate처럼 carbonyl로 비편재화되어 안정화된다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate 문서 참고). 이런 "안정화된 ylide(stabilized ylide)"는 산성이 충분히 강하므로 BuLi 같은 강염기 없이 NEt3로도 만들어진다.
+먼저 PPh3는 좋은 nucleophile이고 C-Br은 ester carbonyl에 이웃한 α-할로 ester 탄소이므로 SN2가 특히 빠르다. 그래서 phosphonium 염이 생긴다. 그런데 이 P⁺-CH2 수소는 양전하를 띤 인과 ester carbonyl 양쪽에 이웃해 있다. 즉 deprotonation으로 생긴 탄소 anion이 ester enolate처럼 carbonyl로 비편재화되어 안정화된다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate 문서 참고). 이런 "안정화된 ylide(stabilized ylide)"는 산성이 충분히 강하므로 BuLi 같은 강염기 없이 NEt3로도 만들어진다.
 
-이제 ylide 탄소는 nucleophile가 되어 같은 분자의 아릴 ketone carbonyl을 공격한다. 고리를 세어 보면 ylide C, ester C(=O), O, CH2, ketone C로 5원 고리이므로 분자 내 반응이 유리하다. 그 뒤 oxaphosphetane을 거쳐 강한 P=O 결합을 가진 Ph3P=O가 빠져나가면서 C=C가 생긴다. 그래서 생성물은 C=C가 락톤 carbonyl과 짝을 이룬 α,β-불포화 γ-락톤, 즉 butenolide이다. 안정화된 ylide는 보통 ketone과 잘 반응하지 않지만, 여기서는 분자 내 반응이고 환류 조건이므로 진행된다.
+이제 ylide 탄소는 nucleophile이 되어 같은 분자의 아릴 ketone carbonyl을 공격한다. 고리를 세어 보면 ylide C, ester C(=O), O, CH2, ketone C로 5원 고리이므로 분자 내 반응이 유리하다. 그 뒤 oxaphosphetane을 거쳐 강한 P=O 결합을 가진 Ph3P=O가 빠져나가면서 C=C가 생긴다. 그래서 생성물은 C=C가 락톤 carbonyl과 짝을 이룬 α,β-unsaturated γ-락톤, 즉 butenolide이다. 안정화된 ylide는 보통 ketone과 잘 반응하지 않지만, 여기서는 분자 내 반응이고 환류 조건이므로 진행된다.
 
 ### 핵심 개념
 
@@ -132,7 +132,7 @@ b:
 
 이 문제의 핵심은 왜 "CH2COCH3 하나를 붙이는" 일을 acetone이 아니라 acetoacetic ethyl로 하는가, 그리고 b에서 왜 enolate가 고리 하나를 더 만들 수 있는가이다.
 
-a는 전형적인 acetoacetic ester acetoacetic ester synthesis이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 geraniol의 OH는 나쁜 leaving group이므로 PBr3로 bromide로 바꾼다. allyl bromide이므로 SN2 반응성이 좋다. 그런데 acetone을 직접 enolate로 만들면 자기 aldol 축합이나 다중 alkylation가 섞이기 쉽다. 그래서 두 carbonyl 사이 CH2(pKa 약 11)를 가진 ethyl acetoacetate를 쓰면 NaOEt만으로도 깨끗하게 하나의 안정화 enolate가 생기고, 이것이 제라닐 bromide를 SN2로 alkylation한다. 그 뒤 비누화와 산성화로 β-keto acid을 만들고, 가열하면 6원 고리 transition state로 CO2가 빠져 enol을 거쳐 methyl ketone이 된다. 즉 ester는 활성화기 역할만 하고 사라지며, 결과는 "acetone enolate로 alkylation한 것"과 같다. 탄소 수를 확인하면 제라닐(C10) + CH2COCH3(C3) = C13으로 geranylacetone과 일치한다.
+a는 전형적인 acetoacetic ester acetoacetic ester synthesis이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 geraniol의 OH는 나쁜 leaving group이므로 PBr3로 bromide로 바꾼다. allyl bromide이므로 SN2 반응성이 좋다. 그런데 acetone을 직접 enolate로 만들면 자기 aldol 축합이나 다중 alkylation이 섞이기 쉽다. 그래서 두 carbonyl 사이 CH2(pKa 약 11)를 가진 ethyl acetoacetate를 쓰면 NaOEt만으로도 깨끗하게 하나의 안정화 enolate가 생기고, 이것이 제라닐 bromide를 SN2로 alkylation한다. 그 뒤 비누화와 산성화로 β-keto acid을 만들고, 가열하면 6원 고리 transition state로 CO2가 빠져 enol을 거쳐 methyl ketone이 된다. 즉 ester는 활성화기 역할만 하고 사라지며, 결과는 "acetone enolate로 alkylation한 것"과 같다. 탄소 수를 확인하면 제라닐(C10) + CH2COCH3(C3) = C13으로 geranylacetone과 일치한다.
 
 b는 분자 내 enolate alkylation(intramolecular enolate alkylation)이다(→ [L7](../notes/L07_Enolate_Alkylation.md) enolate alkylation 문서 참고). 먼저 2차 OH를 TsCl로 tosylate로 바꿔 좋은 leaving group으로 만든다. 그런데 ketone의 한쪽 α-탄소는 각 methyl이 붙은 4급 탄소여서 H가 없다. 그래서 NaOEt는 반대쪽 α-CH2에서만 enolate를 만들 수 있고, 반응 위치가 자동으로 정해진다. 이 enolate 탄소가 데칼린 골격을 가로질러 C-OTs 탄소 뒷면을 공격하면(SN2, 입체 반전) 새 C-C 결합이 생겨 삼환 ketone이 된다. SN2는 leaving group 정반대편에서의 공격을 요구하므로, 이 고리화가 가능한 것은 11의 OH(따라서 OTs)의 입체 배치가 enolate 탄소가 뒷면에서 닿을 수 있도록 미리 설계되어 있기 때문이다. 마지막으로 남은 ketone을 비티히 반응(Ph3P=CH2)으로 C=CH2로 바꾸면 사티벤의 exo-methylene이 완성된다.
 
@@ -140,7 +140,7 @@ b는 분자 내 enolate alkylation(intramolecular enolate alkylation)이다(→ 
 
 ### 핵심 개념
 
-a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarboxylation로 "R-CH2COCH3" 도입. b: tosylate를 leaving group으로 한 분자 내 enolate SN2 고리화 + 비티히 methylene화.
+a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarboxylation으로 "R-CH2COCH3" 도입. b: tosylate를 leaving group으로 한 분자 내 enolate SN2 고리화 + 비티히 methylene화.
 
 ---
 
@@ -181,7 +181,7 @@ a에서 LDA는 강하고 부피가 큰 비친핵성 염기이다. 그래서 este
 
 검토 의견: 공식 풀이는 14를 탈수 생성물 CH2=CH-CH=CH-CO2R로 제시하며, 이 문서에서도 그대로 공식 답으로 둔다. 다만 3단계 조건은 단지 "HCl 수용액"(일반적인 산성 후처리)이므로, 실제로는 β-hydroxy ester CH2=CH-CH(OH)-CH2-CO2R가 분리될 가능성이 높다. ester aldol 생성물은 ketone aldol 생성물에 비해 α-H 산성도가 낮아 E1cB 탈수가 잘 일어나지 않으며, 산 촉매 탈수(allyl cation 경유 E1)는 보통 가열이나 더 강한 조건이 필요하다. 시험에서 공식 답에 맞추려면 "산 처리로 탈수되어 짝 디엔 ester 형성"을 쓰되, 탈수 전의 β-hydroxy ester를 intermediate로 함께 보여 주는 것이 안전하다.
 
-b의 출발점은 역합성이다. 16은 C2가 4급 탄소이고 그 위에 CH3와 aldol 생성물 CH(OH)CH2CH2Ph가 있다. 그래서 C2에 methyl을 먼저 넣고, 그다음 같은 C2에서 aldol을 일으켜야 한다. 먼저 LDA/MeI로 enolate alkylation를 하여 2-methylcyclohexanone을 만든다. 그런데 2-methylcyclohexanone을 다시 LDA로 처리하면, LDA는 부피가 크므로 덜 치환된 C6에서 H를 떼어 내는 kinetic enolate를 만든다. 이것은 원하는 위치가 아니다. 그래서 Me3SiCl/Et3N 조건을 쓴다. 이 조건은 약염기·평형 조건이므로 더 치환되어 thermodynamic으로 안정한 C1=C2 silyl enol thermodynamic silyl enol ether를 준다(→ [L7](../notes/L07_Enolate_Alkylation.md) kinetic/thermodynamic enolate 문서 참고). silyl enol 에테르는 그 자체로는 친핵성이 약하지만, Lewis acid TiCl4가 aldehyde를 활성화하면 C2가 aldehyde를 공격하는 Mukaiyama aldol reaction이 일어난다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). 마지막으로 물 처리로 silyl group과 티타늄이 떨어지면 β-hydroxy ketone 16이 얻어진다. 즉 "thermodynamic enol 등가체를 silyl enol 에테르로 붙잡아 두고 Lewis acid으로 반응시키는" 것이 위치 선택성의 열쇠이다.
+b의 출발점은 역합성이다. 16은 C2가 4급 탄소이고 그 위에 CH3와 aldol 생성물 CH(OH)CH2CH2Ph가 있다. 그래서 C2에 methyl을 먼저 넣고, 그다음 같은 C2에서 aldol을 일으켜야 한다. 먼저 LDA/MeI로 enolate alkylation을 하여 2-methylcyclohexanone을 만든다. 그런데 2-methylcyclohexanone을 다시 LDA로 처리하면, LDA는 부피가 크므로 덜 치환된 C6에서 H를 떼어 내는 kinetic enolate를 만든다. 이것은 원하는 위치가 아니다. 그래서 Me3SiCl/Et3N 조건을 쓴다. 이 조건은 약염기·평형 조건이므로 더 치환되어 thermodynamic으로 안정한 C1=C2 silyl enol thermodynamic silyl enol ether를 준다(→ [L7](../notes/L07_Enolate_Alkylation.md) kinetic/thermodynamic enolate 문서 참고). silyl enol 에테르는 그 자체로는 친핵성이 약하지만, Lewis acid TiCl4가 aldehyde를 활성화하면 C2가 aldehyde를 공격하는 Mukaiyama aldol reaction이 일어난다(→ [L8](../notes/L08_Aldol_Reactions.md) aldol 문서 참고). 마지막으로 물 처리로 silyl group과 티타늄이 떨어지면 β-hydroxy ketone 16이 얻어진다. 즉 "thermodynamic enol 등가체를 silyl enol 에테르로 붙잡아 두고 Lewis acid으로 반응시키는" 것이 위치 선택성의 열쇠이다.
 
 ### 핵심 개념
 

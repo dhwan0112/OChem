@@ -36,7 +36,7 @@
 (근거: L11 p.6–8, p.11)
 
 **문제 2**
-(i) 1-methyl-2-cyclohexene-1-올(1,2-첨가, 95%). (ii) 3-methylcyclohexanone(1,4-첨가, 97%). C-Mg 결합은 분극이 커서 탄소가 단단한 nucleophile가 되고, 단단한 친전자 자리인 카르보닐 탄소를 공격한다. Cu(1.9)는 Mg(1.3)보다 전기음성도가 커서 C-Cu 결합의 분극이 작다. 그래서 cuprate는 무른 nucleophile가 되어 무른 β-탄소를 공격한다. (근거: L11 p.6, p.11, p.12)
+(i) 1-methyl-2-cyclohexene-1-올(1,2-첨가, 95%). (ii) 3-methylcyclohexanone(1,4-첨가, 97%). C-Mg 결합은 분극이 커서 탄소가 단단한 nucleophile이 되고, 단단한 친전자 자리인 carbonyl 탄소를 공격한다. Cu(1.9)는 Mg(1.3)보다 전기음성도가 커서 C-Cu 결합의 분극이 작다. 그래서 cuprate는 무른 nucleophile이 되어 무른 β-탄소를 공격한다. (근거: L11 p.6, p.11, p.12)
 
 **문제 3**
 5–10 °C에서는 cyanohydrin CH2=CH-C(OH)(CN)CH3(1,2, kinetic 생성물 P1, 가역)이 생긴다. 80 °C에서는 NC-CH2CH2-CO-CH3(1,4, thermodynamic 생성물 P2)이 생긴다. 1,2-첨가의 활성화 에너지가 더 낮아 저온에서 빨리 생긴다. 하지만 1,2는 C=O π(약 369 kJ/mol)를 잃고 1,4는 더 약한 C=C π(약 280 kJ/mol)를 잃으므로(둘 다 C-C σ를 얻음), 1,4 생성물이 더 안정하다. 고온에서는 1,2-첨가가 되돌려지므로 평형이 안정한 P2 쪽으로 이동한다. (근거: L11 p.13)
@@ -45,7 +45,7 @@
 enolate의 α-탄소가 받개의 β-탄소를 공격하면 새 enolate intermediate R1-CO-CH2-CH2-CH=C(O-)-R2가 생긴다. 이것이 protonation(그리고 tautomerization)되면 **1,5-다이카르보닐 화합물 R1-CO-CH2CH2CH2-CO-R2**가 된다. (근거: L11 p.14, p.24 요약 "1,5-dicarbonyl products")
 
 **문제 5**
-t-BuOK 조건에서는 deprotonation가 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 β-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
+t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 β-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
 
 **문제 6**
 **ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate**, 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro group이 ester보다 훨씬 강한 EWG이므로 nitro group을 기준으로 한 β-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitro네이트로 안정화된다. 그 뒤 H2O 처리로 iminium이 가수분해되어 ketone이 돌아온다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity을 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.610). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)

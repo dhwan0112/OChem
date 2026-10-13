@@ -15,7 +15,7 @@
 
 ## 정답 및 해설
 
-1. (a) (CH₃)₂C(OMe)CH₂OH. 산이 epoxide를 protonate하면 느슨한 S<sub>N</sub>2 transition state에서 3차 탄소에 부분 양전하가 쌓이므로 MeOH가 3차 탄소를 공격한다(전자 효과). (b) (CH₃)₂C(OH)CH₂OMe. protonation가 없으면 순수 S<sub>N</sub>2이므로 MeO⁻가 덜 붐비는 1차 탄소를 공격한다(입체 효과). (L2 p.8-9)
+1. (a) (CH₃)₂C(OMe)CH₂OH. 산이 epoxide를 protonate하면 느슨한 S<sub>N</sub>2 transition state에서 3차 탄소에 부분 양전하가 쌓이므로 MeOH가 3차 탄소를 공격한다(전자 효과). (b) (CH₃)₂C(OH)CH₂OMe. protonation이 없으면 순수 S<sub>N</sub>2이므로 MeO⁻가 덜 붐비는 1차 탄소를 공격한다(입체 효과). (L2 p.8-9)
 2. *trans*-1,2-dibromocyclohexane(±)이 생긴다. Br⁻가 bromonium 이온의 반대쪽에서 S<sub>N</sub>2로 공격하므로 처음에는 두 Br이 모두 축 방향인 diaxial 형태로 생긴다. 이것이 고리 뒤집기를 거쳐 두 Br이 적도 방향인 diequatorial 형태로 바뀐다. (L2 p.10)
 3. *trans*-2-bromo-1-methylcyclohexanol(±)이 생긴다. OH는 methyl이 붙은 3차 탄소에, Br은 2차 탄소에 서로 anti로 붙는다. 근거는 L2 p.12의 alcohol 예와 같은 원리(느슨한 S<sub>N</sub>2, 3차 탄소가 양전하 안정화)다.
 4. syn 첨가이므로 *E*-alkene에서는 두 OH와 R이 지그재그 사슬에서 서로 반대쪽에 놓인 diol이 생긴다. 피셔 투영식으로는 *threo*형이며, R이 같으면 **라세미체**다. *Z*-alkene에서는 *erythro*형이 생기며, R이 같으면 **메소 화합물**이다. 예를 들어 *trans*-2-butene은 (2*R*,3*R*)/(2*S*,3*S*)-2,3-butanediol 라세미체를, *cis*-2-butene은 *meso*-2,3-butanediol을 준다. (원리: L2 p.14-15. 메소/라세미 판정은 표준 입체화학에 따른 보충 설명.) (보충 근거: Wade p.365)

@@ -4,7 +4,7 @@
 
 ## 문제
 
-1. cyclopentanone을 산 촉매 조건에 두었을 때의 최종 생성물을 쓰고, (a) enolization, (b) aldol addition, (c) 탈수 단계의 nucleophile·electrophile와 intermediate를 설명하라. 탈수는 E1과 E1cB 중 어느 경로인가?
+1. cyclopentanone을 산 촉매 조건에 두었을 때의 최종 생성물을 쓰고, (a) enolization, (b) aldol addition, (c) 탈수 단계의 nucleophile·electrophile과 intermediate를 설명하라. 탈수는 E1과 E1cB 중 어느 경로인가?
 
 2. 다음 화합물을 평형 enol 함량이 작은 것부터 큰 것 순으로 나열하라: acetone, cyclohexanone, methyl acetoacetate(CH₃COCH₂CO₂Me), pentane-2,4-dione, CH₃COCH₂COCF₃.
 
@@ -26,7 +26,7 @@
 
 1. (→ [aldol reaction](../wiki/반응/알돌%20반응.md), [keto-enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md)) 최종 생성물은 2-cyclopentylidenecyclopentan-1-one이다.
    (a) H⁺가 carbonyl O를 protonate하고, α-C–H가 끊기며 enol(cyclopent-1-en-1-ol)이 생긴다.
-   (b) nucleophile는 enol의 C=C(α-탄소, 산소 비공유 전자쌍이 밀어줌), electrophile는 protonate된 cyclopentanone의 carbonyl 탄소다. protonate된 ketone intermediate가 H⁺를 잃으면 aldol 2-(1-hydroxycyclopentyl)cyclopentan-1-one이 된다.
+   (b) nucleophile은 enol의 C=C(α-탄소, 산소 비공유 전자쌍이 밀어줌), electrophile은 protonate된 cyclopentanone의 carbonyl 탄소다. protonate된 ketone intermediate가 H⁺를 잃으면 aldol 2-(1-hydroxycyclopentyl)cyclopentan-1-one이 된다.
    (c) 3차 OH가 protonate되고 H₂O가 떨어져 3차 carbocation이 생긴 뒤, 이웃 α-H가 빠져 C=O와 공액된 C=C가 생긴다. 슬라이드에 명시된 대로 **E1**이다.
    (출처: L10 p.3)
 
@@ -43,7 +43,7 @@
    참고: 같은 ketone을 Br₂/HOAc로 처리하면 주로 더 치환된 enol을 거쳐 3-bromobutane-2-one이 많이 생긴다(이유는 [α-halogenation](../wiki/반응/α-할로젠화.md)의 regioselectivity 절과 각주 참고).
    (출처: L10 p.9, p.10)
 
-5. (→ [α-halogenation](../wiki/반응/α-할로젠화.md)) 생성물은 2-bromo-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl group이 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enolization를 돕는다.
+5. (→ [α-halogenation](../wiki/반응/α-할로젠화.md)) 생성물은 2-bromo-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃), 수율 100 %다. acyl group이 전자끄는기로 benzene 고리를 electrophilic aromatic substitution에 대해 불활성화하므로, 고리 대신 carbonyl α-탄소가 enol을 거쳐 brominate된다. 촉매량의 AlCl₃는 enolization을 돕는다.
    (출처: L10 p.9)
 
 6. (→ [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md), [enamine](../wiki/개념/엔아민.md)) (1) 1-(cyclohex-1-en-1-yl)pyrrolidine(enamine), (2) 2-allylcyclohexanone의 iminium bromide, (3) 2-allylcyclohexanone(2-(prop-2-en-1-yl)cyclohexan-1-one) + pyrrolidine.
@@ -56,6 +56,6 @@
    (출처: L10 p.12)
 
 8. (→ [proline-catalyzed aldol reaction](../wiki/반응/프롤린%20촉매%20알돌%20반응.md)) (a) 생성물 34f는 CH₃COCH₂CH(OH)CH(CH₃)₂ (4-hydroxy-5-methyl헥산-2-one)이며, 97 % 수율, 96 % ee다. 34a 등과 같은 방향의 쐐기로 그려져 있다.
-   (b) proline N이 acetone carbonyl을 공격해 carbinolamine(I)이 되고, 물이 빠져 iminium(II), α-deprotonation로 enamine(III)이 된다. enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격하는 단계(transition state IV)에서 C–C 결합이 생기고, iminium(V) → 물 첨가(VI) → 생성물 방출과 proline 재생이 이어진다.
-   carboxylic acid은 transition state에서 aldehyde 산소에 수소결합(양성자 공여)해 electrophile를 활성화하고, aldehyde가 enamine의 한쪽 면으로 접근하도록 배향해 거울상 선택성을 만든다.
+   (b) proline N이 acetone carbonyl을 공격해 carbinolamine(I)이 되고, 물이 빠져 iminium(II), α-deprotonation으로 enamine(III)이 된다. enamine의 α-탄소가 aldehyde carbonyl 탄소를 공격하는 단계(transition state IV)에서 C–C 결합이 생기고, iminium(V) → 물 첨가(VI) → 생성물 방출과 proline 재생이 이어진다.
+   carboxylic acid은 transition state에서 aldehyde 산소에 수소결합(양성자 공여)해 electrophile을 활성화하고, aldehyde가 enamine의 한쪽 면으로 접근하도록 배향해 거울상 선택성을 만든다.
    (출처: L10 p.13, p.14)

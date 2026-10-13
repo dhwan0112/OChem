@@ -18,7 +18,7 @@
 **(a)**
 1. `벤젠 --[HNO3, H2SO4]--> 나이트로벤젠 --[H2, Pd/C]--> 아닐린`
 2. `아닐린 --[CH3CH2CH2COCl (뷰타노일 클로라이드), base]--> N-페닐뷰탄아마이드 (PhNHCOPr)`
-3. `PhNHCOPr --[2,5-다이브로모헥세인 (CH3CHBrCH2CH2CHBrCH3), AlCl3]-->` amide의 para 위치가 alkylate된 intermediate [p-(PrCONH)C6H4–CH(CH3)CH2CH2CHBrCH3] `--[AlCl3]-->` 분자 내 두 번째 alkylation로 고리가 닫힌 5,8-dimethyl테트랄린 amide
+3. `PhNHCOPr --[2,5-다이브로모헥세인 (CH3CHBrCH2CH2CHBrCH3), AlCl3]-->` amide의 para 위치가 alkylate된 intermediate [p-(PrCONH)C6H4–CH(CH3)CH2CH2CHBrCH3] `--[AlCl3]-->` 분자 내 두 번째 alkylation으로 고리가 닫힌 5,8-dimethyl테트랄린 amide
 4. `--[LiAlH4 또는 BH3]-->` amide C=O가 CH2로 환원되어 N-butyl amine(목표물)
 
 **(b)**
@@ -38,7 +38,7 @@
 
 이 문제의 핵심은 왜 이 순서로 치환기를 도입해야 하느냐이다. 방향족 다치환 화합물 합성에서는 먼저 들어간 치환기가 다음 치환기의 위치를 정한다. 그래서 역합성할 때는 "어떤 치환기가 다른 치환기를 원하는 자리로 보내 줄 수 있는가"를 먼저 따져야 한다.
 
-(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation는 protection와 위치 조절을 동시에 해 준다. 첫 번째 alkylation는 amide의 para 위치에서 일어난다. 두 번째 alkylation는 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl group의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치(β 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl group이 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
+(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation은 protection과 위치 조절을 동시에 해 준다. 첫 번째 alkylation은 amide의 para 위치에서 일어난다. 두 번째 alkylation은 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl group의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치(β 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl group이 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
 
 다만 몇 가지는 알아 두어야 한다. 2,5-dibromohexane에서 생기는 이차 carbocation은 1,2-수소 이동으로 다른 이차 cation과 섞일 수 있다. 또 생성물의 두 methyl 입체중심(C5, C8)은 cis/trans 부분입체이성질체 혼합물로 얻어진다. 공식 풀이는 이 부분을 다루지 않았다. 이런 점은 시험 답안의 큰 줄기를 바꾸지는 않는다. (→ [L3](../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) EAS 강의 Friedel–Crafts 부분, L05 문서의 amide 환원 부분 참고)
 
@@ -46,7 +46,7 @@
 
 (c)에서는 세 치환기의 관계가 열쇠다. OEt와 CH(OH)tBu는 서로 para이고, Br은 OEt의 ortho이자 acyl group의 meta에 있다. 그래서 순서는 이렇다. 먼저 phenol을 Williamson ether 합성으로 ethoxybenzene으로 만든다. 다음으로 강한 o/p 지향기인 OEt가 피발로일기를 para로 보낸다(부피가 커서 ortho는 불리하다). 그다음 bromination 단계에서는 OEt(o/p 지향)와 acyl group(meta 지향)가 둘 다 같은 자리, 즉 OEt의 ortho이자 acyl의 meta를 가리킨다. 이처럼 두 지향 효과가 일치하므로 regioselectivity이 높다. 마지막으로 NaBH4가 ketone만 이차 alcohol로 환원한다.
 
-**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 decarbonylation되기 쉽다. 그러면 tert-butylation 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation가 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-bromo-4-ethoxy벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
+**검토 의견:** (c)의 피발로일 chloride Friedel–Crafts acylation에는 잘 알려진 부반응이 있다. 피발로일 acylium 이온 (CH3)3C–C≡O⁺는 CO를 잃고 안정한 tert-butyl cation으로 decarbonylation되기 쉽다. 그러면 tert-butylation 생성물(4-tert-butylethoxybenzene)이 경쟁적으로 생긴다. 아니솔이나 ethoxybenzene처럼 강하게 활성화된 고리에서는 acylation이 상당 부분 일어날 수 있다. 그래서 공식 풀이가 틀렸다고 보기는 어렵다. 다만 수율과 선택성에 문제가 될 수 있다. 대안으로는 ethoxybenzene을 먼저 bromination·포밀화하여 3-bromo-4-ethoxy벤즈알데하이드를 만든 뒤, tBuMgCl이나 tBuLi를 첨가하는 경로를 생각할 수 있다.
 
 ### 핵심 개념
 
@@ -78,13 +78,13 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 그런데 평형 속에 아주 소량 남아 있는 자유 aniline은 NH2 덕분에 benzene보다 엄청나게 반응성이 크다. 그래서 "양은 적지만 매우 빠른" 자유 aniline 경로(para 생성물)와 "양은 많지만 느린" anilinium 경로(meta 생성물)가 비슷한 속도로 경쟁한다. 그 결과 대략 1:1 혼합물이 나온다. anilinium 경로의 생성물은 마지막 후처리에서 염기로 중화되어 m-nitroaniline이 된다. 실제 문헌값은 para 약 51%, meta 약 47%, ortho 약 2% 수준이다.
 
-그래서 해결책은 질소의 염기성을 없애는 것이다. acetylation로 acetanilide를 만들면 질소 전자쌍이 carbonyl과 공명하여 염기성이 크게 떨어진다. 그래서 강산에서도 protonate되지 않는다. 그러면서도 고리에 대해서는 여전히 o/p 지향 활성화기로 작용한다. 게다가 acetyl아미노기는 부피가 커서 ortho 공격이 억제되고 para가 주생성물이 된다. nitration가 끝나면 산 수용액에서 가열해 amide를 가수분해하고 NH2를 되돌린다. 즉 acetyl group은 "염기성 차단 + 입체적 para 유도"를 동시에 하는 일시적 protecting group다. ortho 이성질체가 소량 생길 수 있지만 문제의 요구(meta 배제)는 충족된다. (→ [L4](../notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) EAS 강의의 aniline 부분, L12 문서의 protecting group 개념 참고)
+그래서 해결책은 질소의 염기성을 없애는 것이다. acetylation으로 acetanilide를 만들면 질소 전자쌍이 carbonyl과 공명하여 염기성이 크게 떨어진다. 그래서 강산에서도 protonate되지 않는다. 그러면서도 고리에 대해서는 여전히 o/p 지향 활성화기로 작용한다. 게다가 acetyl아미노기는 부피가 커서 ortho 공격이 억제되고 para가 주생성물이 된다. nitration이 끝나면 산 수용액에서 가열해 amide를 가수분해하고 NH2를 되돌린다. 즉 acetyl group은 "염기성 차단 + 입체적 para 유도"를 동시에 하는 일시적 protecting group이다. ortho 이성질체가 소량 생길 수 있지만 문제의 요구(meta 배제)는 충족된다. (→ [L4](../notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) EAS 강의의 aniline 부분, L12 문서의 protecting group 개념 참고)
 
 ### 핵심 개념
 
 - 강산 속 aniline ⇌ anilinium: NH2(o/p, 활성화) 대 NH3⁺(meta, 비활성화)의 경쟁.
-- acetylation로 질소 염기성을 낮추면 protonation가 막혀 para 선택적 nitration가 가능하다.
-- amide는 산/염기 가수분해로 제거되는 일시적 protecting group다.
+- acetylation으로 질소 염기성을 낮추면 protonation이 막혀 para 선택적 nitration이 가능하다.
+- amide는 산/염기 가수분해로 제거되는 일시적 protecting group이다.
 
 ---
 
@@ -170,7 +170,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 공식 풀이
 
-- 역합성: 목표 α,β-불포화 ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
+- 역합성: 목표 α,β-unsaturated ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
 - 정방향:
   1. `사이클로헥산올 --[DMP]--> 사이클로헥산온`
   2. `사이클로헥산온 --[Ph3P=CHCH3 (Wittig)]--> 에틸리덴사이클로헥세인`
@@ -182,14 +182,14 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 해설
 
-이 문제의 핵심은 왜 탄소를 하나씩 붙이는 이런 우회로가 필요하냐이다. 목표물은 cyclohexyl기에 탄소 4개짜리 불포화 ester 사슬이 붙은 구조다. 그런데 출발물인 cyclohexane올의 산소는 고리 탄소에 붙어 있다. 그래서 고리 탄소에 곁사슬 탄소를 붙이는 C–C 결합 형성이 두 번 필요하다. 하나는 고리–CH(CH3) 결합이고, 다른 하나는 C=C 결합이다. 두 번 모두 carbonyl olefination로 해결하는 것이 이 풀이의 설계다.
+이 문제의 핵심은 왜 탄소를 하나씩 붙이는 이런 우회로가 필요하냐이다. 목표물은 cyclohexyl기에 탄소 4개짜리 unsaturated ester 사슬이 붙은 구조다. 그런데 출발물인 cyclohexane올의 산소는 고리 탄소에 붙어 있다. 그래서 고리 탄소에 곁사슬 탄소를 붙이는 C–C 결합 형성이 두 번 필요하다. 하나는 고리–CH(CH3) 결합이고, 다른 하나는 C=C 결합이다. 두 번 모두 carbonyl olefination으로 해결하는 것이 이 풀이의 설계다.
 
 먼저 DMP(Dess–Martin periodinane)로 이차 alcohol을 ketone으로 산화한다. 다음으로 비안정화 ylide Ph3P=CHCH3(ethyl트라이페닐포스포늄 염 + BuLi)로 Wittig 반응을 해 ethylylidenecyclohexane을 만든다. 고리 탄소가 대칭이라 E/Z 문제는 없다. 그런데 이제 이 alkene의 곁사슬 탄소에 산소를 넣어야 한다. 수소붕소화는 B를 덜 치환된 탄소로 보낸다. 고리 쪽 탄소는 삼치환이고 곁사슬 CH는 이치환이므로 B는 곁사슬 CH로 간다. 산화(H2O2, 보통 NaOH와 함께) 후 1-cyclohexylethanol이 되고, 다시 DMP로 산화하면 cyclohexyl methyl ketone이 된다. 즉 Wittig + 수소붕소화 + 산화의 조합이 "ketone → 탄소 하나 늘어난 ketone"을 만드는 장치로 쓰였다.
 
-마지막 단계는 안정화된 인 ylide로 하는 olefination다. ester로 안정화된 ylide나 phosphonate anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 cyclohexyl와 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
+마지막 단계는 안정화된 인 ylide로 하는 olefination이다. ester로 안정화된 ylide나 phosphonate anion은 가역적으로 더하고 thermodynamic으로 유리한 경로를 밟는다. 그래서 큰 cyclohexyl과 CO2Et가 서로 반대쪽에 놓인 E-alkene을 주로 준다. 목표 구조도 CO2Et와 cyclohexyl이 trans인 E형이다. 그런데 Ph3P=CHCO2Et는 반응성이 낮아서 ketone과는 잘 반응하지 않는다. 그래서 실제로는 더 친핵적인 HWE(Horner–Wadsworth–Emmons) 시약을 쓰는 편이 낫다. HWE는 부산물(인산염)이 수용성이라 분리도 쉽다. 공식 풀이도 두 시약을 모두 제시했다. (→ [L6](../notes/L06_Oxidation_and_Alkene_Synthesis.md) 문서의 DMP·Wittig·HWE 부분, L02 문서의 수소붕소화 부분 참고)
 
 ### 핵심 개념
 
 - DMP: alcohol → aldehyde/ketone(온화한 산화).
 - 비안정화 ylide Wittig로 C=C를 만들고, 수소붕소화-산화(반-Markovnikov)로 곁사슬에 OH를 도입한다.
-- 안정화 ylide/HWE: α,β-불포화 ester, E 선택적. ketone에는 HWE가 더 효과적이다.
+- 안정화 ylide/HWE: α,β-unsaturated ester, E 선택적. ketone에는 HWE가 더 효과적이다.

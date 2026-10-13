@@ -15,7 +15,7 @@
 
 ## 정답 및 해설
 
-1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition를 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
+1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
 2. HOMO는 채워진 C=C π 궤도함수, LUMO는 비어 있는 Br-Br σ\* 궤도함수다. π 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 σ\*는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
 3. *cis*-2-butene에서는 *cis*-2,3-dimethyl옥시레인(메소 화합물)이, *trans*-2-butene에서는 *trans*-2,3-dimethyl옥시레인(라세미체)이 생긴다. 두 C-O 결합이 같은 면에서 동시에 생기므로 입체특이적이다. 메소/라세미 판정은 보충 설명이며, 원리는 L1 p.15의 스틸벤 예와 같다. (보충 근거: Clayden p.854)
 4. 주생성물은 1-bromo-1-phenyl에테인(PhCHBrCH₃)이다. H⁺가 말단 CH₂에 붙으면 공명 안정화된 benzyl cation이 생긴다. 반대로 붙으면 불안정한 1차 cation이 생기므로 그 경로는 일어나지 않는다. (L1 p.17)

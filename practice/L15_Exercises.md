@@ -45,5 +45,5 @@
 7. 정답: (a) 3-R'-4,5-cis-다이R-isoxazoline. (b) 3-R'-4,5-trans-다이R-isoxazoline. (c) 3-R'-5-R isoxazole(방향족, R이 O 옆 C5). (a)를 H2/Ni, H2O로 처리하면 N–O 수소화 분해 → β-hydroxy imine → 가수분해 → R'-CO-CH(R)-CH(OH)-R, syn-aldol 생성물.
    해설: 협동적 supra-supra [3+2]이므로 alkene 기하가 stereospecificity, cis 고리 관계가 syn aldol로 전달된다. trans였다면 anti aldol. (출처: L15 p.18–20)
 
-8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-쌍극 cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-쌍극 cycloaddition로 carbonyl + carbonyl oxide(1,3-쌍극자) → 재배향 후 1,3-쌍극 cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.
+8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-쌍극 cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-쌍극 cycloaddition으로 carbonyl + carbonyl oxide(1,3-쌍극자) → 재배향 후 1,3-쌍극 cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.
    해설: 노보넨의 C=C가 끊어지며 두 탄소가 모두 CHO가 되고, 남은 고리 골격(다리 CH2 포함)이 5원 고리가 된다. 원래 C=C 탄소들이 exo/endo 같은 면 관계를 유지하므로 cis. 노보넨처럼 같은 분자 안에서 두 carbonyl이 생기면 trioxolane도 분자 내에서 형성되지만 최종 결과는 같다. (출처: L15 p.21, 23)
