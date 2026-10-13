@@ -1,4 +1,6 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": "#f58a5c",
+  "cssTheme": "GitHub Theme"
 }
