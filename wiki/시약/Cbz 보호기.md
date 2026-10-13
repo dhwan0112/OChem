@@ -23,7 +23,15 @@ chloroformate(Cl–CO–OR″)로 carbamate를 만드는 일반형의 한 예다
 
 Cbz는 H2/Pd [hydrogenolysis](../반응/수소화분해.md)로 벗기는 것이 기본이고(→ [Pd/C](Pd-C.md)), 산(HBr/AcOH)으로도 벗길 수 있다. Cbz를 hydrogenolysis하면 benzyl C–O 결합이 끊겨 toluene과 carbamic acid(RNH-COOH)가 생기고, carbamic acid는 스스로 CO2를 내놓으며 유리 아민이 된다.[^1] 이 "carbamic acid → CO2 + 아민" 단계는 Boc, [Fmoc](Fmoc%20보호기.md)에서도 똑같이 마지막을 장식한다. (출처: L12 p.5, p.8)
 
+![Cbz의 benzyl C–O 결합이 H2/Pd로 끊겨 carbamic acid와 toluene이 되는 수소화분해](../../figures/L12/cbz_hydrogenolysis.svg)
+
+*그림: 보충(슬라이드에는 조건만 있다). H₂/Pd 조건에서 benzyl C–O 결합(빨강)이 끊기고, H₂의 수소(초록)가 양쪽 조각에 붙어 carbamic acid와 toluene이 된다. 금속 표면에서 일어나는 반응이라 굽은 화살표는 그리지 않았다. carbamic acid는 저절로 CO₂를 잃고 아민이 된다(이 단계의 화살표는 [Boc 보호기](Boc%20보호기.md)의 두 번째 그림 참고). (보충 근거: Clayden p.557)*
+
 보충: carbamate는 에스터와 아마이드의 "잡종"이지만 화학적 성질은 아마이드에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl기 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl기에 있다. 강산 HBr이 carbonyl 산소를 양성자화하면, 친핵성이 좋은 Br⁻가 **benzyl 탄소를 [SN2](../반응/SN2%20반응.md)로 공격**해 BnBr을 떼어 내고 carbamic acid가 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 Boc와 대비된다. Boc는 t-butyl기가 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br⁻처럼 좋은 nucleophile이 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
+
+![양성자화된 Cbz의 benzyl 탄소를 Br⁻가 SN2로 공격해 carbamic acid와 benzyl bromide가 되는 단계](../../figures/L12/cbz_hbr.svg)
+
+*그림: 보충. HBr이 carbonyl 산소를 양성자화한 상태(빨강 O⁺)에서, Br⁻(파랑)의 전자쌍이 benzyl 탄소(빨강)를 CH2–O 결합의 뒤쪽에서 SN2로 공격하고, CH2–O 결합(빨강)의 전자는 산소로 간다. carbamic acid(초록이 새 C=O)와 benzyl bromide(초록이 새 C–Br)가 생긴다. (보충 근거: Clayden p.557)*
 
 ## 선택성
 
