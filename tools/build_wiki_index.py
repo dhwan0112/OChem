@@ -268,9 +268,37 @@ def mdlink(text, target, from_dir):
     return f"[{text}]({url(rel)})"
 
 
+# 목록에 보일 영어 이름: 제목에 한글이 없으면 제목 그대로, 아래 표에 있으면 그것, 아니면 첫 영어 별칭
+ENGLISH_NAME = {
+    "엔올과 엔올레이트": "enol and enolate", "친전자체와 친핵체": "electrophile and nucleophile",
+    "입체특이성과 입체선택성": "stereospecificity and stereoselectivity", "초면과 대면": "suprafacial and antarafacial",
+    "콘로테이션과 디스로테이션": "conrotatory and disrotatory", "속도론적 지배와 열역학적 지배": "kinetic vs thermodynamic control",
+    "속도론적 엔올레이트와 열역학적 엔올레이트": "kinetic vs thermodynamic enolate",
+    "아자이드·나이트릴을 거친 아민 합성": "amine synthesis via azide and nitrile", "할로젠 첨가": "halogen addition",
+    "다이아조늄 염 반응": "diazonium salt reactions", "아민 합성 개관": "amine synthesis (overview)",
+    "알켄의 친전자성 첨가 개관": "electrophilic addition to alkenes (overview)", "엔올레이트 화학 개관": "enolate chemistry (overview)",
+    "이미늄 촉매 공액 첨가": "iminium-catalysed conjugate addition", "하드-소프트 산염기": "hard and soft acids and bases (HSAB)",
+    "SN2 반응": "SN2 reaction", "E1cB 제거": "E1cB elimination", "역 딜스-알더 반응": "retro-Diels–Alder reaction",
+    "보호기": "protecting group", "Boc 보호기": "Boc protecting group", "Cbz 보호기": "Cbz protecting group",
+    "Fmoc 보호기": "Fmoc protecting group", "THP 보호기": "THP protecting group", "벤질 에터 보호기": "benzyl ether protecting group",
+    "실릴 에터 보호기": "silyl ether protecting group",
+}
+
+
+def english_name(doc):
+    if not re.search(r"[가-힣]", doc["title"]):
+        return doc["title"]
+    if doc["title"] in ENGLISH_NAME:
+        return ENGLISH_NAME[doc["title"]]
+    for a in doc["aliases"]:
+        if re.search(r"[A-Za-z]", a) and not re.search(r"[가-힣]", a):
+            return a
+    return doc["title"]
+
+
 def link(doc, from_dir=None):
-    """위키 문서로 가는 링크. 보이는 글자는 문서 제목(예: Pd-C 파일의 제목 Pd/C)."""
-    return mdlink(doc["title"], doc["path"], from_dir or WIKI)
+    """위키 문서로 가는 링크. 보이는 글자는 영어 이름(학습자 선호), 주소는 한국어 파일 이름."""
+    return mdlink(english_name(doc), doc["path"], from_dir or WIKI)
 
 
 def hub(name, from_dir=None):
@@ -316,7 +344,7 @@ def build_front_page(docs):
     for cat in CATEGORIES:
         items = [d for d in docs if d["category"] == cat]
         lines += [f"## {cat} ({len(items)})", "", "| 문서 | 한 줄 요약 | 강의 |", "|---|---|---|"]
-        for d in sorted(items, key=lambda d: d["title"]):
+        for d in sorted(items, key=lambda d: english_name(d).lower()):
             lec = ", ".join(f"L{n}" for n in d["lectures"])
             lines.append(f"| {link(d)} | {short(d['summary'])} | {lec} |")
         lines.append("")
@@ -351,7 +379,7 @@ def build_hub_pages(docs):
             lec = sorted(n for n, v in UNIT.items() if v == u)
             lines += [f"## {UNIT_NAME.get(u, u.replace('-', ' '))} (L{lec[0]}" + (f"–L{lec[-1]})" if len(lec) > 1 else ")"), ""]
             for cat in CATEGORIES:
-                group = sorted((d for d in items if d["category"] == cat), key=lambda d: d["title"])
+                group = sorted((d for d in items if d["category"] == cat), key=lambda d: english_name(d).lower())
                 if group:
                     entries = [link(d) + (" ★" if "기출/Test1-2025" in d.get("tags", []) else "") for d in group]
                     lines.append(f"- **{cat}**: " + ", ".join(entries))
@@ -360,7 +388,7 @@ def build_hub_pages(docs):
     lines = ["---", "tags: [모음, 인명반응]", "---", "# 인명반응 목록", "",
              f"> 사람 이름이 붙은 반응, 시약, 규칙을 모았다. {note}", ""]
     for key, title in (("인명반응", "반응"), ("인명시약", "시약"), ("인명규칙", "규칙")):
-        group = sorted((d for d in docs if key in d.get("tags", [])), key=lambda d: d["title"])
+        group = sorted((d for d in docs if key in d.get("tags", [])), key=lambda d: english_name(d).lower())
         if group:
             lines += [f"## {title} ({len(group)})", "", "| 문서 | 한 줄 요약 | 강의 |", "|---|---|---|"]
             for d in group:
@@ -377,7 +405,7 @@ def update_lecture_notes(docs):
         text = open(path, encoding="utf-8").read()
         block_lines = [START, "", f"> **관련 위키 문서** ({hub('위키 대문', NOTES)})"]
         for cat in CATEGORIES:
-            items = sorted((d for d in related if d["category"] == cat), key=lambda d: d["title"])
+            items = sorted((d for d in related if d["category"] == cat), key=lambda d: english_name(d).lower())
             if items:
                 block_lines.append(f"> - {cat}: " + ", ".join(link(d, NOTES) for d in items))
         block_lines += ["", END]
