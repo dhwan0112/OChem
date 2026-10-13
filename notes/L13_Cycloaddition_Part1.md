@@ -48,7 +48,7 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 ### 6. 입체화학: 반응물의 모양이 생성물에 어떻게 새겨지나 (슬라이드 p.19–24)
 - 6-1 maleate(cis) → cis, fumarate(trans) → trans: stereospecificity(p.19). → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md)
 - 6-2 diene의 "in" 둘·"out" 둘은 1,4-cis, in + out은 trans. alkyne dienophile은 cyclohexa-1,4-diene(p.20). → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [s-cis conformation](../wiki/개념/s-cis%20형태.md)
-- 6-3 endo 규칙: cyclopentadiene + maleic anhydride는 endo만 준다(secondary orbital overlap). endo는 kinetic 생성물이다. p.23–24 연습은 all-cis 답(연습 문제 3). → [endo rule](../wiki/개념/endo%20규칙.md)
+- 6-3 endo 규칙: cyclopentadiene + maleic anhydride는 endo만 secondary orbital overlap. endo는 kinetic 생성물이다. p.23–24 연습은 all-cis 답(연습 문제 3). → [endo rule](../wiki/개념/endo%20규칙.md)
 
 ### 7. 왜 그런가: 분자 오비탈로 다시 보기 (슬라이드 p.25–31)
 - 7-1 ethylene π/π*, butadiene ψ1–ψ4(HOMO ψ2, LUMO ψ3)(p.25–26). → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)

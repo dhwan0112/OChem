@@ -32,7 +32,7 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [carboca
 
 ![amine 염기가 Fmoc의 fluorene 9번 C–H를 떼고, anion이 carbamate를 밀어내 dibenzofulvene과 carbamate anion이 되는 E1cB 메커니즘](../../figures/L12/fmoc_removal.svg)
 
-*그림: 윗줄 왼쪽: NR3(파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14-electron aromatic system으로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, CH2–O 결합(빨강) 전자가 산소로 떨어져 나간다(E1cB). 아랫줄: dibenzofulvene(초록이 새 C=C)과 carbamate anion이 생기고, carbamate anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 CO2와 H2N–R이 된다.*
+*그림: 윗줄 왼쪽: NR3(파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14-electron aromatic system으로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, CH2–O 결합(빨강) 전자가 산소로 떨어져 E1cB. 아랫줄: dibenzofulvene(초록이 새 C=C)과 carbamate anion이 생기고, carbamate anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 CO2와 H2N–R이 된다.*
 
 (출처: L12 p.11)
 

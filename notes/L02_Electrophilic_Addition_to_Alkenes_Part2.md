@@ -15,7 +15,7 @@
 
 ## 개요
 
-L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 **stereochemistry**와 **실제 합성 도구**로 넓힌다. 먼저 regioselectivity를 한 줄로 예측하는 δ⁺/δ⁻ 요령을 세우고, 그것으로 epoxide 고리 열기의 산/염기 대비를 설명한다. 이어 SN2 inversion에서 나오는 anti 첨가(cyclohexene bromination, NBS)를 보고, 1,2-diol을 *trans*/*cis*로 골라 만드는 방법, 이중결합을 완전히 끊는 두 방법(OsO₄ → NaIO₄, ozonolysis)을 다룬다. 마지막으로 OH 하나를 붙이는 두 방향, 즉 Markovnikov 수화와 "anti-Markovnikov" hydroboration-oxidation을 비교한다. 강의 끝의 요약 지도(p.28)는 [electrophilic addition to alkenes (overview)](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 설명했다.
+L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 **stereochemistry**와 **실제 합성 도구**로 넓힌다. 먼저 regioselectivity를 한 줄로 예측하는 δ⁺/δ⁻ 요령을 세우고, 그것으로 epoxide 고리 열기의 산/염기 대비를 설명한다. 이어 SN2 inversion에서 나오는 anti cyclohexene bromination, NBS를 보고, 1,2-diol을 *trans*/*cis*로 골라 만드는 방법, 이중결합을 완전히 끊는 두 방법(OsO₄ → NaIO₄, ozonolysis)을 다룬다. 마지막으로 OH 하나를 붙이는 두 방향, 즉 Markovnikov 수화와 "anti-Markovnikov" hydroboration-oxidation을 비교한다. 강의 끝의 요약 지도(p.28)는 [electrophilic addition to alkenes (overview)](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 설명했다.
 
 ## 강의 흐름
 
@@ -52,7 +52,7 @@ L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 *
 ### 7. 수소붕소화: "반마르코프니코프" alcohol (슬라이드 p.22–27)
 - 7.1 BH₃는 diborane(3중심 2전자 결합)으로 존재하고 ether 착물로 쓴다(p.22–23). → [borane](../wiki/시약/보레인.md)
 - 7.2 concerted syn addition, B(δ⁺)는 덜 치환된 탄소로: "seemingly anti-Markovnikov"(p.24). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
-- 7.3 H₂O₂/NaOH oxidation: ate complex에서 alkyl기가 B → O로 이동(p.25). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md)
+- 7.3 H₂O₂/NaOH oxidation: ate complex에서 alkyl group이 B → O로 이동(p.25). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md)
 - 7.4 9-BBN은 입체 효과가 더해져 94% → 99.9%(p.26–27). → [9-BBN](../wiki/시약/9-BBN.md)
 
 ## 반응 요약표

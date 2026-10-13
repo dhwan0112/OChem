@@ -25,7 +25,7 @@ diene에는 전자적 성질 말고도 중요한 조건이 하나 더 있다. �
 
 ## 고정된 diene
 
-그렇다면 처음부터 s-cis로 묶여 있는 diene은 어떨까? 예상대로 반응성이 매우 크다. cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane("exo-methylene" diene)은 고리 때문에 s-cis로 고정되어 있어서 사슬형 diene보다 훨씬 반응성이 크다. 예를 들어 cyclopentadiene + acrolein은 20 °C에서 68 h 만에 5-norbornene-2-carbaldehyde를 92%로 준다. 슬라이드에서는 CHO가 CH2 다리의 반대쪽(endo)으로 그려져 있다(→ [endo rule](endo%20규칙.md)). (출처: L13 p.16)
+그렇다면 처음부터 s-cis로 묶여 있는 diene은 어떨까? 예상대로 반응성이 매우 크다. cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane("exo-methylene" diene)은 고리 때문에 s-cis로 고정되어 있어서 사슬형 diene보다 훨씬 반응성이 크다. 예를 들어 cyclopentadiene + acrolein은 20 °C에서 68 h 만에 5-norbornene-2-carbaldehyde를 92%로 준다. 슬라이드에서는 CHO가 CH2 다리의 endo으로 그려져 있다(→ [endo rule](endo%20규칙.md)). (출처: L13 p.16)
 
 반대로 3-methylenecyclohexene이나, 두 C=C가 서로 다른 고리에 걸쳐 transoid로 고정된 bicyclic diene처럼 s-trans로 묶여 있는 diene은 아무리 가열해도 DA 반응을 할 수 없다. s-cis conformation을 취할 수 없는 diene은 DA 반응에 참여하지 못한다. (출처: L13 p.16)
 
@@ -34,7 +34,7 @@ diene에는 전자적 성질 말고도 중요한 조건이 하나 더 있다. �
 | s-cis로 고정 | cyclopentadiene, furan, cyclohexa-1,3-diene, 1,2-dimethylenecyclohexane | 매우 큼 |
 | s-trans로 고정 | 3-methylenecyclohexene, 두 C=C가 다른 고리에 transoid로 걸친 bicyclic diene | 가열해도 반응하지 않음 |
 
-보충: s-trans 고정 diene이 안 되는 이유는 "두 끝이 멀어서"만이 아니다. DA에서 diene 가운데의 σ 결합(C2–C3)은 생성물의 새 π 결합이 되고, 그 σ 결합의 conformation(s-cis/s-trans)가 그대로 새 C=C의 배열(cis/trans)이 된다. s-trans로 반응한다면 6원 고리 안에 trans C=C가 생겨야 하는데, 이것은 불가능한 구조다. (보충 근거: Clayden p.880) (출처: L13 p.16)
+보충: s-trans 고정 diene이 안 되는 이유는 "두 끝이 멀어서"만이 아니다. DA에서 diene 가운데의 σ 결합(C2–C3)은 생성물의 새 π 결합이 되고, 그 σ 결합의 conformation(s-cis/s-trans)가 그대로 새 C=C의 cis/trans이 된다. s-trans로 반응한다면 6원 고리 안에 trans C=C가 생겨야 하는데, 이것은 불가능한 구조다. (보충 근거: Clayden p.880) (출처: L13 p.16)
 
 s-cis 고정 diene인 cyclopentadiene은 반응성이 너무 커서 상온에서 스스로 dimer를 만든다(→ [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md)). (출처: L13 p.18)
 

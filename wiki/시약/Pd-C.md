@@ -44,7 +44,7 @@ H₂가 촉매 표면에 흡착되고, alkene이 한쪽 면을 표면에 대고 
 - **PtO₂(Adams catalyst):** 실제 촉매는 수소화 중 생기는 Pt 금속이다. 방향족 수소화(PtO₂, AcOH)에도 쓴다. (출처: L5 p.30–31)
 - **[Lindlar catalyst](린들라%20촉매.md) (Pd/CaCO₃/Pb(OAc)₂):** 피독시켜 alkyne을 *Z*-alkene에서 멈춘다. (출처: L6c p.23)
 - **Pd/BaSO₄ + 퀴놀린:** acid chloride을 aldehyde에서 멈추는 [Rosenmund reduction](../반응/로젠문트%20환원.md). (출처: L5 p.33)
-- **[NaBH3CN](NaBH3CN.md):** 환원성 아미노화를 할 때 benzyl기를 건드리지 않는다. (출처: L5 p.14)
+- **[NaBH3CN](NaBH3CN.md):** 환원성 아미노화를 할 때 benzyl group을 건드리지 않는다. (출처: L5 p.14)
 
 ## 흔한 오해
 

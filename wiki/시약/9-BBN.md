@@ -27,7 +27,7 @@ BH₃의 regioselectivity는 B–H 극성에서 오는 전자 효과에 기댄�
 
 (출처: L2 p.26–27)
 
-보충: 9-BBN의 boron에는 고리 쪽 C–B 결합이 둘 더 있다. 그런데도 산화 단계에서 엉뚱한 alcohol(cyclooctane diol)이 섞이지 않을까? 교과서에 따르면 9-BBN에서는 hydroboration으로 새로 붙은 **고리 밖 alkyl기만** B에서 O로 이동하므로 원하는 alcohol이 선택적으로 나온다. BH₃를 쓰면 trialkylborane의 세 alkyl기가 모두 같은 것이라 이 문제가 처음부터 없다. (보충 근거: Clayden p.446)
+보충: 9-BBN의 boron에는 고리 쪽 C–B 결합이 둘 더 있다. 그런데도 산화 단계에서 엉뚱한 alcohol(cyclooctane diol)이 섞이지 않을까? 교과서에 따르면 9-BBN에서는 hydroboration으로 새로 붙은 **고리 밖 alkyl group만** B에서 O로 이동하므로 원하는 alcohol이 선택적으로 나온다. BH₃를 쓰면 trialkylborane의 세 alkyl group이 모두 같은 것이라 이 문제가 처음부터 없다. (보충 근거: Clayden p.446)
 
 ## 흔한 오해
 

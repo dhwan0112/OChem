@@ -15,7 +15,7 @@
 
 ## 개요
 
-L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=C 옆에 carbonyl 같은 EWG가 짝지어 붙으면 alkene이 거꾸로 nucleophile을 받는 electrophile이 된다는 데서 출발한다. 먼저 β-탄소가 왜 δ+인지와 conjugate addition의 일반형을 보고, nucleophile이 carbonyl 탄소(1,2)와 β-탄소(1,4) 중 어디를 칠지를 정하는 세 요인(받개의 작용기, nucleophile의 hard/soft, kinetic/thermodynamic 조건)을 정리한다. 이어서 L7·L8·L10에서 만든 enolate와 enamine을 Michael acceptor에 붙여 1,5-dicarbonyl을 만들고, 받개를 iminium ion으로 활성화하는 유기 촉매를 본다. 마지막으로 β-leaving group가 있으면 첨가 뒤 제거가 일어난다는 점을 benzene 고리로 넓혀 SNAr까지 잇는다.
+L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=C 옆에 carbonyl 같은 EWG가 짝지어 붙으면 alkene이 거꾸로 nucleophile을 받는 electrophile이 된다는 데서 출발한다. 먼저 β-탄소가 왜 δ+인지와 conjugate addition의 일반형을 보고, nucleophile이 carbonyl 탄소(1,2)와 β-탄소(1,4) 중 어디를 칠지를 정하는 세 요인(받개의 작용기, nucleophile의 hard/soft, kinetic/thermodynamic 조건)을 정리한다. 이어서 L7·L8·L10에서 만든 enolate와 enamine을 Michael acceptor에 붙여 1,5-dicarbonyl을 만들고, 받개를 iminium ion으로 활성화하는 유기 촉매를 본다. 마지막으로 β-leaving group이 있으면 첨가 뒤 제거가 일어난다는 점을 benzene 고리로 넓혀 SNAr까지 잇는다.
 
 ## 강의 흐름
 
@@ -89,17 +89,17 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "예", [연습 문제](../practice/L11_Exercises.md) 문제 7
 
 ### 6. iminium ion 촉매 (슬라이드 p.21)
-- 키랄 imidazolidinone이 enal을 iminium으로 바꿔 받개를 활성화하고, benzyl기가 한쪽 면을 가려 87–97% ee.
+- 키랄 imidazolidinone이 enal을 iminium으로 바꿔 받개를 활성화하고, benzyl group이 한쪽 면을 가려 87–97% ee.
 - → [iminium-catalyzed conjugate addition](../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [iminium ion](../wiki/개념/이미늄%20이온.md)
 
-### 7. β-leaving group가 있는 conjugate addition과 SNAr (슬라이드 p.22–23)
+### 7. β-leaving group이 있는 conjugate addition과 SNAr (슬라이드 p.22–23)
 
 #### 7.1 첨가-제거 메커니즘 (슬라이드 p.22)
 - β-F enone + R₂NH: 첨가로 생긴 enolate가 F⁻를 밀어내 β-아미노 enone. C=C가 다시 생긴다.
 - → [addition-elimination](../wiki/반응/첨가-제거%20반응.md)
 
 #### 7.2 nucleophilic aromatic substitution(SNAr) (슬라이드 p.22–23)
-- 강한 EWG가 붙은 halobenzene에서 첨가(느림) → σ complex → 제거. 규칙: F >> Cl ~ Br >> I, 강한 EWG(NO₂ 최강), leaving group는 EWG의 ortho/para.
+- 강한 EWG가 붙은 halobenzene에서 첨가(느림) → σ complex → 제거. 규칙: F >> Cl ~ Br >> I, 강한 EWG(NO₂ 최강), leaving group은 EWG의 ortho/para.
 - → [SNAr](../wiki/반응/친핵성%20방향족%20치환.md), [Meisenheimer complex](../wiki/개념/마이젠하이머%20착물.md)
 
 ### 8. 요약 (슬라이드 p.24)

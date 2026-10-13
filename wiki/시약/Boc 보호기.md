@@ -42,7 +42,7 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 즉 Boc가 산에 약한 진짜 이유는 "안정한 3차 carbocation을 내놓을 수 있다"는 데 있다. 부산물이 CO2와 isobutene이라는 기체라서 반응이 한 방향으로 깔끔하게 진행된다는 점도 장점이다.[^2] (출처: L12 p.10)
 
-보충: 반대로 Boc는 왜 염기에 강할까? carbonyl이 t-butyl기에 가려져 OH⁻조차 공격하지 못하기 때문이다. 그리고 산 쪽은 3 M HCl 정도의 묽은 산 수용액으로도 벗겨지며, 이 조건에서는 peptide 결합이나 methyl ester가 가수분해되지 않는다. 고체상 합성에서는 TFA로 짧게 처리해 벗긴다. (보충 근거: Clayden p.558–559, Wade p.1187)
+보충: 반대로 Boc는 왜 염기에 강할까? carbonyl이 t-butyl group에 가려져 OH⁻조차 공격하지 못하기 때문이다. 그리고 산 쪽은 3 M HCl 정도의 묽은 산 수용액으로도 벗겨지며, 이 조건에서는 peptide 결합이나 methyl ester가 가수분해되지 않는다. 고체상 합성에서는 TFA로 짧게 처리해 벗긴다. (보충 근거: Clayden p.558–559, Wade p.1187)
 
 ## 선택성
 

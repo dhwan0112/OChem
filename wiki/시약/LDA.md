@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 범위/Test2, 기출/Test1-2025, 단원/공�
 ---
 # LDA
 
-> lithium diisopropylamide(LiN(*i*-Pr)₂). **세지만 친핵성은 없는(strong, non-nucleophilic)** 염기다. ketone과 ester를 저온에서 정량적, 비가역적으로 [enolate](../개념/엔올과%20엔올레이트.md)로 바꾸고, 덜 치환된 쪽의 [kinetic enolate](../개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)를 준다.
+> lithium diisopropylamide(LiN(*i*-Pr)₂). **세지만 친핵성은 strong, non-nucleophilic** 염기다. ketone과 ester를 저온에서 정량적, 비가역적으로 [enolate](../개념/엔올과%20엔올레이트.md)로 바꾸고, 덜 치환된 쪽의 [kinetic enolate](../개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)를 준다.
 
 ## 개요
 
@@ -17,7 +17,7 @@ enolate를 "조금" 만드는 염기는 많지만, 출발 carbonyl을 **전부**
 
 THF에서 *n*-BuLi와 diisopropylamine을 섞는다.
 
-`n-BuLi + HN(i-Pr)₂ --[THF]--> LiN(i-Pr)₂ + 뷰테인(pKa 50)`
+`n-BuLi + HN(i-Pr)₂ --[THF]--> LiN(i-Pr)₂ + pKa 50`
 
 BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약한 산인 뷰테인이 기체로 빠져나가므로 되돌아가지 않는다. (출처: L7 p.6)
 
@@ -34,7 +34,7 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ### 왜 친핵성이 없나
 
-그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 없는(NOT nucleophilic) 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-테트라메틸피페리다이드)와 LHMDS(LiN(SiMe₃)₂)가 있다. (출처: L7 p.6)
+그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-테트라메틸피페리다이드)와 LHMDS(LiN(SiMe₃)₂)가 있다. (출처: L7 p.6)
 
 ## 선택성
 

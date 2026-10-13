@@ -21,11 +21,11 @@
    함정: PhCH<sub>2</sub>CH<sub>2</sub>Br + CH<sub>3</sub>NH<sub>2</sub> 직접 alkylation은 over-alkylation 위험(p.6)이 있고, Eschweiler–Clarke는 N,N-dimethyl까지 가므로 monomethyl 합성에 맞지 않는다(p.15).
 
 2. 생성물의 2차 amine N 양쪽이 모두 CH<sub>2</sub>이므로, 어느 쪽 C-N 결합이든 reductive amination으로 만들 수 있다. 대안은 **fragment 1 쪽을 1차 amine**(원래 CHO 탄소가 CH<sub>2</sub>NH<sub>2</sub>가 된 ...CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)으로, **fragment 2 쪽을 aldehyde**(원래 H<sub>2</sub>N-CH<sub>2</sub>-가 OHC-로 바뀐 OHC-CH<sub>2</sub>CH<sub>2</sub>-N(Cbz)...)로 바꾸어 NaCNBH<sub>3</sub>로 연결하는 것이다. 전체 탄소 수는 그대로다.
-   H<sub>2</sub>/Pd-C가 어려운 이유: 분자에 OBn(benzyl ether)과 Cbz(benzyloxycarbonyl)가 많아 hydrogenation 조건에서 benzyl기가 떨어져 나갈 수 있다(p.33 "deprotection of benzyl group"). NaCNBH<sub>3</sub>는 이들을 건드리지 않는다.
+   H<sub>2</sub>/Pd-C가 어려운 이유: 분자에 OBn(benzyl ether)과 Cbz(benzyloxycarbonyl)가 많아 hydrogenation 조건에서 benzyl group이 떨어져 나갈 수 있다(p.33 "deprotection of benzyl group"). NaCNBH<sub>3</sub>는 이들을 건드리지 않는다.
 
 3. 빈 상자 1: nitrile이 1차 amine으로 수소화된 **1-[2-amino-1-(4-methoxyphenyl)ethyl]cyclohexanol** (4-MeOC<sub>6</sub>H<sub>4</sub>-CH(CH<sub>2</sub>NH<sub>2</sub>)-C(OH)(cyclohexane 고리)), 57%.
    빈 상자 2: Eschweiler–Clarke로 NH<sub>2</sub>가 N(CH<sub>3</sub>)<sub>2</sub>가 된 **venlafaxine** 1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexanol (HCl 염, 80%).
-   한 단계 경로: (i) C≡N hydrogenation으로 CH<sub>2</sub>NH<sub>2</sub>, (ii) HCHO와 imine 형성 후 H<sub>2</sub>/Pd 환원으로 NHCH<sub>3</sub>, (iii) 다시 HCHO와 iminium 형성 후 환원으로 N(CH<sub>3</sub>)<sub>2</sub>. HCHO 2.2 eq는 methyl기 두 개분이다. (출처: L5 p.15-16)
+   한 단계 경로: (i) C≡N hydrogenation으로 CH<sub>2</sub>NH<sub>2</sub>, (ii) HCHO와 imine 형성 후 H<sub>2</sub>/Pd 환원으로 NHCH<sub>3</sub>, (iii) 다시 HCHO와 iminium 형성 후 환원으로 N(CH<sub>3</sub>)<sub>2</sub>. HCHO 2.2 eq는 methyl group 두 개분이다. (출처: L5 p.15-16)
 
 4. NaBH<sub>4</sub>는 aldehyde/ketone을 빠르게 환원하므로(p.17 표) imine이 생기기 전에 carbonyl을 alcohol로 바꿔 버린다. 또 imine 형성에 필요한 산성 조건에서 분해되어 H<sub>2</sub>를 낸다. NaBH<sub>3</sub>CN은 aldehyde/ketone을 느리게만 환원하고(p.17 표의 "느림") imine은 환원하며, pH > 3 수용액에서도 안정하다(p.17). 그래서 carbonyl, amine, 환원제를 한 용기에 넣어도 된다. 보충: 전자를 끄는 CN기 때문에 B-H의 hydride 공여력이 약해지고, 더 친전자적인 protonation iminium만 빠르게 환원된다. (보충 근거: Clayden p.234)
 

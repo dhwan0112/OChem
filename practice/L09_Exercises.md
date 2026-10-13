@@ -15,7 +15,7 @@
 
 ## 정답 및 해설
 
-1. (→ [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl 탄소(electrophile)를 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
+1. (→ [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md)) 생성물은 R–CO–CH2–CO–R' (β-diketone) + EtO⁻다(p.14에서 확인). enolate의 α-탄소(nucleophile)가 ester carbonyl electrophile를 공격해 C=O π 전자가 산소로 밀려나며 사면체 alkoxide intermediate가 생기고, 이 O⁻가 C=O를 되살리면서 EtO⁻를 내보낸다. 실제 조건에서는 생성물의 CH2(두 carbonyl 사이)가 EtO⁻에 deprotonate되고, 산 처리로 중성 생성물을 얻는다. (p.3, p.6, p.14)
 
 2. ethyl acetoacetate CH3COCH2CO2Et (76%)다. 후처리 전에는 소듐 acetoacetate [CH3CO–CH–CO2Et]⁻ Na⁺와 EtOH로 존재하며, EtOH는 증류로 제거된다. HCl 처리 후 중성 β-ketoester가 얻어진다. (p.5)
 

@@ -81,5 +81,5 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 - [L6 산화와 alkene 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 0절, 4절
 - [L15 cycloaddition 3부](../../notes/L15_Cycloaddition_Part3.md) isoxazoline 절
 
-[^1]: 엄밀히 LiAlH₄는 공기 중에서 저절로 불붙는 전형적인 pyrophoric 물질이라기보다는 물과 반응해 가연성 H₂를 내는 수반응성(water-reactive) 물질로 분류되는 경우가 많다. 슬라이드의 불꽃 표지는 인화성 위험을 뜻한다. 어느 쪽이든 물·습기를 철저히 피해야 한다.
+[^1]: 엄밀히 LiAlH₄는 공기 중에서 저절로 불붙는 전형적인 pyrophoric 물질이라기보다는 물과 반응해 가연성 H₂를 내는 water-reactive 물질로 분류되는 경우가 많다. 슬라이드의 불꽃 표지는 인화성 위험을 뜻한다. 어느 쪽이든 물·습기를 철저히 피해야 한다.
 [^2]: 1차·2차 halide의 LiAlH₄ 환원은 주로 S<sub>N</sub>2형 hydride 치환으로 설명된다. 슬라이드가 말한 "alkyl radical 경유" 방법의 대표 시약은 Bu₃SnH/AIBN이다.

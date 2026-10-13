@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/산화-알켄-합�
 
 ## 개요
 
-ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만, aldehyde가 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. DIBAL-H는 이 문제를 "aldehyde를 hydride가 다 사라진 뒤에야 꺼내는" 방식으로 푼다. DIBAL-H는 alane(알레인)이고, Al–H–Al 다리 결합을 가진 이량체(bridged dimer)로 존재한다. 반응 자체의 메커니즘과 다른 길은 [partial reduction of esters](../반응/에스터%20부분%20환원.md) 문서에 있다. (출처: L5 p.29, L6c p.2)
+ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만, aldehyde가 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. DIBAL-H는 이 문제를 "aldehyde를 hydride가 다 사라진 뒤에야 꺼내는" 방식으로 푼다. DIBAL-H는 alane(알레인)이고, Al–H–Al 다리 결합을 가진 bridged dimer로 존재한다. 반응 자체의 메커니즘과 다른 길은 [partial reduction of esters](../반응/에스터%20부분%20환원.md) 문서에 있다. (출처: L5 p.29, L6c p.2)
 
 ## 무엇을 하나
 

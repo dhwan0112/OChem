@@ -42,7 +42,7 @@ reductive amination에서 실제로 hydride를 받는 것은 carbonyl이 아니�
 ## 이웃 시약과 비교
 
 - **[NaBH4](NaBH4.md):** carbonyl을 빠르게 환원하므로 imine이 생기기 전에 alcohol을 만들어 버리고, imine 형성에 필요한 산성 조건에서 분해된다. (출처: L5 p.17)
-- **H₂/[Pd/C](Pd-C.md):** 같은 일을 할 수 있지만 benzyl ether나 Cbz 같은 benzyl기를 함께 끊을 수 있다(→ [hydrogenolysis](../반응/수소화분해.md)). 거미 독소 전구체 합성에서 NaCNBH₃를 쓴 이유다. (출처: L5 p.14, p.33)
+- **H₂/[Pd/C](Pd-C.md):** 같은 일을 할 수 있지만 benzyl ether나 Cbz 같은 benzyl group을 함께 끊을 수 있다(→ [hydrogenolysis](../반응/수소화분해.md)). 거미 독소 전구체 합성에서 NaCNBH₃를 쓴 이유다. (출처: L5 p.14, p.33)
 - **HCOOH([Eschweiler–Clarke reaction](../반응/에슈바일러-클라크%20반응.md)):** N,N-dimethylation 전용. metal hydride 없이 formate ion이 hydride를 준다. (출처: L5 p.15)
 
 ## 흔한 오해

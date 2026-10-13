@@ -11,7 +11,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ## 개요
 
-값싼 표백제(NaOCl)를 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, [TEMPO](../시약/TEMPO.md)라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C). 슬라이드는 이 계를 "N–O" 산화제로 부른다. 더 나아가 구리와 함께 쓰면 공기 중 O₂를 terminal oxidant로 쓸 수도 있다(Stahl oxidation). (출처: L6c p.11, p.13)
+값싼 NaOCl를 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, [TEMPO](../시약/TEMPO.md)라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C). 슬라이드는 이 계를 "N–O" 산화제로 부른다. 더 나아가 구리와 함께 쓰면 공기 중 O₂를 terminal oxidant로 쓸 수도 Stahl oxidation. (출처: L6c p.11, p.13)
 
 `RCH2OH + NaOCl --[CH2Cl2–H2O, NaHCO3, KBr (0.1 mol equiv), TEMPO (0.01 mol equiv), 0 °C]--> RCHO`
 

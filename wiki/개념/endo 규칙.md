@@ -7,7 +7,7 @@ tags: [분류/개념, 범위/Test2, 인명규칙, 단원/고리화-첨가, 강�
 ---
 # endo 규칙
 
-> [Diels–Alder reaction](../반응/딜스-알더%20반응.md)에서는 dienophile의 π 치환기(C=O 등)가 diene π계 **아래로 들어간(tucked under)** endo TS가 선호된다(endo rule). 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
+> [Diels–Alder reaction](../반응/딜스-알더%20반응.md)에서는 dienophile의 π 치환기(C=O 등)가 diene π계 **아래로 tucked under** endo TS가 endo rule. 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
 
 ## 개요
 
@@ -31,7 +31,7 @@ TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. �
 
 ### endo는 kinetic product다
 
-보충: endo가 kinetic product라는 증거는 가역적인 DA에서 나온다. cyclopentadiene 대신 furan을 maleic anhydride와 반응시키면 DA가 가역적으로 일어나 평형(thermodynamic control)에 이르고, 이때는 exo adduct가 얻어진다. exo가 더 안정한 이유는 다리 걸친 고리에서 anhydride 고리가 원자 하나짜리 다리(O 또는 CH2) 쪽을 향하는 것이 원자 두 개짜리 다리(C=C 쪽) 쪽을 향하는 것보다 steric hindrance가 작기 때문이다. 또 intramolecular DA에서는 두 반응 부위가 이미 묶여 있어 secondary orbital overlap의 도움이 덜 중요해지므로, 사슬이 접히기 편한 쪽을 따라 exo가 나오기도 한다. 즉 endo rule은 intermolecular·비가역 반응에서 가장 믿을 만하다(→ [kinetic control과 thermodynamic control](속도론적%20지배와%20열역학적%20지배.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md)). (보충 근거: Clayden p.884, 888–889) (출처: L13 p.22)
+보충: endo가 kinetic product라는 증거는 가역적인 DA에서 나온다. cyclopentadiene 대신 furan을 maleic anhydride와 반응시키면 DA가 가역적으로 일어나 thermodynamic control에 이르고, 이때는 exo adduct가 얻어진다. exo가 더 안정한 이유는 다리 걸친 고리에서 anhydride 고리가 원자 하나짜리 다리(O 또는 CH2) 쪽을 향하는 것이 원자 두 개짜리 다리(C=C 쪽) 쪽을 향하는 것보다 steric hindrance가 작기 때문이다. 또 intramolecular DA에서는 두 반응 부위가 이미 묶여 있어 secondary orbital overlap의 도움이 덜 중요해지므로, 사슬이 접히기 편한 쪽을 따라 exo가 나오기도 한다. 즉 endo rule은 intermolecular·비가역 반응에서 가장 믿을 만하다(→ [kinetic control과 thermodynamic control](속도론적%20지배와%20열역학적%20지배.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md)). (보충 근거: Clayden p.884, 888–889) (출처: L13 p.22)
 
 ## 생성물로 옮기는 법
 
@@ -48,12 +48,12 @@ TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. �
 
 ### 그리는 순서
 
-p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)에서 슬라이드 p.24의 풀이는 이렇다. carbonyl이 diene 아래로 들어간(tucked under) endo TS를 거치면 세 H가 한 면에 모이므로, CHO와 두 Me가 모두 cis인 all-cis 생성물이 생긴다. L14 p.17 하단의 "Recall" 예시도 같은 이야기를 한다. (E,E)-hexa-2,4-diene과 acrolein에서도 endo 생성물과 exo 생성물은 CHO가 두 methyl에 대해 어느 쪽을 향하는지로 구분된다. (출처: L13 p.23–24; L14 p.17)
+p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)에서 슬라이드 p.24의 풀이는 이렇다. carbonyl이 diene 아래로 tucked under endo TS를 거치면 세 H가 한 면에 모이므로, CHO와 두 Me가 모두 cis인 all-cis 생성물이 생긴다. L14 p.17 하단의 "Recall" 예시도 같은 이야기를 한다. (E,E)-hexa-2,4-diene과 acrolein에서도 endo 생성물과 exo 생성물은 CHO가 두 methyl에 대해 어느 쪽을 향하는지로 구분된다. (출처: L13 p.23–24; L14 p.17)
 
 보충: 교재는 이런 문제를 푸는 순서를 다음처럼 제시한다. (보충 근거: Clayden p.885) (출처: L13 p.23–24)
 
 1. 먼저 평면 구조로 mechanism과 후보 생성물을 그리고 이미 아는 stereochemistry(여기서는 out/out → 두 Me cis)을 표시한다.
-2. diene을 위에, dienophile을 아래에 겹쳐 그리되 C=O가 diene 밑으로 들어가게(tucked under) 놓는다.
+2. diene을 위에, dienophile을 아래에 겹쳐 그리되 C=O가 diene 밑으로 tucked under 놓는다.
 3. 새 stereocenter가 될 탄소에 H를 모두 그려 넣는다.
 4. 고리를 펴서 그리면 같은 방향을 향하던 H들이 모두 고리의 한 면에 모인다.
 5. 나머지 치환기를 반대 면에 그린다.

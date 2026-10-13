@@ -48,12 +48,12 @@ enolate의 α-탄소가 받개의 β-탄소를 공격하면 새 enolate intermed
 t-BuOK 조건에서는 deprotonation가 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 β-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
 
 **문제 6**
-**ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate**, 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro기가 ester보다 훨씬 강한 EWG이므로 nitro기를 기준으로 한 β-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitro네이트로 안정화된다. 그 뒤 H2O 처리로 iminium이 가수분해되어 ketone이 돌아온다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity을 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.610). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)
+**ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate**, 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro group이 ester보다 훨씬 강한 EWG이므로 nitro group을 기준으로 한 β-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitro네이트로 안정화된다. 그 뒤 H2O 처리로 iminium이 가수분해되어 ketone이 돌아온다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity을 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.610). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)
 **문제 7**
 - (i) ester α-H가 deprotonate되고, 그 enolate가 acrylonitrile의 β-탄소에 conjugate addition한다. 생성물은 **ethyl 4-cyano-2-(2,5-dimethoxyphenyl)butanoate**, Ar-CH(CO2Et)-CH2CH2-CN이다.
 - (ii) H2/Pd/C로 nitrile이 1차 amine으로 환원되어 Ar-CH(CO2Et)-CH2CH2CH2-NH2가 된다. 이 amine이 같은 분자의 ester를 분자 내에서 공격해서(EtOH가 빠짐) 6원자 락탐 **3-(2,5-dimethoxyphenyl)piperidin-2-one**이 생긴다. 보충: 슬라이드 빈칸에 락탐까지 그려져 있는지는 확인할 수 없다. 하지만 최종 생성물의 고리가 N-CH2-CH2-CH2-CH(Ar)-CH2 구조이므로, 락탐 C=O 탄소가 최종 생성물에서 N 옆 CH2가 된다는 것과 일치한다. Clayden도 같은 경로에서 이 락탐 고리화가 저절로 일어난다고 설명한다(보충 근거: Clayden p.612).
-- (iii) 락탐 질소를 propyl기로 alkylation(N-propyl)하고, amide C=O를 CH2로 환원(보충: 보통 LiAlH4 사용, 보충 근거: Clayden p.236)하면 1-propyl-3-(2,5-dimethoxyphenyl)piperidine이 된다.
+- (iii) 락탐 질소를 propyl group으로 alkylation(N-propyl)하고, amide C=O를 CH2로 환원(보충: 보통 LiAlH4 사용, 보충 근거: Clayden p.236)하면 1-propyl-3-(2,5-dimethoxyphenyl)piperidine이 된다.
 (근거: L11 p.20)
 
 **문제 8**
-4-chloronitrobenzene에서는 HO-가 C-Cl 탄소에 첨가할 때 생긴 음전하가 공명으로 NO2가 붙은 탄소, 나아가 nitro group 산소까지 퍼진다. 그래서 σ 착물이 안정화된다. 메타 이성질체에서는 음전하가 NO2가 붙은 탄소에 오지 않아 이런 안정화가 없다. 그래서 leaving group는 EWG의 오쏘/파라에 있어야 한다. leaving group 순서가 F >> Cl ~ Br >> I인 것은 SNAr의 속도 결정 단계가 C-X가 끊기는 단계가 아니라 첫 번째 첨가 단계이기 때문이다. 전기음성도가 가장 큰 F가 ipso 탄소를 가장 강하게 δ+로 만들고 anion성 intermediate를 안정화하므로 첨가가 가장 빠르다(보충, Clayden 22장) (보충 근거: Clayden p.518). (근거: L11 p.22, p.23)
+4-chloronitrobenzene에서는 HO-가 C-Cl 탄소에 첨가할 때 생긴 음전하가 공명으로 NO2가 붙은 탄소, 나아가 nitro group 산소까지 퍼진다. 그래서 σ 착물이 안정화된다. 메타 이성질체에서는 음전하가 NO2가 붙은 탄소에 오지 않아 이런 안정화가 없다. 그래서 leaving group은 EWG의 오쏘/파라에 있어야 한다. leaving group 순서가 F >> Cl ~ Br >> I인 것은 SNAr의 속도 결정 단계가 C-X가 끊기는 단계가 아니라 첫 번째 첨가 단계이기 때문이다. 전기음성도가 가장 큰 F가 ipso 탄소를 가장 강하게 δ+로 만들고 anion성 intermediate를 안정화하므로 첨가가 가장 빠르다(보충, Clayden 22장) (보충 근거: Clayden p.518). (근거: L11 p.22, p.23)

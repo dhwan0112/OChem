@@ -18,7 +18,7 @@
 
 ## 개요
 
-carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물이 electrophile에서 nucleophile(enolate)로 뒤집힌다. 이 강의는 그 enolate를 halogenation alkyl과 SN2로 반응시켜 C–C 결합을 만드는 α-alkylation을 다룬다. 먼저 α-H가 얼마나 산성인지와 어떤 염기로 어느 쪽 enolate를 만드는지(kinetic vs thermodynamic)를 정하고, 그다음 alkylation의 실제와 1,3-dicarbonyl을 쓰는 고전적 합성법(acetoacetic ester·malonic ester synthesis)으로 넘어간다. 이어 carbonyl 밖의 enolate류, enolate가 C와 O 중 어디로 반응하는지, 마지막으로 chiral auxiliary를 쓴 asymmetric alkylation으로 끝난다. 전체 지도는 [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
+carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물이 electrophile에서 nucleophile(enolate)로 뒤집힌다. 이 강의는 그 enolate를 alkyl halide과 SN2로 반응시켜 C–C 결합을 만드는 α-alkylation을 다룬다. 먼저 α-H가 얼마나 산성인지와 어떤 염기로 어느 쪽 enolate를 kinetic vs thermodynamic를 정하고, 그다음 alkylation의 실제와 1,3-dicarbonyl을 쓰는 고전적 합성법(acetoacetic ester·malonic ester synthesis)으로 넘어간다. 이어 carbonyl 밖의 enolate류, enolate가 C와 O 중 어디로 반응하는지, 마지막으로 chiral auxiliary를 쓴 asymmetric alkylation으로 끝난다. 전체 지도는 [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
 
 ## 강의 흐름
 
@@ -37,7 +37,7 @@ carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물�
 - → [pKa로 평형 판단](../wiki/개념/α-수소의%20산도.md), [enolate의 구조와 그림](../wiki/개념/엔올과%20엔올레이트.md), [염기 고르기 두 전략](../wiki/반응/엔올레이트%20알킬화.md)
 
 #### 1.3 LDA는 왜 "강하지만 친핵성이 없는" 염기인가? (p.6–7)
-- n-BuLi + HN(i-Pr)₂로 만든다. 부피 큰 isopropyl기가 질소를 가려 carbonyl을 공격하지 못한다. LiTMP, LHMDS도 같은 부류.
+- n-BuLi + HN(i-Pr)₂로 만든다. 부피 큰 isopropyl group이 질소를 가려 carbonyl을 공격하지 못한다. LiTMP, LHMDS도 같은 부류.
 - → [LDA](../wiki/시약/LDA.md)
 
 #### 1.4 α-탄소가 두 개라면 어느 쪽이 먼저 떨어지나? (p.8)
@@ -45,12 +45,12 @@ carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물�
 - → [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)
 
 #### 1.5 에너지 도표로 보면? (p.11–12)
-- 2-methylcyclohexanone: C6–H는 TS가 낮고(kinetic), C2–H는 생성물이 깊다(thermodynamic). LDA/−78 °C는 kinetic.
+- 2-methylcyclohexanone: C6–H는 TS가 kinetic, C2–H는 생성물이 thermodynamic. LDA/−78 °C는 kinetic.
 - → [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
 ### II. α-alkylation 반응
 
-#### 2.1 enolate는 halogenation alkyl과 어떻게 반응하나? (p.9–10)
+#### 2.1 enolate는 alkyl halide과 어떻게 반응하나? (p.9–10)
 - enolate α-탄소가 R–X를 SN2로 공격한다. methyl·1차·allyl·benzyl 좋음, 2차 불량, 3차는 제거.
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
