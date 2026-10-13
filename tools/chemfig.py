@@ -15,7 +15,7 @@
 
 2) 좌표를 직접 지정하는 메커니즘 그림 (결합 길이 1 단위, x 오른쪽, y 아래)
    "atoms":    [[원소, x, y, 전하, 수소수, 색], ...]   (뒤쪽 항목은 생략 가능)
-   "bonds":    [[a, b, 차수, 표시, 색], ...]          표시: plain/wedge/hash/dashed/bold
+   "bonds":    [[a, b, 차수, 표시, 색], ...]          표시: plain/wedge/hash/dashed/bold (점선 형성 결합은 차수 5와 함께: [a, b, 5, "dashed", 색])
    "arrows":   [[x1, y1, x2, y2, 종류], ...]          직선 화살표. 종류: forward(기본), resonance, equilibrium, retro
    "captions": [[텍스트, x, y, 색, 크기pt], ...]      (x, y)는 텍스트 왼쪽 위, 크기 기본 8pt
    "abbrev":   [[라벨, 기준 원자, [원자들]], ...]       예: ["CH3", 2, [2]]로 메틸을 CH3 라벨로 접기
