@@ -18,128 +18,128 @@
 
 ## 개요
 
-카보닐 옆 α-탄소의 수소를 염기로 떼어 내면 카보닐 화합물이 electrophile에서 nucleophile(enolate)로 뒤집힌다. 이 강의는 그 enolate를 할로젠화 알킬과 SN2로 반응시켜 C–C 결합을 만드는 α-alkylation을 다룬다. 먼저 α-H가 얼마나 산성인지와 어떤 염기로 어느 쪽 enolate를 만드는지(kinetic vs thermodynamic)를 정하고, 그다음 alkylation의 실제와 1,3-다이카보닐을 쓰는 고전적 합성법(acetoacetic ester·malonic ester synthesis)으로 넘어간다. 이어 카보닐 밖의 enolate류, enolate가 C와 O 중 어디로 반응하는지, 마지막으로 chiral auxiliary를 쓴 asymmetric alkylation으로 끝난다. 전체 지도는 [엔올레이트 화학 개관](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
+carbonyl 옆 α-탄소의 수소를 염기로 떼어 내면 carbonyl 화합물이 electrophile에서 nucleophile(enolate)로 뒤집힌다. 이 강의는 그 enolate를 halogenation alkyl과 SN2로 반응시켜 C–C 결합을 만드는 α-alkylation을 다룬다. 먼저 α-H가 얼마나 산성인지와 어떤 염기로 어느 쪽 enolate를 만드는지(kinetic vs thermodynamic)를 정하고, 그다음 alkylation의 실제와 1,3-dicarbonyl을 쓰는 고전적 합성법(acetoacetic ester·malonic ester synthesis)으로 넘어간다. 이어 carbonyl 밖의 enolate류, enolate가 C와 O 중 어디로 반응하는지, 마지막으로 chiral auxiliary를 쓴 asymmetric alkylation으로 끝난다. 전체 지도는 [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)에 있다.
 
 ## 강의 흐름
 
-### 0. 복습: 안정화 일라이드는 왜 약염기로도 만들어지나? (p.3)
-- 음전하가 C=O로 퍼져 enolate와 같은 공명 구조를 가지므로 C–H가 산성이다. HWE phosphonate 음이온도 같다.
-- → [이미 만나 본 enolate](../wiki/개념/엔올과%20엔올레이트.md), [인 일라이드](../wiki/시약/인%20일라이드.md), [HWE 반응](../wiki/반응/HWE%20반응.md)
+### 0. 복습: 안정화 ylide는 왜 약염기로도 만들어지나? (p.3)
+- 음전하가 C=O로 퍼져 enolate와 같은 공명 구조를 가지므로 C–H가 산성이다. HWE phosphonate anion도 같다.
+- → [이미 만나 본 enolate](../wiki/개념/엔올과%20엔올레이트.md), [phosphorus ylide](../wiki/시약/인%20일라이드.md), [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md)
 
-### I. 엔올레이트 형성
+### I. enolate 형성
 
 #### 1.1 α-수소는 얼마나 산성인가? (p.4)
-- 알데하이드/케톤 α-H pKa 약 19–20. α-H만 산성이고 β, γ, δ-H는 아니다. pKa 표.
-- → [α-수소의 산도](../wiki/개념/α-수소의%20산도.md)
+- aldehyde/ketone α-H pKa 약 19–20. α-H만 산성이고 β, γ, δ-H는 아니다. pKa 표.
+- → [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md)
 
 #### 1.2 그럼 아무 염기나 써도 되나? (p.5–6)
-- NaOEt는 케톤 enolate를 소량만(EtOH 16 < 케톤 19), LDA는 사실상 전부 만든다.
+- NaOEt는 ketone enolate를 소량만(EtOH 16 < ketone 19), LDA는 사실상 전부 만든다.
 - → [pKa로 평형 판단](../wiki/개념/α-수소의%20산도.md), [enolate의 구조와 그림](../wiki/개념/엔올과%20엔올레이트.md), [염기 고르기 두 전략](../wiki/반응/엔올레이트%20알킬화.md)
 
 #### 1.3 LDA는 왜 "강하지만 친핵성이 없는" 염기인가? (p.6–7)
-- n-BuLi + HN(i-Pr)₂로 만든다. 부피 큰 아이소프로필기가 질소를 가려 카보닐을 공격하지 못한다. LiTMP, LHMDS도 같은 부류.
+- n-BuLi + HN(i-Pr)₂로 만든다. 부피 큰 isopropyl기가 질소를 가려 carbonyl을 공격하지 못한다. LiTMP, LHMDS도 같은 부류.
 - → [LDA](../wiki/시약/LDA.md)
 
 #### 1.4 α-탄소가 두 개라면 어느 쪽이 먼저 떨어지나? (p.8)
-- kinetic enolate = 빨리 생기는 쪽(덜 치환), thermodynamic enolate = 더 안정한 쪽(더 치환). 2-헵타논 100 : 0, 2-메톡시사이클로헥사논 85 : 15.
-- → [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)
+- kinetic enolate = 빨리 생기는 쪽(덜 치환), thermodynamic enolate = 더 안정한 쪽(더 치환). 2-헵타논 100 : 0, 2-methoxycyclohexanone 85 : 15.
+- → [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)
 
 #### 1.5 에너지 도표로 보면? (p.11–12)
-- 2-메틸사이클로헥사논: C6–H는 TS가 낮고(kinetic), C2–H는 생성물이 깊다(thermodynamic). LDA/−78 °C는 kinetic.
-- → [속도론적 엔올레이트와 열역학적 엔올레이트](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [속도론적 지배와 열역학적 지배](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
+- 2-methylcyclohexanone: C6–H는 TS가 낮고(kinetic), C2–H는 생성물이 깊다(thermodynamic). LDA/−78 °C는 kinetic.
+- → [kinetic vs thermodynamic enolate](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
-### II. α-알킬화 반응
+### II. α-alkylation 반응
 
-#### 2.1 엔올레이트는 할로젠화 알킬과 어떻게 반응하나? (p.9–10)
-- enolate α-탄소가 R–X를 SN2로 공격한다. 메틸·1차·allyl·benzyl 좋음, 2차 불량, 3차는 제거.
-- → [엔올레이트 알킬화](../wiki/반응/엔올레이트%20알킬화.md), [SN2 반응](../wiki/반응/SN2%20반응.md)
+#### 2.1 enolate는 halogenation alkyl과 어떻게 반응하나? (p.9–10)
+- enolate α-탄소가 R–X를 SN2로 공격한다. methyl·1차·allyl·benzyl 좋음, 2차 불량, 3차는 제거.
+- → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
-#### 2.2 실제 케톤 알킬화는 어떻게 되나? (p.10–12)
-- 2-메틸사이클로헥사논 + LDA; CH₃I → 2,6-이치환체 56%(2,2-이치환체 6%). polyalkylation 주의.
-- → [엔올레이트 알킬화](../wiki/반응/엔올레이트%20알킬화.md)
+#### 2.2 실제 ketone alkylation는 어떻게 되나? (p.10–12)
+- 2-methylcyclohexanone + LDA; CH₃I → 2,6-이치환체 56%(2,2-이치환체 6%). polyalkylation 주의.
+- → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md)
 
-#### 2.3 에스터와 락톤도 될까? (p.13–14)
-- 뷰탄산 메틸 + LDA; EtI → 96%. γ-뷰티로락톤 + LDA; MeI → 88%.
-- → [엔올레이트 알킬화](../wiki/반응/엔올레이트%20알킬화.md)
+#### 2.3 ester와 락톤도 될까? (p.13–14)
+- butanoic acid methyl + LDA; EtI → 96%. γ-뷰티로락톤 + LDA; MeI → 88%.
+- → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md)
 
-### III. 1,3-다이카보닐 화합물
+### III. 1,3-dicarbonyl 화합물
 
-#### 3.0 두 카보닐 사이의 수소는 왜 훨씬 산성인가? (p.15)
+#### 3.0 두 carbonyl 사이의 수소는 왜 훨씬 산성인가? (p.15)
 - 음전하가 두 C=O로 퍼져 pKa 9–13. alkoxide로 충분하다. ethyl acetoacetate와 diethyl malonate.
-- → [α-수소의 산도](../wiki/개념/α-수소의%20산도.md), [알콕사이드 염기](../wiki/시약/알콕사이드%20염기.md)
+- → [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [alkoxide base](../wiki/시약/알콕사이드%20염기.md)
 
-#### 3.1 아세토아세트산 에스터 합성: 메틸 케톤을 어떻게 만드나? (p.16–17)
-- NaOEt; R–X → 가수분해 → β-케토산 가열(6원자 고리형 TS, −CO₂) → 메틸 케톤. R–X에 –CH₂COCH₃를 붙인 효과.
-- → [아세토아세트산 에스터 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md), [탈카복실화](../wiki/반응/탈카복실화.md), [에스터 가수분해](../wiki/반응/에스터%20가수분해.md)
+#### 3.1 acetoacetic ester 합성: methyl ketone을 어떻게 만드나? (p.16–17)
+- NaOEt; R–X → 가수분해 → β-keto산 가열(6원자 고리형 TS, −CO₂) → methyl ketone. R–X에 –CH₂COCH₃를 붙인 효과.
+- → [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [decarboxylation](../wiki/반응/탈카복실화.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md)
 
 #### 3.2 거꾸로 생각하기: 2-펜타논의 역합성 (p.18)
-- C=O 옆 CH₂와 R 사이를 끊는다. R = 에틸 → EtBr.
-- → [아세토아세트산 에스터 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md)
+- C=O 옆 CH₂와 R 사이를 끊는다. R = ethyl → EtBr.
+- → [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md)
 
-#### 3.3 말론산 에스터 합성: 카복실산은? (p.19–20)
+#### 3.3 malonic ester 합성: carboxylic acid은? (p.19–20)
 - NaOEt; R–X → KOH → H₂SO₄ 환류(−CO₂) → RCH₂COOH. R–X에 –CH₂COOH를 붙인 효과.
-- → [말론산 에스터 합성](../wiki/반응/말론산%20에스터%20합성.md), [탈카복실화](../wiki/반응/탈카복실화.md)
+- → [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [decarboxylation](../wiki/반응/탈카복실화.md)
 
-### IV. 여러 작용기의 엔올레이트
+### IV. 여러 작용기의 enolate
 
-#### 4.1 케톤·알데하이드·에스터: 누가 엔올화될 수 있나? (p.21)
-- α-H가 있으면 된다. 벤조페논, 벤즈알데하이드, 피발알데하이드, 폼알데하이드는 non-enolizable.
-- → [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md)
+#### 4.1 ketone·aldehyde·ester: 누가 enol화될 수 있나? (p.21)
+- α-H가 있으면 된다. 벤조페논, benzaldehyde, pivaldehyde, formaldehyde는 non-enolizable.
+- → [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md)
 
-#### 4.2 카보닐이 아니어도 엔올레이트 같은 것이 생기나? (p.22)
+#### 4.2 carbonyl이 아니어도 enolate 같은 것이 생기나? (p.22)
 - nitrile, imine(aza-enolate), nitro 화합물. π 결합 하나를 가진 전자 끄는 기 + sp³ C–H.
-- → [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md), [이민](../wiki/개념/이민.md), [헨리 반응](../wiki/반응/헨리%20반응.md)
+- → [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md), [imine](../wiki/개념/이민.md), [Henry reaction](../wiki/반응/헨리%20반응.md)
 
-#### 4.3 그런데 왜 산 염화물, 카복실산, 아마이드는 안 되나? (p.23)
-- 산 염화물 enolate는 Cl⁻를 잃고 ketene이 된다. 카복실산·N–H 아마이드는 O–H/N–H가 먼저 떨어진다.
-- → [α-수소의 산도](../wiki/개념/α-수소의%20산도.md), [케텐](../wiki/개념/케텐.md)
+#### 4.3 그런데 왜 acid chloride, carboxylic acid, amide는 안 되나? (p.23)
+- acid chloride enolate는 Cl⁻를 잃고 ketene이 된다. carboxylic acid·N–H amide는 O–H/N–H가 먼저 떨어진다.
+- → [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [ketene](../wiki/개념/케텐.md)
 
-### V. 엔올레이트 반응성: C 대 O
+### V. enolate 반응성: C 대 O
 
 #### 5.1 음전하는 O에 많은데 왜 보통 C에서 반응하나? (p.24)
 - 전하는 O에, HOMO 계수는 C에 크다. 오비탈 지배 반응은 C, 전하 지배 반응은 O.
-- → [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md), [엔올과 엔올레이트](../wiki/개념/엔올과%20엔올레이트.md)
+- → [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md)
 
 #### 5.2 무엇이 C냐 O냐를 가르나? (p.25)
-- soft(MeI) → C, hard(Me₂SO₄, MeOMs, Me₃O⁺) → O. 큰 양이온(Cs > K > Na > Li)은 O 쪽.
-- → [하드-소프트 산염기](../wiki/개념/하드-소프트%20산염기.md)
+- soft(MeI) → C, hard(Me₂SO₄, MeOMs, Me₃O⁺) → O. 큰 cation(Cs > K > Na > Li)은 O 쪽.
+- → [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md)
 
-### VI. 비대칭 알킬화 반응
+### VI. 비대칭 alkylation 반응
 
-#### 6.1 보통의 알킬화는 왜 라세미체를 주나? (p.26)
+#### 6.1 보통의 alkylation는 왜 라세미체를 주나? (p.26)
 - 평면 enolate의 두 면은 동등하다. chiral auxiliary가 한 면을 가리면 diastereomer 비가 치우친다.
-- → [키랄 보조기](../wiki/개념/키랄%20보조기.md)
+- → [chiral auxiliary](../wiki/개념/키랄%20보조기.md)
 
-#### 6.2 Evans 옥사졸리디논: 어떻게 한쪽 면만 열어 두나? (p.27)
-- Li chelate로 Z-enolate 고정, C4 아이소프로필이 한 면을 막아 BnBr이 반대 면으로. 92%, 99 : 1 dr.
-- → [에반스 옥사졸리디논](../wiki/시약/에반스%20옥사졸리디논.md)
+#### 6.2 Evans oxazolidinone: 어떻게 한쪽 면만 열어 두나? (p.27)
+- Li chelate로 Z-enolate 고정, C4 isopropyl이 한 면을 막아 BnBr이 반대 면으로. 92%, 99 : 1 dr.
+- → [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md)
 
 #### 6.3 보조기는 어떻게 떼어 내나? (p.28)
-- LiBH₄ → 키랄 1차 알코올, LiOH/H₂O₂ → 키랄 카복실산. α-입체 중심 유지.
-- → [에반스 옥사졸리디논](../wiki/시약/에반스%20옥사졸리디논.md), [LiBH4](../wiki/시약/LiBH4.md)
+- LiBH₄ → 키랄 1차 alcohol, LiOH/H₂O₂ → 키랄 carboxylic acid. α-입체 중심 유지.
+- → [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md), [LiBH4](../wiki/시약/LiBH4.md)
 
 ### 정리 (p.29)
-- 강염기로 α-enolate, 부피 큰 염기로 kinetic enolate, SN2로 alkylation. acetoacetate → –CH₂COCH₃, malonate → –CH₂COOH. 카보닐 밖에서도 enolate류가 생긴다.
-- → [엔올레이트 화학 개관](../wiki/개념/엔올레이트%20화학%20개관.md)
+- 강염기로 α-enolate, 부피 큰 염기로 kinetic enolate, SN2로 alkylation. acetoacetate → –CH₂COCH₃, malonate → –CH₂COOH. carbonyl 밖에서도 enolate류가 생긴다.
+- → [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)
 
 ## 반응 요약표
 
 | 반응 | 시약/조건 | 생성물 | 선택성 | 비고 |
 |---|---|---|---|---|
 | [LDA](../wiki/시약/LDA.md) 제조 | n-BuLi + HN(i-Pr)₂, THF | LiN(i-Pr)₂ + 뷰테인 | – | 비가역 (p.6) |
-| enolate 형성 (정량) | LDA, THF, −78 °C | 리튬 enolate | 덜 치환된 α-C (kinetic) | (p.5–8) |
-| enolate 형성 (소량, 평형) | NaOEt, EtOH | 소듐 enolate 소량 | – | [α-수소의 산도](../wiki/개념/α-수소의%20산도.md) (p.5) |
-| [kinetic vs thermodynamic](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md) | LDA, −78 °C | 2-메틸사이클로헥사논 → C1=C6 enolate | 덜 가려진 C6 | (p.11–12) |
-| 케톤 [α-alkylation](../wiki/반응/엔올레이트%20알킬화.md) | 1. LDA 2. CH₃I (또는 BnBr) | 2,6-다이메틸사이클로헥사논 56% | 덜 치환된 α-C, 라세미 | SN2 규칙 (p.10–11) |
-| 에스터 α-alkylation | 1. LDA, THF 2. EtI | 2-에틸뷰탄산 메틸 96% | α-C | (p.13) |
-| 락톤 α-alkylation | 1. LDA 2. MeI | α-메틸-γ-뷰티로락톤 88% | α-C | (p.14) |
-| [아세토아세트산 에스터 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. aq. NaOH 4. H₃O⁺, 가열 | CH₃COCH₂R | 두 C=O 사이 CH₂ | (p.16–18) |
-| [말론산 에스터 합성](../wiki/반응/말론산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. KOH 환류 4. H₂SO₄ 환류 | RCH₂COOH | 두 C=O 사이 CH₂ | (p.19–20) |
-| β-케토산 [탈카복실화](../wiki/반응/탈카복실화.md) | 가열 | enol → 케톤 + CO₂ | – | 6원자 고리형 TS (p.16) |
-| 산 염화물 + Et₃N | Cl₂CHCOCl, Et₃N | 다이클로로[케텐](../wiki/개념/케텐.md) | – | (p.23) |
-| [C- vs O-alkylation](../wiki/개념/하드-소프트%20산염기.md) | soft: MeI / hard: MeOMs, Me₂SO₄, Me₃O⁺ | 케톤 (C) / enol ether (O) | C 또는 O | (p.24–25) |
-| [Evans asymmetric alkylation](../wiki/시약/에반스%20옥사졸리디논.md) | N-아실 옥사졸리디논, LDA, −78 °C; BnBr | α-벤질 생성물 92% | 99 : 1 dr | (p.27) |
-| 보조기 제거 | LiBH₄ / LiOH, H₂O₂ | 키랄 1차 알코올 / 키랄 카복실산 | α-입체중심 유지 | (p.28) |
+| enolate 형성 (정량) | LDA, THF, −78 °C | lithium enolate | 덜 치환된 α-C (kinetic) | (p.5–8) |
+| enolate 형성 (소량, 평형) | NaOEt, EtOH | 소듐 enolate 소량 | – | [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md) (p.5) |
+| [kinetic vs thermodynamic](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md) | LDA, −78 °C | 2-methylcyclohexanone → C1=C6 enolate | 덜 가려진 C6 | (p.11–12) |
+| ketone [α-alkylation](../wiki/반응/엔올레이트%20알킬화.md) | 1. LDA 2. CH₃I (또는 BnBr) | 2,6-dimethylcyclohexanone 56% | 덜 치환된 α-C, 라세미 | SN2 규칙 (p.10–11) |
+| ester α-alkylation | 1. LDA, THF 2. EtI | 2-ethylbutanoic acid methyl 96% | α-C | (p.13) |
+| 락톤 α-alkylation | 1. LDA 2. MeI | α-methyl-γ-뷰티로락톤 88% | α-C | (p.14) |
+| [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. aq. NaOH 4. H₃O⁺, 가열 | CH₃COCH₂R | 두 C=O 사이 CH₂ | (p.16–18) |
+| [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. KOH 환류 4. H₂SO₄ 환류 | RCH₂COOH | 두 C=O 사이 CH₂ | (p.19–20) |
+| β-keto산 [decarboxylation](../wiki/반응/탈카복실화.md) | 가열 | enol → ketone + CO₂ | – | 6원자 고리형 TS (p.16) |
+| acid chloride + Et₃N | Cl₂CHCOCl, Et₃N | 다이클로로[ketene](../wiki/개념/케텐.md) | – | (p.23) |
+| [C- vs O-alkylation](../wiki/개념/하드-소프트%20산염기.md) | soft: MeI / hard: MeOMs, Me₂SO₄, Me₃O⁺ | ketone (C) / enol ether (O) | C 또는 O | (p.24–25) |
+| [Evans asymmetric alkylation](../wiki/시약/에반스%20옥사졸리디논.md) | N-acyl oxazolidinone, LDA, −78 °C; BnBr | α-benzyl 생성물 92% | 99 : 1 dr | (p.27) |
+| 보조기 제거 | LiBH₄ / LiOH, H₂O₂ | 키랄 1차 alcohol / 키랄 carboxylic acid | α-입체중심 유지 | (p.28) |
 
 ## 연습 문제
 

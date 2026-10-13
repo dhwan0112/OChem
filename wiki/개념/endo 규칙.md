@@ -7,7 +7,7 @@ tags: [분류/개념, 범위/Test2, 인명규칙, 단원/고리화-첨가, 강�
 ---
 # endo 규칙
 
-> [Diels–Alder 반응](../반응/딜스-알더%20반응.md)에서는 dienophile의 π 치환기(C=O 등)가 diene π계 **아래로 들어간(tucked under)** endo TS가 선호된다(endo rule). 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
+> [Diels–Alder reaction](../반응/딜스-알더%20반응.md)에서는 dienophile의 π 치환기(C=O 등)가 diene π계 **아래로 들어간(tucked under)** endo TS가 선호된다(endo rule). 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
 
 ## 개요
 
@@ -88,14 +88,14 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 - **"secondary orbital overlap이 새 결합을 만든다"고 생각하기 쉽지만 사실은** 결합으로 이어지지 않고 endo TS만 안정화하는 kinetic effect다. (출처: L13 p.21, p.29)
 - **"endo = 치환기끼리 cis"라고 외우기 쉽지만 사실은** endo TS에서 cis가 되는 것은 diene의 **"out" 치환기**와 EWG다. "in" 치환기는 EWG와 trans가 된다. (E)-1-치환 diene에서는 치환기가 "out"이므로 endo 생성물에서 치환기와 EWG가 cis다. (출처: L14 p.17)
 - **"endo는 100% 보존되는 stereospecificity"라고 생각하기 쉽지만 사실은** stereoselectivity라 혼합물이 생길 수 있다. (출처: L13 p.22, p.31)
-- **"endo는 언제나 열역학적으로도 유리하다"고 생각하기 쉽지만 사실은** endo는 대개 덜 안정한 kinetic product다. 가역 조건(furan + maleic anhydride)에서는 더 안정한 exo가 얻어진다. (보충 근거: Clayden p.884)
+- **"endo는 언제나 thermodynamic으로도 유리하다"고 생각하기 쉽지만 사실은** endo는 대개 덜 안정한 kinetic product다. 가역 조건(furan + maleic anhydride)에서는 더 안정한 exo가 얻어진다. (보충 근거: Clayden p.884)
 - **"cycloaddition은 다 endo를 선호한다"고 생각하기 쉽지만 사실은** endo rule은 [4+2]의 이야기다. photochemical [2+2]에는 endo selectivity이 없고, nitrone cycloaddition은 exo를 선호한다. (출처: L14 p.27; L15 p.16)
 
 ## 관련 문서
 
 - 반응: [Diels–Alder reaction](../반응/딜스-알더%20반응.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md), [photochemical \[2+2\] cycloaddition](../반응/광화학%202+2%20고리화%20첨가.md), [nitrone cycloaddition](../반응/나이트론%20고리화%20첨가.md), [\[6+4\] cycloaddition](../반응/6+4%20고리화%20첨가.md)
 - 개념: [frontier molecular orbital](프런티어%20분자%20오비탈.md), [s-cis conformation](s-cis%20형태.md), [Diels–Alder regioselectivity](딜스-알더%20위치선택성.md), [stereospecificity와 stereoselectivity](입체특이성과%20입체선택성.md), [kinetic control과 thermodynamic control](속도론적%20지배와%20열역학적%20지배.md), [cubane](큐베인.md)
-- 시약: [Lewis acid 촉매](../시약/루이스%20산%20촉매.md)
+- 시약: [Lewis acid catalyst](../시약/루이스%20산%20촉매.md)
 
 ## 출처
 
@@ -103,5 +103,5 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 - [L14 cycloaddition 2부](../../notes/L14_Cycloaddition_Part2.md) 6절, 10절, 11절 (p.16–17, p.27, p.30)
 - [L15 cycloaddition 3부](../../notes/L15_Cycloaddition_Part3.md) 0절, 15절 (p.3, p.16)
 
-[^1]: 보충: endo 생성물은 kinetic product다. steric hindrance가 적은 exo 생성물이 열역학적으로 더 안정한 경우가 많아서, 고온이나 장시간(retro-DA가 가능한 가역 조건)에서는 exo 비율이 늘어날 수 있다. (보충 근거: Clayden p.884) (출처: L13 p.22) 또 [Lewis acid 촉매](../시약/루이스%20산%20촉매.md)는 일반적으로 endo selectivity도 높이는 것으로 알려져 있다. 다만 Clayden은 Lewis acid가 dienophile LUMO를 더 낮춰 반응을 빠르게 하고 LUMO 계수 차이를 키워 regioselectivity를 높인다는 점만 설명하며(보충 근거: Clayden p.891), endo selectivity 향상은 이 교재에서 확인되지 않는다. L14 슬라이드의 예도 regioselectivity만 보여 준다. (출처: L14 p.20)
+[^1]: 보충: endo 생성물은 kinetic product다. steric hindrance가 적은 exo 생성물이 thermodynamic으로 더 안정한 경우가 많아서, 고온이나 장시간(retro-DA가 가능한 가역 조건)에서는 exo 비율이 늘어날 수 있다. (보충 근거: Clayden p.884) (출처: L13 p.22) 또 [Lewis acid catalyst](../시약/루이스%20산%20촉매.md)는 일반적으로 endo selectivity도 높이는 것으로 알려져 있다. 다만 Clayden은 Lewis acid가 dienophile LUMO를 더 낮춰 반응을 빠르게 하고 LUMO 계수 차이를 키워 regioselectivity를 높인다는 점만 설명하며(보충 근거: Clayden p.891), endo selectivity 향상은 이 교재에서 확인되지 않는다. L14 슬라이드의 예도 regioselectivity만 보여 준다. (출처: L14 p.20)
 [^2]: 슬라이드 p.29의 그림에는 아래쪽(dienophile 역할) cyclopentadiene의 orbital이 "LUMO of diene"이라고 적혀 있다. 그 분자가 화합물로서 diene이라는 뜻으로 읽어야 하며, 반응에서의 역할은 dienophile이다(그 C=C의 LUMO). (출처: L13 p.29)

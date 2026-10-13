@@ -7,11 +7,11 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/산화-알켄-합�
 ---
 # NaClO2
 
-> sodium chlorite. 약산성 완충제(NaH₂PO₄)와 함께 **aldehyde를 carboxylic acid**으로 바꾼다([Pinnick 산화](../반응/피닉%20산화.md)). 순하고 싸고 선택적이며, 부산물 HOCl을 잡는 제거제를 꼭 함께 넣는다.
+> sodium chlorite. 약산성 완충제(NaH₂PO₄)와 함께 **aldehyde를 carboxylic acid**으로 바꾼다([Pinnick oxidation](../반응/피닉%20산화.md)). 순하고 싸고 선택적이며, 부산물 HOCl을 잡는 제거제를 꼭 함께 넣는다.
 
 ## 개요
 
-aldehyde를 이미 손에 넣었다면 산까지의 마지막 한 걸음을 무엇으로 할까? 슬라이드의 답이 NaClO₂(Pinnick, 1981)다. 특히 [Jones 시약](존스%20시약.md)의 강산성을 견디지 못하는 민감한 기질에서 "순한 산화로 aldehyde까지, 그 다음 NaClO₂로 산까지"라는 2단계 전략의 두 번째 단계를 맡는다. (출처: L6c p.15–16)
+aldehyde를 이미 손에 넣었다면 산까지의 마지막 한 걸음을 무엇으로 할까? 슬라이드의 답이 NaClO₂(Pinnick, 1981)다. 특히 [Jones reagent](존스%20시약.md)의 강산성을 견디지 못하는 민감한 기질에서 "순한 산화로 aldehyde까지, 그 다음 NaClO₂로 산까지"라는 2단계 전략의 두 번째 단계를 맡는다. (출처: L6c p.15–16)
 
 ## 무엇을 하나
 
@@ -35,7 +35,7 @@ Boger의 vancomycin 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO --[N
 
 ## 이웃 시약과 비교
 
-- **[Jones 시약](존스%20시약.md):** 1차 alcohol을 한 번에 산까지 보내지만 강산성이라 민감한 기질에 부적합하다. (출처: L6c p.16)
+- **[Jones reagent](존스%20시약.md):** 1차 alcohol을 한 번에 산까지 보내지만 강산성이라 민감한 기질에 부적합하다. (출처: L6c p.16)
 - **[DMP](DMP.md)·[TEMPO](TEMPO.md) 등:** aldehyde에서 멈추는 시약이라 NaClO₂와 짝을 이룬다. (출처: L6c p.17)
 
 ## 흔한 오해
@@ -45,9 +45,9 @@ Boger의 vancomycin 계열 합성: R–CH₂OH --[Dess–Martin]--> R–CHO --[N
 
 ## 관련 문서
 
-- 반응: [Pinnick 산화](../반응/피닉%20산화.md), [alcohol 산화](../반응/알코올%20산화.md), [halohydrin 형성](../반응/할로하이드린%20형성.md)
-- 비교 시약: [Jones 시약](존스%20시약.md), [DMP](DMP.md), [TEMPO](TEMPO.md)
-- 개념: [Markovnikov 규칙](../개념/마르코프니코프%20규칙.md)
+- 반응: [Pinnick oxidation](../반응/피닉%20산화.md), [alcohol oxidation](../반응/알코올%20산화.md), [halohydrin 형성](../반응/할로하이드린%20형성.md)
+- 비교 시약: [Jones reagent](존스%20시약.md), [DMP](DMP.md), [TEMPO](TEMPO.md)
+- 개념: [Markovnikov's rule](../개념/마르코프니코프%20규칙.md)
 
 ## 출처
 

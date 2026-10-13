@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 
 ## 개요
 
-[peptide 합성](../반응/펩타이드%20합성.md)에서는 CO₂H를 먼저 C(=O)X로 활성화해 electrophilicity를 높인다. 슬라이드는 이 일을 하는 시약을 "coupling reagent"라고만 부르고, L12 연습 문제에서 그 예로 DCC를 쓴다. (출처: L12 p.9, p.12; L12 Practice 문제 3)
+[peptide synthesis](../반응/펩타이드%20합성.md)에서는 CO₂H를 먼저 C(=O)X로 활성화해 electrophilicity를 높인다. 슬라이드는 이 일을 하는 시약을 "coupling reagent"라고만 부르고, L12 연습 문제에서 그 예로 DCC를 쓴다. (출처: L12 p.9, p.12; L12 Practice 문제 3)
 
 보충: carboxylic acid와 amine을 그냥 섞으면 산-염기 반응으로 ammonium carboxylate 염이 먼저 생겨, 실온에서는 amide가 잘 생기지 않는다. 그래서 활성화가 필요하다. (보충 근거: Wade p.983)
 
@@ -40,11 +40,11 @@ L-phenylalanine과 L-alanine으로 Phe-Ala dipeptide를 만드는 공식 풀이�
 
 ## 관련 문서
 
-- 반응: [펩타이드 합성](../반응/펩타이드%20합성.md), [친핵성 아실 치환](../반응/친핵성%20아실%20치환.md), [에스터 가수분해](../반응/에스터%20가수분해.md)
-- 시약: [Boc 보호기](Boc%20보호기.md), [Fmoc 보호기](Fmoc%20보호기.md), [TFA](TFA.md)
-- 개념: [보호기](../개념/보호기.md), [직교 보호](../개념/직교%20보호.md), [사면체 중간체](../개념/사면체%20중간체.md)
+- 반응: [peptide synthesis](../반응/펩타이드%20합성.md), [nucleophilic acyl substitution](../반응/친핵성%20아실%20치환.md), [ester hydrolysis](../반응/에스터%20가수분해.md)
+- 시약: [Boc protecting group](Boc%20보호기.md), [Fmoc protecting group](Fmoc%20보호기.md), [TFA](TFA.md)
+- 개념: [protecting group](../개념/보호기.md), [orthogonal protection](../개념/직교%20보호.md), [tetrahedral intermediate](../개념/사면체%20중간체.md)
 
 ## 출처
 
 - [L12 연습문제](../../practice/L12_Practice.md) 문제 3
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 7절
+- [L12 protecting group](../../notes/L12_Protecting_Groups.md) 7절

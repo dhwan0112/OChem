@@ -43,10 +43,10 @@ THP ether의 고리 O 옆 탄소에는 산소가 두 개(고리 O와 RO) 붙어 
 
 ## 관련 문서
 
-- 반응: [아세탈 형성](../반응/아세탈%20형성.md)
-- 시약: [실릴 에터 보호기](실릴%20에터%20보호기.md), [벤질 에터 보호기](벤질%20에터%20보호기.md), [Boc 보호기](Boc%20보호기.md), [그리냐르 시약](그리냐르%20시약.md)
-- 개념: [보호기](../개념/보호기.md), [직교 보호](../개념/직교%20보호.md)
+- 반응: [acetal formation](../반응/아세탈%20형성.md)
+- 시약: [silyl ether protecting group](실릴%20에터%20보호기.md), [benzyl ether protecting group](벤질%20에터%20보호기.md), [Boc protecting group](Boc%20보호기.md), [Grignard reagent](그리냐르%20시약.md)
+- 개념: [protecting group](../개념/보호기.md), [orthogonal protection](../개념/직교%20보호.md)
 
 ## 출처
 
-- [L12 보호기](../../notes/L12_Protecting_Groups.md) 4절, 8절, 흔한 오해
+- [L12 protecting group](../../notes/L12_Protecting_Groups.md) 4절, 8절, 흔한 오해

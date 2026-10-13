@@ -51,7 +51,7 @@ tags: [분류/반응, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 ## 흔한 오해
 
 - "SN2이면 항상 덜 치환된 탄소가 공격받는다": protonated epoxide나 비대칭 bromonium ion처럼 양전하를 띤 3원 고리는 C–X 결합이 먼저 늘어나 **더 치환된** 탄소가 공격받는다. 그래도 inversion은 그대로다(→ [loose SN2 transition state](../개념/느슨한%20SN2%20전이%20상태.md)). (출처: L1 p.22–23; L2 p.8)
-- "alkyl halide이면 무엇이든 alkylation된다": 2차는 E2와 경쟁해 수율이 나쁘고 3차는 elimination만 일어난다. 그래서 [Wittig reaction](위티그%20반응.md) retrosynthesis에서도 ylide 쪽은 SN2가 잘 되는 1차 halide에서 오도록 끊는 편이 유리하다. (출처: L7 p.10; L6 p.26)
+- "alkyl halide이면 무엇이든 alkylate된다": 2차는 E2와 경쟁해 수율이 나쁘고 3차는 elimination만 일어난다. 그래서 [Wittig reaction](위티그%20반응.md) retrosynthesis에서도 ylide 쪽은 SN2가 잘 되는 1차 halide에서 오도록 끊는 편이 유리하다. (출처: L7 p.10; L6 p.26)
 - "leaving group 능력은 어디서나 I > Br > Cl > F": [nucleophilic aromatic substitution](친핵성%20방향족%20치환.md)에서는 슬라이드가 F를 가장 좋은 leaving group으로 꼽아, SN2와 순서가 정반대다. (출처: L11 p.22–23) 보충: F의 이탈 능력이 좋아서가 아니라, 느린 단계가 첨가이고 전기음성도가 큰 F가 ipso 탄소를 활성화하기 때문이다(Clayden). (보충 근거: Clayden p.518)
 
 참고로 Fmoc protecting group이 산에 강한 이유도 SN2로 설명된다. carbamate O에 붙은 CH₂는 1차라 SN1이 안 되고, 옆의 부피 큰 fluorenyl기 때문에 SN2도 막혀 있다(→ [Fmoc protecting group](../시약/Fmoc%20보호기.md)). (출처: L12 p.11)

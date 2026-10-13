@@ -22,7 +22,7 @@ LiAlH₄는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, et
 | aldehyde, ester | 1차 alcohol | ester는 RCH₂OH + R′OH 두 alcohol |
 | ketone | 2차 alcohol | |
 | carboxylic acid | 1차 alcohol | O–H가 먼저 H₂를 내므로 느리지만 충분히 쓰면 92% |
-| amide | amine | C=O → CH₂ ([amide 환원](../반응/아마이드%20환원.md)) |
+| amide | amine | C=O → CH₂ ([amide reduction](../반응/아마이드%20환원.md)) |
 | nitrile, azide | 1차 amine | ([azide·nitrile을 거친 amine 합성](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md)) |
 | alkyl halide | alkane | 할로젠 자리에 H |
 
@@ -46,13 +46,13 @@ LiAlH₄는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠을 H로 �
 
 ## 원리: amide가 amine이 되는 이유
 
-ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR이 떨어지지만, amide는 금속에 붙은 O가 떨어지고 N이 남아 iminium을 거쳐 다시 환원된다. 이 흐름은 슬라이드에 [borane](보레인.md) 메커니즘으로 그려져 있다(→ [amide 환원](../반응/아마이드%20환원.md)). (출처: L5 p.9, p.28)
+ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR이 떨어지지만, amide는 금속에 붙은 O가 떨어지고 N이 남아 iminium을 거쳐 다시 환원된다. 이 흐름은 슬라이드에 [borane](보레인.md) 메커니즘으로 그려져 있다(→ [amide reduction](../반응/아마이드%20환원.md)). (출처: L5 p.9, p.28)
 
 ## 선택성
 
 거의 다 환원하므로 chemoselectivity를 기대하기 어렵다. 그래도 남는 것은 있다.
 
-- aryl methyl ether, 고리형 ether는 그대로 남는다. lactam·enone을 가진 다고리 화합물에서 lactam은 고리형 amine, enone C=O는 allylic alcohol이 된다. 보충: LiAlH₄는 enone을 주로 1,2-환원하므로 C=C는 남는다(→ [1,2-첨가와 1,4-첨가](../개념/1,2-첨가와%201,4-첨가.md)). ([L5 연습 문제](../../practice/L05_Exercises.md) 6번) (출처: L5 p.26)
+- aryl methyl ether, 고리형 ether는 그대로 남는다. lactam·enone을 가진 다고리 화합물에서 lactam은 고리형 amine, enone C=O는 allylic alcohol이 된다. 보충: LiAlH₄는 enone을 주로 1,2-환원하므로 C=C는 남는다(→ [1,2-addition vs 1,4-addition](../개념/1,2-첨가와%201,4-첨가.md)). ([L5 연습 문제](../../practice/L05_Exercises.md) 6번) (출처: L5 p.26)
 - 고립된 C=C는 극성이 없어 환원되지 않는다. alkene은 [catalytic hydrogenation](../반응/촉매%20수소화.md)의 몫이다. (출처: L5 p.30)
 - isoxazoline을 LiAlH₄로 환원하면 C=N 환원과 N–O 절단이 함께 일어나 1,3-amino alcohol이 된다. (L15) (출처: L15 p.20)
 - sirenin 합성에서는 `LiAlH4, AlCl3`가 CHO와 CO₂Me를 함께 CH₂OH로 환원한다(→ [SeO2](SeO2.md)). (L6) (출처: L6c p.18)
@@ -61,7 +61,7 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 - **[LiBH4](LiBH4.md):** ester는 환원하지만 산·amide·nitrile은 남긴다. LiAlH₄로는 이런 구분이 안 된다. (출처: L5 p.22)
 - **[borane](보레인.md):** 산과 amide를 빠르게, ester·ketone은 느리게 환원한다. amide → amine은 둘 다 되지만 BH₃는 ester를 남긴다. (출처: L5 p.27)
-- **[DIBAL-H](DIBAL-H.md):** LiAlH₄는 ester를 alcohol까지 보내지만, DIBAL-H는 −70 °C에서 aldehyde에서 멈춘다. 대안으로 LiAlH₄로 alcohol까지 환원한 뒤 [DMP](DMP.md) 같은 순한 산화제로 aldehyde까지 되돌리는 우회로도 있다(→ [ester 부분 환원](../반응/에스터%20부분%20환원.md)). (출처: L5 p.29, L6c p.2)
+- **[DIBAL-H](DIBAL-H.md):** LiAlH₄는 ester를 alcohol까지 보내지만, DIBAL-H는 −70 °C에서 aldehyde에서 멈춘다. 대안으로 LiAlH₄로 alcohol까지 환원한 뒤 [DMP](DMP.md) 같은 순한 산화제로 aldehyde까지 되돌리는 우회로도 있다(→ [partial reduction of esters](../반응/에스터%20부분%20환원.md)). (출처: L5 p.29, L6c p.2)
 
 ## 흔한 오해
 
@@ -70,7 +70,7 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 ## 관련 문서
 
-- 반응: [amide 환원](../반응/아마이드%20환원.md), [azide·nitrile을 거친 amine 합성](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [ester 부분 환원](../반응/에스터%20부분%20환원.md)
+- 반응: [amide reduction](../반응/아마이드%20환원.md), [azide·nitrile을 거친 amine 합성](../반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [partial reduction of esters](../반응/에스터%20부분%20환원.md)
 - 비교 시약: [NaBH4](NaBH4.md), [LiBH4](LiBH4.md), [DIBAL-H](DIBAL-H.md), [borane](보레인.md)
 - 개념: [metal hydride의 반응성](../개념/금속%20수소화물의%20반응성.md), [tetrahedral intermediate](../개념/사면체%20중간체.md)
 

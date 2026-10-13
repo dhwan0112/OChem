@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 인명시약, 단원/산화-알켄-합성, �
 ---
 # TPAP
 
-> tetra-*n*-propylammonium perruthenate(Pr₄N⁺ RuO₄⁻, Ru(VII)). **촉매량**만 쓰고 NMO를 최종 산화제로 넣어 alcohol을 aldehyde·ketone으로 바꾼다(Ley–Griffith 산화).
+> tetra-*n*-propylammonium perruthenate(Pr₄N⁺ RuO₄⁻, Ru(VII)). **촉매량**만 쓰고 NMO를 최종 산화제로 넣어 alcohol을 aldehyde·ketone으로 바꾼다(Ley–Griffith oxidation).
 
 ## 개요
 
@@ -20,14 +20,14 @@ ruthenium 산화물은 원래 강한 산화제다. 이것을 촉매로만 쓸 �
 | 1차 alcohol | aldehyde |
 | 2차 alcohol | ketone |
 
-예: α-hydroxy ester(2차 alcohol) --[TPAP]--> α-케토 ester(93%). (출처: L6c p.10, p.17)
+예: α-hydroxy ester(2차 alcohol) --[TPAP]--> α-keto ester(93%). (출처: L6c p.10, p.17)
 
 ## 원리: 촉매 순환
 
 1. Ru(VII)가 alcohol을 산화하고 Ru(V)가 된다.
 2. NMO가 Ru(V)를 다시 Ru(VII)로 되돌리고, 자신은 *N*-methylmorpholine이 된다.
 
-즉 ruthenium은 돌기만 하고, 소모되는 것은 NMO다. alcohol 쪽에서 보면 [alcohol 산화](../반응/알코올%20산화.md)의 일반 뼈대(O–Ru 결합 형성 → α-H 제거)를 따른다. (출처: L6c p.6, p.10)
+즉 ruthenium은 돌기만 하고, 소모되는 것은 NMO다. alcohol 쪽에서 보면 [alcohol oxidation](../반응/알코올%20산화.md)의 일반 뼈대(O–Ru 결합 형성 → α-H 제거)를 따른다. (출처: L6c p.6, p.10)
 
 ## 이웃 시약과 비교
 
@@ -40,8 +40,8 @@ ruthenium 산화물은 원래 강한 산화제다. 이것을 촉매로만 쓸 �
 
 ## 관련 문서
 
-- 반응: [alcohol 산화](../반응/알코올%20산화.md), [TEMPO 산화](../반응/TEMPO%20산화.md)
-- 비교 시약: [DMP](DMP.md), [TEMPO](TEMPO.md), [MnO2](MnO2.md), [Jones 시약](존스%20시약.md)
+- 반응: [alcohol oxidation](../반응/알코올%20산화.md), [TEMPO oxidation](../반응/TEMPO%20산화.md)
+- 비교 시약: [DMP](DMP.md), [TEMPO](TEMPO.md), [MnO2](MnO2.md), [Jones reagent](존스%20시약.md)
 - 시약: [NMO](NMO.md)
 
 ## 출처

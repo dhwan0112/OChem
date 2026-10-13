@@ -20,7 +20,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 그런데 TEMPO가 1 mol%만 있어도 반응이 끝까지 가는 이유는 무엇일까? 답은 촉매 순환에 있다. 일종의 산화 릴레이로 보면 된다.
 
 1. OCl⁻(terminal oxidant)가 Br⁻(co-catalyst)를 OBr⁻로 산화하고, 자신은 Cl⁻가 된다.
-2. OBr⁻가 TEMPO(또는 hydroxylamine)를 nitrosonium cation(N⁺=O)으로 산화한다.[^1] alcohol을 실제로 산화하는 것은 이 양이온이다.
+2. OBr⁻가 TEMPO(또는 hydroxylamine)를 nitrosonium cation(N⁺=O)으로 산화한다.[^1] alcohol을 실제로 산화하는 것은 이 cation이다.
 3. 염기성 조건에서 생긴 alkoxide R¹CH₂O⁻가 N⁺를 공격해 intermediate 부가물(I), 즉 N(O⁻)–O–CH₂R¹이 생긴다.
 4. N에 붙은 O⁻가 분자 내에서 α-H를 떼어 내고, N–O(alkoxy) 결합이 끊어진다. 그 결과 carbonyl R¹CHO와 hydroxylamine(TEMPO-H, N–OH)이 생긴다.
 5. hydroxylamine은 다시 TEMPO를 거쳐 nitrosonium으로 산화되어 순환이 닫힌다.
@@ -29,7 +29,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ![TEMPO 산화의 intermediate 부가물(I)에서 분자 내 α-H 제거로 aldehyde와 hydroxylamine이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-*그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 lone pair가 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(alkoxy) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. [alcohol 산화](알코올%20산화.md) 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.*
+*그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 lone pair가 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(alkoxy) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. [alcohol oxidation](알코올%20산화.md) 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.*
 
 ## Cu(I)/TEMPO 호기성 산화 (Stahl oxidation)
 
@@ -64,7 +64,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 ## 관련 문서
 
 - 시약: [TEMPO](../시약/TEMPO.md), [DMP](../시약/DMP.md), [TPAP](../시약/TPAP.md)
-- 반응: [alcohol 산화](알코올%20산화.md), [Swern 산화](스원%20산화.md), [Pinnick 산화](피닉%20산화.md)
+- 반응: [alcohol oxidation](알코올%20산화.md), [Swern oxidation](스원%20산화.md), [Pinnick oxidation](피닉%20산화.md)
 
 ## 출처
 
