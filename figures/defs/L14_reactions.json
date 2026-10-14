@@ -12,7 +12,7 @@
   "below": "allylic",
   "note": "L14",
   "line": 378,
-  "wiki": "반응/4+3 고리화 첨가",
+  "wiki": "개념/큐베인",
   "alt": "cyclopent-2-enone → 4-bromocyclopent-2-enone",
   "cap": "cubane 합성 1단계: allyl 자리(빨강) bromination"
  },
@@ -29,7 +29,7 @@
   "below": "",
   "note": "L14",
   "line": 379,
-  "wiki": "반응/할로젠 첨가",
+  "wiki": "개념/큐베인",
   "alt": "→ 2,3,4-tribromocyclopentanone",
   "cap": "2단계: C=C(파랑)에 $Br_2$ 첨가"
  },
@@ -46,7 +46,7 @@
   "below": "not isolated",
   "note": "L14",
   "line": 380,
-  "wiki": "반응/할로젠 첨가",
+  "wiki": "개념/큐베인",
   "alt": "→ 2-bromocyclopentadienone",
   "cap": "3단계: HBr 두 번 제거"
  }
