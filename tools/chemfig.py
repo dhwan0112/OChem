@@ -338,6 +338,7 @@ def add_shapes(svg, shapes):
     """ReShiki가 못 그리는 도형(p 오비탈 로브, 점선)을 같은 좌표계(결합 길이 1 = 42)로 덧붙인다.
     {"lobe": [x, y, 크기, 기울기(도, 시계 방향), 부호(+1 위 로브 채움 / -1), 색, 불투명도]}
     {"line": [x1, y1, x2, y2, 색, "dash"|"dot"|"solid"]}
+    {"eq": [x1, y1, x2, y2, 색, 선굵기, 촉 길이, 촉 높이, 간격]}  평형 화살표 ⇌ (x1,y1 → x2,y2 방향이 정반응)
     """
     els, xs, ys = [], [], []
     sw = 1.7500001
@@ -364,6 +365,25 @@ def add_shapes(svg, shapes):
             els.append(f'<line class="c-{col} stroke" x1="{x1*SCALE:.2f}" y1="{y1*SCALE:.2f}" x2="{x2*SCALE:.2f}" '
                        f'y2="{y2*SCALE:.2f}" stroke-width="{sw}" stroke-linecap="round"{dash}/>')
             xs += [x1 * SCALE, x2 * SCALE]; ys += [y1 * SCALE, y2 * SCALE]
+        elif "eq" in sh:
+            # 평형 화살표 ⇌ (굵은 반화살촉 두 개): [x1, y1, x2, y2, 색, 선굵기, 촉 길이, 촉 높이, 두 선 사이 간격] (길이는 SVG 단위)
+            x1, y1, x2, y2, *rest = sh["eq"]
+            col = rest[0] if rest else "ink"
+            w_, bl, bh, sep = (list(rest[1:5]) + [3.2, 21.0, 11.0, 11.0][len(rest[1:5]):])[:4]
+            p1, p2 = (x1 * SCALE, y1 * SCALE), (x2 * SCALE, y2 * SCALE)
+            ln = math.hypot(p2[0] - p1[0], p2[1] - p1[1]) or 1.0
+            ux, uy = (p2[0] - p1[0]) / ln, (p2[1] - p1[1]) / ln
+            nx, ny = uy, -ux  # 진행 방향의 왼쪽 법선(화면 좌표)
+            for (a, b, side, d) in ((p1, p2, 1, 1), (p2, p1, -1, -1)):
+                ox, oy = side * sep / 2 * nx, side * sep / 2 * ny
+                ax, ay, bx, by = a[0] + ox, a[1] + oy, b[0] + ox, b[1] + oy
+                els.append(f'<line class="c-{col} stroke" x1="{ax:.2f}" y1="{ay:.2f}" x2="{bx:.2f}" y2="{by:.2f}" '
+                           f'stroke-width="{w_}" stroke-linecap="butt"/>')
+                tx, ty = d * ux, d * uy
+                pts = [(bx, by), (bx - bl * tx + side * bh * nx, by - bl * ty + side * bh * ny),
+                       (bx - 0.7 * bl * tx, by - 0.7 * bl * ty)]
+                els.append(f'<polygon class="c-{col} fill" points="' + " ".join(f"{px:.2f},{py:.2f}" for px, py in pts) + '"/>')
+                xs += [bx, ax, pts[1][0]]; ys += [by, ay, pts[1][1]]
     m = re.search(r'viewBox="([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+)"', svg)
     x, y, w, h = map(float, m.groups())
     pad = 11.666667
