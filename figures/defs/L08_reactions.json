@@ -1,0 +1,517 @@
+[
+ {
+  "out": "figures/L08/acetone_self_aldol.json",
+  "title": "2 acetone → 4-methylpent-3-en-2-one (mesityl oxide) (notes/통독/L08 132행)",
+  "reactants": [
+   "C[C:2](C)=O",
+   "[CH3:1]C(C)=O"
+  ],
+  "products": [
+   "C[C:3](C)=[CH:3]C(C)=O",
+   "O"
+  ],
+  "conditions": "HCl (cat.)",
+  "below": "",
+  "note": "L08",
+  "line": 132,
+  "wiki": "반응/알돌 반응",
+  "alt": "2 acetone → 4-methylpent-3-en-2-one (mesityl oxide)",
+  "cap": "한 분자의 enol α-C(파랑)가 다른 분자의 C=O(빨강)에 첨가한 뒤 탈수해 C=C(초록)"
+ },
+ {
+  "out": "figures/L08/cyclopentanone_self_aldol.json",
+  "title": "2 cyclopentanone → 2-cyclopentylidenecyclopentanone (notes/통독/L08 133행)",
+  "reactants": [
+   "O=[C:2]1CCCC1",
+   "O=C1CCC[CH2:1]1"
+  ],
+  "products": [
+   "O=C1CCC[C:3]1=[C:3]1CCCC1",
+   "O"
+  ],
+  "conditions": "H+",
+  "below": "",
+  "note": "L08",
+  "line": 133,
+  "wiki": "반응/알돌 반응",
+  "alt": "2 cyclopentanone → 2-cyclopentylidenecyclopentanone",
+  "cap": "aldol 첨가 뒤 탈수"
+ },
+ {
+  "out": "figures/L08/retro_aldol_cinnamaldehyde.json",
+  "title": "cinnamaldehyde → PhCHO + CH3CHO (retro-aldol) (notes/통독/L08 168행)",
+  "reactants": [
+   "c1ccccc1/[CH:2]=[CH:2]/C=O"
+  ],
+  "products": [
+   "O=[CH:3]c1ccccc1",
+   "[CH3:3]C=O"
+  ],
+  "conditions": "K2CO3",
+  "below": "reflux",
+  "note": "L08",
+  "line": 168,
+  "wiki": "반응/역알돌 반응",
+  "alt": "cinnamaldehyde → PhCHO + CH3CHO (retro-aldol)",
+  "cap": "물이 β-C에 첨가한 뒤 C–C(빨강)가 끊어진다"
+ },
+ {
+  "out": "figures/L08/lda_acetone_propanal.json",
+  "title": "acetone + propanal (LDA) → 4-hydroxyhexan-2-one (notes/통독/L08 210행)",
+  "reactants": [
+   "[CH3:1]C(C)=O",
+   "CC[CH:2]=O"
+  ],
+  "products": [
+   "CC[CH:3](O)[CH2:3]C(C)=O"
+  ],
+  "conditions": "1. LDA, THF, −78 °C",
+  "below": "2. EtCHO; 3. H2O",
+  "note": "L08",
+  "line": 210,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "acetone + propanal (LDA) → 4-hydroxyhexan-2-one",
+  "cap": "lithium enolate(파랑)가 aldehyde C(빨강)와 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L08/lda_butanone_acetaldehyde.json",
+  "title": "butanone + acetaldehyde (LDA) → 5-hydroxyhexan-3-one (notes/통독/L08 211행)",
+  "reactants": [
+   "[CH3:1]C(=O)CC",
+   "C[CH:2]=O"
+  ],
+  "products": [
+   "CCC(=O)[CH2:3][CH:3](C)O"
+  ],
+  "conditions": "1. LDA, THF, −78 °C",
+  "below": "2. CH3CHO; 3. H2O; 75%",
+  "note": "L08",
+  "line": 211,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "butanone + acetaldehyde (LDA) → 5-hydroxyhexan-3-one",
+  "cap": "LDA는 덜 치환된 $CH_3$(파랑)에서 kinetic enolate를 만든다"
+ },
+ {
+  "out": "figures/L08/lda_propiophenone_propanal.json",
+  "title": "propiophenone + propanal → aldol (94%) (notes/통독/L08 219행)",
+  "reactants": [
+   "O=C([CH2:1]C)c1ccccc1",
+   "CC[CH:2]=O"
+  ],
+  "products": [
+   "O=C([CH:3](C)[CH:3](O)CC)c1ccccc1"
+  ],
+  "conditions": "1. LDA, −78 °C, THF",
+  "below": "2. EtCHO; 94%",
+  "note": "L08",
+  "line": 219,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "propiophenone + propanal → aldol (94%)",
+  "cap": "(Z)-enolate를 거친 교차 aldol. 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L08/lda_diisopropylketone_acrolein.json",
+  "title": "diisopropyl ketone + acrolein → 1,2-aldol (82%) (notes/통독/L08 220행)",
+  "reactants": [
+   "CC(C)C(=O)[CH:1](C)C",
+   "C=C[CH:2]=O"
+  ],
+  "products": [
+   "CC(C)C(=O)[C:3](C)(C)[CH:3](O)C=C"
+  ],
+  "conditions": "1. LDA, −78 °C, THF",
+  "below": "2. acrolein; 82%",
+  "note": "L08",
+  "line": 220,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "diisopropyl ketone + acrolein → 1,2-aldol (82%)",
+  "cap": "enolate가 acrolein의 C=O 탄소(빨강)에 직접 첨가한다"
+ },
+ {
+  "out": "figures/L08/lda_hexenone_benzaldehyde.json",
+  "title": "hex-3-en-2-one + PhCHO (LDA) → 목표 aldol (notes/통독/L08 231행)",
+  "reactants": [
+   "CC/C=C/C(=O)[CH3:1]",
+   "O=[CH:2]c1ccccc1"
+  ],
+  "products": [
+   "CC/C=C/C(=O)[CH2:3][CH:3](O)c1ccccc1"
+  ],
+  "conditions": "1. LDA",
+  "below": "2. PhCHO; 3. H2O",
+  "note": "L08",
+  "line": 231,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "hex-3-en-2-one + PhCHO (LDA) → 목표 aldol",
+  "cap": "kinetic enolate의 $CH_3$ 쪽(파랑)이 PhCHO와 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L08/tms_enol_2_methylcyclohexanone.json",
+  "title": "2-methylcyclohexanone → 더 치환된 TMS enol ether (notes/통독/L08 250행)",
+  "reactants": [
+   "C[CH:1]1CCCCC1=O"
+  ],
+  "products": [
+   "C[C:3]1=C(O[Si](C)(C)C)CCCC1"
+  ],
+  "conditions": "TMSCl, Et3N",
+  "below": "thermodynamic",
+  "note": "L08",
+  "line": 250,
+  "wiki": "시약/실릴 엔올 에터",
+  "alt": "2-methylcyclohexanone → 더 치환된 TMS enol ether",
+  "cap": "열역학 조건이라 더 치환된 C=C(초록)가 생긴다"
+ },
+ {
+  "out": "figures/L08/mukaiyama_1.json",
+  "title": "isobutyraldehyde → silyl enol ether (notes/통독/L08 285행)",
+  "reactants": [
+   "CC([CH3])[CH:1]=O"
+  ],
+  "products": [
+   "C[C:3](C)=[CH:3]O[Si](C)(C)C"
+  ],
+  "conditions": "Me3SiCl, Et3N",
+  "below": "",
+  "note": "L08",
+  "line": 285,
+  "wiki": "반응/무카이야마 알돌 반응",
+  "alt": "isobutyraldehyde → silyl enol ether",
+  "cap": "aldehyde의 silyl enol ether(초록 C=C)"
+ },
+ {
+  "out": "figures/L08/mukaiyama_2.json",
+  "title": "silyl enol ether + PhCH2CH2CHO → aldol (95%) (notes/통독/L08 285행)",
+  "reactants": [
+   "C[C:1](C)=CO[Si](C)(C)C",
+   "O=[CH:2]CCc1ccccc1"
+  ],
+  "products": [
+   "O=C[C:3](C)(C)[CH:3](O)CCc1ccccc1"
+  ],
+  "conditions": "TiCl4",
+  "below": "95%",
+  "note": "L08",
+  "line": 285,
+  "wiki": "반응/무카이야마 알돌 반응",
+  "alt": "silyl enol ether + PhCH2CH2CHO → aldol (95%)",
+  "cap": "TiCl4가 C=O를 활성화해 enol ether(파랑)가 공격한다"
+ },
+ {
+  "out": "figures/L08/mukaiyama_ketone_1.json",
+  "title": "3-pentanone → silyl enol ether (notes/통독/L08 286행)",
+  "reactants": [
+   "CC[C:1](=O)CC"
+  ],
+  "products": [
+   "C/[CH:3]=[C:3](/CC)O[Si](C)(C)C"
+  ],
+  "conditions": "Me3SiCl, Et3N",
+  "below": "",
+  "note": "L08",
+  "line": 286,
+  "wiki": "반응/무카이야마 알돌 반응",
+  "alt": "3-pentanone → silyl enol ether",
+  "cap": "silyl enol ether 형성"
+ },
+ {
+  "out": "figures/L08/mukaiyama_ketone_2.json",
+  "title": "enol ether + 2-methylbutanal → aldol (92%) (notes/통독/L08 286행)",
+  "reactants": [
+   "C/[CH:1]=C(/CC)O[Si](C)(C)C",
+   "CCC(C)[CH:2]=O"
+  ],
+  "products": [
+   "CCC(C)[CH:3](O)[CH:3](C)C(=O)CC"
+  ],
+  "conditions": "TiCl4",
+  "below": "92%",
+  "note": "L08",
+  "line": 286,
+  "wiki": "반응/무카이야마 알돌 반응",
+  "alt": "enol ether + 2-methylbutanal → aldol (92%)",
+  "cap": "새 C–C(초록)"
+ },
+ {
+  "out": "figures/L08/mukaiyama_ketone_3.json",
+  "title": "aldol → enone (TsOH 탈수) (notes/통독/L08 286행)",
+  "reactants": [
+   "CCC(C)[CH:2]([OH:2])C(C)C(=O)CC"
+  ],
+  "products": [
+   "CCC(C)[CH:3]=[C:3](C)C(=O)CC",
+   "O"
+  ],
+  "conditions": "TsOH",
+  "below": "",
+  "note": "L08",
+  "line": 286,
+  "wiki": "반응/무카이야마 알돌 반응",
+  "alt": "aldol → enone (TsOH 탈수)",
+  "cap": "OH(빨강)가 빠지며 공액 C=C(초록)"
+ },
+ {
+  "out": "figures/L08/tms_enol_phenylacetone.json",
+  "title": "1-phenylpropan-2-one → CH3C(OTMS)=CHPh (notes/통독/L08 287행)",
+  "reactants": [
+   "C[C:1](=O)[CH2:1]c1ccccc1"
+  ],
+  "products": [
+   "C[C:3](O[Si](C)(C)C)=[CH:3]c1ccccc1"
+  ],
+  "conditions": "Me3SiCl, Et3N",
+  "below": "",
+  "note": "L08",
+  "line": 287,
+  "wiki": "시약/실릴 엔올 에터",
+  "alt": "1-phenylpropan-2-one → CH3C(OTMS)=CHPh",
+  "cap": "C=C(초록)가 phenyl과 공액되는 쪽에 생긴다"
+ },
+ {
+  "out": "figures/L08/knoevenagel_malonate.json",
+  "title": "diethyl malonate + isobutyraldehyde → Knoevenagel (92%) (notes/통독/L08 297행)",
+  "reactants": [
+   "CCOC(=O)[CH2:1]C(=O)OCC",
+   "CC(C)[CH:2]=O"
+  ],
+  "products": [
+   "CCOC(=O)[C:3](=[CH:3]C(C)C)C(=O)OCC"
+  ],
+  "conditions": "R2NH, HOAc",
+  "below": "92%",
+  "note": "L08",
+  "line": 297,
+  "wiki": "반응/크뇌베나겔 축합",
+  "alt": "diethyl malonate + isobutyraldehyde → Knoevenagel (92%)",
+  "cap": "1,3-dicarbonyl의 α-C(파랑)와 aldehyde C(빨강)가 탈수까지 가서 C=C(초록)"
+ },
+ {
+  "out": "figures/L08/henry_benzaldehyde.json",
+  "title": "PhCHO + CH3NO2 → (E)-β-nitrostyrene (notes/통독/L08 299행)",
+  "reactants": [
+   "O=[CH:2]c1ccccc1",
+   "[CH3:1][N+](=O)[O-]"
+  ],
+  "products": [
+   "[O-][N+](=O)/[CH:3]=[CH:3]/c1ccccc1"
+  ],
+  "conditions": "NaOH, MeOH",
+  "below": "85%",
+  "note": "L08",
+  "line": 299,
+  "wiki": "반응/헨리 반응",
+  "alt": "PhCHO + CH3NO2 → (E)-β-nitrostyrene",
+  "cap": "Henry 반응 후 탈수"
+ },
+ {
+  "out": "figures/L08/henry_cyclohexanone.json",
+  "title": "cyclohexanone + CH3NO2 → 1-(nitromethyl)cyclohexanol (notes/통독/L08 300행)",
+  "reactants": [
+   "O=[C:2]1CCCCC1",
+   "[CH3:1][N+](=O)[O-]"
+  ],
+  "products": [
+   "OC1([CH2:3][N+](=O)[O-])CCCCC1"
+  ],
+  "conditions": "NaOH, MeOH",
+  "below": "70%",
+  "note": "L08",
+  "line": 300,
+  "wiki": "반응/헨리 반응",
+  "alt": "cyclohexanone + CH3NO2 → 1-(nitromethyl)cyclohexanol",
+  "cap": "ketone에서는 첨가 생성물에서 멈춘다"
+ },
+ {
+  "out": "figures/L08/cyclohexanone_self_aldol.json",
+  "title": "cyclohexanone → 2-cyclohexylidenecyclohexanone (notes/통독/L08 301행)",
+  "reactants": [
+   "O=[C:2]1CCCCC1",
+   "O=C1CCCC[CH2:1]1"
+  ],
+  "products": [
+   "O=C1CCCC[C:3]1=[C:3]1CCCCC1"
+  ],
+  "conditions": "NaOH, MeOH",
+  "below": "",
+  "note": "L08",
+  "line": 301,
+  "wiki": "반응/알돌 반응",
+  "alt": "cyclohexanone → 2-cyclohexylidenecyclohexanone",
+  "cap": "자기 축합"
+ },
+ {
+  "out": "figures/L08/pseudoionone.json",
+  "title": "geranial + acetone → pseudoionone (notes/통독/L08 309행)",
+  "reactants": [
+   "CC(C)=CCC/C(C)=C/[CH:2]=O",
+   "[CH3:1]C(C)=O"
+  ],
+  "products": [
+   "CC(C)=CCC/C(C)=C/[CH:3]=[CH:3]/C(C)=O"
+  ],
+  "conditions": "EtONa, EtOH, −5 °C",
+  "below": "49%",
+  "note": "L08",
+  "line": 309,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "geranial + acetone → pseudoionone",
+  "cap": "acetone enolate(파랑)가 geranial C=O(빨강)에 첨가하고 탈수한다"
+ },
+ {
+  "out": "figures/L08/chalcone.json",
+  "title": "PhCHO + PhCOCH3 → chalcone (notes/통독/L08 310행)",
+  "reactants": [
+   "O=[CH:2]c1ccccc1",
+   "[CH3:1]C(=O)c1ccccc1"
+  ],
+  "products": [
+   "O=C(/[CH:3]=[CH:3]/c1ccccc1)c1ccccc1"
+  ],
+  "conditions": "HO−, 20 °C",
+  "below": "85%",
+  "note": "L08",
+  "line": 310,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "PhCHO + PhCOCH3 → chalcone",
+  "cap": "α-H 없는 benzaldehyde가 electrophile(빨강), acetophenone이 enolate(파랑)"
+ },
+ {
+  "out": "figures/L08/intramolecular_oxoheptanal.json",
+  "title": "6-oxoheptanal → 1-acetylcyclopentene (notes/통독/L08 324행)",
+  "reactants": [
+   "[CH3:1]C(=O)CCCC[CH:2]=O"
+  ],
+  "products": [
+   "CC(=O)[C:3]1=[CH:3]CCC1"
+  ],
+  "conditions": "HO−",
+  "below": "73%",
+  "note": "L08",
+  "line": 324,
+  "wiki": "반응/분자내 알돌 반응",
+  "alt": "6-oxoheptanal → 1-acetylcyclopentene",
+  "cap": "ketone 쪽 enolate(파랑)가 더 좋은 electrophile인 aldehyde(빨강)를 공격"
+ },
+ {
+  "out": "figures/L08/intramolecular_cyclodecanedione.json",
+  "title": "cyclodecane-1,6-dione → bicyclo[5.3.0] enone (notes/통독/L08 325행)",
+  "reactants": [
+   "O=[C:2]1CCCC[CH2:1]C(=O)CCC1"
+  ],
+  "products": [
+   "O=C1CCCC[C:3]2=[C:3]1CCC2"
+  ],
+  "conditions": "acid or base",
+  "below": "",
+  "note": "L08",
+  "line": 325,
+  "wiki": "반응/분자내 알돌 반응",
+  "alt": "cyclodecane-1,6-dione → bicyclo[5.3.0] enone",
+  "cap": "5원/7원 융합 고리, 접합부 C=C(초록)"
+ },
+ {
+  "out": "figures/L08/intramolecular_nonanedione.json",
+  "title": "nonane-2,8-dione → 1-(2-methylcyclohex-1-enyl)ethanone (notes/통독/L08 326행)",
+  "reactants": [
+   "[CH3:1]C(=O)CCCCC[C:2](C)=O"
+  ],
+  "products": [
+   "CC(=O)[C:3]1=[C:3](C)CCCC1"
+  ],
+  "conditions": "H2SO4",
+  "below": "85%",
+  "note": "L08",
+  "line": 326,
+  "wiki": "반응/분자내 알돌 반응",
+  "alt": "nonane-2,8-dione → 1-(2-methylcyclohex-1-enyl)ethanone",
+  "cap": "6원 고리가 생기는 쪽으로 닫힌다"
+ },
+ {
+  "out": "figures/L08/lda_cyclohexanone_benzaldehyde.json",
+  "title": "cyclohexanone + PhCHO → 2-[hydroxy(phenyl)methyl]cyclohexanone (notes/통독/L08 424행)",
+  "reactants": [
+   "O=C1CCCC[CH2:1]1",
+   "O=[CH:2]c1ccccc1"
+  ],
+  "products": [
+   "O=C1CCCC[CH:3]1[CH:3](O)c1ccccc1"
+  ],
+  "conditions": "1. LDA, THF, −78 °C",
+  "below": "2. PhCHO; 3. H2O",
+  "note": "L08",
+  "line": 424,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "cyclohexanone + PhCHO → 2-[hydroxy(phenyl)methyl]cyclohexanone",
+  "cap": "새 C–C(초록)"
+ },
+ {
+  "out": "figures/L08/lda_methylbutanone_propanal.json",
+  "title": "3-methylbutan-2-one + propanal → aldol (notes/통독/L08 426행)",
+  "reactants": [
+   "CC(C)C(=O)[CH3:1]",
+   "CC[CH:2]=O"
+  ],
+  "products": [
+   "CC(C)C(=O)[CH2:3][CH:3](O)CC"
+  ],
+  "conditions": "1. LDA, THF, −78 °C",
+  "below": "2. EtCHO; 3. H2O",
+  "note": "L08",
+  "line": 426,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "3-methylbutan-2-one + propanal → aldol",
+  "cap": "kinetic enolate는 덜 치환된 $CH_3$(파랑)에서 생긴다"
+ },
+ {
+  "out": "figures/L08/lilial_1.json",
+  "title": "4-tert-butyltoluene → 4-tert-butylbenzaldehyde (notes/통독/L08 430행)",
+  "reactants": [
+   "CC(C)(C)c1ccc([CH3:2])cc1"
+  ],
+  "products": [
+   "CC(C)(C)c1ccc([CH:3]=O)cc1"
+  ],
+  "conditions": "oxidation",
+  "below": "",
+  "note": "L08",
+  "line": 430,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "4-tert-butyltoluene → 4-tert-butylbenzaldehyde",
+  "cap": "lilial 1단계"
+ },
+ {
+  "out": "figures/L08/lilial_2.json",
+  "title": "4-tBu-benzaldehyde + propanal → α,β-unsaturated aldehyde (notes/통독/L08 430행)",
+  "reactants": [
+   "CC(C)(C)c1ccc([CH:2]=O)cc1",
+   "C[CH2:1]C=O"
+  ],
+  "products": [
+   "CC(C)(C)c1ccc(/[CH:3]=[C:3](\\C)C=O)cc1"
+  ],
+  "conditions": "HO− (cat.)",
+  "below": "",
+  "note": "L08",
+  "line": 430,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "4-tBu-benzaldehyde + propanal → α,β-unsaturated aldehyde",
+  "cap": "lilial 2단계: 교차 aldol 축합"
+ },
+ {
+  "out": "figures/L08/lilial_3.json",
+  "title": "→ lilial (notes/통독/L08 430행)",
+  "reactants": [
+   "CC(C)(C)c1ccc(/[CH:1]=[C:1](\\C)C=O)cc1"
+  ],
+  "products": [
+   "CC(C)(C)c1ccc([CH2:3][CH:3](C)C=O)cc1"
+  ],
+  "conditions": "H2/Pd",
+  "below": "",
+  "note": "L08",
+  "line": 430,
+  "wiki": "반응/교차 알돌 반응",
+  "alt": "→ lilial",
+  "cap": "lilial 3단계: C=C(파랑)만 수소화"
+ }
+]
