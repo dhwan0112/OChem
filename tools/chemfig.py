@@ -279,6 +279,11 @@ def decorate(doc, spec):
 
 # ---------------- 렌더링과 다크 모드 후처리 ----------------
 
+def fix_font(txt):
+    """기존 그림과 같은 글꼴(DejaVu Sans)로 고정한다. ReShiki nightly는 Arial을 Noto Sans CJK로 대체해 글자가 작고 가늘어 보인다."""
+    return txt.replace('"family":"Arial"', '"family":"DejaVu Sans"').replace('"family": "Arial"', '"family": "DejaVu Sans"')
+
+
 def convert_to_svg(src, out):
     r = subprocess.run([reshiki_bin(), "--cli", "convert", src, "-o", out, "--force"],
                        capture_output=True, text=True, timeout=120)
@@ -318,6 +323,9 @@ def theme_svg(svg):
         return el
 
     svg = re.sub(r"<(line|path|text|circle|ellipse|polygon|polyline)\b[^>]*?/?>", tag, svg)
+    # 한글이 섞인 캡션도 깨지지 않게 글꼴 대체 목록을 붙인다
+    svg = re.sub(r'font-family="(DejaVu Sans|Noto Sans CJK JP)"',
+                 'font-family="DejaVu Sans, Noto Sans CJK KR, Noto Sans CJK JP, sans-serif"', svg)
     # 표시 크기: 결합 하나가 화면에서 약 26px
     m = re.search(r'viewBox="([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+)"', svg)
     x, y, w, h = map(float, m.groups())
@@ -378,10 +386,20 @@ def build(path, out=None):
             pj = os.path.join(td, "p.json")
             with open(pj, "w") as f:
                 json.dump(scheme_proposal(spec["scheme"]), f)
-            r = subprocess.run([reshiki_bin(), "--cli", "compose", pj, "-o", raw],
-                               capture_output=True, text=True, timeout=120)
-            if r.returncode != 0:
-                sys.exit("reshiki compose 오류: " + r.stderr.strip())
+            mcp = Mcp(td)
+            try:
+                res = mcp.call("compose", {"proposal": scheme_proposal(spec["scheme"]), "style_document": None})
+                rsk0 = os.path.join(td, "scheme.rsk")
+                mcp.call("file_save", {"document": res["value"]["document"], "path": rsk0,
+                                       "format": None, "overwrite": True, "pages": None})
+            finally:
+                mcp.close()
+            with open(rsk0) as f:
+                txt = f.read()
+            fixed = os.path.join(td, "scheme_font.rsk")
+            with open(fixed, "w") as f:
+                f.write(fix_font(txt))
+            convert_to_svg(fixed, raw)
         else:
             mcp = Mcp(td)
             try:
@@ -395,7 +413,7 @@ def build(path, out=None):
                 doc = decorate(json.load(f), spec)
             final = os.path.join(td, "final.rsk")
             with open(final, "w") as f:
-                json.dump(doc, f)
+                f.write(fix_font(json.dumps(doc)))
             if spec.get("keep_rsk"):
                 with open(os.path.splitext(out)[0] + ".rsk", "w") as f:
                     json.dump(doc, f, indent=1)
