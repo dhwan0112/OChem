@@ -66,7 +66,10 @@ isoprene + HBr 반응에서는 regioselectivity 문제가 **두 번** 나온다(
 
 > 개념 문서: [epoxide ring opening](../../wiki/반응/에폭사이드%20고리%20열기.md), [loose SN2 transition state](../../wiki/개념/느슨한%20SN2%20전이%20상태.md)
 
-comment: 기본적인 epoxide링 구조 그림 추가 바람. 
+![epoxide(oxirane) 기본 고리 구조](../../figures/L02/epoxide_ring.svg)
+
+그림: 보충: epoxide(oxirane)의 기본 구조. 산소(파랑)는 비공유 전자쌍을 가진 Lewis 염기 자리이고, 극성 C–O 결합(빨강) 쪽 고리 탄소가 nucleophile에게 공격받는 친전자성 자리다. 결합각이 약 60°인 3원 고리라 ring strain이 커서 고리가 열리기 쉽다.
+
 epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 
 그런데 epoxide는 중성이라 그대로는 잘 열리지 않는다. 
 고리를 열려면 **산 촉매** 또는 **강한 nucleophile**이 필요하다. 
