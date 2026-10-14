@@ -26,7 +26,9 @@ NaBH₄는 ethyl acetate나 ethyl benzoate 같은 ester를 아주 느리게만 �
 
 ## 선택성
 
-`MeO2C-CH2-CH(CH3)-CH2-CO2H --[LiBH4, EtOH]--> HO-CH2-CH2-CH(CH3)-CH2-CO2H`
+$$
+\mathrm{MeO_2C{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H} \xrightarrow[\mathrm{EtOH}]{\mathrm{LiBH_4}} \mathrm{HO{-}CH_2{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H}
+$$
 
 ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 [carbonyl 반응성 서열](../개념/금속%20수소화물의%20반응성.md)(aldehyde > ketone > ester > amide > carboxylate)에서 찾을 수 있다. 산은 hydride 시약과 만나면 deprotonate되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다. (출처: L5 p.18, p.22)
 
@@ -34,7 +36,12 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 
 ## 예
 
-- `MeO2C-CH2CH(CH3)CH2-CO2H --[LiBH4, EtOH]--> HOCH2CH2CH(CH3)CH2-CO2H` (ester만 환원) (L5) (출처: L5 p.22)
+-
+  $$
+  \mathrm{MeO_2C{-}CH_2CH(CH_3)CH_2{-}CO_2H} \xrightarrow[\mathrm{EtOH}]{\mathrm{LiBH_4}} \mathrm{HOCH_2CH_2CH(CH_3)CH_2{-}CO_2H}
+  $$
+
+  (ester만 환원) (L5) (출처: L5 p.22)
 - 3β-acetoxy steroid-20-온: NaBH₄는 ketone만 환원하고 acetate를 남기지만, LiBH₄는 ketone과 acetate를 모두 환원해 3β-OH가 드러난 diol을 준다([L5 연습 문제](../../practice/L05_Exercises.md) 5번). (L5) (출처: L5 p.25)
 - [Evans oxazolidinone](에반스%20옥사졸리디논.md) 제거: alkylate된 N-acyl oxazolidinone을 LiBH₄로 환원하면 chiral 1차 alcohol(2-benzylbutane-1-ol)이 나오고 α-stereocenter는 유지된다. (L7) (출처: L7 p.28)
 

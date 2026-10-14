@@ -43,9 +43,24 @@ tags: [분류/반응, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 
 ## 예
 
-- `cyclopentene oxide --[Me₂NH]--> trans-2-(dimethylamino)cyclopentanol (±)`: backside attack이므로 *trans*. (출처: L2 p.10)
-- `PhCH₂CH₂Br --[NaN₃, EtOH]--> PhCH₂CH₂N₃ --[1. LiAlH₄; 2. H₂O]--> PhCH₂CH₂NH₂ (89%)`. (출처: L5 p.7)
-- `CH₃CH(OTBDMS)(CH₂)₃Br --[HC≡CLi]--> CH₃CH(OTBDMS)(CH₂)₃C≡CH`. (출처: L12 p.5–6)
+-
+  $$
+  \text{cyclopentene oxide} \xrightarrow{\mathrm{Me_2NH}} \text{trans-2-(dimethylamino)cyclopentanol}\ \mathrm{(\pm )}
+  $$
+
+  backside attack이므로 *trans*. (출처: L2 p.10)
+-
+  $$
+  \mathrm{PhCH_2CH_2Br} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaN_3}} \mathrm{PhCH_2CH_2N_3} \xrightarrow{1.\ \mathrm{LiAlH_4};\ 2.\ \mathrm{H_2O}} \mathrm{PhCH_2CH_2NH_2}\ (89\%)
+  $$
+
+  (출처: L5 p.7)
+-
+  $$
+  \mathrm{CH_3CH(OTBDMS)(CH_2)_3Br} \xrightarrow{\mathrm{HC{\equiv}CLi}} \mathrm{CH_3CH(OTBDMS)(CH_2)_3C{\equiv}CH}
+  $$
+
+  (출처: L12 p.5–6)
 - 연습 문제에서는 alcohol → OTs(retention) → KCN(SN2, inversion)처럼 stereocenter를 추적하는 문제로 나온다. (출처: Tutorial 1 문제 2)
 
 ## 흔한 오해

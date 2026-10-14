@@ -15,7 +15,9 @@ carbamate는 질소의 비공유 전자쌍을 C=O와 공명시켜 amine의 nucle
 
 ## 도입
 
-`RR'NH --[BnOCOCl(benzyl chloroformate), base]--> R'RN-CO-OCH2Ph`
+$$
+\mathrm{RR'NH} \xrightarrow{\mathrm{BnOCOCl}(\text{benzyl chloroformate}),\ \text{base}} \mathrm{R'RN{-}CO{-}OCH_2Ph}
+$$
 
 chloroformate(Cl–CO–OR″)로 carbamate를 만드는 일반형의 한 예다. (출처: L12 p.8)
 

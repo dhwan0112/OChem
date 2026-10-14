@@ -20,7 +20,13 @@ peracid는 carboxylic acid의 C(=O)와 산성 H 사이에 산소가 하나 더 �
 | alkene | epoxide | stereospecific syn 산소 전달 ([epoxidation](../반응/에폭시화.md)) |
 | alkene → epoxide → H₂O/H⁺ | *trans*-1,2-diol | anti diol ([epoxide ring opening](../반응/에폭사이드%20고리%20열기.md), [dihydroxylation](../반응/다이하이드록실화.md)) |
 
-예: `cyclohexene --[mCPBA]--> cyclohexene oxide (95%)` + *m*-chlorobenzoic acid. (출처: L1 p.14)
+예:
+
+$$
+\text{cyclohexene} \xrightarrow{\mathrm{mCPBA}} \text{cyclohexene oxide}\ (95\%) + \text{m-chlorobenzoic acid}
+$$
+
+(출처: L1 p.14)
 
 ## 왜 산소가 electrophilic한가
 

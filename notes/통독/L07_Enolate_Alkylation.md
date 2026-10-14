@@ -24,7 +24,7 @@
 
 앞 강의(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) Wittig/HWE reaction 문서 참고)에서 ylide는 보통 BuLi 같은 강염기로 만들었다. 그런데 bromoacetic acid ester에서 출발한 phosphonium 염은 Na2CO3 같은 약염기로도 ylide가 된다. 왜 그럴까?
 
-답은 음전하 옆에 붙은 C=O에 있다. `BrCH2CO2R --[PPh3]--> Ph3P+-CH2CO2R --[Na2CO3]--> Ph3P+-CH−-CO2R` 에서 생긴 음전하는 carbonyl 산소까지 퍼져 나가, enolate와 똑같은 모양의 공명 구조(O−가 있는 C=C)를 갖는다. 즉 anion이 안정해진 만큼 C-H가 산성이 되어 약한 염기로도 충분하다. 이렇게 콘쥬게이션하거나 anion을 안정화하는 치환기(R = H, OR, alkyl인 C(=O)R)를 가진 것을 안정화 ylide(stabilized ylide)라 한다.
+답은 음전하 옆에 붙은 C=O에 있다. $\mathrm{BrCH_2CO_2R} \xrightarrow{\mathrm{PPh_3}} \mathrm{Ph_3P^+{-}CH_2CO_2R} \xrightarrow{\mathrm{Na_2CO_3}} \mathrm{Ph_3P^+{-}CH^-{-}CO_2R}$ 에서 생긴 음전하는 carbonyl 산소까지 퍼져 나가, enolate와 똑같은 모양의 공명 구조(O−가 있는 C=C)를 갖는다. 즉 anion이 안정해진 만큼 C-H가 산성이 되어 약한 염기로도 충분하다. 이렇게 콘쥬게이션하거나 anion을 안정화하는 치환기(R = H, OR, alkyl인 C(=O)R)를 가진 것을 안정화 ylide(stabilized ylide)라 한다.
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
@@ -34,7 +34,7 @@
 
 그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.
 
-HWE(Horner–Wadsworth–Emmons) 반응의 phosphonate도 같다. `(EtO)2P(=O)CH2C(=O)R --[EtO− 또는 NaH]-->` 로 생긴 anion은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[1] 결국 이번 강의의 주인공인 enolate는 이미 한 번 만나 본 셈이다.
+HWE(Horner–Wadsworth–Emmons) 반응의 phosphonate도 같다. $\mathrm{(EtO)_2P({=}O)CH_2C({=}O)R} \xrightarrow{\mathrm{EtO^-}\ \text{또는}\ \mathrm{NaH}}$ 로 생긴 anion은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[1] 결국 이번 강의의 주인공인 enolate는 이미 한 번 만나 본 셈이다.
 
 (출처: L7 p.3)
 
@@ -74,9 +74,9 @@ carbonyl 화합물이 α-H를 잃어 생긴 anion이 enolate이고, 음전하가
 
 그림: 슬라이드 p.24의 acetaldehyde 예다. 왼쪽: HO⁻(파랑, 염기)의 비공유 전자쌍이 α-H(빨강)를 떼어 가고(화살표 1), 끊어진 C–H 결합 전자쌍이 C–C 사이로 들어가 C=C가 되며(화살표 2), 원래 C=O의 π 전자가 산소로 밀려나 O⁻가 된다(화살표 3). 오른쪽: 생긴 enolate는 음전하가 O에 있는 oxyanion과 α-C에 있는 carbanion의 공명 혼성체다. oxyanion 위의 두 화살표(O의 전자쌍이 C=O로, C=C의 π 전자가 α-C로)가 두 공명 구조를 잇는다. 염기를 LDA로 바꿔도 화살표의 흐름은 같다. (출처: L7 p.5, p.24)
 
-예를 들어 acetone에 EtONa를 넣으면 `아세톤(pKa 19) + EtONa ⇌ 소듐 엔올레이트 + EtOH(pKa 16)` 의 평형이 된다. 오른쪽의 EtOH가 왼쪽의 acetone보다 더 강한 산이므로 평형은 왼쪽으로 치우치고, enolate는 아주 조금만 존재한다. 산-염기 평형은 늘 "약한 산·약한 염기 쪽"으로 기운다는 원칙 그대로다.
+예를 들어 acetone에 EtONa를 넣으면 $\text{아세톤}(\text{pKa}\ 19) + \mathrm{EtONa} \rightleftharpoons \text{소듐 엔올레이트} + \mathrm{EtOH}(\text{pKa}\ 16)$ 의 평형이 된다. 오른쪽의 EtOH가 왼쪽의 acetone보다 더 강한 산이므로 평형은 왼쪽으로 치우치고, enolate는 아주 조금만 존재한다. 산-염기 평형은 늘 "약한 산·약한 염기 쪽"으로 기운다는 원칙 그대로다.
 
-반면 LDA를 쓰면 `케톤(pKa 19) + LiN(i-Pr)2 → 리튬 엔올레이트 + HN(i-Pr)2(pKa 38)` 이 되어, 이번에는 생성되는 amine이 훨씬 약한 산이므로 사실상 완전히 오른쪽으로 간다.[2] 그래서 enolate를 정량적으로 만들고 싶을 때는 LDA가 표준이다.
+반면 LDA를 쓰면 $\text{케톤}(\text{pKa}\ 19) + \mathrm{LiN(\mathit{i}\text{-}Pr)_2} \longrightarrow \text{리튬 엔올레이트} + \mathrm{HN(\mathit{i}\text{-}Pr)_2}(\text{pKa}\ 38)$ 이 되어, 이번에는 생성되는 amine이 훨씬 약한 산이므로 사실상 완전히 오른쪽으로 간다.[2] 그래서 enolate를 정량적으로 만들고 싶을 때는 LDA가 표준이다.
 
 보충: 교과서는 enolate alkylation의 염기 선택을 두 전략으로 정리한다. 하나는 conjugate acid의 pKa가 carbonyl 화합물보다 큰 강염기(LDA 등)로 출발물을 먼저 완전히 enolate로 바꾼 뒤, electrophile을 따로 넣는 2단계 방식이다. 다른 하나는 약한 염기를 electrophile과 함께 넣어 조금씩 생기는 enolate가 생기는 대로 반응하게 하는 방식이다. 후자는 간편하지만 염기와 electrophile이 서로 반응하지 않아야 하고, 남아 있는 carbonyl이 enolate와 자기 축합할 위험이 있다. 그래서 단순 ketone·ester에는 전자(LDA)를 쓰고, 산성이 큰 1,3-dicarbonyl은 alkoxide로도 완전히 deprotonate되며 K2CO3처럼 친핵성이 약한 염기라면 electrophile과 한꺼번에 넣기도 한다. (보충 근거: Clayden p.585, p.595)
 
@@ -84,7 +84,13 @@ carbonyl 화합물이 α-H를 잃어 생긴 anion이 enolate이고, 음전하가
 
 ### 1.3 LDA는 왜 "강하지만 친핵성이 없는" 염기인가?
 
-LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 만든다: `n-BuLi + HN(i-Pr)2 --[THF]--> LiN(i-Pr)2 + pKa 50`. BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 산인 butane이 기체로 빠져나가므로 되돌아가지 않는다.
+LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 만든다:
+
+$$
+\mathrm{\mathit{n}\text{-}BuLi} + \mathrm{HN(\mathit{i}\text{-}Pr)_2} \xrightarrow{\mathrm{THF}} \mathrm{LiN(\mathit{i}\text{-}Pr)_2} + \text{pKa}\ 50
+$$
+
+BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 산인 butane이 기체로 빠져나가므로 되돌아가지 않는다.
 
 ![n-BuLi + diisopropylamine → LDA](../../figures/L07/lda_formation.svg)
 
@@ -152,7 +158,13 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 
 ### 2.3 ester와 락톤도 될까?
 
-된다. ester α-H(pKa ~25)는 ketone보다 덜 산성이지만 LDA로는 충분하다. butanoic acid methyl을 LDA/THF로 enolate화한 뒤 ethyl iodide를 넣으면 2-ethylbutanoic acid methyl이 96%로 얻어진다: `CH3CH2CH2CO2Me --[LDA, THF; CH3CH2I]--> (CH3CH2)2CHCO2Me`.[4]
+된다. ester α-H(pKa ~25)는 ketone보다 덜 산성이지만 LDA로는 충분하다. butanoic acid methyl을 LDA/THF로 enolate화한 뒤 ethyl iodide를 넣으면 2-ethylbutanoic acid methyl이 96%로 얻어진다:
+
+$$
+\mathrm{CH_3CH_2CH_2CO_2Me} \xrightarrow[\mathrm{THF}]{\mathrm{LDA},\ \mathrm{CH_3CH_2I}} \mathrm{(CH_3CH_2)_2CHCO_2Me}
+$$
+
+[4]
 
 ![methyl butanoate → methyl 2-ethylbutanoate](../../figures/L07/ester_alkylation.svg)
 
@@ -192,9 +204,13 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 ### 3.2 거꾸로 생각하기: 2-pentanone의 역합성
 
-그럼 목표 분자가 주어졌을 때 어떻게 거꾸로 짚어 갈까? 2-pentanone CH3COCH2CH2CH3를 보자. methyl ketone CH3CO-CH2-R에서 C=O 옆 CH2와 R 사이를 끊는다고 생각하면, CH3COCH2- 부분은 acetoacetic ester가, R(여기서는 ethyl)은 alkyl halide이 공급한다. 즉 `2-펜타논 + CO2 ⇒ 2-에틸-3-옥소뷰탄산 ⇒ 2-에틸아세토아세트산 에틸 ⇒ 아세토아세트산 에틸` 순으로 거슬러 올라간다.
+그럼 목표 분자가 주어졌을 때 어떻게 거꾸로 짚어 갈까? 2-pentanone CH3COCH2CH2CH3를 보자. methyl ketone CH3CO-CH2-R에서 C=O 옆 CH2와 R 사이를 끊는다고 생각하면, CH3COCH2- 부분은 acetoacetic ester가, R(여기서는 ethyl)은 alkyl halide이 공급한다. 즉 $\text{2-펜타논} + \mathrm{CO_2} \Longrightarrow \text{2-에틸-3-옥소뷰탄산} \Longrightarrow \text{2-에틸아세토아세트산 에틸} \Longrightarrow \text{아세토아세트산 에틸}$ 순으로 거슬러 올라간다.
 
-실제 합성은 그 반대 순서다: `아세토아세트산 에틸 --[(1) NaOEt; (2) CH3CH2Br]--> 2-에틸아세토아세트산 에틸 --[(1) dil. NaOH, heat; (2) H3O+]--> 2-에틸-3-옥소뷰탄산 --[heat]--> 2-펜타논 + CO2`.
+실제 합성은 그 반대 순서다:
+
+$$
+\text{아세토아세트산 에틸} \xrightarrow{(1)\ \mathrm{NaOEt};\ (2)\ \mathrm{CH_3CH_2Br}} \text{2-에틸아세토아세트산 에틸} \xrightarrow{(1)\ \text{dil.}\ \mathrm{NaOH},\ \text{heat};\ (2)\ \mathrm{H_3O^+}} \text{2-에틸-3-옥소뷰탄산} \xrightarrow{\text{heat}} \text{2-펜타논} + \mathrm{CO_2}
+$$
 
 ![acetoacetic ester 합성으로 2-pentanone 만들기 (1/3)](../../figures/L07/acetoacetic_ester_pentanone_1.svg)
 
@@ -225,13 +241,13 @@ malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 
 
 조건은 단순하다. α-H가 있으면 된다. cyclohexanone은 enol 및 enolate로 바뀔 수 있고, α-탄소가 두 개인 2-뷰타논은 위치 이성질 enol 두 개와 위치 이성질 enolate 두 개(CH3CH=C(O−)CH3, CH2=C(O−)CH2CH3)를 갖는다. aldehyde도 cyclopentanecarbaldehyde처럼 α-H가 있으면 enol/enolate(cyclopentyl리덴 C=CH-O−)가 된다.
 
-반대로 α-H가 하나도 없으면 enolization이 non-enolizable. Ph2CO, benzaldehyde(PhCHO), 2,2-dimethylpropanal(pivaldehyde, (CH3)3CCHO), formaldehyde(HCHO)가 그렇다. ester는 methoxide 같은 alkoxide와 가역 평형을 이루며 enolate를 소량 만든다(`에스터 + MeO− ⇌ 에스터 엔올레이트 + MeOH`).
+반대로 α-H가 하나도 없으면 enolization이 non-enolizable. Ph2CO, benzaldehyde(PhCHO), 2,2-dimethylpropanal(pivaldehyde, (CH3)3CCHO), formaldehyde(HCHO)가 그렇다. ester는 methoxide 같은 alkoxide와 가역 평형을 이루며 enolate를 소량 만든다($\text{에스터} + \mathrm{MeO^-} \rightleftharpoons \text{에스터 엔올레이트} + \mathrm{MeOH}$).
 
 (출처: L7 p.21)
 
 ### 4.2 carbonyl이 아니어도 enolate 같은 것이 생기나?
 
-생긴다. 질소를 포함한 작용기들이 그 예다. nitrile은 `PhCH2C≡N --[base]--> [PhCH=C=N− ↔ PhCH−-C≡N]` 처럼 음전하를 질소로 넘길 수 있다. imine(C=N)은 `(CH3)2CH-CH=NPh --[base]--> (CH3)2C=CH-N−Ph` 로 아자-enolate(aza-enolate)를 만든다. nitro 화합물(N=O)은 특히 산성이라 nitro메테인은 Et3N 같은 약한 amine으로도 nitro메테인 anion(CH2=N+(O−)O−)이 된다.
+생긴다. 질소를 포함한 작용기들이 그 예다. nitrile은 $\mathrm{PhCH_2C{\equiv}N} \xrightarrow{\text{base}} \mathrm{[PhCH{=}C{=}N^-}\ \leftrightarrow\ \mathrm{PhCH^-{-}C{\equiv}N]}$ 처럼 음전하를 질소로 넘길 수 있다. imine(C=N)은 $\mathrm{(CH_3)_2CH{-}CH{=}NPh} \xrightarrow{\text{base}} \mathrm{(CH_3)_2C{=}CH{-}N^-Ph}$ 로 아자-enolate(aza-enolate)를 만든다. nitro 화합물(N=O)은 특히 산성이라 nitro메테인은 Et3N 같은 약한 amine으로도 nitro메테인 anion(CH2=N+(O−)O−)이 된다.
 
 ![PhCH2CN → nitrile-stabilized carbanion](../../figures/L07/nitrile_anion.svg)
 
@@ -263,7 +279,7 @@ enolate는 O, C, C 세 원자에 π 전자 4개가 퍼진 3원자 4전자(3-atom
 
 ### 5.2 무엇이 C냐 O냐를 가르나?
 
-첫째는 electrophile의 성질이다. soft electrophile은 C에서, hard electrophile은 O에서 반응한다. Me-X에서 X가 I, Br, Cl이면 soft라서 C-methylation(`R-C(O−)=CH2 + MeI → RCOCH2Me`)가, X가 OMs, OSO2OMe(dimethyl 설페이트), +OMe2(trimethyloxonium)이면 hard라서 O-methylation(`→ R-C(OMe)=CH2`, enol ether)가 일어난다.
+첫째는 electrophile의 성질이다. soft electrophile은 C에서, hard electrophile은 O에서 반응한다. Me-X에서 X가 I, Br, Cl이면 soft라서 C-methylation($\mathrm{R{-}C(O^-){=}CH_2} + \mathrm{MeI} \longrightarrow \mathrm{RCOCH_2Me}$)가, X가 OMs, OSO2OMe(dimethyl 설페이트), +OMe2(trimethyloxonium)이면 hard라서 O-methylation($\longrightarrow \mathrm{R{-}C(OMe){=}CH_2}$, enol ether)가 일어난다.
 
 ![hard electrophile은 enolate의 O에서, soft electrophile은 C에서 methylation되는 두 경로](../../figures/L07/enolate_c_vs_o.svg)
 
@@ -347,7 +363,11 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
    (a) 2-methylpropanoic acid methyl (CH3)2CHCO2CH3
    (b) cyclopentanecarbaldehyde (C5H9-CHO)
 
-2. (p.13) 빈 칸을 채워라: `γ-뷰티로락톤 --[LDA]--> [ A ] --[MeI]--> [ B ] (88%)`
+2. (p.13) 빈 칸을 채워라:
+
+   $$
+   \text{γ-뷰티로락톤} \xrightarrow{\mathrm{LDA}} \mathrm{[\,A\,]} \xrightarrow{\mathrm{MeI}} \mathrm{[\,B\,]}\ (88\%)
+   $$
 
 3. (p.14) CH3CH(CH3)CH(CH2CH3)CO2CH3 (2-ethyl-3-methylbutanoic acid methyl)를 enolate α-치환 반응으로 합성하라. 두 가지 가능한 끊기 중 어느 것이 더 좋은지 이유와 함께 답하라.
 
@@ -372,7 +392,11 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 2. A = 뷰티로락톤의 lithium enolate(carbonyl α-CH2에서 H 제거, 고리 내 C=C(O−)-O). B = α-methyl-γ-뷰티로락톤(3-methyldihydrofuran-2(3H)-온). 락톤은 고리형 ester이므로 ester와 동일하게 LDA → enolate → MeI SN2로 α-methylation. 새 입체 중심은 라세미. (출처: L7 p.13)
 
 3. 두 가지 끊기:
-   - (i) α-C와 ethyl 사이: `3-methyl뷰탄산 메틸 (CH3)2CHCH2CO2CH3 --[(1) LDA, THF, −78 °C; (2) CH3CH2I (또는 EtBr)]--> 목표물`
+   - (i) α-C와 ethyl 사이:
+
+     $$
+     \text{3-methyl뷰탄산 메틸}\ \mathrm{(CH_3)_2CHCH_2CO_2CH_3} \xrightarrow{(1)\ \mathrm{LDA},\ \mathrm{THF},\ -78\,{}^\circ\mathrm{C};\ (2)\ \mathrm{CH_3CH_2I}\ (\text{또는}\ \mathrm{EtBr})} \text{목표물}
+     $$
    - (ii) α-C와 isopropyl 사이: butanoic acid methyl + LDA, 그다음 2-iodopropane(2차 halide).
    - 정답은 (i). (ii)는 2차 halide라 SN2가 느리고 E2 제거와 경쟁하여 수율이 나쁨. 1차 halide(EtI)를 쓰는 (i)가 좋음(슬라이드의 butanoic acid methyl + EtI 96% 예와 같은 유형). (출처: L7 p.10, p.13, p.14)
 
@@ -381,10 +405,26 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 그림: enolate α-C와 ethyl 사이에 새 C–C(초록).
 
 4. 순서:
-   1. `아세토아세트산 에틸 --[NaOEt, EtOH; CH3(CH2)3Br]--> 2-뷰틸아세토아세트산 에틸`
-   2. `--[NaOEt; CH3(CH2)3Br]--> 2,2-다이뷰틸아세토아세트산 에틸 CH3COC(Bu)2CO2Et` (monoalkyl 생성물에 남은 하나의 활성 α-H를 다시 제거 후 alkylation)
-   3. `--[(1) aq. NaOH, heat; (2) H3O+]--> CH3COC(Bu)2CO2H` (β-keto acid)
-   4. `--[heat, −CO2]--> CH3COCH(Bu)2 = 3-뷰틸-2-헵타논`
+   1.
+      $$
+      \text{아세토아세트산 에틸} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaOEt},\ \mathrm{CH_3(CH_2)_3Br}} \text{2-뷰틸아세토아세트산 에틸}
+      $$
+   2.
+      $$
+      \xrightarrow{\mathrm{NaOEt};\ \mathrm{CH_3(CH_2)_3Br}} \text{2,2-다이뷰틸아세토아세트산 에틸}\ \mathrm{CH_3COC(Bu)_2CO_2Et}
+      $$
+
+      (monoalkyl 생성물에 남은 하나의 활성 α-H를 다시 제거 후 alkylation)
+   3.
+      $$
+      \xrightarrow{(1)\ \text{aq.}\ \mathrm{NaOH},\ \text{heat};\ (2)\ \mathrm{H_3O^+}} \mathrm{CH_3COC(Bu)_2CO_2H}
+      $$
+
+      (β-keto acid)
+   4.
+      $$
+      \xrightarrow[\text{heat}]{\mathrm{{-}CO_2}} \mathrm{CH_3COCH(Bu)_2}\ =\ \text{3-뷰틸-2-헵타논}
+      $$
    - 해설: acetoacetic ester 합성은 R-X마다 활성 탄소에 R을 하나씩 붙이고, 마지막에 CO2Et가 H로 바뀜. 목표물의 C3에 Bu가 두 개(C4~C7 사슬도 butyl) 있으므로 이중 alkylation. 보충: 1-butyl bromide는 1차라 SN2에 적합. (보충 근거: Clayden p.587) (출처: L7 p.16, p.17, p.20)
 
 ![ethyl acetoacetate → ethyl 2-butylacetoacetate](../../figures/L07/aae_1.svg)
@@ -405,7 +445,12 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
-6. `CH2(CO2Et)2 --[(1) NaOEt; (2) PhCH2Br]--> 벤질말론산 다이에틸 PhCH2CH(CO2Et)2 --[(1) 50% KOH (또는 NaOH), reflux; (2) dil. H2SO4 (또는 H3O+), reflux, −CO2]--> PhCH2CH2COOH`. 해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
+6.
+   $$
+   \mathrm{CH_2(CO_2Et)_2} \xrightarrow{(1)\ \mathrm{NaOEt};\ (2)\ \mathrm{PhCH_2Br}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2} \xrightarrow{(1)\ 50\%\ \mathrm{KOH}\ (\text{또는}\ \mathrm{NaOH}),\ \text{reflux};\ (2)\ \text{dil.}\ \mathrm{H_2SO_4}\ (\text{또는}\ \mathrm{H_3O^+}),\ \text{reflux},\ \mathrm{{-}CO_2}} \mathrm{PhCH_2CH_2COOH}
+   $$
+
+   해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
 
 ![diethyl malonate → diethyl benzylmalonate](../../figures/L07/malonic_1.svg)
 

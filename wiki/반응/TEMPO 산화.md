@@ -13,7 +13,9 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 값싼 NaOCl을 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, [TEMPO](../시약/TEMPO.md)라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C). 슬라이드는 이 계를 "N–O" 산화제로 부른다. 더 나아가 구리와 함께 쓰면 공기 중 O₂를 terminal oxidant로 쓸 수도 Stahl oxidation. (출처: L6c p.11, p.13)
 
-`RCH2OH + NaOCl --[CH2Cl2–H2O, NaHCO3, KBr (0.1 mol equiv), TEMPO (0.01 mol equiv), 0 °C]--> RCHO`
+$$
+\mathrm{RCH_2OH} + \mathrm{NaOCl} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\,{}^\circ\mathrm{C}]{\mathrm{NaHCO_3},\ \mathrm{KBr}\ (0.1\ \text{mol equiv}),\ \mathrm{TEMPO}\ (0.01\ \text{mol equiv})} \mathrm{RCHO}
+$$
 
 ## 메커니즘 (NaOCl 계)
 
@@ -35,7 +37,11 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 표백제보다 더 싼 산화제는 공기다. 그렇다면 공기 중의 O₂로 alcohol을 산화할 수 있을까? Stahl oxidation은 TEMPO와 구리를 함께 촉매로 써서 이것을 해낸다.
 
-`RCH2OH --[5% (bpy)CuI, 5% TEMPO, 10% NMI, air 또는 O2, MeCN, rt]--> RCHO` (bpy = 2,2′-bipyridine, NMI = N-methylimidazole)
+$$
+\mathrm{RCH_2OH} \xrightarrow[\mathrm{MeCN},\ \text{rt}]{5\%\ \mathrm{(bpy)CuI},\ 5\%\ \mathrm{TEMPO},\ 10\%\ \mathrm{NMI},\ \text{air 또는}\ \mathrm{O_2}} \mathrm{RCHO}
+$$
+
+(bpy = 2,2′-bipyridine, NMI = N-methylimidazole)
 
 슬라이드의 촉매 순환은 두 반쪽으로 나뉜다.
 
@@ -51,8 +57,18 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 
 ## 예
 
-- `1-heptanol --[TEMPO, NaOCl, KBr, NaHCO3, CH2Cl2–H2O, 0 °C]--> heptanal` (L6)
-- `cinnamyl alcohol PhCH=CHCH2OH --[같은 조건]--> cinnamaldehyde PhCH=CHCHO` (C=C 유지) (L6)
+-
+  $$
+  \text{1-heptanol} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\,{}^\circ\mathrm{C}]{\mathrm{TEMPO},\ \mathrm{NaOCl},\ \mathrm{KBr},\ \mathrm{NaHCO_3}} \text{heptanal}
+  $$
+
+  (L6)
+-
+  $$
+  \text{cinnamyl alcohol}\ \mathrm{PhCH{=}CHCH_2OH} \xrightarrow{\text{같은 조건}} \text{cinnamaldehyde}\ \mathrm{PhCH{=}CHCHO}
+  $$
+
+  (C=C 유지) (L6)
 
 (출처: L6c p.11)
 
