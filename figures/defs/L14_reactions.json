@@ -1,0 +1,53 @@
+[
+ {
+  "out": "figures/L14/cubane_1.json",
+  "title": "cyclopent-2-enone → 4-bromocyclopent-2-enone (notes/통독/L14 378행)",
+  "reactants": [
+   "O=C1C=C[CH2:2]C1"
+  ],
+  "products": [
+   "O=C1C=C[CH:3]([Br:3])C1"
+  ],
+  "conditions": "NBS",
+  "below": "allylic",
+  "note": "L14",
+  "line": 378,
+  "wiki": "반응/4+3 고리화 첨가",
+  "alt": "cyclopent-2-enone → 4-bromocyclopent-2-enone",
+  "cap": "cubane 합성 1단계: allyl 자리(빨강) bromination"
+ },
+ {
+  "out": "figures/L14/cubane_2.json",
+  "title": "→ 2,3,4-tribromocyclopentanone (notes/통독/L14 379행)",
+  "reactants": [
+   "O=C1[CH:1]=[CH:1]C(Br)C1"
+  ],
+  "products": [
+   "O=C1[CH:3]([Br:3])[CH:3]([Br:3])C(Br)C1"
+  ],
+  "conditions": "Br2",
+  "below": "",
+  "note": "L14",
+  "line": 379,
+  "wiki": "반응/할로젠 첨가",
+  "alt": "→ 2,3,4-tribromocyclopentanone",
+  "cap": "2단계: C=C(파랑)에 $Br_2$ 첨가"
+ },
+ {
+  "out": "figures/L14/cubane_3.json",
+  "title": "→ 2-bromocyclopentadienone (notes/통독/L14 380행)",
+  "reactants": [
+   "O=C1C(Br)C(Br)C(Br)C1"
+  ],
+  "products": [
+   "O=C1C([Br])=CC=C1"
+  ],
+  "conditions": "HNEt2",
+  "below": "not isolated",
+  "note": "L14",
+  "line": 380,
+  "wiki": "반응/할로젠 첨가",
+  "alt": "→ 2-bromocyclopentadienone",
+  "cap": "3단계: HBr 두 번 제거"
+ }
+]

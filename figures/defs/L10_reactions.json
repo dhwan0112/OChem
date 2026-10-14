@@ -1,0 +1,74 @@
+[
+ {
+  "out": "figures/L10/enamine_cyclohexanone.json",
+  "title": "cyclohexanone + pyrrolidine → enamine (notes/통독/L10 205행)",
+  "reactants": [
+   "O=[C:2]1CCCCC1",
+   "C1CC[NH:1]C1"
+  ],
+  "products": [
+   "[C:3]1(=CCCCC1)[N:3]1CCCC1"
+  ],
+  "conditions": "cat. H+",
+  "below": "",
+  "note": "L10",
+  "line": 205,
+  "wiki": "반응/스토크 엔아민 반응",
+  "alt": "cyclohexanone + pyrrolidine → enamine",
+  "cap": "2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다"
+ },
+ {
+  "out": "figures/L10/enamine_pentanal.json",
+  "title": "pentanal + (i-Bu)2NH → enamine (notes/통독/L10 229행)",
+  "reactants": [
+   "CCC[CH2:1][CH:2]=O",
+   "CC(C)CNCC(C)C"
+  ],
+  "products": [
+   "CCC/[CH:3]=[CH:3]/N(CC(C)C)CC(C)C"
+  ],
+  "conditions": "cat. H+",
+  "below": "",
+  "note": "L10",
+  "line": 229,
+  "wiki": "반응/스토크 엔아민 반응",
+  "alt": "pentanal + (i-Bu)2NH → enamine",
+  "cap": "aldehyde의 enamine(초록 C=C)"
+ },
+ {
+  "out": "figures/L10/enamine_pentanal_alkylation.json",
+  "title": "enamine + BrCH2CO2Et → α-alkylated aldehyde (notes/통독/L10 229행)",
+  "reactants": [
+   "CCC/C=[CH:1]/N(CC(C)C)CC(C)C",
+   "Br[CH2:2]C(=O)OCC"
+  ],
+  "products": [
+   "CCC[CH:3](C=O)[CH2:3]C(=O)OCC"
+  ],
+  "conditions": "1. MeCN, reflux",
+  "below": "2. H2O",
+  "note": "L10",
+  "line": 229,
+  "wiki": "반응/스토크 엔아민 반응",
+  "alt": "enamine + BrCH2CO2Et → α-alkylated aldehyde",
+  "cap": "enamine β-C(파랑)가 C–Br(빨강)을 SN2로 공격하고, 가수분해로 aldehyde가 돌아온다"
+ },
+ {
+  "out": "figures/L10/proline_aldol.json",
+  "title": "acetone + 4-nitrobenzaldehyde → (R)-aldol (L-proline) (notes/통독/L10 256행)",
+  "reactants": [
+   "[CH3:1]C(C)=O",
+   "O=[CH:2]c1ccc([N+](=O)[O-])cc1"
+  ],
+  "products": [
+   "CC(=O)[CH2:3][C@@H:3](O)c1ccc([N+](=O)[O-])cc1"
+  ],
+  "conditions": "L-proline 30 mol%",
+  "below": "DMSO; 68%, 76% ee",
+  "note": "L10",
+  "line": 256,
+  "wiki": "반응/프롤린 촉매 알돌 반응",
+  "alt": "acetone + 4-nitrobenzaldehyde → (R)-aldol (L-proline)",
+  "cap": "enamine 촉매 비대칭 aldol"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "out": "figures/L12/boc_methionine.json",
+  "title": "methionine + Boc2O → Boc-Met (notes/통독/L12 259행)",
+  "reactants": [
+   "CSCC[C@H]([NH2:1])C(=O)O",
+   "CC(C)(C)OC(=O)O[C:2](=O)OC(C)(C)C"
+  ],
+  "products": [
+   "CSCC[C@H]([NH:3][C:3](=O)OC(C)(C)C)C(=O)O"
+  ],
+  "conditions": "Boc2O, base",
+  "below": "",
+  "note": "L12",
+  "line": 259,
+  "wiki": "시약/Boc 보호기",
+  "alt": "methionine + Boc2O → Boc-Met",
+  "cap": "$NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다"
+ },
+ {
+  "out": "figures/L12/acetal_bromoketone.json",
+  "title": "5-bromopentan-2-one + ethylene glycol → cyclic acetal (notes/통독/L12 366행)",
+  "reactants": [
+   "C[C:2](=O)CCCBr",
+   "[OH:1]CC[OH:1]"
+  ],
+  "products": [
+   "C[C:3]1(CCCBr)[O:3]CC[O:3]1"
+  ],
+  "conditions": "H+ (cat.)",
+  "below": "",
+  "note": "L12",
+  "line": 366,
+  "wiki": "반응/아세탈 형성",
+  "alt": "5-bromopentan-2-one + ethylene glycol → cyclic acetal",
+  "cap": "ketone(빨강)을 고리 acetal(초록)로 보호한다"
+ }
+]

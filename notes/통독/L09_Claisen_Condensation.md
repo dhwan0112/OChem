@@ -108,6 +108,10 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 슬라이드는 두 반응을 나란히 놓는다. Claisen 자기 축합 R–CH2–CO2Et --[EtO⁻, EtOH]--> R–CH2–CO–CH(R)–CO2Et, 그리고 ethyl acetoacetate --[EtO⁻, EtOH]--> enolate CH3–C(O⁻)=CH–CO2Et --[RBr]--> CH3–CO–CH(R)–CO2Et. 왜 이 둘을 비교할까?
 
+![ethyl acetoacetate → 안정한 enolate](../../figures/L09/eaa_enolate.svg)
+
+*그림: 두 C=O 사이 α-H(빨강)가 떨어져 비편재화된 enolate(초록)가 된다. 이 단계가 Claisen 평형을 끌어간다.*
+
 두 반응 모두 α-치환 β-ketoester를 만들고, 무엇보다 같은 종류의 anion, 즉 두 carbonyl 사이의 비편재화된 β-ketoester enolate가 EtO⁻/EtOH 조건에서 쉽게 생긴다는 공통점이 있다. 다만 역할이 정반대다. Claisen에서 이 anion은 반응이 흘러 들어가 멈추는 "종착점(원동력)"이고, alkylation에서는 RBr을 공격하는 "출발점(nucleophile)"이다. 또 Claisen은 acyl 부분(R–CH2–CO–)이 출발 ester에서 정해지는 반면, alkylation은 acetyl group을 고정한 채 α-위치에 원하는 R을 골라 넣을 수 있다. 그리고 acetoacetate는 산성이 충분히 커서 EtO⁻만으로도 완전히 enolate가 되므로, 단순 ketone alkylation처럼 LDA 같은 강염기가 필요 없다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고).
 
 (출처: L9 p.7)
@@ -179,6 +183,10 @@ oxalate를 쓰면 더 반응성이 좋다. ethyl heptanoate CH3(CH2)5–CO2Et와
 한 분자 안에 ester가 두 개 있으면 어떻게 될까? enolate가 자기 분자의 다른 쪽 ester를 공격해 고리가 생긴다. 이것이 Dieckmann condensation이다.
 
 RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarbonyl)cyclopentanone + ROH
+
+![diethyl adipate → ethyl 2-oxocyclopentanecarboxylate (R = Et 예시)](../../figures/L09/dieckmann_adipate.svg)
+
+*그림: 분자내 Claisen(Dieckmann). 5원 고리, 새 C–C(초록).*
 
 메커니즘은 자기 축합과 완전히 같고, 다만 "다른 분자" 대신 "같은 분자의 반대쪽 끝"을 공격할 뿐이다.
 
@@ -263,6 +271,10 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-one)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 α-탄소는 H가 없는 4차 탄소이므로 CH3만 enolization되고, oxalate는 enolization되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
 
 7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile과 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 β-ketoester의 deprotonation이 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 β-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로[10] 실용적으로는 (i)이 낫다.
+
+![cyclooctanone + diethyl carbonate → ethyl 2-oxocyclooctanecarboxylate](../../figures/L09/cyclooctanone_carbonate.svg)
+
+*그림: ketone enolate(파랑)가 carbonate C(빨강)를 공격한다.*
 
 8. 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-oxocyclohexanecarboxylate(cyclohexanone C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)
 

@@ -1,0 +1,55 @@
+[
+ {
+  "out": "figures/L17/cyclopropyl_chloride_solvolysis.json",
+  "title": "cyclopropyl chloride → allyl acetate (notes/통독/L17 267행)",
+  "reactants": [
+   "Cl[CH:2]1CC1"
+  ],
+  "products": [
+   "C=C[CH2:3]OC(C)=O"
+  ],
+  "conditions": "KOAc, AcOH",
+  "below": "",
+  "note": "L17",
+  "line": 267,
+  "wiki": "반응/전자고리화 반응",
+  "alt": "cyclopropyl chloride → allyl acetate",
+  "cap": "이온화와 동시에 고리가 열려 allyl cation이 된다(disrotatory)"
+ },
+ {
+  "out": "figures/L17/aziridine_cis.json",
+  "title": "cis-aziridine + DEAD-alkyne → 2,5-trans-dihydropyrrole (notes/통독/L17 277행)",
+  "reactants": [
+   "COC(=O)[C@H]1[C@@H](C(=O)OC)N1c1ccccc1",
+   "CCOC(=O)C#CC(=O)OCC"
+  ],
+  "products": [
+   "COC(=O)[C@@H]1C(C(=O)OCC)=C(C(=O)OCC)[C@@H](C(=O)OC)N1c1ccccc1"
+  ],
+  "conditions": "100 °C",
+  "below": "2,5-trans",
+  "note": "L17",
+  "line": 277,
+  "wiki": "반응/1,3-쌍극자 고리화 첨가",
+  "alt": "cis-aziridine + DEAD-alkyne → 2,5-trans-dihydropyrrole",
+  "cap": "열적 conrotatory 개환으로 생긴 azomethine ylide가 alkyne과 [3+2]"
+ },
+ {
+  "out": "figures/L17/aziridine_trans.json",
+  "title": "trans-aziridine + DEAD-alkyne → 2,5-cis-dihydropyrrole (notes/통독/L17 278행)",
+  "reactants": [
+   "COC(=O)[C@H]1[C@H](C(=O)OC)N1c1ccccc1",
+   "CCOC(=O)C#CC(=O)OCC"
+  ],
+  "products": [
+   "COC(=O)[C@@H]1C(C(=O)OCC)=C(C(=O)OCC)[C@H](C(=O)OC)N1c1ccccc1"
+  ],
+  "conditions": "100 °C",
+  "below": "2,5-cis",
+  "note": "L17",
+  "line": 278,
+  "wiki": "반응/1,3-쌍극자 고리화 첨가",
+  "alt": "trans-aziridine + DEAD-alkyne → 2,5-cis-dihydropyrrole",
+  "cap": "trans 이성질체는 반대로 cis 생성물을 준다"
+ }
+]
