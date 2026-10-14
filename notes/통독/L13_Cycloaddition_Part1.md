@@ -139,7 +139,7 @@ cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로
 
 ![dicyclopentadiene의 역 Diels–Alder reaction: 가열하면 cyclopentadiene 두 분자로 갈라진다](../../figures/L13/retro_da_dcpd.svg)
 
-그림: 보충: 슬라이드에는 평형 화살표만 있고 굽은 화살표는 없다. 역 DA는 정방향 DA의 화살표를 거꾸로 돌린 것이므로 여기서 그려 넣었다. 빨간색은 끊어지는 σ 결합(이량화 때 생겼던 C1–C6, C4–C5), 파란색은 diene 쪽에 남아 있던 π 결합이다. 주황색 화살표 셋은 (1) C4–C5 σ 전자가 C3=C4 π 결합으로, (2) C2=C3 π 전자가 C1=C2 π 결합으로, (3) C1–C6 σ 전자가 C5=C6 π 결합으로 옮겨가는 과정이다. 초록색은 새로 생긴 π 결합이다. 가운데 꺾인 선은 CH2 다리(C7)다.
+그림: 보충: 슬라이드에는 평형 화살표만 있고 굽은 화살표는 없다. 역 DA는 정방향 DA의 화살표를 거꾸로 돌린 것이므로 여기서 그려 넣었다. 빨간색은 끊어지는 σ 결합(이량화 때 생겼던 C1–C6, C4–C5), 파란색은 diene 쪽에 남아 있던 π 결합이다. 주황색 화살표 셋은 (1) C4–C5 σ 전자가 C3=C4 π 결합으로, (2) C2=C3 π 전자가 C1=C2 π 결합으로, (3) C1–C6 σ 전자가 C5=C6 π 결합으로 옮겨가는 과정이다. 초록색은 새로 생긴 π 결합이다. 가운데 꺾인 선은 $CH_2$ 다리(C7)다.
 
 응용 예도 있다. cyclopentadiene을 Cl2로 처리하면 hexachlorocyclopentadiene이 되고, 이것을 maleic anhydride와 DA 반응시키면 염소가 여섯 개 붙은 norbornene 무수물 부가물이 생긴다. 이 화합물은 flame retardant로 쓰인다.[6] (출처: L13 p.18)
 
@@ -160,7 +160,7 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 ![butadiene + dimethyl fumarate(trans): 두 CO2Me가 trans인 생성물](../../figures/L13/fumarate_trans.svg)
 
-그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 diene의 π 결합, 빨간색은 dienophile의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 σ 결합이다. 생성물에서 wedge는 지면 앞, 점선 hash는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 CO2Me는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 CO2Me는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.
+그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 diene의 π 결합, 빨간색은 dienophile의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 σ 결합이다. 생성물에서 wedge는 지면 앞, 점선 hash는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 $CO_2Me$ 는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 $CO_2Me$ 는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.
 
 ### 6-2. 이치환 diene: "in"과 "out"
 
@@ -186,7 +186,7 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 ![cyclopentadiene + maleic anhydride의 endo 부가물(생성)과 exo 부가물(생성 안 됨)](../../figures/L13/endo_exo.svg)
 
-그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.
+그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 $CH_2$ 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 $CH_2$ 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.
 
 좀 더 기하학적으로 보면, TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 diene 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 carbonyl 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 입체이성질체가 섞여 나오는 경우도 많다.[7]
 

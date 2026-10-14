@@ -31,7 +31,7 @@ Cbz는 H2/Pd [hydrogenolysis](../반응/수소화분해.md)로 벗기는 것이 
 
 ![protonate된 Cbz의 benzyl 탄소를 Br⁻가 SN2로 공격해 carbamic acid와 benzyl bromide가 되는 단계](../../figures/L12/cbz_hbr.svg)
 
-그림: 보충. HBr이 carbonyl 산소를 protonation한 상태(빨강 O⁺)에서, Br⁻(파랑)의 전자쌍이 benzyl 탄소(빨강)를 CH2–O 결합의 뒤쪽에서 SN2로 공격하고, CH2–O 결합(빨강)의 전자는 산소로 간다. carbamic acid(초록이 새 C=O)와 benzyl bromide(초록이 새 C–Br)가 생긴다. (보충 근거: Clayden p.557)
+그림: 보충. HBr이 carbonyl 산소를 protonation한 상태(빨강 O⁺)에서, Br⁻(파랑)의 전자쌍이 benzyl 탄소(빨강)를 $CH_2\text{–}O$ 결합의 뒤쪽에서 SN2로 공격하고, $CH_2\text{–}O$ 결합(빨강)의 전자는 산소로 간다. carbamic acid(초록이 새 C=O)와 benzyl bromide(초록이 새 C–Br)가 생긴다. (보충 근거: Clayden p.557)
 
 ## 선택성
 
