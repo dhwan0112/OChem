@@ -40,7 +40,7 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 
 ![LiBH4: ester만 환원, acid 유지](../../figures/L05/libh4_ester.svg)
 
-그림: ester C=O(빨강)만 $CH_2OH$(초록)로 환원되고 $CO_2H$는 남는다.
+그림: ester C=O(빨강)만 $CH_2OH$ (초록)로 환원되고 $CO_2H$ 는 남는다.
 
 ## 이웃 시약과 비교
 

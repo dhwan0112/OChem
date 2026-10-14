@@ -113,7 +113,7 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 ![cyclopentene oxide + Me2NH → trans-2-(dimethylamino)cyclopentanol](../../figures/L02/cyclopentene_oxide_me2nh.svg)
 
-그림: $Me_2NH$의 N(파랑)이 epoxide 탄소(빨강)를 뒤쪽에서 공격해 고리가 열린다. N과 OH가 trans(anti)가 되고 생성물은 라세미(±)다.
+그림: $Me_2NH$ 의 N(파랑)이 epoxide 탄소(빨강)를 뒤쪽에서 공격해 고리가 열린다. N과 OH가 trans(anti)가 되고 생성물은 라세미(±)다.
 
 ![cyclohexene + Br2 → trans-1,2-dibromocyclohexane](../../figures/L02/cyclohexene_br2_trans.svg)
 
@@ -268,7 +268,7 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![methylenecyclohexane + H2O, H+ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
 
-그림: Markovnikov 수화. H는 $CH_2$에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.
+그림: Markovnikov 수화. H는 $CH_2$ 에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.
 
 ![산 촉매 수화 전체 메커니즘: methylenecyclohexane + H3O+ → cation → oxonium ion → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration_mech.svg)
 
@@ -280,7 +280,7 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![t-BuOH의 산 촉매 E1 탈수 전체 메커니즘: t-BuOH + H2SO4 → oxonium ion → 3차 cation → isobutene + H2O + H2SO4](../../figures/L02/tbuoh_e1_mech.svg)
 
-그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$(conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$(base, 파랑)의 전자쌍이 β-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$가 재생된다.
+그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$ 의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$ (conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$ (base, 파랑)의 전자쌍이 β-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$ 가 재생된다.
 
 (출처: L2 p.19)
 
@@ -292,11 +292,11 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
 
-그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$의 O가 cation을 붙잡아 ester(초록)가 된다.
+그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$ 의 O가 cation을 붙잡아 ester(초록)가 된다.
 
 ![TFA 첨가 전체 메커니즘: cyclohexene + CF3CO2H → cyclohexyl cation, CF3CO2− → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_mech.svg)
 
-그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$(nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.
+그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$ 가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$ (nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.
 
 ![cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol](../../figures/L02/cyclohexene_tfa_2.svg)
 
@@ -350,7 +350,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ![Ph-C(CH3)=CH2 → Ph-CH(CH3)-CH2OH (hydroboration–oxidation)](../../figures/L02/alpha_methylstyrene_hydroboration.svg)
 
-그림: hydroboration–oxidation. OH(초록)가 덜 치환된 탄소($CH_2$, 파랑)에 붙는다(anti-Markovnikov).
+그림: hydroboration–oxidation. OH(초록)가 덜 치환된 탄소( $CH_2$, 파랑)에 붙는다(anti-Markovnikov).
 
 ![보론 ate 착물에서 alkyl group이 B에서 O로 이동하고 HO⁻가 떨어지는 메커니즘](../../figures/L02/borane_oxidation.svg)
 

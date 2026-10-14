@@ -73,7 +73,7 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 ![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
 
-그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
+그림: LiAl $D_4$ 를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
 
 ## 흔한 오해
 

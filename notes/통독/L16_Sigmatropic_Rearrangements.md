@@ -254,7 +254,7 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 
 ![Ireland–Claisen rearrangement (3/3)](../../figures/L16/ireland_claisen_3.svg)
 
-그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.
+그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$ 로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.
 
 ![Ireland–Claisen [3,3]의 굽은 화살표](../../figures/L16/ireland_claisen_arrows.svg)
 

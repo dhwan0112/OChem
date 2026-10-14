@@ -28,7 +28,7 @@
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
-그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.
+그림: $PPh_3$ (파랑)가 C–Br(빨강)을 SN2로 치환한다.
 
 ![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
 
@@ -88,7 +88,7 @@ LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 
 
 ![n-BuLi + diisopropylamine → LDA](../../figures/L07/lda_formation.svg)
 
-그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다.
+그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$ )가 된다.
 
 그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-tetramethylpiperidide)와 LHMDS(LiN(SiMe3)2)가 있다.
 
@@ -202,7 +202,7 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 ![acetoacetic ester 합성으로 2-pentanone 만들기 (3/3)](../../figures/L07/acetoacetic_ester_pentanone_3.svg)
 
-그림: 보충: ethyl acetoacetate의 두 carbonyl 사이 C–H를 NaOEt로 떼어 EtBr로 alkylation하고, ester를 가수분해한 β-keto acid를 가열하면 $CO_2$가 빠져 2-pentanone이 된다.
+그림: 보충: ethyl acetoacetate의 두 carbonyl 사이 C–H를 NaOEt로 떼어 EtBr로 alkylation하고, ester를 가수분해한 β-keto acid를 가열하면 $CO_2$ 가 빠져 2-pentanone이 된다.
 
 
 (출처: L7 p.18)
@@ -401,7 +401,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 ![β-keto acid → 3-butylheptan-2-one](../../figures/L07/aae_4.svg)
 
-그림: 4단계: 탈카복실화로 $CO_2$가 빠진다.
+그림: 4단계: 탈카복실화로 $CO_2$ 가 빠진다.
 
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 

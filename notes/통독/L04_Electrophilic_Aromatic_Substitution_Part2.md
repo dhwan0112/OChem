@@ -59,7 +59,7 @@ aniline(phenylamine)은 phenol, phenyl ether, 심지어 phenoxide 이온보다�
 
 ![aniline + Br2 → 2,4,6-tribromoaniline](../../figures/L04/aniline_tribromination.svg)
 
-그림: $NH_2$(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.
+그림: $NH_2$ (파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.
 
 (출처: L4 p.4)
 
@@ -152,7 +152,7 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 
 ![toluene + H2SO4 → o-/p-toluenesulfonic acid](../../figures/L04/toluene_sulfonation.svg)
 
-그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$).
+그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$ ).
 
 (출처: L4 p.10)
 
@@ -165,19 +165,19 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
 
-그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).
+그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$ ).
 
 ![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
 
-그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.
+그림: 2단계: S–Cl(빨강)이 $NH_2$ (초록)로 치환된다.
 
 ![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
 
-그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.
+그림: 3단계: methyl(빨강)이 $CO_2H$ (초록)로 산화된다.
 
 ![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
 
-그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.
+그림: 4단계: N(파랑)이 $CO_2H$ 와 고리를 닫아 saccharin(초록 C–N)이 된다.
 
 (출처: L4 p.11)
 
@@ -216,11 +216,11 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 ![PhNMe3+ 나이트로화 → meta 90%](../../figures/L04/phnme3_nitration.svg)
 
-그림: $NMe_3^+$는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).
+그림: $NMe_3^+$ 는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).
 
 ![PhCF3 → m-nitro(trifluoromethyl)benzene](../../figures/L04/phcf3_nitration.svg)
 
-그림: $CF_3$도 meta 지향기다(96%).
+그림: $CF_3$ 도 meta 지향기다(96%).
 
 (출처: L4 p.13)
 
@@ -235,7 +235,7 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 ![benzene → m-dinitrobenzene](../../figures/L04/benzene_dinitration.svg)
 
-그림: 가혹한 조건에서는 두 번째 $NO_2$가 meta로 들어간다(75%).
+그림: 가혹한 조건에서는 두 번째 $NO_2$ 가 meta로 들어간다(75%).
 
 두 번째 nitro group은 **첫 번째의 메타 위치**로 들어간다. 즉 nitro group은 비활성화, 메타 배향이다. (출처: L4 p.14)
 
@@ -317,7 +317,7 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 
 ![p-nitrotoluene → 2,4-dinitrotoluene](../../figures/L04/p_nitrotoluene_nitration.svg)
 
-그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$(초록)가 들어간다(효과가 더해짐).
+그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$ (초록)가 들어간다(효과가 더해짐).
 
 (출처: L4 p.17-18)
 

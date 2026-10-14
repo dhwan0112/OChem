@@ -168,7 +168,7 @@ enol이 정말 nucleophile로 작용한다는 증거는 무엇일까? 가장 간
 
 ![acetone + Br2/HOAc → bromoacetone](../../figures/L10/acetone_bromination.svg)
 
-그림: 산 촉매 enol의 α-C(파랑)가 $Br_2$와 반응해 C–Br(초록).
+그림: 산 촉매 enol의 α-C(파랑)가 $Br_2$ 와 반응해 C–Br(초록).
 
 메커니즘은 산 촉매 aldol의 첫 두 막과 거의 같다. 먼저 AcOH가 carbonyl 산소를 protonate하고 α-C–H가 끊기며 enol CH₃–C(OH)=CH₂가 생긴다. 이어서 enol 산소의 비공유 전자쌍이 밀어주면 enol의 C=C가 Br–Br의 Br을 공격하고, Br–Br 결합이 끊어지며 Br⁻가 떨어진다. 그러면 protonate된 carbonyl(C=O⁺–H)을 가진 α-bromoketone이 생기고, O–H의 H⁺가 빠지면서 bromoacetone이 된다. 즉 electrophile이 protonate된 carbonyl에서 Br₂로 바뀌었을 뿐이다.[9]
 
@@ -256,7 +256,7 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 
 ![enamine을 이용한 aldehyde의 α-allylation (3/3)](../../figures/L10/stork_enamine_aldehyde_3.svg)
 
-그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.
+그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$ 로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.
 
 
 생성물인 2-allyl-2-ethylhexanal(2-ethyl-2-(prop-2-en-1-yl)hexanal)에서는 α-탄소가 4차 quaternary carbon이 된다. 즉 enamine을 쓰면 가지 달린 aldehyde에도 치환기를 하나 더 넣을 수 있다.
