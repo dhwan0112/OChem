@@ -15,7 +15,19 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 ## 개요
 
-protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다. 지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다. ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다. 그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다. 이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 각 protecting group을 어떻게 씌우고 벗기는지, 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다. 앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고), 마지막에는 이 모든 것이 peptide 합성이라는 실전 무대에서 어떻게 조합되는지 본다.
+protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다. 
+지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다. 
+ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다. 
+그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다. 
+
+(3가지 대표 protecting group 기본 구조 이미지 추가 바람)
+
+이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 
+1) 각 protecting group을 어떻게 씌우고 벗기는지, 
+2) 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다. 
+
+앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고), 
+마지막에는 이 모든 것이 peptide 합성이라는 실전 무대에서 어떻게 조합되는지 본다.
 
 ## 본문
 
@@ -35,9 +47,17 @@ protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시�
 
 protecting group이 필요한 상황은 크게 두 가지로 정리된다.
 
-**첫째, 덜 반응성인 작용기를 반응시켜야 할 때다.** electrophilicity은 ketone이 ester보다 훨씬 크다(ketone >> ester). 그런데 ethyl acetoacetate(CH3COCH2CO2Et)에서 ester 쪽에만 PhMgBr 2당량을 붙여 CH3COCH2C(OH)Ph2를 얻고 싶다면 어떻게 될까? 그냥 PhMgBr을 넣으면 시약은 당연히 더 반응성 큰 ketone을 공격하고, 결과물은 CH3C(OH)(Ph)CH2CO2Et가 된다(슬라이드상 52% 수율). 원하는 것과 정반대다. 그래서 반응성이 큰 쪽을 먼저 가려 두는 수밖에 없다(→ 본문 6절 예제 1).
+**첫째, 덜 reactive한 작용기를 반응시켜야 할 때**
+electrophilicity은 ketone이 ester보다 훨씬 크다(ketone >> ester). 
+그런데 ethyl acetoacetate(CH3COCH2CO2Et)에서 ester 쪽에만 PhMgBr 2당량을 붙여 CH3COCH2C(OH)Ph2를 얻고 싶다면 어떻게 될까? 
+그냥 PhMgBr을 넣으면 시약은 당연히 더 반응성 큰 ketone을 공격하고, 
+결과물은 CH3C(OH)(Ph)CH2CO2Et가 된다(슬라이드상 52% 수율). 
+원하는 것과 정반대다. 그래서 반응성이 큰 쪽을 먼저 가려 두는 수밖에 없다(→ 본문 6절 예제 1).
 
-**둘째, 애초에 한 분자 안에 공존할 수 incompatible 작용기가 있을 때다.** Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다. 또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 그 양성자에 의해 그냥 파괴된다. 슬라이드의 예가 바로 이것이다. ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만들고 싶지만, 이 Grignard 시약은 자기 분자 안에 ketone을 품고 있으므로 만들어지는 순간 다른 분자의 ketone을 공격한다. 슬라이드는 이를 "불가능한 Grignard reagent(impossible Grignard reagent)"이라고 부른다.
+**둘째, 한 분자 안에 incompatible한 작용기가 있을 때** 
+Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다. 
+또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 그 양성자에 의해 그냥 파괴된다. 슬라이드의 예가 바로 이것이다. 
+ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만들고 싶지만, 이 Grignard 시약은 자기 분자 안에 ketone을 품고 있으므로 만들어지는 순간 다른 분자의 ketone을 공격한다. 슬라이드는 이를 "impossible Grignard reagent"이라고 부른다.
 
 (출처: L12 p.3)
 
@@ -47,11 +67,13 @@ protecting group이 필요한 상황은 크게 두 가지로 정리된다.
 
 그렇다면 해결책은 무엇일까? 답은 단순하다. FG1과 FG2가 있는 분자에서 FG2를 반응시키고 싶은데 FG1이 방해한다면, FG1을 보호하고 → FG2에서 반응시키고 → FG1을 탈보호하면 된다.
 
+comment: 아래같은거도 다 reshiki그림으로
 `FG1~FG2 --[보호]--> PG-FG1~FG2 --[FG2에서 반응]--> PG-FG1~EE --[탈보호]--> FG1~EE`
 
 말은 쉽지만 여기에는 두 가지 조건이 붙는다. 하나는 보호와 탈보호 반응 자체가 깔끔하게 일어나야 한다는 것이고, 다른 하나는 protecting group이 FG2에서 일어나는 반응 조건을 견딜 만큼 안정해야 한다는 것이다. 결국 protecting group 선택이란 "어떤 조건에서 버티고, 어떤 조건에서 벗겨지는가"를 맞추는 퍼즐이다.
 
-보충: 그러면 alcohol을 그냥 methyl 에테르로 막아 두면 안 될까? methyl 에테르는 만들기 쉽고 웬만한 반응을 다 견디지만, 문제는 **다시 벗기기가 너무 어렵다**는 것이다. 좋은 protecting group은 대부분의 조건에서 튼튼하되 특정 시약 하나에만 약한 "아킬레스건"을 가져야 한다. 이 관점으로 표를 다시 보면 각 protecting group의 약점이 분명하다. THP는 에테르처럼 보이지만 사실 acetal이라 두 번째 산소가 산에서 약점이 되고, benzyl 에테르와 Cbz는 benzyl C–O 결합이 수소화분해에 약하고, silyl 에테르는 Si가 F-를 유난히 좋아하며, Boc와 t-Bu ester는 안정한 t-butyl cation을 내놓을 수 있어 산에 약하다. 예외적으로 phenol의 methyl 에테르는 ArO-가 RO-보다 좋은 leaving group라서 BBr3나 HBr로 벗길 수 있어 protecting group으로 쓰인다. (보충 근거: Clayden p.550–552, p.556)
+보충: 그러면 alcohol을 그냥 methyl 에테르로 막아 두면 안 될까? methyl 에테르는 만들기 쉽고 웬만한 반응을 다 견디지만, 문제는 **다시 벗기기가 너무 어렵다**는 것이다. 좋은 protecting group은 대부분의 조건에서 튼튼하되 특정 시약 하나에만 약한 "아킬레스건"을 가져야 한다. 이 관점으로 표를 다시 보면 각 protecting group의 약점이 분명하다. THP는 에테르처럼 보이지만 사실 acetal이라 두 번째 산소가 산에서 약점이 되고, benzyl 에테르와 Cbz는 benzyl C–O 결합이 수소화분해에 약하고, silyl 에테르는 Si가 F-를 유난히 좋아하며, Boc와 t-Bu ester는 안정한 t-butyl cation을 내놓을 수 있어 산에 약하다. 예외적으로 phenol의 methyl 에테르는 ArO-가 RO-보다 좋은 leaving group라서 BBr3나 HBr로 벗길 수 있어 protecting group으로 쓰인다. 
+(보충 근거: Clayden p.550–552, p.556)
 
 보충: protecting group은 공짜가 아니다. 씌우고 벗기는 두 단계가 더 들고, 각 단계 수율이 100%가 아니므로 시간과 물질을 모두 잃는다. 그래서 가능하면 protecting group 없이 가는 길도 먼저 검토한다. 예컨대 산성 양성자(OH, NH)가 몇 개 있는 ester에 값싼 Grignard 시약을 아주 과량 넣어, 양성자를 다 떼고도 남은 시약이 ester에 첨가하게 하는 방법이 실제로 쓰였다. 다만 이런 방법이 통할지는 해 보기 전에는 알 수 없다. (보충 근거: Clayden p.552)
 
@@ -100,6 +122,7 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 #### 5-2. 어떻게 씌우나
 
 보호는 silyl chloride와 imidazole로 한다.
+
 
 `ROH --[R'3SiCl, imidazole]--> ROSiR'3`
 
