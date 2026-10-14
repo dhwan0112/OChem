@@ -173,9 +173,15 @@ def anchor(target, e, toward):
 
 
 def lp_offset(ang):
-    """원자 중심에서 비공유 전자쌍까지의 변위. 라벨은 가로가 넓어서 타원으로 잡는다."""
+    """원자 중심에서 비공유 전자쌍까지의 변위.
+    10 pt 라벨(29.2 단위) 한 글자 O/N 글리프의 반폭 ≈ 11.4, 반높이(cap) ≈ 10.6에
+    점 반지름(1.2)과 작은 틈(~2)을 더해 점이 글리프에 바로 붙도록 한다.
+    (이전 값 21/17은 글리프에서 약 9 단위 떨어져 보였다.)"""
     r = math.radians(ang)
-    return 21.0 * math.cos(r), -17.0 * math.sin(r)
+    return LP_RX * math.cos(r), -LP_RY * math.sin(r)
+
+
+LP_RX, LP_RY = 14.5, 14.0
 
 
 def decorate(doc, spec):
