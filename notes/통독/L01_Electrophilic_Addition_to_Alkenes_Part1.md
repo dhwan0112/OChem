@@ -35,11 +35,11 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 ![2-bromobutane의 E2 제거: E-2-butene(주)과 Z-2-butene(부)](../../figures/L01/e2_2_bromobutane.svg)
 
-그림: 보충: 2-bromobutane의 제거 반응($NaOEt$, $EtOH$). 염기 $EtO^-$(파랑)가 $\beta$-H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.
+그림: 보충: 2-bromobutane의 제거 반응( $NaOEt$, $EtOH$ ). 염기 $EtO^-$ (파랑)가 $\beta$ -H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.
 
 ![alkyne의 Lindlar 환원: hex-3-yne → (Z)-hex-3-ene](../../figures/L01/lindlar_z_alkene.svg)
 
-그림: alkyne에 $H_2$/Lindlar 촉매. 두 H(초록)가 같은 면에서 들어와(syn) Z-alkene만 생긴다. 구조는 예시(hex-3-yne)다. 파랑 = 반응하는 C≡C.
+그림: alkyne에 $H_2$ /Lindlar 촉매. 두 H(초록)가 같은 면에서 들어와(syn) Z-alkene만 생긴다. 구조는 예시(hex-3-yne)다. 파랑 = 반응하는 C≡C.
 
 린들라 환원이 왜 *Z*만 주는가? 두 수소 원자가 금속 촉매 **표면의 같은 쪽**에서 alkyne에 동시에 올라타기 때문이다(syn 첨가). 같은 면에서 들어오니 두 H가 같은 쪽에 놓이고, 결과적으로 R¹과 R²도 같은 쪽에 남는 *Z*-alkene이 된다. (출처: L1 p.5)
 
@@ -92,7 +92,7 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 ![bromonium 이온 형성 메커니즘: π(HOMO)가 Br–Br σ*(LUMO)를 공격하고, Br의 비공유 전자쌍이 반대쪽 탄소와 결합해 3원 고리가 닫힌다](../../figures/L01/bromonium_step1.svg)
 
-그림: Br₂가 $\pi$ 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽($\pi$ 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br $\sigma^*$, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) $\pi$ 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.
+그림: Br₂가 $\pi$ 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽( $\pi$ 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br $\sigma^*$, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) $\pi$ 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.
 
 $\pi$ 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 높다. 그리고 $\pi$ HOMO가 $\sigma^*$ LUMO와 결합성으로 겹치려면 Br₂가 **end-on** 다가와야 한다.
 
@@ -118,7 +118,7 @@ S<sub>N</sub>2이므로 nucleophile은 C-Br $\sigma^*$ 궤도함수와 최대로
 
 ![bromonium 이온의 3D 구조와 Br⁻의 backside 접근 방향](../../figures/L01/bromonium_3d.svg)
 
-그림: ethylene에서 생긴 bromonium ion의 3D 구조(GFN2-xTB). $Br^+$가 두 탄소 위에 다리를 놓아 3원 고리를 만들고(C–Br 1.98 Å), 한쪽 면이 $Br^+$로 막힌다. 파란 화살표는 $Br^-$가 들어오는 방향으로, $Br^+$의 정반대편(anti)이다. 보충: 슬라이드 밖의 3D 모델 그림이다.
+그림: ethylene에서 생긴 bromonium ion의 3D 구조(GFN2-xTB). $Br^+$ 가 두 탄소 위에 다리를 놓아 3원 고리를 만들고(C–Br 1.98 Å), 한쪽 면이 $Br^+$ 로 막힌다. 파란 화살표는 $Br^-$ 가 들어오는 방향으로, $Br^+$ 의 정반대편(anti)이다. 보충: 슬라이드 밖의 3D 모델 그림이다.
 
 ## 4. alkene의 산화: epoxide
 
@@ -254,7 +254,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![2-methylpropene + Br2/H2O → bromohydrin](../../figures/L01/isobutene_bromohydrin.svg)
 
-그림: 2-methylpropene + $Br_2$, $H_2O$. OH(초록)는 3차 탄소에, Br(초록)은 $CH_2$에 붙는다. 파랑 = 반응하는 C=C.
+그림: 2-methylpropene + $Br_2$, $H_2O$. OH(초록)는 3차 탄소에, Br(초록)은 $CH_2$ 에 붙는다. 파랑 = 반응하는 C=C.
 
 ![비대칭 bromonium 이온을 H2O가 3차 탄소에서 여는 메커니즘](../../figures/L01/isobutene_bromohydrin_mech.svg)
 
@@ -266,7 +266,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하($\delta^{+}$)가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.
+그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하( $\delta^{+}$ )가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.
 
 대칭 bromonium 이온(ethylene에서 생긴 것)이라면 어느 탄소를 공격하든 결과가 같다. 그런데 2-methyl프로펜 --[Br₂, MeOH]--> 반응에서는 methanol이 **더 치환된 쪽(3차 탄소)** 을 공격해 ether를 만든다. (출처: L1 p.22)
 

@@ -153,11 +153,11 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 ![Swern oxidation 단계별 중간체 (4/4)](../../figures/L06/swern_steps_4.svg)
 
-그림: 보충: DMSO와 $(COCl)_2$가 chlorosulfonium ion($Me_2S^+Cl$)을 만들고($CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$로 쪼개진다.
+그림: 보충: DMSO와 $(COCl)_2$ 가 chlorosulfonium ion( $Me_2S^+Cl$ )을 만들고( $CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$ 이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$ 로 쪼개진다.
 
 ![Swern: sulfur ylide의 분자내 H 제거](../../figures/L06/swern_ylide_elim.svg)
 
-그림: 보충: 핵심 단계의 굽은 화살표. ylide의 $CH_2^-$(파랑)가 carbinol C–H의 H(빨강)를 떼고, 그 C–H 전자쌍이 C=O π 결합이 되며, O–S 결합 전자는 S로 돌아가 $Me_2S$가 떨어진다. 5원 고리 TS를 거치는 분자내 제거라서 외부 염기는 ylide를 만드는 데만 쓰인다.
+그림: 보충: 핵심 단계의 굽은 화살표. ylide의 $CH_2^-$ (파랑)가 carbinol C–H의 H(빨강)를 떼고, 그 C–H 전자쌍이 C=O π 결합이 되며, O–S 결합 전자는 S로 돌아가 $Me_2S$ 가 떨어진다. 5원 고리 TS를 거치는 분자내 제거라서 외부 염기는 ylide를 만드는 데만 쓰인다.
 
 
 −78 °C를 지켜야 하는 이유는 1단계의 활성종이 불안정하기 때문이다. HCl은 Et3N이 중화한다.
@@ -306,19 +306,19 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
 
-그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).
+그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$ ).
 
 ![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
 
-그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.
+그림: 2단계: S–Cl(빨강)이 $NH_2$ (초록)로 치환된다.
 
 ![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
 
-그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.
+그림: 3단계: methyl(빨강)이 $CO_2H$ (초록)로 산화된다.
 
 ![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
 
-그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.
+그림: 4단계: N(파랑)이 $CO_2H$ 와 고리를 닫아 saccharin(초록 C–N)이 된다.
 
 마지막 HCl 단계에서 CO2H와 SO2NH2가 분자 내에서 고리를 닫아 imide가 된다.
 
@@ -457,7 +457,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
-그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.
+그림: $PPh_3$ (파랑)가 C–Br(빨강)을 SN2로 치환한다.
 
 ![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
 

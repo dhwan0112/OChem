@@ -34,7 +34,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
-그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.
+그림: $PPh_3$ (파랑)가 $C–Br$ (빨강)을 $S_N2$ 로 치환한다.
 
 ![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
 
@@ -81,7 +81,7 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 
 ![acetaldehyde의 염기 촉매 aldol 반응 (4/4)](../../figures/L08/aldol_base_4.svg)
 
-그림: 보충: $HO^-$가 α-H를 떼어 enolate를 만들고, enolate가 두 번째 acetaldehyde의 carbonyl을 공격해 alkoxide가 된다. 물이 양성자를 주면 3-hydroxybutanal(aldol)이고, 가열하면 E1cB로 물이 빠져 (E)-but-2-enal이 된다.
+그림: 보충: $HO^-$ 가 α-H를 떼어 enolate를 만들고, enolate가 두 번째 acetaldehyde의 carbonyl을 공격해 alkoxide가 된다. 물이 양성자를 주면 3-hydroxybutanal(aldol)이고, 가열하면 E1cB로 물이 빠져 (E)-but-2-enal이 된다.
 
 
 (출처: L8 p.8)
@@ -236,7 +236,7 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![butanone + acetaldehyde (LDA) → 5-hydroxyhexan-3-one](../../figures/L08/lda_butanone_acetaldehyde.svg)
 
-그림: LDA는 덜 치환된 $CH_3$(파랑)에서 kinetic enolate를 만든다.
+그림: LDA는 덜 치환된 $CH_3$ (파랑)에서 kinetic enolate를 만든다.
 
 두 번째 예에서 왜 ethyl 쪽이 아니라 methyl 쪽이 반응했을까? LDA/−78 °C는 덜 붐비는 CH3의 H를 더 빨리 떼어 내므로 덜 치환된 enolate, 즉 kinetic enolate가 생기기 때문이다.
 
@@ -535,7 +535,7 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 ![3-methylbutan-2-one + propanal → aldol](../../figures/L08/lda_methylbutanone_propanal.svg)
 
-그림: kinetic enolate는 덜 치환된 $CH_3$(파랑)에서 생긴다.
+그림: kinetic enolate는 덜 치환된 $CH_3$ (파랑)에서 생긴다.
 
 7. **PhCO–CH(OH)–CH(Ph)–COCH3 (2-hydroxy-1,3-diphenylpentane-1,4-dione).** thermodynamic silyl enol ether는 C=C가 CHPh 쪽에 있으므로 친핵성 탄소는 benzyl CHPh다. TiCl4가 활성화한 phenylglyoxal(PhCO–CHO)에서는 aldehyde 탄소가 ketone 탄소보다 친전자적이므로 CHO가 공격받는다. aldol의 silyl ether를 거쳐 물 후처리로 aldol이 된다. 새 C–C 결합은 CH(Ph)–CH(OH)이다. (근거: L8 p.25, p.27; aldehyde 우선성은 p.30의 원리)
 

@@ -57,11 +57,11 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.
+그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 
-그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
+그림: $NH_2$ (파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
 
 ## 흔한 오해
 

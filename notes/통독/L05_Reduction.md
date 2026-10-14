@@ -81,7 +81,7 @@ overalkylation을 막으려면 어떻게 해야 할까? 한 가지 답은 nucleo
 
 ![2-phenylethyl azide → 2-phenylethylamine](../../figures/L05/phenethyl_azide_2.svg)
 
-그림: azide를 환원하면 $N_2$가 빠지고 1차 amine(초록)이 된다(89%).
+그림: azide를 환원하면 $N_2$ 가 빠지고 1차 amine(초록)이 된다(89%).
 
 환원 시약으로 PPh<sub>3</sub>도 쓸 수 있다는 점이 흥미롭다.[5]
 
@@ -109,7 +109,7 @@ overalkylation을 막으려면 어떻게 해야 할까? 한 가지 답은 nucleo
 
 ![N-benzylacetamide → N-benzylethylamine](../../figures/L05/benzylamine_acyl_2.svg)
 
-그림: amide C=O(빨강)가 $CH_2$(초록)로 환원된다.
+그림: amide C=O(빨강)가 $CH_2$ (초록)로 환원된다.
 
 이 두 단계를 합쳐 보면 결국 benzylamine의 N에 ethyl group을 하나 붙인 셈이다. 그런데 왜 ethyl bromide로 직접 alkylate하지 않을까? 직접 alkylation은 1-1에서 본 overalkylation이 일어나지만, acylation은 생성물인 amide가 친핵성이 약하므로(1-0-1) 딱 한 번에서 멈춘다. 즉 "acylation 후 환원"은 깔끔한 N-alkylation의 우회로다.
 
@@ -133,7 +133,7 @@ amine을 만드는 가장 강력하고 범용적인 방법이 환원성 아미�
 
 ![reductive amination (3/3)](../../figures/L05/reductive_amination_scheme_3.svg)
 
-그림: 보충: ketone과 2차 amine이 산 촉매로 물을 잃고 iminium ion이 되고, $NaBH_3CN$이 C=N⁺만 골라 환원해 3차 amine이 된다. 아래는 $NH_3$, $H_2$/Ni로 benzaldehyde에서 1차 amine을 얻는 예.
+그림: 보충: ketone과 2차 amine이 산 촉매로 물을 잃고 iminium ion이 되고, $NaBH_3CN$ 이 C=N⁺만 골라 환원해 3차 amine이 된다. 아래는 $NH_3$, $H_2$ /Ni로 benzaldehyde에서 1차 amine을 얻는 예.
 
 
 (출처: L5 p.10)
@@ -220,7 +220,7 @@ N에 methyl group을 두 개 붙이고 싶다면 더 간단한 방법이 있다.
 
 ![nitrile → 1° amine (venlafaxine 2단계)](../../figures/L05/venlafaxine_2.svg)
 
-그림: C≡N(빨강)이 $CH_2NH_2$(초록)로 환원된다.
+그림: C≡N(빨강)이 $CH_2NH_2$ (초록)로 환원된다.
 
 ![Eschweiler–Clarke → venlafaxine](../../figures/L05/venlafaxine_3.svg)
 
@@ -324,7 +324,7 @@ Na<sup>+</sup>를 Li<sup>+</sup>로 바꾸기만 했는데 왜 ester가 환원�
 
 ![LiBH4: ester만 환원, acid 유지](../../figures/L05/libh4_ester.svg)
 
-그림: ester C=O(빨강)만 $CH_2OH$(초록)로 환원되고 $CO_2H$는 남는다.
+그림: ester C=O(빨강)만 $CH_2OH$ (초록)로 환원되고 $CO_2H$ 는 남는다.
 
 ester 쪽만 CH<sub>2</sub>OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 2-0의 서열에서 찾을 수 있다. 산은 수소화물 시약과 만나면 deprotonate되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다.
 
@@ -358,7 +358,7 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 ![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
 
-그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
+그림: LiAl $D_4$ 를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
 
 두 번째 예는 왜 굳이 LiAlD<sub>4</sub>를 썼을까? D가 정확히 Br이 있던 자리에 들어간 것을 보면, 수소화물이 C-Br 탄소를 직접 공격해 Br을 밀어낸다는 것을 알 수 있다.[15] alkyl halide을 환원하는 다른 방법으로는 (a) 제거 반응 후 수소화, (b) alkyl radical을 거치는 방법이 있다.
 
@@ -389,11 +389,11 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 ![N,N-dimethylpivalamide → (CH3)3CCH2NMe2](../../figures/L05/bh3_amide.svg)
 
-그림: amide C=O(빨강)가 $CH_2$(초록)로 환원된다.
+그림: amide C=O(빨강)가 $CH_2$ (초록)로 환원된다.
 
 ![lactam C=O → CH2, ester 유지](../../figures/L05/bh3_lactam.svg)
 
-그림: BH3는 lactam C=O(빨강)를 $CH_2$(초록)로 환원하고 ester는 남긴다.
+그림: BH3는 lactam C=O(빨강)를 $CH_2$ (초록)로 환원하고 ester는 남긴다.
 
 같은 기질 MeO<sub>2</sub>C-CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>-CO<sub>2</sub>H에 LiBH<sub>4</sub>를 쓰면 ester가 환원되고(2-2), BH<sub>3</sub>를 쓰면 산이 환원된다. 즉 두 시약은 서로 거울처럼 상보적인 화학선택성을 가진다.
 
@@ -557,7 +557,7 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
 
 ![ketone + 1° amine → imine → 2° amine (H2/Pd-C)](../../figures/L05/ra_h2_pdc.svg)
 
-그림: imine을 거쳐 $H_2$/Pd-C로 환원한다. 새 C–N(초록).
+그림: imine을 거쳐 $H_2$ /Pd-C로 환원한다. 새 C–N(초록).
 
 (출처: L5 p.33)
 
@@ -628,7 +628,7 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
 
 ![PhCH2CONHCH3 → PhCH2CH2NHCH3](../../figures/L05/route_a_2.svg)
 
-그림: 경로 A 2단계: amide C=O(빨강) → $CH_2$(초록).
+그림: 경로 A 2단계: amide C=O(빨강) → $CH_2$ (초록).
 
 ![PhCH2CHO + CH3NH2 → PhCH2CH2NHCH3](../../figures/L05/route_b.svg)
 
