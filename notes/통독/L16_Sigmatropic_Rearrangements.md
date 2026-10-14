@@ -212,6 +212,10 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 
 *그림: 보충: hexa-1,5-dien-3-ol이 [3,3] 자리옮김으로 enol이 되고, enol이 aldehyde로 토토머화하면서 반응이 되돌아가지 않는다.*
 
+![oxy-Cope [3,3]의 굽은 화살표](../../figures/L16/oxy_cope_arrows.svg)
+
+*그림: 보충: 6원자 고리를 도는 화살표 셋. C3–C4 σ 결합(빨강)이 끊어지고 C1–C6 σ 결합(초록)이 생기며, 두 π 결합이 자리를 옮긴다. 생성물 enol은 aldehyde로 토토머화한다.*
+
 
 (출처: Clayden p.913–914)
 
@@ -237,6 +241,10 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 ![Ireland–Claisen rearrangement](../../figures/L16/ireland_claisen.svg)
 
 *그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.*
+
+![Ireland–Claisen [3,3]의 굽은 화살표](../../figures/L16/ireland_claisen_arrows.svg)
+
+*그림: 보충: silyl ketene acetal의 allyl O–C σ 결합(빨강)이 끊어지고 새 C–C σ 결합(초록)이 생긴다. 생성물은 silyl ester이고 $H_3O^+$ 처리로 γ,δ-unsaturated carboxylic acid가 된다.*
 
 
 R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라고 부른다. 치환기가 알맞게 놓이면 단순 Claisen과 같은 이유(의자형 TS, 적도 R)로 *E* 선택성을 보인다. (출처: Clayden p.914)
