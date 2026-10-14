@@ -15,7 +15,11 @@ Fmoc(9-fluorenylmethoxycarbonyl)의 개성은 [Boc](Boc%20보호기.md)와 정�
 
 ## 도입
 
-`RNH2 --[Fmoc-Cl, base]--> Fmoc-NHR` (출처: L12 p.11)
+$$
+\mathrm{RNH_2} \xrightarrow{\mathrm{Fmoc{-}Cl},\ \text{base}} \mathrm{Fmoc{-}NHR}
+$$
+
+(출처: L12 p.11)
 
 ## 원리: 왜 산에 강한가
 

@@ -17,7 +17,9 @@ enolate를 "조금" 만드는 염기는 많지만, 출발 carbonyl을 **전부**
 
 THF에서 *n*-BuLi와 diisopropylamine을 섞는다.
 
-`n-BuLi + HN(i-Pr)₂ --[THF]--> LiN(i-Pr)₂ + pKa 50`
+$$
+\mathrm{\mathit{n}\text{-}BuLi} + \mathrm{HN(\mathit{i}\text{-}Pr)_2} \xrightarrow{\mathrm{THF}} \mathrm{LiN(\mathit{i}\text{-}Pr)_2} + \text{pKa}\ 50
+$$
 
 BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약한 산인 butane이 기체로 빠져나가므로 되돌아가지 않는다. (출처: L7 p.6)
 

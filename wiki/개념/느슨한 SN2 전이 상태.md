@@ -11,7 +11,7 @@ tags: [분류/개념, 범위/Test1, 단원/알켄-첨가, 강의/L01, 강의/L02
 
 ## 개요
 
-보통 [SN2](../반응/SN2%20반응.md)는 입체 장애가 적은 탄소를 고른다. 그런데 비대칭 [bromonium ion](브로모늄%20이온.md)이나 protonated epoxide에서는 정반대 결과가 나온다. 예를 들어 `2-methylpropene --[Br₂, MeOH]-->` 반응에서 methanol은 **더 치환된 쪽(3차 탄소)**을 공격해 ether를 만든다. "SN2라면 보통 덜 붐비는 쪽을 공격하지 않나?" 이 모순을 푸는 열쇠가 loose SN2 transition state이고, 강의는 이것을 L1의 핵심 포인트로 꼽는다. (출처: L1 p.22–23)
+보통 [SN2](../반응/SN2%20반응.md)는 입체 장애가 적은 탄소를 고른다. 그런데 비대칭 [bromonium ion](브로모늄%20이온.md)이나 protonated epoxide에서는 정반대 결과가 나온다. 예를 들어 $\text{2-methylpropene} \xrightarrow[\mathrm{MeOH}]{\mathrm{Br_2}}$ 반응에서 methanol은 **더 치환된 쪽(3차 탄소)**을 공격해 ether를 만든다. "SN2라면 보통 덜 붐비는 쪽을 공격하지 않나?" 이 모순을 푸는 열쇠가 loose SN2 transition state이고, 강의는 이것을 L1의 핵심 포인트로 꼽는다. (출처: L1 p.22–23)
 
 ## 원리
 
@@ -27,10 +27,25 @@ tags: [분류/개념, 범위/Test1, 단원/알켄-첨가, 강의/L01, 강의/L02
 
 ## 예
 
-- `2-methylpropene --[Br₂, MeOH]--> (CH₃)₂C(OMe)CH₂Br`: OMe가 3차 탄소에 붙는다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (L1, 출처: L1 p.22)
-- `2-methylpropene --[Br₂, H₂O]--> (CH₃)₂C(OH)CH₂Br`. (L1, 출처: L1 p.21)
-- `1-methylcyclohexene --[NBS, HBr; ROH]-->` OR은 3차 탄소에, Br은 2차 탄소에 anti. regioselective이면서 stereoselective다. (L2, 출처: L2 p.12)
-- `2,2-dimethyloxirane --[MeOH, H⁺]--> (CH₃)₂C(OMe)CH₂OH`: 산성 [epoxide ring opening](../반응/에폭사이드%20고리%20열기.md). 위치를 정하는 것은 전자 효과이며 bromonium ion이 열리는 경우와 똑같다. (L2, 출처: L2 p.8)
+-
+  $$
+  \text{2-methylpropene} \xrightarrow[\mathrm{MeOH}]{\mathrm{Br_2}} \mathrm{(CH_3)_2C(OMe)CH_2Br}
+  $$
+
+  OMe가 3차 탄소에 붙는다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (L1, 출처: L1 p.22)
+-
+  $$
+  \text{2-methylpropene} \xrightarrow{\mathrm{Br_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(OH)CH_2Br}
+  $$
+
+  (L1, 출처: L1 p.21)
+- $\text{1-methylcyclohexene} \xrightarrow{\mathrm{NBS},\ \mathrm{HBr};\ \mathrm{ROH}}$ OR은 3차 탄소에, Br은 2차 탄소에 anti. regioselective이면서 stereoselective다. (L2, 출처: L2 p.12)
+-
+  $$
+  \text{2,2-dimethyloxirane} \xrightarrow[\mathrm{MeOH}]{\mathrm{H^+}} \mathrm{(CH_3)_2C(OMe)CH_2OH}
+  $$
+
+  산성 [epoxide ring opening](../반응/에폭사이드%20고리%20열기.md). 위치를 정하는 것은 전자 효과이며 bromonium ion이 열리는 경우와 똑같다. (L2, 출처: L2 p.8)
 
 ![산 촉매 조건에서 protonated epoxide를 MeOH가 3차 탄소에서 여는 메커니즘](../../figures/L02/epoxide_acid.svg)
 

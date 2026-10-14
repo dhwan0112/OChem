@@ -77,7 +77,9 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 
 그렇다면 해결책은 무엇일까? 답은 단순하다. FG1과 FG2가 있는 분자에서 FG2를 반응시키고 싶은데 FG1이 방해한다면, FG1을 보호하고 → FG2에서 반응시키고 → FG1을 탈보호하면 된다.
 
-`FG1~FG2 --[보호]--> PG-FG1~FG2 --[FG2에서 반응]--> PG-FG1~EE --[탈보호]--> FG1~EE`
+$$
+\mathrm{FG_1{\sim}FG_2} \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE}
+$$
 
 ![보호–반응–탈보호 흐름](../../figures/L12/pg_strategy.svg)
 
@@ -138,7 +140,9 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 보호는 silyl chloride와 imidazole로 한다.
 
 
-`ROH --[R'3SiCl, imidazole]--> ROSiR'3`
+$$
+\mathrm{ROH} \xrightarrow{\mathrm{R'_3SiCl},\ \text{imidazole}} \mathrm{ROSiR'_3}
+$$
 
 ![TBSCl/imidazole에 의한 alcohol 보호](../../figures/L12/tbs_protection_imidazole.svg)
 
@@ -152,7 +156,9 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 그래서 먼저 OH를 TBDMS 에테르로 바꾼다.
 
-`CH3CH(OH)CH2CH2CH2Br --[t-BuMe2SiCl, imidazole]--> CH3CH(OTBDMS)CH2CH2CH2Br --[HC≡C-Li]--> CH3CH(OTBDMS)CH2CH2CH2C≡CH`
+$$
+\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{\mathit{t}\text{-}BuMe_2SiCl},\ \text{imidazole}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
+$$
 
 ![TBS 보호 후 acetylide alkylation (1/2)](../../figures/L12/tbs_acetylide_1.svg)
 
@@ -201,8 +207,13 @@ amine은 좋은 nucleophile이자 염기라서, electrophile이 있는 반응에
 
 카바메이트는 두 가지 시약으로 만든다. Cl-CO-OR''를 쓰거나, dicarbonate(R''O-CO-O-CO-OR'', 일종의 무수물)를 쓴다. 둘 다 염기를 함께 넣는다.
 
-`RR'NH --[Cl-CO-OR'', base]--> R'RN-CO-OR''`
-`RR'NH --[R''O-CO-O-CO-OR'', base]--> R'RN-CO-OR''`
+$$
+\mathrm{RR'NH} \xrightarrow{\mathrm{Cl{-}CO{-}OR''},\ \text{base}} \mathrm{R'RN{-}CO{-}OR''}
+$$
+
+$$
+\mathrm{RR'NH} \xrightarrow{\mathrm{R''O{-}CO{-}O{-}CO{-}OR''},\ \text{base}} \mathrm{R'RN{-}CO{-}OR''}
+$$
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
@@ -256,7 +267,9 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 
 Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. amine N이 무수물의 carbonyl 탄소를 공격하고, tetrahedral intermediate에서 t-BuOCO2-가 떨어져 나간다.[7]
 
-`메티오닌 --[Boc2O, base]--> Boc-Met`
+$$
+\text{메티오닌} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}
+$$
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 
@@ -287,7 +300,9 @@ Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 met
 
 Fmoc(9-fluorenylmethoxycarbonyl)은 Fmoc-Cl과 염기로 씌운다.
 
-`RNH2 --[Fmoc-Cl, base]--> Fmoc-NHR`
+$$
+\mathrm{RNH_2} \xrightarrow{\mathrm{Fmoc{-}Cl},\ \text{base}} \mathrm{Fmoc{-}NHR}
+$$
 
 Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할까? 카바메이트 O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 carbocation을 만들 수 없어 SN1이 불가능하다. 그렇다고 SN2가 되느냐 하면, 바로 옆에 덩치 큰 fluorenyl기가 버티고 있어 그것도 안 된다. 산이 Boc를 벗기던 경로가 Fmoc에는 아예 없는 것이다.
 
@@ -332,7 +347,9 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 carbonyl은 ethylene 글라이콜과 p-TsOH로 고리형 acetal(1,3-다이옥솔레인)을 만들어 보호한다(→ acetal 형성 문서 참고).
 
-`RC(=O)R' + HOCH2CH2OH ⇌[p-TsOH] 2,2-이치환 1,3-다이옥솔레인 + H2O`
+$$
+\mathrm{RC({=}O)R'} + \mathrm{HOCH_2CH_2OH} \overset{\mathrm{\mathit{p}\text{-}TsOH}}{\rightleftharpoons} \text{2,2-이치환 1,3-다이옥솔레인} + \mathrm{H_2O}
+$$
 
 화살표가 양방향인 데 주목하자. 이 반응은 평형이다. 그래서 보호할 때는 물을 빼 주어 평형을 acetal 쪽으로 밀고[10], 벗길 때는 반대로 물과 산(H2O, p-TsOH)을 넣어 원래 carbonyl로 되돌린다. 같은 산 촉매 반응을 물의 유무로 앞뒤로 돌리는 셈이다.
 
@@ -354,7 +371,9 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 **예제 1 (덜 반응성인 ester만 반응시키기).** ethyl acetoacetate의 ketone을 먼저 acetal로 가린다. 그러면 PhMgBr 2당량은 남은 ester를 공격할 수밖에 없다. 첫 번째 첨가 후 EtO-가 떨어져 ketone이 되고, 이 ketone에 두 번째 PhMgBr이 붙어 3차 alcohol이 된다. 마지막에 산성 수용액으로 처리하면 acetal이 벗겨진다.
 
-`CH3COCH2CO2Et --[HOCH2CH2OH, H+]--> 케톤만 아세탈화 --[2 × PhMgBr]--> 아세탈-CH2C(OH)Ph2 --[H+, H2O]--> CH3COCH2C(OH)Ph2`
+$$
+\mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}} \text{케톤만 아세탈화} \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{CH_3COCH_2C(OH)Ph_2}
+$$
 
 ![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (1/3)](../../figures/L12/acetal_grignard_ketoester_1.svg)
 
@@ -367,10 +386,28 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 **예제 2 (불가능한 Grignard reagent 만들기).** ketone이 있으면 Grignard 시약을 만들 수 없었다. 그렇다면 ketone을 가리면 된다.
 
-1. `CH3CO(CH2)3Br --[HOCH2CH2OH, H+ 촉매]--> 아세탈-(CH2)3Br`
-2. `--[Mg, Et2O]--> 아세탈-(CH2)3MgBr` : ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
-3. `--[HCO2Et]--> (아세탈-(CH2)3)2CHOH` : ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
-4. `--[H+, H2O]--> (CH3CO(CH2)3)2CHOH` (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
+1.
+   $$
+   \mathrm{CH_3CO(CH_2)_3Br} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \text{촉매}} \text{아세탈-}\mathrm{(CH_2)_3Br}
+   $$
+2.
+   $$
+   \xrightarrow[\mathrm{Et_2O}]{\mathrm{Mg}} \text{아세탈-}\mathrm{(CH_2)_3MgBr}
+   $$
+
+   ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
+3.
+   $$
+   \xrightarrow{\mathrm{HCO_2Et}} (\text{아세탈-}\mathrm{(CH_2)_3})_2\mathrm{CHOH}
+   $$
+
+   ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
+4.
+   $$
+   \xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{(CH_3CO(CH_2)_3)_2CHOH}
+   $$
+
+   (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
 
 ![5-bromopentan-2-one + ethylene glycol → cyclic acetal](../../figures/L12/acetal_bromoketone.svg)
 

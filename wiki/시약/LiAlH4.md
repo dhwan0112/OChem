@@ -30,8 +30,18 @@ LiAlH₄는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, et
 
 ### carbonyl 환원
 
-- `2,2-dimethylpropanoic acid (CH3)3CCO2H --[(1) LiAlH4, Et2O; (2) H2O/H2SO4]--> neopentyl alcohol (CH3)3CCH2OH (92%)` (L5)
-- `RCO2R' --[(1) LiAlH4, Et2O; (2) H2O/H2SO4]--> RCH2OH + R'OH` (L5)
+-
+  $$
+  \text{2,2-dimethylpropanoic acid}\ \mathrm{(CH_3)_3CCO_2H} \xrightarrow[92\%]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O};\ (2)\ \mathrm{H_2O/H_2SO_4}} \text{neopentyl alcohol}\ \mathrm{(CH_3)_3CCH_2OH}
+  $$
+
+  (L5)
+-
+  $$
+  \mathrm{RCO_2R'} \xrightarrow{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O};\ (2)\ \mathrm{H_2O/H_2SO_4}} \mathrm{RCH_2OH} + \mathrm{R'OH}
+  $$
+
+  (L5)
 
 ester를 환원하면 alcohol이 두 개 나온다는 점에 주의하자. acyl 쪽은 RCH₂OH가 되고 alkoxy 쪽은 R′OH로 떨어져 나온다. (출처: L5 p.23)
 
@@ -39,8 +49,18 @@ ester를 환원하면 alcohol이 두 개 나온다는 점에 주의하자. acyl 
 
 LiAlH₄는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠을 H로 바꾼다.
 
-- `2-bromopentane --[(1) LiAlH4, ether; (2) H2O/H2SO4]--> pentane` (L5)
-- `(1-bromoethyl)benzene PhCH(Br)CH3 --[(1) LiAlD4, ether; (2) H2O/H2SO4]--> PhCHDCH3` (L5)
+-
+  $$
+  \text{2-bromopentane} \xrightarrow{(1)\ \mathrm{LiAlH_4},\ \text{ether};\ (2)\ \mathrm{H_2O/H_2SO_4}} \text{pentane}
+  $$
+
+  (L5)
+-
+  $$
+  \text{(1-bromoethyl)benzene}\ \mathrm{PhCH(Br)CH_3} \xrightarrow{(1)\ \mathrm{LiAlD_4},\ \text{ether};\ (2)\ \mathrm{H_2O/H_2SO_4}} \mathrm{PhCHDCH_3}
+  $$
+
+  (L5)
 
 두 번째 예는 왜 굳이 LiAlD₄를 썼을까? D가 정확히 Br이 있던 자리에 들어간 것을 보면, hydride가 C–Br 탄소를 직접 공격해 Br을 밀어낸다는 것을 알 수 있다.[^2] alkyl halide를 환원하는 다른 방법으로는 (a) elimination 후 hydrogenation, (b) alkyl radical을 거치는 방법이 있다. (출처: L5 p.24)
 

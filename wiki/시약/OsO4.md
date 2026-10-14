@@ -23,7 +23,13 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 
 (출처: L2 p.14–16)
 
-예: `R–CH₂–CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/t-BuOH]--> R–CH₂–CH(OH)–C(OH)(CH₃)₂` (출처: L2 p.14)
+예:
+
+$$
+\mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \xrightarrow{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO},\ \mathrm{H_2O/\mathit{t}\text{-}BuOH}} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2}
+$$
+
+(출처: L2 p.14)
 
 ## 왜 syn인가
 
