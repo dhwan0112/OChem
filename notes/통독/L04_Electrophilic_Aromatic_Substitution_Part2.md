@@ -61,11 +61,13 @@ aniline(phenylamine)은 phenol, phenyl ether, 심지어 phenoxide 이온보다�
 
 그림: $NH_2$ (파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.
 
+![aniline의 para 브로민화 종합 메커니즘: N 비공유 전자쌍이 고리를 거쳐 Br–Br을 공격해 iminium cation이 되고, Br−가 H+를 떼어 p-bromoaniline이 된다](../../figures/L04/aniline_tribromination_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 첫 번째 치환(para 위치)만 그렸고, 두 ortho 위치에서도 같은 두 단계가 되풀이되어 2,4,6-tribromoaniline이 된다. 위 줄이 전체 반응이고 아래 대괄호는 중간체다. 1단계: 화살표 넷이 한꺼번에 움직인다. N의 비공유 전자쌍(파랑)이 C–N 결합으로 들어가 C=N⁺(초록)를 만들고, 고리의 π 전자가 차례로 밀려 para 탄소의 π 결합(파랑, nucleophile)이 $\mathrm{Br}_2$ 의 Br(빨강, electrophile)을 공격하며, Br–Br 결합 전자는 바깥쪽 Br로 가서 $\mathrm{Br}^-$ 가 된다. 새 C–Br 결합은 초록색이다. 2단계: 중간체 iminium cation(산, 빨강)의 sp³ 탄소에 붙은 H(빨강)를 $\mathrm{Br}^-$ (염기, 파랑)가 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복된다(−HBr). 보충: 2단계의 곡선 화살표는 슬라이드의 화살표 네 개에 이어서 보충으로 그렸다. (보충 근거: Clayden p.475)
+
 (출처: L4 p.4)
 
-![aniline의 para 위치가 Br-Br을 공격해 iminium형 cation이 되는 메커니즘](../../figures/L04/aniline_para_br.svg)
-
-그림: para색은 전자를 주는 쪽(NH₂의 질소), 빨간색은 electrophile 쪽(Br-Br), 초록색은 새로 생긴 C-Br 결합이다. 주황색 화살표 넷은 (1) N의 비공유 전자쌍이 C-N 결합으로 들어가 C=N을 만들고, (2) 그 때문에 C1=C2 π 전자가 C2-C3로 밀려나며, (3) C3=C4 π 전자가 para 탄소(C4)에서 Br을 공격하고, (4) Br-Br 결합 전자가 먼 Br로 가서 Br⁻로 떠나는 과정을 나타낸다. 생긴 iminium형 cation에서 C4의 H가 빠지면(HBr) 방향족성이 회복된다(슬라이드와 같은 흐름). 실제로는 ortho 위치에서도 같은 일이 일어나 2,4,6-tribromoaniline까지 간다.
+(이 단계의 메커니즘 그림은 위 반응식 바로 아래의 종합 그림에 합쳤다. 화살표 넷의 의미는 그 그림 설명을 본다.)
 
 ### 1.2 Br 하나만 넣고 싶다면?
 
@@ -85,9 +87,17 @@ amide의 N은 일반 amine보다 염기성이 훨씬 약하다. N의 비공유 �
 
 그림: 1단계: aniline의 N(파랑)을 acetyl화해 활성을 낮춘다(새 N–C(O) 결합, 초록).
 
+![aniline의 acetyl화 종합 메커니즘: N이 Ac2O의 carbonyl 탄소를 공격해 tetrahedral intermediate가 되고, acetate가 떠난 뒤 H+를 떼어 acetanilide가 된다](../../figures/L04/acetanilide_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다(nucleophilic acyl substitution). 위 줄이 전체 반응(aniline + $\mathrm{Ac}_2\mathrm{O}$ → acetanilide + $\mathrm{AcOH}$)이고, 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: N의 비공유 전자쌍(파랑, nucleophile)이 $\mathrm{Ac}_2\mathrm{O}$ 의 carbonyl 탄소(빨강, electrophile)를 공격해 새 N–C 결합(초록)을 만들고, C=O의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 되어 tetrahedral intermediate(zwitterion)가 된다. 2단계: $\mathrm{O}^-$ 의 비공유 전자쌍이 C=O를 다시 만들고 C–OAc 결합 전자는 떠나는 O로 가서 acetate가 이탈한다. 그 결과 protonated amide(conjugate acid, 빨강)와 $\mathrm{AcO}^-$ (conjugate base, 파랑)가 생긴다. 3단계: $\mathrm{AcO}^-$ 가 $\mathrm{N}^+$–H의 H를 가져가고 N–H 결합 전자가 N의 비공유 전자쌍이 되어 amide와 $\mathrm{AcOH}$ 가 된다. 보충: 곡선 화살표는 표준 addition–elimination 메커니즘을 그린 것이다. acetate는 conjugate acid의 $\mathrm{p}K_\mathrm{a}$ 가 약 5라서 좋은 leaving group이다. (보충 근거: Clayden p.177, p.202)
+
 ![acetanilide → p-bromoacetanilide](../../figures/L04/acetanilide_2.svg)
 
 그림: 2단계: 부피 큰 NHAc 때문에 para 자리(파랑)에 Br(초록) 하나만 붙는다.
+
+![acetanilide의 para 브로민화 종합 메커니즘: N 비공유 전자쌍이 고리를 거쳐 Br–Br을 공격해 N-acyl iminium cation이 되고, Br−가 H+를 떼어 p-bromoacetanilide가 된다](../../figures/L04/acetanilide_2_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. aniline의 경우와 같은 두 단계이고, N에 acetyl group이 붙어 있다는 점만 다르다. 위 줄이 전체 반응이고 아래 대괄호는 중간체다. 1단계: N의 비공유 전자쌍(파랑)이 C–N 결합으로 들어가 C=N⁺(초록)를 만들고, 고리의 π 전자가 밀려 para 탄소의 π 결합(파랑, nucleophile)이 $\mathrm{Br}_2$ 의 Br(빨강, electrophile)을 공격한다. Br–Br 결합 전자는 바깥쪽 Br로 가서 $\mathrm{Br}^-$ 가 되고, 새 C–Br 결합은 초록색이다. 2단계: 중간체(산, 빨강)의 sp³ 탄소에서 $\mathrm{Br}^-$ (염기, 파랑)가 H(빨강)를 가져가 방향족성이 회복된다. 그림에는 para 공격만 그렸다. ortho 위치는 부피 큰 NHAc 때문에 불리하고, N의 전자쌍이 C=O와도 공액되어 있어 고리로 내주는 몫이 aniline보다 적으므로 Br이 한 번만 들어간다. 보충: 이 화살표들은 aniline 그림과 같은 규칙으로 그린 보충이다. (보충 근거: Clayden p.475)
 
 ![p-bromoacetanilide → p-bromoaniline](../../figures/L04/acetanilide_3.svg)
 
@@ -130,6 +140,10 @@ toluene --[Br₂, Lewis acid 촉매]--> ortho 약 60%, para 약 35%, 메타 약 
 
 그림: methyl은 ortho/para 지향기다. 생성물은 ortho 약 60%, para 약 35%(초록 = 새로 붙은 Br).
 
+![toluene의 브로민화 종합 메커니즘: FeBr3로 활성화된 Br2를 고리가 ortho 위치에서 공격해 3차 cation이 되고, FeBr4−가 H+를 떼어 o-bromotoluene이 된다](../../figures/L04/toluene_bromination_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. ortho 공격을 그렸고(생성물의 약 60%), para 공격도 같은 두 단계다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: Lewis acid $\mathrm{FeBr}_3$ 가 $\mathrm{Br}_2$ 에 붙어 Br–$\mathrm{Br}^+$–$\mathrm{FeBr}_3^-$ 복합체를 만든다. 고리의 π 결합(파랑, nucleophile)이 바깥쪽 Br(빨강, electrophile)을 공격해 새 C–Br 결합(초록)을 만들고, Br–Br 결합 전자는 안쪽 Br로 가서 $\mathrm{FeBr}_4^-$ 가 된다. 이때 양전하(빨간 +)가 CH₃가 붙은 탄소에 놓이는 3차 carbocation이 생기므로 이 intermediate가 안정하다. 2단계: $\mathrm{FeBr}_4^-$ (염기, 파랑)의 Br 전자쌍이 sp³ 탄소의 H(빨강)를 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복되며 HBr과 $\mathrm{FeBr}_3$ 가 나온다. 보충: Lewis acid가 $\mathrm{Br}_2$ 를 활성화하는 복합체와 2단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.475, p.478)
+
 methyl group은 OR기를 약하게 만든 버전처럼, 고리 π 계의 전자 밀도를 특히 ortho와 para 위치에서 높인다. 메커니즘은 **σ σ conjugation** 이다. methyl의 C-H σ 결합 하나가 고리의 π 계와 겹쳐 전자를 약하게 내준다. 그래서 alkyl group은 전자 주는 기처럼 행동한다. (출처: L4 p.7)
 
 ### 2.2 intermediate로 이유 보기
@@ -154,6 +168,10 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 
 그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$ ).
 
+![toluene의 sulfonation 종합 메커니즘: SO3가 para 위치를 공격해 cation이 되고, HSO4−가 H+를 떼어 sulfonate가 된 뒤 protonate되어 p-toluenesulfonic acid가 된다](../../figures/L04/toluene_sulfonation_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. para 공격을 그렸고(TsOH), ortho 공격도 같은 두 단계다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). electrophile $\mathrm{SO}_3$ 는 진한 $\mathrm{H}_2\mathrm{SO}_4$ 에서 만들어지며, 그 과정은 그리지 않았다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{SO}_3$ 의 S(빨강, electrophile)를 공격해 새 C–S 결합(초록)을 만들고, S=O의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 그림의 빨간 +는 한 공명 구조이고, 다른 공명 구조에서는 CH₃가 붙은 탄소에 양전하가 놓여 3차 cation이 된다. 2단계: $\mathrm{HSO}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복되고, 생긴 $\mathrm{SO}_3^-$ 가 H⁺를 받으면(그리지 않음) $\mathrm{SO}_3\mathrm{H}$ , 즉 TsOH가 된다. 보충: $\mathrm{SO}_3$ 가 생기는 단계, 2단계의 화살표, 마지막 protonation은 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476–477)
+
 (출처: L4 p.10)
 
 **사카린 합성**
@@ -166,6 +184,10 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
 
 그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$ ).
+
+![toluene의 chlorosulfonation 종합 메커니즘: +SO2Cl이 ortho 위치를 공격해 cation이 되고, ClSO3−가 H+를 떼어 o-toluenesulfonyl chloride가 된다](../../figures/L04/saccharin_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 사카린 합성에 쓰이는 ortho 이성질체(약 40%)를 그렸다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). electrophile $\mathrm{{}^{+}SO_2Cl}$ 은 $\mathrm{ClSO_2OH}$ 두 분자 사이의 양성자 이동으로 $\mathrm{H_2O^+}$–$\mathrm{SO_2Cl}$ 이 생기고 물이 떠나 만들어지며, 이 과정은 그리지 않았다. 1단계: 고리의 π 결합(파랑, nucleophile)이 S(빨강, electrophile)를 공격해 새 C–S 결합(초록)을 만들고, S=O의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 양전하(빨간 +)는 CH₃가 붙은 탄소에 놓여 3차 cation이 된다. 2단계: $\mathrm{ClSO_3^-}$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가고 방향족성이 회복되어 sulfonyl chloride와 $\mathrm{ClSO_2OH}$ 가 된다. 부산물인 물은 electrophile이 만들어질 때 나온다. 보충: 곡선 화살표와 $\mathrm{ClSO_3^-}$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476, p.486)
 
 ![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
 
@@ -218,9 +240,17 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 그림: $NMe_3^+$ 는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).
 
+![PhNMe3+의 나이트로화 종합 메커니즘: NO2+가 meta 위치를 공격해 cation이 되고, HSO4−가 H+를 떼어 meta-nitro 생성물이 된다](../../figures/L04/phnme3_nitration_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. $\mathrm{NMe}_3^+$ 는 유발 효과로 전자를 끄는 비활성화·meta 지향기이며, meta 90%, para 10%가 생긴다(주생성물인 meta만 그렸다). 단계는 benzene 나이트로화와 같다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{NO}_2^+$ 의 N(빨강, electrophile)을 공격해 새 C–N 결합(초록)을 만들고 N=O 하나의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 2단계: $\mathrm{HSO}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복된다(전체 반응에서 $\mathrm{NO}_2^+$ 는 L3의 nitronium 그림처럼 $\mathrm{HNO}_3$ 와 $\mathrm{H}_2\mathrm{SO}_4$ 에서 만들어진다). meta 공격에서는 양전하가 공격 탄소의 ortho, para 위치에만 놓이므로 어느 구조에서도 $\mathrm{N}^+$ 가 붙은 탄소에는 오지 않는다. 보충: 2단계의 곡선 화살표와 $\mathrm{HSO}_4^-$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476)
+
 ![PhCF3 → m-nitro(trifluoromethyl)benzene](../../figures/L04/phcf3_nitration.svg)
 
 그림: $CF_3$ 도 meta 지향기다(96%).
+
+![PhCF3의 나이트로화 종합 메커니즘: NO2+가 meta 위치를 공격해 cation이 되고, HSO4−가 H+를 떼어 m-nitro(trifluoromethyl)benzene이 된다](../../figures/L04/phcf3_nitration_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. $\mathrm{CF}_3$ 는 유발 효과로 전자를 끄는 비활성화·meta 지향기이며, meta 생성물이 96%다. 단계는 benzene 나이트로화와 같다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{NO}_2^+$ 의 N(빨강, electrophile)을 공격해 새 C–N 결합(초록)을 만들고 N=O 하나의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 2단계: $\mathrm{HSO}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복된다(전체 반응에서 $\mathrm{NO}_2^+$ 는 L3의 nitronium 그림처럼 $\mathrm{HNO}_3$ 와 $\mathrm{H}_2\mathrm{SO}_4$ 에서 만들어진다). meta 공격에서는 양전하가 공격 탄소의 ortho, para 위치에만 놓이므로(빨간 +는 그중 하나) 어느 구조에서도 $\mathrm{CF}_3$ 가 붙은 탄소에는 오지 않는다. ortho 공격이었다면 그 탄소에 양전하가 놓이는 매우 불리한 구조가 생긴다. 보충: 2단계의 곡선 화살표와 $\mathrm{HSO}_4^-$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476)
 
 (출처: L4 p.13)
 
@@ -233,9 +263,17 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 그림: nitration. 새 C–N 결합(초록).
 
+![benzene 나이트로화 종합 메커니즘: NO2+가 benzene에 첨가해 cyclohexadienyl cation이 되고, HSO4−가 H+를 떼어 nitrobenzene이 된다](../../figures/L04/benzene_nitration_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). electrophile $\mathrm{NO}_2^+$ 는 $\mathrm{HNO}_3$ 가 $\mathrm{H}_2\mathrm{SO}_4$ 에게 양성자를 받고 물이 떠나 생기며, 이 과정은 L3의 nitronium 그림에서 다루었으므로 여기서는 $\mathrm{NO}_2^+$ 에서 출발한다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{NO}_2^+$ 의 N(빨강, electrophile)을 공격해 새 C–N 결합(초록)을 만들고, N=O 하나의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다(N은 결합 네 개를 유지한다). 2단계: 중간체 cyclohexadienyl cation(산, 빨강)의 sp³ 탄소에서 $\mathrm{HSO}_4^-$ (염기, 파랑)가 H(빨강)를 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복되며 $\mathrm{H}_2\mathrm{SO}_4$ 가 재생된다. 빨간 +는 그려진 공명 구조의 양전하 위치다. 보충: 2단계의 곡선 화살표와 $\mathrm{HSO}_4^-$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476)
+
 ![benzene → m-dinitrobenzene](../../figures/L04/benzene_dinitration.svg)
 
 그림: 가혹한 조건에서는 두 번째 $NO_2$ 가 meta로 들어간다(75%).
+
+![nitrobenzene의 두 번째 나이트로화 종합 메커니즘: NO2+가 meta 위치를 공격해 cation이 되고, HSO4−가 H+를 떼어 m-dinitrobenzene이 된다](../../figures/L04/benzene_dinitration_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 이미 붙은 $\mathrm{NO}_2$ 때문에 가혹한 조건(발연 $\mathrm{HNO}_3$ , 진한 $\mathrm{H}_2\mathrm{SO}_4$ , 100 °C)이 필요하고, 새 $\mathrm{NO}_2$ 는 meta 위치(75%)로 들어간다. 단계는 benzene 나이트로화와 같다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{NO}_2^+$ 의 N(빨강, electrophile)을 공격해 새 C–N 결합(초록)을 만들고 N=O 하나의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 2단계: $\mathrm{HSO}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복된다(전체 반응에서 $\mathrm{NO}_2^+$ 는 L3의 nitronium 그림처럼 $\mathrm{HNO}_3$ 와 $\mathrm{H}_2\mathrm{SO}_4$ 에서 만들어진다). 빨간 +는 한 공명 구조이고, 양전하는 공격 탄소의 ortho, para 위치에만 놓이므로 어느 구조에서도 $\mathrm{NO}_2$ 가 붙은 탄소에는 오지 않는다. 보충: 2단계의 곡선 화살표와 $\mathrm{HSO}_4^-$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476)
 
 두 번째 nitro group은 **첫 번째의 메타 위치**로 들어간다. 즉 nitro group은 비활성화, 메타 배향이다. (출처: L4 p.14)
 
@@ -294,6 +332,10 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 
 그림: 비활성화된 고리라 가열이 필요하고, Br(초록)은 meta로 들어간다.
 
+![nitrobenzene의 브로민화 종합 메커니즘: FeBr3로 활성화된 Br2를 고리가 meta 위치에서 공격해 cation이 되고, FeBr4−가 H+를 떼어 m-bromonitrobenzene이 된다](../../figures/L04/nitrobenzene_bromination_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). $\mathrm{NO}_2$ 가 고리를 강하게 비활성화하므로 $\mathrm{Br}_2$/Fe 가루와 135–145 °C 가열이 필요하다. 1단계: $\mathrm{FeBr}_3$ 와 $\mathrm{Br}_2$ 의 복합체(Br–$\mathrm{Br}^+$–$\mathrm{FeBr}_3^-$)를 고리의 π 결합(파랑, nucleophile)이 meta 위치에서 공격해 새 C–Br 결합(초록)을 만들고, Br–Br 결합 전자는 안쪽 Br로 가서 $\mathrm{FeBr}_4^-$ 가 된다. 빨간 +는 한 공명 구조일 뿐이고, 양전하는 공격 탄소의 ortho, para 위치(세 탄소)에만 놓이므로 어느 구조에서도 $\mathrm{NO}_2$ 가 붙은 탄소에는 오지 않는다. 2단계: $\mathrm{FeBr}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복되며 HBr과 $\mathrm{FeBr}_3$ 가 나온다. 보충: Fe 가루에서 $\mathrm{FeBr}_3$ 가 생긴다는 점, 복합체 단계, 2단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.475, p.478)
+
 강의 마지막 장(p.24)의 도표는 치환기를 반응성 순서로 정리한다.
 - **강한 활성화**(o,p): -NH₂, -NHR, -NR₂, -OH, -OR
 - **중간 활성화**(o,p): -NHCOR, -NHCOPh, -OCOR, -OCOPh
@@ -318,6 +360,10 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 ![p-nitrotoluene → 2,4-dinitrotoluene](../../figures/L04/p_nitrotoluene_nitration.svg)
 
 그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$ (초록)가 들어간다(효과가 더해짐).
+
+![p-nitrotoluene의 나이트로화 종합 메커니즘: NO2+가 CH3의 ortho이자 NO2의 meta인 위치를 공격해 cation이 되고, HSO4−가 H+를 떼어 2,4-dinitrotoluene이 된다](../../figures/L04/p_nitrotoluene_nitration_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 새 $\mathrm{NO}_2$ 는 CH₃의 ortho이면서 기존 $\mathrm{NO}_2$ 의 meta인 자리를 공격하므로 두 치환기의 효과가 같은 자리를 가리킨다(효과가 더해짐). 단계는 benzene 나이트로화와 같다. 1단계: 고리의 π 결합(파랑, nucleophile)이 $\mathrm{NO}_2^+$ 의 N(빨강, electrophile)을 공격해 새 C–N 결합(초록)을 만들고 N=O 하나의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 된다. 2단계: $\mathrm{HSO}_4^-$ (염기, 파랑)가 sp³ 탄소의 H(빨강)를 가져가 방향족성이 회복된다(전체 반응에서 $\mathrm{NO}_2^+$ 는 L3의 nitronium 그림처럼 $\mathrm{HNO}_3$ 와 $\mathrm{H}_2\mathrm{SO}_4$ 에서 만들어진다). 빨간 +는 CH₃가 붙은 탄소에 놓이는 3차 cation 구조이고, 기존 $\mathrm{NO}_2$ 가 붙은 탄소에는 양전하가 오지 않는다. 보충: 2단계의 곡선 화살표와 $\mathrm{HSO}_4^-$ 는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.476)
 
 (출처: L4 p.17-18)
 
