@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCC(=O)OCC=C"
+    ],
+    "products": [
+     "CC=C(O[Si](C)(C)C)OCC=C"
+    ],
+    "conditions": "LDA; Me₃SiCl"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

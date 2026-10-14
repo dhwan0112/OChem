@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C=CC(O)CC=C"
+    ],
+    "products": [
+     "OC=CCCC=C"
+    ],
+    "conditions": "Δ, [3,3]"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

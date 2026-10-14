@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C1=CCCCC1"
+    ],
+    "products": [
+     "C1CCC2OC2C1"
+    ],
+    "conditions": "mCPBA"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

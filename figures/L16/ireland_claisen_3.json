@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C=CCC(C)C(=O)O[Si](C)(C)C"
+    ],
+    "products": [
+     "C=CCC(C)C(=O)O"
+    ],
+    "conditions": "H₃O⁺"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

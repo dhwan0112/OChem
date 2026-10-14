@@ -208,7 +208,9 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 
 - CH2=CH–CH(OH)–CH2–CH=CH2 --[가열, [3,3]]--> HO–CH=CH–CH2–CH2–CH=CH2 → OHC–CH2–CH2–CH2–CH=CH2
 
-![oxy-Cope rearrangement](../../figures/L16/oxy_cope.svg)
+![oxy-Cope rearrangement (1/2)](../../figures/L16/oxy_cope_1.svg)
+
+![oxy-Cope rearrangement (2/2)](../../figures/L16/oxy_cope_2.svg)
 
 *그림: 보충: hexa-1,5-dien-3-ol이 [3,3] 자리옮김으로 enol이 되고, enol이 aldehyde로 토토머화하면서 반응이 되돌아가지 않는다.*
 
@@ -238,7 +240,11 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 3. [3,3] 자리옮김으로 γ,δ-unsaturated carboxylic acid의 lithium염(또는 silyl ester)이 생긴다.
 4. H⁺/H2O 후처리로 γ,δ-unsaturated carboxylic acid을 얻는다.
 
-![Ireland–Claisen rearrangement](../../figures/L16/ireland_claisen.svg)
+![Ireland–Claisen rearrangement (1/3)](../../figures/L16/ireland_claisen_1.svg)
+
+![Ireland–Claisen rearrangement (2/3)](../../figures/L16/ireland_claisen_2.svg)
+
+![Ireland–Claisen rearrangement (3/3)](../../figures/L16/ireland_claisen_3.svg)
 
 *그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.*
 

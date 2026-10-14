@@ -189,7 +189,9 @@ methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도�
 - `MVK --[NaCN, HCN, 5–10 °C]--> 사이아노하이드린 (CH2=CH-C(OH)(CN)-CH3)`: carbonyl에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
 - `MVK --[NaCN, HCN, 80 °C]--> NC-CH2CH2-CO-CH3 (4-oxopentanenitrile)`: **1,4 생성물**. 이것이 **thermodynamic 생성물(thermodynamic product, P2)**이다.
 
-![MVK에 대한 cyanide의 1,2- vs 1,4-첨가](../../figures/L11/mvk_cyanide.svg)
+![MVK에 대한 cyanide의 1,2- vs 1,4-첨가 (1/2)](../../figures/L11/mvk_cyanide_1.svg)
+
+![MVK에 대한 cyanide의 1,2- vs 1,4-첨가 (2/2)](../../figures/L11/mvk_cyanide_2.svg)
 
 *그림: 보충: 저온에서는 빠른 1,2-첨가(cyanohydrin, kinetic product)가, 80 °C에서는 가역적인 1,2-첨가가 되돌아가고 더 안정한 1,4-첨가 생성물(4-oxopentanenitrile, thermodynamic product)이 쌓인다.*
 

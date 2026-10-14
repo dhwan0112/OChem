@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C[N+](C)=C1CCCCC1"
+    ],
+    "products": [
+     "CN(C)C1CCCCC1"
+    ],
+    "conditions": "NaBH₃CN"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

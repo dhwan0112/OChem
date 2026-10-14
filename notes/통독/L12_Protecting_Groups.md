@@ -59,6 +59,7 @@ electrophilicity은 ketone이 ester보다 훨씬 크다(ketone >> ester).
 **둘째, 한 분자 안에 incompatible한 작용기가 있을 때** 
 Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다. 
 또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 그 양성자에 의해 그냥 파괴된다. 슬라이드의 예가 바로 이것이다. 
+
 ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만들고 싶지만, 이 Grignard 시약은 자기 분자 안에 ketone을 품고 있으므로 만들어지는 순간 다른 분자의 ketone을 공격한다. 슬라이드는 이를 "impossible Grignard reagent"이라고 부른다.
 
 (출처: L12 p.3)
@@ -146,7 +147,9 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 `CH3CH(OH)CH2CH2CH2Br --[t-BuMe2SiCl, imidazole]--> CH3CH(OTBDMS)CH2CH2CH2Br --[HC≡C-Li]--> CH3CH(OTBDMS)CH2CH2CH2C≡CH`
 
-![TBS 보호 후 acetylide alkylation](../../figures/L12/tbs_acetylide.svg)
+![TBS 보호 후 acetylide alkylation (1/2)](../../figures/L12/tbs_acetylide_1.svg)
+
+![TBS 보호 후 acetylide alkylation (2/2)](../../figures/L12/tbs_acetylide_2.svg)
 
 *그림: 보충: 2차 alcohol을 TBS ether로 막은 뒤 $HC{\equiv}CLi$로 1차 $C-Br$를 $S_N2$ 치환한다. OH가 그대로 있으면 acetylide가 O–H 양성자부터 떼어 버린다.*
 
@@ -155,7 +158,10 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 #### 5-4. 어떻게 벗기나
 
-탈보호 방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다. fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다. F-가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4] F-는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
+방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다. 
+fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다. 
+$F^-$가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4] 
+$F^-$는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
 
 ![F⁻가 silyl ether의 Si를 공격하고 alkoxide가 떨어지는 TBAF 탈보호](../../figures/L12/silyl_tbaf.svg)
 
@@ -339,7 +345,11 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 `CH3COCH2CO2Et --[HOCH2CH2OH, H+]--> 케톤만 아세탈화 --[2 × PhMgBr]--> 아세탈-CH2C(OH)Ph2 --[H+, H2O]--> CH3COCH2C(OH)Ph2`
 
-![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가](../../figures/L12/acetal_grignard_ketoester.svg)
+![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (1/3)](../../figures/L12/acetal_grignard_ketoester_1.svg)
+
+![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (2/3)](../../figures/L12/acetal_grignard_ketoester_2.svg)
+
+![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (3/3)](../../figures/L12/acetal_grignard_ketoester_3.svg)
 
 *그림: 보충: ethyl acetoacetate의 ketone만 ethylene glycol acetal로 보호하고, $PhMgBr$ 2당량을 ester에 첨가해 3차 alcohol을 만든 뒤 산 수용액으로 acetal을 벗긴다.*
 
@@ -351,7 +361,13 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 3. `--[HCO2Et]--> (아세탈-(CH2)3)2CHOH` : ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
 4. `--[H+, H2O]--> (CH3CO(CH2)3)2CHOH` (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
 
-![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가](../../figures/L12/acetal_grignard_bromoketone.svg)
+![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (1/4)](../../figures/L12/acetal_grignard_bromoketone_1.svg)
+
+![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (2/4)](../../figures/L12/acetal_grignard_bromoketone_2.svg)
+
+![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (3/4)](../../figures/L12/acetal_grignard_bromoketone_3.svg)
+
+![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (4/4)](../../figures/L12/acetal_grignard_bromoketone_4.svg)
 
 *그림: 보충: 5-bromopentan-2-one의 ketone을 acetal로 막아야 같은 분자에서 Grignard 시약을 만들 수 있다. $HCO_2Et$에 Grignard 시약 두 분자가 첨가해 2차 alcohol이 되고, 마지막에 두 acetal을 함께 벗긴다.*
 

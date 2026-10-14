@@ -159,7 +159,9 @@ cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanedi
 - 물이 반대쪽 면에서 S<sub>N</sub>2로 공격한다(반전).
 - 그래서 두 OH가 서로 반대 면에 놓인다.
 
-![epoxidation 후 산성 개환으로 trans-diol](../../figures/L02/epoxide_anti_diol.svg)
+![epoxidation 후 산성 개환으로 trans-diol (1/2)](../../figures/L02/epoxide_anti_diol_1.svg)
+
+![epoxidation 후 산성 개환으로 trans-diol (2/2)](../../figures/L02/epoxide_anti_diol_2.svg)
 
 *그림: 보충: mCPBA로 만든 epoxide를 산에서 물이 뒤쪽(backside)으로 열기 때문에 두 OH는 trans(anti)가 된다. 생성물은 라세미(±)이며, 그림은 한 거울상만 그렸다.*
 

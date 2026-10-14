@@ -1,0 +1,19 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(=O)CC(C)=O",
+     "CC[O-]"
+    ],
+    "products": [
+     "CCOC(=O)[CH-]C(C)=O",
+     "CCO"
+    ],
+    "conditions": "비가역적 탈양성자화"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CC1(CCCBr)OCCO1"
+    ],
+    "products": [
+     {
+      "smiles": "Br[Mg]CCCC1(C)OCCO1",
+      "rotation": 180
+     }
+    ],
+    "conditions": "Mg, Et₂O"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

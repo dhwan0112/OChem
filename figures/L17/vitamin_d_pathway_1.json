@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC=C4[C@@]3(CC[C@@H](C4)O)C)C"
+    ],
+    "products": [
+     "CC1=C(C[C@H](CC1)O)/C=C\\C2=CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CCCC(C)C)C"
+    ],
+    "conditions": "hν (6π)"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

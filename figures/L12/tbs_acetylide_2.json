@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CC(O[Si](C)(C)C(C)(C)C)CCCBr"
+    ],
+    "products": [
+     "CC(O[Si](C)(C)C(C)(C)C)CCCC#C"
+    ],
+    "conditions": "HC≡CLi"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

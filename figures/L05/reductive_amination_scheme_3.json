@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "O=Cc1ccccc1"
+    ],
+    "products": [
+     "NCc1ccccc1"
+    ],
+    "conditions": "NH₃, H₂, Ni"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

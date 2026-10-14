@@ -1,0 +1,18 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(=O)[CH2-]",
+     "CCOC(C)=O"
+    ],
+    "products": [
+     "CCOC(=O)CC(C)([O-])OCC"
+    ],
+    "conditions": ""
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}
