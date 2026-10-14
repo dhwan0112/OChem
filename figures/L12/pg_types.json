@@ -1,0 +1,25 @@
+{
+ "scheme": {
+  "molecules": [
+   {
+    "smiles": "*O[Si](C)(C)C(C)(C)C",
+    "label": "silyl ether (TBS)"
+   },
+   {
+    "smiles": "*NC(=O)OC(C)(C)C",
+    "label": "carbamate (Boc)"
+   },
+   {
+    "smiles": "*NC(=O)OCc1ccccc1",
+    "label": "carbamate (Cbz)"
+   },
+   {
+    "smiles": "*C1(*)OCCO1",
+    "label": "acetal"
+   }
+  ],
+  "reactions": [],
+  "columns": 2,
+  "width_pt": 540
+ }
+}

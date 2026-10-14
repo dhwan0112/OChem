@@ -20,7 +20,9 @@ protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장
 ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다. 
 그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다. 
 
-(3가지 대표 protecting group 기본 구조 이미지 추가 바람)
+![대표 protecting group 세 종류의 구조](../../figures/L12/pg_types.svg)
+
+*그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). 그림에서 methyl은 나머지 분자(R)를 대신한다.*
 
 이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 
 1) 각 protecting group을 어떻게 씌우고 벗기는지, 
@@ -67,8 +69,12 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 
 그렇다면 해결책은 무엇일까? 답은 단순하다. FG1과 FG2가 있는 분자에서 FG2를 반응시키고 싶은데 FG1이 방해한다면, FG1을 보호하고 → FG2에서 반응시키고 → FG1을 탈보호하면 된다.
 
-comment: 아래같은거도 다 reshiki그림으로
 `FG1~FG2 --[보호]--> PG-FG1~FG2 --[FG2에서 반응]--> PG-FG1~EE --[탈보호]--> FG1~EE`
+
+![보호–반응–탈보호 흐름](../../figures/L12/pg_strategy.svg)
+
+*그림: 보충: protecting group 전략의 흐름. 방해되는 FG1을 PG로 보호하고, FG2에서 원하는 반응을 한 뒤(EE), PG를 떼어 FG1을 되살린다.*
+
 
 말은 쉽지만 여기에는 두 가지 조건이 붙는다. 하나는 보호와 탈보호 반응 자체가 깔끔하게 일어나야 한다는 것이고, 다른 하나는 protecting group이 FG2에서 일어나는 반응 조건을 견딜 만큼 안정해야 한다는 것이다. 결국 protecting group 선택이란 "어떤 조건에서 버티고, 어떤 조건에서 벗겨지는가"를 맞추는 퍼즐이다.
 
@@ -135,6 +141,11 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 그래서 먼저 OH를 TBDMS 에테르로 바꾼다.
 
 `CH3CH(OH)CH2CH2CH2Br --[t-BuMe2SiCl, imidazole]--> CH3CH(OTBDMS)CH2CH2CH2Br --[HC≡C-Li]--> CH3CH(OTBDMS)CH2CH2CH2C≡CH`
+
+![TBS 보호 후 acetylide alkylation](../../figures/L12/tbs_acetylide.svg)
+
+*그림: 보충: 2차 alcohol을 TBS ether로 막은 뒤 $HC{\equiv}CLi$로 1차 $C-Br$를 $S_N2$ 치환한다. OH가 그대로 있으면 acetylide가 O–H 양성자부터 떼어 버린다.*
+
 
 산성 양성자가 사라졌으니 이제 acetylide는 원래 목적대로 C–Br에서 치환 반응만 하게 된다.
 
@@ -320,12 +331,22 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 `CH3COCH2CO2Et --[HOCH2CH2OH, H+]--> 케톤만 아세탈화 --[2 × PhMgBr]--> 아세탈-CH2C(OH)Ph2 --[H+, H2O]--> CH3COCH2C(OH)Ph2`
 
+![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가](../../figures/L12/acetal_grignard_ketoester.svg)
+
+*그림: 보충: ethyl acetoacetate의 ketone만 ethylene glycol acetal로 보호하고, $PhMgBr$ 2당량을 ester에 첨가해 3차 alcohol을 만든 뒤 산 수용액으로 acetal을 벗긴다.*
+
+
 **예제 2 (불가능한 Grignard reagent 만들기).** ketone이 있으면 Grignard 시약을 만들 수 없었다. 그렇다면 ketone을 가리면 된다.
 
 1. `CH3CO(CH2)3Br --[HOCH2CH2OH, H+ 촉매]--> 아세탈-(CH2)3Br`
 2. `--[Mg, Et2O]--> 아세탈-(CH2)3MgBr` : ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
 3. `--[HCO2Et]--> (아세탈-(CH2)3)2CHOH` : ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
 4. `--[H+, H2O]--> (CH3CO(CH2)3)2CHOH` (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
+
+![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가](../../figures/L12/acetal_grignard_bromoketone.svg)
+
+*그림: 보충: 5-bromopentan-2-one의 ketone을 acetal로 막아야 같은 분자에서 Grignard 시약을 만들 수 있다. $HCO_2Et$에 Grignard 시약 두 분자가 첨가해 2차 alcohol이 되고, 마지막에 두 acetal을 함께 벗긴다.*
+
 
 (출처: L12 p.14, p.3)
 
