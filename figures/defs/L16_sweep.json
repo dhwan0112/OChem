@@ -1,0 +1,36 @@
+[
+ {
+  "out": "figures/L16/claisen_allyl_vinyl_ether.json",
+  "title": "allyl vinyl ether → pent-4-enal (notes/통독/L16 89행)",
+  "reactants": [
+   "C=C[O:2][CH2:2]C=C"
+  ],
+  "products": [
+   "O=CCC[CH:3]=[CH2:3]"
+  ],
+  "conditions": "heat",
+  "below": "[3,3]",
+  "note": "L16",
+  "line": 89,
+  "wiki": "반응/클라이젠 자리옮김",
+  "alt": "allyl vinyl ether → pent-4-enal",
+  "cap": "Claisen [3,3]. C–O(빨강)가 끊기고 새 C–C와 C=O가 생긴다"
+ },
+ {
+  "out": "figures/L16/wittig_rearrangement.json",
+  "title": "benzyl allyl ether → PhCH(OH)CH2CH=CH2 (notes/통독/L16 306행)",
+  "reactants": [
+   "c1ccccc1[CH2:1]OCC=C"
+  ],
+  "products": [
+   "O[CH:3](c1ccccc1)CC=C"
+  ],
+  "conditions": "1. BuLi",
+  "below": "2. H+",
+  "note": "L16",
+  "line": 306,
+  "wiki": "반응/2,3-시그마트로픽 자리옮김",
+  "alt": "benzyl allyl ether → PhCH(OH)CH2CH=CH2",
+  "cap": "benzyl 자리 carbanion(파랑)을 거친 [2,3]-Wittig 자리옮김"
+ }
+]

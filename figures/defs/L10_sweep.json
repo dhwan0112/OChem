@@ -1,0 +1,19 @@
+[
+ {
+  "out": "figures/L10/acetone_bromination.json",
+  "title": "acetone + Br2/HOAc → bromoacetone (notes/통독/L10 167행)",
+  "reactants": [
+   "[CH3:1]C(C)=O"
+  ],
+  "products": [
+   "[Br:3][CH2:3]C(C)=O"
+  ],
+  "conditions": "Br2, HOAc",
+  "below": "",
+  "note": "L10",
+  "line": 167,
+  "wiki": "반응/α-할로젠화",
+  "alt": "acetone + Br2/HOAc → bromoacetone",
+  "cap": "산 촉매 enol의 α-C(파랑)가 $Br_2$와 반응해 C–Br(초록)"
+ }
+]

@@ -468,6 +468,10 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 - `2-fluoroacetophenone + R2NH --[addition, elimination]--> 2-(NR2)acetophenone`: acetyl group의 오쏘 위치 F가 치환된다. 7.1절의 cyclohexene 예와 메커니즘이 같다. 음전하가 acetyl 산소로 가서 enolate가 된다.
 - `4-chloronitrobenzene + HO- --[addition, elimination]--> 4-nitrophenol`: 파라 위치의 Cl이 치환되고, 음전하는 NO2 산소까지 퍼진다.[^10]
 
+![4-chloronitrobenzene + HO− → 4-nitrophenol (SNAr)](../../figures/L11/snar_chloronitrobenzene.svg)
+
+*그림: para $NO_2$가 음전하를 받아 주므로 Cl(빨강)이 OH(초록)로 치환된다.*
+
 (출처: L11 p.22, p.23)
 
 ![HO⁻가 4-chloronitrobenzene의 ipso 탄소를 공격해 음전하가 NO₂ 산소에 놓인 σ complex가 되는 addition 단계](../../figures/L11/snar_addition.svg)

@@ -48,6 +48,14 @@ benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함
 - benzene --[RCO₃H]--> **반응 없음**
 - benzene --[Br₂]--> **반응 없음**
 
+![cyclohexene + RCO3H → epoxide](../../figures/L01/cyclohexene_mcpba.svg)
+
+*그림: alkene은 과산과 반응해 epoxide가 된다(cis 첨가). 예: mCPBA.*
+
+![cyclohexene + Br2 → trans-1,2-dibromide](../../figures/L02/cyclohexene_br2_trans.svg)
+
+*그림: alkene은 $Br_2$와 anti 첨가한다.*
+
 (출처: L3 p.9)
 
 ### 1.1 Lewis acid을 넣으면 반응한다
@@ -372,6 +380,10 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 6. nitro group이 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
 7. phenol에서는 산소 비공유 전자쌍이 고리와 공액되어 HOMO 에너지가 크게 올라간다. 그래서 친핵성이 훨씬 커진다. 공명 구조를 그리면 O의 전자가 오르토와 파라 위치로 밀려 들어가 그 위치의 전자 밀도가 높아진다. 그래서 세 위치(2,4,6)에서 촉매 없이 빠르게 치환된다. (L3 p.23-25)
 8. benzene --[HNO₃/H₂SO₄]--> nitrobenzene --[H₂, Pd/C 또는 Sn/HCl]--> aniline --[NaNO₂, HCl, 0 °C]--> diazonium 염 --[H₂O, 가열]--> phenol. (L3 p.12-13)
+
+![benzene → nitrobenzene](../../figures/L04/benzene_nitration.svg)
+
+*그림: 1단계: nitration.*
 
 ---
 
