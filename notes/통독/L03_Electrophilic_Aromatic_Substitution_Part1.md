@@ -142,6 +142,10 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 
 그림: diazonium 염을 물에서 가열하면 $N_2$(빨강 쪽이 떠나는 기)가 빠지고 OH(초록)가 들어간다.
 
+![aryl diazonium 염의 가수분해 종합 메커니즘: N2가 떠나 aryl cation이 되고, H2O가 붙은 뒤 H+가 빠져 phenol이 된다](../../figures/L03/diazonium_phenol_mech.svg)
+
+그림: 위 반응식의 메커니즘이다(SN1형). 위 줄이 전체 반응($ArN_2^+ + 2\,H_2O \rightarrow ArOH + N_2 + H_3O^+$)이고, 아래 대괄호는 중간체다. 1단계: C–N 결합 전자가 N(빨강 N⁺)으로 옮겨 $N_2$가 떠나고 aryl cation(electrophile, 빨강)이 생긴다. 2단계: $H_2O$(nucleophile, 파랑)의 비공유 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 $ArOH_2^+$(산, 빨강)가 된다. 3단계: 다른 $H_2O$(염기, 파랑)가 O–H의 H(빨강)를 가져가 phenol과 $H_3O^+$가 된다. 보충: 3단계의 양성자 이동은 슬라이드가 말로 한 "물이 aryl cation을 붙잡는다"를 마저 그린 것이다. (보충 근거: Clayden p.520)
+
 (출처: L3 p.13)
 
 보충: nitro group을 아미노기로 환원하면 치환기의 성격이 정반대로 바뀐다는 점도 중요하다. NO₂는 비활성화·메타 배향기이고, NH₂는 강한 활성화·오르토/파라 배향기다(→ [L4](L04_Electrophilic_Aromatic_Substitution_Part2.md) 1절, 3.3절). 그래서 NO₂가 있는 동안 메타 위치에 다른 치환기를 넣은 뒤 환원하면, 아미노기에 대해 메타인 화합물처럼 직접 만들기 어려운 구조를 얻을 수 있다. (보충 근거: Clayden p.495)
@@ -287,6 +291,10 @@ benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런
 
 그림: OH(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리에 Br(초록) 세 개가 붙는다.
 
+![phenol의 para 브로민화 종합 메커니즘: O 비공유 전자쌍이 고리를 거쳐 Br–Br을 공격해 oxonium cation이 되고, Br−가 H+를 떼어 p-bromophenol이 된다](../../figures/L03/phenol_tribromination_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 첫 번째 치환(para 위치)만 그렸고, 두 ortho 위치에서도 같은 두 단계가 되풀이되어 2,4,6-tribromophenol이 된다. 위 줄이 전체 반응이고 아래 대괄호는 중간체다. 1단계: 화살표 넷이 한꺼번에 움직인다. OH 산소의 비공유 전자쌍(파랑)이 C–O 결합으로 들어가 C=O⁺(초록)를 만들고, 고리의 π 전자가 차례로 밀려 para 탄소의 π 결합(파랑)이 $Br_2$의 Br(빨강)을 공격하며, Br–Br 결합 전자는 바깥쪽 Br로 가서 $Br^-$가 된다. 새 C–Br 결합은 초록색이다. 2단계: 중간체 oxonium cation(산, 빨강)의 sp³ 탄소에 붙은 H(빨강)를 $Br^-$(염기, 파랑)가 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복된다(−HBr). 보충: 2단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.474, p.479)
+
 (출처: L3 p.23)
 
 > 슬라이드에는 "Phenol reacts three times as rapidly"라고 적혀 있다. 그러나 문맥상 이는 "세 번이나, 빠르게(촉매 없이 실온에서) 반응한다"는 뜻으로 읽는 것이 자연스럽다. L4 p.21의 데이터를 보면 OMe 치환 benzene(아니솔)의 bromination이 benzene보다 **10⁹배** 빠르므로, "3배 빠르다"는 해석은 맞지 않는다.[4]
@@ -302,9 +310,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 ### 7.3 메커니즘: 고리는 "전선"이다
 
-![phenol OH의 비공유 전자쌍에서 출발한 화살표가 고리를 통과해 파라 탄소가 Br-Br을 공격하고, HBr이 빠져 p-bromophenol이 되는 메커니즘](../../figures/L03/phenol_bromination.svg)
-
-그림: 화살표 넷이 한 번에 움직인다. (1) OH 산소(파랑)의 비공유 전자쌍이 C–O 결합으로 들어가 C=O⁺를 만들고(초록), (2) C1=C2 π 결합 전자가 C2–C3로 옮겨가고, (3) C3=C4 π 결합(파랑)이 파라 탄소에서 Br(빨강)을 공격하며, (4) Br–Br 결합 전자가 바깥쪽 Br로 떠나 Br⁻가 된다. 가운데의 oxonium cation에서 H⁺가 빠지면(Br⁻와 합쳐 −HBr) 방향족성이 회복되어 *p*-bromophenol이 된다. 오르토 위치 공격도 같은 화살표 패턴이다.
+(이 단계의 메커니즘 그림은 위 7.1절의 종합 그림에 합쳤다. 화살표 넷의 의미는 그 그림 설명을 본다.)
 
 화살표는 **OH의 비공유 전자쌍에서 출발**해 고리를 통과한 뒤 Br-Br을 공격하도록 그린다. benzene 고리가 **conductor** 처럼 OH의 전자를 bromine 분자까지 흘려보내는 셈이다.
 1. 파라 위치 공격 → oxonium cation intermediate → HBr이 빠짐 → *p*-bromophenol
@@ -322,6 +328,10 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 ![sodium phenoxide + CO2 → sodium salicylate](../../figures/L03/kolbe_schmitt_1.svg)
 
 그림: Kolbe–Schmitt 1: phenoxide(파랑 $O^-$)의 ortho 탄소가 $CO_2$의 C(빨강)를 공격해 salicylate(초록 C–C)가 된다.
+
+![Kolbe–Schmitt 반응의 종합 메커니즘: phenoxide의 ortho 탄소가 CO2를 공격해 keto 중간체가 되고, tautomerization으로 salicylate가 된다](../../figures/L03/kolbe_schmitt_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응(sodium phenoxide + $CO_2$ → sodium salicylate)이고 아래 대괄호는 중간체다. 1단계: $O^-$(파랑)의 비공유 전자쌍이 C–O 결합으로 들어가 C=O를 만들고, 고리의 π 결합(파랑)이 ortho 탄소에서 $CO_2$의 탄소(빨강)를 공격하며, $CO_2$의 C=O π 전자는 산소로 올라가 $O^-$가 된다. 새 C–C 결합은 초록색이다. 점선은 $Na^+$가 $O^-$와 $CO_2$의 O에 걸쳐 있는 모습으로(슬라이드와 같다), 이 배위가 $CO_2$를 ortho 위치로 안내한다. 2단계: 중간체(cyclohexadienone)의 sp³ 탄소에서 H(빨강)가 빠지고 산소가 H⁺를 받는 keto–enol tautomerization으로 방향족성이 회복되어 salicylate가 된다. 슬라이드도 이 단계를 "tautomerization(±H⁺)"으로만 적어서 곡선 화살표는 그리지 않았다. (보충 근거: Clayden p.481)
 
 ![salicylic acid + Ac2O → aspirin](../../figures/L03/aspirin.svg)
 
