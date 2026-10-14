@@ -274,6 +274,14 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 *그림: 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고, 주황 화살표대로 O–H 결합 전자가 O로 가서 물이 생기며, 3차 탄소에 양이온이 생긴다(Markovnikov).*
 
+![산 촉매 수화 2단계: H2O가 3차 cation을 붙잡아 oxonium ion](../../figures/L02/methylenecyclohexane_hydration_step2.svg)
+
+*그림: 2단계: 파랑 H2O의 O 전자쌍이 빨강 3차 cation 탄소를 공격하고(주황 화살표), 새 C–O 결합(초록)이 생겨 oxonium ion이 된다.*
+
+![산 촉매 수화 3단계: 물이 oxonium ion에서 H+를 떼어 alcohol](../../figures/L02/methylenecyclohexane_hydration_step3.svg)
+
+*그림: 3단계: 파랑 H2O의 전자쌍이 빨강 H를 가져가고(주황 화살표), O–H 결합 전자는 양전하 O로 가서 중성 alcohol(초록)과 H3O+가 생긴다. 두 화살표는 서로 반대 방향으로 휜다.*
+
 ![t-BuOH + H2SO4 ⇌ isobutene + H2O](../../figures/L02/tbuoh_e1.svg)
 
 *그림: 같은 조건에서 일어나는 역반응(E1 탈수). 떠나는 OH(빨강, protonate된 뒤 물로 떠난다)와 새 C=C(초록).*
@@ -289,6 +297,14 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 ![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
 
 *그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$의 O가 cation을 붙잡아 ester(초록)가 된다.*
+
+![TFA 첨가 1단계: alkene이 TFA의 H를 protonate](../../figures/L02/cyclohexene_tfa_step1.svg)
+
+*그림: 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$가 떠나며, 새 C–H 결합(초록)과 cyclohexyl cation이 생긴다.*
+
+![TFA 첨가 2단계: 짝염기가 cation을 붙잡아 ester](../../figures/L02/cyclohexene_tfa_step2.svg)
+
+*그림: 2단계: 파랑 $CF_3CO_2^-$의 O 전자쌍이 빨강 cation 탄소를 공격해(주황 화살표) 새 C–O 결합(초록)이 생기고 cyclohexyl trifluoroacetate가 된다.*
 
 ![cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol](../../figures/L02/cyclohexene_tfa_2.svg)
 
