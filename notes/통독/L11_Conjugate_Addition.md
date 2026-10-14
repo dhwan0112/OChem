@@ -67,6 +67,14 @@ conjugate addition은 **Michael addition**이라고도 부른다. 일반식은 �
 - 메시틸 oxide(mesityl oxide, (CH3)2C=CH-CO-CH3) `--[PhSH, 25 °C, 5 h]-->` 4-methyl-4-(phenylthio)pentan-2-one, (CH3)2C(SPh)-CH2-CO-CH3 (94%). thiol의 황은 β-탄소에 붙는다.
 - 칼콘(chalcone, Ph-CH=CH-CO-Ph) `--[-CN, EtOH, HOAc]-->` Ph-CH(CN)-CH2-CO-Ph (95%). CN이 β-탄소(Ph가 붙은 탄소)에 붙는다.
 
+![mesityl oxide + PhSH → 4-methyl-4-(phenylthio)pentan-2-one](../../figures/L11/mesityl_oxide_phsh.svg)
+
+*그림: S(파랑)가 β-탄소(빨강)에 붙는다.*
+
+![chalcone + CN− → β-cyano ketone](../../figures/L11/chalcone_cyanide.svg)
+
+*그림: CN(파랑)이 β-탄소(빨강)에 붙는다.*
+
 (출처: L11 p.4)
 
 ### 2.1 amine의 첨가: 질소 nucleophile은 어떻게 β-탄소에 붙나?
@@ -103,6 +111,10 @@ conjugate addition은 **Michael addition**이라고도 부른다. 일반식은 �
 
 **구리 촉매를 써서 반응계 in situ 만드는 법**:
 `isophorone (3,5,5-trimethylcyclohex-2-en-1-one) --[MeMgBr, CuCl (0.01 eq), Et2O]--> 3,3,5,5-tetramethylcyclohexanone` (83%)
+
+![isophorone + MeMgBr/CuCl → 3,3,5,5-tetramethylcyclohexanone](../../figures/L11/isophorone_cuprate.svg)
+
+*그림: Cu 촉매로 methyl이 β-탄소(빨강)에 1,4-첨가한다.*
 
 이 반응의 메커니즘은 다음과 같다.
 1. **금속 transmetallation**: MeMgBr + CuCl → "Me-Cu" + MgBrCl. methyl group이 마그네슘에서 구리로 넘어간다.
@@ -148,6 +160,22 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 - **1,2**: cinnamaldehyde Ph-CH=CH-CHO `--[NaBH4, EtOH]-->` Ph-CH=CH-CH2OH (신나밀 alcohol, 97%). aldehyde라서 직접 환원된다.
 - **1,4 후 1,2**: cyclopentenone `--[NaBH4, EtOH]-->` cyclopentanol (99%). 먼저 수소화 이온이 1,4로 들어가 cyclopentanone이 되고, 그 ketone이 다시 1,2로 환원된다(→ [L5](L05_Reduction.md) 환원 문서 참고).
 
+![acryloyl chloride + NH3 → acrylamide (1,2)](../../figures/L11/acryloyl_chloride_nh3.svg)
+
+*그림: acyl chloride는 C=O(빨강)에서 바로 치환된다.*
+
+![methyl acrylate + NH3 → methyl 3-aminopropanoate (1,4)](../../figures/L11/methyl_acrylate_nh3.svg)
+
+*그림: ester에서는 β-탄소(빨강)로 1,4-첨가한다.*
+
+![cinnamaldehyde → cinnamyl alcohol (1,2)](../../figures/L11/cinnamaldehyde_nabh4.svg)
+
+*그림: aldehyde는 C=O(빨강)가 직접 환원된다.*
+
+![cyclopentenone → cyclopentanol (1,4 후 1,2)](../../figures/L11/cyclopentenone_nabh4.svg)
+
+*그림: 먼저 1,4로 C=C가, 그다음 C=O가 환원된다.*
+
 보충: 이 순서가 "왜" carbonyl의 반응성 순서인지는 L4~L5에서 본 carbonyl 반응성과 같다. ester의 OR, amide의 NR2는 비공유 전자쌍을 C=O로 밀어 넣어 carbonyl 탄소의 δ+를 줄인다. 그래서 nucleophile이 C=O로 직접 갈 이유가 약해지고 β-탄소가 상대적으로 유리해진다. 극단적으로 NaBH4는 ester·amide C=O를 아예 환원하지 못하므로, α,β-unsaturated ester에는 짝지음 환원만 일어난다. 반대로 enone에서 C=O만 골라 환원하고 싶으면 NaBH4에 CeCl3을 넣는 Luche 환원을 쓴다. (보충 근거: Clayden p.506)
 
 보충: 슬라이드의 세 요인 외에 Clayden은 **β-탄소의 입체 장애**도 요인으로 꼽는다. β-탄소가 붐비면 직접(1,2) 첨가 쪽으로, β-탄소가 드러나 있으면 conjugate addition 쪽으로 기운다. methyl 비닐 ketone이나 exo-methylene ketone처럼 β가 CH2인 받개가 가장 반응성 좋은 Michael 받개인 이유다. (보충 근거: Clayden p.510, p.609)
@@ -159,6 +187,10 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 같은 2-cyclohexenone에 같은 methyl group을 넣어도 시약에 따라 결과가 갈린다.
 - `2-cyclohexenone --[1. CH3MgBr, ether 또는 CH3Li; 2. H3O+]--> 1-methyl-2-cyclohexen-1-ol` (95%): **1,2-첨가**
 - `2-cyclohexenone --[1. Li(CH3)2Cu, ether; 2. H3O+]--> 3-methylcyclohexanone` (97%): **1,4-첨가**
+
+![2-cyclohexenone + MeLi → 1-methylcyclohex-2-en-1-ol (1,2)](../../figures/L11/cyclohexenone_meli.svg)
+
+*그림: 단단한 유기금속은 C=O(빨강)에 1,2-첨가한다.*
 
 (출처: L11 p.11)
 
@@ -250,6 +282,10 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 
 `cyclohexanone --[LDA]--> 리튬 엔올레이트 --[(E)-CH3CH=CH-CONMe2]--> 2-(CH(CH3)CH2CONMe2)cyclohexanone` (60%)
 
+![cyclohexanone enolate + (E)-CH3CH=CHCONMe2 → Michael (60%)](../../figures/L11/michael_cyclohexanone_amide.svg)
+
+*그림: enolate(파랑)가 β-탄소(빨강)에 1,4-첨가.*
+
 생성물은 cyclohexanone의 α-탄소에 amide 받개의 β-탄소가 붙은 1,5-다이카르보닐이다.
 
 (출처: L11 p.15)
@@ -259,10 +295,22 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 **Li+는 1,2(aldol)를 돕는다.**
 `ethyl isobutyrate ((CH3)2CH-CO2Et) --[LDA, -78 °C, THF]--> 리튬 엔올레이트 --[3-methylbut-2-enal, (CH3)2C=CH-CHO]--> (CH3)2C=CH-CH(OH)-C(CH3)2-CO2Et` (72%)
 
+![ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct](../../figures/L11/isobutyrate_12.svg)
+
+*그림: 입체 장애가 큰 β-탄소 대신 C=O에 1,2-첨가한다.*
+
 이번에는 엔알을 받개로 썼는데 conjugate addition이 아니라 **aldol(1,2) 생성물**이 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic mechanism)를 만든다. 그래서 enolate 탄소가 바로 옆의 carbonyl 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
+
+![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
+
+*그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.*
 
 **thermodynamic enolate로 4차 탄소 만들기.**
 `2-methylcyclopentanone + CH2=CH-CO2Me --[t-BuOK]--> 2-methyl-2-(CH2CH2CO2Me)cyclopentanone` (53%)
+
+![2-methylcyclopentanone + methyl acrylate → Michael (53%)](../../figures/L11/michael_methylcyclopentanone.svg)
+
+*그림: 더 치환된 enolate(파랑)가 β-탄소(빨강)를 공격.*
 
 1. t-BuOK는 2-methylcyclopentanone의 양쪽 α-H를 가역적으로 떼어낸다. 그래서 두 enolate가 평형을 이룬다.
 2. 평형에서는 더 치환된(C=C에 Me가 붙은) **thermodynamic enolate**가 우세하다(→ [L7](L07_Enolate_Alkylation.md) 문서의 kinetic/thermodynamic enolate 참고).
@@ -280,12 +328,24 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 `CH2(CO2Et)2 + CH3CH=CH-CO2Et --[NaOEt, EtOH, reflux 1 h]--> (EtO2C)2CH-CH(CH3)-CH2-CO2Et`
 malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)를 공격한다.
 
+![diethyl malonate + ethyl crotonate → Michael](../../figures/L11/michael_malonate_crotonate.svg)
+
+*그림: malonate anion(파랑) → β-탄소(빨강).*
+
 **nitro알케인**: nitro group α-H는 산성이 커서 약한 염기로도 nitro네이트 anion이 생긴다.
 - `PhCH2NO2 + 2-cyclohexenone --[Al2O3, 0–25 °C, neat]--> 3-(CH(Ph)NO2)cyclohexanone` (92%)
 - `I-(CH2)4-CH=CH-CO2Me + CH3NO2 --[Cs2CO3, DMF, 20 °C]--> [I-(CH2)4-CH(CH2NO2)-CH2CO2Me] --> methyl 2-(2-nitrocyclohexyl)acetate` (65%)
   1. nitro메테인의 anion이 enester의 β-탄소에 conjugate addition한다(분자 간).
   2. 생성물의 CH2NO2는 여전히 산성 α-H를 갖는다. 그래서 다시 deprotonate된 nitro네이트 탄소가 같은 분자의 C-I를 SN2로 공격해 고리를 닫는다(분자 내 alkylation).
   3. 결과는 NO2와 CH2CO2Me가 이웃한 탄소에 붙은 cyclohexane이다. conjugate addition과 alkylation이 연달아 일어난 셈이다.
+
+![PhCH2NO2 + 2-cyclohexenone → Michael (92%)](../../figures/L11/michael_nitro_cyclohexenone.svg)
+
+*그림: nitronate(파랑)가 β-탄소(빨강)에 첨가.*
+
+![Michael 후 분자내 SN2 → methyl 2-(2-nitrocyclohexyl)acetate](../../figures/L11/michael_nitro_cyclization.svg)
+
+*그림: Michael 첨가 뒤 nitronate가 C–I를 SN2로 닫아 고리(초록).*
 
 보충: nitro group은 pKa 기준으로 carbonyl 두 개에 맞먹는 EWG다(nitro알케인 α-H의 pKa 약 10). 그래서 Al2O3, K2CO3, amine 같은 아주 약한 염기로도 nitro네이트가 생기고, ketone·ester 쪽의 자기 축합 같은 부반응을 피할 수 있다. 또 반응은 **염기 촉매**로 돈다. 첨가 직후 생긴 enolate(conjugate acid pKa 약 20–25)가 nitro네이트보다 훨씬 강한 염기라서, 다음 nitro알케인 분자에서 양성자를 떼어 새 nucleophile을 만들어 주기 때문이다. 위 고리화 예에서 Cs2CO3를 쓴 것은 큰 Cs+가 완전히 이온성인 염을 만들어 carbonic acid 이온이 염기성을 온전히 발휘하게 하기 때문이다. (보충 근거: Clayden p.611–612)
 
@@ -315,6 +375,14 @@ enamine은 aldehyde나 ketone이 **2차 amine**과 반응해서 생긴다(→ [L
 enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addition에 믿고 쓸 수 있다. 반응 뒤 H2O로 iminium/enamine을 가수분해하면 ketone이 돌아온다.
 - `피롤리딘 엔아민(사이클로헥산온 유래) + CH2=C(SMe)-CO2Me --[MeCN, then H2O]--> 2-(CH2-CH(SMe)-CO2Me)cyclohexanone` (95%)
 - `모폴린 엔아민 + CH2=C(SO2Ph)-CO-CH3 --[SiO2, THF, 2 h, 0–20 °C, then H2O]--> 2-(CH2-CH(SO2Ph)-CO-CH3)cyclohexanone` (75%)
+
+![pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%)](../../figures/L11/enamine_michael_sme.svg)
+
+*그림: enamine β-C(파랑)가 acceptor β-탄소(빨강)에 첨가한 뒤 가수분해.*
+
+![morpholine enamine + CH2=C(SO2Ph)COCH3 → Michael (75%)](../../figures/L11/enamine_michael_so2ph.svg)
+
+*그림: 같은 enamine Michael.*
 
 두 경우 모두 enamine 탄소는 받개의 말단 CH2(β-탄소)에 붙는다. 생성물은 1,5-다이카르보닐 관계다. 세 번째 예(모폴린 enamine + EtO2C-CH=CH-NO2)는 빈칸이라서 연습 문제로 옮겼다.
 
