@@ -266,6 +266,10 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 - cyclopropyl chloride --[KOAc, AcOH]--> allyl acetate (cyclopropyl acetate는 생기지 않는다)
 
+![cyclopropyl chloride → allyl acetate](../../figures/L17/cyclopropyl_chloride_solvolysis.svg)
+
+*그림: 이온화와 동시에 고리가 열려 allyl cation이 된다(disrotatory).*
+
 (출처: Clayden p.928)
 
 ### 8.2 아지리딘 → azomethine ylide: 4π conrotatory
@@ -276,6 +280,14 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 - cis-2,3-비스(methoxycarbonyl)-1-phenyl아지리딘 --[EtO2C–C≡C–CO2Et, 100 °C]--> 2,5-**trans**-dihydropyrrole
 - trans-아지리딘 --[같은 조건]--> 2,5-**cis**-dihydropyrrole
+
+![cis-aziridine + DEAD-alkyne → 2,5-trans-dihydropyrrole](../../figures/L17/aziridine_cis.svg)
+
+*그림: 열적 conrotatory 개환으로 생긴 azomethine ylide가 alkyne과 [3+2].*
+
+![trans-aziridine + DEAD-alkyne → 2,5-cis-dihydropyrrole](../../figures/L17/aziridine_trans.svg)
+
+*그림: trans 이성질체는 반대로 cis 생성물을 준다.*
 
 cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문이다. (출처: Clayden p.929)
 
