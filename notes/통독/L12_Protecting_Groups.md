@@ -258,6 +258,10 @@ Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 met
 
 `메티오닌 --[Boc2O, base]--> Boc-Met`
 
+![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
+
+*그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.*
+
 그렇다면 Boc는 왜 산에서 벗겨질까? 메커니즘을 따라가 보면 답이 보인다.
 
 1. 카바메이트의 carbonyl O가 H+에 의해 protonate된다.
@@ -367,6 +371,10 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 2. `--[Mg, Et2O]--> 아세탈-(CH2)3MgBr` : ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
 3. `--[HCO2Et]--> (아세탈-(CH2)3)2CHOH` : ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
 4. `--[H+, H2O]--> (CH3CO(CH2)3)2CHOH` (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
+
+![5-bromopentan-2-one + ethylene glycol → cyclic acetal](../../figures/L12/acetal_bromoketone.svg)
+
+*그림: ketone(빨강)을 고리 acetal(초록)로 보호한다.*
 
 ![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (1/4)](../../figures/L12/acetal_grignard_bromoketone_1.svg)
 
