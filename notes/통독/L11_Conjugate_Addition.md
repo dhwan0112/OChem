@@ -301,10 +301,6 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 
 이번에는 엔알을 받개로 썼는데 conjugate addition이 아니라 **aldol(1,2) 생성물**이 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic mechanism)를 만든다. 그래서 enolate 탄소가 바로 옆의 carbonyl 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
 
-![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
-
-*그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.*
-
 **thermodynamic enolate로 4차 탄소 만들기.**
 `2-methylcyclopentanone + CH2=CH-CO2Me --[t-BuOK]--> 2-methyl-2-(CH2CH2CO2Me)cyclopentanone` (53%)
 
@@ -361,6 +357,10 @@ enamine은 aldehyde나 ketone이 **2차 amine**과 반응해서 생긴다(→ [L
 
 `cyclohexanone + pyrrolidine --[cat. H+]--> 1-pyrrolidinylcyclohexene (엔아민)`
 `엔아민 --[1. R-X; 2. H2O, H+]--> 2-R-cyclohexanone`
+
+![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
+
+*그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.*
 
 1. 질소의 비공유 전자쌍이 C=C 쪽으로 밀려서 enamine의 β-탄소(carbonyl이었던 탄소의 이웃)가 nucleophile이 된다. 이 탄소가 R-X를 SN2로 공격한다.
 2. **iminium iminium**이 생긴다. iminium은 α-H를 잃고 enamine과 평형을 이룰 수 있다.
