@@ -1,0 +1,108 @@
+[
+ {
+  "out": "figures/L01/cyclohexene_mcpba.json",
+  "title": "cyclohexene + mCPBA → cyclohexene oxide 95% (L1 p.14)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1",
+   "O=C([O:2][O:2][H])c1cccc(Cl)c1"
+  ],
+  "products": [
+   "C1CC[CH:3]2[O:3][CH:3]2C1",
+   "O=C([OH])c1cccc(Cl)c1"
+  ],
+  "conditions": "CH2Cl2",
+  "below": "95%",
+  "note": "L03",
+  "line": 46,
+  "wiki": null,
+  "alt": "cyclohexene + RCO3H → epoxide",
+  "cap": "alkene은 과산과 반응해 epoxide가 된다(cis 첨가). 예: mCPBA"
+ },
+ {
+  "out": "figures/L02/cyclohexene_br2_trans.json",
+  "title": "cyclohexene + Br2 → trans-1,2-dibromocyclohexane (±) (notes/통독/L02 109행)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1"
+  ],
+  "products": [
+   "C1CC[C@@H]([Br:3])[C@H]([Br:3])C1"
+  ],
+  "conditions": "Br2",
+  "below": "anti, (±) only",
+  "note": "L03",
+  "line": 47,
+  "wiki": null,
+  "alt": "cyclohexene + Br2 → trans-1,2-dibromide",
+  "cap": "alkene은 $Br_2$와 anti 첨가한다"
+ },
+ {
+  "out": "figures/L04/benzene_nitration.json",
+  "title": "benzene → nitrobenzene (notes/통독/L04 181행)",
+  "reactants": [
+   "c1ccccc1"
+  ],
+  "products": [
+   "[O-][N+:3](=O)c1ccccc1"
+  ],
+  "conditions": "HNO3, H2SO4",
+  "below": "",
+  "note": "L03",
+  "line": 374,
+  "wiki": null,
+  "alt": "benzene → nitrobenzene",
+  "cap": "1단계: nitration"
+ },
+ {
+  "out": "figures/L03/nitrobenzene_reduction.json",
+  "title": "nitrobenzene → aniline (notes/통독/L03 121행)",
+  "reactants": [
+   "c1ccccc1[N+:2](=O)[O-]"
+  ],
+  "products": [
+   "c1ccccc1[NH2:3]"
+  ],
+  "conditions": "H2, Pd/C",
+  "below": "or Sn, dil. HCl",
+  "note": "L03",
+  "line": 374,
+  "wiki": null,
+  "alt": "nitrobenzene → aniline",
+  "cap": "2단계: $NO_2$ → $NH_2$ 환원"
+ },
+ {
+  "out": "figures/L03/aniline_diazotization.json",
+  "title": "aniline → aryl diazonium salt (notes/통독/L03 122행)",
+  "reactants": [
+   "c1ccccc1[NH2:1]"
+  ],
+  "products": [
+   "c1ccccc1[N+:3]#N",
+   "[Cl-]"
+  ],
+  "conditions": "NaNO2, HCl",
+  "below": "0 °C",
+  "note": "L03",
+  "line": 374,
+  "wiki": null,
+  "alt": "aniline → aryl diazonium salt",
+  "cap": "3단계: diazotization(0 °C)"
+ },
+ {
+  "out": "figures/L03/diazonium_phenol.json",
+  "title": "aryl diazonium → phenol (notes/통독/L03 122행)",
+  "reactants": [
+   "c1ccccc1[N+:2]#N"
+  ],
+  "products": [
+   "c1ccccc1[OH:3]",
+   "N#N"
+  ],
+  "conditions": "H2O",
+  "below": "heat",
+  "note": "L03",
+  "line": 374,
+  "wiki": null,
+  "alt": "aryl diazonium → phenol",
+  "cap": "4단계: 물에서 가열해 phenol"
+ }
+]

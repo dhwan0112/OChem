@@ -88,6 +88,10 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 - CH2=CH–O–CH2–CH=CH2 --[가열, [3,3]]--> OHC–CH2–CH2–CH=CH2 (펜트-4-enal)
 
+![allyl vinyl ether → pent-4-enal](../../figures/L16/claisen_allyl_vinyl_ether.svg)
+
+*그림: Claisen [3,3]. C–O(빨강)가 끊기고 새 C–C와 C=O가 생긴다.*
+
 이를 지방족 Claisen rearrangement, 또는 Claisen-Cope 자리옮김이라고 부른다. 생성물의 공통점은 **γ,δ-unsaturated carbonyl 화합물**이라는 것이다. carbonyl 탄소에서 α, β, γ, δ로 세면 C=C가 γ와 δ 사이에 놓인다. 합성에서 γ,δ-unsaturated carbonyl이 필요하면 Claisen 자리옮김을 떠올리라는 것이 Clayden의 조언이다. (출처: Clayden p.910, p.912)
 
 ![allyl vinyl ether의 [3,3] Claisen rearrangement: 굽은 화살표 세 개가 6원자 고리를 돌아 pent-4-enal이 된다](../../figures/L16/claisen_aliphatic.svg)
@@ -304,6 +308,10 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 benzyl allyl ether PhCH2–O–CH2–CH=CH2를 BuLi로 처리하면 benzyl 위치가 deprotonate되어 탄소 anion이 생긴다. 이 anion이 [2,3] 자리옮김을 한다.
 
 - PhCH2–O–CH2CH=CH2 --[1. BuLi; 2. H⁺]--> PhCH(OH)–CH2–CH=CH2
+
+![benzyl allyl ether → PhCH(OH)CH2CH=CH2](../../figures/L16/wittig_rearrangement.svg)
+
+*그림: benzyl 자리 carbanion(파랑)을 거친 [2,3]-Wittig 자리옮김.*
 
 C–O σ 결합을 잃고 C–C σ 결합을 얻는 것은 손해다(C–O가 더 강하다). 그래도 반응이 가는 이유는 출발물의 **탄소 anion보다 생성물의 산소 anion(alkoxide)이 훨씬 안정**하기 때문이다. (출처: Clayden p.917)
 

@@ -1,0 +1,20 @@
+[
+ {
+  "out": "figures/L11/snar_chloronitrobenzene.json",
+  "title": "4-chloronitrobenzene + HO− → 4-nitrophenol (SNAr) (notes/통독/L11 469행)",
+  "reactants": [
+   "[O-][N+](=O)c1ccc([Cl:2])cc1",
+   "[OH-:1]"
+  ],
+  "products": [
+   "[O-][N+](=O)c1ccc([OH:3])cc1"
+  ],
+  "conditions": "",
+  "below": "addition–elimination",
+  "note": "L11",
+  "line": 469,
+  "wiki": "반응/친핵성 방향족 치환",
+  "alt": "4-chloronitrobenzene + HO− → 4-nitrophenol (SNAr)",
+  "cap": "para $NO_2$가 음전하를 받아 주므로 Cl(빨강)이 OH(초록)로 치환된다"
+ }
+]
