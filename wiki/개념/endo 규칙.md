@@ -29,6 +29,10 @@ TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. �
 
 슬라이드 p.29는 cyclopentadiene dimerization을 예로 이것을 orbital로 그린다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 σ 결합을 만드는 **1차 상호작용**이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 π orbital이 diene의 C2, C3 lobe 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 **secondary orbital overlap**이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 π계를 diene 아래에 둘 수 있는 endo 경로가 선호된다(→ [frontier molecular orbital](프런티어%20분자%20오비탈.md)).[^2] (출처: L13 p.29)
 
+![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
+
+*그림: 위가 cyclopentadiene(CH₂ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+
 ### endo는 kinetic product다
 
 보충: endo가 kinetic product라는 증거는 가역적인 DA에서 나온다. cyclopentadiene 대신 furan을 maleic anhydride와 반응시키면 DA가 가역적으로 일어나 thermodynamic control에 이르고, 이때는 exo adduct가 얻어진다. exo가 더 안정한 이유는 다리 걸친 고리에서 anhydride 고리가 원자 하나짜리 다리(O 또는 CH2) 쪽을 향하는 것이 원자 두 개짜리 다리(C=C 쪽) 쪽을 향하는 것보다 steric hindrance가 작기 때문이다. 또 intramolecular DA에서는 두 반응 부위가 이미 묶여 있어 secondary orbital overlap의 도움이 덜 중요해지므로, 사슬이 접히기 편한 쪽을 따라 exo가 나오기도 한다. 즉 endo rule은 intermolecular·비가역 반응에서 가장 믿을 만하다(→ [kinetic control과 thermodynamic control](속도론적%20지배와%20열역학적%20지배.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md)). (보충 근거: Clayden p.884, 888–889) (출처: L13 p.22)

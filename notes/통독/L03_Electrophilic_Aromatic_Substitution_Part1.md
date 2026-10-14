@@ -86,6 +86,14 @@ bromine 원자가 수소 원자 하나를 대신했으니 치환 반응이다. �
 
 ---
 
+![cyclohexadienyl cation(σ complex)의 공명 구조 세 개](../../figures/L03/sigma_complex_resonance.svg)
+
+*그림: E(여기서는 Br)가 붙은 sp³ 탄소를 기준으로 양전하(빨강)는 두 ortho 위치와 para 위치에만 놓인다. 주황 화살표는 π 전자쌍이 이웃한 양전하 쪽으로 옮겨 가 다음 공명 구조가 되는 과정이다. meta 위치에는 양전하가 오지 않는다. (출처: L3 p.11)*
+
+![S_EAr의 에너지 도표: σ complex에서 H⁺를 잃는 길(치환)이 nucleophile 첨가보다 유리하다](../../figures/L03/sear_energy_profile.svg)
+
+*그림: 첫 단계(방향족성을 잃는 친전자체 공격)가 느리고, σ complex에서 H⁺를 잃으면 방향족성을 되찾아 낮은 에너지의 치환 생성물이 된다(초록). nucleophile이 첨가하면(빨간 점선) 방향족성이 없는 생성물이라 불리하다. 보충: 정성적 도표다.*
+
 ## 3. nitration (nitration)
 
 > 개념 문서: [nitration](../../wiki/반응/나이트로화.md), [nitronium ion](../../wiki/개념/나이트로늄%20이온.md), [mixed acid](../../wiki/시약/혼산.md), [diazonium salt reactions](../../wiki/반응/다이아조늄%20염%20반응.md), [Pd/C](../../wiki/시약/Pd-C.md)
