@@ -158,7 +158,7 @@ C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜�
 
 ![4-methyl펜타-1,3-diene과 아크릴산 methyl의 DA reaction: 세 화살표가 한 방향으로 돌며 pseudo ortho 생성물이 생긴다](../../figures/L14/da_pseudo_ortho.svg)
 
-그림: 파란색은 diene의 π 결합(HOMO 쪽), 빨간색은 dienophile 아크릴산 methyl의 C=C(LUMO 쪽), 초록색은 생성물에서 새로 생긴 결합이다. 주황색 화살표 셋은 모두 같은 방향(반시계)으로 돈다. (1) 아래쪽 diene π 전자가 계수가 큰 두 CH2 말단 사이의 새 σ 결합이 되고, (2) dienophile π 전자가 CMe2 쪽 새 σ 결합이 되며, (3) 위쪽 diene π 전자가 가운데로 옮겨 새 C=C를 만든다. 그 결과 CMe2와 CH(CO2Me)가 이웃한 pseudo ortho 생성물이 된다. 화살표는 동시에 일어나는 전자 재배치를 나타낼 뿐이며, 실제 transition state에서는 CH2–CH2 결합이 먼저 많이 형성된다(비대칭 협동 TS).
+그림: 파란색은 diene의 π 결합(HOMO 쪽), 빨간색은 dienophile 아크릴산 methyl의 C=C(LUMO 쪽), 초록색은 생성물에서 새로 생긴 결합이다. 주황색 화살표 셋은 모두 같은 방향(반시계)으로 돈다. (1) 아래쪽 diene π 전자가 계수가 큰 두 $CH_2$ 말단 사이의 새 σ 결합이 되고, (2) dienophile π 전자가 $CMe_2$ 쪽 새 σ 결합이 되며, (3) 위쪽 diene π 전자가 가운데로 옮겨 새 C=C를 만든다. 그 결과 $CMe_2$ 와 $CH(CO_2Me)$ 가 이웃한 pseudo ortho 생성물이 된다. 화살표는 동시에 일어나는 전자 재배치를 나타낼 뿐이며, 실제 transition state에서는 $CH_2\text{–}CH_2$ 결합이 먼저 많이 형성된다(비대칭 협동 TS).
 
 (출처: L14 p.13)
 
@@ -219,7 +219,7 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 
 ![(E)-1-methoxybutadiene + acrolein의 endo TS와 exo TS: in 치환기 H와 CHO의 관계로 OMe/CHO의 cis·trans가 정해진다](../../figures/L14/endo_exo_inout.svg)
 
-그림: 위는 endo TS, 아래는 exo TS다. 파란색은 diene의 π 결합, 빨간색은 acrolein의 C=C, 초록 점선은 생기고 있는 두 σ 결합이다(OMe가 붙은 C1이 CHO가 붙은 탄소와 결합하는 "ortho" 배향). endo TS에서는 CHO가 diene 아래(C2–C3 쪽)로 들어가고, exo TS에서는 바깥을 향한다. endo TS에서는 C1의 "in" 치환기 H가 CHO와 trans가 되므로 "out" 치환기 OMe는 CHO와 cis가 된다(오른쪽 위, 주생성물). exo TS에서는 반대로 OMe와 CHO가 trans다(오른쪽 아래). 생성물은 라세미이며 한 거울상만 그렸다. TS에서는 결합 형성에 관여하는 CH2 말단의 수소를 생략했다.
+그림: 위는 endo TS, 아래는 exo TS다. 파란색은 diene의 π 결합, 빨간색은 acrolein의 C=C, 초록 점선은 생기고 있는 두 σ 결합이다(OMe가 붙은 C1이 CHO가 붙은 탄소와 결합하는 "ortho" 배향). endo TS에서는 CHO가 diene 아래(C2–C3 쪽)로 들어가고, exo TS에서는 바깥을 향한다. endo TS에서는 C1의 "in" 치환기 H가 CHO와 trans가 되므로 "out" 치환기 OMe는 CHO와 cis가 된다(오른쪽 위, 주생성물). exo TS에서는 반대로 OMe와 CHO가 trans다(오른쪽 아래). 생성물은 라세미이며 한 거울상만 그렸다. TS에서는 결합 형성에 관여하는 $CH_2$ 말단의 수소를 생략했다.
 
 (출처: L14 p.16–17)
 
@@ -251,7 +251,7 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 
 ![SnCl4가 배위한 methyl vinyl ketone과 isoprene의 DA 반응으로 para 생성물이 생기는 과정](../../figures/L14/da_lewis_acid.svg)
 
-그림: SnCl4가 carbonyl 산소에 배위해 O⁺–SnCl4⁻가 되면(빨간 O) dienophile의 LUMO가 낮아지고 β-탄소(CH2)가 더 강하게 δ+가 된다. 파란색은 isoprene의 π 결합, 빨간색은 dienophile C=C, 초록색은 새로 생긴 결합이다. 세 화살표는 모두 반시계 방향으로 돈다. methyl이 붙은 탄소 옆 CH2 말단(아래)이 dienophile의 β-CH2와 결합하므로, methyl과 acetyl이 1,4 관계인 "para" 생성물이 된다. 생성물은 SnCl4가 떨어진 ketone으로 그렸다. 보충: 슬라이드는 굽은 화살표를 촉매 없는 반응물에 그리고 SnCl4 착물을 옆에 따로 그렸는데, 그림은 두 가지를 합쳐 착물에 화살표를 그렸다.
+그림: $SnCl_4$ 가 carbonyl 산소에 배위해 $O^+\text{–}SnCl_4^-$ 가 되면(빨간 O) dienophile의 LUMO가 낮아지고 β-탄소($CH_2$)가 더 강하게 δ+가 된다. 파란색은 isoprene의 π 결합, 빨간색은 dienophile C=C, 초록색은 새로 생긴 결합이다. 세 화살표는 모두 반시계 방향으로 돈다. methyl이 붙은 탄소 옆 $CH_2$ 말단(아래)이 dienophile의 β-$CH_2$ 와 결합하므로, methyl과 acetyl이 1,4 관계인 "para" 생성물이 된다. 생성물은 $SnCl_4$ 가 떨어진 ketone으로 그렸다. 보충: 슬라이드는 굽은 화살표를 촉매 없는 반응물에 그리고 $SnCl_4$ 착물을 옆에 따로 그렸는데, 그림은 두 가지를 합쳐 착물에 화살표를 그렸다.
 
 (출처: L14 p.20)
 
@@ -271,7 +271,7 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 
 ![6,6-dimethyl풀벤과 1-(diethyl아미노)부타-1,3-diene의 위치선택적 \[6+4\] cycloaddition](../../figures/L14/fulvene_64.svg)
 
-그림: 6,6-dimethylfulvene(왼쪽, 6π 성분)과 1-(diethylamino)buta-1,3-diene(가운데, 4π 성분)의 [6+4] cycloaddition이다. 빨간색은 electrophilic한 고리 밖 C=CMe2, 파란색은 전자를 내주는 π 결합, 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 주황색 화살표 다섯 개(전자 10개, 4n+2)가 한 방향으로 돈다. diene에서 NEt2와 먼 말단(C4)이 CMe2와 결합하고, NEt2가 붙은 C1은 fulvene 고리 탄소와 결합한다. 생성물은 5–7 융합 고리이고, 고리 접합 H와 NEt2가 HNEt2로 빠지면 azulene형 골격이 된다(제거 단계는 그리지 않았다).
+그림: 6,6-dimethylfulvene(왼쪽, 6π 성분)과 1-(diethylamino)buta-1,3-diene(가운데, 4π 성분)의 [6+4] cycloaddition이다. 빨간색은 electrophilic한 고리 밖 $C=CMe_2$, 파란색은 전자를 내주는 π 결합, 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 주황색 화살표 다섯 개(전자 10개, 4n+2)가 한 방향으로 돈다. diene에서 $NEt_2$ 와 먼 말단(C4)이 $CMe_2$ 와 결합하고, $NEt_2$ 가 붙은 C1은 fulvene 고리 탄소와 결합한다. 생성물은 5–7 융합 고리이고, 고리 접합 H와 $NEt_2$ 가 $HNEt_2$ 로 빠지면 azulene형 골격이 된다(제거 단계는 그리지 않았다).
 
 (출처: L14 p.21)
 
@@ -353,7 +353,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 hν로 반응시키면 실제로 �
 
 ![isobutylene과 cyclohex-2-enone의 광화학 \[2+2\]: CMe2가 enone의 β-탄소와 결합한다](../../figures/L14/photo22_regio.svg)
 
-그림: isobutylene(파란 C=C)과 cyclohex-2-enone(빨간 C=C)의 광화학 [2+2]이다. 슬라이드처럼 두 화살표로 두 σ 결합이 동시에 생기는 것을 형식적으로 나타냈다. CH2 말단은 enone의 α-탄소와, CMe2는 β-탄소와 결합한다(초록색: 새 σ 결합). 이 배향은 HOMO/LUMO가 아니라 LUMO/LUMO의 큰 계수(isobutylene의 CMe2, enone의 β-탄소)끼리 겹친다는 것으로 설명된다. 생성물의 두 융합 H는 슬라이드대로 cis(둘 다 굵은 쐐기)로 그렸다.
+그림: isobutylene(파란 C=C)과 cyclohex-2-enone(빨간 C=C)의 광화학 [2+2]이다. 슬라이드처럼 두 화살표로 두 σ 결합이 동시에 생기는 것을 형식적으로 나타냈다. $CH_2$ 말단은 enone의 α-탄소와, $CMe_2$ 는 β-탄소와 결합한다(초록색: 새 σ 결합). 이 배향은 HOMO/LUMO가 아니라 LUMO/LUMO의 큰 계수(isobutylene의 $CMe_2$, enone의 β-탄소)끼리 겹친다는 것으로 설명된다. 생성물의 두 융합 H는 슬라이드대로 cis(둘 다 굵은 쐐기)로 그렸다.
 
 왜 이쪽인가? 슬라이드는 광화학 조건에서 HOMO/HOMO와 LUMO/LUMO 상호작용을 따진다. isobutylene의 LUMO는 치환된 CMe2 쪽 계수가 크고, enone LUMO는 β-탄소 계수가 크다. **큰 계수끼리 겹치므로** CMe2–Cβ 결합이 생긴다.
 

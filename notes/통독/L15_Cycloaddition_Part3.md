@@ -84,7 +84,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 ![dichloroacetyl chloride와 Et3N에서 dichloroketene이 생기는 E1cB 제거](../../figures/L15/ketene_generation_e1cb.svg)
 
-그림: dichloroketene이 생기는 E1cB 제거. 1단계에서 파란 Et3N의 비공유 전자쌍이 빨간 α-H를 떼고(첫 화살표), C–H 결합 전자가 C–C 사이로 들어가 C=C를 만들며(둘째), 빨간 C=O의 π 전자는 산소로 올라가 enolate가 된다(셋째). 2단계에서는 파란 O⁻의 전자쌍이 되돌아와 C=O를 다시 만들고, 빨간 C–Cl 결합 전자가 Cl⁻로 떨어져 나간다. 초록 결합이 각 단계에서 새로 생긴 π 결합이다.
+그림: dichloroketene이 생기는 E1cB 제거. 1단계에서 파란 $Et_3N$ 의 비공유 전자쌍이 빨간 α-H를 떼고(첫 화살표), C–H 결합 전자가 C–C 사이로 들어가 C=C를 만들며(둘째), 빨간 C=O의 π 전자는 산소로 올라가 enolate가 된다(셋째). 2단계에서는 파란 O⁻의 전자쌍이 되돌아와 C=O를 다시 만들고, 빨간 C–Cl 결합 전자가 Cl⁻로 떨어져 나간다. 초록 결합이 각 단계에서 새로 생긴 π 결합이다.
 
 이 ketene을 cyclopentadiene과 만나게 하면 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one이 생긴다. 어느 탄소끼리 붙는지는 슬라이드의 힌트 "carbonyl 탄소가 친전자성이다"로 풀린다. 즉 diene의 친핵성 말단 탄소가 ketene의 carbonyl 탄소와 결합하고, ketene의 CCl2 탄소는 그 옆 탄소와 결합한다. 그래서 C=O는 CH2 옆 고리접합 탄소에, CCl2는 남은 C=C 바로 옆(allyl 위치) 고리접합 탄소에 붙고, 두 고리접합 H는 cis가 된다.
 
@@ -94,7 +94,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 ![dichloroketene과 cyclopentadiene의 열적 [2+2] cycloaddition](../../figures/L15/ketene_22_cyclopentadiene.svg)
 
-그림: 파란색은 cyclopentadiene의 반응하는 C=C(nucleophile 쪽), 빨간색은 ketene의 C=O로, 그 carbonyl 탄소가 친전자성 자리다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 위쪽 화살표는 diene의 C=C 전자가 ketene의 carbonyl 탄소와 결합하는 것을, 아래쪽 화살표는 ketene의 C=C 전자가 diene의 이웃 탄소와 결합하는 것을 나타낸다. 생성물의 초록 결합이 새 σ 결합이며, 쐐기로 그린 두 고리 접합 H는 cis다. C=O는 CH2 옆 접합 탄소에, CCl2는 남은 C=C 옆 접합 탄소에 붙는다.
+그림: 파란색은 cyclopentadiene의 반응하는 C=C(nucleophile 쪽), 빨간색은 ketene의 C=O로, 그 carbonyl 탄소가 친전자성 자리다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 위쪽 화살표는 diene의 C=C 전자가 ketene의 carbonyl 탄소와 결합하는 것을, 아래쪽 화살표는 ketene의 C=C 전자가 diene의 이웃 탄소와 결합하는 것을 나타낸다. 생성물의 초록 결합이 새 σ 결합이며, 쐐기로 그린 두 고리 접합 H는 cis다. C=O는 $CH_2$ 옆 접합 탄소에, $CCl_2$ 는 남은 C=C 옆 접합 탄소에 붙는다.
 
 (출처: L15 p.8)
 
@@ -133,7 +133,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 ![페녹시케텐과 imine의 [2+2] cycloaddition으로 β-락탐이 생기는 과정](../../figures/L15/staudinger_beta_lactam.svg)
 
-그림: 파란 N은 imine의 친핵성 질소, 빨간색은 ketene의 C=O(친전자성 carbonyl 탄소)다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 아래쪽 화살표는 N의 비공유 전자쌍이 ketene carbonyl 탄소를 공격해 N–C(=O) 결합을 만드는 것을, 위쪽 화살표는 ketene의 C=C 전자가 imine 탄소와 결합하는 것을 나타낸다. 초록 결합이 새로 생긴 두 σ 결합이다. 그림에서는 imine 탄소의 치환기(슬라이드의 O–CH2–다이옥솔레인 곁사슬)를 OR로, 4-methoxyphenyl을 Ar로 줄였고, 생성물의 PhO(점선 쐐기)와 OR(쐐기)는 슬라이드처럼 trans로 그렸다.
+그림: 파란 N은 imine의 친핵성 질소, 빨간색은 ketene의 C=O(친전자성 carbonyl 탄소)다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 아래쪽 화살표는 N의 비공유 전자쌍이 ketene carbonyl 탄소를 공격해 N–C(=O) 결합을 만드는 것을, 위쪽 화살표는 ketene의 C=C 전자가 imine 탄소와 결합하는 것을 나타낸다. 초록 결합이 새로 생긴 두 σ 결합이다. 그림에서는 imine 탄소의 치환기(슬라이드의 $O\text{–}CH_2$–다이옥솔레인 곁사슬)를 OR로, 4-methoxyphenyl을 Ar로 줄였고, 생성물의 PhO(점선 쐐기)와 OR(쐐기)는 슬라이드처럼 trans로 그렸다.
 
 (출처: L15 p.12)
 
@@ -186,7 +186,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 ![니트론과 전자 풍부 alkene의 1,3-쌍극 cycloaddition으로 5-치환 isoxazolidine이 생기는 과정](../../figures/L15/nitrone_cycloaddition.svg)
 
-그림: 전자 풍부 alkene(파랑, HOMO)과 니트론(빨간 C=N, LUMO)의 경우다. 세 화살표는 모두 같은 방향(시계 방향)으로 돈다. (1) 니트론 O⁻의 비공유 전자쌍(파랑)이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene의 π 전자가 말단 CH2에서 니트론의 친전자성 탄소와 결합하며, (3) C=N의 π 전자가 N⁺로 돌아가 N이 중성이 된다. 초록 결합이 새로 생긴 C–O와 C–C 결합이므로 R은 O 옆 탄소(C5)에 놓인다. 전자 부족 alkene에서는 역할이 바뀌어 4-치환 생성물이 된다(본문 참고).
+그림: 전자 풍부 alkene(파랑, HOMO)과 니트론(빨간 C=N, LUMO)의 경우다. 세 화살표는 모두 같은 방향(시계 방향)으로 돈다. (1) 니트론 O⁻의 비공유 전자쌍(파랑)이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene의 π 전자가 말단 $CH_2$ 에서 니트론의 친전자성 탄소와 결합하며, (3) C=N의 π 전자가 N⁺로 돌아가 N이 중성이 된다. 초록 결합이 새로 생긴 C–O와 C–C 결합이므로 R은 O 옆 탄소(C5)에 놓인다. 전자 부족 alkene에서는 역할이 바뀌어 4-치환 생성물이 된다(본문 참고).
 
 (출처: L15 p.15)
 
@@ -226,7 +226,7 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 ![hydroxy모일 chloride가 NEt3에 의해 니트릴 oxide가 되는 과정](../../figures/L15/nitrile_oxide_elimination.svg)
 
-그림: 4–5단계. 1단계에서 파란 NEt3의 전자쌍이 빨간 O–H의 H를 떼고, O–H 결합 전자는 산소에 남아 O⁻가 된다. 2단계는 슬라이드 그림대로 파란 N의 비공유 전자쌍이 C=N 사이로 들어가 C≡N⁺를 만들고, 빨간 C–Cl 결합 전자가 Cl⁻로 떨어져 나간다. O⁻는 그대로 남으므로 생성물은 Me–C≡N⁺–O⁻다. 초록 결합이 새로 생긴 삼중 결합이다.
+그림: 4–5단계. 1단계에서 파란 $NEt_3$ 의 전자쌍이 빨간 O–H의 H를 떼고, O–H 결합 전자는 산소에 남아 O⁻가 된다. 2단계는 슬라이드 그림대로 파란 N의 비공유 전자쌍이 C=N 사이로 들어가 C≡N⁺를 만들고, 빨간 C–Cl 결합 전자가 Cl⁻로 떨어져 나간다. O⁻는 그대로 남으므로 생성물은 Me–C≡N⁺–O⁻다. 초록 결합이 새로 생긴 삼중 결합이다.
 
 (출처: L15 p.17)
 

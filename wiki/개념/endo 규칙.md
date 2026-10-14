@@ -15,7 +15,7 @@ stereospecificity가 **한 반응물 안**의 치환기끼리의 관계를 정�
 
 ![cyclopentadiene + maleic anhydride의 endo adduct(생성)과 exo adduct(생성 안 됨)](../../figures/L13/endo_exo.svg)
 
-그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.
+그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 $CH_2$ 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 $CH_2$ 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.
 
 ## 원리
 

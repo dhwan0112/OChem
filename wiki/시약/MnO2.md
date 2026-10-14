@@ -34,7 +34,7 @@ MnO₂는 너무 순해서 아무 alcohol이나 산화하지 못한다. 그런�
 
 ![retinol → retinal (MnO2)](../../figures/L06/retinol_mno2.svg)
 
-그림: MnO2는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.
+그림: $MnO_2$ 는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.
 
 ## 이웃 시약과 비교
 

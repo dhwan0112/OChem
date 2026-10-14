@@ -53,7 +53,7 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 
 ![2-bromopropanoic acid + NH3 → alanine](../../figures/L05/alanine_nh3.svg)
 
-그림: NH3(파랑)가 C–Br(빨강)을 SN2로 치환한다. 대과량 NH3로 과알킬화를 막는다.
+그림: $NH_3$ (파랑)가 C–Br(빨강)을 SN2로 치환한다. 대과량 $NH_3$ 로 과알킬화를 막는다.
 
 그런데 왜 NH<sub>3</sub>를 그렇게 많이 넣어야 할까? 1-bromooctane에 NH<sub>3</sub>를 2 eq만 넣어 보면 답이 나온다.
 
@@ -61,7 +61,7 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 
 ![1-bromooctane + NH3 → octylamine + dioctylamine](../../figures/L05/octylamine_nh3.svg)
 
-그림: NH3가 적으면 생성된 amine이 다시 알킬화되어 dioctylamine이 거의 같은 양 생긴다.
+그림: $NH_3$ 가 적으면 생성된 amine이 다시 알킬화되어 dioctylamine이 거의 같은 양 생긴다.
 
 원하는 1차 amine과 거의 같은 양의 2차 amine이 섞여 나온다. 이것이 over-alkylation이다. 원인은 생성물 자체에 있다. 새로 생긴 RNH<sub>2</sub>는 alkyl group의 전자 공여 덕분에 NH<sub>3</sub>보다 오히려 더 좋은 nucleophile라서, 남은 RX를 먼저 낚아채 버린다.[4] 즉 반응이 "한 번만 일어나고 멈추는" 장치가 없다. 그래서 아래의 방법들은 모두 "N을 한 번만 붙이고 나중에 환원으로 amine을 드러내는" 전략으로 이 문제를 피한다.
 
@@ -166,7 +166,7 @@ amine의 종류에 따라 결과가 한 단계씩 올라간다. NH<sub>3</sub>�
 
 ![3-methylbutanal + NH3 → 3-methylbutan-1-amine](../../figures/L05/ra_3_methylbutanal.svg)
 
-그림: NH3로 환원성 아미노화하면 1차 amine이 된다(초록 = 새 C–N).
+그림: $NH_3$ 로 환원성 아미노화하면 1차 amine이 된다(초록 = 새 C–N).
 
 ![cyclohexylmethanamine + acetone → N-(cyclohexylmethyl)propan-2-amine](../../figures/L05/ra_acetone.svg)
 
@@ -385,7 +385,7 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 ![PhCOCH2CH2CO2H + BH3 → PhCOCH2CH2CH2OH](../../figures/L05/bh3_ketoacid.svg)
 
-그림: BH3는 carboxylic acid(빨강)만 환원하고 ketone은 남긴다.
+그림: $BH_3$ 는 carboxylic acid(빨강)만 환원하고 ketone은 남긴다.
 
 ![N,N-dimethylpivalamide → (CH3)3CCH2NMe2](../../figures/L05/bh3_amide.svg)
 
@@ -393,7 +393,7 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 ![lactam C=O → CH2, ester 유지](../../figures/L05/bh3_lactam.svg)
 
-그림: BH3는 lactam C=O(빨강)를 $CH_2$ (초록)로 환원하고 ester는 남긴다.
+그림: $BH_3$ 는 lactam C=O(빨강)를 $CH_2$ (초록)로 환원하고 ester는 남긴다.
 
 같은 기질 MeO<sub>2</sub>C-CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>-CO<sub>2</sub>H에 LiBH<sub>4</sub>를 쓰면 ester가 환원되고(2-2), BH<sub>3</sub>를 쓰면 산이 환원된다. 즉 두 시약은 서로 거울처럼 상보적인 화학선택성을 가진다.
 
@@ -489,7 +489,7 @@ H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서
 
 ![phenylacetic acid → cyclohexylacetic acid](../../figures/L05/phenylacetic_h2.svg)
 
-그림: PtO2는 상온에서도 고리를 수소화한다.
+그림: $PtO_2$ 는 상온에서도 고리를 수소화한다.
 
 (출처: L5 p.31)
 

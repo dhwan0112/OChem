@@ -181,7 +181,7 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 
 ![retinol → retinal (MnO2)](../../figures/L06/retinol_mno2.svg)
 
-그림: MnO2는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.
+그림: $MnO_2$ 는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.
 
 즉 한 분자 안에 OH가 여러 개 있을 때 allyl·benzyl OH만 골라 산화하고 싶다면 MnO2를 쓰면 된다. geraniol도 allyl 1차 alcohol이므로 MnO2로 산화할 수 있다.
 
@@ -416,7 +416,7 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 ![PPh3가 bromomethane을 SN2로 공격해 phosphonium염이 되는 메커니즘](../../figures/L06/ylide_sn2.svg)
 
-그림: 1단계(SN2). PPh3의 P(파랑, nucleophile) 비공유 전자쌍이 CH3–Br의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고, C–Br 결합(빨강) 전자는 Br⁻로 떠난다. 새로 생긴 P–C 결합은 초록이다. 이어서 BuLi가 P⁺ 옆 C–H를 떼어 내면 일리드 Ph3P=CH2가 된다(2단계는 그림 아래 문구로만 적었다).
+그림: 1단계(SN2). $PPh_3$ 의 P(파랑, nucleophile) 비공유 전자쌍이 $CH_3\text{–}Br$ 의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고, C–Br 결합(빨강) 전자는 Br⁻로 떠난다. 새로 생긴 P–C 결합은 초록이다. 이어서 BuLi가 P⁺ 옆 C–H를 떼어 내면 일리드 $Ph_3P=CH_2$ 가 된다(2단계는 그림 아래 문구로만 적었다).
 
 일반화하면 `PPh3 + X–CH2R → Ph3P+–CH2R --[PhLi, n-BuLi, t-BuOK]--> Ph3P=CHR`이다. X는 I, Br, Cl, OTs이고, R은 alkyl뿐 아니라 Ar, vinyl, –C(=O)R1, –C(=O)OR1, –SO2R1, –CN일 수도 있다.
 
@@ -502,11 +502,11 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![Wittig 1단계: 일리드 탄소가 benzaldehyde의 carbonyl 탄소를 공격하고 O가 P와 결합해 oxaphosphetane이 생긴다](../../figures/L06/wittig_step1.svg)
 
-그림: 1–2단계. 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합(빨강) 전자는 O로 가서 O가 P⁺와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 슬라이드처럼 일리드는 cyclopentylidene–PPh3, carbonyl 화합물은 benzaldehyde다.
+그림: 1–2단계. 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합(빨강) 전자는 O로 가서 O가 P⁺와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 슬라이드처럼 일리드는 cyclopentylidene–$PPh_3$, carbonyl 화합물은 benzaldehyde다.
 
 ![Wittig 2단계: oxaphosphetane이 분해되어 alkene과 Ph3P=O가 생긴다](../../figures/L06/wittig_step2.svg)
 
-그림: 3단계. C–P 결합(파랑) 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합(파랑) 전자는 O–P 사이로 들어가 P=O가 된다. 두 화살표가 4원 고리 안에서 함께 돌아가며, 생기는 강한 P=O 결합(초록)이 반응의 구동력이다. 생성물은 benzylidenecyclopentane(65%)과 Ph3P=O다.
+그림: 3단계. C–P 결합(파랑) 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합(파랑) 전자는 O–P 사이로 들어가 P=O가 된다. 두 화살표가 4원 고리 안에서 함께 돌아가며, 생기는 강한 P=O 결합(초록)이 반응의 구동력이다. 생성물은 benzylidenecyclopentane(65%)과 $Ph_3P=O$ 다.
 
 `cyclopentylidene–PPh3 + PhCHO --> benzylidenecyclopentane (65%) + Ph3P=O`
 
