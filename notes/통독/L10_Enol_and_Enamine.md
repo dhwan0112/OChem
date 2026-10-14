@@ -204,6 +204,10 @@ enol의 산소 대신 질소가 붙어 있으면 어떻게 될까? 그것이 ena
 
 `사이클로헥사논 --[피롤리딘, cat. H⁺]--> 1-(cyclohex-1-en-1-yl)pyrrolidine --[1. R–X; 2. H₂O, H⁺]--> 2-알킬사이클로헥사논`
 
+![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
+
+*그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.*
+
 왜 2차 amine이어야 할까? amine이 carbonyl에 붙고 물이 빠지면 iminium 이온이 생기는데, 2차 amine에서 온 iminium은 질소에 H가 없어서 중성 imine이 될 수 없다. 그래서 대신 α-C–H에서 H⁺를 잃고 enamine이 된다.[12]
 
 alkylation 단계는 enol bromination과 같은 그림이다. 질소의 비공유 전자쌍이 C=C로 밀고 들어가면 enamine의 α-탄소(원래 carbonyl 탄소의 이웃)가 R–X의 탄소를 S_N2로 공격하고 X⁻가 떨어진다. 그 결과 α-위치에 R이 붙은 iminium 이온(C=N⁺R₂)이 생긴다. 이 iminium은 다른 쪽 α-H를 잃고 다시 enamine으로 갈 수도 있는데, 슬라이드에는 R이 없는 쪽으로 C=C가 생긴 enamine이 그려져 있다. 마지막으로 H₂O, H⁺로 가수분해하면 2-alkylcyclohexanone과 pyrrolidine이 나온다. 슬라이드는 이 관계를 "imine과 enamine은 호변이성체"라고 요약한다.[13] enamine 형성과 가수분해(슬라이드의 녹색 단계)의 메커니즘은 교재 Chapter 11에 있다고 안내하며, 환원성 reductive amination도 함께 복습하라고 한다.
@@ -227,6 +231,14 @@ aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자�
 첫 번째 예는 pentane알이다.
 
 `OHC–CH₂CH₂CH₂CH₃ --[(i-Bu)₂NH, cat. H⁺]--> (i-Bu)₂N–CH=CH–CH₂CH₂CH₃ --[1. BrCH₂CO₂Et, reflux MeCN; 2. H₂O]--> OHC–CH(CH₂CH₂CH₃)–CH₂CO₂Et`
+
+![pentanal + (i-Bu)2NH → enamine](../../figures/L10/enamine_pentanal.svg)
+
+*그림: aldehyde의 enamine(초록 C=C).*
+
+![enamine + BrCH2CO2Et → α-alkylated aldehyde](../../figures/L10/enamine_pentanal_alkylation.svg)
+
+*그림: enamine β-C(파랑)가 C–Br(빨강)을 SN2로 공격하고, 가수분해로 aldehyde가 돌아온다.*
 
 diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공격해 α-탄소에 –CH₂CO₂Et가 붙고, 물로 가수분해하면 ethyl 3-formylhexanoate가 된다.
 
@@ -254,6 +266,10 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 enamine을 화학양론적으로 만들어 쓰지 않고, amine을 촉매로 돌려 쓸 수는 없을까? 2000년 List, Lerner, Barbas가 그 답을 보였다.[15] amino acid L-proline이 enamine을 거쳐 직접 비대칭 aldol 반응을 촉매한 것이다. 이 업적은 2021년 노벨 화학상으로 이어졌다.[16]
 
 `아세톤(20 vol%) + 4-나이트로벤즈알데하이드 --[L-프롤린 30 mol%, DMSO]--> (R)-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온`, 68 % 수율, 76 % ee
+
+![acetone + 4-nitrobenzaldehyde → (R)-aldol (L-proline)](../../figures/L10/proline_aldol.svg)
+
+*그림: enamine 촉매 비대칭 aldol.*
 
 acetone이 enamine(nucleophile)이 되고, aldehyde가 electrophile다. 생성물은 CH₃CO–CH₂–CH(OH)–Ar이다. 다른 aldehyde로 넓혀 본 결과는 아래와 같다.
 
