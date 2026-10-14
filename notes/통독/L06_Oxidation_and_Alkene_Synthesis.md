@@ -272,22 +272,6 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 
 `N-Cbz 피롤리딘-CH2OH --[CrO3, H2SO4]--> N-Cbz 피롤리딘-CO2H (>86%)`
 
-![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
-
-*그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).*
-
-![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
-
-*그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.*
-
-![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
-
-*그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.*
-
-![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
-
-*그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.*
-
 ![N-Cbz prolinol → N-Cbz proline (Jones)](../../figures/L06/jones_cbz_prolinol.svg)
 
 *그림: 1차 alcohol(빨강)이 carboxylic acid(초록)까지 산화된다.*
@@ -319,6 +303,22 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 먼저 KMnO4는 매우 강한 산화제로, benzyl methyl group(toluene 유도체 Ar–CH3)를 carboxylic acid Ar–CO2H까지 산화한다. 슬라이드는 이것을 사카린 합성으로 보여 준다.
 
 `toluene --[ClSO2OH]--> o-toluenesulfonyl chloride --[(NH4)2CO3]--> o-toluenesulfonamide (89%) --[KMnO4]--> 2-sulfamoylbenzoic acid (분리 안 함) --[HCl]--> saccharin (58%)`
+
+![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
+
+*그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).*
+
+![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
+
+*그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.*
+
+![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
+
+*그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.*
+
+![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
+
+*그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.*
 
 마지막 HCl 단계에서 CO2H와 SO2NH2가 분자 내에서 고리를 닫아 imide가 된다.
 
