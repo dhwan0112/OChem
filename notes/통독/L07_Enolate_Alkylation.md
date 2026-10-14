@@ -180,6 +180,11 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 실제 합성은 그 반대 순서다: `아세토아세트산 에틸 --[(1) NaOEt; (2) CH3CH2Br]--> 2-에틸아세토아세트산 에틸 --[(1) dil. NaOH, heat; (2) H3O+]--> 2-에틸-3-옥소뷰탄산 --[heat]--> 2-펜타논 + CO2`.
 
+![acetoacetic ester 합성으로 2-pentanone 만들기](../../figures/L07/acetoacetic_ester_pentanone.svg)
+
+*그림: 보충: ethyl acetoacetate의 두 carbonyl 사이 C–H를 NaOEt로 떼어 EtBr로 alkylation하고, ester를 가수분해한 β-keto acid를 가열하면 $CO_2$가 빠져 2-pentanone이 된다.*
+
+
 (출처: L7 p.18)
 
 ### 3.3 malonic ester 합성: carboxylic acid은?

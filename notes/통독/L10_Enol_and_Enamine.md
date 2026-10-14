@@ -227,6 +227,11 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 
 `OHC–CH(Et)(n-Bu) --[피롤리딘, cat. H⁺]--> 피롤리딘–CH=C(Et)(n-Bu) --[1. CH₂=CH–CH₂Br, reflux MeCN; 2. H₂O]--> OHC–C(Et)(n-Bu)(CH₂CH=CH₂)`
 
+![enamine을 이용한 aldehyde의 α-allylation](../../figures/L10/stork_enamine_aldehyde.svg)
+
+*그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.*
+
+
 생성물인 2-allyl-2-ethylhexanal(2-ethyl-2-(prop-2-en-1-yl)hexanal)에서는 α-탄소가 4차 quaternary carbon이 된다. 즉 enamine을 쓰면 가지 달린 aldehyde에도 치환기를 하나 더 넣을 수 있다.
 
 (출처: L10 p.12)

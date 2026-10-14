@@ -59,6 +59,11 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 2 CH3CO2Et --[NaOEt]--> 소듐 acetoacetate [CH3CO–CH⁻–CO2Et] Na⁺ + EtOH --[HCl]--> ethyl acetoacetate(acetoacetic ester) CH3COCH2CO2Et, 76%
 
+![ethyl acetate의 Claisen condensation 단계](../../figures/L09/claisen_steps.svg)
+
+*그림: 보충: ester enolate가 두 번째 ester를 공격해 tetrahedral intermediate가 되고, $EtO^-$가 떨어져 ethyl acetoacetate가 된다. 앞 단계들은 가역이지만, 두 carbonyl 사이 C–H($pK_a$ 약 11)를 $EtO^-$가 떼는 마지막 탈양성자화가 평형을 끌어당긴다. $H_3O^+$ 후처리로 중성 생성물을 얻는다.*
+
+
 여기서 눈여겨볼 것이 두 가지다. 하나는 반응 직후 플라스크에 있는 것이 중성 β-ketoester가 아니라 그 소듐염이라는 점이고, 다른 하나는 EtOH를 증류로 빼내 평형을 오른쪽으로 민다는 점이다. 중성 생성물은 HCl로 산 처리한 뒤에야 얻는다.
 
 곁가지가 있는 경우도 똑같다. ethyl ethyl pentanoate 두 분자를 NaOEt로 처리하고 CH3CO2H로 후처리하면 ethyl 3-옥소-2-propylheptanoate(ethyl 3-oxo-2-propylheptanoate), 즉 CH3(CH2)3–CO–CH(CH2CH2CH3)–CO2Et가 77%로 생긴다. 한 분자는 pentanoyl group(C4H9CO–)가 되고, 다른 분자의 α-탄소는 propyl group을 단 채 CH로 남는다. 일반화하면 R–CH2–CO2Et 두 분자가 R–CH2–CO–CH(R)–CO2Et가 된다.

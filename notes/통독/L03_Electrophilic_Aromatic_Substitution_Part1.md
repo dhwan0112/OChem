@@ -228,6 +228,11 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 2. --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
 3. --[H₃PO₄]--> α-테트랄론(1-테트랄론, 3,4-dihydronaphthalene-1(2*H*)-온)
 
+![α-tetralone 합성 3단계](../../figures/L03/tetralone_synthesis.svg)
+
+*그림: 보충: succinic anhydride와 benzene의 Friedel–Crafts acylation($AlCl_3$) → Clemmensen 환원($Zn(Hg)$, $HCl$) → 분자내 Friedel–Crafts acylation($H_3PO_4$)으로 α-tetralone이 된다.*
+
+
 슬라이드 p.22는 메커니즘을 빈칸으로 두었고, 답은 L4 p.3에 있다.
 - **1단계**: 무수물의 carbonyl 산소가 AlCl₃에 배위한다. 고리가 열리면서 한쪽 끝은 acylium 이온, 다른 쪽 끝은 carboxylate-AlCl₃⁻가 된다. benzene이 acylium 이온을 공격하고 H⁺가 빠진다. 수용액 후처리로 산이 된다.
 - **2단계**: 클레멘센 환원으로 ketone만 CH₂가 된다.

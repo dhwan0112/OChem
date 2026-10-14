@@ -33,6 +33,11 @@ L3 p.22의 빈칸 문제(succinic acid 무수물 → 3-benzoylpropanoic acid →
 2. 클레멘센 Zn/Hg, HCl으로 ketone만 CH₂로 바뀐다.
 3. $H_3PO_4$가 carboxylic acid을 acylium 이온으로 만들고, 분자내 Friedel–Crafts acylation으로 6원 고리가 닫힌다.
 
+![α-tetralone 합성 3단계](../../figures/L03/tetralone_synthesis.svg)
+
+*그림: 보충: L3 6.4절의 세 단계를 구조로 다시 그린 것이다.*
+
+
 자세한 내용은 L3 문서 6.4절에 있다(→ [L3](L03_Electrophilic_Aromatic_Substitution_Part1.md) Friedel–Crafts acylation 문서 참고). (출처: L4 p.3)
 
 ---

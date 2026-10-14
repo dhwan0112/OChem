@@ -117,6 +117,11 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 3. Et3N이 S-methyl의 H를 떼어 내 sulfonium 일리드를 만든다.
 4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 α-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
 
+![Swern oxidation 단계별 중간체](../../figures/L06/swern_steps.svg)
+
+*그림: 보충: DMSO와 $(COCl)_2$가 chlorosulfonium ion($Me_2S^+Cl$)을 만들고($CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$로 쪼개진다.*
+
+
 −78 °C를 지켜야 하는 이유는 1단계의 활성종이 불안정하기 때문이다. HCl은 Et3N이 중화한다.
 
 (출처: L6c p.8–9, p.17)
@@ -340,6 +345,11 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane이 만나 C=C가 생기는 반응이다. 쉽게 말해 carbonyl의 =O 자리에 일리드의 =CHR이 들어가고, 산소는 Ph3P=O로 빠져나간다.
 
 `cyclohexanone + Ph3P=CH2 --> methylenecyclohexane (86%) + Ph3P=O`
+
+![Wittig 반응: oxaphosphetane 경유](../../figures/L06/wittig_oxaphosphetane.svg)
+
+*그림: 보충: cyclohexanone과 $Ph_3P=CH_2$가 [2+2]로 4원 고리 oxaphosphetane을 만들고, 이것이 쪼개지며 methylenecyclohexane과 $Ph_3P=O$가 된다. 강한 P=O 결합 형성이 추진력이다.*
+
 
 일리드는 미리 만들어서 넣어도 되고 반응계 in situ 만들어도 된다.[11]
 

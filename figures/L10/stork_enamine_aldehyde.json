@@ -1,0 +1,37 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCCCC(CC)C=O",
+     "C1CCNC1"
+    ],
+    "products": [
+     "CCCCC(CC)=CN1CCCC1"
+    ],
+    "conditions": "cat. H⁺, −H₂O"
+   },
+   {
+    "reactants": [
+     "CCCCC(CC)=CN1CCCC1",
+     "C=CCBr"
+    ],
+    "products": [
+     "CCCCC(CC)(CC=C)C=[N+]1CCCC1"
+    ],
+    "conditions": "MeCN, reflux"
+   },
+   {
+    "reactants": [
+     "CCCCC(CC)(CC=C)C=[N+]1CCCC1"
+    ],
+    "products": [
+     "CCCCC(CC)(CC=C)C=O"
+    ],
+    "conditions": "H₂O"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

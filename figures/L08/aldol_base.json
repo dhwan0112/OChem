@@ -1,0 +1,45 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CC=O"
+    ],
+    "products": [
+     "C=C[O-]"
+    ],
+    "conditions": "HO⁻"
+   },
+   {
+    "reactants": [
+     "C=C[O-]",
+     "CC=O"
+    ],
+    "products": [
+     "CC([O-])CC=O"
+    ],
+    "conditions": ""
+   },
+   {
+    "reactants": [
+     "CC([O-])CC=O"
+    ],
+    "products": [
+     "CC(O)CC=O"
+    ],
+    "conditions": "H₂O (−HO⁻)"
+   },
+   {
+    "reactants": [
+     "CC(O)CC=O"
+    ],
+    "products": [
+     "C/C=C/C=O"
+    ],
+    "conditions": "HO⁻, Δ"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

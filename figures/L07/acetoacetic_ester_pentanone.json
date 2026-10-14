@@ -1,0 +1,36 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(=O)CC(C)=O"
+    ],
+    "products": [
+     "CCOC(=O)C(CC)C(C)=O"
+    ],
+    "conditions": "NaOEt; EtBr"
+   },
+   {
+    "reactants": [
+     "CCOC(=O)C(CC)C(C)=O"
+    ],
+    "products": [
+     "OC(=O)C(CC)C(C)=O"
+    ],
+    "conditions": "NaOH, Δ; H₃O⁺"
+   },
+   {
+    "reactants": [
+     "OC(=O)C(CC)C(C)=O"
+    ],
+    "products": [
+     "CCCC(C)=O",
+     "O=C=O"
+    ],
+    "conditions": "Δ"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}
