@@ -196,6 +196,10 @@ Wade는 같은 이야기를 7-dehydrocholesterol → 프로비타민 D3로 소�
 
 *그림: 보충: 햇빛(hν)에서 cyclohexadiene 고리가 6π conrotatory로 열려 previtamin D3(가운데 Z-alkene)가 되고, 이어서 열적 [1,7]-H 이동(antarafacial)으로 vitamin D3가 된다.*
 
+![7-dehydrocholesterol B 고리의 6π 광화학 고리 열림](../../figures/L17/provitamin_d_6pi_opening.svg)
+
+*그림: 보충: 핵심 6π 부분만 남기고 나머지 고리는 R, R'로 줄였다. C9–C10 σ 결합(빨강)이 끊어지며 세 화살표가 고리를 돌아 (Z)-hexatriene 골격의 previtamin $D_3$가 된다. 빛(hν) 조건의 6π 전자고리화이므로 conrotatory다.*
+
 
 ## 6. 자연 속 전자고리화 반응: endiandric acid
 
