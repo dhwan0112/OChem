@@ -132,6 +132,10 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 
 `ROH --[R'3SiCl, imidazole]--> ROSiR'3`
 
+![TBSCl/imidazole에 의한 alcohol 보호](../../figures/L12/tbs_protection_imidazole.svg)
+
+*그림: 보충: alcohol O(파랑)의 전자쌍이 Si(빨강)를 공격하고 $Cl^-$가 떨어진다. imidazole의 N 전자쌍이 O–H 양성자를 받아 $HCl$을 중화한다. 실제로는 imidazole이 먼저 Si를 공격해 silyl imidazolium을 만드는 친핵성 촉매 경로가 주로 작동한다.*
+
 alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 나가며 Si–O 결합이 생긴다. 그런데 imidazole은 왜 넣을까? imidazole은 생기는 HCl을 받아 주는 염기일 뿐 아니라, silyl chloride와 먼저 반응해 더 반응성이 큰 silyl imidazolium intermediate를 만드는 친핵성 촉매 역할도 한다.[2]
 
 #### 5-3. 실전 예: acetylide alkylation
@@ -186,6 +190,10 @@ amine은 좋은 nucleophile이자 염기라서, electrophile이 있는 반응에
 
 `RR'NH --[Cl-CO-OR'', base]--> R'RN-CO-OR''`
 `RR'NH --[R''O-CO-O-CO-OR'', base]--> R'RN-CO-OR''`
+
+![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
+
+*그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.*
 
 대표 선수는 두 명이다. benzyl 카바메이트인 Cbz(Z라고도 함, R'RN-CO-OCH2Ph)는 BnOCOCl과 염기로 씌우고, t-butyl 카바메이트인 Boc(R'RN-CO-OC(CH3)3)는 (t-BuOCO)2O, 흔히 Boc2O라 부르는 시약과 염기로 씌운다.
 
