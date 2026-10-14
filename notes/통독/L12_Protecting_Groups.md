@@ -20,9 +20,9 @@ protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장
 ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다. 
 그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다. 
 
-![대표 protecting group 세 종류의 구조](../../figures/L12/pg_types.svg)
+![대표 protecting group 구조 (파랑: 보호되는 자리, 빨강: 탈보호 자리)](../../figures/L12/pg_types.svg)
 
-*그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). 그림에서 methyl은 나머지 분자(R)를 대신한다.*
+*그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 탈보호 때 공격·절단되는 자리(Si는 $F^-$, t-Bu C는 $H^+$, benzyl C는 $H_2/Pd$, acetal C는 $H_3O^+$).*
 
 이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 
 1) 각 protecting group을 어떻게 씌우고 벗기는지, 
@@ -38,8 +38,13 @@ ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응�
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md)
 
 protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시작한다. 
-comment: 이런데에도 넣으라고 palytoxin구조같은거. 
 팔리톡신은 탄소 사슬이 아주 긴 polyhydroxy 화합물로, 이중결합 8개, hydroxy group 40개, 키랄 중심 64개를 가진다. 키랄 중심과 이중결합의 cis/trans 가능성을 모두 따지면 가능한 입체이성질체가 10^21개를 넘는다. 그래서 "유기합성의 에베레스트"라고 불렸다.[1]
+
+![palytoxin 구조 (1/3)](../../figures/L12/palytoxin_1.svg)
+![palytoxin 구조 (2/3)](../../figures/L12/palytoxin_2.svg)
+![palytoxin 구조 (3/3)](../../figures/L12/palytoxin_3.svg)
+
+*그림: 보충: palytoxin의 구조($C_{129}H_{223}N_3O_{54}$, PubChem CID 11105289의 SMILES로 그림). 너무 길어서 세 조각으로 나눴고, 점선 결합이 다음 조각으로 이어지는 자리다. 파랑은 모두 OH로, protecting group 없이는 이 중 하나만 골라 반응시킬 수 없다.*
 
 그런데 이 분자를 만들 때 진짜 골칫거리는 무엇일까? 바로 거의 똑같이 생긴 OH가 40개나 있다는 점이다. 그중 하나만 반응시키고 나머지는 그대로 두고 싶다면, 나머지 OH를 어떻게든 반응하지 못하게 막아야 한다. 즉 protecting group 없이는 이런 분자의 합성을 시도조차 할 수 없다.
 
