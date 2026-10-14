@@ -56,6 +56,10 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 - `geraniol --[DMP, CH2Cl2]--> geranial (84%)` (L6) (출처: L6c p.7)
 - "3 = 1 + 2": Boger의 vancomycin 계열 합성 `R–CH2OH --[Dess–Martin]--> R–CHO --[NaClO2]--> R–CO2H` (2단계 77%). 두 번째 단계는 [Pinnick oxidation](../반응/피닉%20산화.md)다(→ [alcohol oxidation](../반응/알코올%20산화.md)). (L6) (출처: L6c p.16–17)
 
+![geraniol → geranial (DMP)](../../figures/L06/geraniol_dmp.svg)
+
+*그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.*
+
 ## 흔한 오해
 
 - **"DMP는 1차 alcohol을 산까지 산화한다"**: aldehyde에서 멈춘다. 산이 필요하면 [NaClO2](NaClO2.md)를 이어 쓴다. (출처: L6c p.17)
