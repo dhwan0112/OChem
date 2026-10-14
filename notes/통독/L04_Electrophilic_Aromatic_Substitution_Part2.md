@@ -39,7 +39,7 @@ L3 p.22의 빈칸 문제(succinic acid 무수물 → 3-benzoylpropanoic acid →
 
 ![α-tetralone 합성 3단계 (3/3)](../../figures/L03/tetralone_synthesis_3.svg)
 
-*그림: 보충: L3 6.4절의 세 단계를 구조로 다시 그린 것이다.*
+그림: 보충: L3 6.4절의 세 단계를 구조로 다시 그린 것이다.
 
 
 자세한 내용은 L3 문서 6.4절에 있다(→ [L3](L03_Electrophilic_Aromatic_Substitution_Part1.md) Friedel–Crafts acylation 문서 참고). (출처: L4 p.3)
@@ -59,13 +59,13 @@ aniline(phenylamine)은 phenol, phenyl ether, 심지어 phenoxide 이온보다�
 
 ![aniline + Br2 → 2,4,6-tribromoaniline](../../figures/L04/aniline_tribromination.svg)
 
-*그림: $NH_2$(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.*
+그림: $NH_2$(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.
 
 (출처: L4 p.4)
 
 ![aniline의 para 위치가 Br-Br을 공격해 iminium형 cation이 되는 메커니즘](../../figures/L04/aniline_para_br.svg)
 
-*그림: para색은 전자를 주는 쪽(NH₂의 질소), 빨간색은 electrophile 쪽(Br-Br), 초록색은 새로 생긴 C-Br 결합이다. 주황색 화살표 넷은 (1) N의 비공유 전자쌍이 C-N 결합으로 들어가 C=N을 만들고, (2) 그 때문에 C1=C2 π 전자가 C2-C3로 밀려나며, (3) C3=C4 π 전자가 para 탄소(C4)에서 Br을 공격하고, (4) Br-Br 결합 전자가 먼 Br로 가서 Br⁻로 떠나는 과정을 나타낸다. 생긴 iminium형 cation에서 C4의 H가 빠지면(HBr) 방향족성이 회복된다(슬라이드와 같은 흐름). 실제로는 ortho 위치에서도 같은 일이 일어나 2,4,6-tribromoaniline까지 간다.*
+그림: para색은 전자를 주는 쪽(NH₂의 질소), 빨간색은 electrophile 쪽(Br-Br), 초록색은 새로 생긴 C-Br 결합이다. 주황색 화살표 넷은 (1) N의 비공유 전자쌍이 C-N 결합으로 들어가 C=N을 만들고, (2) 그 때문에 C1=C2 π 전자가 C2-C3로 밀려나며, (3) C3=C4 π 전자가 para 탄소(C4)에서 Br을 공격하고, (4) Br-Br 결합 전자가 먼 Br로 가서 Br⁻로 떠나는 과정을 나타낸다. 생긴 iminium형 cation에서 C4의 H가 빠지면(HBr) 방향족성이 회복된다(슬라이드와 같은 흐름). 실제로는 ortho 위치에서도 같은 일이 일어나 2,4,6-tribromoaniline까지 간다.
 
 ### 1.2 Br 하나만 넣고 싶다면?
 
@@ -83,15 +83,15 @@ amide의 N은 일반 amine보다 염기성이 훨씬 약하다. N의 비공유 �
 
 ![aniline + Ac2O → acetanilide](../../figures/L04/acetanilide_1.svg)
 
-*그림: 1단계: aniline의 N(파랑)을 acetyl화해 활성을 낮춘다(새 N–C(O) 결합, 초록).*
+그림: 1단계: aniline의 N(파랑)을 acetyl화해 활성을 낮춘다(새 N–C(O) 결합, 초록).
 
 ![acetanilide → p-bromoacetanilide](../../figures/L04/acetanilide_2.svg)
 
-*그림: 2단계: 부피 큰 NHAc 때문에 para 자리(파랑)에 Br(초록) 하나만 붙는다.*
+그림: 2단계: 부피 큰 NHAc 때문에 para 자리(파랑)에 Br(초록) 하나만 붙는다.
 
 ![p-bromoacetanilide → p-bromoaniline](../../figures/L04/acetanilide_3.svg)
 
-*그림: 3단계: amide를 가수분해해 보호기(빨강 C=O 쪽)를 떼면 p-bromoaniline이 된다.*
+그림: 3단계: amide를 가수분해해 보호기(빨강 C=O 쪽)를 떼면 p-bromoaniline이 된다.
 
 amide N의 비공유 전자쌍은 C=O와 공액되어 있으면서도, amine보다는 약하게 benzene 고리로도 비편재화된다. 그래서 반응은 여전히 **ortho, para 위치**에서 일어나지만(주로 para) **한 번만** 일어난다.
 
@@ -99,7 +99,7 @@ amide N의 비공유 전자쌍은 C=O와 공액되어 있으면서도, amine보�
 
 ![acetanilide에서 N의 비공유 전자쌍이 C=O 쪽으로 비편재화되는 공명](../../figures/L04/acetanilide_conjugation.svg)
 
-*그림: 파란색 N의 비공유 전자쌍이 N-C 결합으로 들어가 C=N을 만들고(첫 번째 화살표), C=O의 π 전자(빨강)는 산소로 올라가 O⁻가 된다(두 번째 화살표). 오른쪽 공명 구조처럼 N의 전자쌍 일부가 carbonyl 쪽에 묶이므로 고리로 내줄 수 있는 몫이 amine보다 줄어든다. 그래서 acetanilide는 여전히 ortho/para 배향이지만 한 번만 brominate된다.*
+그림: 파란색 N의 비공유 전자쌍이 N-C 결합으로 들어가 C=N을 만들고(첫 번째 화살표), C=O의 π 전자(빨강)는 산소로 올라가 O⁻가 된다(두 번째 화살표). 오른쪽 공명 구조처럼 N의 전자쌍 일부가 carbonyl 쪽에 묶이므로 고리로 내줄 수 있는 몫이 amine보다 줄어든다. 그래서 acetanilide는 여전히 ortho/para 배향이지만 한 번만 brominate된다.
 
 > 이 "보호 → 반응 → 탈보호" 흐름은 L12 protecting group 문서에서 다시 일반화된다(→ [L12](L12_Protecting_Groups.md) protecting group 문서 참고).
 
@@ -128,7 +128,7 @@ toluene --[Br₂, Lewis acid 촉매]--> ortho 약 60%, para 약 35%, 메타 약 
 
 ![toluene + Br2 → o-/p-bromotoluene](../../figures/L04/toluene_bromination.svg)
 
-*그림: methyl은 ortho/para 지향기다. 생성물은 ortho 약 60%, para 약 35%(초록 = 새로 붙은 Br).*
+그림: methyl은 ortho/para 지향기다. 생성물은 ortho 약 60%, para 약 35%(초록 = 새로 붙은 Br).
 
 methyl group은 OR기를 약하게 만든 버전처럼, 고리 π 계의 전자 밀도를 특히 ortho와 para 위치에서 높인다. 메커니즘은 **σ σ conjugation** 이다. methyl의 C-H σ 결합 하나가 고리의 π 계와 겹쳐 전자를 약하게 내준다. 그래서 alkyl group은 전자 주는 기처럼 행동한다. (출처: L4 p.7)
 
@@ -141,7 +141,7 @@ methyl group은 OR기를 약하게 만든 버전처럼, 고리 π 계의 전자 
 
 ![toluene의 ortho 공격과 메타 공격에서 생기는 cation intermediate 비교](../../figures/L04/toluene_ortho_meta.svg)
 
-*그림: E⁺는 일반 electrophile(빨강)이고, 주황색 화살표는 고리의 π 전자가 E를 공격하는 것을 나타낸다. 초록색은 새로 생긴 C-E 결합이다. 각 cation에서 빨간 +는 그려진 공명 구조의 양전하 위치, 회색 (+)는 다른 두 공명 구조에서 양전하가 놓이는 위치다. 위(ortho 공격): 양전하 위치 하나가 CH₃가 붙은 탄소라서 3차 carbocation 공명 구조가 생긴다. 아래(메타 공격): 세 위치 모두 CH₃가 붙은 탄소를 비켜 간다. para 공격도 ortho처럼 CH₃가 붙은 탄소에 양전하가 오는 구조가 있다(p.9).*
+그림: E⁺는 일반 electrophile(빨강)이고, 주황색 화살표는 고리의 π 전자가 E를 공격하는 것을 나타낸다. 초록색은 새로 생긴 C-E 결합이다. 각 cation에서 빨간 +는 그려진 공명 구조의 양전하 위치, 회색 (+)는 다른 두 공명 구조에서 양전하가 놓이는 위치다. 위(ortho 공격): 양전하 위치 하나가 CH₃가 붙은 탄소라서 3차 carbocation 공명 구조가 생긴다. 아래(메타 공격): 세 위치 모두 CH₃가 붙은 탄소를 비켜 간다. para 공격도 ortho처럼 CH₃가 붙은 탄소에 양전하가 오는 구조가 있다(p.9).
 
 toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 3%, para 34%다. ortho와 para 공격에서는 "가장 안정한" 3차 cation 공명 구조가 하나씩 있지만 메타 공격에는 없다. ortho 위치는 2개(2×H), para는 1개(1×H)라서 통계 효과로 ortho가 para보다 많이 나온다. (출처: L4 p.9)
 
@@ -152,7 +152,7 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 
 ![toluene + H2SO4 → o-/p-toluenesulfonic acid](../../figures/L04/toluene_sulfonation.svg)
 
-*그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$).*
+그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$).
 
 (출처: L4 p.10)
 
@@ -165,19 +165,19 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
 
-*그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).*
+그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).
 
 ![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
 
-*그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.*
+그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.
 
 ![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
 
-*그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.*
+그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.
 
 ![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
 
-*그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.*
+그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.
 
 (출처: L4 p.11)
 
@@ -204,7 +204,7 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 ![CF₃-benzene의 ortho 공격 intermediate에서 양전하가 CF₃가 붙은 탄소로 옮겨 가는 공명](../../figures/L04/cf3_ortho_minor.svg)
 
-*그림: ortho 위치(C2)에 E가 붙은 cation intermediate의 두 공명 구조다. 초록색은 새 C-E 결합, 빨간 +는 양전하 위치다. 주황색 화살표는 C6=C1 π 전자가 C5 쪽으로 옮겨 가 양전하가 C5에서 C1로 이동하는 것을 나타낸다. 오른쪽 구조에서는 양전하가 전자를 끄는 CF₃ 바로 옆 탄소에 놓이므로 매우 불리하다. 슬라이드는 이것을 "very minor resonance contributor"로 표시한다. 메타 공격에서는 이런 구조가 없다.*
+그림: ortho 위치(C2)에 E가 붙은 cation intermediate의 두 공명 구조다. 초록색은 새 C-E 결합, 빨간 +는 양전하 위치다. 주황색 화살표는 C6=C1 π 전자가 C5 쪽으로 옮겨 가 양전하가 C5에서 C1로 이동하는 것을 나타낸다. 오른쪽 구조에서는 양전하가 전자를 끄는 CF₃ 바로 옆 탄소에 놓이므로 매우 불리하다. 슬라이드는 이것을 "very minor resonance contributor"로 표시한다. 메타 공격에서는 이런 구조가 없다.
 
 > 주의: EWG가 메타 위치를 "활성화"하는 것은 아니다. 모든 위치가 benzene보다 느려지지만, 메타가 **가장 덜 나빠질** 뿐이다.
 
@@ -216,11 +216,11 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 ![PhNMe3+ 나이트로화 → meta 90%](../../figures/L04/phnme3_nitration.svg)
 
-*그림: $NMe_3^+$는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).*
+그림: $NMe_3^+$는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).
 
 ![PhCF3 → m-nitro(trifluoromethyl)benzene](../../figures/L04/phcf3_nitration.svg)
 
-*그림: $CF_3$도 meta 지향기다(96%).*
+그림: $CF_3$도 meta 지향기다(96%).
 
 (출처: L4 p.13)
 
@@ -231,11 +231,11 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 
 ![benzene → nitrobenzene](../../figures/L04/benzene_nitration.svg)
 
-*그림: nitration. 새 C–N 결합(초록).*
+그림: nitration. 새 C–N 결합(초록).
 
 ![benzene → m-dinitrobenzene](../../figures/L04/benzene_dinitration.svg)
 
-*그림: 가혹한 조건에서는 두 번째 $NO_2$가 meta로 들어간다(75%).*
+그림: 가혹한 조건에서는 두 번째 $NO_2$가 meta로 들어간다(75%).
 
 두 번째 nitro group은 **첫 번째의 메타 위치**로 들어간다. 즉 nitro group은 비활성화, 메타 배향이다. (출처: L4 p.14)
 
@@ -243,7 +243,7 @@ NO₂는 benzene 고리의 π 계와 공액되어 전자를 강하게 끌어간�
 
 ![nitrobenzene의 공명 구조: 고리의 π 전자가 nitro group으로 끌려가 ortho와 para 탄소에 양전하가 생긴다](../../figures/L04/nitro_resonance.svg)
 
-*그림: 첫 구조에서 주황색 화살표 둘은 (1) 고리의 C1=C2 π 전자가 C-N 결합으로 들어가 C=N(초록)을 만들고, (2) N=O의 π 전자(빨강)가 산소로 올라가 O⁻가 되는 것을 나타낸다. 그 결과 ortho 탄소(C2)에 양전하(빨간 +)가 생긴다. 이어지는 화살표는 고리 안의 π 전자를 한 칸씩 옮겨 양전하를 para(C4), 다른 쪽 ortho(C6)로 옮긴다. 메타 탄소에는 양전하가 한 번도 오지 않는다. N⁺는 모든 구조에서 그대로다.*
+그림: 첫 구조에서 주황색 화살표 둘은 (1) 고리의 C1=C2 π 전자가 C-N 결합으로 들어가 C=N(초록)을 만들고, (2) N=O의 π 전자(빨강)가 산소로 올라가 O⁻가 되는 것을 나타낸다. 그 결과 ortho 탄소(C2)에 양전하(빨간 +)가 생긴다. 이어지는 화살표는 고리 안의 π 전자를 한 칸씩 옮겨 양전하를 para(C4), 다른 쪽 ortho(C6)로 옮긴다. 메타 탄소에는 양전하가 한 번도 오지 않는다. N⁺는 모든 구조에서 그대로다.
 
 ---
 
@@ -292,7 +292,7 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 
 ![nitrobenzene + Br2/Fe → m-bromonitrobenzene](../../figures/L04/nitrobenzene_bromination.svg)
 
-*그림: 비활성화된 고리라 가열이 필요하고, Br(초록)은 meta로 들어간다.*
+그림: 비활성화된 고리라 가열이 필요하고, Br(초록)은 meta로 들어간다.
 
 강의 마지막 장(p.24)의 도표는 치환기를 반응성 순서로 정리한다.
 - **강한 활성화**(o,p): -NH₂, -NHR, -NR₂, -OH, -OR
@@ -317,7 +317,7 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 
 ![p-nitrotoluene → 2,4-dinitrotoluene](../../figures/L04/p_nitrotoluene_nitration.svg)
 
-*그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$(초록)가 들어간다(효과가 더해짐).*
+그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$(초록)가 들어간다(효과가 더해짐).
 
 (출처: L4 p.17-18)
 

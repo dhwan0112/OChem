@@ -35,11 +35,11 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 ![2-bromobutane의 E2 제거: E-2-butene(주)과 Z-2-butene(부)](../../figures/L01/e2_2_bromobutane.svg)
 
-*그림: 보충: 2-bromobutane의 제거 반응($NaOEt$, $EtOH$). 염기 $EtO^-$(파랑)가 $\beta$-H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.*
+그림: 보충: 2-bromobutane의 제거 반응($NaOEt$, $EtOH$). 염기 $EtO^-$(파랑)가 $\beta$-H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.
 
 ![alkyne의 Lindlar 환원: hex-3-yne → (Z)-hex-3-ene](../../figures/L01/lindlar_z_alkene.svg)
 
-*그림: alkyne에 $H_2$/Lindlar 촉매. 두 H(초록)가 같은 면에서 들어와(syn) Z-alkene만 생긴다. 구조는 예시(hex-3-yne)다. 파랑 = 반응하는 C≡C.*
+그림: alkyne에 $H_2$/Lindlar 촉매. 두 H(초록)가 같은 면에서 들어와(syn) Z-alkene만 생긴다. 구조는 예시(hex-3-yne)다. 파랑 = 반응하는 C≡C.
 
 린들라 환원이 왜 *Z*만 주는가? 두 수소 원자가 금속 촉매 **표면의 같은 쪽**에서 alkyne에 동시에 올라타기 때문이다(syn 첨가). 같은 면에서 들어오니 두 H가 같은 쪽에 놓이고, 결과적으로 R¹과 R²도 같은 쪽에 남는 *Z*-alkene이 된다. (출처: L1 p.5)
 
@@ -92,7 +92,7 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 ![bromonium 이온 형성 메커니즘: π(HOMO)가 Br–Br σ*(LUMO)를 공격하고, Br의 비공유 전자쌍이 반대쪽 탄소와 결합해 3원 고리가 닫힌다](../../figures/L01/bromonium_step1.svg)
 
-*그림: Br₂가 $\pi$ 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽($\pi$ 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br $\sigma^*$, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) $\pi$ 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.*
+그림: Br₂가 $\pi$ 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽($\pi$ 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br $\sigma^*$, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) $\pi$ 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.
 
 $\pi$ 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 높다. 그리고 $\pi$ HOMO가 $\sigma^*$ LUMO와 결합성으로 겹치려면 Br₂가 **end-on** 다가와야 한다.
 
@@ -106,7 +106,7 @@ $\pi$ 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 
 
 ![Br⁻가 bromonium 이온의 반대쪽에서 탄소를 공격해 anti 생성물이 되는 메커니즘](../../figures/L01/bromonium_step2.svg)
 
-*그림: Br⁻(파랑, nucleophile)가 C–Br⁺ 결합(빨강)의 정반대편에서 탄소를 backside attack. C–Br 결합 전자는 Br로 돌아가고, 새로 생긴 C–Br 결합(초록)은 원래 Br의 반대편에 놓이므로 두 Br이 anti가 된다.*
+그림: Br⁻(파랑, nucleophile)가 C–Br⁺ 결합(빨강)의 정반대편에서 탄소를 backside attack. C–Br 결합 전자는 Br로 돌아가고, 새로 생긴 C–Br 결합(초록)은 원래 Br의 반대편에 놓이므로 두 Br이 anti가 된다.
 
 bromonium 이온은 양전하를 띤 electrophile이고, 1단계에서 떨어져 나간 Br⁻은 nucleophile다. 이 둘의 반응은 **평범한 S<sub>N</sub>2 치환**이다.
 
@@ -118,7 +118,7 @@ S<sub>N</sub>2이므로 nucleophile은 C-Br $\sigma^*$ 궤도함수와 최대로
 
 ![bromonium 이온의 3D 구조와 Br⁻의 backside 접근 방향](../../figures/L01/bromonium_3d.svg)
 
-*그림: ethylene에서 생긴 bromonium ion의 3D 구조(GFN2-xTB). $Br^+$가 두 탄소 위에 다리를 놓아 3원 고리를 만들고(C–Br 1.98 Å), 한쪽 면이 $Br^+$로 막힌다. 파란 화살표는 $Br^-$가 들어오는 방향으로, $Br^+$의 정반대편(anti)이다. 보충: 슬라이드 밖의 3D 모델 그림이다.*
+그림: ethylene에서 생긴 bromonium ion의 3D 구조(GFN2-xTB). $Br^+$가 두 탄소 위에 다리를 놓아 3원 고리를 만들고(C–Br 1.98 Å), 한쪽 면이 $Br^+$로 막힌다. 파란 화살표는 $Br^-$가 들어오는 방향으로, $Br^+$의 정반대편(anti)이다. 보충: 슬라이드 밖의 3D 모델 그림이다.
 
 ## 4. alkene의 산화: epoxide
 
@@ -136,13 +136,13 @@ epoxide는 bromonium 이온의 Br⁺ 자리에 O가 들어간 3원 고리라고 
 
 ![과산에 의한 alkene 에폭시화의 협동 메커니즘](../../figures/L01/mcpba_epoxidation.svg)
 
-*그림: 네 개의 화살표가 한 번에 움직인다. (1) $\pi$ 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.*
+그림: 네 개의 화살표가 한 번에 움직인다. (1) $\pi$ 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.
 
 가장 흔히 쓰는 과산은 **mCPBA(*meta*-chloroperoxybenzoic acid)** 다. 결정성 고체라서 비교적 안전하게 다룰 수 있다. 예를 들어 cyclohexene --[mCPBA]--> cyclohexene oxide의 수율은 95%이고, 부산물로 *m*-chlorobenzoic acid이 나온다. (출처: L1 p.14)
 
 ![cyclohexene + mCPBA → cyclohexene oxide](../../figures/L01/cyclohexene_mcpba.svg)
 
-*그림: cyclohexene의 C=C(파랑)가 mCPBA의 O–O(빨강)에서 O를 받아 epoxide(초록)가 되고, m-chlorobenzoic acid가 남는다(95%).*
+그림: cyclohexene의 C=C(파랑)가 mCPBA의 O–O(빨강)에서 O를 받아 epoxide(초록)가 되고, m-chlorobenzoic acid가 남는다(95%).
 
 메커니즘은 한 번에 일어나는 concerted 과정이다.
 1. alkene의 $\pi$ 전자가 과산의 말단(친전자성) 산소를 공격한다.
@@ -154,7 +154,7 @@ transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
 
 ![과산 에폭시화의 butterfly transition state 3D 모델](../../figures/L01/mcpba_butterfly_ts_3d.svg)
 
-*그림: ethylene + performic acid(mCPBA의 단순 모델)의 butterfly TS. 옮겨 가는 O가 C=C 가운데 위에 있고(초록 점선 C···O 2.10 Å, 끊어지는 O···O 1.75 Å), 과산 평면은 alkene 평면과 거의 직각이라 나비 날개처럼 보인다. 회색 점선은 O–H···O=C 수소결합이고, 이 H가 carbonyl O로 옮겨 가 carboxylic acid가 된다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+그림: ethylene + performic acid(mCPBA의 단순 모델)의 butterfly TS. 옮겨 가는 O가 C=C 가운데 위에 있고(초록 점선 C···O 2.10 Å, 끊어지는 O···O 1.75 Å), 과산 평면은 alkene 평면과 거의 직각이라 나비 날개처럼 보인다. 회색 점선은 O–H···O=C 수소결합이고, 이 H가 carbonyl O로 옮겨 가 carboxylic acid가 된다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
 ### 4.3 stereospecificity과 반응 속도
 
@@ -205,7 +205,7 @@ hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cycloh
 
 ![isobutene에 HBr이 첨가되어 3차 carbocation을 거쳐 t-butyl bromide가 되는 메커니즘](../../figures/L01/hbr_markovnikov.svg)
 
-*그림: 1단계: $\pi$ 결합(파랑)이 H–Br의 H(빨강)를 공격한다. H는 CH₂ 쪽 탄소에 붙고(빨간 H), 양전하는 methyl 두 개가 안정화하는 3차 탄소에 남는다. 2단계: Br⁻가 3차 carbocation을 공격해 *t*-BuBr이 된다(초록 결합).*
+그림: 1단계: $\pi$ 결합(파랑)이 H–Br의 H(빨강)를 공격한다. H는 CH₂ 쪽 탄소에 붙고(빨간 H), 양전하는 methyl 두 개가 안정화하는 3차 탄소에 남는다. 2단계: Br⁻가 3차 carbocation을 공격해 *t*-BuBr이 된다(초록 결합).
 
 2-methyl프로펜 + HBr 반응도 같은 원리다. H가 CH₂에 붙어 **3차 carbocation**이 생기므로 생성물은 *tert*-butyl bromide다.
 
@@ -215,7 +215,7 @@ hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cycloh
 
 ![isobutene + HBr의 반응 좌표 도표: 3차 cation 경로가 1차 cation 경로보다 낮다](../../figures/L01/hbr_energy_profile.svg)
 
-*그림: 정성적 에너지 도표. 속도 결정 단계는 protonation이고, 더 안정한 3차 carbocation으로 가는 TS가 더 낮으므로(Hammond postulate) 초록 경로(Markovnikov)로 반응한다. 회색 점선은 1차 cation 경로다. 보충: 슬라이드의 intermediate 안정성 논리를 에너지 도표로 옮긴 것이다(수치 없음).*
+그림: 정성적 에너지 도표. 속도 결정 단계는 protonation이고, 더 안정한 3차 carbocation으로 가는 TS가 더 낮으므로(Hammond postulate) 초록 경로(Markovnikov)로 반응한다. 회색 점선은 1차 cation 경로다. 보충: 슬라이드의 intermediate 안정성 논리를 에너지 도표로 옮긴 것이다(수치 없음).
 
 ## 6. diene의 electrophilic addition (1,4-첨가)
 
@@ -254,11 +254,11 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![2-methylpropene + Br2/H2O → bromohydrin](../../figures/L01/isobutene_bromohydrin.svg)
 
-*그림: 2-methylpropene + $Br_2$, $H_2O$. OH(초록)는 3차 탄소에, Br(초록)은 $CH_2$에 붙는다. 파랑 = 반응하는 C=C.*
+그림: 2-methylpropene + $Br_2$, $H_2O$. OH(초록)는 3차 탄소에, Br(초록)은 $CH_2$에 붙는다. 파랑 = 반응하는 C=C.
 
 ![비대칭 bromonium 이온을 H2O가 3차 탄소에서 여는 메커니즘](../../figures/L01/isobutene_bromohydrin_mech.svg)
 
-*그림: 물의 산소(파랑) 비공유 전자쌍이 bromonium 이온의 3차 탄소(빨강, δ+)를 Br⁺의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자는 Br로 간다. 3차 탄소가 부분 양전하를 더 잘 견디므로 OH가 Markovnikov 위치에 붙고, 양성자를 잃으면(−H⁺) bromohydrin이 된다.*
+그림: 물의 산소(파랑) 비공유 전자쌍이 bromonium 이온의 3차 탄소(빨강, δ+)를 Br⁺의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자는 Br로 간다. 3차 탄소가 부분 양전하를 더 잘 견디므로 OH가 Markovnikov 위치에 붙고, 양성자를 잃으면(−H⁺) bromohydrin이 된다.
 
 (출처: L1 p.21)
 
@@ -266,7 +266,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-*그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하($\delta^{+}$)가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.*
+그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하($\delta^{+}$)가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.
 
 대칭 bromonium 이온(ethylene에서 생긴 것)이라면 어느 탄소를 공격하든 결과가 같다. 그런데 2-methyl프로펜 --[Br₂, MeOH]--> 반응에서는 methanol이 **더 치환된 쪽(3차 탄소)** 을 공격해 ether를 만든다. (출처: L1 p.22)
 

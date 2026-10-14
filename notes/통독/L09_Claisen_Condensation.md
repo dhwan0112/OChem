@@ -43,7 +43,7 @@ Claisen은 여기서 Nu⁻ = enolate, X = OEt인 경우에 불과하다. aldehyd
 
 ![친핵성 acyl 치환의 일반 메커니즘: Nu⁻ 첨가로 tetrahedral intermediate가 생긴 뒤 X⁻가 떨어진다](../../figures/L09/nas_general.svg)
 
-*그림: 슬라이드 p.3의 일반식이다. 파란색은 nucleophile Nu⁻, 빨간색은 electrophile인 carbonyl(C=O)이다. 왼쪽 화살표 둘은 (1) Nu⁻의 비공유 전자쌍이 trigonal planar carbonyl 탄소를 공격하고 (2) C=O의 π 전자가 산소로 올라가는 첨가 단계다. 가운데 tetrahedral intermediate의 화살표 둘은 (3) O⁻의 전자쌍이 내려와 C=O를 되살리고 (4) C–X 결합 전자가 X로 가서 X⁻가 떨어지는 제거 단계다. 초록색이 새로 생긴 Nu–C 결합이며, 생성물은 다시 trigonal planar다.*
+그림: 슬라이드 p.3의 일반식이다. 파란색은 nucleophile Nu⁻, 빨간색은 electrophile인 carbonyl(C=O)이다. 왼쪽 화살표 둘은 (1) Nu⁻의 비공유 전자쌍이 trigonal planar carbonyl 탄소를 공격하고 (2) C=O의 π 전자가 산소로 올라가는 첨가 단계다. 가운데 tetrahedral intermediate의 화살표 둘은 (3) O⁻의 전자쌍이 내려와 C=O를 되살리고 (4) C–X 결합 전자가 X로 가서 X⁻가 떨어지는 제거 단계다. 초록색이 새로 생긴 Nu–C 결합이며, 생성물은 다시 trigonal planar다.
 
 보충: enolate는 O로도 반응할 수 있는데, acylation에서는 이것이 실제 문제가 된다. 반응성 큰 enolate와 반응성 큰 acylation제(예: lithium enolate + acid chloride)를 만나게 하면 O-acylation이 일어나 enol ester가 생기기 쉽다. 그래서 C-acylation을 원하면 반응성 큰 enolate에는 덜 반응적인 ester를 Claisen, acid chloride처럼 반응성 큰 acylation제에는 enamine·silyl enol ether처럼 덜 반응적인 enol 등가체를 짝짓는다. aldol에서 O-공격이 문제가 되지 않는 이유도 같은 틀로 설명된다. aldehyde가 enolate O에 첨가해도 그 intermediate에서 떨어질 수 있는 것은 enolate 자신뿐이라 그냥 출발물로 되돌아간다. (보충 근거: Clayden p.641, p.642)
 
@@ -69,7 +69,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 ![ethyl acetate의 Claisen condensation 단계 (5/5)](../../figures/L09/claisen_steps_5.svg)
 
-*그림: 보충: ester enolate가 두 번째 ester를 공격해 tetrahedral intermediate가 되고, $EtO^-$가 떨어져 ethyl acetoacetate가 된다. 앞 단계들은 가역이지만, 두 carbonyl 사이 C–H($pK_a$ 약 11)를 $EtO^-$가 떼는 마지막 탈양성자화가 평형을 끌어당긴다. $H_3O^+$ 후처리로 중성 생성물을 얻는다.*
+그림: 보충: ester enolate가 두 번째 ester를 공격해 tetrahedral intermediate가 되고, $EtO^-$가 떨어져 ethyl acetoacetate가 된다. 앞 단계들은 가역이지만, 두 carbonyl 사이 C–H($pK_a$ 약 11)를 $EtO^-$가 떼는 마지막 탈양성자화가 평형을 끌어당긴다. $H_3O^+$ 후처리로 중성 생성물을 얻는다.
 
 
 여기서 눈여겨볼 것이 두 가지다. 하나는 반응 직후 플라스크에 있는 것이 중성 β-ketoester가 아니라 그 소듐염이라는 점이고, 다른 하나는 EtOH를 증류로 빼내 평형을 오른쪽으로 민다는 점이다. 중성 생성물은 HCl로 산 처리한 뒤에야 얻는다.
@@ -90,11 +90,11 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 ![ester enolate가 다른 ester의 carbonyl을 공격해 tetrahedral intermediate를 거쳐 β-ketoester와 EtO⁻가 되는 메커니즘](../../figures/L09/claisen_addition.svg)
 
-*그림: 2–3단계(첨가와 제거). ethyl acetate(R = H인 경우, p.5의 예)로 그렸다. 파란색은 nucleophile인 enolate α-탄소(탄소 anion 표기), 빨간색은 electrophile인 ester carbonyl이다. 왼쪽 그림의 화살표 둘은 (1) α-탄소의 비공유 전자쌍이 carbonyl 탄소를 공격하고 (2) C=O의 π 전자가 산소로 올라가 tetrahedral intermediate가 되는 과정이다. 가운데 그림의 화살표 둘은 (3) O⁻의 전자쌍이 내려와 C=O를 되살리고 (4) C–OEt 결합 전자가 산소로 가서 EtO⁻가 떨어지는 과정이다. 초록색은 새로 생긴 C–C 결합이며, 두 단계 모두 가역(⇌)이다.*
+그림: 2–3단계(첨가와 제거). ethyl acetate(R = H인 경우, p.5의 예)로 그렸다. 파란색은 nucleophile인 enolate α-탄소(탄소 anion 표기), 빨간색은 electrophile인 ester carbonyl이다. 왼쪽 그림의 화살표 둘은 (1) α-탄소의 비공유 전자쌍이 carbonyl 탄소를 공격하고 (2) C=O의 π 전자가 산소로 올라가 tetrahedral intermediate가 되는 과정이다. 가운데 그림의 화살표 둘은 (3) O⁻의 전자쌍이 내려와 C=O를 되살리고 (4) C–OEt 결합 전자가 산소로 가서 EtO⁻가 떨어지는 과정이다. 초록색은 새로 생긴 C–C 결합이며, 두 단계 모두 가역(⇌)이다.
 
 ![EtO⁻가 β-ketoester의 두 carbonyl 사이 C–H를 떼어 내는 deprotonation 단계](../../figures/L09/claisen_deprotonation.svg)
 
-*그림: 4단계, 반응의 원동력. EtO⁻의 산소(파랑)가 두 carbonyl 사이의 산성 H(빨강)를 떼어 가고, C–H 결합 전자(파란 결합)는 탄소에 남아 두 carbonyl로 비편재화된 anion이 된다. 더 강한 산(pKa ~9)과 더 강한 염기에서 더 약한 염기와 더 약한 산(EtOH, pKa 16)이 생기므로 평형이 오른쪽으로 크게 치우친다. 그래서 슬라이드도 이 단계를 반응을 끌고 가는 단계로 강조한다.*
+그림: 4단계, 반응의 원동력. EtO⁻의 산소(파랑)가 두 carbonyl 사이의 산성 H(빨강)를 떼어 가고, C–H 결합 전자(파란 결합)는 탄소에 남아 두 carbonyl로 비편재화된 anion이 된다. 더 강한 산(pKa ~9)과 더 강한 염기에서 더 약한 염기와 더 약한 산(EtOH, pKa 16)이 생기므로 평형이 오른쪽으로 크게 치우친다. 그래서 슬라이드도 이 단계를 반응을 끌고 가는 단계로 강조한다.
 
 슬라이드의 한 줄 요약이 바로 이것이다. "Deprotonation of the product drives the reaction (1 equiv base is needed)." 그래서 염기는 촉매가 아니라 시약이다. 생성물 한 분자가 생길 때마다 EtO⁻ 한 분자가 anion 생성에 묶여 버리므로 1당량이 필요하고, 마지막에 반드시 산 처리를 해야 한다.
 
@@ -110,7 +110,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 ![ethyl acetoacetate → 안정한 enolate](../../figures/L09/eaa_enolate.svg)
 
-*그림: 두 C=O 사이 α-H(빨강)가 떨어져 비편재화된 enolate(초록)가 된다. 이 단계가 Claisen 평형을 끌어간다.*
+그림: 두 C=O 사이 α-H(빨강)가 떨어져 비편재화된 enolate(초록)가 된다. 이 단계가 Claisen 평형을 끌어간다.
 
 두 반응 모두 α-치환 β-ketoester를 만들고, 무엇보다 같은 종류의 anion, 즉 두 carbonyl 사이의 비편재화된 β-ketoester enolate가 EtO⁻/EtOH 조건에서 쉽게 생긴다는 공통점이 있다. 다만 역할이 정반대다. Claisen에서 이 anion은 반응이 흘러 들어가 멈추는 "종착점(원동력)"이고, alkylation에서는 RBr을 공격하는 "출발점(nucleophile)"이다. 또 Claisen은 acyl 부분(R–CH2–CO–)이 출발 ester에서 정해지는 반면, alkylation은 acetyl group을 고정한 채 α-위치에 원하는 R을 골라 넣을 수 있다. 그리고 acetoacetate는 산성이 충분히 커서 EtO⁻만으로도 완전히 enolate가 되므로, 단순 ketone alkylation처럼 LDA 같은 강염기가 필요 없다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고).
 
@@ -156,13 +156,13 @@ oxalate를 쓰면 더 반응성이 좋다. ethyl heptanoate CH3(CH2)5–CO2Et와
 
 ![cyclohexanone enolate가 ethyl 포메이트를 공격해 tetrahedral intermediate를 거쳐 2-formylcyclohexanone과 EtO⁻가 되는 메커니즘](../../figures/L09/formate_claisen.svg)
 
-*그림: 2–3단계(첨가와 제거). 왼쪽 화살표 셋은 (1) enolate O⁻의 전자쌍이 C–O 쪽으로 밀어 주고 (2) 파란 C=C가 ethyl formate의 carbonyl 탄소를 공격하며 (3) 빨간 C=O의 π 전자가 산소로 올라가는 과정이다. 가운데 tetrahedral intermediate에서는 O⁻의 전자쌍이 C=O를 되살리고 C–OEt 결합 전자가 떨어져 EtO⁻가 나간다. 초록색이 새 C–C 결합이며, 두 단계 모두 가역(⇌)이다. 반응하는 C2의 H는 다음 단계에서 떨어질 수소라 명시했다.*
+그림: 2–3단계(첨가와 제거). 왼쪽 화살표 셋은 (1) enolate O⁻의 전자쌍이 C–O 쪽으로 밀어 주고 (2) 파란 C=C가 ethyl formate의 carbonyl 탄소를 공격하며 (3) 빨간 C=O의 π 전자가 산소로 올라가는 과정이다. 가운데 tetrahedral intermediate에서는 O⁻의 전자쌍이 C=O를 되살리고 C–OEt 결합 전자가 떨어져 EtO⁻가 나간다. 초록색이 새 C–C 결합이며, 두 단계 모두 가역(⇌)이다. 반응하는 C2의 H는 다음 단계에서 떨어질 수소라 명시했다.
 4. EtO⁻가 두 carbonyl 사이의 C–H를 떼어 낸다. 생긴 anion은 두 산소에 전하가 퍼진 "비편재화된 안정한 enolate(delocalized stable enolate)"로, 반응 조건에서 형성되며 바로 이것이 원동력이다. 그래서 여기서도 염기 1당량이 필요하다.
 5. HCl/H2O로 후처리하면 생성물은 "CHO" 형태가 아니라, =CH–OH의 OH가 ketone C=O와 분자 내 수소 결합을 이룬 enol형, 2-(hydroxymethylene)cyclohexanone으로 분리된다.
 
 ![EtO⁻가 2-formylcyclohexanone의 C2–H를 떼어 비편재화된 enolate가 되고, 산 처리 뒤 수소 결합한 hydroxymethylene ketone으로 분리되는 과정](../../figures/L09/formyl_enolate.svg)
 
-*그림: 4–5단계. 왼쪽에서 EtO⁻(파랑)의 전자쌍이 두 carbonyl 사이의 산성 H(빨강)를 떼어 가고, C–H 결합 전자(파란 결합)는 C2–CHO 쪽으로 가서 C=C를 만들며, CHO의 C=O π 전자는 산소로 올라간다. 가운데 두 구조는 같은 delocalized stable enolate의 공명 구조(↔)다. 화살표 셋은 (1) 바깥 O⁻의 전자쌍이 C=O를 만들고 (2) 바깥 C=C(파랑)의 π 전자가 고리 C1–C2로 옮겨 가며 (3) 고리 C=O(빨강)의 π 전자가 산소로 올라가 음전하가 고리 산소로 가는 과정이다. 이 anion 형성이 반응을 끌고 간다. 오른쪽은 HCl/H₂O 후처리로 분리되는 2-(hydroxymethylene)cyclohexanone이며, 점선이 O–H···O=C 분자 내 수소 결합이다.*
+그림: 4–5단계. 왼쪽에서 EtO⁻(파랑)의 전자쌍이 두 carbonyl 사이의 산성 H(빨강)를 떼어 가고, C–H 결합 전자(파란 결합)는 C2–CHO 쪽으로 가서 C=C를 만들며, CHO의 C=O π 전자는 산소로 올라간다. 가운데 두 구조는 같은 delocalized stable enolate의 공명 구조(↔)다. 화살표 셋은 (1) 바깥 O⁻의 전자쌍이 C=O를 만들고 (2) 바깥 C=C(파랑)의 π 전자가 고리 C1–C2로 옮겨 가며 (3) 고리 C=O(빨강)의 π 전자가 산소로 올라가 음전하가 고리 산소로 가는 과정이다. 이 anion 형성이 반응을 끌고 간다. 오른쪽은 HCl/H₂O 후처리로 분리되는 2-(hydroxymethylene)cyclohexanone이며, 점선이 O–H···O=C 분자 내 수소 결합이다.
 
 결국 ketone끼리의 aldol은 되돌아갈 수 있지만 Claisen 생성물은 deprotonate되어 "갇히므로", 계 전체가 Claisen 생성물 쪽으로 모인다.
 
@@ -186,7 +186,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 ![diethyl adipate → ethyl 2-oxocyclopentanecarboxylate (R = Et 예시)](../../figures/L09/dieckmann_adipate.svg)
 
-*그림: 분자내 Claisen(Dieckmann). 5원 고리, 새 C–C(초록).*
+그림: 분자내 Claisen(Dieckmann). 5원 고리, 새 C–C(초록).
 
 메커니즘은 자기 축합과 완전히 같고, 다만 "다른 분자" 대신 "같은 분자의 반대쪽 끝"을 공격할 뿐이다.
 
@@ -198,7 +198,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 ![Dieckmann condensation: enolate가 같은 분자의 ester를 공격해 5원 고리 tetrahedral intermediate를 거쳐 고리형 β-ketoester가 되는 메커니즘](../../figures/L09/dieckmann.svg)
 
-*그림: 2–3단계. 왼쪽은 adipic acid diester의 enolate다(슬라이드처럼 C=C–O⁻ 형태). 화살표 셋은 (1) O⁻의 전자쌍이 C–O 결합 쪽으로 밀어 주고 (2) 파란 C=C가 같은 분자의 반대쪽 ester carbonyl 탄소(빨강)를 공격하며 (3) 그 C=O의 π 전자가 산소로 올라가는 과정이다. 가운데 고리형 tetrahedral intermediate에서는 O⁻의 전자쌍이 C=O를 되살리고 C–OR 결합 전자가 RO⁻로 떨어진다. 초록색이 고리를 닫는 새 C–C 결합이다. 뒤이은 4단계(고리 C–H의 deprotonation)는 앞의 deprotonation 그림과 같은 원리다.*
+그림: 2–3단계. 왼쪽은 adipic acid diester의 enolate다(슬라이드처럼 C=C–O⁻ 형태). 화살표 셋은 (1) O⁻의 전자쌍이 C–O 결합 쪽으로 밀어 주고 (2) 파란 C=C가 같은 분자의 반대쪽 ester carbonyl 탄소(빨강)를 공격하며 (3) 그 C=O의 π 전자가 산소로 올라가는 과정이다. 가운데 고리형 tetrahedral intermediate에서는 O⁻의 전자쌍이 C=O를 되살리고 C–OR 결합 전자가 RO⁻로 떨어진다. 초록색이 고리를 닫는 새 C–C 결합이다. 뒤이은 4단계(고리 C–H의 deprotonation)는 앞의 deprotonation 그림과 같은 원리다.
 
 고리 크기는 어떻게 정해질까? 새 결합은 한쪽 ester의 carbonyl 탄소와 다른 쪽 ester의 α-탄소 사이에 생기므로, 고리 크기는 "두 ester carbonyl 사이 CH2 개수 + 1"이다. adipic acid ester(CH2 4개)는 5원 고리, 피멜산 ester(CH2 5개)는 6원 고리가 된다. 5원과 6원 고리가 특히 잘 생긴다.[10] 염기는 여기서도 ester의 OR과 같은 alkoxide를 쓴다.
 
@@ -274,7 +274,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 ![cyclooctanone + diethyl carbonate → ethyl 2-oxocyclooctanecarboxylate](../../figures/L09/cyclooctanone_carbonate.svg)
 
-*그림: ketone enolate(파랑)가 carbonate C(빨강)를 공격한다.*
+그림: ketone enolate(파랑)가 carbonate C(빨강)를 공격한다.
 
 8. 1,7-diester의 Dieckmann 축합으로 6원 고리인 ethyl 2-oxocyclohexanecarboxylate(cyclohexanone C2에 CO2Et) + EtOH가 생긴다(CH2 5개 + 1 = 6). 메커니즘은 p.12와 같다. (p.12 원리 응용, 보충; 보충 근거: Wade p.1074)
 

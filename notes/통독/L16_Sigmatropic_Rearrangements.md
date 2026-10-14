@@ -65,7 +65,7 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 ![allyl phenyl ether → 2-allylphenol](../../figures/L16/claisen_allyl_phenyl_ether.svg)
 
-*그림: [3,3] 자리옮김 뒤 tautomer화. C–O(빨강)가 끊기고 새 C–C(초록).*
+그림: [3,3] 자리옮김 뒤 tautomer화. C–O(빨강)가 끊기고 새 C–C(초록).
 
 반응은 두 단계다.
 
@@ -76,7 +76,7 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 ![allyl phenyl ether의 [3,3] 단계: 굽은 화살표 세 개가 6원자 고리를 돌아 cyclohexadienone이 된다](../../figures/L16/claisen_aromatic.svg)
 
-*그림: 빨간색은 끊어지는 O–CH2 σ 결합, 초록색은 새로 생긴 C–C σ 결합, 주황색 굽은 화살표는 전자쌍의 이동이다. (1) benzene 고리의 *ipso*=*ortho* π 전자가 *ortho* 탄소와 allyl 말단 탄소 사이의 새 σ 결합이 되고, (2) allyl C=C π 전자가 CH2–CH 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 C–O 사이로 옮겨 C=O가 된다. 세 화살표는 한 단계에서 동시에 일어난다. 생성물은 방향족성을 잃은 cyclohexadienone이고, 이어지는 이온성 양성자 tautomerization으로 2-allylphenol이 된다. 산소에 붙어 있던 CH2가 아니라 반대쪽 끝 CH2가 고리에 붙는다는 점(inside out)도 그림에서 확인할 수 있다. Clayden p.909의 그림을 따랐다.*
+그림: 빨간색은 끊어지는 O–CH2 σ 결합, 초록색은 새로 생긴 C–C σ 결합, 주황색 굽은 화살표는 전자쌍의 이동이다. (1) benzene 고리의 *ipso*=*ortho* π 전자가 *ortho* 탄소와 allyl 말단 탄소 사이의 새 σ 결합이 되고, (2) allyl C=C π 전자가 CH2–CH 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 C–O 사이로 옮겨 C=O가 된다. 세 화살표는 한 단계에서 동시에 일어난다. 생성물은 방향족성을 잃은 cyclohexadienone이고, 이어지는 이온성 양성자 tautomerization으로 2-allylphenol이 된다. 산소에 붙어 있던 CH2가 아니라 반대쪽 끝 CH2가 고리에 붙는다는 점(inside out)도 그림에서 확인할 수 있다. Clayden p.909의 그림을 따랐다.
 
 ### 2.2 메커니즘의 증거: allyl group이 "뒤집혀" 붙는다
 
@@ -90,13 +90,13 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 ![allyl vinyl ether → pent-4-enal](../../figures/L16/claisen_allyl_vinyl_ether.svg)
 
-*그림: Claisen [3,3]. C–O(빨강)가 끊기고 새 C–C와 C=O가 생긴다.*
+그림: Claisen [3,3]. C–O(빨강)가 끊기고 새 C–C와 C=O가 생긴다.
 
 이를 지방족 Claisen rearrangement, 또는 Claisen-Cope 자리옮김이라고 부른다. 생성물의 공통점은 **γ,δ-unsaturated carbonyl 화합물**이라는 것이다. carbonyl 탄소에서 α, β, γ, δ로 세면 C=C가 γ와 δ 사이에 놓인다. 합성에서 γ,δ-unsaturated carbonyl이 필요하면 Claisen 자리옮김을 떠올리라는 것이 Clayden의 조언이다. (출처: Clayden p.910, p.912)
 
 ![allyl vinyl ether의 [3,3] Claisen rearrangement: 굽은 화살표 세 개가 6원자 고리를 돌아 pent-4-enal이 된다](../../figures/L16/claisen_aliphatic.svg)
 
-*그림: 빨간색은 끊어지는 옛 σ 결합(O–CH2), 초록색은 새로 생긴 σ 결합(C–C), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 같은 방향(반시계)으로 돈다. (1) vinyl 쪽 C=C π 전자가 두 말단 탄소 사이의 새 σ 결합이 되고, (2) allyl 쪽 C=C π 전자가 CH2–CH 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 O–C 사이로 옮겨 C=O가 된다. 생성물을 출발물과 같은 고리 모양으로 그려 두었으므로 어떤 결합이 바뀌었는지 바로 비교할 수 있다. 옛 결합 양 끝을 1로 두고 세면 새 결합 양 끝이 모두 3이라 [3,3]이다. Clayden p.910의 그림을 따랐다.*
+그림: 빨간색은 끊어지는 옛 σ 결합(O–CH2), 초록색은 새로 생긴 σ 결합(C–C), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 같은 방향(반시계)으로 돈다. (1) vinyl 쪽 C=C π 전자가 두 말단 탄소 사이의 새 σ 결합이 되고, (2) allyl 쪽 C=C π 전자가 CH2–CH 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 O–C 사이로 옮겨 C=O가 된다. 생성물을 출발물과 같은 고리 모양으로 그려 두었으므로 어떤 결합이 바뀌었는지 바로 비교할 수 있다. 옛 결합 양 끝을 1로 두고 세면 새 결합 양 끝이 모두 3이라 [3,3]이다. Clayden p.910의 그림을 따랐다.
 
 ### 2.4 allyl 바이닐 ether는 어떻게 만드나
 
@@ -143,11 +143,11 @@ propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높�
 
 ![Claisen rearrangement의 chair형 transition state: R이 equatorial 자리를 택해 새 C=C가 E가 된다](../../figures/L16/claisen_chair_e.svg)
 
-*그림: Clayden처럼 출발물을 chair형 TS와 같은 모양으로 그렸다. 빨간색은 끊어지는 O–C σ 결합, 파란색은 equatorial 자리의 R이고, 같은 탄소의 H는 axial 자리(아래쪽 세로선)에 있다. 주황색 화살표 셋은 지방족 Claisen과 같다. 오른쪽은 원자 배치를 그대로 둔 채 결합만 바꾼 생성물이며, 초록색은 새 C–C σ 결합과 새 C=C다. equatorial R과 사슬의 나머지(CH2 쪽)가 새 C=C의 반대쪽에 놓이므로 *E* alkene이 된다. 보충: R이 axial이었다면 *Z*가 되었을 것이다. 그림을 단순하게 하려고 말단 CH2 두 개는 묶음 라벨(H2C, CH2)로 적었다. Clayden p.911의 그림을 따랐다.*
+그림: Clayden처럼 출발물을 chair형 TS와 같은 모양으로 그렸다. 빨간색은 끊어지는 O–C σ 결합, 파란색은 equatorial 자리의 R이고, 같은 탄소의 H는 axial 자리(아래쪽 세로선)에 있다. 주황색 화살표 셋은 지방족 Claisen과 같다. 오른쪽은 원자 배치를 그대로 둔 채 결합만 바꾼 생성물이며, 초록색은 새 C–C σ 결합과 새 C=C다. equatorial R과 사슬의 나머지(CH2 쪽)가 새 C=C의 반대쪽에 놓이므로 *E* alkene이 된다. 보충: R이 axial이었다면 *Z*가 되었을 것이다. 그림을 단순하게 하려고 말단 CH2 두 개는 묶음 라벨(H2C, CH2)로 적었다. Clayden p.911의 그림을 따랐다.
 
 ![hexa-1,5-diene Cope rearrangement의 chair TS와 boat TS 3D 모델](../../figures/L16/cope_chair_boat_ts_3d.svg)
 
-*그림: 두 allyl 조각(위/아래)이 2.00 Å(초록 점선)에서 결합을 주고받는다. chair TS는 두 allyl의 가운데 탄소가 서로 반대쪽으로 꺾이고, boat TS는 같은 쪽으로 꺾여 가려진(eclipsed) 상호작용이 생긴다. GFN2-xTB로 boat가 약 8 kcal/mol 높았다(실험값 약 6 kcal/mol). Claisen rearrangement도 같은 chair TS를 거친다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+그림: 두 allyl 조각(위/아래)이 2.00 Å(초록 점선)에서 결합을 주고받는다. chair TS는 두 allyl의 가운데 탄소가 서로 반대쪽으로 꺾이고, boat TS는 같은 쪽으로 꺾여 가려진(eclipsed) 상호작용이 생긴다. GFN2-xTB로 boat가 약 8 kcal/mol 높았다(실험값 약 6 kcal/mol). Claisen rearrangement도 같은 chair TS를 거친다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
 ## 4. Woodward–Hoffmann 규칙으로 [3,3]을 판정하기
 
@@ -220,11 +220,11 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 
 ![oxy-Cope rearrangement (2/2)](../../figures/L16/oxy_cope_2.svg)
 
-*그림: 보충: hexa-1,5-dien-3-ol이 [3,3] 자리옮김으로 enol이 되고, enol이 aldehyde로 토토머화하면서 반응이 되돌아가지 않는다.*
+그림: 보충: hexa-1,5-dien-3-ol이 [3,3] 자리옮김으로 enol이 되고, enol이 aldehyde로 토토머화하면서 반응이 되돌아가지 않는다.
 
 ![oxy-Cope [3,3]의 굽은 화살표](../../figures/L16/oxy_cope_arrows.svg)
 
-*그림: 보충: 6원자 고리를 도는 화살표 셋. C3–C4 σ 결합(빨강)이 끊어지고 C1–C6 σ 결합(초록)이 생기며, 두 π 결합이 자리를 옮긴다. 생성물 enol은 aldehyde로 토토머화한다.*
+그림: 보충: 6원자 고리를 도는 화살표 셋. C3–C4 σ 결합(빨강)이 끊어지고 C1–C6 σ 결합(초록)이 생기며, 두 π 결합이 자리를 옮긴다. 생성물 enol은 aldehyde로 토토머화한다.
 
 
 (출처: Clayden p.913–914)
@@ -235,7 +235,7 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 
 ![anionic oxy-Cope rearrangement: potassium alkoxide의 [3,3]으로 potassium enolate가 생긴다](../../figures/L16/anionic_oxy_cope.svg)
 
-*그림: 빨간색은 끊어지는 σ 결합(O⁻가 달린 탄소와 이웃 CH2 사이), 초록색은 새로 생긴 C–C σ 결합이다. 화살표 셋은 Claisen과 같은 [3,3] 패턴이다. (1) 왼쪽 C=C π 전자가 두 말단 탄소 사이의 새 σ 결합이 되고, (2) 오른쪽 C=C π 전자가 옆자리로 옮겨 새 π 결합이 되며, (3) 빨간 σ 결합의 전자가 O⁻ 쪽 탄소와 이웃 탄소 사이의 새 π 결합이 된다. 생성물은 O⁻와 콘쥬게이션된 potassium enolate이고, 후처리(H⁺, H2O)로 hex-5-enal이 된다. 중성 OH(느림) 대신 KH로 만든 O⁻(빠름)를 쓰는 이유가 바로 이 enolate의 안정성이다. Clayden p.914의 그림을 따랐다.*
+그림: 빨간색은 끊어지는 σ 결합(O⁻가 달린 탄소와 이웃 CH2 사이), 초록색은 새로 생긴 C–C σ 결합이다. 화살표 셋은 Claisen과 같은 [3,3] 패턴이다. (1) 왼쪽 C=C π 전자가 두 말단 탄소 사이의 새 σ 결합이 되고, (2) 오른쪽 C=C π 전자가 옆자리로 옮겨 새 π 결합이 되며, (3) 빨간 σ 결합의 전자가 O⁻ 쪽 탄소와 이웃 탄소 사이의 새 π 결합이 된다. 생성물은 O⁻와 콘쥬게이션된 potassium enolate이고, 후처리(H⁺, H2O)로 hex-5-enal이 된다. 중성 OH(느림) 대신 KH로 만든 O⁻(빠름)를 쓰는 이유가 바로 이 enolate의 안정성이다. Clayden p.914의 그림을 따랐다.
 
 이 방법은 특이한 화합물도 만든다. 4원 고리가 붙은 allyl alcohol을 KH/THF로 처리하면 anion 옥시-Cope로 4원 고리가 8원 고리로 넓어지면서, 원래라면 Bredt 규칙에 걸릴 **bridgehead 위치의 트랜스 이중결합**을 가진 이환 ketone이 생긴다. (출처: Clayden p.914)
 
@@ -254,11 +254,11 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 
 ![Ireland–Claisen rearrangement (3/3)](../../figures/L16/ireland_claisen_3.svg)
 
-*그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.*
+그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.
 
 ![Ireland–Claisen [3,3]의 굽은 화살표](../../figures/L16/ireland_claisen_arrows.svg)
 
-*그림: 보충: silyl ketene acetal의 allyl O–C σ 결합(빨강)이 끊어지고 새 C–C σ 결합(초록)이 생긴다. 생성물은 silyl ester이고 $H_3O^+$ 처리로 γ,δ-unsaturated carboxylic acid가 된다.*
+그림: 보충: silyl ketene acetal의 allyl O–C σ 결합(빨강)이 끊어지고 새 C–C σ 결합(초록)이 생긴다. 생성물은 silyl ester이고 $H_3O^+$ 처리로 γ,δ-unsaturated carboxylic acid가 된다.
 
 
 R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라고 부른다. 치환기가 알맞게 놓이면 단순 Claisen과 같은 이유(의자형 TS, 적도 R)로 *E* 선택성을 보인다. (출처: Clayden p.914)
@@ -293,7 +293,7 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 
 ![cyclohexenone → 3-methylcyclohex-2-enone (R = Me 예시)](../../figures/L16/chromate_33.svg)
 
-*그림: 1,2-첨가로 3차 allyl alcohol을 만든 뒤 chromate ester [3,3]과 산화로 enone 위치가 옮겨 간다.*
+그림: 1,2-첨가로 3차 allyl alcohol을 만든 뒤 chromate ester [3,3]과 산화로 enone 위치가 옮겨 간다.
 
 ## 8. [2,3] 시그마트로픽 자리옮김
 
@@ -311,13 +311,13 @@ benzyl allyl ether PhCH2–O–CH2–CH=CH2를 BuLi로 처리하면 benzyl 위�
 
 ![benzyl allyl ether → PhCH(OH)CH2CH=CH2](../../figures/L16/wittig_rearrangement.svg)
 
-*그림: benzyl 자리 carbanion(파랑)을 거친 [2,3]-Wittig 자리옮김.*
+그림: benzyl 자리 carbanion(파랑)을 거친 [2,3]-Wittig 자리옮김.
 
 C–O σ 결합을 잃고 C–C σ 결합을 얻는 것은 손해다(C–O가 더 강하다). 그래도 반응이 가는 이유는 출발물의 **탄소 anion보다 생성물의 산소 anion(alkoxide)이 훨씬 안정**하기 때문이다. (출처: Clayden p.917)
 
 ![benzyl allyl ether anion의 [2,3] 자리옮김: 5원자 고리를 도는 화살표 셋 가운데 하나가 탄소 anion의 전자쌍에서 출발한다](../../figures/L16/wittig23_benzyl_allyl.svg)
 
-*그림: 파란색은 BuLi로 만든 benzyl 탄소 anion(비공유 전자쌍), 빨간색은 끊어지는 O–CH2 σ 결합, 초록색은 새로 생긴 C–C σ 결합이다. 5원자 고리를 따라 화살표 셋을 돌리려면 하나는 결합이 아니라 원자에서 출발해야 한다. (1) 탄소 anion의 전자쌍이 allyl 말단 탄소와 새 σ 결합을 만들고, (2) C=C π 전자가 CH–CH2 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 산소로 가서 alkoxide가 된다. 덜 안정한 탄소 anion이 더 안정한 산소 anion으로 바뀌는 것이 추진력이고, H⁺ 후처리로 homoallylic alcohol PhCH(OH)–CH2–CH=CH2가 된다. Clayden p.917의 그림을 따랐다.*
+그림: 파란색은 BuLi로 만든 benzyl 탄소 anion(비공유 전자쌍), 빨간색은 끊어지는 O–CH2 σ 결합, 초록색은 새로 생긴 C–C σ 결합이다. 5원자 고리를 따라 화살표 셋을 돌리려면 하나는 결합이 아니라 원자에서 출발해야 한다. (1) 탄소 anion의 전자쌍이 allyl 말단 탄소와 새 σ 결합을 만들고, (2) C=C π 전자가 CH–CH2 사이로 옮겨 새 π 결합이 되며, (3) O–CH2 σ 전자가 산소로 가서 alkoxide가 된다. 덜 안정한 탄소 anion이 더 안정한 산소 anion으로 바뀌는 것이 추진력이고, H⁺ 후처리로 homoallylic alcohol PhCH(OH)–CH2–CH=CH2가 된다. Clayden p.917의 그림을 따랐다.
 
 ### 8.3 [2,3]에서도 *E* 선택성
 
@@ -364,7 +364,7 @@ S와 Se는 S(II), S(IV), S(VI)처럼 세 산화 상태를 오갈 수 있어서, 
 
 ![5-R-cyclopentadiene의 [1,5]H 이동: H가 이웃 탄소로 옮겨 가며 1-R 이성질체가 된다](../../figures/L16/h15_shift_cp.svg)
 
-*그림: 빨간색은 끊어지는 C5–H σ 결합, 초록색은 새로 생긴 C1–H 결합이다. (1) C5–H σ 전자가 H를 이웃 탄소 C1로 데려가 새 C–H 결합이 되고, (2) C1=C2 π 전자가 C2–C3 사이로, (3) C3=C4 π 전자가 C4–C5 사이로 옮겨 간다. 고리를 긴 쪽으로 세면 H(1)에서 C5(1)–C4(2)–C3(3)–C2(4)–C1(5)이라 [1,5]다. H는 고리 평면의 같은 면(윗면)을 따라 미끄러지므로 suprafacial이다. 생성물 1-R 이성질체는 치환기가 이중결합에 붙어 더 안정하고, 같은 이동이 한 번 더 일어나면 2-R 이성질체도 생긴다. Clayden p.919–920의 그림을 따랐다.*
+그림: 빨간색은 끊어지는 C5–H σ 결합, 초록색은 새로 생긴 C1–H 결합이다. (1) C5–H σ 전자가 H를 이웃 탄소 C1로 데려가 새 C–H 결합이 되고, (2) C1=C2 π 전자가 C2–C3 사이로, (3) C3=C4 π 전자가 C4–C5 사이로 옮겨 간다. 고리를 긴 쪽으로 세면 H(1)에서 C5(1)–C4(2)–C3(3)–C2(4)–C1(5)이라 [1,5]다. H는 고리 평면의 같은 면(윗면)을 따라 미끄러지므로 suprafacial이다. 생성물 1-R 이성질체는 치환기가 이중결합에 붙어 더 안정하고, 같은 이동이 한 번 더 일어나면 2-R 이성질체도 생긴다. Clayden p.919–920의 그림을 따랐다.
 
 ### 9.2 왜 alkylation한 cyclopentadiene으로 DA를 하면 혼합물이 나오나
 

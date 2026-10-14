@@ -34,11 +34,11 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
-*그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.*
+그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.
 
 ![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
 
-*그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.*
+그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.
 
 HWE 메커니즘(예: (EtO)2P(O)CH2CO2Et + PhCHO)은 다음과 같다.
 
@@ -81,7 +81,7 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 
 ![acetaldehyde의 염기 촉매 aldol 반응 (4/4)](../../figures/L08/aldol_base_4.svg)
 
-*그림: 보충: $HO^-$가 α-H를 떼어 enolate를 만들고, enolate가 두 번째 acetaldehyde의 carbonyl을 공격해 alkoxide가 된다. 물이 양성자를 주면 3-hydroxybutanal(aldol)이고, 가열하면 E1cB로 물이 빠져 (E)-but-2-enal이 된다.*
+그림: 보충: $HO^-$가 α-H를 떼어 enolate를 만들고, enolate가 두 번째 acetaldehyde의 carbonyl을 공격해 alkoxide가 된다. 물이 양성자를 주면 3-hydroxybutanal(aldol)이고, 가열하면 E1cB로 물이 빠져 (E)-but-2-enal이 된다.
 
 
 (출처: L8 p.8)
@@ -90,7 +90,7 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 
 ![enolate가 두 번째 acetaldehyde의 carbonyl 탄소를 공격해 alkoxide가 되는 염기 촉매 aldol addition 메커니즘](../../figures/L08/aldol_base_addition.svg)
 
-*그림: 2단계(C–C 결합 형성)를 그린 것이다. 파란색은 nucleophile 쪽(enolate의 C=C와 O⁻), 빨간색은 electrophile 쪽(두 번째 acetaldehyde의 carbonyl 탄소와 C=O), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) O⁻의 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) enolate의 C=C π 전자가 상대 carbonyl 탄소를 공격하며, (3) 상대의 C=O π 전자가 산소로 올라가 alkoxide(빨간 O⁻)가 되는 과정이다. 초록 결합이 새로 생긴 C–C 결합이다. 이어서 alkoxide가 물에서 양성자를 받으면 aldol과 HO⁻가 된다(3단계).*
+그림: 2단계(C–C 결합 형성)를 그린 것이다. 파란색은 nucleophile 쪽(enolate의 C=C와 O⁻), 빨간색은 electrophile 쪽(두 번째 acetaldehyde의 carbonyl 탄소와 C=O), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) O⁻의 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) enolate의 C=C π 전자가 상대 carbonyl 탄소를 공격하며, (3) 상대의 C=O π 전자가 산소로 올라가 alkoxide(빨간 O⁻)가 되는 과정이다. 초록 결합이 새로 생긴 C–C 결합이다. 이어서 alkoxide가 물에서 양성자를 받으면 aldol과 HO⁻가 된다(3단계).
 
 어떻게 같은 acetaldehyde가 공격하는 쪽과 공격당하는 쪽을 동시에 맡을 수 있을까? 답은 염기가 일부 분자만 enolate로 바꾸기 때문이다.
 
@@ -106,7 +106,7 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 
 ![aldol의 α-H가 떨어져 enolate가 되고 β-OH가 HO⁻로 떨어져 2-butenal이 되는 E1cB 탈수 메커니즘](../../figures/L08/aldol_e1cb.svg)
 
-*그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(짝염기, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 공액 안정화 덕분에 앞으로 진행된다.*
+그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(짝염기, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 공액 안정화 덕분에 앞으로 진행된다.
 
 aldol 생성물에 염기를 더 오래, 더 세게 작용시키면 물이 빠진다. 그런데 HO⁻는 원래 나쁜 leaving group인데 어떻게 떨어질까? 비결은 이탈 전에 먼저 anion(짝염기)을 만드는 데 있다. 이를 E1cB(cB = conjugate base)라 한다.
 
@@ -142,11 +142,11 @@ aldol은 산 촉매로도 일어난다. 그런데 염기성 조건과 달리 산
 
 ![2 acetone → 4-methylpent-3-en-2-one (mesityl oxide)](../../figures/L08/acetone_self_aldol.svg)
 
-*그림: 한 분자의 enol α-C(파랑)가 다른 분자의 C=O(빨강)에 첨가한 뒤 탈수해 C=C(초록).*
+그림: 한 분자의 enol α-C(파랑)가 다른 분자의 C=O(빨강)에 첨가한 뒤 탈수해 C=C(초록).
 
 ![2 cyclopentanone → 2-cyclopentylidenecyclopentanone](../../figures/L08/cyclopentanone_self_aldol.svg)
 
-*그림: aldol 첨가 뒤 탈수.*
+그림: aldol 첨가 뒤 탈수.
 
 (출처: L8 p.12)
 
@@ -161,7 +161,7 @@ aldol은 산 촉매로도 일어난다. 그런데 염기성 조건과 달리 산
 
 ![enol의 C=C가 protonate된 cyclopentanone의 carbonyl 탄소를 공격하는 산 촉매 aldol addition 메커니즘](../../figures/L08/aldol_acid_addition.svg)
 
-*그림: 위 2단계(산 촉매 aldol addition)를 그린 것이다. 파란색은 nucleophile인 enol(C=C와 OH의 산소), 빨간색은 protonate되어 친전자성이 커진 cyclopentanone의 C=O⁺H다. 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 밀어 주어 C=O⁺H가 생기고, (2) enol의 C=C π 전자가 protonate된 carbonyl 탄소를 공격하며, (3) C=O⁺ π 전자가 산소로 가서 중성 OH가 되는 과정이다. 초록 결합이 새 C–C 결합이며, 이어서 H⁺가 떨어지면 aldol이 된다(3단계).*
+그림: 위 2단계(산 촉매 aldol addition)를 그린 것이다. 파란색은 nucleophile인 enol(C=C와 OH의 산소), 빨간색은 protonate되어 친전자성이 커진 cyclopentanone의 C=O⁺H다. 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 밀어 주어 C=O⁺H가 생기고, (2) enol의 C=C π 전자가 protonate된 carbonyl 탄소를 공격하며, (3) C=O⁺ π 전자가 산소로 가서 중성 OH가 되는 과정이다. 초록 결합이 새 C–C 결합이며, 이어서 H⁺가 떨어지면 aldol이 된다(3단계).
 
 슬라이드는 이 탈수가 "빠르고, 산성 조건에서는 피하기 어렵다"고 강조한다. 산성 aldol의 생성물을 물으면 일단 enone/엔알을 떠올리는 것이 안전하다.
 
@@ -185,7 +185,7 @@ benzaldehyde는 바닐린 다음으로 중요한 향료(아몬드 향)다. 슬�
 
 ![cinnamaldehyde → PhCHO + CH3CHO (retro-aldol)](../../figures/L08/retro_aldol_cinnamaldehyde.svg)
 
-*그림: 물이 β-C에 첨가한 뒤 C–C(빨강)가 끊어진다.*
+그림: 물이 β-C에 첨가한 뒤 C–C(빨강)가 끊어진다.
 
 cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻게 거꾸로 갈까? 먼저 탈수를 되돌린 다음 aldol 첨가를 되돌린다.
 
@@ -196,7 +196,7 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![alkoxide가 C=O를 다시 만들며 Cα–Cβ 결합을 끊어 benzaldehyde와 acetaldehyde enolate가 되는 retro-aldol 개열 메커니즘](../../figures/L08/retro_aldol.svg)
 
-*그림: 위 3단계(C–C 결합 개열)를 그린 것으로, 2.2의 그림을 거꾸로 돌린 모양이다. 파란색은 전자를 내주는 쪽(alkoxide O⁻와 끊어지는 Cα–Cβ 결합), 빨간색은 전자를 받는 aldehyde carbonyl 탄소다. 화살표 셋은 (1) O⁻의 비공유 전자쌍이 내려와 C=O를 만들고, (2) Cα–Cβ 결합 전자가 Cα와 carbonyl 탄소 사이로 옮겨 C=C(enolate)를 만들며, (3) 원래의 C=O π 전자가 산소로 가서 O⁻가 되는 과정이다. 초록 결합이 새로 생긴 C=O와 C=C다. enolate는 물에서 양성자를 받아 CH3CHO가 된다(4단계).*
+그림: 위 3단계(C–C 결합 개열)를 그린 것으로, 2.2의 그림을 거꾸로 돌린 모양이다. 파란색은 전자를 내주는 쪽(alkoxide O⁻와 끊어지는 Cα–Cβ 결합), 빨간색은 전자를 받는 aldehyde carbonyl 탄소다. 화살표 셋은 (1) O⁻의 비공유 전자쌍이 내려와 C=O를 만들고, (2) Cα–Cβ 결합 전자가 Cα와 carbonyl 탄소 사이로 옮겨 C=C(enolate)를 만들며, (3) 원래의 C=O π 전자가 산소로 가서 O⁻가 되는 과정이다. 초록 결합이 새로 생긴 C=O와 C=C다. enolate는 물에서 양성자를 받아 CH3CHO가 된다(4단계).
 
 (출처: L8 p.15, p.16)
 
@@ -232,11 +232,11 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![acetone + propanal (LDA) → 4-hydroxyhexan-2-one](../../figures/L08/lda_acetone_propanal.svg)
 
-*그림: lithium enolate(파랑)가 aldehyde C(빨강)와 새 C–C(초록).*
+그림: lithium enolate(파랑)가 aldehyde C(빨강)와 새 C–C(초록).
 
 ![butanone + acetaldehyde (LDA) → 5-hydroxyhexan-3-one](../../figures/L08/lda_butanone_acetaldehyde.svg)
 
-*그림: LDA는 덜 치환된 $CH_3$(파랑)에서 kinetic enolate를 만든다.*
+그림: LDA는 덜 치환된 $CH_3$(파랑)에서 kinetic enolate를 만든다.
 
 두 번째 예에서 왜 ethyl 쪽이 아니라 methyl 쪽이 반응했을까? LDA/−78 °C는 덜 붐비는 CH3의 H를 더 빨리 떼어 내므로 덜 치환된 enolate, 즉 kinetic enolate가 생기기 때문이다.
 
@@ -250,11 +250,11 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![propiophenone + propanal → aldol (94%)](../../figures/L08/lda_propiophenone_propanal.svg)
 
-*그림: (Z)-enolate를 거친 교차 aldol. 새 C–C(초록).*
+그림: (Z)-enolate를 거친 교차 aldol. 새 C–C(초록).
 
 ![diisopropyl ketone + acrolein → 1,2-aldol (82%)](../../figures/L08/lda_diisopropylketone_acrolein.svg)
 
-*그림: enolate가 acrolein의 C=O 탄소(빨강)에 직접 첨가한다.*
+그림: enolate가 acrolein의 C=O 탄소(빨강)에 직접 첨가한다.
 
 보충: lithium enolate aldol은 왜 이렇게 깔끔할까? 교과서의 설명은 두 가지다. 첫째, LDA에 의한 enolate 형성은 Li–O 배위가 먼저 일어나고 곧바로 양성자가 떨어질 만큼 빨라서, 반쯤 만들어진 enolate가 아직 enolization되지 않은 ketone과 반응할 틈이 거의 없다(aldehyde는 예외라 자기 축합이 더 빠르다). 둘째, 나중에 넣은 aldehyde가 enolate와 같은 Li⁺에 배위한 뒤, Li를 포함한 6원 고리 transition state에서 분자 내 반응처럼 C–C 결합이 생긴다. 이 고리형 경로 때문에 lithium enolate는 보통 conjugate addition을 하지 않으며, 위 acrolein 예가 1,2-첨가(aldol)로 그려진 이유도 여기에 있다. (보충 근거: Clayden p.625, p.626)
 
@@ -268,7 +268,7 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![hex-3-en-2-one + PhCHO (LDA) → 목표 aldol](../../figures/L08/lda_hexenone_benzaldehyde.svg)
 
-*그림: kinetic enolate의 $CH_3$ 쪽(파랑)이 PhCHO와 새 C–C(초록).*
+그림: kinetic enolate의 $CH_3$ 쪽(파랑)이 PhCHO와 새 C–C(초록).
 
 이 ketone의 반대쪽 α-탄소는 alkene의 sp2 탄소라서 enolate를 만드는 데 쓰이지 않는다. 그래서 CH3 쪽만 반응한다. 슬라이드 p.21의 두 연습 구조(2-[hydroxy(phenyl)methyl]cyclohexanone, (CH3)2CHCOCH2CH(OH)CH2CH3)는 연습 문제 5, 6으로 옮겼다.
 
@@ -291,7 +291,7 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 
 ![2-methylcyclohexanone → 더 치환된 TMS enol ether](../../figures/L08/tms_enol_2_methylcyclohexanone.svg)
 
-*그림: 열역학 조건이라 더 치환된 C=C(초록)가 생긴다.*
+그림: 열역학 조건이라 더 치환된 C=C(초록)가 생긴다.
 
 (출처: L8 p.22, p.23)
 
@@ -320,7 +320,7 @@ RC(OSiMe3)=CH2 --[PhCHO, TiCl4]--> RCOCH2CH(OSiMe3)Ph (aldol의 silyl ether) --[
 
 ![TiCl4로 활성화된 benzaldehyde를 silyl enol ether가 공격하는 Mukaiyama aldol addition 메커니즘](../../figures/L08/mukaiyama_aldol.svg)
 
-*그림: 위 2단계(aldol addition)를 그린 것이다. 슬라이드처럼 TiCl4가 배위한 aldehyde를 O⁺–TiCl3로 나타냈다. 파란색은 nucleophile인 silyl enol ether(C=C와 O), 빨간색은 활성화된 carbonyl(C=O⁺)이다. 화살표 셋은 (1) enol ether 산소의 비공유 전자쌍이 밀어 주어 silyl oxocarbenium(C=O⁺–SiMe3)이 생기고, (2) C=C π 전자가 carbonyl 탄소를 공격하며, (3) C=O⁺ π 전자가 산소로 가서 티타늄 alkoxide(O–TiCl3)가 되는 과정이다. 초록 결합이 새 C–C 결합이다. 이후 Cl⁻가 Me3Si를 떼어 내고 티타늄 alkoxide가 다시 받아 오는 과정(3, 4단계)은 그리지 않았다.*
+그림: 위 2단계(aldol addition)를 그린 것이다. 슬라이드처럼 TiCl4가 배위한 aldehyde를 O⁺–TiCl3로 나타냈다. 파란색은 nucleophile인 silyl enol ether(C=C와 O), 빨간색은 활성화된 carbonyl(C=O⁺)이다. 화살표 셋은 (1) enol ether 산소의 비공유 전자쌍이 밀어 주어 silyl oxocarbenium(C=O⁺–SiMe3)이 생기고, (2) C=C π 전자가 carbonyl 탄소를 공격하며, (3) C=O⁺ π 전자가 산소로 가서 티타늄 alkoxide(O–TiCl3)가 되는 과정이다. 초록 결합이 새 C–C 결합이다. 이후 Cl⁻가 Me3Si를 떼어 내고 티타늄 alkoxide가 다시 받아 오는 과정(3, 4단계)은 그리지 않았다.
 
 (출처: L8 p.25)
 
@@ -332,27 +332,27 @@ RC(OSiMe3)=CH2 --[PhCHO, TiCl4]--> RCOCH2CH(OSiMe3)Ph (aldol의 silyl ether) --[
 
 ![isobutyraldehyde → silyl enol ether](../../figures/L08/mukaiyama_1.svg)
 
-*그림: aldehyde의 silyl enol ether(초록 C=C).*
+그림: aldehyde의 silyl enol ether(초록 C=C).
 
 ![silyl enol ether + PhCH2CH2CHO → aldol (95%)](../../figures/L08/mukaiyama_2.svg)
 
-*그림: TiCl4가 C=O를 활성화해 enol ether(파랑)가 공격한다.*
+그림: TiCl4가 C=O를 활성화해 enol ether(파랑)가 공격한다.
 
 ![3-pentanone → silyl enol ether](../../figures/L08/mukaiyama_ketone_1.svg)
 
-*그림: silyl enol ether 형성.*
+그림: silyl enol ether 형성.
 
 ![enol ether + 2-methylbutanal → aldol (92%)](../../figures/L08/mukaiyama_ketone_2.svg)
 
-*그림: 새 C–C(초록).*
+그림: 새 C–C(초록).
 
 ![aldol → enone (TsOH 탈수)](../../figures/L08/mukaiyama_ketone_3.svg)
 
-*그림: OH(빨강)가 빠지며 공액 C=C(초록).*
+그림: OH(빨강)가 빠지며 공액 C=C(초록).
 
 ![1-phenylpropan-2-one → CH3C(OTMS)=CHPh](../../figures/L08/tms_enol_phenylacetone.svg)
 
-*그림: C=C(초록)가 phenyl과 공액되는 쪽에 생긴다.*
+그림: C=C(초록)가 phenyl과 공액되는 쪽에 생긴다.
 
 (출처: L8 p.26, p.27)
 
@@ -370,19 +370,19 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 ![diethyl malonate + isobutyraldehyde → Knoevenagel (92%)](../../figures/L08/knoevenagel_malonate.svg)
 
-*그림: 1,3-dicarbonyl의 α-C(파랑)와 aldehyde C(빨강)가 탈수까지 가서 C=C(초록).*
+그림: 1,3-dicarbonyl의 α-C(파랑)와 aldehyde C(빨강)가 탈수까지 가서 C=C(초록).
 
 ![PhCHO + CH3NO2 → (E)-β-nitrostyrene](../../figures/L08/henry_benzaldehyde.svg)
 
-*그림: Henry 반응 후 탈수.*
+그림: Henry 반응 후 탈수.
 
 ![cyclohexanone + CH3NO2 → 1-(nitromethyl)cyclohexanol](../../figures/L08/henry_cyclohexanone.svg)
 
-*그림: ketone에서는 첨가 생성물에서 멈춘다.*
+그림: ketone에서는 첨가 생성물에서 멈춘다.
 
 ![cyclohexanone → 2-cyclohexylidenecyclohexanone](../../figures/L08/cyclohexanone_self_aldol.svg)
 
-*그림: 자기 축합.*
+그림: 자기 축합.
 
 마지막 두 줄을 나란히 놓은 이유가 있다. nitro메테인이 없으면 cyclohexanone은 스스로 축합한다. 그런데 nitro메테인이 있으면 NaOH는 훨씬 산성인 CH3NO2를 먼저 deprotonate하고, 생긴 nitro네이트가 nucleophile이 된다. ketone은 electrophile 역할만 하게 되므로 교차 생성물이 선택적으로 생긴다.[6]
 
@@ -395,11 +395,11 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 ![geranial + acetone → pseudoionone](../../figures/L08/pseudoionone.svg)
 
-*그림: acetone enolate(파랑)가 geranial C=O(빨강)에 첨가하고 탈수한다.*
+그림: acetone enolate(파랑)가 geranial C=O(빨강)에 첨가하고 탈수한다.
 
 ![PhCHO + PhCOCH3 → chalcone](../../figures/L08/chalcone.svg)
 
-*그림: α-H 없는 benzaldehyde가 electrophile(빨강), acetophenone이 enolate(파랑).*
+그림: α-H 없는 benzaldehyde가 electrophile(빨강), acetophenone이 enolate(파랑).
 
 여기에 한 가지가 더 작용한다. ketone은 aldehyde보다 친전자성이 낮아서, ketone enolate는 다른 ketone보다 aldehyde를 공격하는 쪽을 택한다.[8]
 
@@ -419,15 +419,15 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 ![6-oxoheptanal → 1-acetylcyclopentene](../../figures/L08/intramolecular_oxoheptanal.svg)
 
-*그림: ketone 쪽 enolate(파랑)가 더 좋은 electrophile인 aldehyde(빨강)를 공격.*
+그림: ketone 쪽 enolate(파랑)가 더 좋은 electrophile인 aldehyde(빨강)를 공격.
 
 ![cyclodecane-1,6-dione → bicyclo[5.3.0] enone](../../figures/L08/intramolecular_cyclodecanedione.svg)
 
-*그림: 5원/7원 융합 고리, 접합부 C=C(초록).*
+그림: 5원/7원 융합 고리, 접합부 C=C(초록).
 
 ![nonane-2,8-dione → 1-(2-methylcyclohex-1-enyl)ethanone](../../figures/L08/intramolecular_nonanedione.svg)
 
-*그림: 6원 고리가 생기는 쪽으로 닫힌다.*
+그림: 6원 고리가 생기는 쪽으로 닫힌다.
 
 (출처: L8 p.30)
 
@@ -440,7 +440,7 @@ LDA나 TiCl4 없이 평범한 염기로도 교차 aldol을 선택적으로 할 �
 
 ![6-oxoheptanal의 C5 enolate가 같은 분자의 aldehyde 탄소를 공격해 5원 고리 alkoxide가 되는 intramolecular aldol 메커니즘](../../figures/L08/intramolecular_aldol.svg)
 
-*그림: 위 2단계를 그린 것이다. 왼쪽은 ketone 옆 CH(C5)가 deprotonate된 enolate로, 슬라이드처럼 탄소 anion 형태로 그렸다(파란 전자쌍과 −). 빨간색은 electrophile인 aldehyde C1과 C=O다. 화살표 둘은 (1) C5의 전자쌍이 같은 분자의 C1을 공격하고, (2) C=O π 전자가 산소로 올라가 alkoxide가 되는 과정이다. 초록 결합이 고리를 닫는 새 C1–C5 결합이며, 생성물은 acetyl group이 붙은 5원 고리 alkoxide다. 이어서 양성자 전달과 E1cB 탈수를 거쳐 1-acetylcyclopentene이 된다(3, 4단계).*
+그림: 위 2단계를 그린 것이다. 왼쪽은 ketone 옆 CH(C5)가 deprotonate된 enolate로, 슬라이드처럼 탄소 anion 형태로 그렸다(파란 전자쌍과 −). 빨간색은 electrophile인 aldehyde C1과 C=O다. 화살표 둘은 (1) C5의 전자쌍이 같은 분자의 C1을 공격하고, (2) C=O π 전자가 산소로 올라가 alkoxide가 되는 과정이다. 초록 결합이 고리를 닫는 새 C1–C5 결합이며, 생성물은 acetyl group이 붙은 5원 고리 alkoxide다. 이어서 양성자 전달과 E1cB 탈수를 거쳐 1-acetylcyclopentene이 된다(3, 4단계).
 
 다른 조합과 비교하면 이유가 보인다. C2 enolate(aldehyde α)가 C6 ketone을 공격해도 5원 고리가 되지만, 덜 친전자적인 ketone을 공격해야 하므로 불리하다. C7(CH3) enolate가 C1을 공격하면 7원 고리가 되어 역시 불리하다. 그리고 aldol 첨가는 가역이므로, 결국 가장 좋은 조합(5원 고리 + aldehyde electrophile + 공액 생성물)으로 수렴한다.[9]
 
@@ -529,13 +529,13 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 ![cyclohexanone + PhCHO → 2-[hydroxy(phenyl)methyl]cyclohexanone](../../figures/L08/lda_cyclohexanone_benzaldehyde.svg)
 
-*그림: 새 C–C(초록).*
+그림: 새 C–C(초록).
 
 6. **(CH3)2CH–CO–CH3 (3-methylbutan-2-one) --[(1) LDA, THF, −78 °C; (2) CH3CH2CHO; (3) H2O]--> (CH3)2CHCOCH2CH(OH)CH2CH3.** C=O 옆 CH2와 CH(OH) 사이를 끊으면 CH2=C(OLi)–CH(CH3)2 + propanal이 나온다. 필요한 enolate는 덜 치환된 CH3 쪽, 즉 kinetic enolate이므로 LDA/−78 °C가 맞다. 더 치환된 isopropyl CH 쪽이 deprotonate되면 다른 생성물이 된다. 또 propanal도 enolization될 수 있어 NaOH 같은 평형 조건에서는 교차 혼합물이 생기므로 enolate를 미리 만들어야 한다. (근거: L8 p.17, p.18, p.21, p.24)
 
 ![3-methylbutan-2-one + propanal → aldol](../../figures/L08/lda_methylbutanone_propanal.svg)
 
-*그림: kinetic enolate는 덜 치환된 $CH_3$(파랑)에서 생긴다.*
+그림: kinetic enolate는 덜 치환된 $CH_3$(파랑)에서 생긴다.
 
 7. **PhCO–CH(OH)–CH(Ph)–COCH3 (2-hydroxy-1,3-diphenylpentane-1,4-dione).** thermodynamic silyl enol ether는 C=C가 CHPh 쪽에 있으므로 친핵성 탄소는 benzyl CHPh다. TiCl4가 활성화한 phenylglyoxal(PhCO–CHO)에서는 aldehyde 탄소가 ketone 탄소보다 친전자적이므로 CHO가 공격받는다. aldol의 silyl ether를 거쳐 물 후처리로 aldol이 된다. 새 C–C 결합은 CH(Ph)–CH(OH)이다. (근거: L8 p.25, p.27; aldehyde 우선성은 p.30의 원리)
 
@@ -547,15 +547,15 @@ aldol 반응은 두 carbonyl 화합물을 이어 β-hydroxy carbonyl을 만들�
 
 ![4-tert-butyltoluene → 4-tert-butylbenzaldehyde](../../figures/L08/lilial_1.svg)
 
-*그림: lilial 1단계.*
+그림: lilial 1단계.
 
 ![4-tBu-benzaldehyde + propanal → α,β-unsaturated aldehyde](../../figures/L08/lilial_2.svg)
 
-*그림: lilial 2단계: 교차 aldol 축합.*
+그림: lilial 2단계: 교차 aldol 축합.
 
 ![→ lilial](../../figures/L08/lilial_3.svg)
 
-*그림: lilial 3단계: C=C(파랑)만 수소화.*
+그림: lilial 3단계: C=C(파랑)만 수소화.
 
 ## 각주
 

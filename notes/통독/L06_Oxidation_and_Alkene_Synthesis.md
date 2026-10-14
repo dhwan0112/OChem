@@ -55,19 +55,19 @@ ester를 LiAlH4로 환원하면 alcohol까지 가 버린다. 그렇다면 aldehy
 
 ![geranial (E) → (+)-citronellal](../../figures/L05/geranial_citronellal.svg)
 
-*그림: 비대칭 수소화. 공액 C=C(파랑)만 환원된다.*
+그림: 비대칭 수소화. 공액 C=C(파랑)만 환원된다.
 
 ![neral (Z) → (+)-citronellal](../../figures/L05/neral_citronellal.svg)
 
-*그림: Z 이성질체는 반대 리간드로 같은 거울상 생성물을 준다.*
+그림: Z 이성질체는 반대 리간드로 같은 거울상 생성물을 준다.
 
 ![(+)-citronellal → (−)-isopulegol](../../figures/L05/citronellal_isopulegol.svg)
 
-*그림: Lewis acid 촉매 고리화(ene 반응). C=C(파랑)가 C=O(빨강)를 공격한다.*
+그림: Lewis acid 촉매 고리화(ene 반응). C=C(파랑)가 C=O(빨강)를 공격한다.
 
 ![(−)-isopulegol → (−)-menthol](../../figures/L05/isopulegol_menthol.svg)
 
-*그림: C=C(파랑)를 수소화하면 menthol이 된다.*
+그림: C=C(파랑)를 수소화하면 menthol이 된다.
 
 여기서 물음표로 남은 첫 단계, 즉 allyl 1차 alcohol을 α,β-unsaturated aldehyde로 바꾸는 단계가 바로 이번 강의의 산화 반응이다. 이 단계에서 산화제가 너무 세면 carboxylic acid까지 가 버리고, 분자 안에 있는 C=C 두 개도 공격받을 수 있다. 그래서 순한 산화제가 필요하다.[2]
 
@@ -89,7 +89,7 @@ ester를 LiAlH4로 환원하면 alcohol까지 가 버린다. 그렇다면 aldehy
 
 ![alcohol 산화의 일반 메커니즘: O–LG 결합 형성 후 염기가 C–H를 떼어 내며 C=O가 생긴다](../../figures/L06/alcohol_ox_general.svg)
 
-*그림: 슬라이드 녹색 박스의 일반 메커니즘. 1단계: alcohol O(파랑, nucleophile)의 비공유 전자쌍이 산화제의 LG(빨강, electrophile)를 공격하고, LG–A 결합 전자는 A로 떠난다(HA가 빠짐). 2단계: 염기 B:(파랑)가 카비놀 탄소의 H를 떼어 내고, C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O π 결합이 되며, O–LG 결합(빨강) 전자는 LG와 함께 떠난다. 세 화살표가 한 번에 움직이는 E2형 제거다. 초록 C=O가 새로 생긴 결합이다. 3차 alcohol에는 2단계의 C–H가 없으므로 이 과정이 일어날 수 없다.*
+그림: 슬라이드 녹색 박스의 일반 메커니즘. 1단계: alcohol O(파랑, nucleophile)의 비공유 전자쌍이 산화제의 LG(빨강, electrophile)를 공격하고, LG–A 결합 전자는 A로 떠난다(HA가 빠짐). 2단계: 염기 B:(파랑)가 카비놀 탄소의 H를 떼어 내고, C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O π 결합이 되며, O–LG 결합(빨강) 전자는 LG와 함께 떠난다. 세 화살표가 한 번에 움직이는 E2형 제거다. 초록 C=O가 새로 생긴 결합이다. 3차 alcohol에는 2단계의 C–H가 없으므로 이 과정이 일어날 수 없다.
 
 즉 산화의 본질은 O–H의 H와 C–H의 H를 하나씩 떼어 내는 것이다. 3차 alcohol에는 2단계에서 떼어 낼 C–H가 없으니 C=O를 만들 길이 없다. 이 강의에 나오는 시약들은 결국 "LG를 무엇으로 붙이느냐"만 다르고, 이 뼈대는 모두 같다. 슬라이드도 각 시약을 "I–O", "S–Cl", "Ru–O"처럼 산화제의 핵심 결합으로 부른다.
 
@@ -107,7 +107,7 @@ geraniol의 물음표에 대한 가장 간단한 답이 DMP다. 1983년 D. B. De
 
 ![geraniol → geranial (DMP)](../../figures/L06/geraniol_dmp.svg)
 
-*그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.*
+그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.
 
 aldehyde에서 정확히 멈추고 C=C의 E 기하도 그대로 유지된다. 그렇다면 왜 DMP를 많이 쓸까? 슬라이드는 세 가지 장점을 든다. 첫째, 초원자가 iodine(hypervalent iodine) 시약은 독성이 낮고 안전하며 다루기 쉽고 환경 부담이 적다. 둘째, 온도와 pH가 온화하다(실온 근처, 중성). 셋째, 복잡한 기질의 민감한 작용기를 잘 tolerance of sensitive functional groups.
 
@@ -130,11 +130,11 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 ![PhCH2OH → PhCHO (Swern)](../../figures/L06/swern_benzyl.svg)
 
-*그림: 1차 alcohol → aldehyde.*
+그림: 1차 alcohol → aldehyde.
 
 ![cyclohexanol → cyclohexanone (Swern)](../../figures/L06/swern_cyclohexanol.svg)
 
-*그림: 2차 alcohol → ketone.*
+그림: 2차 alcohol → ketone.
 
 시약이 흔하고 DMP보다 훨씬 싸다. 그 대가로 부산물이 Me2S(악취), CO, CO2, HCl로 꽤 지저분하다. 산화수로 보면 DMSO의 S(IV)가 Me2S의 S(II)로 환원되고, 그만큼 alcohol이 산화되는 것이다. 슬라이드의 합성 예는 (+)-asteltoxin 합성 intermediate다. `(COCl)2 5 equiv, DMSO 6 equiv; 그 다음 Et3N 10 equiv, −78 °C` 조건에서 1차 CH2OH가 CHO로 바뀌고(95%), 같은 분자 안의 3차 OH는 그대로 남는다. 1.2절에서 본 대로 3차 alcohol에는 떼어 낼 α-H가 없기 때문이다.
 
@@ -153,11 +153,11 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 ![Swern oxidation 단계별 중간체 (4/4)](../../figures/L06/swern_steps_4.svg)
 
-*그림: 보충: DMSO와 $(COCl)_2$가 chlorosulfonium ion($Me_2S^+Cl$)을 만들고($CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$로 쪼개진다.*
+그림: 보충: DMSO와 $(COCl)_2$가 chlorosulfonium ion($Me_2S^+Cl$)을 만들고($CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$로 쪼개진다.
 
 ![Swern: sulfur ylide의 분자내 H 제거](../../figures/L06/swern_ylide_elim.svg)
 
-*그림: 보충: 핵심 단계의 굽은 화살표. ylide의 $CH_2^-$(파랑)가 carbinol C–H의 H(빨강)를 떼고, 그 C–H 전자쌍이 C=O π 결합이 되며, O–S 결합 전자는 S로 돌아가 $Me_2S$가 떨어진다. 5원 고리 TS를 거치는 분자내 제거라서 외부 염기는 ylide를 만드는 데만 쓰인다.*
+그림: 보충: 핵심 단계의 굽은 화살표. ylide의 $CH_2^-$(파랑)가 carbinol C–H의 H(빨강)를 떼고, 그 C–H 전자쌍이 C=O π 결합이 되며, O–S 결합 전자는 S로 돌아가 $Me_2S$가 떨어진다. 5원 고리 TS를 거치는 분자내 제거라서 외부 염기는 ylide를 만드는 데만 쓰인다.
 
 
 −78 °C를 지켜야 하는 이유는 1단계의 활성종이 불안정하기 때문이다. HCl은 Et3N이 중화한다.
@@ -181,7 +181,7 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 
 ![retinol → retinal (MnO2)](../../figures/L06/retinol_mno2.svg)
 
-*그림: MnO2는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.*
+그림: MnO2는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다.
 
 즉 한 분자 안에 OH가 여러 개 있을 때 allyl·benzyl OH만 골라 산화하고 싶다면 MnO2를 쓰면 된다. geraniol도 allyl 1차 alcohol이므로 MnO2로 산화할 수 있다.
 
@@ -205,7 +205,7 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 
 ![TEMPO 산화의 intermediate 부가물(I)에서 분자 내 α-H 제거로 aldehyde와 hydroxylamine이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-*그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 비공유 전자쌍이 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(알콕시) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. 1.2절 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.*
+그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 비공유 전자쌍이 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(알콕시) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. 1.2절 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.
 
 (출처: L6c p.11–12)
 
@@ -232,11 +232,11 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 
 ![ethanol → acetaldehyde (ADH)](../../figures/L06/ethanol_adh.svg)
 
-*그림: 몸속 1단계: alcohol dehydrogenase.*
+그림: 몸속 1단계: alcohol dehydrogenase.
 
 ![acetaldehyde → acetate (ALDH2)](../../figures/L06/acetaldehyde_aldh.svg)
 
-*그림: 몸속 2단계: aldehyde dehydrogenase.*
+그림: 몸속 2단계: aldehyde dehydrogenase.
 
 동아시아인의 약 30–50%는 ALDH2 유전자 변이(ALDH2*2)를 가지고 있다. 그래서 두 번째 단계가 느리고, 독성이 강한 acetaldehyde가 몸에 쌓여 술을 마시면 얼굴이 Asian glow. 화학적으로 말하면 "1차 alcohol → aldehyde → carboxylic acid"의 두 번째 산화가 병목이 되는 상황이다.
 
@@ -260,7 +260,7 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 
 ![2-methylbut-2-ene + HOCl → 3-chloro-2-methylbutan-2-ol](../../figures/L06/hocl_addition.svg)
 
-*그림: OH(초록)는 더 치환된 탄소에, Cl은 덜 치환된 탄소에 붙는다.*
+그림: OH(초록)는 더 치환된 탄소에, Cl은 덜 치환된 탄소에 붙는다.
 
 슬라이드는 이 반응 옆에 "regio-selectivity"라고 적어 두었다. OH는 3차 탄소에, Cl은 2차 탄소에 붙는다. 이유는 HOCl에서 electrophile로 C=C에 먼저 붙는 쪽이 Cl이기 때문이다. Cl이 붙어 생긴 chloronium 이온은 양전하를 더 잘 안정화하는 3차 탄소 쪽이 물에 공격받는다(Markovnikov형).[7]
 
@@ -274,7 +274,7 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 
 ![N-Cbz prolinol → N-Cbz proline (Jones)](../../figures/L06/jones_cbz_prolinol.svg)
 
-*그림: 1차 alcohol(빨강)이 carboxylic acid(초록)까지 산화된다.*
+그림: 1차 alcohol(빨강)이 carboxylic acid(초록)까지 산화된다.
 
 문제는 이 강산성이다. amine 같은 여러 작용기와 맞지 않아 보호가 필요하고, 산에 민감하거나 섬세한 기질에는 적합하지 않다.
 
@@ -306,19 +306,19 @@ aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 
 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
 
-*그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).*
+그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).
 
 ![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
 
-*그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.*
+그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.
 
 ![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
 
-*그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.*
+그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.
 
 ![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
 
-*그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.*
+그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.
 
 마지막 HCl 단계에서 CO2H와 SO2NH2가 분자 내에서 고리를 닫아 imide가 된다.
 
@@ -346,7 +346,7 @@ alkene은 산업적으로는 석유에서 대량으로 얻는다. 탄화수소�
 
 ![2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene](../../figures/L06/e2_2_bromopentane.svg)
 
-*그림: E2. 왼쪽부터 (E)-pent-2-ene 51%, (Z) 18%, pent-1-ene 31%.*
+그림: E2. 왼쪽부터 (E)-pent-2-ene 51%, (Z) 18%, pent-1-ene 31%.
 
 E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene으로 가는 형태 (i)에서는 Et와 Me가 서로 떨어져 있지만, Z-alkene으로 가는 형태 (ii)에서는 둘이 gauche로 붙어 있어 입체 장애 때문에 불리하다. 그래서 E가 더 많이 생기지만 Z와 말단 alkene도 상당량 섞인다. 즉 E2는 "선호"는 있어도 "통제"는 못 한다. 그래서 이 강의는 두 가지 통제 수단을 소개한다. I. alkyne을 입체선택적으로 환원하는 방법, II. Wittig 반응이다. 고리 닫힘 복분해와 교차 복분해는 이후 강의에서 다룬다(→ olefin 복분해 문서 참고).[9]
 
@@ -364,7 +364,7 @@ alkyne에 H2를 두 번 붙이면 알케인이 되는데, 한 번만 붙이고 �
 
 ![alkyne → Japanese beetle pheromone (Lindlar)](../../figures/L06/pheromone_lindlar.svg)
 
-*그림: C≡C(파랑)가 Z-alkene(초록)으로만 환원된다.*
+그림: C≡C(파랑)가 Z-alkene(초록)으로만 환원된다.
 
 Z가 되는 이유는 H2가 금속 표면에 흡착된 상태에서 두 H가 alkyne의 같은 면으로 들어가기 때문이다(syn 첨가). 그리고 피독된 촉매는 생긴 alkene을 알케인까지 더 환원하지 못한다.
 
@@ -416,7 +416,7 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 ![PPh3가 bromomethane을 SN2로 공격해 phosphonium염이 되는 메커니즘](../../figures/L06/ylide_sn2.svg)
 
-*그림: 1단계(SN2). PPh3의 P(파랑, nucleophile) 비공유 전자쌍이 CH3–Br의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고, C–Br 결합(빨강) 전자는 Br⁻로 떠난다. 새로 생긴 P–C 결합은 초록이다. 이어서 BuLi가 P⁺ 옆 C–H를 떼어 내면 일리드 Ph3P=CH2가 된다(2단계는 그림 아래 문구로만 적었다).*
+그림: 1단계(SN2). PPh3의 P(파랑, nucleophile) 비공유 전자쌍이 CH3–Br의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고, C–Br 결합(빨강) 전자는 Br⁻로 떠난다. 새로 생긴 P–C 결합은 초록이다. 이어서 BuLi가 P⁺ 옆 C–H를 떼어 내면 일리드 Ph3P=CH2가 된다(2단계는 그림 아래 문구로만 적었다).
 
 일반화하면 `PPh3 + X–CH2R → Ph3P+–CH2R --[PhLi, n-BuLi, t-BuOK]--> Ph3P=CHR`이다. X는 I, Br, Cl, OTs이고, R은 alkyl뿐 아니라 Ar, vinyl, –C(=O)R1, –C(=O)OR1, –SO2R1, –CN일 수도 있다.
 
@@ -430,7 +430,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![cyclohexanone + Ph3P=CH2 → methylenecyclohexane](../../figures/L06/wittig_cyclohexanone.svg)
 
-*그림: ylide 탄소(파랑)와 C=O 탄소(빨강)가 새 C=C(초록)가 된다.*
+그림: ylide 탄소(파랑)와 C=O 탄소(빨강)가 새 C=C(초록)가 된다.
 
 
 일리드는 미리 만들어서 넣어도 되고 반응계 in situ 만들어도 된다.[11]
@@ -441,7 +441,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![C15 phosphonium + C5 aldehyde → vitamin A acetate](../../figures/L06/wittig_vitamin_a.svg)
 
-*그림: Wittig으로 새 C=C(초록)를 만들어 vitamin A acetate를 얻는다.*
+그림: Wittig으로 새 C=C(초록)를 만들어 vitamin A acetate를 얻는다.
 
 새로 생긴 C=C는 그림에서 E로 그려져 있다. BuLi가 아니라 NaOMe로도 충분한 이유는, 이 phosphonium염이 폴리엔에 공액된 allyl 위치라 C–H의 산성도가 높기 때문이다.[12]
 
@@ -457,11 +457,11 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
-*그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.*
+그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.
 
 ![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
 
-*그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.*
+그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.
 
 비안정화 unstabilized ylide는 그런 치환기가 없다(R = alkyl). 음전하가 탄소에 그대로 몰려 있으므로 강염기가 필요하다.
 
@@ -469,11 +469,11 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![cyclopentyl bromide + PPh3 → phosphonium bromide](../../figures/L06/ylide_cyclopentyl_1.svg)
 
-*그림: SN2로 phosphonium 염이 된다.*
+그림: SN2로 phosphonium 염이 된다.
 
 ![phosphonium salt + BuLi → cyclopentylidene ylide](../../figures/L06/ylide_cyclopentyl_2.svg)
 
-*그림: 불안정화 ylide라서 BuLi 같은 강염기가 필요하다.*
+그림: 불안정화 ylide라서 BuLi 같은 강염기가 필요하다.
 
 슬라이드가 덧붙이듯 "ylid"와 "phosphorane"은 같은 화학종을 다르게 그린 것일 뿐이다. 이 구분이 중요한 이유는 다음 절에서 나온다. 두 일리드는 반대 기하의 alkene을 준다.
 
@@ -502,17 +502,17 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![Wittig 1단계: 일리드 탄소가 benzaldehyde의 carbonyl 탄소를 공격하고 O가 P와 결합해 oxaphosphetane이 생긴다](../../figures/L06/wittig_step1.svg)
 
-*그림: 1–2단계. 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합(빨강) 전자는 O로 가서 O가 P⁺와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 슬라이드처럼 일리드는 cyclopentylidene–PPh3, carbonyl 화합물은 benzaldehyde다.*
+그림: 1–2단계. 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합(빨강) 전자는 O로 가서 O가 P⁺와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 슬라이드처럼 일리드는 cyclopentylidene–PPh3, carbonyl 화합물은 benzaldehyde다.
 
 ![Wittig 2단계: oxaphosphetane이 분해되어 alkene과 Ph3P=O가 생긴다](../../figures/L06/wittig_step2.svg)
 
-*그림: 3단계. C–P 결합(파랑) 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합(파랑) 전자는 O–P 사이로 들어가 P=O가 된다. 두 화살표가 4원 고리 안에서 함께 돌아가며, 생기는 강한 P=O 결합(초록)이 반응의 구동력이다. 생성물은 benzylidenecyclopentane(65%)과 Ph3P=O다.*
+그림: 3단계. C–P 결합(파랑) 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합(파랑) 전자는 O–P 사이로 들어가 P=O가 된다. 두 화살표가 4원 고리 안에서 함께 돌아가며, 생기는 강한 P=O 결합(초록)이 반응의 구동력이다. 생성물은 benzylidenecyclopentane(65%)과 Ph3P=O다.
 
 `cyclopentylidene–PPh3 + PhCHO --> benzylidenecyclopentane (65%) + Ph3P=O`
 
 ![cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane](../../figures/L06/wittig_benzylidene.svg)
 
-*그림: 새 C=C(초록).*
+그림: 새 C=C(초록).
 
 그렇다면 이 반응은 왜 이렇게 잘 진행될까? P=O 결합이 매우 강해서 이것이 생기는 것 자체가 반응을 앞으로 밀어 주는 구동력이 되기 때문이다.
 
@@ -547,7 +547,7 @@ Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane�
 
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
 
-*그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.*
+그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.
 
 그림에서 CO2Et는 gem-dimethyl 반대쪽으로 그려져 있다. 실험실에서 HWE를 좋아하는 이유 하나는 부산물인 diethyl phosphate 염이 물에 녹아, 분리가 까다로운 Ph3P=O보다 훨씬 쉽게 씻겨 나간다는 점이다. 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응이다(연습 문제 6).
 

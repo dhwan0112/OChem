@@ -46,19 +46,19 @@ acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nuc
 
 ![cyclopentanone의 산 촉매 enolization: carbonyl 산소의 protonation 후 α-C–H가 끊겨 enol이 되는 메커니즘](../../figures/L10/acid_enolization.svg)
 
-*그림: 왼쪽에서 carbonyl 산소의 비공유 전자쌍(파랑)이 H⁺(빨강)를 잡아 oxonium 이온이 된다. 가운데에서 화살표 둘이 함께 움직인다. α-C–H 결합 전자(파란 결합)가 고리 C–C 쪽으로 가서 C=C를 만들고, C=O⁺의 π 전자는 산소로 올라간다. 이때 떨어진 H⁺(−H⁺)가 산 촉매로 돌아간다. 오른쪽 enol의 초록색이 새로 생긴 C=C다.*
+그림: 왼쪽에서 carbonyl 산소의 비공유 전자쌍(파랑)이 H⁺(빨강)를 잡아 oxonium 이온이 된다. 가운데에서 화살표 둘이 함께 움직인다. α-C–H 결합 전자(파란 결합)가 고리 C–C 쪽으로 가서 C=C를 만들고, C=O⁺의 π 전자는 산소로 올라간다. 이때 떨어진 H⁺(−H⁺)가 산 촉매로 돌아간다. 오른쪽 enol의 초록색이 새로 생긴 C=C다.
 
 **둘째 막, aldol addition.** 이제 enol이 nucleophile, protonate된 두 번째 cyclopentanone(C=O⁺H)이 electrophile다. enol 산소의 비공유 전자쌍이 밀어주면 enol의 α-탄소가 protonate된 carbonyl 탄소를 공격해 새 C–C 결합이 생긴다. 이때 enol 쪽은 protonate된 ketone이 되고, H⁺를 내놓으면 aldol 생성물인 2-(1-hydroxycyclopentyl)cyclopentan-1-one이 된다.
 
 ![산 촉매 aldol addition: enol의 C=C가 protonate된 cyclopentanone을 공격하고, protonate된 ketone에서 H⁺가 빠져 aldol이 되는 메커니즘](../../figures/L10/acid_aldol_addition.svg)
 
-*그림: 둘째 막(aldol addition). 파란색은 nucleophile인 enol의 C=C, 빨간색은 electrophile인 protonate된 carbonyl(C=O⁺H)이다. 왼쪽 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 C–O 쪽으로 밀어 주고 (2) C=C의 π 전자가 protonate된 carbonyl 탄소를 공격하며 (3) C=O⁺의 π 전자가 산소로 올라가 OH가 되는 과정이다. 가운데는 새 C–C 결합(초록)이 생긴 protonate된 aldol이고, O–H 결합 전자(파란 결합)가 산소로 돌아가며 H⁺가 빠지면(−H⁺) aldol 생성물이 된다.*
+그림: 둘째 막(aldol addition). 파란색은 nucleophile인 enol의 C=C, 빨간색은 electrophile인 protonate된 carbonyl(C=O⁺H)이다. 왼쪽 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 C–O 쪽으로 밀어 주고 (2) C=C의 π 전자가 protonate된 carbonyl 탄소를 공격하며 (3) C=O⁺의 π 전자가 산소로 올라가 OH가 되는 과정이다. 가운데는 새 C–C 결합(초록)이 생긴 protonate된 aldol이고, O–H 결합 전자(파란 결합)가 산소로 돌아가며 H⁺가 빠지면(−H⁺) aldol 생성물이 된다.
 
 **셋째 막, E1 elimination.** 그런데 산 조건에서는 여기서 멈추기가 어렵다. 슬라이드도 탈수는 "산 조건에서 피하기 어렵다"고 적는다. 왜일까? aldol의 3차 OH가 protonate되어 –OH₂⁺라는 좋은 leaving group이 되고, 물이 떨어지면 안정한 3차 carbocation이 생긴다. 이어서 이웃한 α-C–H에서 H⁺가 빠지면 C=O와 공액된 C=C가 생긴다. 최종 생성물은 2-cyclopentylidenecyclopentan-1-one이다. 즉 산 촉매 aldol은 대개 enone까지 간다.
 
 ![산 촉매 탈수(E1): protonate된 OH가 물로 떨어져 3차 carbocation이 되고, 이웃 α-C–H에서 H⁺가 빠져 공액 enone이 되는 메커니즘](../../figures/L10/acid_dehydration.svg)
 
-*그림: 셋째 막(E1 탈수). 3차 OH가 이미 protonate된 상태(–OH₂⁺, 빨강)부터 그렸다. 왼쪽 화살표는 C–O 결합 전자가 산소로 가서 물이 떨어지는(−H₂O) 과정이고, 그 결과 3차 carbocation(빨간 +)이 생긴다. 가운데 화살표는 이웃한 α-C–H 결합 전자(파란 결합)가 C⁺ 쪽으로 가서 C=C를 만들며 H⁺가 빠지는(−H⁺) 과정이다. 오른쪽 초록 C=C가 C=O와 공액된 새 이중 결합이다(2-cyclopentylidenecyclopentan-1-one).*
+그림: 셋째 막(E1 탈수). 3차 OH가 이미 protonate된 상태(–OH₂⁺, 빨강)부터 그렸다. 왼쪽 화살표는 C–O 결합 전자가 산소로 가서 물이 떨어지는(−H₂O) 과정이고, 그 결과 3차 carbocation(빨간 +)이 생긴다. 가운데 화살표는 이웃한 α-C–H 결합 전자(파란 결합)가 C⁺ 쪽으로 가서 C=C를 만들며 H⁺가 빠지는(−H⁺) 과정이다. 오른쪽 초록 C=C가 C=O와 공액된 새 이중 결합이다(2-cyclopentylidenecyclopentan-1-one).
 
 (출처: L10 p.3)
 
@@ -72,7 +72,7 @@ enolate를 보면 이 관계가 더 잘 보인다. enolate의 음전하는 산�
 
 ![enolate가 H–B에서 양성자를 받을 때 산소에서 받으면 enol, 탄소에서 받으면 keto형이 되는 두 경로](../../figures/L10/enolate_protonation.svg)
 
-*그림: 슬라이드 p.4의 "A proton can add here" 두 자리를 굽은 화살표로 나타냈다. 위: enolate 산소의 비공유 전자쌍(파랑)이 H–B의 H(빨강)를 잡고 H–B 결합 전자가 B로 가서 enol과 B⁻가 된다. 아래: 산소 전자쌍이 C–O 쪽으로 밀어 C=O를 만들고, C=C의 π 전자(파랑)가 H를 잡아 α-탄소에 새 C–H(초록)가 생기며 keto형이 된다. 두 경로 모두 가역(⇌)이고, 같은 enolate에서 양성자 자리만 다르다.*
+그림: 슬라이드 p.4의 "A proton can add here" 두 자리를 굽은 화살표로 나타냈다. 위: enolate 산소의 비공유 전자쌍(파랑)이 H–B의 H(빨강)를 잡고 H–B 결합 전자가 B로 가서 enol과 B⁻가 된다. 아래: 산소 전자쌍이 C–O 쪽으로 밀어 C=O를 만들고, C=C의 π 전자(파랑)가 H를 잡아 α-탄소에 새 C–H(초록)가 생기며 keto형이 된다. 두 경로 모두 가역(⇌)이고, 같은 enolate에서 양성자 자리만 다르다.
 
 보충: 호변이성화는 눈에 보이는 결과를 낳는다. ketone을 산이나 염기가 조금 든 D2O에 두면 α-H만 차례로 D로 바뀌는데, 이것이 enol(enolate)을 거친다는 증거다. 또 α-탄소가 입체중심이면 평면인 enol을 거치면서 배열을 잃는다. 그래서 두 carbonyl 사이 탄소만 입체중심인 β-ketoester는 광학 활성 상태로 보관하기 어렵고, 교과서는 이부프로펜이 라세미체로 투여되어도 몸 안에서 enolization을 거쳐 활성 (S)체를 공급받는다고 소개한다. (보충 근거: Clayden p.451, p.459, p.460)
 
@@ -107,7 +107,7 @@ enolate를 보면 이 관계가 더 잘 보인다. enolate의 음전하는 산�
 
 ![pentane-2,4-dione의 keto형과 enol형: enol형은 C=C가 C=O와 공액되고 O–H···O 수소 결합 6원 고리를 이룬다](../../figures/L10/dione_enol.svg)
 
-*그림: 왼쪽 keto형(24 %)과 오른쪽 enol형(76 %)의 평형(⇌)이다. enol형의 초록 C=C는 남은 C=O와 공액되어 있고, 파란 점선은 enol O–H의 H가 다른 C=O 산소와 이루는 분자 내 수소 결합으로, O–C=C–C=O와 함께 6원 고리를 만든다. A–E는 슬라이드의 ¹H NMR 신호 귀속이며, E(δ ~15.5)가 극단적인 낮은 장에 있는 것이 이 강한 수소 결합 때문이다.*
+그림: 왼쪽 keto형(24 %)과 오른쪽 enol형(76 %)의 평형(⇌)이다. enol형의 초록 C=C는 남은 C=O와 공액되어 있고, 파란 점선은 enol O–H의 H가 다른 C=O 산소와 이루는 분자 내 수소 결합으로, O–C=C–C=O와 함께 6원 고리를 만든다. A–E는 슬라이드의 ¹H NMR 신호 귀속이며, E(δ ~15.5)가 극단적인 낮은 장에 있는 것이 이 강한 수소 결합 때문이다.
 
 이것은 ¹H NMR로 직접 확인할 수 있다. 두 호변이성체의 신호가 따로 보이기 때문이다.[5]
 
@@ -168,13 +168,13 @@ enol이 정말 nucleophile로 작용한다는 증거는 무엇일까? 가장 간
 
 ![acetone + Br2/HOAc → bromoacetone](../../figures/L10/acetone_bromination.svg)
 
-*그림: 산 촉매 enol의 α-C(파랑)가 $Br_2$와 반응해 C–Br(초록).*
+그림: 산 촉매 enol의 α-C(파랑)가 $Br_2$와 반응해 C–Br(초록).
 
 메커니즘은 산 촉매 aldol의 첫 두 막과 거의 같다. 먼저 AcOH가 carbonyl 산소를 protonate하고 α-C–H가 끊기며 enol CH₃–C(OH)=CH₂가 생긴다. 이어서 enol 산소의 비공유 전자쌍이 밀어주면 enol의 C=C가 Br–Br의 Br을 공격하고, Br–Br 결합이 끊어지며 Br⁻가 떨어진다. 그러면 protonate된 carbonyl(C=O⁺–H)을 가진 α-bromoketone이 생기고, O–H의 H⁺가 빠지면서 bromoacetone이 된다. 즉 electrophile이 protonate된 carbonyl에서 Br₂로 바뀌었을 뿐이다.[9]
 
 ![enol의 C=C가 Br₂를 공격해 protonate된 α-bromoketone을 거쳐 bromoacetone이 되는 메커니즘](../../figures/L10/enol_bromination.svg)
 
-*그림: acetone의 enol(파랑, nucleophile)과 Br₂(빨강, electrophile). 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 C–O 쪽으로 밀어 주고 (2) C=C의 π 전자가 가까운 Br을 공격하며 (3) Br–Br 결합 전자가 먼 Br로 가서 Br⁻로 떨어지는 과정이다. 가운데의 protonate된 carbonyl(C=O⁺–H)에서는 O–H 결합 전자가 산소로 돌아가며 H⁺가 빠진다(−H⁺). 초록색이 새 C–Br 결합이다.*
+그림: acetone의 enol(파랑, nucleophile)과 Br₂(빨강, electrophile). 화살표 셋은 (1) enol 산소의 비공유 전자쌍이 C–O 쪽으로 밀어 주고 (2) C=C의 π 전자가 가까운 Br을 공격하며 (3) Br–Br 결합 전자가 먼 Br로 가서 Br⁻로 떨어지는 과정이다. 가운데의 protonate된 carbonyl(C=O⁺–H)에서는 O–H 결합 전자가 산소로 돌아가며 H⁺가 빠진다(−H⁺). 초록색이 새 C–Br 결합이다.
 
 루이스산으로도 같은 일이 가능하다. 1-phenylpentane-1-온(PhCO(CH₂)₃CH₃)을 Br₂와 0.75 mol% AlCl₃(Et₂O)로 처리하면 2-bromo-1-phenylpentane-1-온(PhCO–CHBr–CH₂CH₂CH₃)이 100 % 수율로 생긴다. 그런데 Br₂와 AlCl₃라면 benzene 고리가 brominate되어야 하지 않을까? 슬라이드의 "Deactivated" 화살표가 그 답이다. acyl group은 전자끄는기라 benzene 고리를 electrophilic aromatic substitution(EAS)에 대해 불활성화한다. 그래서 고리는 건드려지지 않고 α-탄소만 brominate된다.[10]
 
@@ -194,7 +194,7 @@ LDA(lithium diisopropylamide)는 부피가 큰 강염기라 가장 덜 least hin
 
 ![silyl enol ether가 Br₂를 공격한 뒤 Br⁻가 Si를 공격해 Me₃SiBr이 떨어지는 메커니즘](../../figures/L10/silyl_enol_bromination.svg)
 
-*그림: 슬라이드 위쪽 반응식의 R–CH₂–C(OSiMe₃)=CH₂로 그렸다(슬라이드의 메커니즘 그림은 일반적인 고리 ketone, X₂로 그렸으나 과정은 같다). 왼쪽 화살표 셋은 enol bromination 그림과 같다. 산소 전자쌍이 밀어 주고, C=C(파랑)가 Br(빨강)을 공격하고, Br⁻가 떨어진다. 가운데 silyl oxocarbenium(C=O⁺–SiMe₃)은 앞 그림의 C=O⁺–H 자리에 SiMe₃가 들어간 모양이다. 이번에는 Br⁻(파랑)가 Si를 공격하고 O–Si 결합 전자가 산소로 돌아가 Me₃SiBr이 떨어진다. 초록색이 새 C–Br 결합이다.*
+그림: 슬라이드 위쪽 반응식의 R–CH₂–C(OSiMe₃)=CH₂로 그렸다(슬라이드의 메커니즘 그림은 일반적인 고리 ketone, X₂로 그렸으나 과정은 같다). 왼쪽 화살표 셋은 enol bromination 그림과 같다. 산소 전자쌍이 밀어 주고, C=C(파랑)가 Br(빨강)을 공격하고, Br⁻가 떨어진다. 가운데 silyl oxocarbenium(C=O⁺–SiMe₃)은 앞 그림의 C=O⁺–H 자리에 SiMe₃가 들어간 모양이다. 이번에는 Br⁻(파랑)가 Si를 공격하고 O–Si 결합 전자가 산소로 돌아가 Me₃SiBr이 떨어진다. 초록색이 새 C–Br 결합이다.
 
 (출처: L10 p.10)
 
@@ -210,7 +210,7 @@ enol의 산소 대신 질소가 붙어 있으면 어떻게 될까? 그것이 ena
 
 ![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
 
-*그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.*
+그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.
 
 왜 2차 amine이어야 할까? amine이 carbonyl에 붙고 물이 빠지면 iminium 이온이 생기는데, 2차 amine에서 온 iminium은 질소에 H가 없어서 중성 imine이 될 수 없다. 그래서 대신 α-C–H에서 H⁺를 잃고 enamine이 된다.[12]
 
@@ -218,7 +218,7 @@ alkylation 단계는 enol bromination과 같은 그림이다. 질소의 비공�
 
 ![Stork enamine alkylation: enamine의 α-탄소가 R–X를 공격해 iminium 이온이 되는 메커니즘](../../figures/L10/stork_alkylation.svg)
 
-*그림: cyclohexanone과 pyrrolidine으로 만든 enamine(파랑, nucleophile)과 R–X(빨강, electrophile). 화살표 셋은 (1) 질소의 비공유 전자쌍이 C–N 쪽으로 밀어 C=N⁺를 만들고 (2) C=C의 π 전자가 R의 탄소를 공격하며(S_N2) (3) R–X 결합 전자가 X로 가서 X⁻가 떨어지는 과정이다. 오른쪽 iminium 이온(빨간 C=N⁺)의 초록색이 새 C–R 결합이다. 이후 가수분해 단계는 슬라이드가 교재로 미루므로 그리지 않았다.*
+그림: cyclohexanone과 pyrrolidine으로 만든 enamine(파랑, nucleophile)과 R–X(빨강, electrophile). 화살표 셋은 (1) 질소의 비공유 전자쌍이 C–N 쪽으로 밀어 C=N⁺를 만들고 (2) C=C의 π 전자가 R의 탄소를 공격하며(S_N2) (3) R–X 결합 전자가 X로 가서 X⁻가 떨어지는 과정이다. 오른쪽 iminium 이온(빨간 C=N⁺)의 초록색이 새 C–R 결합이다. 이후 가수분해 단계는 슬라이드가 교재로 미루므로 그리지 않았다.
 
 enol과 비교하면 enamine의 장점이 보인다. enamine은 중성이면서도 enol보다 친핵성이 크다. 질소가 산소보다 전자를 잘 내주기 때문이다. 또 alkylation 뒤 생기는 iminium은 양전하를 띠어 더 이상 nucleophile로 작용하지 않으므로 다중 alkylation이 억제된다.[14]
 
@@ -238,11 +238,11 @@ aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자�
 
 ![pentanal + (i-Bu)2NH → enamine](../../figures/L10/enamine_pentanal.svg)
 
-*그림: aldehyde의 enamine(초록 C=C).*
+그림: aldehyde의 enamine(초록 C=C).
 
 ![enamine + BrCH2CO2Et → α-alkylated aldehyde](../../figures/L10/enamine_pentanal_alkylation.svg)
 
-*그림: enamine β-C(파랑)가 C–Br(빨강)을 SN2로 공격하고, 가수분해로 aldehyde가 돌아온다.*
+그림: enamine β-C(파랑)가 C–Br(빨강)을 SN2로 공격하고, 가수분해로 aldehyde가 돌아온다.
 
 diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공격해 α-탄소에 –CH₂CO₂Et가 붙고, 물로 가수분해하면 ethyl 3-formylhexanoate가 된다.
 
@@ -256,7 +256,7 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 
 ![enamine을 이용한 aldehyde의 α-allylation (3/3)](../../figures/L10/stork_enamine_aldehyde_3.svg)
 
-*그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.*
+그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.
 
 
 생성물인 2-allyl-2-ethylhexanal(2-ethyl-2-(prop-2-en-1-yl)hexanal)에서는 α-탄소가 4차 quaternary carbon이 된다. 즉 enamine을 쓰면 가지 달린 aldehyde에도 치환기를 하나 더 넣을 수 있다.
@@ -273,7 +273,7 @@ enamine을 화학양론적으로 만들어 쓰지 않고, amine을 촉매로 돌
 
 ![acetone + 4-nitrobenzaldehyde → (R)-aldol (L-proline)](../../figures/L10/proline_aldol.svg)
 
-*그림: enamine 촉매 비대칭 aldol.*
+그림: enamine 촉매 비대칭 aldol.
 
 acetone이 enamine(nucleophile)이 되고, aldehyde가 electrophile다. 생성물은 CH₃CO–CH₂–CH(OH)–Ar이다. 다른 aldehyde로 넓혀 본 결과는 아래와 같다.
 

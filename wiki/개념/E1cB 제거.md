@@ -26,7 +26,7 @@ E2는 H와 leaving group이 한 번에 떨어지고, E1은 leaving group이 먼�
 
 ![aldol의 α-H가 떨어져 enolate가 되고 β-OH가 HO⁻로 떨어져 2-butenal이 되는 E1cB 탈수 메커니즘](../../figures/L08/aldol_e1cb.svg)
 
-*그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(conjugate base, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 conjugation 안정화 덕분에 앞으로 진행된다. (출처: L8 p.10)*
+그림: 왼쪽 단계에서 HO⁻(파랑)가 산성 α-H(빨강)를 떼고, C–H 결합 전자가 C–C 쪽으로 옮겨 가며, C=O π 전자가 산소로 올라가 enolate(conjugate base, cB)가 된다. 가운데 단계에서는 O⁻의 전자쌍이 C=O를 다시 만들고, enolate의 C=C(파랑) 전자가 Cα–Cβ 사이로 내려와 새 이중결합을 만들며, C–OH 결합(빨강) 전자가 산소로 가서 HO⁻가 떨어진다. 초록 결합이 C=O와 공액된 새 C=C다. 첫 단계는 평형이고, 둘째 단계는 conjugation 안정화 덕분에 앞으로 진행된다. (출처: L8 p.10)
 
 ## 예
 
@@ -35,7 +35,7 @@ E2는 H와 leaving group이 한 번에 떨어지고, E1은 leaving group이 먼�
 
 ![amine 염기에 의한 Fmoc의 E1cB 제거](../../figures/L12/fmoc_removal.svg)
 
-*그림: NR₃가 fluorene 9번 H를 떼고(가역), 생긴 aromatic anion의 전자쌍이 C9=CH₂를 만들며 CH₂–O 결합이 끊어진다.*
+그림: NR₃가 fluorene 9번 H를 떼고(가역), 생긴 aromatic anion의 전자쌍이 C9=CH₂를 만들며 CH₂–O 결합이 끊어진다.
 
 ## 비교: 산 조건 탈수는 다르다
 

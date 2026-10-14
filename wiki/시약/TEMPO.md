@@ -36,7 +36,7 @@ TEMPO 자체가 alcohol을 산화하는 것이 아니다.
 
 ![TEMPO 산화의 부가물에서 분자 내 α-H 제거로 aldehyde와 hydroxylamine이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-*그림: 4단계. N에 붙은 O⁻(파랑)가 α-H(빨강)를 떼어 가고, N⁺–O 결합 전자는 N으로 돌아간다. 초록 C=O가 새 결합이다.*
+그림: 4단계. N에 붙은 O⁻(파랑)가 α-H(빨강)를 떼어 가고, N⁺–O 결합 전자는 N으로 돌아간다. 초록 C=O가 새 결합이다.
 
 Stahl 계에서는 Cu(I)가 TEMPO-H와 ½ O₂로 Cu(II)–OH와 TEMPO•가 되고, 이 둘이 함께 alcohol을 산화하며 Cu(I)와 TEMPO-H로 돌아간다. 결국 O₂가 물이 된다. (출처: L6c p.13)
 

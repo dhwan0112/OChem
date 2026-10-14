@@ -21,7 +21,7 @@ diene에는 전자적 성질 말고도 중요한 조건이 하나 더 있다. �
 
 ![butadiene의 s-trans와 s-cis conformation: s-cis만 methyl acrylate와 DA 반응을 할 수 있다](../../figures/L13/s_cis_s_trans.svg)
 
-*그림: 초록색은 회전하는 C2–C3 단일 결합, 파란색은 diene의 π 결합, 빨간색은 dienophile(methyl acrylate)의 π 결합이다. 왼쪽 s-trans는 더 안정하지만 C1과 C4가 멀어 dienophile의 양 끝에 동시에 닿지 못한다. C2–C3 결합이 빠르게 회전해 s-cis가 되면 C1과 C4가 가까워지고, 주황색 굽은 화살표 셋이 기본 DA 그림(→ [Diels–Alder reaction](../반응/딜스-알더%20반응.md))과 같은 방향으로 돌며 고리가 닫힌다.*
+그림: 초록색은 회전하는 C2–C3 단일 결합, 파란색은 diene의 π 결합, 빨간색은 dienophile(methyl acrylate)의 π 결합이다. 왼쪽 s-trans는 더 안정하지만 C1과 C4가 멀어 dienophile의 양 끝에 동시에 닿지 못한다. C2–C3 결합이 빠르게 회전해 s-cis가 되면 C1과 C4가 가까워지고, 주황색 굽은 화살표 셋이 기본 DA 그림(→ [Diels–Alder reaction](../반응/딜스-알더%20반응.md))과 같은 방향으로 돌며 고리가 닫힌다.
 
 ## 고정된 diene
 

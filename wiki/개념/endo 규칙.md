@@ -15,7 +15,7 @@ stereospecificity가 **한 반응물 안**의 치환기끼리의 관계를 정�
 
 ![cyclopentadiene + maleic anhydride의 endo adduct(생성)과 exo adduct(생성 안 됨)](../../figures/L13/endo_exo.svg)
 
-*그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.*
+그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.
 
 ## 원리
 
@@ -31,7 +31,7 @@ TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. �
 
 ![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
 
-*그림: 위가 cyclopentadiene($CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+그림: 위가 cyclopentadiene($CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
 ### endo는 kinetic product다
 
