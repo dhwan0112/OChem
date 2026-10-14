@@ -8,7 +8,7 @@
   "products": [
    "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
   ],
-  "conditions": "H2, CO, Rh cat.",
+  "conditions": "H₂, CO, Rh cat.",
   "below": "(S,S)-Chiraphos",
   "note": "L06",
   "line": 52,
@@ -25,7 +25,7 @@
   "products": [
    "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
   ],
-  "conditions": "H2, CO, Rh cat.",
+  "conditions": "H₂, CO, Rh cat.",
   "below": "(R,R)-Chiraphos",
   "note": "L06",
   "line": 53,
@@ -59,7 +59,7 @@
   "products": [
    "C[CH:3](C)C1CCC(C)CC1O"
   ],
-  "conditions": "H2, Ni cat.",
+  "conditions": "H₂, Ni cat.",
   "below": "",
   "note": "L06",
   "line": 54,
@@ -77,7 +77,7 @@
    "Cc1ccccc1[S:3](=O)(=O)Cl",
    "Cc1ccc([S:3](=O)(=O)Cl)cc1"
   ],
-  "conditions": "ClSO2OH",
+  "conditions": "ClSO₂OH",
   "below": "o ~40%, p ~15%",
   "note": "L06",
   "line": 257,
@@ -94,7 +94,7 @@
   "products": [
    "Cc1ccccc1S(=O)(=O)[NH2:3]"
   ],
-  "conditions": "(NH4)2CO3",
+  "conditions": "(NH₄)₂CO₃",
   "below": "89%",
   "note": "L06",
   "line": 257,
@@ -111,7 +111,7 @@
   "products": [
    "O=[C:3]([OH])c1ccccc1S(N)(=O)=O"
   ],
-  "conditions": "KMnO4",
+  "conditions": "KMnO₄",
   "below": "",
   "note": "L06",
   "line": 257,

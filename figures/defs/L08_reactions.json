@@ -29,7 +29,7 @@
    "O=C1CCC[C:3]1=[C:3]1CCCC1",
    "O"
   ],
-  "conditions": "H+",
+  "conditions": "H⁺",
   "below": "",
   "note": "L08",
   "line": 133,
@@ -47,7 +47,7 @@
    "O=[CH:3]c1ccccc1",
    "[CH3:3]C=O"
   ],
-  "conditions": "K2CO3",
+  "conditions": "K₂CO₃",
   "below": "reflux",
   "note": "L08",
   "line": 168,
@@ -66,7 +66,7 @@
    "CC[CH:3](O)[CH2:3]C(C)=O"
   ],
   "conditions": "1. LDA, THF, −78 °C",
-  "below": "2. EtCHO; 3. H2O",
+  "below": "2. EtCHO; 3. H₂O",
   "note": "L08",
   "line": 210,
   "wiki": "반응/교차 알돌 반응",
@@ -84,7 +84,7 @@
    "CCC(=O)[CH2:3][CH:3](C)O"
   ],
   "conditions": "1. LDA, THF, −78 °C",
-  "below": "2. CH3CHO; 3. H2O; 75%",
+  "below": "2. CH₃CHO; 3. H₂O; 75%",
   "note": "L08",
   "line": 211,
   "wiki": "반응/교차 알돌 반응",
@@ -138,7 +138,7 @@
    "CC/C=C/C(=O)[CH2:3][CH:3](O)c1ccccc1"
   ],
   "conditions": "1. LDA",
-  "below": "2. PhCHO; 3. H2O",
+  "below": "2. PhCHO; 3. H₂O",
   "note": "L08",
   "line": 231,
   "wiki": "반응/교차 알돌 반응",
@@ -154,7 +154,7 @@
   "products": [
    "C[C:3]1=C(O[Si](C)(C)C)CCCC1"
   ],
-  "conditions": "TMSCl, Et3N",
+  "conditions": "TMSCl, Et₃N",
   "below": "thermodynamic",
   "note": "L08",
   "line": 250,
@@ -171,7 +171,7 @@
   "products": [
    "C[C:3](C)=[CH:3]O[Si](C)(C)C"
   ],
-  "conditions": "Me3SiCl, Et3N",
+  "conditions": "Me₃SiCl, Et₃N",
   "below": "",
   "note": "L08",
   "line": 285,
@@ -189,7 +189,7 @@
   "products": [
    "O=C[C:3](C)(C)[CH:3](O)CCc1ccccc1"
   ],
-  "conditions": "TiCl4",
+  "conditions": "TiCl₄",
   "below": "95%",
   "note": "L08",
   "line": 285,
@@ -206,7 +206,7 @@
   "products": [
    "C/[CH:3]=[C:3](/CC)O[Si](C)(C)C"
   ],
-  "conditions": "Me3SiCl, Et3N",
+  "conditions": "Me₃SiCl, Et₃N",
   "below": "",
   "note": "L08",
   "line": 286,
@@ -224,7 +224,7 @@
   "products": [
    "CCC(C)[CH:3](O)[CH:3](C)C(=O)CC"
   ],
-  "conditions": "TiCl4",
+  "conditions": "TiCl₄",
   "below": "92%",
   "note": "L08",
   "line": 286,
@@ -259,7 +259,7 @@
   "products": [
    "C[C:3](O[Si](C)(C)C)=[CH:3]c1ccccc1"
   ],
-  "conditions": "Me3SiCl, Et3N",
+  "conditions": "Me₃SiCl, Et₃N",
   "below": "",
   "note": "L08",
   "line": 287,
@@ -277,7 +277,7 @@
   "products": [
    "CCOC(=O)[C:3](=[CH:3]C(C)C)C(=O)OCC"
   ],
-  "conditions": "R2NH, HOAc",
+  "conditions": "R₂NH, HOAc",
   "below": "92%",
   "note": "L08",
   "line": 297,
@@ -367,7 +367,7 @@
   "products": [
    "O=C(/[CH:3]=[CH:3]/c1ccccc1)c1ccccc1"
   ],
-  "conditions": "HO−, 20 °C",
+  "conditions": "HO⁻, 20 °C",
   "below": "85%",
   "note": "L08",
   "line": 310,
@@ -384,7 +384,7 @@
   "products": [
    "CC(=O)[C:3]1=[CH:3]CCC1"
   ],
-  "conditions": "HO−",
+  "conditions": "HO⁻",
   "below": "73%",
   "note": "L08",
   "line": 324,
@@ -418,7 +418,7 @@
   "products": [
    "CC(=O)[C:3]1=[C:3](C)CCCC1"
   ],
-  "conditions": "H2SO4",
+  "conditions": "H₂SO₄",
   "below": "85%",
   "note": "L08",
   "line": 326,
@@ -437,7 +437,7 @@
    "O=C1CCCC[CH:3]1[CH:3](O)c1ccccc1"
   ],
   "conditions": "1. LDA, THF, −78 °C",
-  "below": "2. PhCHO; 3. H2O",
+  "below": "2. PhCHO; 3. H₂O",
   "note": "L08",
   "line": 424,
   "wiki": "반응/교차 알돌 반응",
@@ -455,7 +455,7 @@
    "CC(C)C(=O)[CH2:3][CH:3](O)CC"
   ],
   "conditions": "1. LDA, THF, −78 °C",
-  "below": "2. EtCHO; 3. H2O",
+  "below": "2. EtCHO; 3. H₂O",
   "note": "L08",
   "line": 426,
   "wiki": "반응/교차 알돌 반응",
@@ -489,7 +489,7 @@
   "products": [
    "CC(C)(C)c1ccc(/[CH:3]=[C:3](\\C)C=O)cc1"
   ],
-  "conditions": "HO− (cat.)",
+  "conditions": "HO⁻ (cat.)",
   "below": "",
   "note": "L08",
   "line": 430,
@@ -506,7 +506,7 @@
   "products": [
    "CC(C)(C)c1ccc([CH2:3][CH:3](C)C=O)cc1"
   ],
-  "conditions": "H2/Pd",
+  "conditions": "H₂/Pd",
   "below": "",
   "note": "L08",
   "line": 430,

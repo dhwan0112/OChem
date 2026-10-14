@@ -9,7 +9,7 @@
   "products": [
    "[C:3]1(=CCCCC1)[N:3]1CCCC1"
   ],
-  "conditions": "cat. H+",
+  "conditions": "cat. H⁺",
   "below": "",
   "note": "L10",
   "line": 205,
@@ -27,7 +27,7 @@
   "products": [
    "CCC/[CH:3]=[CH:3]/N(CC(C)C)CC(C)C"
   ],
-  "conditions": "cat. H+",
+  "conditions": "cat. H⁺",
   "below": "",
   "note": "L10",
   "line": 229,
@@ -46,7 +46,7 @@
    "CCC[CH:3](C=O)[CH2:3]C(=O)OCC"
   ],
   "conditions": "1. MeCN, reflux",
-  "below": "2. H2O",
+  "below": "2. H₂O",
   "note": "L10",
   "line": 229,
   "wiki": "반응/스토크 엔아민 반응",

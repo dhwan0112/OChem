@@ -8,7 +8,7 @@
   "products": [
    "C[C:3]([O-:3])=[CH:3]C(=O)OCC"
   ],
-  "conditions": "EtO−, EtOH",
+  "conditions": "EtO⁻, EtOH",
   "below": "",
   "note": "L09",
   "line": 109,
@@ -27,7 +27,7 @@
    "CCO"
   ],
   "conditions": "1. NaOEt",
-  "below": "2. H+",
+  "below": "2. H⁺",
   "note": "L09",
   "line": 181,
   "wiki": "반응/디크만 축합",
@@ -45,7 +45,7 @@
    "CCOC(=O)[CH:3]1CCCCCCC1=O"
   ],
   "conditions": "NaOEt",
-  "below": "then H3O+",
+  "below": "then H₃O⁺",
   "note": "L09",
   "line": 265,
   "wiki": "반응/교차 클라이젠 축합",

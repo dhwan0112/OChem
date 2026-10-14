@@ -10,7 +10,7 @@
    "C1CC[CH:3]2[O:3][CH:3]2C1",
    "O=C([OH])c1cccc(Cl)c1"
   ],
-  "conditions": "CH2Cl2",
+  "conditions": "CH₂Cl₂",
   "below": "95%"
  },
  {
@@ -22,7 +22,7 @@
   "products": [
    "C[C:3](C)([OH:3])[CH2:3][Br:3]"
   ],
-  "conditions": "Br2, H2O",
+  "conditions": "Br₂, H₂O",
   "below": "Markovnikov"
  }
 ]

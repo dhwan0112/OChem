@@ -21,7 +21,7 @@
   "products": [
    "C1CC[C@@H]([Br:3])[C@H]([Br:3])C1"
   ],
-  "conditions": "Br2",
+  "conditions": "Br₂",
   "below": "anti, (±) only"
  },
  {
@@ -33,7 +33,7 @@
   "products": [
    "c1ccccc1[C@@H]([Br:3])[C@H]([OH:3])c1ccccc1"
   ],
-  "conditions": "NBS, H2O/DMSO",
+  "conditions": "NBS, H₂O/DMSO",
   "below": "cat. HBr; anti, (±)"
  },
  {
@@ -70,7 +70,7 @@
   "products": [
    "C[C:3]1([OH:3])CCCCC1"
   ],
-  "conditions": "H2O, H+",
+  "conditions": "H₂O, H⁺",
   "below": "Markovnikov"
  },
  {
@@ -83,7 +83,7 @@
    "C[C:3](C)=[CH2:3]",
    "[OH2]"
   ],
-  "conditions": "H2SO4",
+  "conditions": "H₂SO₄",
   "arrow": "equilibrium",
   "below": "E1 (reverse = hydration)"
  },
@@ -96,8 +96,8 @@
   "products": [
    "c1ccccc1C(C)[CH2:3][OH:3]"
   ],
-  "conditions": "1. BH3, THF",
-  "below": "2. H2O2, NaOH"
+  "conditions": "1. BH₃, THF",
+  "below": "2. H₂O₂, NaOH"
  },
  {
   "out": "figures/L02/cyclohexene_tfa_1.json",
@@ -122,7 +122,7 @@
    "C1CCC([OH:3])CC1",
    "FC(F)(F)C(=O)[O-]"
   ],
-  "conditions": "base, H2O",
+  "conditions": "base, H₂O",
   "below": ""
  }
 ]

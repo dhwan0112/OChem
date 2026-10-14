@@ -45,7 +45,7 @@
    "C[C:3]1(C)CC(=O)CC(C)(C)C1"
   ],
   "conditions": "MeMgBr, CuCl (cat.)",
-  "below": "Et2O; 83%",
+  "below": "Et₂O; 83%",
   "note": "L11",
   "line": 105,
   "wiki": "시약/유기구리 시약",
@@ -97,7 +97,7 @@
   "products": [
    "c1ccccc1/C=C/[CH2:3][OH:3]"
   ],
-  "conditions": "NaBH4, EtOH",
+  "conditions": "NaBH₄, EtOH",
   "below": "97%",
   "note": "L11",
   "line": 148,
@@ -114,7 +114,7 @@
   "products": [
    "O[CH:3]1[CH2:3][CH2:3]CC1"
   ],
-  "conditions": "NaBH4, EtOH",
+  "conditions": "NaBH₄, EtOH",
   "below": "99%",
   "note": "L11",
   "line": 149,
@@ -131,8 +131,8 @@
   "products": [
    "C[C:3]1([OH:3])C=CCCC1"
   ],
-  "conditions": "1. CH3MgBr or CH3Li",
-  "below": "2. H3O+; 95%",
+  "conditions": "1. CH₃MgBr or CH₃Li",
+  "below": "2. H₃O⁺; 95%",
   "note": "L11",
   "line": 160,
   "wiki": "개념/1,2-첨가와 1,4-첨가",
@@ -167,7 +167,7 @@
    "CC(C)=C[CH:3](O)[C:3](C)(C)C(=O)OCC"
   ],
   "conditions": "1. LDA, −78 °C, THF",
-  "below": "2. (CH3)2C=CHCHO; 72%",
+  "below": "2. (CH₃)₂C=CHCHO; 72%",
   "note": "L11",
   "line": 260,
   "wiki": "개념/1,2-첨가와 1,4-첨가",
@@ -220,7 +220,7 @@
   "products": [
    "[O-][N+](=O)[CH:3](c1ccccc1)[CH:3]1CCCC(=O)C1"
   ],
-  "conditions": "Al2O3, neat",
+  "conditions": "Al₂O₃, neat",
   "below": "92%",
   "note": "L11",
   "line": 284,
@@ -238,7 +238,7 @@
   "products": [
    "COC(=O)C[CH:3]1CCCC[CH:3]1[N+](=O)[O-]"
   ],
-  "conditions": "Cs2CO3, DMF",
+  "conditions": "Cs₂CO₃, DMF",
   "below": "65%",
   "note": "L11",
   "line": 285,
@@ -257,7 +257,7 @@
    "O=C1CCCC[CH:3]1[CH2:3]C(SC)C(=O)OC"
   ],
   "conditions": "MeCN",
-  "below": "then H2O; 95%",
+  "below": "then H₂O; 95%",
   "note": "L11",
   "line": 316,
   "wiki": "반응/스토크 엔아민 반응",
@@ -274,8 +274,8 @@
   "products": [
    "O=C1CCCC[CH:3]1[CH2:3]C(S(=O)(=O)c1ccccc1)C(C)=O"
   ],
-  "conditions": "SiO2, THF",
-  "below": "then H2O; 75%",
+  "conditions": "SiO₂, THF",
+  "below": "then H₂O; 75%",
   "note": "L11",
   "line": 317,
   "wiki": "반응/스토크 엔아민 반응",
