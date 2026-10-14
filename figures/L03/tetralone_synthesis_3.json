@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "O=C(O)CCCc1ccccc1"
+    ],
+    "products": [
+     "O=C1CCCc2ccccc12"
+    ],
+    "conditions": "H₃PO₄"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C=CC(C)=O"
+    ],
+    "products": [
+     "C=CC(C)(O)C#N"
+    ],
+    "conditions": "NaCN/HCN, 5 °C"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

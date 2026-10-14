@@ -117,7 +117,13 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 3. Et3N이 S-methyl의 H를 떼어 내 sulfonium 일리드를 만든다.
 4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 α-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
 
-![Swern oxidation 단계별 중간체](../../figures/L06/swern_steps.svg)
+![Swern oxidation 단계별 중간체 (1/4)](../../figures/L06/swern_steps_1.svg)
+
+![Swern oxidation 단계별 중간체 (2/4)](../../figures/L06/swern_steps_2.svg)
+
+![Swern oxidation 단계별 중간체 (3/4)](../../figures/L06/swern_steps_3.svg)
+
+![Swern oxidation 단계별 중간체 (4/4)](../../figures/L06/swern_steps_4.svg)
 
 *그림: 보충: DMSO와 $(COCl)_2$가 chlorosulfonium ion($Me_2S^+Cl$)을 만들고($CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$로 쪼개진다.*
 

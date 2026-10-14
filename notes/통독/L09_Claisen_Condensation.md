@@ -59,7 +59,15 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 2 CH3CO2Et --[NaOEt]--> 소듐 acetoacetate [CH3CO–CH⁻–CO2Et] Na⁺ + EtOH --[HCl]--> ethyl acetoacetate(acetoacetic ester) CH3COCH2CO2Et, 76%
 
-![ethyl acetate의 Claisen condensation 단계](../../figures/L09/claisen_steps.svg)
+![ethyl acetate의 Claisen condensation 단계 (1/5)](../../figures/L09/claisen_steps_1.svg)
+
+![ethyl acetate의 Claisen condensation 단계 (2/5)](../../figures/L09/claisen_steps_2.svg)
+
+![ethyl acetate의 Claisen condensation 단계 (3/5)](../../figures/L09/claisen_steps_3.svg)
+
+![ethyl acetate의 Claisen condensation 단계 (4/5)](../../figures/L09/claisen_steps_4.svg)
+
+![ethyl acetate의 Claisen condensation 단계 (5/5)](../../figures/L09/claisen_steps_5.svg)
 
 *그림: 보충: ester enolate가 두 번째 ester를 공격해 tetrahedral intermediate가 되고, $EtO^-$가 떨어져 ethyl acetoacetate가 된다. 앞 단계들은 가역이지만, 두 carbonyl 사이 C–H($pK_a$ 약 11)를 $EtO^-$가 떼는 마지막 탈양성자화가 평형을 끌어당긴다. $H_3O^+$ 후처리로 중성 생성물을 얻는다.*
 

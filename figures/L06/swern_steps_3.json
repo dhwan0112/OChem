@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C[S+](C)OC1CCCCC1"
+    ],
+    "products": [
+     "[CH2-][S+](C)OC1CCCCC1"
+    ],
+    "conditions": "Et₃N"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

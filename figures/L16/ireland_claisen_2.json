@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CC=C(O[Si](C)(C)C)OCC=C"
+    ],
+    "products": [
+     "C=CCC(C)C(=O)O[Si](C)(C)C"
+    ],
+    "conditions": "Δ, [3,3]"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "c1ccccc1",
+     "O=C1CCC(=O)O1"
+    ],
+    "products": [
+     "O=C(O)CCC(=O)c1ccccc1"
+    ],
+    "conditions": "AlCl₃"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

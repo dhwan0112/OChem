@@ -1,0 +1,20 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     {
+      "smiles": "Br[Mg]CCCC1(C)OCCO1",
+      "rotation": 180
+     }
+    ],
+    "products": [
+     "OC(CCCC1(C)OCCO1)CCCC1(C)OCCO1"
+    ],
+    "conditions": "HCO₂Et; H₂O"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

@@ -103,7 +103,11 @@ amine을 만드는 가장 강력하고 범용적인 방법이 환원성 아미�
 - `PhCHO --[(1) CH3CH2NH2; (2) LiBH3CN]--> N-벤질에탄아민 PhCH2NHCH2CH3 (89%)`
 - `사이클로헥산온 --[(1) (CH3)2NH; (2) NaBH3CN]--> N,N-다이메틸사이클로헥산아민 (52-54%)`
 
-![reductive amination](../../figures/L05/reductive_amination_scheme.svg)
+![reductive amination (1/3)](../../figures/L05/reductive_amination_scheme_1.svg)
+
+![reductive amination (2/3)](../../figures/L05/reductive_amination_scheme_2.svg)
+
+![reductive amination (3/3)](../../figures/L05/reductive_amination_scheme_3.svg)
 
 *그림: 보충: ketone과 2차 amine이 산 촉매로 물을 잃고 iminium ion이 되고, $NaBH_3CN$이 C=N⁺만 골라 환원해 3차 amine이 된다. 아래는 $NH_3$, $H_2$/Ni로 benzaldehyde에서 1차 amine을 얻는 예.*
 

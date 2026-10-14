@@ -228,7 +228,11 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 2. --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
 3. --[H₃PO₄]--> α-테트랄론(1-테트랄론, 3,4-dihydronaphthalene-1(2*H*)-온)
 
-![α-tetralone 합성 3단계](../../figures/L03/tetralone_synthesis.svg)
+![α-tetralone 합성 3단계 (1/3)](../../figures/L03/tetralone_synthesis_1.svg)
+
+![α-tetralone 합성 3단계 (2/3)](../../figures/L03/tetralone_synthesis_2.svg)
+
+![α-tetralone 합성 3단계 (3/3)](../../figures/L03/tetralone_synthesis_3.svg)
 
 *그림: 보충: succinic anhydride와 benzene의 Friedel–Crafts acylation($AlCl_3$) → Clemmensen 환원($Zn(Hg)$, $HCl$) → 분자내 Friedel–Crafts acylation($H_3PO_4$)으로 α-tetralone이 된다.*
 

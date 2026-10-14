@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "C1CCC2OC2C1"
+    ],
+    "products": [
+     "O[C@@H]1CCCC[C@H]1O"
+    ],
+    "conditions": "H₂O, HClO₄"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

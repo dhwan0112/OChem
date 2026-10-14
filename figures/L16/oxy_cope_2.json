@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "OC=CCCC=C"
+    ],
+    "products": [
+     "O=CCCCC=C"
+    ],
+    "conditions": "keto–enol"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

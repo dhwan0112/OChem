@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCCCC(CC)(CC=C)C=[N+]1CCCC1"
+    ],
+    "products": [
+     "CCCCC(CC)(CC=C)C=O"
+    ],
+    "conditions": "H₂O"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

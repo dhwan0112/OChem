@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(C)=O"
+    ],
+    "products": [
+     "CCOC(=O)[CH2-]"
+    ],
+    "conditions": "EtO⁻"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}

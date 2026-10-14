@@ -227,7 +227,11 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 
 `OHC–CH(Et)(n-Bu) --[피롤리딘, cat. H⁺]--> 피롤리딘–CH=C(Et)(n-Bu) --[1. CH₂=CH–CH₂Br, reflux MeCN; 2. H₂O]--> OHC–C(Et)(n-Bu)(CH₂CH=CH₂)`
 
-![enamine을 이용한 aldehyde의 α-allylation](../../figures/L10/stork_enamine_aldehyde.svg)
+![enamine을 이용한 aldehyde의 α-allylation (1/3)](../../figures/L10/stork_enamine_aldehyde_1.svg)
+
+![enamine을 이용한 aldehyde의 α-allylation (2/3)](../../figures/L10/stork_enamine_aldehyde_2.svg)
+
+![enamine을 이용한 aldehyde의 α-allylation (3/3)](../../figures/L10/stork_enamine_aldehyde_3.svg)
 
 *그림: 보충: α-가지 aldehyde와 pyrrolidine이 enamine을 만들고, enamine의 β-탄소가 allyl bromide를 $S_N2$로 공격해 iminium ion이 된다. 물로 가수분해하면 4차 α-탄소를 가진 aldehyde가 남는다.*
 

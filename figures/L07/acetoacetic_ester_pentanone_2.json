@@ -1,0 +1,17 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(=O)C(CC)C(C)=O"
+    ],
+    "products": [
+     "OC(=O)C(CC)C(C)=O"
+    ],
+    "conditions": "NaOH, Δ; H₃O⁺"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}
