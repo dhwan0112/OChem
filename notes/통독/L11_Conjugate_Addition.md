@@ -189,6 +189,11 @@ methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도�
 - `MVK --[NaCN, HCN, 5–10 °C]--> 사이아노하이드린 (CH2=CH-C(OH)(CN)-CH3)`: carbonyl에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
 - `MVK --[NaCN, HCN, 80 °C]--> NC-CH2CH2-CO-CH3 (4-oxopentanenitrile)`: **1,4 생성물**. 이것이 **thermodynamic 생성물(thermodynamic product, P2)**이다.
 
+![MVK에 대한 cyanide의 1,2- vs 1,4-첨가](../../figures/L11/mvk_cyanide.svg)
+
+*그림: 보충: 저온에서는 빠른 1,2-첨가(cyanohydrin, kinetic product)가, 80 °C에서는 가역적인 1,2-첨가가 되돌아가고 더 안정한 1,4-첨가 생성물(4-oxopentanenitrile, thermodynamic product)이 쌓인다.*
+
+
 왜 그럴까? 에너지 도표로 보면 1,2-첨가의 활성화 에너지(EA1, TS1)가 1,4-첨가(EA2, TS2)보다 낮다. 그래서 저온에서는 빨리 생기는 P1이 쌓인다. 그런데 P2가 에너지상 더 낮다. 두 경로 모두 C-C σ 결합 하나를 얻지만, 1,2-첨가는 C=O π 결합(약 369 kJ/mol)을 잃고 1,4-첨가는 C=C π 결합(약 280 kJ/mol)을 잃는다. 즉 1,4는 더 약한 결합을 희생하고 강한 C=O를 보존하니 더 안정하다. 고온에서는 가역적인 1,2-첨가가 풀렸다가 다시 일어나기를 반복하면서 결국 안정한 P2로 모인다.
 
 보충: 그렇다면 1,2가 "왜" 더 빠를까? β-탄소도 δ+를 띠지만 carbonyl 탄소가 더 큰 양전하를 띠므로, 음전하를 띤 CN-는 정전기적으로 carbonyl 탄소에 더 빨리 끌린다. 그리고 결정적인 차이는 **가역성**이다. cyanohydrin 형성은 가역이라 평형 속에 늘 출발 enone이 조금 남아 있고, 이 enone이 가끔 1,4-첨가를 하면 그 생성물은 (사실상) 되돌아오지 않는다. 그 결과 1,4 생성물이 조금씩 쌓이고, enone–cyanohydrin 평형이 이를 보충하느라 cyanohydrin이 점점 소모된다. 실온에서도 원리상 일어나지만 매우 느리고, 80 °C에서는 몇 시간이면 끝난다. 같은 논리로 더 높은 온도(예: 160 °C)를 쓰는 예도 있다. (보충 근거: Clayden p.504–505)

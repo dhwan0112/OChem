@@ -208,6 +208,11 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 
 - CH2=CH–CH(OH)–CH2–CH=CH2 --[가열, [3,3]]--> HO–CH=CH–CH2–CH2–CH=CH2 → OHC–CH2–CH2–CH2–CH=CH2
 
+![oxy-Cope rearrangement](../../figures/L16/oxy_cope.svg)
+
+*그림: 보충: hexa-1,5-dien-3-ol이 [3,3] 자리옮김으로 enol이 되고, enol이 aldehyde로 토토머화하면서 반응이 되돌아가지 않는다.*
+
+
 (출처: Clayden p.913–914)
 
 ### 6.3 anion 옥시-Cope: KH로 alkoxide를 만들면 훨씬 빨라진다
@@ -228,6 +233,11 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 2. LDA로 ester의 lithium enolate를 만든다(→ [L7](L07_Enolate_Alkylation.md) LDA). 필요하면 Me3SiCl로 silyl ketene acetal로 바꾼다.
 3. [3,3] 자리옮김으로 γ,δ-unsaturated carboxylic acid의 lithium염(또는 silyl ester)이 생긴다.
 4. H⁺/H2O 후처리로 γ,δ-unsaturated carboxylic acid을 얻는다.
+
+![Ireland–Claisen rearrangement](../../figures/L16/ireland_claisen.svg)
+
+*그림: 보충: allyl ester를 LDA로 enolate로 만들고 $Me_3SiCl$로 잡아 silyl ketene acetal을 얻는다. [3,3] 자리옮김으로 silyl ester가 되고, 산 처리하면 γ,δ-unsaturated carboxylic acid가 된다.*
+
 
 R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라고 부른다. 치환기가 알맞게 놓이면 단순 Claisen과 같은 이유(의자형 TS, 적도 R)로 *E* 선택성을 보인다. (출처: Clayden p.914)
 

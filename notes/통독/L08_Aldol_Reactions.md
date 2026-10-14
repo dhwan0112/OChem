@@ -65,6 +65,11 @@ acetaldehyde에 NaOEt나 NaOH를 촉매량 넣으면 무슨 일이 생길까? �
 
 2 CH3CHO --[10% NaOH, H2O, 5 °C]--> CH3CH(OH)CH2CHO (3-hydroxybutanal, 50%)
 
+![acetaldehyde의 염기 촉매 aldol 반응](../../figures/L08/aldol_base.svg)
+
+*그림: 보충: $HO^-$가 α-H를 떼어 enolate를 만들고, enolate가 두 번째 acetaldehyde의 carbonyl을 공격해 alkoxide가 된다. 물이 양성자를 주면 3-hydroxybutanal(aldol)이고, 가열하면 E1cB로 물이 빠져 (E)-but-2-enal이 된다.*
+
+
 (출처: L8 p.8)
 
 #### 2.2 메커니즘: 같은 분자가 nucleophile도 되고 electrophile도 된다

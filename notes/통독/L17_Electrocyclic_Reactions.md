@@ -192,6 +192,11 @@ cycloaddition과 시그마트로픽 반응에서 이미 봤듯이, 광화학 조
 
 Wade는 같은 이야기를 7-dehydrocholesterol → 프로비타민 D3로 소개하고, 햇빛을 덜 받는 추운 지방 아이들이 구루병에 걸리기 쉽다고 덧붙인다. (출처: Wade p.693)
 
+![7-dehydrocholesterol에서 vitamin D3까지](../../figures/L17/vitamin_d_pathway.svg)
+
+*그림: 보충: 햇빛(hν)에서 cyclohexadiene 고리가 6π conrotatory로 열려 previtamin D3(가운데 Z-alkene)가 되고, 이어서 열적 [1,7]-H 이동(antarafacial)으로 vitamin D3가 된다.*
+
+
 ## 6. 자연 속 전자고리화 반응: endiandric acid
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md)

@@ -1,0 +1,28 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "O=C1CCCCC1",
+     "C=P(c1ccccc1)(c1ccccc1)c1ccccc1"
+    ],
+    "products": [
+     "C12(CCCCC1)CP(c1ccccc1)(c1ccccc1)(c1ccccc1)O2"
+    ],
+    "conditions": "[2+2]"
+   },
+   {
+    "reactants": [
+     "C12(CCCCC1)CP(c1ccccc1)(c1ccccc1)(c1ccccc1)O2"
+    ],
+    "products": [
+     "C=C1CCCCC1",
+     "O=P(c1ccccc1)(c1ccccc1)c1ccccc1"
+    ],
+    "conditions": "retro-[2+2]"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}
