@@ -26,6 +26,14 @@
 
 답은 음전하 옆에 붙은 C=O에 있다. `BrCH2CO2R --[PPh3]--> Ph3P+-CH2CO2R --[Na2CO3]--> Ph3P+-CH−-CO2R` 에서 생긴 음전하는 carbonyl 산소까지 퍼져 나가, enolate와 똑같은 모양의 공명 구조(O−가 있는 C=C)를 갖는다. 즉 anion이 안정해진 만큼 C-H가 산성이 되어 약한 염기로도 충분하다. 이렇게 콘쥬게이션하거나 anion을 안정화하는 치환기(R = H, OR, alkyl인 C(=O)R)를 가진 것을 안정화 ylide(stabilized ylide)라 한다.
 
+![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
+
+*그림: $PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다.*
+
+![phosphonium salt → stabilized ylide](../../figures/L06/ylide_ester_2.svg)
+
+*그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.*
+
 HWE(Horner–Wadsworth–Emmons) 반응의 phosphonate도 같다. `(EtO)2P(=O)CH2C(=O)R --[EtO− 또는 NaH]-->` 로 생긴 anion은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[1] 결국 이번 강의의 주인공인 enolate는 이미 한 번 만나 본 셈이다.
 
 (출처: L7 p.3)
@@ -77,6 +85,10 @@ carbonyl 화합물이 α-H를 잃어 생긴 anion이 enolate이고, 음전하가
 ### 1.3 LDA는 왜 "강하지만 친핵성이 없는" 염기인가?
 
 LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 만든다: `n-BuLi + HN(i-Pr)2 --[THF]--> LiN(i-Pr)2 + pKa 50`. BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 산인 butane이 기체로 빠져나가므로 되돌아가지 않는다.
+
+![n-BuLi + diisopropylamine → LDA](../../figures/L07/lda_formation.svg)
+
+*그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다.*
 
 그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-tetramethylpiperidide)와 LHMDS(LiN(SiMe3)2)가 있다.
 
@@ -141,6 +153,10 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 ### 2.3 ester와 락톤도 될까?
 
 된다. ester α-H(pKa ~25)는 ketone보다 덜 산성이지만 LDA로는 충분하다. butanoic acid methyl을 LDA/THF로 enolate화한 뒤 ethyl iodide를 넣으면 2-ethylbutanoic acid methyl이 96%로 얻어진다: `CH3CH2CH2CO2Me --[LDA, THF; CH3CH2I]--> (CH3CH2)2CHCO2Me`.[4]
+
+![methyl butanoate → methyl 2-ethylbutanoate](../../figures/L07/ester_alkylation.svg)
+
+*그림: LDA로 만든 enolate의 α-C가 EtI와 SN2로 새 C–C(초록)를 만든다(96%).*
 
 고리형 ester인 락톤도 마찬가지다. γ-뷰티로락톤을 LDA, 이어서 MeI로 처리하면 88% 수율의 생성물이 생긴다(빈 칸 문제 → 연습 문제 2). 슬라이드는 이어서 CH3CH(CH3)CH(CH2CH3)CO2CH3를 enolate α-치환으로 합성해 보라고 한다(→ 연습 문제 3).
 
@@ -216,6 +232,10 @@ malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 
 ### 4.2 carbonyl이 아니어도 enolate 같은 것이 생기나?
 
 생긴다. 질소를 포함한 작용기들이 그 예다. nitrile은 `PhCH2C≡N --[base]--> [PhCH=C=N− ↔ PhCH−-C≡N]` 처럼 음전하를 질소로 넘길 수 있다. imine(C=N)은 `(CH3)2CH-CH=NPh --[base]--> (CH3)2C=CH-N−Ph` 로 아자-enolate(aza-enolate)를 만든다. nitro 화합물(N=O)은 특히 산성이라 nitro메테인은 Et3N 같은 약한 amine으로도 nitro메테인 anion(CH2=N+(O−)O−)이 된다.
+
+![PhCH2CN → nitrile-stabilized carbanion](../../figures/L07/nitrile_anion.svg)
+
+*그림: 음전하(초록)는 C≡N의 N까지 비편재화된다.*
 
 이들의 공통점을 슬라이드는 한 문장으로 정리한다. π 결합 하나를 가진 전자 끄는 작용기가, 수소를 하나 이상 가진 포화(sp3) 탄소에 붙어 있으면 된다.
 
@@ -356,6 +376,10 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
    - (ii) α-C와 isopropyl 사이: butanoic acid methyl + LDA, 그다음 2-iodopropane(2차 halide).
    - 정답은 (i). (ii)는 2차 halide라 SN2가 느리고 E2 제거와 경쟁하여 수율이 나쁨. 1차 halide(EtI)를 쓰는 (i)가 좋음(슬라이드의 butanoic acid methyl + EtI 96% 예와 같은 유형). (출처: L7 p.10, p.13, p.14)
 
+![methyl 3-methylbutanoate → α-ethyl 생성물](../../figures/L07/ester_alkylation_target.svg)
+
+*그림: enolate α-C와 ethyl 사이에 새 C–C(초록).*
+
 4. 순서:
    1. `아세토아세트산 에틸 --[NaOEt, EtOH; CH3(CH2)3Br]--> 2-뷰틸아세토아세트산 에틸`
    2. `--[NaOEt; CH3(CH2)3Br]--> 2,2-다이뷰틸아세토아세트산 에틸 CH3COC(Bu)2CO2Et` (monoalkyl 생성물에 남은 하나의 활성 α-H를 다시 제거 후 alkylation)
@@ -363,9 +387,33 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
    4. `--[heat, −CO2]--> CH3COCH(Bu)2 = 3-뷰틸-2-헵타논`
    - 해설: acetoacetic ester 합성은 R-X마다 활성 탄소에 R을 하나씩 붙이고, 마지막에 CO2Et가 H로 바뀜. 목표물의 C3에 Bu가 두 개(C4~C7 사슬도 butyl) 있으므로 이중 alkylation. 보충: 1-butyl bromide는 1차라 SN2에 적합. (보충 근거: Clayden p.587) (출처: L7 p.16, p.17, p.20)
 
+![ethyl acetoacetate → ethyl 2-butylacetoacetate](../../figures/L07/aae_1.svg)
+
+*그림: 1단계: 활성 α-C(파랑)를 butyl화(초록).*
+
+![→ ethyl 2,2-dibutylacetoacetate](../../figures/L07/aae_2.svg)
+
+*그림: 2단계: 남은 α-H를 떼고 한 번 더 butyl화.*
+
+![ester 가수분해 → β-keto acid](../../figures/L07/aae_3.svg)
+
+*그림: 3단계: ester(빨강)를 가수분해해 β-keto acid(초록).*
+
+![β-keto acid → 3-butylheptan-2-one](../../figures/L07/aae_4.svg)
+
+*그림: 4단계: 탈카복실화로 $CO_2$가 빠진다.*
+
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
 6. `CH2(CO2Et)2 --[(1) NaOEt; (2) PhCH2Br]--> 벤질말론산 다이에틸 PhCH2CH(CO2Et)2 --[(1) 50% KOH (또는 NaOH), reflux; (2) dil. H2SO4 (또는 H3O+), reflux, −CO2]--> PhCH2CH2COOH`. 해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
+
+![diethyl malonate → diethyl benzylmalonate](../../figures/L07/malonic_1.svg)
+
+*그림: malonate anion(파랑)이 benzyl bromide(빨강)와 새 C–C(초록).*
+
+![diethyl benzylmalonate → 3-phenylpropanoic acid](../../figures/L07/malonic_2.svg)
+
+*그림: 가수분해 뒤 탈카복실화.*
 
 7. 정답: (b), (c), (d), (e).
    - (b) benzaldehyde, (e) pivaldehyde: α-H가 없음(benzaldehyde의 α-C는 방향족 고리 탄소, pivaldehyde의 α-C는 4차) → enolization 불가능.
