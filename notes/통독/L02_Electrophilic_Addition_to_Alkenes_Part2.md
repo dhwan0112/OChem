@@ -119,6 +119,10 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 *그림: anti 첨가라서 trans-1,2-dibromocyclohexane(±)만 생긴다. 파랑 = 반응하는 $\pi$ 결합 또는 친핵체 쪽, 빨강 = 친전자체 쪽(끊어지는 결합, 떠나는 기), 초록 = 새로 생긴 결합과 들어온 기.*
 
+![Br⁻가 bromonium 이온의 반대쪽에서 탄소를 공격해 anti 생성물이 되는 메커니즘](../../figures/L01/bromonium_step2.svg)
+
+*그림: anti 첨가의 근거. Br⁻(파랑)가 bromonium 이온의 탄소(빨강)를 Br⁺의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자가 Br로 가며 고리가 열린다.*
+
 (출처: L2 p.10)
 
 보충: cyclohexene은 고리 안의 이중결합이 *Z*일 수밖에 없어서 "출발 alkene의 기하가 생성물을 결정한다"는 stereospecificity을 직접 보여 주지 못한다. 이것은 2-butene으로 확인한다. *Z*-2-butene에 Br₂를 첨가하면 (2*R*,3*R*)/(2*S*,3*S*)-2,3-dibromobutane **라세미체**만, *E*-2-butene에서는 **메소**-2,3-dibromobutane만 생긴다. 두 경우 모두 anti 첨가이며, 기하 이성질체마다 서로 다른 부분입체이성질체가 하나씩 나온다는 사실 자체가 bromonium 이온 intermediate의 증거다. OsO₄(syn 첨가)와 결과가 정반대라는 점(연습 문제 4번)과 비교해 두면 좋다. (보충 근거: Clayden p.439–440)
@@ -161,6 +165,10 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 ![1-methylcyclohexene + NBS; ROH → anti, OR은 3차 탄소](../../figures/L02/methylcyclohexene_nbs_meoh.svg)
 
 *그림: 1-methylcyclohexene. Br은 2차 탄소(CH)에, OR은 methyl이 붙은 3차 탄소에 anti로 붙는다. 그림의 OR은 예시로 OMe를 그렸다.*
+
+![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
+
+*그림: L1의 isobutene 예와 같은 메커니즘이다. C–Br 결합이 늘어나 3차 탄소에 부분 양전하(δ+)가 쌓이고, alcohol의 O(파랑)가 그 탄소를 Br⁺ 반대쪽에서 공격한 뒤 양성자를 잃는다(−H⁺).*
 
 여기서 alcohol이 **더 붐비는 쪽**을 공격하는 이유는 L1과 같다. 느슨한 S<sub>N</sub>2 transition state에서 그쪽이 부분 양전하를 가장 잘 안정화하기 때문이다. (출처: L2 p.12)
 
