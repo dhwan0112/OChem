@@ -13,7 +13,7 @@
 
 ## 개요
 
-alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 π comment: 그리스문자도 다 $\pi$ 이렇게 수식으로 래핑해. 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
+alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 $\pi$ 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
 
 강의의 질문은 크게 세 가지다.
 1. alkene은 왜, 어떻게 electrophile과 반응하는가? (메커니즘)
@@ -30,8 +30,12 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 포화 화합물(saturated)에서 무언가를 떼어내면 이중결합이 생기고(제거 반응, elimination), 이중결합에 무언가를 붙이면 다시 포화된다(첨가 반응, addition).
 
-- 제거의 예: 2-bromobutane --[NaOEt]--> 2-butene. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다. comment: 이런거도 그려달라고 그림으로. 
+- 제거의 예: 2-bromobutane --[NaOEt]--> 2-butene. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다.
 - 첨가의 예: alkyne --[H₂, 린들라 촉매(Lindlar's catalyst = Pd, CaCO₃, Pb(OAc)₂)]--> *Z*-alkene. 슬라이드 예시에서는 수율 79%, 전부 *Z*였다.
+
+![2-bromobutane의 E2 제거: E-2-butene(주)과 Z-2-butene(부)](../../figures/L01/e2_2_bromobutane.svg)
+
+*그림: 보충: 2-bromobutane의 제거 반응($NaOEt$, $EtOH$). 염기 $EtO^-$(파랑)가 $\beta$-H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.*
 
 린들라 환원이 왜 *Z*만 주는가? 두 수소 원자가 금속 촉매 **표면의 같은 쪽**에서 alkyne에 동시에 올라타기 때문이다(syn 첨가). 같은 면에서 들어오니 두 H가 같은 쪽에 놓이고, 결과적으로 R¹과 R²도 같은 쪽에 남는 *Z*-alkene이 된다. (출처: L1 p.5)
 
@@ -76,7 +80,7 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격하면 다른 쪽 Br이 Br⁻으로 떨어져 나간다.
 
-그런데 alkene에는 음전하가 없다. 무엇이 nucleophile 역할을 할까? 답은 **alkene의 HOMO, 즉 채워진 C=C π 궤도함수**다. 이 전자쌍이 Br₂의 **LUMO, 즉 비어 있는 Br-Br σ\* 궤도함수**로 흘러 들어간다. σ\*에 전자가 차면 Br-Br 결합이 끊어진다. (출처: L1 p.9)
+그런데 alkene에는 음전하가 없다. 무엇이 nucleophile 역할을 할까? 답은 **alkene의 HOMO, 즉 채워진 C=C $\pi$ 궤도함수**다. 이 전자쌍이 Br₂의 **LUMO, 즉 비어 있는 Br-Br $\sigma^*$ 궤도함수**로 흘러 들어간다. $\sigma^*$에 전자가 차면 Br-Br 결합이 끊어진다. (출처: L1 p.9)
 
 ### 3.3 1단계: bromonium 이온 형성
 
@@ -84,9 +88,9 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 ![bromonium 이온 형성 메커니즘: π(HOMO)가 Br–Br σ*(LUMO)를 공격하고, Br의 비공유 전자쌍이 반대쪽 탄소와 결합해 3원 고리가 닫힌다](../../figures/L01/bromonium_step1.svg)
 
-*그림: Br₂가 π 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽(π 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br σ\*, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) π 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.*
+*그림: Br₂가 $\pi$ 결합의 가운데로 end-on 다가온다. 파란색은 nucleophile 쪽($\pi$ 결합, HOMO), 빨간색은 electrophile 쪽(Br–Br $\sigma^*$, LUMO), 주황색 굽은 화살표는 전자쌍의 이동이다. 화살표 셋은 (1) $\pi$ 전자가 가까운 Br로, (2) Br–Br 결합 전자가 먼 Br로(Br⁻로 이탈), (3) 가까운 Br의 비공유 전자쌍이 반대쪽 탄소로 가서 3원 고리를 닫는 과정을 나타낸다.*
 
-π 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 높다. 그리고 π HOMO가 σ\* LUMO와 결합성으로 겹치려면 Br₂가 **end-on** 다가와야 한다.
+$\pi$ 궤도함수의 전자 밀도는 두 탄소의 **정중앙**에서 가장 높다. 그리고 $\pi$ HOMO가 $\sigma^*$ LUMO와 결합성으로 겹치려면 Br₂가 **end-on** 다가와야 한다.
 
 그 결과 Br 원자 하나가 두 탄소에 동시에 걸쳐 앉은 **3원 고리 cation, bromonium 이온**이 생기고 Br⁻ 하나가 떨어져 나간다. 이 단계 덕분에 이 반응을 "이중결합에 대한 electrophilic addition"라 부르며, 여기서 electrophile은 bromine이다. (출처: L1 p.10)
 
@@ -102,7 +106,7 @@ Br-Br 결합은 약하다. 그래서 nucleophile(Nu⁻)가 한쪽 Br을 공격�
 
 bromonium 이온은 양전하를 띤 electrophile이고, 1단계에서 떨어져 나간 Br⁻은 nucleophile다. 이 둘의 반응은 **평범한 S<sub>N</sub>2 치환**이다.
 
-S<sub>N</sub>2이므로 nucleophile은 C-Br σ\* 궤도함수와 최대로 겹치기 위해 **leaving group의 정반대편에서** 일직선으로 들어온다. 그래서 공격받는 탄소의 입체배치가 **inversion** 된다. 결과적으로 두 Br은 서로 반대 면(anti)에 붙는다. 이 "anti 첨가"는 L2에서 cyclohexene bromination의 입체화학으로 다시 다룬다. (출처: L1 p.12)
+S<sub>N</sub>2이므로 nucleophile은 C-Br $\sigma^*$ 궤도함수와 최대로 겹치기 위해 **leaving group의 정반대편에서** 일직선으로 들어온다. 그래서 공격받는 탄소의 입체배치가 **inversion** 된다. 결과적으로 두 Br은 서로 반대 면(anti)에 붙는다. 이 "anti 첨가"는 L2에서 cyclohexene bromination의 입체화학으로 다시 다룬다. (출처: L1 p.12)
 
 보충: Br⁻가 탄소가 아니라 양전하를 띤 Br을 공격할 수도 있을까? 실제로 그럴 수 있지만, 그 결과는 Br₂와 alkene이 다시 생기는 것뿐이다. 즉 1단계(bromonium 이온 형성)는 **가역적**이고, 생성물로 이어지는 길은 탄소를 공격하는 S<sub>N</sub>2뿐이다. 또 bromonium 이온은 "carbocation 옆의 Br이 비공유 전자쌍을 내주어 양전하를 달래 준 구조"로 볼 수도 있다. Br은 주기율표 아래쪽 원소라 비공유 전자쌍이 넓게 퍼져 있어서, 3원 고리의 각 긴장을 감수하고도 이런 안정화가 가능하다. 이 관점은 7.2절의 느슨한 S<sub>N</sub>2 transition state를 이해하는 다리가 된다. (보충 근거: Clayden p.429)
 
@@ -128,12 +132,12 @@ epoxide는 bromonium 이온의 Br⁺ 자리에 O가 들어간 3원 고리라고 
 
 ![과산에 의한 alkene 에폭시화의 협동 메커니즘](../../figures/L01/mcpba_epoxidation.svg)
 
-*그림: 네 개의 화살표가 한 번에 움직인다. (1) π 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.*
+*그림: 네 개의 화살표가 한 번에 움직인다. (1) $\pi$ 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.*
 
 가장 흔히 쓰는 과산은 **mCPBA(*meta*-chloroperoxybenzoic acid)** 다. 결정성 고체라서 비교적 안전하게 다룰 수 있다. 예를 들어 cyclohexene --[mCPBA]--> cyclohexene oxide의 수율은 95%이고, 부산물로 *m*-chlorobenzoic acid이 나온다. (출처: L1 p.14)
 
 메커니즘은 한 번에 일어나는 concerted 과정이다.
-1. alkene의 π 전자가 과산의 말단(친전자성) 산소를 공격한다.
+1. alkene의 $\pi$ 전자가 과산의 말단(친전자성) 산소를 공격한다.
 2. 동시에 약한 O-O 결합이 끊어진다.
 3. 원래 O-H의 수소는 carbonyl 산소로 옮겨가 carboxylic acid 부산물이 된다.
 4. 그 산소의 비공유 전자쌍이 alkene의 다른 탄소와 결합해 3원 고리가 닫힌다.
@@ -146,7 +150,7 @@ transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
 
 ### 4.3 stereospecificity과 반응 속도
 
-두 개의 새 C-O 결합이 π 결합의 **같은 면**에서 동시에 생기므로, alkene의 기하 구조가 epoxide에 그대로 옮겨진다. *trans*-스틸벤은 *trans*-스틸벤 oxide가 되고, *cis*-스틸벤은 *cis* epoxide가 된다. 출발 물질의 입체화학이 생성물의 입체화학을 결정하므로 이 반응은 **stereospecific** 이다. (출처: L1 p.15)
+두 개의 새 C-O 결합이 $\pi$ 결합의 **같은 면**에서 동시에 생기므로, alkene의 기하 구조가 epoxide에 그대로 옮겨진다. *trans*-스틸벤은 *trans*-스틸벤 oxide가 되고, *cis*-스틸벤은 *cis* epoxide가 된다. 출발 물질의 입체화학이 생성물의 입체화학을 결정하므로 이 반응은 **stereospecific** 이다. (출처: L1 p.15)
 
 치환기가 많은 alkene일수록 더 빨리 반응한다. mCPBA에 대한 상대 속도는 다음과 같다.
 
@@ -159,9 +163,9 @@ transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
 | 2-methyl-2-butene (삼치환) | 6500 |
 | 2,3-dimethyl-2-butene (사치환) | >6500 |
 
-이유는 **alkyl group이 전자를 주는 기(electron-donating)** 이기 때문이다. alkyl group이 많을수록 π 결합이 더 친핵성이 된다. (출처: L1 p.15)
+이유는 **alkyl group이 전자를 주는 기(electron-donating)** 이기 때문이다. alkyl group이 많을수록 $\pi$ 결합이 더 친핵성이 된다. (출처: L1 p.15)
 
-보충: 궤도함수로 말하면, 이중결합 옆의 C–H나 C–C σ 결합(채워진 궤도함수)이 π 궤도함수와 상호작용할 때마다 π HOMO의 에너지가 조금씩 올라간다. HOMO가 높을수록 electrophile의 LUMO와 에너지 차이가 줄어 반응이 빨라진다. 이 차이는 합성에 쓸모가 있다. 이중결합이 둘 있는 분자에 mCPBA를 **1 당량만** 넣으면 더 많이 치환된(더 전자가 풍부한) 이중결합만 에폭시화된다. 또 하나가 에폭시화되면 새로 붙은 산소가 전자를 끌어당겨 남은 이중결합의 친핵성을 낮추므로, diene에서 monoepoxide를 얻을 수 있다. (보충 근거: Clayden p.431)
+보충: 궤도함수로 말하면, 이중결합 옆의 C–H나 C–C $\sigma$ 결합(채워진 궤도함수)이 $\pi$ 궤도함수와 상호작용할 때마다 $\pi$ HOMO의 에너지가 조금씩 올라간다. HOMO가 높을수록 electrophile의 LUMO와 에너지 차이가 줄어 반응이 빨라진다. 이 차이는 합성에 쓸모가 있다. 이중결합이 둘 있는 분자에 mCPBA를 **1 당량만** 넣으면 더 많이 치환된(더 전자가 풍부한) 이중결합만 에폭시화된다. 또 하나가 에폭시화되면 새로 붙은 산소가 전자를 끌어당겨 남은 이중결합의 친핵성을 낮추므로, diene에서 monoepoxide를 얻을 수 있다. (보충 근거: Clayden p.431)
 
 ---
 
@@ -172,12 +176,12 @@ transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
 ### 5.1 메커니즘
 
 hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cyclohexene + HBr 반응은 두 단계로 진행된다.
-1. π 결합이 H-Br의 H를 공격한다(친전자성 공격). 그 결과 Br⁻가 떨어지고 carbocation이 생긴다.
+1. $\pi$ 결합이 H-Br의 H를 공격한다(친전자성 공격). 그 결과 Br⁻가 떨어지고 carbocation이 생긴다.
 2. Br⁻가 carbocation을 공격해 bromocyclohexane이 된다.
 
 (출처: L1 p.16)
 
-보충: 왜 Br₂와 달리 HBr에서는 3원 고리 intermediate가 아니라 열린 carbocation이 생길까? bromonium 이온의 고리는 Br의 **비공유 전자쌍**이 반대쪽 탄소와 결합해야 닫힌다. 그런데 H에는 내줄 비공유 전자쌍이 없으므로 고리를 만들 수 없고, 양성자가 붙은 결과는 carbocation으로 그리는 것이 맞다. 그래서 HBr 첨가에는 bromination 같은 anti stereospecificity이 없고, regioselectivity은 오직 cation의 안정성으로 정해진다. 덧붙여 alkene의 protonation은 가역적이어서, 생긴 cation이 다른 β-H를 잃으면 더 안정한 alkene으로 이성질화될 수 있다(산 촉매 alkene 이성질화). (보충 근거: Clayden p.433–434)
+보충: 왜 Br₂와 달리 HBr에서는 3원 고리 intermediate가 아니라 열린 carbocation이 생길까? bromonium 이온의 고리는 Br의 **비공유 전자쌍**이 반대쪽 탄소와 결합해야 닫힌다. 그런데 H에는 내줄 비공유 전자쌍이 없으므로 고리를 만들 수 없고, 양성자가 붙은 결과는 carbocation으로 그리는 것이 맞다. 그래서 HBr 첨가에는 bromination 같은 anti stereospecificity이 없고, regioselectivity은 오직 cation의 안정성으로 정해진다. 덧붙여 alkene의 protonation은 가역적이어서, 생긴 cation이 다른 $\beta$-H를 잃으면 더 안정한 alkene으로 이성질화될 수 있다(산 촉매 alkene 이성질화). (보충 근거: Clayden p.433–434)
 
 ### 5.2 비대칭 alkene이면 어디에 붙는가?
 
@@ -193,7 +197,7 @@ hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cycloh
 
 ![isobutene에 HBr이 첨가되어 3차 carbocation을 거쳐 t-butyl bromide가 되는 메커니즘](../../figures/L01/hbr_markovnikov.svg)
 
-*그림: 1단계: π 결합(파랑)이 H–Br의 H(빨강)를 공격한다. H는 CH₂ 쪽 탄소에 붙고(빨간 H), 양전하는 methyl 두 개가 안정화하는 3차 탄소에 남는다. 2단계: Br⁻가 3차 carbocation을 공격해 *t*-BuBr이 된다(초록 결합).*
+*그림: 1단계: $\pi$ 결합(파랑)이 H–Br의 H(빨강)를 공격한다. H는 CH₂ 쪽 탄소에 붙고(빨간 H), 양전하는 methyl 두 개가 안정화하는 3차 탄소에 남는다. 2단계: Br⁻가 3차 carbocation을 공격해 *t*-BuBr이 된다(초록 결합).*
 
 2-methyl프로펜 + HBr 반응도 같은 원리다. H가 CH₂에 붙어 **3차 carbocation**이 생기므로 생성물은 *tert*-butyl bromide다.
 
@@ -246,7 +250,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-*그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하(δ+)가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.*
+*그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하($\delta^{+}$)가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−H⁺) ether가 된다.*
 
 대칭 bromonium 이온(ethylene에서 생긴 것)이라면 어느 탄소를 공격하든 결과가 같다. 그런데 2-methyl프로펜 --[Br₂, MeOH]--> 반응에서는 methanol이 **더 치환된 쪽(3차 탄소)** 을 공격해 ether를 만든다. (출처: L1 p.22)
 
@@ -276,10 +280,10 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 ## 흔한 오해
 
 - **"Br₂ 첨가에서 Br⁻는 덜 붐비는 탄소를 공격한다"**: 대칭 bromonium 이온에서는 상관이 없다. 비대칭 bromonium 이온에서는 오히려 **더 치환된 탄소**가 공격받는다. 느슨한 S<sub>N</sub>2 transition state에서 양전하가 그쪽에 더 잘 쌓이기 때문이다.
-- **"Markovnikov 규칙은 외워야 하는 규칙이다"**: 이 규칙은 "더 안정한 cation을 거친다"는 원리를 경험적으로 요약한 것일 뿐이다. L2에서 배울 "δ⁻ 원자는 더 치환된 탄소로 간다"도 같은 원리를 다르게 표현한 것이다.
+- **"Markovnikov 규칙은 외워야 하는 규칙이다"**: 이 규칙은 "더 안정한 cation을 거친다"는 원리를 경험적으로 요약한 것일 뿐이다. L2에서 배울 "$\delta^-$ 원자는 더 치환된 탄소로 간다"도 같은 원리를 다르게 표현한 것이다.
 - **"에폭시화는 bromination처럼 2단계로 일어난다"**: 에폭시화는 고리형 transition state를 거치는 **한 단계 협동 반응**이다. 그래서 alkene의 *cis*/*trans* 정보가 그대로 보존된다.
 - **"HBr 첨가도 Br₂처럼 고리형 intermediate를 거쳐 anti로 일어난다"**: H에는 비공유 전자쌍이 없어 3원 고리를 닫을 수 없다. HBr 첨가의 intermediate는 열린 carbocation이다. (보충 근거: Clayden p.433)
-- **"치환기가 많으면 입체 장애 때문에 느릴 것이다"**: mCPBA나 Br₂ 첨가에서는 반대다. alkyl group의 전자 공여로 π 결합이 더 친핵성이 되어 **빨라진다**.
+- **"치환기가 많으면 입체 장애 때문에 느릴 것이다"**: mCPBA나 Br₂ 첨가에서는 반대다. alkyl group의 전자 공여로 $\pi$ 결합이 더 친핵성이 되어 **빨라진다**.
 
 ---
 
@@ -288,8 +292,8 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | halogenation | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti 첨가 | bromonium 이온 → S<sub>N</sub>2 |
-| halohydrin | Br₂, H₂O | β-bromoalcohol | OH는 더 치환된 C에 | anti | 느슨한 S<sub>N</sub>2 |
-| haloether | Br₂, MeOH | β-bromoether | OMe는 더 치환된 C에 | anti | 용매가 Br⁻를 이김 |
+| halohydrin | Br₂, H₂O | $\beta$-bromoalcohol | OH는 더 치환된 C에 | anti | 느슨한 S<sub>N</sub>2 |
+| haloether | Br₂, MeOH | $\beta$-bromoether | OMe는 더 치환된 C에 | anti | 용매가 Br⁻를 이김 |
 | 에폭시화 | mCPBA (과산) | epoxide | 해당 없음 | syn, 입체특이적 | 협동, 고리 TS |
 | bromohydrin → epoxide | 염기 (HO⁻) | epoxide | 해당 없음 | 분자내 S<sub>N</sub>2 | |
 | HBr addition | HBr | alkyl bromide | Markovnikov | (이번 강의 범위 아님) | carbocation intermediate |
@@ -312,14 +316,14 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 
 ## 정답 및 해설
 
-1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
-2. HOMO는 채워진 C=C π 궤도함수, LUMO는 비어 있는 Br-Br σ\* 궤도함수다. π 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 σ\*는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
+1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 $\pi$ 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
+2. HOMO는 채워진 C=C $\pi$ 궤도함수, LUMO는 비어 있는 Br-Br $\sigma^*$ 궤도함수다. $\pi$ 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 $\sigma^*$는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
 3. *cis*-2-butene에서는 *cis*-2,3-dimethyl옥시레인(메소 화합물)이, *trans*-2-butene에서는 *trans*-2,3-dimethyl옥시레인(라세미체)이 생긴다. 두 C-O 결합이 같은 면에서 동시에 생기므로 입체특이적이다. 메소/라세미 판정은 보충 설명이며, 원리는 L1 p.15의 스틸벤 예와 같다. (보충 근거: Clayden p.854)
 4. 주생성물은 1-bromo-1-phenyl에테인(PhCHBrCH₃)이다. H⁺가 말단 CH₂에 붙으면 공명 안정화된 benzyl cation이 생긴다. 반대로 붙으면 불안정한 1차 cation이 생기므로 그 경로는 일어나지 않는다. (L1 p.17)
 5. 0 °C에서는 3,4-dibromo-1-butene(1,2-첨가, kinetic 생성물)이, 가열하면 (*E*)-1,4-dibromo-2-butene(1,4-첨가, thermodynamic 생성물)이 주생성물이다. 1,4-생성물은 이치환 내부 alkene이라 더 안정하고, 가열하면 두 생성물 사이의 평형이 thermodynamic 생성물 쪽으로 이동한다. (L2 p.6)
 6. 생성물은 1-bromo-2-methoxy-2-methylpropane((CH₃)₂C(OMe)CH₂Br)이다. bromonium 이온이 열리는 느슨한 S<sub>N</sub>2 transition state에서 C-Br 결합이 먼저 늘어나며 부분 양전하가 생긴다. 이 양전하는 alkyl group 두 개가 안정화하는 3차 탄소 쪽에 더 잘 쌓이므로 methanol이 그쪽을 공격한다. 이는 전자 효과에 의한 선택성이다. (L1 p.22-23)
 7. (a) mCPBA로 직접 에폭시화한다. (b) Br₂/H₂O로 bromohydrin((CH₃)₂C(OH)CH₂Br)을 만든 뒤, 염기로 alkoxide를 만들어 분자내 S<sub>N</sub>2로 고리를 닫는다. (L1 p.14, p.21)
-8. 2,3-dimethyl-2-butene > 2-methyl-2-butene > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl group이 많을수록 π 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)
+8. 2,3-dimethyl-2-butene > 2-methyl-2-butene > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl group이 많을수록 $\pi$ 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)
 
 ---
 
