@@ -1,0 +1,321 @@
+[
+ {
+  "out": "figures/L06/geraniol_dmp.json",
+  "title": "geraniol → geranial (DMP) (notes/통독/L06 90행)",
+  "reactants": [
+   "CC(C)=CCC/C(C)=C/[CH2:2][OH:2]"
+  ],
+  "products": [
+   "CC(C)=CCC/C(C)=C/[CH:3]=[O:3]"
+  ],
+  "conditions": "DMP, CH2Cl2",
+  "below": "84%",
+  "note": "L06",
+  "line": 90,
+  "wiki": "시약/DMP",
+  "alt": "geraniol → geranial (DMP)",
+  "cap": "1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다"
+ },
+ {
+  "out": "figures/L06/swern_benzyl.json",
+  "title": "PhCH2OH → PhCHO (Swern) (notes/통독/L06 108행)",
+  "reactants": [
+   "c1ccccc1[CH2:2][OH:2]"
+  ],
+  "products": [
+   "c1ccccc1[CH:3]=[O:3]"
+  ],
+  "conditions": "1. DMSO, (COCl)2",
+  "below": "2. Et3N",
+  "note": "L06",
+  "line": 108,
+  "wiki": "반응/스원 산화",
+  "alt": "PhCH2OH → PhCHO (Swern)",
+  "cap": "1차 alcohol → aldehyde"
+ },
+ {
+  "out": "figures/L06/swern_cyclohexanol.json",
+  "title": "cyclohexanol → cyclohexanone (Swern) (notes/통독/L06 109행)",
+  "reactants": [
+   "[OH:2][CH:2]1CCCCC1"
+  ],
+  "products": [
+   "[O:3]=[C:3]1CCCCC1"
+  ],
+  "conditions": "1. DMSO, (COCl)2",
+  "below": "2. Et3N",
+  "note": "L06",
+  "line": 109,
+  "wiki": "반응/스원 산화",
+  "alt": "cyclohexanol → cyclohexanone (Swern)",
+  "cap": "2차 alcohol → ketone"
+ },
+ {
+  "out": "figures/L06/retinol_mno2.json",
+  "title": "retinol → retinal (MnO2) (notes/통독/L06 151행)",
+  "reactants": [
+   "CC1=C(C(C)(C)CCC1)/C=C/C(C)=C/C=C/C(C)=C/[CH2:2][OH:2]"
+  ],
+  "products": [
+   "CC1=C(C(C)(C)CCC1)/C=C/C(C)=C/C=C/C(C)=C/[CH:3]=[O:3]"
+  ],
+  "conditions": "MnO2",
+  "below": ">95%",
+  "note": "L06",
+  "line": 151,
+  "wiki": "시약/MnO2",
+  "alt": "retinol → retinal (MnO2)",
+  "cap": "MnO2는 allyl alcohol(빨강)만 골라 aldehyde(초록)로 산화한다"
+ },
+ {
+  "out": "figures/L06/ethanol_adh.json",
+  "title": "ethanol → acetaldehyde (ADH) (notes/통독/L06 199행)",
+  "reactants": [
+   "C[CH2:2][OH:2]"
+  ],
+  "products": [
+   "C[CH:3]=[O:3]"
+  ],
+  "conditions": "ADH, NAD+",
+  "below": "",
+  "note": "L06",
+  "line": 199,
+  "wiki": "반응/알코올 산화",
+  "alt": "ethanol → acetaldehyde (ADH)",
+  "cap": "몸속 1단계: alcohol dehydrogenase"
+ },
+ {
+  "out": "figures/L06/acetaldehyde_aldh.json",
+  "title": "acetaldehyde → acetate (ALDH2) (notes/통독/L06 199행)",
+  "reactants": [
+   "C[CH:2]=O"
+  ],
+  "products": [
+   "C[C:3](=O)[O-:3]"
+  ],
+  "conditions": "ALDH2, NAD+",
+  "below": "",
+  "note": "L06",
+  "line": 199,
+  "wiki": "반응/알코올 산화",
+  "alt": "acetaldehyde → acetate (ALDH2)",
+  "cap": "몸속 2단계: aldehyde dehydrogenase"
+ },
+ {
+  "out": "figures/L06/hocl_addition.json",
+  "title": "2-methylbut-2-ene + HOCl → 3-chloro-2-methylbutan-2-ol (notes/통독/L06 219행)",
+  "reactants": [
+   "C[C:1](C)=[CH:1]C",
+   "[OH:2][Cl:2]"
+  ],
+  "products": [
+   "C[C:3](C)([OH:3])[CH:3](C)[Cl:3]"
+  ],
+  "conditions": "",
+  "below": "",
+  "note": "L06",
+  "line": 219,
+  "wiki": "반응/할로하이드린 형성",
+  "alt": "2-methylbut-2-ene + HOCl → 3-chloro-2-methylbutan-2-ol",
+  "cap": "OH(초록)는 더 치환된 탄소에, Cl은 덜 치환된 탄소에 붙는다"
+ },
+ {
+  "out": "figures/L06/jones_cbz_prolinol.json",
+  "title": "N-Cbz prolinol → N-Cbz proline (Jones) (notes/통독/L06 229행)",
+  "reactants": [
+   "O=C(OCc1ccccc1)N1CCCC1[CH2:2][OH:2]"
+  ],
+  "products": [
+   "O=C(OCc1ccccc1)N1CCCC1[C:3](=O)[OH:3]"
+  ],
+  "conditions": "CrO3, H2SO4",
+  "below": ">86%",
+  "note": "L06",
+  "line": 229,
+  "wiki": "반응/존스 산화",
+  "alt": "N-Cbz prolinol → N-Cbz proline (Jones)",
+  "cap": "1차 alcohol(빨강)이 carboxylic acid(초록)까지 산화된다"
+ },
+ {
+  "out": "figures/L06/e2_2_bromopentane.json",
+  "title": "2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene (notes/통독/L06 281행)",
+  "reactants": [
+   "CCC[CH:2](C)[Br:2]"
+  ],
+  "products": [
+   "CC/C=C/C",
+   "CC/C=C\\C",
+   "CCCC=C"
+  ],
+  "conditions": "NaOEt",
+  "below": "E 51%, Z 18%, 1-ene 31%",
+  "note": "L06",
+  "line": 281,
+  "wiki": "개념/알켄의 입체선택적 합성",
+  "alt": "2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene",
+  "cap": "E2. 왼쪽부터 (E)-pent-2-ene 51%, (Z) 18%, pent-1-ene 31%"
+ },
+ {
+  "out": "figures/L06/pheromone_lindlar.json",
+  "title": "alkyne → Japanese beetle pheromone (Lindlar) (notes/통독/L06 295행)",
+  "reactants": [
+   "CCCCCCCC[C:1]#[C:1][C@H]1CCC(=O)O1"
+  ],
+  "products": [
+   "CCCCCCCC/[CH:3]=[CH:3]\\[C@H]1CCC(=O)O1"
+  ],
+  "conditions": "H2, Lindlar",
+  "below": "80–90%, Z only",
+  "note": "L06",
+  "line": 295,
+  "wiki": "반응/린들라 환원",
+  "alt": "alkyne → Japanese beetle pheromone (Lindlar)",
+  "cap": "C≡C(파랑)가 Z-alkene(초록)으로만 환원된다"
+ },
+ {
+  "out": "figures/L06/wittig_cyclohexanone.json",
+  "title": "cyclohexanone + Ph3P=CH2 → methylenecyclohexane (notes/통독/L06 357행)",
+  "reactants": [
+   "O=[C:2]1CCCCC1",
+   "[CH2-:1][P+](c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[CH2:3]=[C:3]1CCCCC1",
+   "O=P(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "conditions": "",
+  "below": "86%",
+  "note": "L06",
+  "line": 357,
+  "wiki": "반응/위티그 반응",
+  "alt": "cyclohexanone + Ph3P=CH2 → methylenecyclohexane",
+  "cap": "ylide 탄소(파랑)와 C=O 탄소(빨강)가 새 C=C(초록)가 된다"
+ },
+ {
+  "out": "figures/L06/wittig_vitamin_a.json",
+  "title": "C15 phosphonium + C5 aldehyde → vitamin A acetate (notes/통독/L06 364행)",
+  "reactants": [
+   "CC1=C(C(C)(C)CCC1)/C=C/C(C)=C/[CH2:1][P+](c9ccccc9)(c9ccccc9)c9ccccc9",
+   "O=[CH:2]/C(C)=C/COC(C)=O"
+  ],
+  "products": [
+   "CC1=C(C(C)(C)CCC1)/C=C/C(C)=C/[CH:3]=[CH:3]/C(C)=C/COC(C)=O"
+  ],
+  "conditions": "NaOMe, MeOH",
+  "below": "",
+  "note": "L06",
+  "line": 364,
+  "wiki": "반응/위티그 반응",
+  "alt": "C15 phosphonium + C5 aldehyde → vitamin A acetate",
+  "cap": "Wittig으로 새 C=C(초록)를 만들어 vitamin A acetate를 얻는다"
+ },
+ {
+  "out": "figures/L06/ylide_ester_1.json",
+  "title": "BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시) (notes/통독/L06 376행)",
+  "reactants": [
+   "Br[CH2:2]C(=O)OCC",
+   "[P:1](c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+:3]([CH2:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9",
+   "[Br-]"
+  ],
+  "conditions": "",
+  "below": "SN2",
+  "note": "L06",
+  "line": 376,
+  "wiki": "시약/인 일라이드",
+  "alt": "BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)",
+  "cap": "$PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다"
+ },
+ {
+  "out": "figures/L06/ylide_ester_2.json",
+  "title": "phosphonium salt → stabilized ylide (notes/통독/L06 376행)",
+  "reactants": [
+   "[P+]([CH2:2]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+]([CH-:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "conditions": "Na2CO3",
+  "below": "stabilized ylide",
+  "note": "L06",
+  "line": 376,
+  "wiki": "시약/인 일라이드",
+  "alt": "phosphonium salt → stabilized ylide",
+  "cap": "C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다"
+ },
+ {
+  "out": "figures/L06/ylide_cyclopentyl_1.json",
+  "title": "cyclopentyl bromide + PPh3 → phosphonium bromide (notes/통독/L06 380행)",
+  "reactants": [
+   "Br[CH:2]1CCCC1",
+   "[P:1](c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+:3]([CH:3]1CCCC1)(c9ccccc9)(c9ccccc9)c9ccccc9",
+   "[Br-]"
+  ],
+  "conditions": "",
+  "below": "SN2",
+  "note": "L06",
+  "line": 380,
+  "wiki": "시약/인 일라이드",
+  "alt": "cyclopentyl bromide + PPh3 → phosphonium bromide",
+  "cap": "SN2로 phosphonium 염이 된다"
+ },
+ {
+  "out": "figures/L06/ylide_cyclopentyl_2.json",
+  "title": "phosphonium salt + BuLi → cyclopentylidene ylide (notes/통독/L06 380행)",
+  "reactants": [
+   "[P+]([CH:2]1CCCC1)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+]([C-:3]1CCCC1)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "conditions": "BuLi",
+  "below": "",
+  "note": "L06",
+  "line": 380,
+  "wiki": "시약/인 일라이드",
+  "alt": "phosphonium salt + BuLi → cyclopentylidene ylide",
+  "cap": "불안정화 ylide라서 BuLi 같은 강염기가 필요하다"
+ },
+ {
+  "out": "figures/L06/wittig_benzylidene.json",
+  "title": "cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane (notes/통독/L06 415행)",
+  "reactants": [
+   "[C-:1]1([P+](c9ccccc9)(c9ccccc9)c9ccccc9)CCCC1",
+   "O=[CH:2]c1ccccc1"
+  ],
+  "products": [
+   "[C:3]1(=[CH:3]c2ccccc2)CCCC1",
+   "O=P(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "conditions": "",
+  "below": "65%",
+  "note": "L06",
+  "line": 415,
+  "wiki": "반응/위티그 반응",
+  "alt": "cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane",
+  "cap": "새 C=C(초록)"
+ },
+ {
+  "out": "figures/L06/hwe_dimethylcyclopentanone.json",
+  "title": "2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate (notes/통독/L06 446행)",
+  "reactants": [
+   "CC1(C)CCC[C:2]1=O",
+   "CCOP(=O)(OCC)[CH2:1]C(=O)OCC"
+  ],
+  "products": [
+   "CC1(C)CCC[C:3]1=[CH:3]C(=O)OCC"
+  ],
+  "conditions": "NaH",
+  "below": "",
+  "note": "L06",
+  "line": 446,
+  "wiki": "반응/HWE 반응",
+  "alt": "2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate",
+  "cap": "phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다"
+ }
+]

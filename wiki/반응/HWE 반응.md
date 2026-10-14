@@ -45,6 +45,10 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 - `2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate`. 그림에서 CO₂Et는 gem-dimethyl 반대쪽으로 그려져 있다. (L6) (출처: L6c p.37)
 - 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응(β-lactam 기질 → 6원 고리가 닫힌 1-carbacephem 골격, 85%)이다([L6 연습 문제](../../practice/L06_Exercises.md) 6번). (L6) (출처: L6c p.37)
 
+![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
+
+*그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.*
+
 ## 흔한 오해
 
 - **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 phenyl이 아니라 ethoxy가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)

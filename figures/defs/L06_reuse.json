@@ -1,0 +1,139 @@
+[
+ {
+  "out": "figures/L05/geranial_citronellal.json",
+  "title": "geranial (E) → (+)-citronellal (notes/통독/L05 396행)",
+  "reactants": [
+   "CC(C)=CCC/[C:1](C)=[CH:1]/C=O"
+  ],
+  "products": [
+   "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
+  ],
+  "conditions": "H2, CO, Rh cat.",
+  "below": "(S,S)-Chiraphos",
+  "note": "L06",
+  "line": 52,
+  "wiki": null,
+  "alt": "geranial (E) → (+)-citronellal",
+  "cap": "비대칭 수소화. 공액 C=C(파랑)만 환원된다"
+ },
+ {
+  "out": "figures/L05/neral_citronellal.json",
+  "title": "neral (Z) → (+)-citronellal (notes/통독/L05 397행)",
+  "reactants": [
+   "CC(C)=CCC/[C:1](C)=[CH:1]\\C=O"
+  ],
+  "products": [
+   "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
+  ],
+  "conditions": "H2, CO, Rh cat.",
+  "below": "(R,R)-Chiraphos",
+  "note": "L06",
+  "line": 53,
+  "wiki": null,
+  "alt": "neral (Z) → (+)-citronellal",
+  "cap": "Z 이성질체는 반대 리간드로 같은 거울상 생성물을 준다"
+ },
+ {
+  "out": "figures/L05/citronellal_isopulegol.json",
+  "title": "(+)-citronellal → (−)-isopulegol (notes/통독/L05 398행)",
+  "reactants": [
+   "C[C:1](C)=CCCC(C)C[CH:2]=O"
+  ],
+  "products": [
+   "C=C(C)C1CCC(C)C[CH:3]1O"
+  ],
+  "conditions": "Al cat.",
+  "below": "",
+  "note": "L06",
+  "line": 54,
+  "wiki": null,
+  "alt": "(+)-citronellal → (−)-isopulegol",
+  "cap": "Lewis acid 촉매 고리화(ene 반응). C=C(파랑)가 C=O(빨강)를 공격한다"
+ },
+ {
+  "out": "figures/L05/isopulegol_menthol.json",
+  "title": "(−)-isopulegol → (−)-menthol (notes/통독/L05 398행)",
+  "reactants": [
+   "[CH2:1]=[C:1](C)C1CCC(C)CC1O"
+  ],
+  "products": [
+   "C[CH:3](C)C1CCC(C)CC1O"
+  ],
+  "conditions": "H2, Ni cat.",
+  "below": "",
+  "note": "L06",
+  "line": 54,
+  "wiki": null,
+  "alt": "(−)-isopulegol → (−)-menthol",
+  "cap": "C=C(파랑)를 수소화하면 menthol이 된다"
+ },
+ {
+  "out": "figures/L04/saccharin_1.json",
+  "title": "toluene + ClSO2OH → o-/p-toluenesulfonyl chloride (notes/통독/L04 136행)",
+  "reactants": [
+   "Cc1ccccc1"
+  ],
+  "products": [
+   "Cc1ccccc1[S:3](=O)(=O)Cl",
+   "Cc1ccc([S:3](=O)(=O)Cl)cc1"
+  ],
+  "conditions": "ClSO2OH",
+  "below": "o ~40%, p ~15%",
+  "note": "L06",
+  "line": 257,
+  "wiki": null,
+  "alt": "toluene + ClSO2OH → o-/p-toluenesulfonyl chloride",
+  "cap": "saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$)"
+ },
+ {
+  "out": "figures/L04/saccharin_2.json",
+  "title": "o-toluenesulfonyl chloride → o-toluenesulfonamide (notes/통독/L04 138행)",
+  "reactants": [
+   "Cc1ccccc1[S:2](=O)(=O)[Cl:2]"
+  ],
+  "products": [
+   "Cc1ccccc1S(=O)(=O)[NH2:3]"
+  ],
+  "conditions": "(NH4)2CO3",
+  "below": "89%",
+  "note": "L06",
+  "line": 257,
+  "wiki": null,
+  "alt": "o-toluenesulfonyl chloride → o-toluenesulfonamide",
+  "cap": "2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다"
+ },
+ {
+  "out": "figures/L04/saccharin_3.json",
+  "title": "o-toluenesulfonamide → 2-sulfamoylbenzoic acid (notes/통독/L04 139행)",
+  "reactants": [
+   "[CH3:2]c1ccccc1S(N)(=O)=O"
+  ],
+  "products": [
+   "O=[C:3]([OH])c1ccccc1S(N)(=O)=O"
+  ],
+  "conditions": "KMnO4",
+  "below": "",
+  "note": "L06",
+  "line": 257,
+  "wiki": null,
+  "alt": "o-toluenesulfonamide → 2-sulfamoylbenzoic acid",
+  "cap": "3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다"
+ },
+ {
+  "out": "figures/L04/saccharin_4.json",
+  "title": "2-sulfamoylbenzoic acid → saccharin (notes/통독/L04 140행)",
+  "reactants": [
+   "O=C(O)c1ccccc1S([NH2:1])(=O)=O"
+  ],
+  "products": [
+   "O=C1[NH:3]S(=O)(=O)c2ccccc21"
+  ],
+  "conditions": "HCl",
+  "below": "58%",
+  "note": "L06",
+  "line": 257,
+  "wiki": null,
+  "alt": "2-sulfamoylbenzoic acid → saccharin",
+  "cap": "4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다"
+ }
+]
