@@ -117,6 +117,10 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 > 왜 diaxial로 먼저 생길까? S<sub>N</sub>2의 nucleophile과 leaving group은 일직선(180°)이어야 한다. 그래서 고리 위에서 새로 생기는 C-Br 결합과 남아 있는 C-Br 결합이 서로 반대 방향인 축 방향 배치가 되는 것이다.[1]
 
+![anti 첨가로 생긴 2,3-dibromobutane의 Newman 투영: E-alkene은 meso, Z-alkene은 racemic](../../figures/L02/anti_addition_newman.svg)
+
+*그림: 두 Br이 180°(anti)로 붙은 직후의 conformation을 C2 쪽에서 본 Newman 투영. 앞 탄소는 같고, 뒤 탄소의 CH₃와 H 자리만 다르다. (E)-2-butene에서는 대칭 중심이 있는 meso, (Z)-2-butene에서는 (2R,3R)와 (2S,3S)가 1:1로 생겨 racemic이다. 보충: 슬라이드의 stereospecificity 설명을 Newman 투영으로 다시 그린 것이다.*
+
 ### 3.1 NBS: 다루기 쉬운 bromine 공급원
 
 > 개념 문서: [NBS](../../wiki/시약/NBS.md), [halohydrin formation](../../wiki/반응/할로하이드린%20형성.md)

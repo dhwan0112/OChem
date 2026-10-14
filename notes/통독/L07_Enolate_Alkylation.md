@@ -106,6 +106,10 @@ LDA(lithium diisopropylamide)는 THF에서 n-BuLi와 diisopropylamine을 섞어 
 
 (출처: L7 p.12)
 
+![2-methylcyclohexanone의 kinetic/thermodynamic enolate 에너지 도표](../../figures/L07/enolate_kinetic_thermo_energy.svg)
+
+*그림: 가운데 ketone에서 왼쪽(파랑)은 덜 가린 C6–H를 떼는 낮은 TS를 거쳐 덜 안정한 kinetic enolate로, 오른쪽(빨강)은 더 높은 TS를 거쳐 더 치환된(더 안정한) thermodynamic enolate로 간다. LDA, −78 °C처럼 되돌릴 수 없는 조건은 왼쪽, 평형 조건은 오른쪽을 준다. 보충: 정성적 도표다.*
+
 ## II. α-alkylation 반응 (α-Alkylation reactions)
 
 > 개념 문서: [enolate alkylation](../../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../../wiki/반응/SN2%20반응.md)

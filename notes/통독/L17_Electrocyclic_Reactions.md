@@ -154,6 +154,10 @@ cycloaddition과 시그마트로픽 반응에서도 결합각이 109°와 120° 
 
 butadiene ψ2의 양 끝 위상이 반대라는 것은 [L13](L13_Cycloaddition_Part1.md) 7-1절에서 이미 본 사실이다. (보충 근거: Wade p.672, p.698)
 
+![열적 4π는 conrotatory, 6π는 disrotatory: HOMO 말단 로브의 위상](../../figures/L17/con_dis_homo_lobes.svg)
+
+*그림: 왼쪽은 HOMO의 위상(채움 +, 빈 것 −; 흐린 로브는 가운데 탄소). 4π의 ψ₂는 양 끝의 위쪽 로브 위상이 반대라 두 끝이 같은 방향으로 돌아야(conrotatory) 같은 위상끼리 만난다. 6π의 ψ₃는 양 끝 위상이 같아서 반대 방향으로 돌아야(disrotatory) 한다. 주황 화살표는 회전 방향, 초록 점선은 새 σ 결합이다. 보충: 슬라이드의 HOMO 대칭 논리를 그림으로 옮긴 것이다.*
+
 ### 4.3 광화학 반응: 들뜬 상태의 HOMO
 
 빛을 받으면 전자 하나가 HOMO에서 LUMO로 올라가고, 원래 LUMO가 들뜬 상태의 새 HOMO(HOMO*)가 된다. 이것은 [L14](L14_Cycloaddition_Part2.md) 10절의 광화학 [2+2]와 같은 논리다. (보충 근거: Wade p.694–695)

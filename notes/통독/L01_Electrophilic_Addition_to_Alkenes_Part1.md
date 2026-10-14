@@ -108,6 +108,10 @@ S<sub>N</sub>2이므로 nucleophile은 C-Br σ\* 궤도함수와 최대로 겹�
 
 ---
 
+![bromonium 이온의 3D 구조와 Br⁻의 backside 접근 방향](../../figures/L01/bromonium_3d.svg)
+
+*그림: ethylene에서 생긴 bromonium ion의 3D 구조(GFN2-xTB). Br⁺가 두 탄소 위에 다리를 놓아 3원 고리를 만들고(C–Br 1.98 Å), 한쪽 면이 Br⁺로 막힌다. 파란 화살표는 Br⁻가 들어오는 방향으로, Br⁺의 정반대편(anti)이다. 보충: 슬라이드 밖의 3D 모델 그림이다.*
+
 ## 4. alkene의 산화: epoxide
 
 > 개념 문서: [epoxidation](../../wiki/반응/에폭시화.md), [mCPBA](../../wiki/시약/mCPBA.md), [stereospecificity and stereoselectivity](../../wiki/개념/입체특이성과%20입체선택성.md)
@@ -135,6 +139,10 @@ epoxide는 bromonium 이온의 Br⁺ 자리에 O가 들어간 3원 고리라고 
 4. 그 산소의 비공유 전자쌍이 alkene의 다른 탄소와 결합해 3원 고리가 닫힌다.
 
 transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
+
+![과산 에폭시화의 butterfly transition state 3D 모델](../../figures/L01/mcpba_butterfly_ts_3d.svg)
+
+*그림: ethylene + performic acid(mCPBA의 단순 모델)의 butterfly TS. 옮겨 가는 O가 C=C 가운데 위에 있고(초록 점선 C···O 2.10 Å, 끊어지는 O···O 1.75 Å), 과산 평면은 alkene 평면과 거의 직각이라 나비 날개처럼 보인다. 회색 점선은 O–H···O=C 수소결합이고, 이 H가 carbonyl O로 옮겨 가 carboxylic acid가 된다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
 
 ### 4.3 stereospecificity과 반응 속도
 
@@ -192,6 +200,10 @@ hydrogen halide 첨가는 형식상 **제거 반응의 역반응**이다. cycloh
 이 경험칙을 **Markovnikov Markovnikov's rule** 이라 한다. "수소는 원래 수소를 더 많이 가진 이중결합 탄소에 붙는다." 그러나 그 밑바탕에는 **더 안정한 carbocation을 거치는 경로가 이긴다**는 원리가 있다. 규칙을 외우기보다 이 원리를 기억하는 편이 훨씬 응용 범위가 넓다. (출처: L1 p.18)
 
 ---
+
+![isobutene + HBr의 반응 좌표 도표: 3차 cation 경로가 1차 cation 경로보다 낮다](../../figures/L01/hbr_energy_profile.svg)
+
+*그림: 정성적 에너지 도표. 속도 결정 단계는 protonation이고, 더 안정한 3차 carbocation으로 가는 TS가 더 낮으므로(Hammond postulate) 초록 경로(Markovnikov)로 반응한다. 회색 점선은 1차 cation 경로다. 보충: 슬라이드의 intermediate 안정성 논리를 에너지 도표로 옮긴 것이다(수치 없음).*
 
 ## 6. diene의 electrophilic addition (1,4-첨가)
 

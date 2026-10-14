@@ -184,6 +184,10 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 
 보충: 교재는 이런 문제를 푸는 순서를 다음처럼 제시한다. (1) 먼저 평면 구조로 메커니즘과 후보 생성물을 그리고 이미 아는 입체화학(여기서는 out/out → 두 Me cis)을 표시한다. (2) diene을 위에, dienophile을 아래에 겹쳐 그리되 C=O가 diene 밑으로 tucked under 놓는다. (3) 새 입체중심이 될 탄소에 H를 모두 그려 넣는다. (4) 고리를 펴서 그리면 같은 방향을 향하던 H들이 모두 고리의 한 면에 모인다. (5) 나머지 치환기를 반대 면에 그린다. 이 순서를 따르면 슬라이드 p.24의 all-cis 답이 그대로 나온다. (보충 근거: Clayden p.885) (출처: L13 p.23–24)
 
+![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
+
+*그림: 위가 cyclopentadiene(CH₂ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+
 ## 7. 왜 그런가: 분자 오비탈로 다시 보기
 
 ### 7-1. 재료 준비: alkene과 diene의 π 오비탈
@@ -203,6 +207,10 @@ FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전
 이제 답이 나온다. diene에 EDG를 붙이면 HOMO가 올라가고, dienophile에 EWG를 붙이면 LUMO가 내려간다. 둘 다 HOMO(diene)–LUMO(dienophile) 사이 간격을 좁혀 TS를 안정화하므로 반응이 빨라진다. ethylene이 900 atm을 요구했던 것도, acrolein이나 maleic anhydride가 쉽게 반응하는 것도 같은 이유다.[8]
 
 보충: 여기서 헷갈리기 쉬운 점이 있다. 두 짝 가운데 하나를 고르는 기준은 **대칭이 아니라 에너지**다. diene ψ2(가운데 마디 1개)와 dienophile π*(마디 1개)도, diene ψ3(마디 2개)와 dienophile π(마디 0개)도 양 끝의 위상 관계가 같아서 둘 다 대칭은 맞는다. 단지 앞의 짝이 에너지가 더 가까워 주도할 뿐이다. 반대로 alkene + alkene(예: alkene + maleic anhydride를 가열)에서는 HOMO/LUMO를 어느 쪽으로 짝지어도 한쪽 끝이 반결합성이라, 에너지를 아무리 맞춰도 열적으로는 반응하지 않는다(→ [L14](L14_Cycloaddition_Part2.md) 광화학 [2+2]). (보충 근거: Clayden p.886) (출처: L13 p.27)
+
+![Diels–Alder 반응의 HOMO(diene)–LUMO(dienophile) 로브 겹침](../../figures/L13/da_fmo_lobes.svg)
+
+*그림: 채운 로브는 + 위상, 빈 로브는 − 위상이다. diene HOMO(ψ₂)의 아래쪽 로브와 dienophile LUMO(π*)의 위쪽 로브가 양 끝에서 모두 같은 위상이라, 두 σ 결합이 같은 면(suprafacial)에서 동시에 생긴다. 끝 탄소의 로브가 더 큰 것은 ψ₂의 계수가 말단에서 크기 때문이다. 보충: 슬라이드의 FMO 그림을 단순화해 다시 그린 것이다.*
 
 ### 7-3. 오비탈로 본 stereospecificity
 
