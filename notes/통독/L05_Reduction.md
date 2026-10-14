@@ -62,7 +62,10 @@ $$
 그런데 왜 NH<sub>3</sub>를 그렇게 많이 넣어야 할까? 1-bromooctane에 NH<sub>3</sub>를 2 eq만 넣어 보면 답이 나온다.
 
 $$
-\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) \longrightarrow \text{옥틸아민}\ (45\%) + \text{다이옥틸아민}\ (43\%) + \text{트라이옥틸아민}\ (\text{미량}) + \text{테트라옥틸암모늄 브로마이드}\ (\text{미량})
+\begin{aligned}
+\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) &\longrightarrow \text{옥틸아민}\ (45\%) + \text{다이옥틸아민}\ (43\%) \\
+&\qquad + \text{트라이옥틸아민}\ (\text{미량}) + \text{테트라옥틸암모늄 브로마이드}\ (\text{미량})
+\end{aligned}
 $$
 
 ![1-bromooctane + NH3 → octylamine + dioctylamine](../../figures/L05/octylamine_nh3.svg)
