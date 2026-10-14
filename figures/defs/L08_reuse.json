@@ -27,7 +27,7 @@
   "products": [
    "[P+]([CH-:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
   ],
-  "conditions": "Na2CO3",
+  "conditions": "Na₂CO₃",
   "below": "stabilized ylide",
   "note": "L08",
   "line": 32,

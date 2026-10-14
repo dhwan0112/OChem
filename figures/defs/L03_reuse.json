@@ -10,7 +10,7 @@
    "C1CC[CH:3]2[O:3][CH:3]2C1",
    "O=C([OH])c1cccc(Cl)c1"
   ],
-  "conditions": "CH2Cl2",
+  "conditions": "CH₂Cl₂",
   "below": "95%",
   "note": "L03",
   "line": 46,
@@ -27,7 +27,7 @@
   "products": [
    "C1CC[C@@H]([Br:3])[C@H]([Br:3])C1"
   ],
-  "conditions": "Br2",
+  "conditions": "Br₂",
   "below": "anti, (±) only",
   "note": "L03",
   "line": 47,
@@ -44,7 +44,7 @@
   "products": [
    "[O-][N+:3](=O)c1ccccc1"
   ],
-  "conditions": "HNO3, H2SO4",
+  "conditions": "HNO₃, H₂SO₄",
   "below": "",
   "note": "L03",
   "line": 374,
@@ -61,7 +61,7 @@
   "products": [
    "c1ccccc1[NH2:3]"
   ],
-  "conditions": "H2, Pd/C",
+  "conditions": "H₂, Pd/C",
   "below": "or Sn, dil. HCl",
   "note": "L03",
   "line": 374,
@@ -79,7 +79,7 @@
    "c1ccccc1[N+:3]#N",
    "[Cl-]"
   ],
-  "conditions": "NaNO2, HCl",
+  "conditions": "NaNO₂, HCl",
   "below": "0 °C",
   "note": "L03",
   "line": 374,
@@ -97,7 +97,7 @@
    "c1ccccc1[OH:3]",
    "N#N"
   ],
-  "conditions": "H2O",
+  "conditions": "H₂O",
   "below": "heat",
   "note": "L03",
   "line": 374,

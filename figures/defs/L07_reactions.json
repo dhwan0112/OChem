@@ -113,7 +113,7 @@
    "CC(=O)C(CCCC)(CCCC)C(=O)[OH:3]"
   ],
   "conditions": "1. aq. NaOH, heat",
-  "below": "2. H3O+",
+  "below": "2. H₃O⁺",
   "note": "L07",
   "line": 362,
   "wiki": "반응/아세토아세트산 에스터 합성",
@@ -131,7 +131,7 @@
    "O=C=O"
   ],
   "conditions": "heat",
-  "below": "−CO2",
+  "below": "−CO₂",
   "note": "L07",
   "line": 363,
   "wiki": "반응/아세토아세트산 에스터 합성",
@@ -149,7 +149,7 @@
    "CCOC(=O)[CH:3]([CH2:3]c1ccccc1)C(=O)OCC"
   ],
   "conditions": "1. NaOEt",
-  "below": "2. PhCH2Br",
+  "below": "2. PhCH₂Br",
   "note": "L07",
   "line": 368,
   "wiki": "반응/말론산 에스터 합성",
@@ -167,7 +167,7 @@
    "O=C=O"
   ],
   "conditions": "1. KOH, reflux",
-  "below": "2. H3O+, reflux, −CO2",
+  "below": "2. H₃O⁺, reflux, −CO₂",
   "note": "L07",
   "line": 368,
   "wiki": "반응/말론산 에스터 합성",

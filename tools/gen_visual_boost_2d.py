@@ -65,10 +65,10 @@ def zig(x0,y0,br2,br3):
     at += [["C",x0,y0+0.5,0,3],["C",x0+0.87,y0,0,0],["C",x0+1.73,y0+0.5,0,0],["C",x0+2.6,y0,0,3],
            ["Br",x0+0.4,y0-0.95,0,0],["H",x0+1.35,y0-0.95,0,0],["Br",x0+1.25,y0+1.45,0,0],["H",x0+2.2,y0+1.45,0,0]]
     bd += [[b,b+1,1],[b+1,b+2,1],[b+2,b+3,1],[b+1,b+4,1,br2],[b+1,b+5,1,o[br2]],[b+2,b+6,1,br3],[b+2,b+7,1,o[br3]]]
-alkene(0.5,0,True); arr.append([3.0,0,4.8,0]); cap.append(["Br2 (anti)",3.1,-1.0,"muted"])
+alkene(0.5,0,True); arr.append([3.0,0,4.8,0]); cap.append(["Br₂ (anti)",3.1,-1.0,"muted"])
 zig(5.7,-0.2,"wedge","hash"); cap += [["meso",6.5,1.9,"good"],["(E)-2-butene",0.15,1.35,"muted"]]
 y=4.2
-alkene(0.5,y,False); arr.append([3.0,y,4.8,y]); cap.append(["Br2 (anti)",3.1,y-1.0,"muted"])
+alkene(0.5,y,False); arr.append([3.0,y,4.8,y]); cap.append(["Br₂ (anti)",3.1,y-1.0,"muted"])
 zig(5.7,y-0.2,"wedge","wedge"); cap.append(["+",9.6,y-0.15,"ink",10]); zig(10.9,y-0.2,"hash","hash")
 cap += [["racemic (1 : 1 enantiomers)",8.0,y+1.9,"good"],["(Z)-2-butene",0.15,y+1.35,"muted"]]
 def nbx(i):

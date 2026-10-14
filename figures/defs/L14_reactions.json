@@ -25,7 +25,7 @@
   "products": [
    "O=C1[CH:3]([Br:3])[CH:3]([Br:3])C(Br)C1"
   ],
-  "conditions": "Br2",
+  "conditions": "Br₂",
   "below": "",
   "note": "L14",
   "line": 379,
@@ -42,7 +42,7 @@
   "products": [
    "O=C1C([Br])=CC=C1"
   ],
-  "conditions": "HNEt2",
+  "conditions": "HNEt₂",
   "below": "not isolated",
   "note": "L14",
   "line": 380,

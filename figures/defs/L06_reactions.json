@@ -8,7 +8,7 @@
   "products": [
    "CC(C)=CCC/C(C)=C/[CH:3]=[O:3]"
   ],
-  "conditions": "DMP, CH2Cl2",
+  "conditions": "DMP, CH₂Cl₂",
   "below": "84%",
   "note": "L06",
   "line": 90,
@@ -25,8 +25,8 @@
   "products": [
    "c1ccccc1[CH:3]=[O:3]"
   ],
-  "conditions": "1. DMSO, (COCl)2",
-  "below": "2. Et3N",
+  "conditions": "1. DMSO, (COCl)₂",
+  "below": "2. Et₃N",
   "note": "L06",
   "line": 108,
   "wiki": "반응/스원 산화",
@@ -42,8 +42,8 @@
   "products": [
    "[O:3]=[C:3]1CCCCC1"
   ],
-  "conditions": "1. DMSO, (COCl)2",
-  "below": "2. Et3N",
+  "conditions": "1. DMSO, (COCl)₂",
+  "below": "2. Et₃N",
   "note": "L06",
   "line": 109,
   "wiki": "반응/스원 산화",
@@ -59,7 +59,7 @@
   "products": [
    "CC1=C(C(C)(C)CCC1)/C=C/C(C)=C/C=C/C(C)=C/[CH:3]=[O:3]"
   ],
-  "conditions": "MnO2",
+  "conditions": "MnO₂",
   "below": ">95%",
   "note": "L06",
   "line": 151,
@@ -76,7 +76,7 @@
   "products": [
    "C[CH:3]=[O:3]"
   ],
-  "conditions": "ADH, NAD+",
+  "conditions": "ADH, NAD⁺",
   "below": "",
   "note": "L06",
   "line": 199,
@@ -93,7 +93,7 @@
   "products": [
    "C[C:3](=O)[O-:3]"
   ],
-  "conditions": "ALDH2, NAD+",
+  "conditions": "ALDH2, NAD⁺",
   "below": "",
   "note": "L06",
   "line": 199,
@@ -128,7 +128,7 @@
   "products": [
    "O=C(OCc1ccccc1)N1CCCC1[C:3](=O)[OH:3]"
   ],
-  "conditions": "CrO3, H2SO4",
+  "conditions": "CrO₃, H₂SO₄",
   "below": ">86%",
   "note": "L06",
   "line": 229,
@@ -164,7 +164,7 @@
   "products": [
    "CCCCCCCC/[CH:3]=[CH:3]\\[C@H]1CCC(=O)O1"
   ],
-  "conditions": "H2, Lindlar",
+  "conditions": "H₂, Lindlar",
   "below": "80–90%, Z only",
   "note": "L06",
   "line": 295,
@@ -237,7 +237,7 @@
   "products": [
    "[P+]([CH-:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
   ],
-  "conditions": "Na2CO3",
+  "conditions": "Na₂CO₃",
   "below": "stabilized ylide",
   "note": "L06",
   "line": 376,

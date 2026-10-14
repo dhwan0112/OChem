@@ -8,7 +8,7 @@
   "products": [
    "Nc1c([Br:3])cc([Br:3])cc1[Br:3]"
   ],
-  "conditions": "Br2, HOAc",
+  "conditions": "Br₂, HOAc",
   "below": "",
   "note": "L04",
   "line": 57,
@@ -25,7 +25,7 @@
   "products": [
    "CC(=O)[NH:3]c1ccccc1"
   ],
-  "conditions": "Ac2O",
+  "conditions": "Ac₂O",
   "below": "",
   "note": "L04",
   "line": 76,
@@ -42,7 +42,7 @@
   "products": [
    "CC(=O)Nc1cc[c:3]([Br:3])cc1"
   ],
-  "conditions": "Br2, HOAc, rt",
+  "conditions": "Br₂, HOAc, rt",
   "below": "",
   "note": "L04",
   "line": 77,
@@ -59,7 +59,7 @@
   "products": [
    "[NH2:3]c1ccc(Br)cc1"
   ],
-  "conditions": "HCl, EtOH/H2O",
+  "conditions": "HCl, EtOH/H₂O",
   "below": "reflux",
   "note": "L04",
   "line": 78,
@@ -77,7 +77,7 @@
    "Cc1ccccc1[Br:3]",
    "Cc1ccc([Br:3])cc1"
   ],
-  "conditions": "Br2, Lewis acid",
+  "conditions": "Br₂, Lewis acid",
   "below": "o ~60%, p ~35%, m ~5%",
   "note": "L04",
   "line": 109,
@@ -95,7 +95,7 @@
    "Cc1ccccc1[S:3](=O)(=O)O",
    "Cc1ccc([S:3](=O)(=O)O)cc1"
   ],
-  "conditions": "conc. H2SO4",
+  "conditions": "conc. H₂SO₄",
   "below": "",
   "note": "L04",
   "line": 130,
@@ -113,7 +113,7 @@
    "Cc1ccccc1[S:3](=O)(=O)Cl",
    "Cc1ccc([S:3](=O)(=O)Cl)cc1"
   ],
-  "conditions": "ClSO2OH",
+  "conditions": "ClSO₂OH",
   "below": "o ~40%, p ~15%",
   "note": "L04",
   "line": 136,
@@ -130,7 +130,7 @@
   "products": [
    "Cc1ccccc1S(=O)(=O)[NH2:3]"
   ],
-  "conditions": "(NH4)2CO3",
+  "conditions": "(NH₄)₂CO₃",
   "below": "89%",
   "note": "L04",
   "line": 138,
@@ -147,7 +147,7 @@
   "products": [
    "O=[C:3]([OH])c1ccccc1S(N)(=O)=O"
   ],
-  "conditions": "KMnO4",
+  "conditions": "KMnO₄",
   "below": "",
   "note": "L04",
   "line": 139,
@@ -181,7 +181,7 @@
   "products": [
    "C[N+](C)(C)c1cccc([N+:3](=O)[O-])c1"
   ],
-  "conditions": "HNO3, H2SO4",
+  "conditions": "HNO₃, H₂SO₄",
   "below": "m 90%, p 10%",
   "note": "L04",
   "line": 173,
@@ -198,7 +198,7 @@
   "products": [
    "FC(F)(F)c1cccc([N+:3](=O)[O-])c1"
   ],
-  "conditions": "HNO3, H2SO4",
+  "conditions": "HNO₃, H₂SO₄",
   "below": "96%",
   "note": "L04",
   "line": 174,
@@ -215,7 +215,7 @@
   "products": [
    "[O-][N+:3](=O)c1ccccc1"
   ],
-  "conditions": "HNO3, H2SO4",
+  "conditions": "HNO₃, H₂SO₄",
   "below": "",
   "note": "L04",
   "line": 181,
@@ -232,7 +232,7 @@
   "products": [
    "[O-][N+:3](=O)c1cccc([N+:3](=O)[O-])c1"
   ],
-  "conditions": "fuming HNO3, H2SO4",
+  "conditions": "fuming HNO₃, H₂SO₄",
   "below": "100 °C, 75%",
   "note": "L04",
   "line": 182,
@@ -249,7 +249,7 @@
   "products": [
    "[O-][N+](=O)c1cccc([Br:3])c1"
   ],
-  "conditions": "Br2, Fe",
+  "conditions": "Br₂, Fe",
   "below": "135–145 °C, 74%",
   "note": "L04",
   "line": 235,
@@ -266,7 +266,7 @@
   "products": [
    "Cc1ccc([N+](=O)[O-])cc1[N+:3](=O)[O-]"
   ],
-  "conditions": "HNO3, H2SO4",
+  "conditions": "HNO₃, H₂SO₄",
   "below": "",
   "note": "L04",
   "line": 256,
