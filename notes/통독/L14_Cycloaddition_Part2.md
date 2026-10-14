@@ -388,6 +388,18 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 hν로 반응시키면 실제로 �
 11. --[1. H2SO4, 2. KOH]--> 남은 케탈을 ketone으로 되돌린 뒤 두 번째 Favorskii 고리 축소 → cubanecarboxylic acid
 12. --[1. SOCl2, 2. tBuOOH, Py]--> perester --[Δ, 150 °C, diisopropylbenzene]--> **cubane**
 
+![cyclopent-2-enone → 4-bromocyclopent-2-enone](../../figures/L14/cubane_1.svg)
+
+*그림: cubane 합성 1단계: allyl 자리(빨강) bromination.*
+
+![→ 2,3,4-tribromocyclopentanone](../../figures/L14/cubane_2.svg)
+
+*그림: 2단계: C=C(파랑)에 $Br_2$ 첨가.*
+
+![→ 2-bromocyclopentadienone](../../figures/L14/cubane_3.svg)
+
+*그림: 3단계: HBr 두 번 제거.*
+
 (출처: L14 p.30)
 
 ---
