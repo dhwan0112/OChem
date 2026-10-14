@@ -1,0 +1,285 @@
+[
+ {
+  "out": "figures/L11/mesityl_oxide_phsh.json",
+  "title": "mesityl oxide + PhSH → 4-methyl-4-(phenylthio)pentan-2-one (notes/통독/L11 67행)",
+  "reactants": [
+   "C[C:2](C)=CC(C)=O",
+   "[SH:1]c1ccccc1"
+  ],
+  "products": [
+   "C[C:3](C)([S:3]c1ccccc1)CC(C)=O"
+  ],
+  "conditions": "25 °C, 5 h",
+  "below": "94%",
+  "note": "L11",
+  "line": 67,
+  "wiki": "반응/공액 첨가",
+  "alt": "mesityl oxide + PhSH → 4-methyl-4-(phenylthio)pentan-2-one",
+  "cap": "S(파랑)가 β-탄소(빨강)에 붙는다"
+ },
+ {
+  "out": "figures/L11/chalcone_cyanide.json",
+  "title": "chalcone + CN− → β-cyano ketone (notes/통독/L11 68행)",
+  "reactants": [
+   "c1ccccc1/[CH:2]=C/C(=O)c1ccccc1",
+   "[C-:1]#N"
+  ],
+  "products": [
+   "c1ccccc1[CH:3]([C:3]#N)CC(=O)c1ccccc1"
+  ],
+  "conditions": "EtOH, HOAc",
+  "below": "95%",
+  "note": "L11",
+  "line": 68,
+  "wiki": "반응/공액 첨가",
+  "alt": "chalcone + CN− → β-cyano ketone",
+  "cap": "CN(파랑)이 β-탄소(빨강)에 붙는다"
+ },
+ {
+  "out": "figures/L11/isophorone_cuprate.json",
+  "title": "isophorone + MeMgBr/CuCl → 3,3,5,5-tetramethylcyclohexanone (notes/통독/L11 105행)",
+  "reactants": [
+   "C[C:2]1=CC(=O)CC(C)(C)C1"
+  ],
+  "products": [
+   "C[C:3]1(C)CC(=O)CC(C)(C)C1"
+  ],
+  "conditions": "MeMgBr, CuCl (cat.)",
+  "below": "Et2O; 83%",
+  "note": "L11",
+  "line": 105,
+  "wiki": "시약/유기구리 시약",
+  "alt": "isophorone + MeMgBr/CuCl → 3,3,5,5-tetramethylcyclohexanone",
+  "cap": "Cu 촉매로 methyl이 β-탄소(빨강)에 1,4-첨가한다"
+ },
+ {
+  "out": "figures/L11/acryloyl_chloride_nh3.json",
+  "title": "acryloyl chloride + NH3 → acrylamide (1,2) (notes/통독/L11 146행)",
+  "reactants": [
+   "C=C[C:2](=O)Cl",
+   "[NH3:1]"
+  ],
+  "products": [
+   "C=C[C:3](=O)[NH2:3]"
+  ],
+  "conditions": "",
+  "below": "1,2",
+  "note": "L11",
+  "line": 146,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "acryloyl chloride + NH3 → acrylamide (1,2)",
+  "cap": "acyl chloride는 C=O(빨강)에서 바로 치환된다"
+ },
+ {
+  "out": "figures/L11/methyl_acrylate_nh3.json",
+  "title": "methyl acrylate + NH3 → methyl 3-aminopropanoate (1,4) (notes/통독/L11 147행)",
+  "reactants": [
+   "[CH2:2]=CC(=O)OC",
+   "[NH3:1]"
+  ],
+  "products": [
+   "[NH2:3][CH2:3]CC(=O)OC"
+  ],
+  "conditions": "",
+  "below": "1,4",
+  "note": "L11",
+  "line": 147,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "methyl acrylate + NH3 → methyl 3-aminopropanoate (1,4)",
+  "cap": "ester에서는 β-탄소(빨강)로 1,4-첨가한다"
+ },
+ {
+  "out": "figures/L11/cinnamaldehyde_nabh4.json",
+  "title": "cinnamaldehyde → cinnamyl alcohol (1,2) (notes/통독/L11 148행)",
+  "reactants": [
+   "c1ccccc1/C=C/[CH:2]=O"
+  ],
+  "products": [
+   "c1ccccc1/C=C/[CH2:3][OH:3]"
+  ],
+  "conditions": "NaBH4, EtOH",
+  "below": "97%",
+  "note": "L11",
+  "line": 148,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "cinnamaldehyde → cinnamyl alcohol (1,2)",
+  "cap": "aldehyde는 C=O(빨강)가 직접 환원된다"
+ },
+ {
+  "out": "figures/L11/cyclopentenone_nabh4.json",
+  "title": "cyclopentenone → cyclopentanol (1,4 후 1,2) (notes/통독/L11 149행)",
+  "reactants": [
+   "O=C1[CH:1]=[CH:2]CC1"
+  ],
+  "products": [
+   "O[CH:3]1[CH2:3][CH2:3]CC1"
+  ],
+  "conditions": "NaBH4, EtOH",
+  "below": "99%",
+  "note": "L11",
+  "line": 149,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "cyclopentenone → cyclopentanol (1,4 후 1,2)",
+  "cap": "먼저 1,4로 C=C가, 그다음 C=O가 환원된다"
+ },
+ {
+  "out": "figures/L11/cyclohexenone_meli.json",
+  "title": "2-cyclohexenone + MeLi → 1-methylcyclohex-2-en-1-ol (1,2) (notes/통독/L11 160행)",
+  "reactants": [
+   "O=[C:2]1C=CCCC1"
+  ],
+  "products": [
+   "C[C:3]1([OH:3])C=CCCC1"
+  ],
+  "conditions": "1. CH3MgBr or CH3Li",
+  "below": "2. H3O+; 95%",
+  "note": "L11",
+  "line": 160,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "2-cyclohexenone + MeLi → 1-methylcyclohex-2-en-1-ol (1,2)",
+  "cap": "단단한 유기금속은 C=O(빨강)에 1,2-첨가한다"
+ },
+ {
+  "out": "figures/L11/michael_cyclohexanone_amide.json",
+  "title": "cyclohexanone enolate + (E)-CH3CH=CHCONMe2 → Michael (60%) (notes/통독/L11 251행)",
+  "reactants": [
+   "O=C1CCCC[CH2:1]1",
+   "C/[CH:2]=C/C(=O)N(C)C"
+  ],
+  "products": [
+   "O=C1CCCC[CH:3]1[CH:3](C)CC(=O)N(C)C"
+  ],
+  "conditions": "1. LDA",
+  "below": "2. (E)-crotonamide; 60%",
+  "note": "L11",
+  "line": 251,
+  "wiki": "반응/마이클 반응",
+  "alt": "cyclohexanone enolate + (E)-CH3CH=CHCONMe2 → Michael (60%)",
+  "cap": "enolate(파랑)가 β-탄소(빨강)에 1,4-첨가"
+ },
+ {
+  "out": "figures/L11/isobutyrate_12.json",
+  "title": "ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct (notes/통독/L11 260행)",
+  "reactants": [
+   "C[CH:1](C)C(=O)OCC"
+  ],
+  "products": [
+   "CC(C)=C[CH:3](O)[C:3](C)(C)C(=O)OCC"
+  ],
+  "conditions": "1. LDA, −78 °C, THF",
+  "below": "2. (CH3)2C=CHCHO; 72%",
+  "note": "L11",
+  "line": 260,
+  "wiki": "개념/1,2-첨가와 1,4-첨가",
+  "alt": "ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct",
+  "cap": "입체 장애가 큰 β-탄소 대신 C=O에 1,2-첨가한다"
+ },
+ {
+  "out": "figures/L11/michael_methylcyclopentanone.json",
+  "title": "2-methylcyclopentanone + methyl acrylate → Michael (53%) (notes/통독/L11 265행)",
+  "reactants": [
+   "C[CH:1]1CCCC1=O",
+   "[CH2:2]=CC(=O)OC"
+  ],
+  "products": [
+   "C[C:3]1([CH2:3]CC(=O)OC)CCCC1=O"
+  ],
+  "conditions": "t-BuOK",
+  "below": "53%",
+  "note": "L11",
+  "line": 265,
+  "wiki": "반응/마이클 반응",
+  "alt": "2-methylcyclopentanone + methyl acrylate → Michael (53%)",
+  "cap": "더 치환된 enolate(파랑)가 β-탄소(빨강)를 공격"
+ },
+ {
+  "out": "figures/L11/michael_malonate_crotonate.json",
+  "title": "diethyl malonate + ethyl crotonate → Michael (notes/통독/L11 280행)",
+  "reactants": [
+   "CCOC(=O)[CH2:1]C(=O)OCC",
+   "C/[CH:2]=C/C(=O)OCC"
+  ],
+  "products": [
+   "CCOC(=O)[CH:3](C(=O)OCC)[CH:3](C)CC(=O)OCC"
+  ],
+  "conditions": "NaOEt, EtOH",
+  "below": "reflux 1 h",
+  "note": "L11",
+  "line": 280,
+  "wiki": "반응/마이클 반응",
+  "alt": "diethyl malonate + ethyl crotonate → Michael",
+  "cap": "malonate anion(파랑) → β-탄소(빨강)"
+ },
+ {
+  "out": "figures/L11/michael_nitro_cyclohexenone.json",
+  "title": "PhCH2NO2 + 2-cyclohexenone → Michael (92%) (notes/통독/L11 284행)",
+  "reactants": [
+   "[O-][N+](=O)[CH2:1]c1ccccc1",
+   "O=C1C=[CH:2]CCC1"
+  ],
+  "products": [
+   "[O-][N+](=O)[CH:3](c1ccccc1)[CH:3]1CCCC(=O)C1"
+  ],
+  "conditions": "Al2O3, neat",
+  "below": "92%",
+  "note": "L11",
+  "line": 284,
+  "wiki": "반응/마이클 반응",
+  "alt": "PhCH2NO2 + 2-cyclohexenone → Michael (92%)",
+  "cap": "nitronate(파랑)가 β-탄소(빨강)에 첨가"
+ },
+ {
+  "out": "figures/L11/michael_nitro_cyclization.json",
+  "title": "Michael 후 분자내 SN2 → methyl 2-(2-nitrocyclohexyl)acetate (notes/통독/L11 285행)",
+  "reactants": [
+   "ICCCC/[CH:2]=C/C(=O)OC",
+   "[CH3:1][N+](=O)[O-]"
+  ],
+  "products": [
+   "COC(=O)C[CH:3]1CCCC[CH:3]1[N+](=O)[O-]"
+  ],
+  "conditions": "Cs2CO3, DMF",
+  "below": "65%",
+  "note": "L11",
+  "line": 285,
+  "wiki": "반응/마이클 반응",
+  "alt": "Michael 후 분자내 SN2 → methyl 2-(2-nitrocyclohexyl)acetate",
+  "cap": "Michael 첨가 뒤 nitronate가 C–I를 SN2로 닫아 고리(초록)"
+ },
+ {
+  "out": "figures/L11/enamine_michael_sme.json",
+  "title": "pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%) (notes/통독/L11 316행)",
+  "reactants": [
+   "[CH:1]1=C(N2CCCC2)CCCC1",
+   "[CH2:2]=C(SC)C(=O)OC"
+  ],
+  "products": [
+   "O=C1CCCC[CH:3]1[CH2:3]C(SC)C(=O)OC"
+  ],
+  "conditions": "MeCN",
+  "below": "then H2O; 95%",
+  "note": "L11",
+  "line": 316,
+  "wiki": "반응/스토크 엔아민 반응",
+  "alt": "pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%)",
+  "cap": "enamine β-C(파랑)가 acceptor β-탄소(빨강)에 첨가한 뒤 가수분해"
+ },
+ {
+  "out": "figures/L11/enamine_michael_so2ph.json",
+  "title": "morpholine enamine + CH2=C(SO2Ph)COCH3 → Michael (75%) (notes/통독/L11 317행)",
+  "reactants": [
+   "[CH:1]1=C(N2CCOCC2)CCCC1",
+   "[CH2:2]=C(S(=O)(=O)c1ccccc1)C(C)=O"
+  ],
+  "products": [
+   "O=C1CCCC[CH:3]1[CH2:3]C(S(=O)(=O)c1ccccc1)C(C)=O"
+  ],
+  "conditions": "SiO2, THF",
+  "below": "then H2O; 75%",
+  "note": "L11",
+  "line": 317,
+  "wiki": "반응/스토크 엔아민 반응",
+  "alt": "morpholine enamine + CH2=C(SO2Ph)COCH3 → Michael (75%)",
+  "cap": "같은 enamine Michael"
+ }
+]

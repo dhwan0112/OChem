@@ -1,0 +1,36 @@
+[
+ {
+  "out": "figures/L16/claisen_allyl_phenyl_ether.json",
+  "title": "allyl phenyl ether → 2-allylphenol (notes/통독/L16 64행)",
+  "reactants": [
+   "[CH2:1]=CC[O:2]c1ccccc1"
+  ],
+  "products": [
+   "C=C[CH2:3]c1ccccc1O"
+  ],
+  "conditions": "heat",
+  "below": "[3,3]",
+  "note": "L16",
+  "line": 64,
+  "wiki": "반응/클라이젠 자리옮김",
+  "alt": "allyl phenyl ether → 2-allylphenol",
+  "cap": "[3,3] 자리옮김 뒤 tautomer화. C–O(빨강)가 끊기고 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L16/chromate_33.json",
+  "title": "cyclohexenone → 3-methylcyclohex-2-enone (R = Me 예시) (notes/통독/L16 284행)",
+  "reactants": [
+   "O=C1C=CCCC1"
+  ],
+  "products": [
+   "CC1=CC(=O)CCC1"
+  ],
+  "conditions": "1. MeLi",
+  "below": "2. CrO3, H+",
+  "note": "L16",
+  "line": 284,
+  "wiki": "반응/시그마트로픽 자리옮김",
+  "alt": "cyclohexenone → 3-methylcyclohex-2-enone (R = Me 예시)",
+  "cap": "1,2-첨가로 3차 allyl alcohol을 만든 뒤 chromate ester [3,3]과 산화로 enone 위치가 옮겨 간다"
+ }
+]

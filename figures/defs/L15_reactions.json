@@ -1,0 +1,19 @@
+[
+ {
+  "out": "figures/L15/nitrile_oxide_from_acetaldehyde.json",
+  "title": "MeCHO → acetonitrile oxide (notes/통독/L15 209행)",
+  "reactants": [
+   "C[CH:2]=O"
+  ],
+  "products": [
+   "C[C:3]#[N+:3][O-:3]"
+  ],
+  "conditions": "1. H2NOH; 2. Cl2",
+  "below": "3. NEt3",
+  "note": "L15",
+  "line": 209,
+  "wiki": "반응/나이트릴 옥사이드 고리화 첨가",
+  "alt": "MeCHO → acetonitrile oxide",
+  "cap": "oxime → hydroximoyl chloride → 염기로 HCl 제거"
+ }
+]

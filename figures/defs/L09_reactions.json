@@ -1,0 +1,55 @@
+[
+ {
+  "out": "figures/L09/eaa_enolate.json",
+  "title": "ethyl acetoacetate → 안정한 enolate (notes/통독/L09 109행)",
+  "reactants": [
+   "C[C:1](=O)[CH2:2]C(=O)OCC"
+  ],
+  "products": [
+   "C[C:3]([O-:3])=[CH:3]C(=O)OCC"
+  ],
+  "conditions": "EtO−, EtOH",
+  "below": "",
+  "note": "L09",
+  "line": 109,
+  "wiki": "반응/클라이젠 축합",
+  "alt": "ethyl acetoacetate → 안정한 enolate",
+  "cap": "두 C=O 사이 α-H(빨강)가 떨어져 비편재화된 enolate(초록)가 된다. 이 단계가 Claisen 평형을 끌어간다"
+ },
+ {
+  "out": "figures/L09/dieckmann_adipate.json",
+  "title": "diethyl adipate → ethyl 2-oxocyclopentanecarboxylate (R = Et 예시) (notes/통독/L09 181행)",
+  "reactants": [
+   "CCOC(=O)CCC[CH2:1]C(=O)OCC"
+  ],
+  "products": [
+   "CCOC(=O)[CH:3]1CCC[C:3]1=O",
+   "CCO"
+  ],
+  "conditions": "1. NaOEt",
+  "below": "2. H+",
+  "note": "L09",
+  "line": 181,
+  "wiki": "반응/디크만 축합",
+  "alt": "diethyl adipate → ethyl 2-oxocyclopentanecarboxylate (R = Et 예시)",
+  "cap": "분자내 Claisen(Dieckmann). 5원 고리, 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L09/cyclooctanone_carbonate.json",
+  "title": "cyclooctanone + diethyl carbonate → ethyl 2-oxocyclooctanecarboxylate (notes/통독/L09 265행)",
+  "reactants": [
+   "O=C1CCCCCC[CH2:1]1",
+   "CCO[C:2](=O)OCC"
+  ],
+  "products": [
+   "CCOC(=O)[CH:3]1CCCCCCC1=O"
+  ],
+  "conditions": "NaOEt",
+  "below": "then H3O+",
+  "note": "L09",
+  "line": 265,
+  "wiki": "반응/교차 클라이젠 축합",
+  "alt": "cyclooctanone + diethyl carbonate → ethyl 2-oxocyclooctanecarboxylate",
+  "cap": "ketone enolate(파랑)가 carbonate C(빨강)를 공격한다"
+ }
+]

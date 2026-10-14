@@ -1,0 +1,20 @@
+[
+ {
+  "out": "figures/L10/enamine_cyclohexanone.json",
+  "title": "cyclohexanone + pyrrolidine → enamine (notes/통독/L10 205행)",
+  "reactants": [
+   "O=[C:2]1CCCCC1",
+   "C1CC[NH:1]C1"
+  ],
+  "products": [
+   "[C:3]1(=CCCCC1)[N:3]1CCCC1"
+  ],
+  "conditions": "cat. H+",
+  "below": "",
+  "note": "L11",
+  "line": 302,
+  "wiki": null,
+  "alt": "cyclohexanone + pyrrolidine → enamine",
+  "cap": "2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다"
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "out": "figures/L13/da_butadiene_ethylene.json",
+  "title": "butadiene + ethylene → cyclohexene (notes/통독/L13 90행)",
+  "reactants": [
+   "[CH2:1]=CC=[CH2:1]",
+   "[CH2:2]=[CH2:2]"
+  ],
+  "products": [
+   "C1=CC[CH2:3][CH2:3]C1"
+  ],
+  "conditions": "165 °C, 900 atm",
+  "below": "78%",
+  "note": "L13",
+  "line": 90,
+  "wiki": "반응/딜스-알더 반응",
+  "alt": "butadiene + ethylene → cyclohexene",
+  "cap": "diene(파랑)과 dienophile(빨강) 사이에 σ 결합 두 개(초록)"
+ },
+ {
+  "out": "figures/L13/da_butadiene_acrolein.json",
+  "title": "butadiene + acrolein → cyclohex-3-ene-1-carbaldehyde (notes/통독/L13 91행)",
+  "reactants": [
+   "[CH2:1]=CC=[CH2:1]",
+   "[CH2:2]=[CH:2]C=O"
+  ],
+  "products": [
+   "O=C[CH:3]1[CH2:3]C=CCC1"
+  ],
+  "conditions": "150 °C, 0.5 h",
+  "below": "",
+  "note": "L13",
+  "line": 91,
+  "wiki": "반응/딜스-알더 반응",
+  "alt": "butadiene + acrolein → cyclohex-3-ene-1-carbaldehyde",
+  "cap": "EWG가 있는 dienophile은 훨씬 빠르다"
+ },
+ {
+  "out": "figures/L13/da_butadiene_methylenemalonate.json",
+  "title": "butadiene + CH2=C(CO2Me)2 → dimethyl cyclohex-3-ene-1,1-dicarboxylate (notes/통독/L13 92행)",
+  "reactants": [
+   "[CH2:1]=CC=[CH2:1]",
+   "[CH2:2]=[C:2](C(=O)OC)C(=O)OC"
+  ],
+  "products": [
+   "COC(=O)[C:3]1(C(=O)OC)CC=CC[CH2:3]1"
+  ],
+  "conditions": "25 °C, 24 h",
+  "below": "80%",
+  "note": "L13",
+  "line": 92,
+  "wiki": "반응/딜스-알더 반응",
+  "alt": "butadiene + CH2=C(CO2Me)2 → dimethyl cyclohex-3-ene-1,1-dicarboxylate",
+  "cap": "EWG 두 개라 상온에서도 진행"
+ }
+]
