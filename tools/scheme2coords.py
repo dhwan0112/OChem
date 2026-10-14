@@ -34,7 +34,7 @@ def tw(t, size=8):  # 대략적인 글자 폭(결합 단위)
 
 
 def build(defn, td):
-    atoms, bonds, caps, arrows = [], [], [], []
+    atoms, bonds, caps, arrows, abbrev = [], [], [], [], []
     x = 0.0
     def place(smi):
         nonlocal x
@@ -43,7 +43,8 @@ def build(defn, td):
         xs = [a["position"]["x"] / 42 for a in A]; ys = [a["position"]["y"] / 42 for a in A]
         x0, cy = min(xs), (min(ys) + max(ys)) / 2
         lab = [a for a in A if a["element"] != "C"]
-        pad = 0.5 if any(abs(a["position"]["x"] / 42 - x0) < 0.05 for a in lab) else 0.0
+        ll = [a for a in lab if abs(a["position"]["x"] / 42 - x0) < 0.05]
+        pad = (0.5 + 0.3 * max(a.get("label_h", 0) for a in ll)) if ll else 0.0
         idx = {}
         for a in A:
             role = ROLE.get(a.get("map_num", 0))
@@ -51,6 +52,7 @@ def build(defn, td):
                  round(a["position"]["y"] / 42 - cy, 3), a["charge"], a.get("explicit_h", 0) or (a.get("label_h", 0) if a["element"] != "C" else 0)]
             if role: e.append(role)
             idx[a["id"]] = len(atoms); atoms.append(e)
+            if a["element"] == "H" and a.get("isotope") == 2: abbrev.append(["D", len(atoms) - 1, [len(atoms) - 1]])
         for b in d["bonds"]:
             i, j = idx[b["a"]], idx[b["b"]]
             ri = atoms[i][5] if len(atoms[i]) > 5 else None
@@ -81,7 +83,7 @@ def build(defn, td):
         place(s)
     for c in defn.get("captions", []):
         caps.append(c)
-    return {"title": defn.get("title", ""), "atoms": atoms, "bonds": bonds, "arrows": arrows, "captions": caps}
+    return {"title": defn.get("title", ""), "atoms": atoms, "bonds": bonds, "arrows": arrows, "captions": caps, **({"abbrev": abbrev} if abbrev else {})}
 
 
 if __name__ == "__main__":

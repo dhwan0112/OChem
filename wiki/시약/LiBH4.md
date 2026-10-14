@@ -38,6 +38,10 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 - 3β-acetoxy steroid-20-온: NaBH₄는 ketone만 환원하고 acetate를 남기지만, LiBH₄는 ketone과 acetate를 모두 환원해 3β-OH가 드러난 diol을 준다([L5 연습 문제](../../practice/L05_Exercises.md) 5번). (L5) (출처: L5 p.25)
 - [Evans oxazolidinone](에반스%20옥사졸리디논.md) 제거: alkylate된 N-acyl oxazolidinone을 LiBH₄로 환원하면 chiral 1차 alcohol(2-benzylbutane-1-ol)이 나오고 α-stereocenter는 유지된다. (L7) (출처: L7 p.28)
 
+![LiBH4: ester만 환원, acid 유지](../../figures/L05/libh4_ester.svg)
+
+*그림: ester C=O(빨강)만 $CH_2OH$(초록)로 환원되고 $CO_2H$는 남는다.*
+
 ## 이웃 시약과 비교
 
 | 시약 | ketone | ester | amide | carboxylic acid |

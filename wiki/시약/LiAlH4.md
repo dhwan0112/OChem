@@ -63,6 +63,18 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 - **[borane](보레인.md):** 산과 amide를 빠르게, ester·ketone은 느리게 환원한다. amide → amine은 둘 다 되지만 BH₃는 ester를 남긴다. (출처: L5 p.27)
 - **[DIBAL-H](DIBAL-H.md):** LiAlH₄는 ester를 alcohol까지 보내지만, DIBAL-H는 −70 °C에서 aldehyde에서 멈춘다. 대안으로 LiAlH₄로 alcohol까지 환원한 뒤 [DMP](DMP.md) 같은 순한 산화제로 aldehyde까지 되돌리는 우회로도 있다(→ [partial reduction of esters](../반응/에스터%20부분%20환원.md)). (출처: L5 p.29, L6c p.2)
 
+![2,2-dimethylpropanoic acid → neopentyl alcohol](../../figures/L05/lialh4_pivalic.svg)
+
+*그림: carboxylic acid(빨강)가 1차 alcohol(초록)로 환원된다(92%).*
+
+![2-bromopentane → pentane](../../figures/L05/lialh4_bromopentane.svg)
+
+*그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.*
+
+![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
+
+*그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.*
+
 ## 흔한 오해
 
 - **"amide를 LiAlH₄로 환원하면 alcohol이 된다"고 생각하기 쉽지만 사실은** C=O가 CH₂가 되어 **amine**이 된다. alcohol 두 개가 나오는 것은 ester다. (출처: L5 p.9, p.23)

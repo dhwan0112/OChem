@@ -71,6 +71,18 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 (출처: L5 p.17)
 
+![butanal → 1-butanol](../../figures/L05/butanal_nabh4.svg)
+
+*그림: aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다.*
+
+![butanone → 2-butanol](../../figures/L05/butanone_nabh4.svg)
+
+*그림: ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다.*
+
+![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
+
+*그림: C=O(빨강) → CH–OH(초록).*
+
 ## 흔한 오해
 
 - "NaBH₄로도 환원성 아미노화가 된다": imine이 생기기 전에 carbonyl을 먼저 alcohol로 환원해 버린다. 그래서 [NaBH3CN](NaBH3CN.md)을 쓴다. (출처: L5 p.17)
