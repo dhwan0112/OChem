@@ -13,7 +13,7 @@
 
 ## 개요
 
-alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 π 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
+alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 π comment: 그리스문자도 다 $\pi$ 이렇게 수식으로 래핑해. 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
 
 강의의 질문은 크게 세 가지다.
 1. alkene은 왜, 어떻게 electrophile과 반응하는가? (메커니즘)
@@ -30,7 +30,7 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 포화 화합물(saturated)에서 무언가를 떼어내면 이중결합이 생기고(제거 반응, elimination), 이중결합에 무언가를 붙이면 다시 포화된다(첨가 반응, addition).
 
-- 제거의 예: 2-bromobutane --[NaOEt]--> 2-butene. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다.
+- 제거의 예: 2-bromobutane --[NaOEt]--> 2-butene. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다. comment: 이런거도 그려달라고 그림으로. 
 - 첨가의 예: alkyne --[H₂, 린들라 촉매(Lindlar's catalyst = Pd, CaCO₃, Pb(OAc)₂)]--> *Z*-alkene. 슬라이드 예시에서는 수율 79%, 전부 *Z*였다.
 
 린들라 환원이 왜 *Z*만 주는가? 두 수소 원자가 금속 촉매 **표면의 같은 쪽**에서 alkyne에 동시에 올라타기 때문이다(syn 첨가). 같은 면에서 들어오니 두 H가 같은 쪽에 놓이고, 결과적으로 R¹과 R²도 같은 쪽에 남는 *Z*-alkene이 된다. (출처: L1 p.5)
@@ -45,16 +45,16 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 강의 p.8의 표는 이후 두 강의 전체의 "목차" 역할을 한다. R-CH=CH₂를 기준으로:
 
-| 반응 | 시약 | 결과 |
-|---|---|---|
-| 수소화 (hydrogenation) | H₂, Pd | 두 탄소에 H 하나씩 |
-| hydrogen halide 첨가 (hydrohalogenation) | HX (X = Cl, Br, I) | X는 치환기가 많은 탄소에, H는 CH₂ 쪽에 |
-| 수화 (hydration) | H₂O, H⁺ | OH는 치환기가 많은 탄소에 |
-| halogenation (halogenation) | X₂ | 두 탄소에 X 하나씩 |
-| halohydrin 형성 (halohydrin formation) | X₂, H₂O | OH는 치환기가 많은 탄소에, X는 CH₂ 쪽에 |
-| 수소붕소화 (hydroboration) | BH₃ | B는 CH₂ 쪽에 (이후 산화로 이어짐 → L2) |
-| dihydroxylation (dihydroxylation) | OsO₄ | 두 탄소에 OH 하나씩 |
-| 에폭시화 (epoxidation) | mCPBA | 3원 고리 epoxide |
+| 반응                                     | 시약                 | 결과                          |
+| -------------------------------------- | ------------------ | --------------------------- |
+| 수소화 (hydrogenation)                    | H₂, Pd             | 두 탄소에 H 하나씩                 |
+| hydrogen halide 첨가 (hydrohalogenation) | HX (X = Cl, Br, I) | X는 치환기가 많은 탄소에, H는 CH₂ 쪽에   |
+| 수화 (hydration)                         | H₂O, H⁺            | OH는 치환기가 많은 탄소에             |
+| halogenation (halogenation)            | X₂                 | 두 탄소에 X 하나씩                 |
+| halohydrin 형성 (halohydrin formation)   | X₂, H₂O            | OH는 치환기가 많은 탄소에, X는 CH₂ 쪽에  |
+| 수소붕소화 (hydroboration)                  | BH₃                | B는 CH₂ 쪽에 (이후 산화로 이어짐 → L2) |
+| dihydroxylation (dihydroxylation)      | OsO₄               | 두 탄소에 OH 하나씩                |
+| 에폭시화 (epoxidation)                     | mCPBA              | 3원 고리 epoxide               |
 
 (출처: L1 p.7)
 

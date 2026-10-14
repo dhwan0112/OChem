@@ -3,7 +3,7 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "figures",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "userIgnoreFilters": [
     "tools/"
   ],
