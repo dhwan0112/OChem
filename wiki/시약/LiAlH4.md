@@ -65,15 +65,15 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 ![2,2-dimethylpropanoic acid → neopentyl alcohol](../../figures/L05/lialh4_pivalic.svg)
 
-*그림: carboxylic acid(빨강)가 1차 alcohol(초록)로 환원된다(92%).*
+그림: carboxylic acid(빨강)가 1차 alcohol(초록)로 환원된다(92%).
 
 ![2-bromopentane → pentane](../../figures/L05/lialh4_bromopentane.svg)
 
-*그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.*
+그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.
 
 ![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
 
-*그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.*
+그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
 
 ## 흔한 오해
 

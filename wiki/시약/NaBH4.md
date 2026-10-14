@@ -35,7 +35,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 ![NaBH4의 수소화물이 ketone 탄소를 공격하고 alkoxide가 EtOH에서 양성자를 받는 메커니즘](../../figures/L05/nabh4_ketone.svg)
 
-*그림: 왼쪽은 1번 단계다. BH₄⁻의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 간다. 가운데는 2번 단계다. alkoxide O⁻(파랑)의 비공유 전자쌍이 EtOH의 H(빨강)를 가져가고, H–O 결합 전자는 O에 남아 EtO⁻가 된다. 새 C–H 결합은 초록이다. EtO⁻는 BH₃와 만나 EtOBH₃⁻가 된다.*
+그림: 왼쪽은 1번 단계다. BH₄⁻의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 간다. 가운데는 2번 단계다. alkoxide O⁻(파랑)의 비공유 전자쌍이 EtOH의 H(빨강)를 가져가고, H–O 결합 전자는 O에 남아 EtO⁻가 된다. 새 C–H 결합은 초록이다. EtO⁻는 BH₃와 만나 EtOBH₃⁻가 된다.
 
 (출처: L5 p.19)
 
@@ -73,15 +73,15 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 ![butanal → 1-butanol](../../figures/L05/butanal_nabh4.svg)
 
-*그림: aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다.*
+그림: aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다.
 
 ![butanone → 2-butanol](../../figures/L05/butanone_nabh4.svg)
 
-*그림: ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다.*
+그림: ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다.
 
 ![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
 
-*그림: C=O(빨강) → CH–OH(초록).*
+그림: C=O(빨강) → CH–OH(초록).
 
 ## 흔한 오해
 

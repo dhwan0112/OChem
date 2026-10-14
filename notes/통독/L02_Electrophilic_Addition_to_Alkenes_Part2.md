@@ -78,7 +78,7 @@ epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그�
 
 ![산 촉매 조건에서 protonate된 epoxide를 MeOH가 3차 탄소에서 여는 메커니즘](../../figures/L02/epoxide_acid.svg)
 
-*그림: 왼쪽: epoxide 산소의 비공유 전자쌍이 H⁺(빨강)를 protonation. 가운데: protonate된 산소 쪽 C–O 결합(빨강)이 늘어나며 3차 탄소에 부분 양전하(δ+)가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 공격한다(위 화살표). 동시에 C–O 결합 전자는 산소로 돌아간다(아래 화살표). 오른쪽: H⁺를 잃으면 OMe가 3차 탄소에 붙은 생성물이 된다(초록은 새 C–O 결합).*
+그림: 왼쪽: epoxide 산소의 비공유 전자쌍이 H⁺(빨강)를 protonation. 가운데: protonate된 산소 쪽 C–O 결합(빨강)이 늘어나며 3차 탄소에 부분 양전하(δ+)가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 공격한다(위 화살표). 동시에 C–O 결합 전자는 산소로 돌아간다(아래 화살표). 오른쪽: H⁺를 잃으면 OMe가 3차 탄소에 붙은 생성물이 된다(초록은 새 C–O 결합).
 
 ### 2.2 염기성 조건 (MeO⁻)
 
@@ -91,7 +91,7 @@ epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그�
 
 ![염기성 조건에서 MeO⁻가 epoxide의 1차 탄소를 S_N2로 공격하는 메커니즘](../../figures/L02/epoxide_base.svg)
 
-*그림: 왼쪽: methoxide(파랑, nucleophile)가 입체 장애가 적은 1차 탄소(빨강)를 C–O 결합의 반대편에서 공격하고, C–O 결합 전자가 산소로 옮겨가 고리가 열린다. 가운데: 생긴 alkoxide(O⁻)가 MeOH의 H(빨강)를 떼어 오고, H–O 결합 전자는 MeO⁻로 남는다. 오른쪽: OMe가 1차 탄소에, OH가 3차 탄소에 붙는다(산성 조건 그림과 정반대).*
+그림: 왼쪽: methoxide(파랑, nucleophile)가 입체 장애가 적은 1차 탄소(빨강)를 C–O 결합의 반대편에서 공격하고, C–O 결합 전자가 산소로 옮겨가 고리가 열린다. 가운데: 생긴 alkoxide(O⁻)가 MeOH의 H(빨강)를 떼어 오고, H–O 결합 전자는 MeO⁻로 남는다. 오른쪽: OMe가 1차 탄소에, OH가 3차 탄소에 붙는다(산성 조건 그림과 정반대).
 
 > 같은 epoxide라도 산성 조건에서는 OMe가 3차 탄소에, 염기성 조건에서는 1차 탄소에 붙는다. 시험에 자주 나오는 대비다.
 
@@ -113,15 +113,15 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 ![cyclopentene oxide + Me2NH → trans-2-(dimethylamino)cyclopentanol](../../figures/L02/cyclopentene_oxide_me2nh.svg)
 
-*그림: $Me_2NH$의 N(파랑)이 epoxide 탄소(빨강)를 뒤쪽에서 공격해 고리가 열린다. N과 OH가 trans(anti)가 되고 생성물은 라세미(±)다.*
+그림: $Me_2NH$의 N(파랑)이 epoxide 탄소(빨강)를 뒤쪽에서 공격해 고리가 열린다. N과 OH가 trans(anti)가 되고 생성물은 라세미(±)다.
 
 ![cyclohexene + Br2 → trans-1,2-dibromocyclohexane](../../figures/L02/cyclohexene_br2_trans.svg)
 
-*그림: anti 첨가라서 trans-1,2-dibromocyclohexane(±)만 생긴다. 파랑 = 반응하는 $\pi$ 결합 또는 친핵체 쪽, 빨강 = 친전자체 쪽(끊어지는 결합, 떠나는 기), 초록 = 새로 생긴 결합과 들어온 기.*
+그림: anti 첨가라서 trans-1,2-dibromocyclohexane(±)만 생긴다. 파랑 = 반응하는 $\pi$ 결합 또는 친핵체 쪽, 빨강 = 친전자체 쪽(끊어지는 결합, 떠나는 기), 초록 = 새로 생긴 결합과 들어온 기.
 
 ![Br⁻가 bromonium 이온의 반대쪽에서 탄소를 공격해 anti 생성물이 되는 메커니즘](../../figures/L01/bromonium_step2.svg)
 
-*그림: anti 첨가의 근거. Br⁻(파랑)가 bromonium 이온의 탄소(빨강)를 Br⁺의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자가 Br로 가며 고리가 열린다.*
+그림: anti 첨가의 근거. Br⁻(파랑)가 bromonium 이온의 탄소(빨강)를 Br⁺의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자가 Br로 가며 고리가 열린다.
 
 (출처: L2 p.10)
 
@@ -131,7 +131,7 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 ![anti 첨가의 입체특이성: (E)-2-butene은 meso, (Z)-2-butene은 racemic 2,3-dibromobutane](../../figures/L02/anti_addition_stereo.svg)
 
-*그림: 두 Br이 alkene의 반대쪽 면에서 붙는다(anti). zigzag 사슬에서 쐐기(wedge)는 앞, 점선 쐐기(hash)는 뒤다. (E)-2-butene에서는 두 Br이 쐐기/점선으로 갈려 대칭 중심이 있는 meso가 되고, (Z)-2-butene에서는 두 Br이 같은 표시인 거울상 한 쌍이 1:1로 생겨 racemic이다. 보충: 슬라이드의 stereospecificity 설명을 그림으로 다시 그린 것이다.*
+그림: 두 Br이 alkene의 반대쪽 면에서 붙는다(anti). zigzag 사슬에서 쐐기(wedge)는 앞, 점선 쐐기(hash)는 뒤다. (E)-2-butene에서는 두 Br이 쐐기/점선으로 갈려 대칭 중심이 있는 meso가 되고, (Z)-2-butene에서는 두 Br이 같은 표시인 거울상 한 쌍이 1:1로 생겨 racemic이다. 보충: 슬라이드의 stereospecificity 설명을 그림으로 다시 그린 것이다.
 
 ### 3.1 NBS: 다루기 쉬운 bromine 공급원
 
@@ -149,7 +149,7 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 ![trans-stilbene + NBS, H2O/DMSO → bromohydrin](../../figures/L02/stilbene_nbs_bromohydrin.svg)
 
-*그림: trans-stilbene의 bromohydrin 형성. 물이 bromonium 이온의 반대쪽에서 공격해 Br과 OH(초록)가 anti로 붙는다(±). 파랑 = 반응하는 C=C.*
+그림: trans-stilbene의 bromohydrin 형성. 물이 bromonium 이온의 반대쪽에서 공격해 Br과 OH(초록)가 anti로 붙는다(±). 파랑 = 반응하는 C=C.
 
 ### 3.2 NBS + alcohol: 위치·입체 선택성의 결합
 
@@ -160,15 +160,15 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 ![cyclohexene + NBS, HBr; propargyl alcohol → trans-1-bromo-2-(propargyloxy)cyclohexane](../../figures/L02/cyclohexene_nbs_propargyl.svg)
 
-*그림: alcohol(파랑 O)이 bromonium 이온을 열어 Br과 OR(초록)이 trans로 붙는다(±).*
+그림: alcohol(파랑 O)이 bromonium 이온을 열어 Br과 OR(초록)이 trans로 붙는다(±).
 
 ![1-methylcyclohexene + NBS; ROH → anti, OR은 3차 탄소](../../figures/L02/methylcyclohexene_nbs_meoh.svg)
 
-*그림: 1-methylcyclohexene. Br은 2차 탄소(CH)에, OR은 methyl이 붙은 3차 탄소에 anti로 붙는다. 그림의 OR은 예시로 OMe를 그렸다.*
+그림: 1-methylcyclohexene. Br은 2차 탄소(CH)에, OR은 methyl이 붙은 3차 탄소에 anti로 붙는다. 그림의 OR은 예시로 OMe를 그렸다.
 
 ![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-*그림: L1의 isobutene 예와 같은 메커니즘이다. C–Br 결합이 늘어나 3차 탄소에 부분 양전하(δ+)가 쌓이고, alcohol의 O(파랑)가 그 탄소를 Br⁺ 반대쪽에서 공격한 뒤 양성자를 잃는다(−H⁺).*
+그림: L1의 isobutene 예와 같은 메커니즘이다. C–Br 결합이 늘어나 3차 탄소에 부분 양전하(δ+)가 쌓이고, alcohol의 O(파랑)가 그 탄소를 Br⁺ 반대쪽에서 공격한 뒤 양성자를 잃는다(−H⁺).
 
 여기서 alcohol이 **더 붐비는 쪽**을 공격하는 이유는 L1과 같다. 느슨한 S<sub>N</sub>2 transition state에서 그쪽이 부분 양전하를 가장 잘 안정화하기 때문이다. (출처: L2 p.12)
 
@@ -191,7 +191,7 @@ cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanedi
 
 ![epoxidation 후 산성 개환으로 trans-diol (2/2)](../../figures/L02/epoxide_anti_diol_2.svg)
 
-*그림: 보충: mCPBA로 만든 epoxide를 산에서 물이 뒤쪽(backside)으로 열기 때문에 두 OH는 trans(anti)가 된다. 생성물은 라세미(±)이며, 그림은 한 거울상만 그렸다.*
+그림: 보충: mCPBA로 만든 epoxide를 산에서 물이 뒤쪽(backside)으로 열기 때문에 두 OH는 trans(anti)가 된다. 생성물은 라세미(±)이며, 그림은 한 거울상만 그렸다.
 
 
 (출처: L2 p.13)
@@ -206,7 +206,7 @@ cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanedi
 
 ![OsO₄가 cyclohexene과 고리형으로 반응해 오스메이트 ester를 거쳐 syn diol이 되는 메커니즘](../../figures/L02/oso4_dihydroxylation.svg)
 
-*그림: 화살표 셋이 한 번에 움직인다(슬라이드 p.14와 같은 배치). (1) 위쪽 Os=O의 π 전자가 위쪽 alkene 탄소와 새 C–O 결합을 만들고, (2) C=C π 전자(파랑)가 아래쪽 산소로 가서 두 번째 C–O 결합을 만들며, (3) 아래쪽 Os=O의 π 전자가 Os로 돌아간다. 그 결과 Os는 전자 두 개를 얻어 Os(VIII)에서 Os(VI)로 환원된다. 두 C–O 결합(초록 쐐기)이 같은 면에 생기므로, 가수분해(H₂O) 뒤에도 두 OH는 같은 쪽(syn)에 있다. 점선 쐐기의 H는 반대쪽 면을 향한다.*
+그림: 화살표 셋이 한 번에 움직인다(슬라이드 p.14와 같은 배치). (1) 위쪽 Os=O의 π 전자가 위쪽 alkene 탄소와 새 C–O 결합을 만들고, (2) C=C π 전자(파랑)가 아래쪽 산소로 가서 두 번째 C–O 결합을 만들며, (3) 아래쪽 Os=O의 π 전자가 Os로 돌아간다. 그 결과 Os는 전자 두 개를 얻어 Os(VIII)에서 Os(VI)로 환원된다. 두 C–O 결합(초록 쐐기)이 같은 면에 생기므로, 가수분해(H₂O) 뒤에도 두 OH는 같은 쪽(syn)에 있다. 점선 쐐기의 H는 반대쪽 면을 향한다.
 
 OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 **촉매량의 OsO₄**와 **NMO(N-methylmorpholine-N-oxide)** 를 함께 쓴다. NMO가 반응 후 생긴 Os(VI)를 다시 Os(VIII)로 산화해 촉매를 재생한다. 예: R-CH₂-CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R-CH₂-CH(OH)-C(OH)(CH₃)₂. (출처: L2 p.14)
 
@@ -241,7 +241,7 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 
 ![ozone이 2-butene에 고리형으로 첨가된 뒤 5원 고리가 무너져 aldehyde와 carbonyl oxide가 되는 메커니즘](../../figures/L02/ozonolysis.svg)
 
-*그림: 슬라이드의 R을 CH₃로 둔 2-butene으로 그렸다. addition: ozone 끝 산소의 음전하 전자쌍(파랑)이 한쪽 탄소를, C=C π 전자(파랑)가 반대쪽 끝 산소(빨강)를 공격하고, O=O⁺의 π 전자는 가운데 산소로 돌아간다. collapse: 오른쪽 고리 산소의 비공유 전자쌍이 C=O를 만들고, C–C σ 결합(빨강) 전자가 왼쪽 C–O 쪽으로 가서 또 하나의 C=O를 만들며, 약한 O–O 결합 전자는 꼭대기 산소로 간다. 결과는 aldehyde와 carbonyl oxide다(초록은 새로 생긴 C–O/C=O 결합). 이후 Me₂S나 Ph₃P가 남는 산소를 떼어 간다.*
+그림: 슬라이드의 R을 CH₃로 둔 2-butene으로 그렸다. addition: ozone 끝 산소의 음전하 전자쌍(파랑)이 한쪽 탄소를, C=C π 전자(파랑)가 반대쪽 끝 산소(빨강)를 공격하고, O=O⁺의 π 전자는 가운데 산소로 돌아간다. collapse: 오른쪽 고리 산소의 비공유 전자쌍이 C=O를 만들고, C–C σ 결합(빨강) 전자가 왼쪽 C–O 쪽으로 가서 또 하나의 C=O를 만들며, 약한 O–O 결합 전자는 꼭대기 산소로 간다. 결과는 aldehyde와 carbonyl oxide다(초록은 새로 생긴 C–O/C=O 결합). 이후 Me₂S나 Ph₃P가 남는 산소를 떼어 간다.
 
 두 번째 단계(후처리)에 무엇을 쓰느냐에 따라 생성물이 달라진다.
 
@@ -268,19 +268,19 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![methylenecyclohexane + H2O, H+ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
 
-*그림: Markovnikov 수화. H는 $CH_2$에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.*
+그림: Markovnikov 수화. H는 $CH_2$에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.
 
 ![산 촉매 수화 전체 메커니즘: methylenecyclohexane + H3O+ → cation → oxonium ion → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration_mech.svg)
 
-*그림: 산 촉매 수화의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 줄은 이것을 단계별로 풀어 쓴 것이다(대괄호는 중간체, ⇌는 평형). 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 H3O+가 물(nucleophile, 파랑)이 되며, 3차 탄소에는 cation(electrophile, 빨강)이 생긴다(Markovnikov). 2단계: 물의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)을 만들고 oxonium ion(conjugate acid, 빨강)이 된다. 3단계: 다른 물(base, 파랑)이 oxonium ion의 H를 가져가고 O–H 결합 전자는 양전하 O로 가서 중성 alcohol(초록 OH)과 H3O+가 생긴다.*
+그림: 산 촉매 수화의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 줄은 이것을 단계별로 풀어 쓴 것이다(대괄호는 중간체, ⇌는 평형). 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 H3O+가 물(nucleophile, 파랑)이 되며, 3차 탄소에는 cation(electrophile, 빨강)이 생긴다(Markovnikov). 2단계: 물의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)을 만들고 oxonium ion(conjugate acid, 빨강)이 된다. 3단계: 다른 물(base, 파랑)이 oxonium ion의 H를 가져가고 O–H 결합 전자는 양전하 O로 가서 중성 alcohol(초록 OH)과 H3O+가 생긴다.
 
 ![t-BuOH + H2SO4 ⇌ isobutene + H2O](../../figures/L02/tbuoh_e1.svg)
 
-*그림: 같은 조건에서 일어나는 역반응(E1 탈수). 떠나는 OH(빨강, protonate된 뒤 물로 떠난다)와 새 C=C(초록).*
+그림: 같은 조건에서 일어나는 역반응(E1 탈수). 떠나는 OH(빨강, protonate된 뒤 물로 떠난다)와 새 C=C(초록).
 
 ![t-BuOH의 산 촉매 E1 탈수 전체 메커니즘: t-BuOH + H2SO4 → oxonium ion → 3차 cation → isobutene + H2O + H2SO4](../../figures/L02/tbuoh_e1_mech.svg)
 
-*그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$(conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$(base, 파랑)의 전자쌍이 β-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$가 재생된다.*
+그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$(conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$(base, 파랑)의 전자쌍이 β-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$가 재생된다.
 
 (출처: L2 p.19)
 
@@ -292,15 +292,15 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
 
-*그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$의 O가 cation을 붙잡아 ester(초록)가 된다.*
+그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$의 O가 cation을 붙잡아 ester(초록)가 된다.
 
 ![TFA 첨가 전체 메커니즘: cyclohexene + CF3CO2H → cyclohexyl cation, CF3CO2− → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_mech.svg)
 
-*그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$(nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.*
+그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$(nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.
 
 ![cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol](../../figures/L02/cyclohexene_tfa_2.svg)
 
-*그림: 2단계: ester를 염기로 가수분해하면 cyclohexanol(초록 OH)과 trifluoroacetate anion이 생긴다.*
+그림: 2단계: ester를 염기로 가수분해하면 cyclohexanol(초록 OH)과 trifluoroacetate anion이 생긴다.
 
 (출처: L2 p.20)
 
@@ -335,7 +335,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ![BH₃가 프로펜에 협동적 syn 첨가해 B가 덜 치환된 탄소에 붙는 메커니즘](../../figures/L02/hydroboration.svg)
 
-*그림: 슬라이드의 cyclopentene 대신 비대칭 alkene인 프로펜으로 그려 regioselectivity을 함께 보였다. 화살표 둘이 동시에 움직인다. (1) C=C π 전자(파랑)가 보론(빨강, δ+)의 빈 p 궤도함수로 들어가 C–B 결합을 만들고, (2) B–H 결합(빨강) 전자가 H(δ−)를 데리고 더 치환된 탄소로 옮겨 간다. 두 결합(초록)이 alkene의 같은 면에 생기므로 syn 첨가다.*
+그림: 슬라이드의 cyclopentene 대신 비대칭 alkene인 프로펜으로 그려 regioselectivity을 함께 보였다. 화살표 둘이 동시에 움직인다. (1) C=C π 전자(파랑)가 보론(빨강, δ+)의 빈 p 궤도함수로 들어가 C–B 결합을 만들고, (2) B–H 결합(빨강) 전자가 H(δ−)를 데리고 더 치환된 탄소로 옮겨 간다. 두 결합(초록)이 alkene의 같은 면에 생기므로 syn 첨가다.
 
 ### 7.3 산화: C-B를 C-OH로
 
@@ -350,11 +350,11 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ![Ph-C(CH3)=CH2 → Ph-CH(CH3)-CH2OH (hydroboration–oxidation)](../../figures/L02/alpha_methylstyrene_hydroboration.svg)
 
-*그림: hydroboration–oxidation. OH(초록)가 덜 치환된 탄소($CH_2$, 파랑)에 붙는다(anti-Markovnikov).*
+그림: hydroboration–oxidation. OH(초록)가 덜 치환된 탄소($CH_2$, 파랑)에 붙는다(anti-Markovnikov).
 
 ![보론 ate 착물에서 alkyl group이 B에서 O로 이동하고 HO⁻가 떨어지는 메커니즘](../../figures/L02/borane_oxidation.svg)
 
-*그림: 2단계(alkyl group 이동)를 그렸다. HOO⁻가 보론에 붙어 생긴 음전하 ate 착물에서, C–B 결합(파랑) 전자가 alkyl group을 데리고 이웃 산소(빨강)로 옮겨 가고, 동시에 약한 O–O 결합(빨강) 전자가 HO⁻로 떨어져 나간다. 생긴 붕소 ester(C–O–BR₂, 초록은 새 C–O 결합)를 HO⁻가 공격해 B를 떼어 내고 protonate하면 alcohol이 된다. 앞의 수소붕소화 그림에서 이어지도록 alkyl group을 propyl group(Et–CH₂)로, 보론의 나머지 두 치환기를 R로 간단히 했다.*
+그림: 2단계(alkyl group 이동)를 그렸다. HOO⁻가 보론에 붙어 생긴 음전하 ate 착물에서, C–B 결합(파랑) 전자가 alkyl group을 데리고 이웃 산소(빨강)로 옮겨 가고, 동시에 약한 O–O 결합(빨강) 전자가 HO⁻로 떨어져 나간다. 생긴 붕소 ester(C–O–BR₂, 초록은 새 C–O 결합)를 HO⁻가 공격해 B를 떼어 내고 protonate하면 alcohol이 된다. 앞의 수소붕소화 그림에서 이어지도록 alkyl group을 propyl group(Et–CH₂)로, 보론의 나머지 두 치환기를 R로 간단히 했다.
 
 > 보충: alkyl group이 이동할 때 탄소의 입체배치는 **retention** 된다. 그래서 수소붕소화-산화는 전체적으로 H와 OH의 syn 첨가가 된다. 슬라이드에 명시된 내용은 아니지만 표준 교재(Clayden 등)의 내용이다. (보충 근거: Wade p.347)
 

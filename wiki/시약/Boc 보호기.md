@@ -34,11 +34,11 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ![Boc carbamate의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid가 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-*그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.*
+그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.
 
 ![carbamic acid가 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
-*그림: 위 3–4단계. 윗줄: carbamic acid가 proton transfer로 O⁻/N⁺H2 zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 CO2와 H2N–R이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.*
+그림: 위 3–4단계. 윗줄: carbamic acid가 proton transfer로 O⁻/N⁺H2 zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 CO2와 H2N–R이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.
 
 즉 Boc가 산에 약한 진짜 이유는 "안정한 3차 carbocation을 내놓을 수 있다"는 데 있다. 부산물이 CO2와 isobutene이라는 기체라서 반응이 한 방향으로 깔끔하게 진행된다는 점도 장점이다.[^2] (출처: L12 p.10)
 
@@ -57,11 +57,11 @@ Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기�
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-*그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.*
+그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 
-*그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.*
+그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
 
 ## 흔한 오해
 

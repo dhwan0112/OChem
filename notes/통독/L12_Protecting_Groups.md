@@ -22,7 +22,7 @@ ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응�
 
 ![대표 protecting group 구조 (파랑: 보호되는 자리, 빨강: 탈보호 자리)](../../figures/L12/pg_types.svg)
 
-*그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 탈보호 때 공격·절단되는 자리(Si는 $F^-$, t-Bu C는 $H^+$, benzyl C는 $H_2/Pd$, acetal C는 $H_3O^+$).*
+그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 탈보호 때 공격·절단되는 자리(Si는 $F^-$, t-Bu C는 $H^+$, benzyl C는 $H_2/Pd$, acetal C는 $H_3O^+$).
 
 이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 
 1) 각 protecting group을 어떻게 씌우고 벗기는지, 
@@ -44,7 +44,7 @@ protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시�
 ![palytoxin 구조 (2/3)](../../figures/L12/palytoxin_2.svg)
 ![palytoxin 구조 (3/3)](../../figures/L12/palytoxin_3.svg)
 
-*그림: 보충: palytoxin의 구조($C_{129}H_{223}N_3O_{54}$, PubChem CID 11105289의 SMILES로 그림). 너무 길어서 세 조각으로 나눴고, 점선 결합이 다음 조각으로 이어지는 자리다. 파랑은 모두 OH로, protecting group 없이는 이 중 하나만 골라 반응시킬 수 없다.*
+그림: 보충: palytoxin의 구조($C_{129}H_{223}N_3O_{54}$, PubChem CID 11105289의 SMILES로 그림). 너무 길어서 세 조각으로 나눴고, 점선 결합이 다음 조각으로 이어지는 자리다. 파랑은 모두 OH로, protecting group 없이는 이 중 하나만 골라 반응시킬 수 없다.
 
 그런데 이 분자를 만들 때 진짜 골칫거리는 무엇일까? 바로 거의 똑같이 생긴 OH가 40개나 있다는 점이다. 그중 하나만 반응시키고 나머지는 그대로 두고 싶다면, 나머지 OH를 어떻게든 반응하지 못하게 막아야 한다. 즉 protecting group 없이는 이런 분자의 합성을 시도조차 할 수 없다.
 
@@ -81,7 +81,7 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 
 ![보호–반응–탈보호 흐름](../../figures/L12/pg_strategy.svg)
 
-*그림: 보충: protecting group 전략의 흐름. 방해되는 FG1을 PG로 보호하고, FG2에서 원하는 반응을 한 뒤(EE), PG를 떼어 FG1을 되살린다.*
+그림: 보충: protecting group 전략의 흐름. 방해되는 FG1을 PG로 보호하고, FG2에서 원하는 반응을 한 뒤(EE), PG를 떼어 FG1을 되살린다.
 
 
 말은 쉽지만 여기에는 두 가지 조건이 붙는다. 하나는 보호와 탈보호 반응 자체가 깔끔하게 일어나야 한다는 것이고, 다른 하나는 protecting group이 FG2에서 일어나는 반응 조건을 견딜 만큼 안정해야 한다는 것이다. 결국 protecting group 선택이란 "어떤 조건에서 버티고, 어떤 조건에서 벗겨지는가"를 맞추는 퍼즐이다.
@@ -142,7 +142,7 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 
 ![TBSCl/imidazole에 의한 alcohol 보호](../../figures/L12/tbs_protection_imidazole.svg)
 
-*그림: 보충: alcohol O(파랑)의 전자쌍이 Si(빨강)를 공격하고 $Cl^-$가 떨어진다. imidazole의 N 전자쌍이 O–H 양성자를 받아 $HCl$을 중화한다. 실제로는 imidazole이 먼저 Si를 공격해 silyl imidazolium을 만드는 친핵성 촉매 경로가 주로 작동한다.*
+그림: 보충: alcohol O(파랑)의 전자쌍이 Si(빨강)를 공격하고 $Cl^-$가 떨어진다. imidazole의 N 전자쌍이 O–H 양성자를 받아 $HCl$을 중화한다. 실제로는 imidazole이 먼저 Si를 공격해 silyl imidazolium을 만드는 친핵성 촉매 경로가 주로 작동한다.
 
 alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 나가며 Si–O 결합이 생긴다. 그런데 imidazole은 왜 넣을까? imidazole은 생기는 HCl을 받아 주는 염기일 뿐 아니라, silyl chloride와 먼저 반응해 더 반응성이 큰 silyl imidazolium intermediate를 만드는 친핵성 촉매 역할도 한다.[2]
 
@@ -158,7 +158,7 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 ![TBS 보호 후 acetylide alkylation (2/2)](../../figures/L12/tbs_acetylide_2.svg)
 
-*그림: 보충: 2차 alcohol을 TBS ether로 막은 뒤 $HC{\equiv}CLi$로 1차 $C-Br$를 $S_N2$ 치환한다. OH가 그대로 있으면 acetylide가 O–H 양성자부터 떼어 버린다.*
+그림: 보충: 2차 alcohol을 TBS ether로 막은 뒤 $HC{\equiv}CLi$로 1차 $C-Br$를 $S_N2$ 치환한다. OH가 그대로 있으면 acetylide가 O–H 양성자부터 떼어 버린다.
 
 
 산성 양성자가 사라졌으니 이제 acetylide는 원래 목적대로 C–Br에서 치환 반응만 하게 된다.
@@ -172,7 +172,7 @@ $F^-$는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si�
 
 ![F⁻가 silyl ether의 Si를 공격하고 alkoxide가 떨어지는 TBAF 탈보호](../../figures/L12/silyl_tbaf.svg)
 
-*그림: 보충(슬라이드에는 조건만 있다). F⁻(파랑)의 전자쌍이 Si(빨강)를 공격하고, Si–O 결합(빨강)의 전자가 산소로 가서 alkoxide가 떨어진다. 실제로는 F⁻가 먼저 Si에 첨가해 다섯 배위 anion을 거친 뒤 분해되므로 단순한 SN2가 아니다. 새로 생기는 Si–F 결합(초록)이 강하다는 것이 추진력이고, alkoxide는 후처리에서 protonate되어 ROH가 된다. (보충 근거: Clayden p.550)*
+그림: 보충(슬라이드에는 조건만 있다). F⁻(파랑)의 전자쌍이 Si(빨강)를 공격하고, Si–O 결합(빨강)의 전자가 산소로 가서 alkoxide가 떨어진다. 실제로는 F⁻가 먼저 Si에 첨가해 다섯 배위 anion을 거친 뒤 분해되므로 단순한 SN2가 아니다. 새로 생기는 Si–F 결합(초록)이 강하다는 것이 추진력이고, alkoxide는 후처리에서 protonate되어 ROH가 된다. (보충 근거: Clayden p.550)
 
 (출처: L12 p.5, p.6)
 
@@ -206,7 +206,7 @@ amine은 좋은 nucleophile이자 염기라서, electrophile이 있는 반응에
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-*그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.*
+그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$가 떨어지고, 이것이 $CO_2$와 $tBuO^-$로 분해되어 반응을 끌어당긴다.
 
 대표 선수는 두 명이다. benzyl 카바메이트인 Cbz(Z라고도 함, R'RN-CO-OCH2Ph)는 BnOCOCl과 염기로 씌우고, t-butyl 카바메이트인 Boc(R'RN-CO-OC(CH3)3)는 (t-BuOCO)2O, 흔히 Boc2O라 부르는 시약과 염기로 씌운다.
 
@@ -218,13 +218,13 @@ Boc는 산(예: TFA, trifluoroacetic acid)으로 벗긴다. Cbz는 H2/Pd hydroge
 
 ![Cbz의 benzyl C–O 결합이 H2/Pd로 끊겨 carbamic acid와 toluene이 되는 수소화분해](../../figures/L12/cbz_hydrogenolysis.svg)
 
-*그림: 보충(슬라이드에는 조건만 있다). H₂/Pd 조건에서 benzyl C–O 결합(빨강)이 끊기고, H₂의 수소(초록)가 양쪽 조각에 붙어 carbamic acid와 toluene이 된다. 금속 표면에서 일어나는 반응이라 굽은 화살표는 그리지 않았다. carbamic acid는 저절로 CO₂를 잃고 amine이 된다(이 단계의 화살표는 7-3절의 두 번째 그림 참고). (보충 근거: Clayden p.557)*
+그림: 보충(슬라이드에는 조건만 있다). H₂/Pd 조건에서 benzyl C–O 결합(빨강)이 끊기고, H₂의 수소(초록)가 양쪽 조각에 붙어 carbamic acid와 toluene이 된다. 금속 표면에서 일어나는 반응이라 굽은 화살표는 그리지 않았다. carbamic acid는 저절로 CO₂를 잃고 amine이 된다(이 단계의 화살표는 7-3절의 두 번째 그림 참고). (보충 근거: Clayden p.557)
 
 보충: 카바메이트는 ester와 amide의 "잡종"이지만 화학적 성질은 amide에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl group 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl group에 있다. 강산 HBr이 carbonyl 산소를 protonate하면, 친핵성이 좋은 Br-가 **benzyl 탄소를 SN2로 공격**해 BnBr을 떼어 내고 carbamic acid이 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 7-3절 Boc와 대비된다. Boc는 t-butyl group이 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br-처럼 좋은 nucleophile이 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
 
 ![protonate된 Cbz의 benzyl 탄소를 Br⁻가 SN2로 공격해 carbamic acid와 benzyl bromide가 되는 단계](../../figures/L12/cbz_hbr.svg)
 
-*그림: 보충. HBr이 carbonyl 산소를 protonation한 상태(빨강 O⁺)에서, Br⁻(파랑)의 전자쌍이 benzyl 탄소(빨강)를 CH2–O 결합의 뒤쪽에서 SN2로 공격하고, CH2–O 결합(빨강)의 전자는 산소로 간다. carbamic acid(초록이 새 C=O)와 benzyl bromide(초록이 새 C–Br)가 생긴다. (보충 근거: Clayden p.557)*
+그림: 보충. HBr이 carbonyl 산소를 protonation한 상태(빨강 O⁺)에서, Br⁻(파랑)의 전자쌍이 benzyl 탄소(빨강)를 CH2–O 결합의 뒤쪽에서 SN2로 공격하고, CH2–O 결합(빨강)의 전자는 산소로 간다. carbamic acid(초록이 새 C=O)와 benzyl bromide(초록이 새 C–Br)가 생긴다. (보충 근거: Clayden p.557)
 
 (출처: L12 p.8)
 
@@ -260,7 +260,7 @@ Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 met
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 
-*그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.*
+그림: $NH_2$(파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
 
 그렇다면 Boc는 왜 산에서 벗겨질까? 메커니즘을 따라가 보면 답이 보인다.
 
@@ -271,11 +271,11 @@ Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 met
 
 ![Boc 카바메이트의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid이 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-*그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)과 3차 t-butyl cation이 생긴다.*
+그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)과 3차 t-butyl cation이 생긴다.
 
 ![carbamic acid이 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
-*그림: 위 3–4단계. 윗줄: carbamic acid이 양성자 이동으로 O⁻/N⁺H2 zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 CO2와 H2N–R이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.*
+그림: 위 3–4단계. 윗줄: carbamic acid이 양성자 이동으로 O⁻/N⁺H2 zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 CO2와 H2N–R이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.
 
 즉 Boc가 산에 약한 진짜 이유는 "안정한 3차 cation을 내놓을 수 있다"는 데 있다. 부산물이 CO2와 isobutene이라는 기체라서 반응이 한 방향으로 깔끔하게 진행된다는 점도 장점이다.[8]
 
@@ -300,7 +300,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 ![amine 염기가 Fmoc의 fluorene 9번 C–H를 떼고, anion이 카바메이트를 밀어내 dibenzofulvene과 카바메이트 anion이 되는 E1cB 메커니즘](../../figures/L12/fmoc_removal.svg)
 
-*그림: 윗줄 왼쪽: NR3(파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14전자 방향족계로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, CH2–O 결합(빨강) 전자가 산소로 떨어져 E1cB. 아랫줄: dibenzofulvene(초록이 새 C=C)과 카바메이트 anion이 생기고, 카바메이트 anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 CO2와 H2N–R이 된다.*
+그림: 윗줄 왼쪽: NR3(파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14전자 방향족계로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, CH2–O 결합(빨강) 전자가 산소로 떨어져 E1cB. 아랫줄: dibenzofulvene(초록이 새 C=C)과 카바메이트 anion이 생기고, 카바메이트 anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 CO2와 H2N–R이 된다.
 
 보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 방향족 anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 방향족인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 π계를 이룬다). (보충 근거: Clayden p.559)
 
@@ -340,11 +340,11 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ![carbonyl protonation과 ethylene glycol OH의 첨가로 hemiacetal이 되는 단계](../../figures/L12/acetal_hemiacetal.svg)
 
-*그림: 보충(슬라이드는 전체 반응식만 보여 준다). 왼쪽: carbonyl 산소(파랑)의 전자쌍이 p-TsOH의 H⁺(빨강)를 잡는다. 가운데: protonate된 carbonyl(oxonium ion)의 탄소(빨강)를 ethylene glycol의 O(파랑)가 공격하고, C=O π 전자는 O⁺로 돌아간다. 오른쪽: 양성자를 잃으면 hemiacetal이 된다(초록이 새 C–O). 모든 단계가 평형이다. (보충 근거: Clayden p.226, p.228)*
+그림: 보충(슬라이드는 전체 반응식만 보여 준다). 왼쪽: carbonyl 산소(파랑)의 전자쌍이 p-TsOH의 H⁺(빨강)를 잡는다. 가운데: protonate된 carbonyl(oxonium ion)의 탄소(빨강)를 ethylene glycol의 O(파랑)가 공격하고, C=O π 전자는 O⁺로 돌아간다. 오른쪽: 양성자를 잃으면 hemiacetal이 된다(초록이 새 C–O). 모든 단계가 평형이다. (보충 근거: Clayden p.226, p.228)
 
 ![hemiacetal에서 물이 떨어져 oxonium ion이 되고 두 번째 OH가 고리를 닫아 1,3-dioxolane이 되는 단계](../../figures/L12/acetal_ring_closure.svg)
 
-*그림: 보충. 왼쪽: hemiacetal의 OH가 protonate된 뒤, 이웃 산소(파랑)의 전자쌍이 내려와 C=O⁺를 만들면서 C–OH₂⁺ 결합(빨강)의 전자를 가지고 물이 떨어져 나간다. 가운데: oxonium ion의 탄소(빨강)를 같은 분자의 두 번째 OH(파랑)가 공격해 5원 고리를 닫는다. 오른쪽: 양성자를 잃어 1,3-dioxolane이 된다(초록이 새 C–O). 탈보호(가수분해)는 이 과정을 거꾸로 밟는다. (보충 근거: Clayden p.228)*
+그림: 보충. 왼쪽: hemiacetal의 OH가 protonate된 뒤, 이웃 산소(파랑)의 전자쌍이 내려와 C=O⁺를 만들면서 C–OH₂⁺ 결합(빨강)의 전자를 가지고 물이 떨어져 나간다. 가운데: oxonium ion의 탄소(빨강)를 같은 분자의 두 번째 OH(파랑)가 공격해 5원 고리를 닫는다. 오른쪽: 양성자를 잃어 1,3-dioxolane이 된다(초록이 새 C–O). 탈보호(가수분해)는 이 과정을 거꾸로 밟는다. (보충 근거: Clayden p.228)
 
 (출처: L12 p.13)
 
@@ -362,7 +362,7 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (3/3)](../../figures/L12/acetal_grignard_ketoester_3.svg)
 
-*그림: 보충: ethyl acetoacetate의 ketone만 ethylene glycol acetal로 보호하고, $PhMgBr$ 2당량을 ester에 첨가해 3차 alcohol을 만든 뒤 산 수용액으로 acetal을 벗긴다.*
+그림: 보충: ethyl acetoacetate의 ketone만 ethylene glycol acetal로 보호하고, $PhMgBr$ 2당량을 ester에 첨가해 3차 alcohol을 만든 뒤 산 수용액으로 acetal을 벗긴다.
 
 
 **예제 2 (불가능한 Grignard reagent 만들기).** ketone이 있으면 Grignard 시약을 만들 수 없었다. 그렇다면 ketone을 가리면 된다.
@@ -374,7 +374,7 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ![5-bromopentan-2-one + ethylene glycol → cyclic acetal](../../figures/L12/acetal_bromoketone.svg)
 
-*그림: ketone(빨강)을 고리 acetal(초록)로 보호한다.*
+그림: ketone(빨강)을 고리 acetal(초록)로 보호한다.
 
 ![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (1/4)](../../figures/L12/acetal_grignard_bromoketone_1.svg)
 
@@ -384,7 +384,7 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (4/4)](../../figures/L12/acetal_grignard_bromoketone_4.svg)
 
-*그림: 보충: 5-bromopentan-2-one의 ketone을 acetal로 막아야 같은 분자에서 Grignard 시약을 만들 수 있다. $HCO_2Et$에 Grignard 시약 두 분자가 첨가해 2차 alcohol이 되고, 마지막에 두 acetal을 함께 벗긴다.*
+그림: 보충: 5-bromopentan-2-one의 ketone을 acetal로 막아야 같은 분자에서 Grignard 시약을 만들 수 있다. $HCO_2Et$에 Grignard 시약 두 분자가 첨가해 2차 alcohol이 되고, 마지막에 두 acetal을 함께 벗긴다.
 
 
 (출처: L12 p.14, p.3)

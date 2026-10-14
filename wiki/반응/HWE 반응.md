@@ -47,7 +47,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
 
-*그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.*
+그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.
 
 ## 흔한 오해
 

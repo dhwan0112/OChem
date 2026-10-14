@@ -48,7 +48,7 @@ Woodward–Hoffmann 규칙은 반응이 **허용되는지만** 알려 주고 어
 
 ![hexatriene의 6π electrocyclic 고리 닫힘](../../figures/L17/hexatriene_closure.svg)
 
-*그림: 굽은 화살표(주황) 세 개가 고리를 따라 한 방향으로 돈다. 한쪽 끝 π 결합의 전자가 양 끝 탄소(C1, C6) 사이에 새 σ 결합(초록)을 만들고, 나머지 두 π 결합은 한 칸씩 옮겨 가 cyclohexa-1,3-diene의 두 C=C가 된다. 화살표를 모두 반대 방향으로 돌려 그려도 같은 반응이다. 500 °C에서 고리가 닫히는 쪽이 유리한 것은 잃는 π 결합보다 새 σ 결합이 강하기 때문이다. (근거: Clayden p.922)*
+그림: 굽은 화살표(주황) 세 개가 고리를 따라 한 방향으로 돈다. 한쪽 끝 π 결합의 전자가 양 끝 탄소(C1, C6) 사이에 새 σ 결합(초록)을 만들고, 나머지 두 π 결합은 한 칸씩 옮겨 가 cyclohexa-1,3-diene의 두 C=C가 된다. 화살표를 모두 반대 방향으로 돌려 그려도 같은 반응이다. 500 °C에서 고리가 닫히는 쪽이 유리한 것은 잃는 π 결합보다 새 σ 결합이 강하기 때문이다. (근거: Clayden p.922)
 
 규칙을 적용할 때는 고리 열림이 유리한 반응이라도 **고리 닫힘 쪽으로 생각하는 것이 대개 쉽다**. 정반응이 허용이면 역반응도 허용이므로 결론은 같다. (출처: Clayden p.923)
 
@@ -99,7 +99,7 @@ cyclobutene의 고리 열림은 실제로 잘 일어난다. 역반응인 butadie
 
 ![octatriene의 열적 disrotatory 고리 닫힘](../../figures/L17/octatriene_disrotatory.svg)
 
-*그림: (2E,4Z,6E)-octa-2,4,6-triene을 U자형으로 그렸다. E 배치라 두 Me는 바깥쪽, 두 말단 H는 안쪽을 향한다. 굽은 화살표(주황) 세 개로 양 끝 사이에 새 σ 결합(초록)이 생긴다. 열적 6π 반응은 disrotatory(π6s)라 두 Me가 고리 면의 같은 쪽으로 돌아, 생성물에서 두 Me는 모두 쐐기(cis), 두 H는 모두 점선이 된다. 빛을 쬐면 conrotatory(π6a)가 되어 trans-dimethyl 생성물이 생긴다. (근거: Clayden p.924–925, p.927)*
+그림: (2E,4Z,6E)-octa-2,4,6-triene을 U자형으로 그렸다. E 배치라 두 Me는 바깥쪽, 두 말단 H는 안쪽을 향한다. 굽은 화살표(주황) 세 개로 양 끝 사이에 새 σ 결합(초록)이 생긴다. 열적 6π 반응은 disrotatory(π6s)라 두 Me가 고리 면의 같은 쪽으로 돌아, 생성물에서 두 Me는 모두 쐐기(cis), 두 H는 모두 점선이 된다. 빛을 쬐면 conrotatory(π6a)가 되어 trans-dimethyl 생성물이 생긴다. (근거: Clayden p.924–925, p.927)
 
 ### 3.2 cyclobutene: 4π 열적 반응은 conrotatory
 
@@ -107,7 +107,7 @@ cis-3,4-dimethylcyclobutene을 가열하면 (*E*,*Z*)-헥사-2,4-diene **한 가
 
 ![cis-3,4-dimethylcyclobutene의 conrotatory 고리 열림](../../figures/L17/cyclobutene_conrotatory.svg)
 
-*그림: cis-3,4-dimethylcyclobutene(두 Me가 모두 쐐기)의 고리 열림. 아래쪽 주황 화살표는 끊어지는 C3–C4 σ 결합의 전자가 왼쪽 C=C π 결합이 되는 것, 위쪽 화살표는 원래의 C1=C2 π 결합이 오른쪽 C=C로 옮겨 가는 것이다. 새로 생긴 두 π 결합은 초록이다. 열적 4π 반응은 conrotatory(π4a)라 두 끝이 같은 회전 방향으로 돌고, 그 결과 한 Me는 바깥(E), 다른 Me는 안쪽(Z)으로 가서 (2E,4Z)-hexa-2,4-diene 한 가지만 생긴다. 생성물은 고리와의 대응이 보이도록 s-cis 형태로 그렸다. (근거: Clayden p.922, p.925)*
+그림: cis-3,4-dimethylcyclobutene(두 Me가 모두 쐐기)의 고리 열림. 아래쪽 주황 화살표는 끊어지는 C3–C4 σ 결합의 전자가 왼쪽 C=C π 결합이 되는 것, 위쪽 화살표는 원래의 C1=C2 π 결합이 오른쪽 C=C로 옮겨 가는 것이다. 새로 생긴 두 π 결합은 초록이다. 열적 4π 반응은 conrotatory(π4a)라 두 끝이 같은 회전 방향으로 돌고, 그 결과 한 Me는 바깥(E), 다른 Me는 안쪽(Z)으로 가서 (2E,4Z)-hexa-2,4-diene 한 가지만 생긴다. 생성물은 고리와의 대응이 보이도록 s-cis 형태로 그렸다. (근거: Clayden p.922, p.925)
 
 ### 3.3 이름 붙이기: "같은 방향으로 도느냐"
 
@@ -156,7 +156,7 @@ butadiene ψ2의 양 끝 위상이 반대라는 것은 [L13](L13_Cycloaddition_P
 
 ![열적 4π는 conrotatory, 6π는 disrotatory: HOMO 말단 로브의 위상](../../figures/L17/con_dis_homo_lobes.svg)
 
-*그림: 왼쪽은 HOMO의 위상(채움 +, 빈 것 −; 흐린 로브는 가운데 탄소). 4π의 ψ₂는 양 끝의 위쪽 로브 위상이 반대라 두 끝이 같은 방향으로 돌아야(conrotatory) 같은 위상끼리 만난다. 6π의 ψ₃는 양 끝 위상이 같아서 반대 방향으로 돌아야(disrotatory) 한다. 주황 화살표는 회전 방향, 초록 점선은 새 σ 결합이다. 보충: 슬라이드의 HOMO 대칭 논리를 그림으로 옮긴 것이다.*
+그림: 왼쪽은 HOMO의 위상(채움 +, 빈 것 −; 흐린 로브는 가운데 탄소). 4π의 ψ₂는 양 끝의 위쪽 로브 위상이 반대라 두 끝이 같은 방향으로 돌아야(conrotatory) 같은 위상끼리 만난다. 6π의 ψ₃는 양 끝 위상이 같아서 반대 방향으로 돌아야(disrotatory) 한다. 주황 화살표는 회전 방향, 초록 점선은 새 σ 결합이다. 보충: 슬라이드의 HOMO 대칭 논리를 그림으로 옮긴 것이다.
 
 ### 4.3 광화학 반응: 들뜬 상태의 HOMO
 
@@ -196,11 +196,11 @@ Wade는 같은 이야기를 7-dehydrocholesterol → 프로비타민 D3로 소�
 
 ![7-dehydrocholesterol에서 vitamin D3까지 (2/2)](../../figures/L17/vitamin_d_pathway_2.svg)
 
-*그림: 보충: 햇빛(hν)에서 cyclohexadiene 고리가 6π conrotatory로 열려 previtamin D3(가운데 Z-alkene)가 되고, 이어서 열적 [1,7]-H 이동(antarafacial)으로 vitamin D3가 된다.*
+그림: 보충: 햇빛(hν)에서 cyclohexadiene 고리가 6π conrotatory로 열려 previtamin D3(가운데 Z-alkene)가 되고, 이어서 열적 [1,7]-H 이동(antarafacial)으로 vitamin D3가 된다.
 
 ![7-dehydrocholesterol B 고리의 6π 광화학 고리 열림](../../figures/L17/provitamin_d_6pi_opening.svg)
 
-*그림: 보충: 핵심 6π 부분만 남기고 나머지 고리는 R, R'로 줄였다. C9–C10 σ 결합(빨강)이 끊어지며 세 화살표가 고리를 돌아 (Z)-hexatriene 골격의 previtamin $D_3$가 된다. 빛(hν) 조건의 6π 전자고리화이므로 conrotatory다.*
+그림: 보충: 핵심 6π 부분만 남기고 나머지 고리는 R, R'로 줄였다. C9–C10 σ 결합(빨강)이 끊어지며 세 화살표가 고리를 돌아 (Z)-hexatriene 골격의 previtamin $D_3$가 된다. 빛(hν) 조건의 6π 전자고리화이므로 conrotatory다.
 
 
 ## 6. 자연 속 전자고리화 반응: endiandric acid
@@ -231,7 +231,7 @@ endiandric acid 계열 천연물은 특이하게도 **라세미체**로 발견�
 
 ![Nazarov cyclization의 4π conrotatory 고리 닫힘](../../figures/L17/nazarov_conrotatory.svg)
 
-*그림: protonate된 divinyl ketone의 공명 구조 가운데 양전하(빨강 +)가 OH 탄소에 있는 형태로 그렸다(Clayden과 같은 그림). 왼쪽 주황 화살표는 C=C π 전자가 양 끝 탄소 사이에 새 σ 결합(초록)을 만드는 것, 오른쪽 화살표는 다른 C=C π 전자가 OH 탄소 쪽으로 옮겨 가 양전하를 채우는 것이다. 결과는 OH가 가운데 붙은 고리 속 allyl cation이다. p 오비탈 5개에 π 전자 4개이므로 열적 반응은 conrotatory(π4a)다. 보충: R을 바깥쪽에 둔 (E,E)-출발물이 conrotatory로 닫히면 두 R은 trans(하나는 쐐기, 하나는 점선)가 된다. Clayden의 이 그림은 R의 입체화학을 표시하지 않으며, trans는 같은 쪽 고리 접합 H 예(산 촉매 → trans)와 같은 논리로 그린 것이다. 이후 양성자가 빠지고 tautomerize하여 cyclopentenone이 된다. (근거: Clayden p.927–928)*
+그림: protonate된 divinyl ketone의 공명 구조 가운데 양전하(빨강 +)가 OH 탄소에 있는 형태로 그렸다(Clayden과 같은 그림). 왼쪽 주황 화살표는 C=C π 전자가 양 끝 탄소 사이에 새 σ 결합(초록)을 만드는 것, 오른쪽 화살표는 다른 C=C π 전자가 OH 탄소 쪽으로 옮겨 가 양전하를 채우는 것이다. 결과는 OH가 가운데 붙은 고리 속 allyl cation이다. p 오비탈 5개에 π 전자 4개이므로 열적 반응은 conrotatory(π4a)다. 보충: R을 바깥쪽에 둔 (E,E)-출발물이 conrotatory로 닫히면 두 R은 trans(하나는 쐐기, 하나는 점선)가 된다. Clayden의 이 그림은 R의 입체화학을 표시하지 않으며, trans는 같은 쪽 고리 접합 H 예(산 촉매 → trans)와 같은 논리로 그린 것이다. 이후 양성자가 빠지고 tautomerize하여 cyclopentenone이 된다. (근거: Clayden p.927–928)
 
 ### 7.2 열과 빛이 반대 입체화학을 준다
 
@@ -260,7 +260,7 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 ![cyclopropyl cation의 electrocyclic 고리 열림](../../figures/L17/cyclopropyl_allyl.svg)
 
-*그림: cyclopropyl cation(빨강 +)에서 cation 탄소 맞은편의 C–C σ 결합 전자(주황 화살표)가 옆 C–C 결합 쪽으로 옮겨 가 C=C π 결합(초록)이 되고, 양전하는 반대쪽 끝 탄소로 옮겨 allyl cation이 된다. 2π(4n+2, n = 0)의 열적 반응이므로 disrotatory다. 대칭으로는 역반응(allyl → cyclopropyl)도 허용이지만 3원 고리 긴장 때문에 고리 열림 쪽으로만 간다. (근거: Clayden p.928)*
+그림: cyclopropyl cation(빨강 +)에서 cation 탄소 맞은편의 C–C σ 결합 전자(주황 화살표)가 옆 C–C 결합 쪽으로 옮겨 가 C=C π 결합(초록)이 되고, 양전하는 반대쪽 끝 탄소로 옮겨 allyl cation이 된다. 2π(4n+2, n = 0)의 열적 반응이므로 disrotatory다. 대칭으로는 역반응(allyl → cyclopropyl)도 허용이지만 3원 고리 긴장 때문에 고리 열림 쪽으로만 간다. (근거: Clayden p.928)
 
 그래서 cyclopropane 고리에서 친핵성 치환을 시도하면 allyl 생성물이 나온다.
 
@@ -268,7 +268,7 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 ![cyclopropyl chloride → allyl acetate](../../figures/L17/cyclopropyl_chloride_solvolysis.svg)
 
-*그림: 이온화와 동시에 고리가 열려 allyl cation이 된다(disrotatory).*
+그림: 이온화와 동시에 고리가 열려 allyl cation이 된다(disrotatory).
 
 (출처: Clayden p.928)
 
@@ -283,11 +283,11 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 ![cis-aziridine + DEAD-alkyne → 2,5-trans-dihydropyrrole](../../figures/L17/aziridine_cis.svg)
 
-*그림: 열적 conrotatory 개환으로 생긴 azomethine ylide가 alkyne과 [3+2].*
+그림: 열적 conrotatory 개환으로 생긴 azomethine ylide가 alkyne과 [3+2].
 
 ![trans-aziridine + DEAD-alkyne → 2,5-cis-dihydropyrrole](../../figures/L17/aziridine_trans.svg)
 
-*그림: trans 이성질체는 반대로 cis 생성물을 준다.*
+그림: trans 이성질체는 반대로 cis 생성물을 준다.
 
 cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문이다. (출처: Clayden p.929)
 

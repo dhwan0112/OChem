@@ -27,7 +27,7 @@ Lewis acid인 Al이 ester carbonyl O에 배위한 뒤 Al–H의 hydride가 분�
 
 ![DIBAL-H가 ester 산소에 배위한 뒤 hydride를 전달해 저온에서 안정한 tetrahedral intermediate를 만드는 과정](../../figures/L05/dibal_ester.svg)
 
-*그림: Al이 carbonyl O에 배위하고 Al–H(파랑)가 carbonyl 탄소(빨강)로 hydride를 준다. 가운데 tetrahedral intermediate는 −70 °C에서 무너지지 않는다.*
+그림: Al이 carbonyl O에 배위하고 Al–H(파랑)가 carbonyl 탄소(빨강)로 hydride를 준다. 가운데 tetrahedral intermediate는 −70 °C에서 무너지지 않는다.
 
 ## 이웃 시약과 비교
 

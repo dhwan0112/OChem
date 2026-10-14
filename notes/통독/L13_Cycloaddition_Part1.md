@@ -55,7 +55,7 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 ![butadiene과 ethylene의 Diels–Alder reaction: 굽은 화살표 세 개가 고리를 따라 같은 방향으로 돌며 cyclohexene을 만든다](../../figures/L13/da_basic.svg)
 
-*그림: 파란색은 diene(s-cis)의 두 π 결합, 빨간색은 dienophile(ethylene)의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동, 초록색은 새로 생긴 σ 결합 C1–C6과 C4–C5다. 화살표 셋은 모두 시계 방향으로 돈다. (1) C1=C2 π 전자가 C1–C6 결합이 되고, (2) C5=C6 π 전자가 C4–C5 결합이 되며, (3) C3=C4 π 전자가 C2–C3로 옮겨가 새 π 결합(파란 C2=C3)이 된다. 세 화살표는 한 단계에서 동시에 일어난다.*
+그림: 파란색은 diene(s-cis)의 두 π 결합, 빨간색은 dienophile(ethylene)의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동, 초록색은 새로 생긴 σ 결합 C1–C6과 C4–C5다. 화살표 셋은 모두 시계 방향으로 돈다. (1) C1=C2 π 전자가 C1–C6 결합이 되고, (2) C5=C6 π 전자가 C4–C5 결합이 되며, (3) C3=C4 π 전자가 C2–C3로 옮겨가 새 π 결합(파란 C2=C3)이 된다. 세 화살표는 한 단계에서 동시에 일어난다.
 
 용어도 정리해 두자. diene은 C=C 두 개가 단일 결합 하나로 이어진 짝지어진 diene이어야 한다. diene과 반응하는 alkene(때로는 alkyne)은 diene친화체(dienophile)라고 부르고, 생성물은 cyclohexene이다. 예를 들어 2,3-dimethyl-1,3-butadiene과 acrolein(CH2=CH-CHO)은 3,4-dimethylcyclohex-3-ene-1-carbaldehyde를 준다. diene이 고리형이면 어떻게 될까? cyclopentadiene + nitroethylene(CH2=CH-NO2)처럼 다리 걸친 이중 고리(bridged bicyclic)인 5-nitrobicyclo[2.2.1]hept-2-ene(5-nitronorbornene)이 생긴다. (출처: L13 p.8)
 
@@ -93,15 +93,15 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 
 ![butadiene + ethylene → cyclohexene](../../figures/L13/da_butadiene_ethylene.svg)
 
-*그림: diene(파랑)과 dienophile(빨강) 사이에 σ 결합 두 개(초록).*
+그림: diene(파랑)과 dienophile(빨강) 사이에 σ 결합 두 개(초록).
 
 ![butadiene + acrolein → cyclohex-3-ene-1-carbaldehyde](../../figures/L13/da_butadiene_acrolein.svg)
 
-*그림: EWG가 있는 dienophile은 훨씬 빠르다.*
+그림: EWG가 있는 dienophile은 훨씬 빠르다.
 
 ![butadiene + CH2=C(CO2Me)2 → dimethyl cyclohex-3-ene-1,1-dicarboxylate](../../figures/L13/da_butadiene_methylenemalonate.svg)
 
-*그림: EWG 두 개라 상온에서도 진행.*
+그림: EWG 두 개라 상온에서도 진행.
 
 EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 보충: 짝지음 기가 없는 단순 alkene이 얼마나 나쁜 dienophile인지는 cyclopentadiene에서 잘 드러난다. 반응성이 아주 큰 이 diene에 단순 alkene을 섞어 가열해도 alkene과는 거의 반응하지 않고, cyclopentadiene끼리 먼저 이량화해 버린다(5-4절). (보충 근거: Clayden p.880) 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 unsaturated sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
 
@@ -117,7 +117,7 @@ diene 쪽은 반대다. 전자 주는 기(EDG)가 붙은 전자 풍부 diene이 
 
 ![butadiene의 s-trans와 s-cis 형태: s-cis만 methyl acrylate와 DA 반응을 할 수 있다](../../figures/L13/s_cis_s_trans.svg)
 
-*그림: 초록색은 회전하는 C2–C3 단일 결합, 파란색은 diene의 π 결합, 빨간색은 dienophile(methyl acrylate)의 π 결합이다. 왼쪽 s-trans는 더 안정하지만 C1과 C4가 멀어 dienophile의 양 끝에 동시에 닿지 못한다. C2–C3 결합이 빠르게 회전해 s-cis가 되면 C1과 C4가 가까워지고, 주황색 굽은 화살표 셋이 그림 1과 같은 방향으로 돌며 고리가 닫힌다.*
+그림: 초록색은 회전하는 C2–C3 단일 결합, 파란색은 diene의 π 결합, 빨간색은 dienophile(methyl acrylate)의 π 결합이다. 왼쪽 s-trans는 더 안정하지만 C1과 C4가 멀어 dienophile의 양 끝에 동시에 닿지 못한다. C2–C3 결합이 빠르게 회전해 s-cis가 되면 C1과 C4가 가까워지고, 주황색 굽은 화살표 셋이 그림 1과 같은 방향으로 돌며 고리가 닫힌다.
 
 ### 5-3. 고리형 diene: 처음부터 s-cis로 고정된 diene
 
@@ -139,7 +139,7 @@ cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로
 
 ![dicyclopentadiene의 역 Diels–Alder reaction: 가열하면 cyclopentadiene 두 분자로 갈라진다](../../figures/L13/retro_da_dcpd.svg)
 
-*그림: 보충: 슬라이드에는 평형 화살표만 있고 굽은 화살표는 없다. 역 DA는 정방향 DA의 화살표를 거꾸로 돌린 것이므로 여기서 그려 넣었다. 빨간색은 끊어지는 σ 결합(이량화 때 생겼던 C1–C6, C4–C5), 파란색은 diene 쪽에 남아 있던 π 결합이다. 주황색 화살표 셋은 (1) C4–C5 σ 전자가 C3=C4 π 결합으로, (2) C2=C3 π 전자가 C1=C2 π 결합으로, (3) C1–C6 σ 전자가 C5=C6 π 결합으로 옮겨가는 과정이다. 초록색은 새로 생긴 π 결합이다. 가운데 꺾인 선은 CH2 다리(C7)다.*
+그림: 보충: 슬라이드에는 평형 화살표만 있고 굽은 화살표는 없다. 역 DA는 정방향 DA의 화살표를 거꾸로 돌린 것이므로 여기서 그려 넣었다. 빨간색은 끊어지는 σ 결합(이량화 때 생겼던 C1–C6, C4–C5), 파란색은 diene 쪽에 남아 있던 π 결합이다. 주황색 화살표 셋은 (1) C4–C5 σ 전자가 C3=C4 π 결합으로, (2) C2=C3 π 전자가 C1=C2 π 결합으로, (3) C1–C6 σ 전자가 C5=C6 π 결합으로 옮겨가는 과정이다. 초록색은 새로 생긴 π 결합이다. 가운데 꺾인 선은 CH2 다리(C7)다.
 
 응용 예도 있다. cyclopentadiene을 Cl2로 처리하면 hexachlorocyclopentadiene이 되고, 이것을 maleic anhydride와 DA 반응시키면 염소가 여섯 개 붙은 norbornene 무수물 부가물이 생긴다. 이 화합물은 flame retardant로 쓰인다.[6] (출처: L13 p.18)
 
@@ -160,7 +160,7 @@ butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응�
 
 ![butadiene + dimethyl fumarate(trans): 두 CO2Me가 trans인 생성물](../../figures/L13/fumarate_trans.svg)
 
-*그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 diene의 π 결합, 빨간색은 dienophile의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 σ 결합이다. 생성물에서 wedge는 지면 앞, 점선 hash는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 CO2Me는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 CO2Me는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.*
+그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 diene의 π 결합, 빨간색은 dienophile의 π 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 σ 결합이다. 생성물에서 wedge는 지면 앞, 점선 hash는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 CO2Me는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 CO2Me는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.
 
 ### 6-2. 이치환 diene: "in"과 "out"
 
@@ -172,7 +172,7 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 ![(E,E)-1,4-diphenylbutadiene + DMAD: 두 out 치환기 Ph가 생성물에서 1,4-cis가 된다](../../figures/L13/inout_dmad.svg)
 
-*그림: (E,E)-1,4-diphenylbuta-1,3-diene을 s-cis로 그리면 두 Ph는 "out", 두 H는 "in" 자리에 놓인다(파랑: diene의 π 결합). DMAD(빨간 삼중 결합)와 Diels–Alder 반응을 하면 두 out 치환기(Ph)는 고리의 같은 쪽(둘 다 점선 쐐기)에, 두 in 치환기(H)는 반대쪽(둘 다 굵은 쐐기)에 놓인다. 즉 두 Ph는 1,4-cis다. 초록색은 새로 생긴 σ 결합이며, alkyne 자리에 C=C가 남아 생성물은 cyclohexa-1,4-diene이다.*
+그림: (E,E)-1,4-diphenylbuta-1,3-diene을 s-cis로 그리면 두 Ph는 "out", 두 H는 "in" 자리에 놓인다(파랑: diene의 π 결합). DMAD(빨간 삼중 결합)와 Diels–Alder 반응을 하면 두 out 치환기(Ph)는 고리의 같은 쪽(둘 다 점선 쐐기)에, 두 in 치환기(H)는 반대쪽(둘 다 굵은 쐐기)에 놓인다. 즉 두 Ph는 1,4-cis다. 초록색은 새로 생긴 σ 결합이며, alkyne 자리에 C=C가 남아 생성물은 cyclohexa-1,4-diene이다.
 
 보충: "trans,trans diene인데 왜 cis 생성물이 나오나?"가 헷갈린다면 대칭으로 확인하면 된다. (E,E)-diene + DMAD는 반응물 전체에 diene 가운데를 지나는 거울면이 하나 있다. 반응이 협동적이라 치환기가 도중에 자리를 옮길 수 없으므로, 생성물도 같은 거울면을 가져야 하고 그러려면 두 Ph가 같은 쪽(cis, meso형)이어야 한다. (E,Z)-diene은 처음부터 이 대칭이 없으므로 두 치환기가 반대쪽에 놓인다. 또 dienophile은 diene 평면 안이 아니라 아래에서 다가오므로 "in" 치환기가 있어도 반응 자체는 막히지 않는다(다만 s-cis를 방해해 느려진다, 5-2절 보충). (보충 근거: Clayden p.883) (출처: L13 p.20)
 
@@ -186,7 +186,7 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 ![cyclopentadiene + maleic anhydride의 endo 부가물(생성)과 exo 부가물(생성 안 됨)](../../figures/L13/endo_exo.svg)
 
-*그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.*
+그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 무수물의 C=O다. 왼쪽 endo 부가물에서는 무수물 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 CH2 다리 쪽(위)을 향한다. 오른쪽 exo 부가물은 반대로 무수물이 CH2 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo 부가물만 생긴다.
 
 좀 더 기하학적으로 보면, TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 diene 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 carbonyl 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 입체이성질체가 섞여 나오는 경우도 많다.[7]
 
@@ -198,7 +198,7 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 
 ![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
 
-*그림: 위가 cyclopentadiene($CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).*
+그림: 위가 cyclopentadiene($CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
 ## 7. 왜 그런가: 분자 오비탈로 다시 보기
 
@@ -222,7 +222,7 @@ FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전
 
 ![Diels–Alder 반응의 HOMO(diene)–LUMO(dienophile) 로브 겹침](../../figures/L13/da_fmo_lobes.svg)
 
-*그림: 채운 로브는 + 위상, 빈 로브는 − 위상이다. diene HOMO(ψ₂)의 아래쪽 로브와 dienophile LUMO(π*)의 위쪽 로브가 양 끝에서 모두 같은 위상이라, 두 σ 결합이 같은 면(suprafacial)에서 동시에 생긴다. 끝 탄소의 로브가 더 큰 것은 ψ₂의 계수가 말단에서 크기 때문이다. 보충: 슬라이드의 FMO 그림을 단순화해 다시 그린 것이다.*
+그림: 채운 로브는 + 위상, 빈 로브는 − 위상이다. diene HOMO(ψ₂)의 아래쪽 로브와 dienophile LUMO(π*)의 위쪽 로브가 양 끝에서 모두 같은 위상이라, 두 σ 결합이 같은 면(suprafacial)에서 동시에 생긴다. 끝 탄소의 로브가 더 큰 것은 ψ₂의 계수가 말단에서 크기 때문이다. 보충: 슬라이드의 FMO 그림을 단순화해 다시 그린 것이다.
 
 ### 7-3. 오비탈로 본 stereospecificity
 

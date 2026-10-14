@@ -58,7 +58,7 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 
 ![geraniol → geranial (DMP)](../../figures/L06/geraniol_dmp.svg)
 
-*그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.*
+그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.
 
 ## 흔한 오해
 

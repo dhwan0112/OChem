@@ -43,7 +43,7 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ![2-methylcyclohexanone의 kinetic/thermodynamic enolate](../../figures/L07/kinetic_thermo_enolate.svg)
 
-*그림: 가려지지 않은 C6–H를 LDA가 −78 °C에서 빠르게 떼면 kinetic enolate(C1=C6)가 생긴다. 자세한 설명은 [kinetic vs thermodynamic enolate](../개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)에 있다. (출처: L7 p.11–12)*
+그림: 가려지지 않은 C6–H를 LDA가 −78 °C에서 빠르게 떼면 kinetic enolate(C1=C6)가 생긴다. 자세한 설명은 [kinetic vs thermodynamic enolate](../개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)에 있다. (출처: L7 p.11–12)
 
 ## 쓰임
 
@@ -60,7 +60,7 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ![n-BuLi + diisopropylamine → LDA](../../figures/L07/lda_formation.svg)
 
-*그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다.*
+그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다.
 
 ## 흔한 오해
 
