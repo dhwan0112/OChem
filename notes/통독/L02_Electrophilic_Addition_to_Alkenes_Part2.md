@@ -270,6 +270,10 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 *그림: Markovnikov 수화. H는 $CH_2$에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.*
 
+![산 촉매 수화 1단계: methylenecyclohexane + H3O+ → 3차 cation + H2O](../../figures/L02/methylenecyclohexane_hydration_step1.svg)
+
+*그림: 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고, 주황 화살표대로 O–H 결합 전자가 O로 가서 물이 생기며, 3차 탄소에 양이온이 생긴다(Markovnikov).*
+
 ![t-BuOH + H2SO4 ⇌ isobutene + H2O](../../figures/L02/tbuoh_e1.svg)
 
 *그림: 같은 조건에서 일어나는 역반응(E1 탈수). 떠나는 OH(빨강, protonate된 뒤 물로 떠난다)와 새 C=C(초록).*
