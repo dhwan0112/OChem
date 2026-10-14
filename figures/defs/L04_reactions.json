@@ -1,0 +1,277 @@
+[
+ {
+  "out": "figures/L04/aniline_tribromination.json",
+  "title": "aniline + Br2 → 2,4,6-tribromoaniline (notes/통독/L04 57행)",
+  "reactants": [
+   "[NH2:1]c1ccccc1"
+  ],
+  "products": [
+   "Nc1c([Br:3])cc([Br:3])cc1[Br:3]"
+  ],
+  "conditions": "Br2, HOAc",
+  "below": "",
+  "note": "L04",
+  "line": 57,
+  "wiki": "반응/방향족 할로젠화",
+  "alt": "aniline + Br2 → 2,4,6-tribromoaniline",
+  "cap": "$NH_2$(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다"
+ },
+ {
+  "out": "figures/L04/acetanilide_1.json",
+  "title": "aniline + Ac2O → acetanilide (notes/통독/L04 76행)",
+  "reactants": [
+   "[NH2:1]c1ccccc1"
+  ],
+  "products": [
+   "CC(=O)[NH:3]c1ccccc1"
+  ],
+  "conditions": "Ac2O",
+  "below": "",
+  "note": "L04",
+  "line": 76,
+  "wiki": "반응/친핵성 아실 치환",
+  "alt": "aniline + Ac2O → acetanilide",
+  "cap": "1단계: aniline의 N(파랑)을 acetyl화해 활성을 낮춘다(새 N–C(O) 결합, 초록)"
+ },
+ {
+  "out": "figures/L04/acetanilide_2.json",
+  "title": "acetanilide → p-bromoacetanilide (notes/통독/L04 77행)",
+  "reactants": [
+   "CC(=O)Nc1cc[cH:1]cc1"
+  ],
+  "products": [
+   "CC(=O)Nc1cc[c:3]([Br:3])cc1"
+  ],
+  "conditions": "Br2, HOAc, rt",
+  "below": "",
+  "note": "L04",
+  "line": 77,
+  "wiki": "반응/방향족 할로젠화",
+  "alt": "acetanilide → p-bromoacetanilide",
+  "cap": "2단계: 부피 큰 NHAc 때문에 para 자리(파랑)에 Br(초록) 하나만 붙는다"
+ },
+ {
+  "out": "figures/L04/acetanilide_3.json",
+  "title": "p-bromoacetanilide → p-bromoaniline (notes/통독/L04 78행)",
+  "reactants": [
+   "C[C:2](=O)[NH]c1ccc(Br)cc1"
+  ],
+  "products": [
+   "[NH2:3]c1ccc(Br)cc1"
+  ],
+  "conditions": "HCl, EtOH/H2O",
+  "below": "reflux",
+  "note": "L04",
+  "line": 78,
+  "wiki": "반응/방향족 할로젠화",
+  "alt": "p-bromoacetanilide → p-bromoaniline",
+  "cap": "3단계: amide를 가수분해해 보호기(빨강 C=O 쪽)를 떼면 p-bromoaniline이 된다"
+ },
+ {
+  "out": "figures/L04/toluene_bromination.json",
+  "title": "toluene + Br2 → o-/p-bromotoluene (notes/통독/L04 109행)",
+  "reactants": [
+   "Cc1ccccc1"
+  ],
+  "products": [
+   "Cc1ccccc1[Br:3]",
+   "Cc1ccc([Br:3])cc1"
+  ],
+  "conditions": "Br2, Lewis acid",
+  "below": "o ~60%, p ~35%, m ~5%",
+  "note": "L04",
+  "line": 109,
+  "wiki": "반응/방향족 할로젠화",
+  "alt": "toluene + Br2 → o-/p-bromotoluene",
+  "cap": "methyl은 ortho/para 지향기다. 생성물은 ortho 약 60%, para 약 35%(초록 = 새로 붙은 Br)"
+ },
+ {
+  "out": "figures/L04/toluene_sulfonation.json",
+  "title": "toluene + H2SO4 → o-/p-toluenesulfonic acid (notes/통독/L04 130행)",
+  "reactants": [
+   "Cc1ccccc1"
+  ],
+  "products": [
+   "Cc1ccccc1[S:3](=O)(=O)O",
+   "Cc1ccc([S:3](=O)(=O)O)cc1"
+  ],
+  "conditions": "conc. H2SO4",
+  "below": "",
+  "note": "L04",
+  "line": 130,
+  "wiki": "반응/설폰화",
+  "alt": "toluene + H2SO4 → o-/p-toluenesulfonic acid",
+  "cap": "ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$)"
+ },
+ {
+  "out": "figures/L04/saccharin_1.json",
+  "title": "toluene + ClSO2OH → o-/p-toluenesulfonyl chloride (notes/통독/L04 136행)",
+  "reactants": [
+   "Cc1ccccc1"
+  ],
+  "products": [
+   "Cc1ccccc1[S:3](=O)(=O)Cl",
+   "Cc1ccc([S:3](=O)(=O)Cl)cc1"
+  ],
+  "conditions": "ClSO2OH",
+  "below": "o ~40%, p ~15%",
+  "note": "L04",
+  "line": 136,
+  "wiki": "반응/설폰화",
+  "alt": "toluene + ClSO2OH → o-/p-toluenesulfonyl chloride",
+  "cap": "saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$)"
+ },
+ {
+  "out": "figures/L04/saccharin_2.json",
+  "title": "o-toluenesulfonyl chloride → o-toluenesulfonamide (notes/통독/L04 138행)",
+  "reactants": [
+   "Cc1ccccc1[S:2](=O)(=O)[Cl:2]"
+  ],
+  "products": [
+   "Cc1ccccc1S(=O)(=O)[NH2:3]"
+  ],
+  "conditions": "(NH4)2CO3",
+  "below": "89%",
+  "note": "L04",
+  "line": 138,
+  "wiki": "반응/설폰화",
+  "alt": "o-toluenesulfonyl chloride → o-toluenesulfonamide",
+  "cap": "2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다"
+ },
+ {
+  "out": "figures/L04/saccharin_3.json",
+  "title": "o-toluenesulfonamide → 2-sulfamoylbenzoic acid (notes/통독/L04 139행)",
+  "reactants": [
+   "[CH3:2]c1ccccc1S(N)(=O)=O"
+  ],
+  "products": [
+   "O=[C:3]([OH])c1ccccc1S(N)(=O)=O"
+  ],
+  "conditions": "KMnO4",
+  "below": "",
+  "note": "L04",
+  "line": 139,
+  "wiki": "반응/설폰화",
+  "alt": "o-toluenesulfonamide → 2-sulfamoylbenzoic acid",
+  "cap": "3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다"
+ },
+ {
+  "out": "figures/L04/saccharin_4.json",
+  "title": "2-sulfamoylbenzoic acid → saccharin (notes/통독/L04 140행)",
+  "reactants": [
+   "O=C(O)c1ccccc1S([NH2:1])(=O)=O"
+  ],
+  "products": [
+   "O=C1[NH:3]S(=O)(=O)c2ccccc21"
+  ],
+  "conditions": "HCl",
+  "below": "58%",
+  "note": "L04",
+  "line": 140,
+  "wiki": "반응/설폰화",
+  "alt": "2-sulfamoylbenzoic acid → saccharin",
+  "cap": "4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다"
+ },
+ {
+  "out": "figures/L04/phnme3_nitration.json",
+  "title": "PhNMe3+ 나이트로화 → meta 90% (notes/통독/L04 173행)",
+  "reactants": [
+   "C[N+](C)(C)c1ccccc1"
+  ],
+  "products": [
+   "C[N+](C)(C)c1cccc([N+:3](=O)[O-])c1"
+  ],
+  "conditions": "HNO3, H2SO4",
+  "below": "m 90%, p 10%",
+  "note": "L04",
+  "line": 173,
+  "wiki": "반응/나이트로화",
+  "alt": "PhNMe3+ 나이트로화 → meta 90%",
+  "cap": "$NMe_3^+$는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림)"
+ },
+ {
+  "out": "figures/L04/phcf3_nitration.json",
+  "title": "PhCF3 → m-nitro(trifluoromethyl)benzene (notes/통독/L04 174행)",
+  "reactants": [
+   "FC(F)(F)c1ccccc1"
+  ],
+  "products": [
+   "FC(F)(F)c1cccc([N+:3](=O)[O-])c1"
+  ],
+  "conditions": "HNO3, H2SO4",
+  "below": "96%",
+  "note": "L04",
+  "line": 174,
+  "wiki": "반응/나이트로화",
+  "alt": "PhCF3 → m-nitro(trifluoromethyl)benzene",
+  "cap": "$CF_3$도 meta 지향기다(96%)"
+ },
+ {
+  "out": "figures/L04/benzene_nitration.json",
+  "title": "benzene → nitrobenzene (notes/통독/L04 181행)",
+  "reactants": [
+   "c1ccccc1"
+  ],
+  "products": [
+   "[O-][N+:3](=O)c1ccccc1"
+  ],
+  "conditions": "HNO3, H2SO4",
+  "below": "",
+  "note": "L04",
+  "line": 181,
+  "wiki": "반응/나이트로화",
+  "alt": "benzene → nitrobenzene",
+  "cap": "nitration. 새 C–N 결합(초록)"
+ },
+ {
+  "out": "figures/L04/benzene_dinitration.json",
+  "title": "benzene → m-dinitrobenzene (notes/통독/L04 182행)",
+  "reactants": [
+   "c1ccccc1"
+  ],
+  "products": [
+   "[O-][N+:3](=O)c1cccc([N+:3](=O)[O-])c1"
+  ],
+  "conditions": "fuming HNO3, H2SO4",
+  "below": "100 °C, 75%",
+  "note": "L04",
+  "line": 182,
+  "wiki": "반응/나이트로화",
+  "alt": "benzene → m-dinitrobenzene",
+  "cap": "가혹한 조건에서는 두 번째 $NO_2$가 meta로 들어간다(75%)"
+ },
+ {
+  "out": "figures/L04/nitrobenzene_bromination.json",
+  "title": "nitrobenzene + Br2/Fe → m-bromonitrobenzene (notes/통독/L04 235행)",
+  "reactants": [
+   "[O-][N+](=O)c1ccccc1"
+  ],
+  "products": [
+   "[O-][N+](=O)c1cccc([Br:3])c1"
+  ],
+  "conditions": "Br2, Fe",
+  "below": "135–145 °C, 74%",
+  "note": "L04",
+  "line": 235,
+  "wiki": "반응/방향족 할로젠화",
+  "alt": "nitrobenzene + Br2/Fe → m-bromonitrobenzene",
+  "cap": "비활성화된 고리라 가열이 필요하고, Br(초록)은 meta로 들어간다"
+ },
+ {
+  "out": "figures/L04/p_nitrotoluene_nitration.json",
+  "title": "p-nitrotoluene → 2,4-dinitrotoluene (notes/통독/L04 256행)",
+  "reactants": [
+   "Cc1ccc([N+](=O)[O-])cc1"
+  ],
+  "products": [
+   "Cc1ccc([N+](=O)[O-])cc1[N+:3](=O)[O-]"
+  ],
+  "conditions": "HNO3, H2SO4",
+  "below": "",
+  "note": "L04",
+  "line": 256,
+  "wiki": "반응/나이트로화",
+  "alt": "p-nitrotoluene → 2,4-dinitrotoluene",
+  "cap": "methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$(초록)가 들어간다(효과가 더해짐)"
+ }
+]
