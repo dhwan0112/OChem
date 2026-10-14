@@ -63,6 +63,10 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 - 전체: PhO–CH2–CH=CH2 --[가열]--> 2-allylphenol
 
+![allyl phenyl ether → 2-allylphenol](../../figures/L16/claisen_allyl_phenyl_ether.svg)
+
+*그림: [3,3] 자리옮김 뒤 tautomer화. C–O(빨강)가 끊기고 새 C–C(초록).*
+
 반응은 두 단계다.
 
 1. **[3,3] 시그마트로픽 단계(페리고리):** O–CH2 σ 결합이 끊어지면서 allyl group의 말단 탄소가 benzene 고리의 *ortho* 탄소와 결합한다. 이 단계의 생성물은 방향족성을 잃은 cyclohexadiene온이다.
@@ -282,6 +286,10 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 
 - **피셔 인돌 합성의 핵심 단계:** phenylhydrazine과 ketone이 약산성에서 phenylhydrazone을 만들고, 이것이 enamine tautomer와 평형을 이룬다. enamine은 [3,3] 자리옮김에 딱 맞게 놓여 있다. 끊어지는 σ 결합은 **약한 N–N 결합**이고, π 결합 하나는 benzene 고리의 것이다. 생성물인 불안정한 diimine은 방향족성을 회복하고, 양성자 이동과 C–N 결합 형성·절단(NH3 이탈)을 거쳐 인돌이 된다.
 - **크로뮴산 ester의 [3,3] (산화적 자리옮김):** 3차 allyl alcohol을 산성 CrO3로 산화하면 C–H가 없어 직접 산화가 안 된다. 대신 생긴 크로뮴산 ester가 [3,3] 자리옮김으로 allyl계 반대쪽 끝(H가 있는 탄소)으로 옮겨 가고, 거기서 보통의 Cr(VI) 산화가 일어난다. 결과는 enone이다. 예: cyclohexenone --[1. RLi; 2. CrO3, H⁺]--> 3-R-cyclohex-2-enone(carbonyl이 원래 자리에서 allyl계 반대쪽으로 옮겨진다). Cr은 주황색 Cr(VI)에서 Cr(IV)를 거쳐 녹색 Cr(III)로 내려간다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 산화 문서 참고).
+
+![cyclohexenone → 3-methylcyclohex-2-enone (R = Me 예시)](../../figures/L16/chromate_33.svg)
+
+*그림: 1,2-첨가로 3차 allyl alcohol을 만든 뒤 chromate ester [3,3]과 산화로 enone 위치가 옮겨 간다.*
 
 ## 8. [2,3] 시그마트로픽 자리옮김
 
