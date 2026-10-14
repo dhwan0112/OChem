@@ -5,7 +5,6 @@
 고정한 근사 구조). 그림은 tools/visual_boost.py가 이 모듈로 만든다.
 """
 import numpy as np
-from matplotlib.patches import Circle
 from mplfig import C
 
 COL = {"H": "#f2f2f2", "C": "#7d7f86", "O": "#e0453a", "Br": "#a0522d", "N": "#3b6fe0"}
@@ -37,39 +36,59 @@ def orient(X, a, b, c):
     return X @ np.array([ex, ey, ez]).T
 
 
-def draw(ax, S, X, partial=(), dotted=(), views=(), offset=(0, 0), labels=None, dlabel=True, skip=()):
+ANG2PX = 34.0  # px/Å. 3D 투영은 결합이 짧아 보이므로 chemfig(26 px/결합)보다 크게 잡는다
+
+
+def draw(ax, S, X, partial=(), dotted=(), views=(), offset=(0, 0), labels=None, dlabel=True, skip=(),
+         charges=None, colors=None, nolabel=()):
+    """chemfig 그림과 같은 선 그림 양식으로 그린다.
+    - 결합: ink 1.085 px, 화면 뒤쪽 절반은 muted 색으로 깊이를 나타낸다.
+    - 원자: C는 꼭짓점(라벨 없음), 나머지는 원소 기호(18 px DejaVu Sans), 배경색 바탕으로 결합을 끊는다.
+    - 형성/절단 결합: good 색 점선, 수소결합: muted 점선. 길이 라벨은 12.7 px.
+    좌표 단위는 px (Å × ANG2PX).
+    """
+    from mplfig import PX
     for axis, deg in views:
         X = X @ rot(axis, deg).T
-    X = X + np.array([offset[0], offset[1], 0])
+    X = X * ANG2PX + np.array([offset[0], offset[1], 0])
     part = {tuple(sorted(p)) for p in partial}; dot = {tuple(sorted(p)) for p in dotted}
-    items = []
+    zmid = np.median(X[:, 2])
     n = len(S)
     for i in range(n):
         for j in range(i + 1, n):
-            d = np.linalg.norm(X[i] - X[j]); key = (i, j)
-            if key in part or key in dot:
-                items.append(((X[i, 2] + X[j, 2]) / 2 - 0.01, "pb", i, j, d))
-            elif d < 1.15 * (COV[S[i]] + COV[S[j]]) and key not in skip:
-                items.append(((X[i, 2] + X[j, 2]) / 2 - 0.01, "b", i, j, d))
-        items.append((X[i, 2], "a", i, None, None))
-    for z, kind, i, j, d in sorted(items, key=lambda t: t[0]):
-        if kind == "a":
-            r = RAD[S[i]]
-            ax.add_patch(Circle(X[i, :2], r, fc=COL[S[i]], ec=C["ink"], lw=0.8, zorder=10 + z))
-            ax.add_patch(Circle(X[i, :2] + np.array([-0.3, 0.3]) * r, 0.28 * r, fc="white", ec="none", alpha=0.45, zorder=10 + z))
-        else:
+            d = np.linalg.norm(X[i] - X[j]) / ANG2PX; key = (i, j)
             p, q = X[i, :2], X[j, :2]
-            if kind == "b":
-                ax.plot(*zip(p, q), color=C["ink"], lw=2.6, solid_capstyle="round", zorder=10 + z)
-            else:
-                isdot = (i, j) in dot
-                ax.plot(*zip(p, q), color=C["muted"] if isdot else C["good"], lw=2.0,
-                        ls=(0, (1, 2)) if isdot else (0, (3, 2)), zorder=10 + z)
-                if dlabel:
+            if key in part or key in dot:
+                isdot = key in dot
+                ax.plot(*zip(p, q), color=C["muted"] if isdot else C["good"], lw=PX["stroke"] * 1.4,
+                        ls=(0, (1.5, 3)) if isdot else (0, (4, 3)), zorder=2)
+                if dlabel and key not in {tuple(sorted(k)) for k in nolabel}:
                     m = (p + q) / 2
-                    ax.text(m[0] + 0.12, m[1] + 0.05, f"{d:.2f} Å", fontsize=7,
-                            color=C["muted"] if isdot else C["good"], zorder=100)
+                    ax.text(m[0] + 4, m[1], f"{d:.2f} Å", fontsize=PX["small"], va="center",
+                            color=C["muted"] if isdot else C["good"], zorder=5)
+            elif d < 1.15 * (COV[S[i]] + COV[S[j]]) and key not in skip:
+                back = (X[i, 2] + X[j, 2]) / 2 < zmid
+                ax.plot(*zip(p, q), color=C["muted"] if back else C["ink"], lw=PX["stroke"] * (1.0 if back else 1.6),
+                        solid_capstyle="round", zorder=1 if back else 3)
+    for i in range(n):
+        if S[i] == "C":
+            continue
+        txt = S[i] + ((charges or {}).get(i, ""))
+        ax.text(X[i, 0], X[i, 1], txt, fontsize=PX["label"], ha="center", va="center", color=C[(colors or {}).get(i, "ink")], zorder=6,
+                bbox=dict(boxstyle="circle,pad=0.08", fc=C["card"], ec="none"))
     if labels:
         for i, (txt, dx, dy) in labels.items():
-            ax.text(X[i, 0] + dx, X[i, 1] + dy, txt, fontsize=8, color=C["ink"], zorder=100, ha="center")
+            ax.text(X[i, 0] + dx * ANG2PX, X[i, 1] + dy * ANG2PX, txt, fontsize=PX["small"], color=C["muted"],
+                    zorder=7, ha="center")
     return X
+
+
+def fit(fig, ax, margin=10):
+    """데이터 범위에 맞춰 1 데이터 단위 = 1 px가 되도록 그림 크기를 정한다."""
+    ax.relim(); ax.autoscale_view()
+    fig.canvas.draw()
+    bb = ax.dataLim
+    x0, x1, y0, y1 = bb.x0 - margin, bb.x1 + margin, bb.y0 - margin, bb.y1 + margin
+    ax.set_xlim(x0, x1); ax.set_ylim(y0, y1)
+    ax.set_position([0, 0, 1, 1])
+    fig.set_size_inches((x1 - x0) / 72, (y1 - y0) / 72)

@@ -18,6 +18,7 @@
    "bonds":    [[a, b, 차수, 표시, 색], ...]          표시: plain/wedge/hash/dashed/bold (점선 형성 결합은 차수 5와 함께: [a, b, 5, "dashed", 색])
    "arrows":   [[x1, y1, x2, y2, 종류], ...]          직선 화살표. 종류: forward(기본), resonance, equilibrium, retro
    "captions": [[텍스트, x, y, 색, 크기pt], ...]      (x, y)는 텍스트 왼쪽 위, 크기 기본 8pt
+   "shapes":   [{"lobe": [...]}, {"line": [...]}]     p 오비탈 로브와 점선 (add_shapes 참고)
    "abbrev":   [[라벨, 기준 원자, [원자들]], ...]       예: ["CH3", 2, [2]]로 메틸을 CH3 라벨로 접기
    "lone_pairs": [[원자, 각도], ...]                  각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래
    "curved": [{"from": 끝점, "to": 끝점, "bend": 0.5, "color": "arrow", "kind": "curved"}]
@@ -325,6 +326,48 @@ def theme_svg(svg):
     return svg.replace(">", ">" + style_block() + card, 1)
 
 
+def add_shapes(svg, shapes):
+    """ReShiki가 못 그리는 도형(p 오비탈 로브, 점선)을 같은 좌표계(결합 길이 1 = 42)로 덧붙인다.
+    {"lobe": [x, y, 크기, 기울기(도, 시계 방향), 부호(+1 위 로브 채움 / -1), 색, 불투명도]}
+    {"line": [x1, y1, x2, y2, 색, "dash"|"dot"|"solid"]}
+    """
+    els, xs, ys = [], [], []
+    sw = 1.7500001
+    for sh in shapes:
+        if "lobe" in sh:
+            x, y, size, tilt, sign, *rest = sh["lobe"]
+            col = rest[0] if rest else "nu"
+            op = rest[1] if len(rest) > 1 else 1.0
+            a = math.radians(tilt)
+            ux, uy = math.sin(a), -math.cos(a)  # 화면에서 '위' 로브 방향
+            rx, ry = 0.20 * size * SCALE, 0.40 * size * SCALE
+            for k, sg in ((1, sign), (-1, -sign)):
+                cx = (x + ux * k * 0.42 * size) * SCALE
+                cy = (y + uy * k * 0.42 * size) * SCALE
+                cls = f"c-{col} fill stroke" if sg > 0 else f"c-{col} stroke"
+                fill = "" if sg > 0 else ' fill="none"'
+                els.append(f'<ellipse class="{cls}"{fill} cx="{cx:.2f}" cy="{cy:.2f}" rx="{rx:.2f}" ry="{ry:.2f}" '
+                           f'transform="rotate({tilt} {cx:.2f} {cy:.2f})" stroke-width="{sw}" opacity="{op}"/>')
+                r = max(rx, ry)
+                xs += [cx - r, cx + r]; ys += [cy - r, cy + r]
+        elif "line" in sh:
+            x1, y1, x2, y2, col, kind = sh["line"]
+            dash = {"dash": ' stroke-dasharray="7 5"', "dot": ' stroke-dasharray="2 4"', "solid": ""}[kind]
+            els.append(f'<line class="c-{col} stroke" x1="{x1*SCALE:.2f}" y1="{y1*SCALE:.2f}" x2="{x2*SCALE:.2f}" '
+                       f'y2="{y2*SCALE:.2f}" stroke-width="{sw}" stroke-linecap="round"{dash}/>')
+            xs += [x1 * SCALE, x2 * SCALE]; ys += [y1 * SCALE, y2 * SCALE]
+    m = re.search(r'viewBox="([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+) ([-0-9.e]+)"', svg)
+    x, y, w, h = map(float, m.groups())
+    pad = 11.666667
+    nx, ny = min(x, min(xs) - pad), min(y, min(ys) - pad)
+    nw, nh = max(x + w, max(xs) + pad) - nx, max(y + h, max(ys) + pad) - ny
+    svg = svg.replace(m.group(0), f'viewBox="{nx:.3f} {ny:.3f} {nw:.3f} {nh:.3f}"', 1)
+    svg = re.sub(r'width="[^"]+" height="[^"]+"', f'width="{nw * 0.62:.0f}" height="{nh * 0.62:.0f}"', svg, count=1)
+    svg = re.sub(r'<rect class="card"[^>]*/>', f'<rect class="card" x="{nx:.3f}" y="{ny:.3f}" width="{nw:.3f}" height="{nh:.3f}" rx="14"/>', svg, count=1)
+    # 도형은 카드 바로 뒤(구조보다 아래)에 깐다
+    return re.sub(r'(<rect class="card"[^>]*/>)', lambda mm: mm.group(1) + "".join(els), svg, count=1)
+
+
 def build(path, out=None):
     with open(path) as f:
         spec = json.load(f)
@@ -359,6 +402,8 @@ def build(path, out=None):
             convert_to_svg(final, raw)
         with open(raw) as f:
             svg = theme_svg(f.read())
+        if spec.get("shapes"):
+            svg = add_shapes(svg, spec["shapes"])
     with open(out, "w") as f:
         f.write(svg)
     print(out)
