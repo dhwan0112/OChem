@@ -122,6 +122,18 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 - **diazonium 화학**: aniline --[NaNO₂, HCl, 0 °C]--> 아릴 diazonium 염(ArN₂⁺ Cl⁻) --[H₂O, 가열]--> phenol
   - 메커니즘: N₂는 매우 좋은 leaving group이다. 그래서 가열하면 N₂가 떠나며 **아릴 cation(aryl cation)** 이 남는다. 이 cation을 nucleophile(여기서는 물)가 붙잡아 phenol이 된다.
 
+![nitrobenzene → aniline](../../figures/L03/nitrobenzene_reduction.svg)
+
+*그림: nitro기(빨강)를 $H_2$, Pd/C 또는 Sn, 묽은 HCl로 환원하면 $NH_2$(초록)가 된다.*
+
+![aniline + NaNO2, HCl → aryl diazonium salt](../../figures/L03/aniline_diazotization.svg)
+
+*그림: aniline의 $NH_2$(파랑)가 0 °C에서 $NaNO_2$, HCl과 반응해 aryl diazonium 염($ArN_2^+\,Cl^-$, 초록)이 된다.*
+
+![aryl diazonium + H2O, heat → phenol](../../figures/L03/diazonium_phenol.svg)
+
+*그림: diazonium 염을 물에서 가열하면 $N_2$(빨강 쪽이 떠나는 기)가 빠지고 OH(초록)가 들어간다.*
+
 (출처: L3 p.13)
 
 보충: nitro group을 아미노기로 환원하면 치환기의 성격이 정반대로 바뀐다는 점도 중요하다. NO₂는 비활성화·메타 배향기이고, NH₂는 강한 활성화·오르토/파라 배향기다(→ [L4](L04_Electrophilic_Aromatic_Substitution_Part2.md) 1절, 3.3절). 그래서 NO₂가 있는 동안 메타 위치에 다른 치환기를 넣은 뒤 환원하면, 아미노기에 대해 메타인 화합물처럼 직접 만들기 어려운 구조를 얻을 수 있다. (보충 근거: Clayden p.495)
@@ -220,6 +232,10 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 - **chemoselectivity**: ketone만 환원되고 carboxylic acid은 반응하지 않는다.
   - 예: 3-benzoylpropanoic acid --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
 
+![propiophenone → n-propylbenzene (Clemmensen)](../../figures/L03/propiophenone_clemmensen.svg)
+
+*그림: Clemmensen 환원. C=O(빨강)가 $CH_2$(초록)로 바뀐다.*
+
 (출처: L3 p.20)
 
 ### 6.4 응용: 테트랄론 합성 (빈칸 메커니즘 문제)
@@ -259,6 +275,10 @@ benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런
 - 반응이 **매우 빠르다**.
 - 생성물에는 **특정 위치에 bromine 원자 세 개**가 붙는다. phenol --[Br₂, EtOH/H₂O]--> 2,4,6-tribromophenol. 두 오르토 위치와 파라 위치다.
 
+![phenol + Br2 → 2,4,6-tribromophenol](../../figures/L03/phenol_tribromination.svg)
+
+*그림: OH(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리에 Br(초록) 세 개가 붙는다.*
+
 (출처: L3 p.23)
 
 > 슬라이드에는 "Phenol reacts three times as rapidly"라고 적혀 있다. 그러나 문맥상 이는 "세 번이나, 빠르게(촉매 없이 실온에서) 반응한다"는 뜻으로 읽는 것이 자연스럽다. L4 p.21의 데이터를 보면 OMe 치환 benzene(아니솔)의 bromination이 benzene보다 **10⁹배** 빠르므로, "3배 빠르다"는 해석은 맞지 않는다.[4]
@@ -290,6 +310,14 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 - **콜베-슈미트 Kolbe–Schmitt process**: phenol(pK<sub>a</sub> 10) --[NaOH]--> 나트륨 phenoxide --[CO₂]--> 나트륨 salicylate --[H₃O⁺]--> salicylic acid --[Ac₂O]--> **아스피린**
   - phenoxide 이온은 phenol보다 더 반응성이 크다. 산소의 음전하가 고리로 더 강하게 밀려 들어가기 때문이다. 그래서 CO₂ 같은 **약한 electrophile**와도 반응한다.
   - 메커니즘 그림에서 Na⁺는 phenoxide O⁻와 CO₂의 O 사이에 걸쳐 있다. 이 배위 때문에 CO₂가 **오르토 위치**로 안내된다. 오르토 탄소가 CO₂의 탄소를 공격한 뒤 tautomerization(±H⁺)로 방향족성이 회복된다.[5]
+
+![sodium phenoxide + CO2 → sodium salicylate](../../figures/L03/kolbe_schmitt_1.svg)
+
+*그림: Kolbe–Schmitt 1: phenoxide(파랑 $O^-$)의 ortho 탄소가 $CO_2$의 C(빨강)를 공격해 salicylate(초록 C–C)가 된다.*
+
+![salicylic acid + Ac2O → aspirin](../../figures/L03/aspirin.svg)
+
+*그림: Kolbe–Schmitt 뒤: salicylic acid의 phenol OH(파랑)가 $Ac_2O$로 acetyl화되어 aspirin(초록 ester O)이 된다.*
 
 (출처: L3 p.26)
 

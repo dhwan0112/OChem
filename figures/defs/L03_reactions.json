@@ -1,0 +1,90 @@
+[
+ {
+  "out": "figures/L03/nitrobenzene_reduction.json",
+  "title": "nitrobenzene → aniline (notes/통독/L03 121행)",
+  "reactants": [
+   "c1ccccc1[N+:2](=O)[O-]"
+  ],
+  "products": [
+   "c1ccccc1[NH2:3]"
+  ],
+  "conditions": "H2, Pd/C",
+  "below": "or Sn, dil. HCl"
+ },
+ {
+  "out": "figures/L03/aniline_diazotization.json",
+  "title": "aniline → aryl diazonium salt (notes/통독/L03 122행)",
+  "reactants": [
+   "c1ccccc1[NH2:1]"
+  ],
+  "products": [
+   "c1ccccc1[N+:3]#N",
+   "[Cl-]"
+  ],
+  "conditions": "NaNO2, HCl",
+  "below": "0 °C"
+ },
+ {
+  "out": "figures/L03/diazonium_phenol.json",
+  "title": "aryl diazonium → phenol (notes/통독/L03 122행)",
+  "reactants": [
+   "c1ccccc1[N+:2]#N"
+  ],
+  "products": [
+   "c1ccccc1[OH:3]",
+   "N#N"
+  ],
+  "conditions": "H2O",
+  "below": "heat"
+ },
+ {
+  "out": "figures/L03/propiophenone_clemmensen.json",
+  "title": "propiophenone → n-propylbenzene, Clemmensen (notes/통독/L03 219행)",
+  "reactants": [
+   "c1ccccc1[C:2](=[O:2])CC"
+  ],
+  "products": [
+   "c1ccccc1[CH2:3]CC"
+  ],
+  "conditions": "Zn/Hg, HCl",
+  "below": "C=O → CH2"
+ },
+ {
+  "out": "figures/L03/phenol_tribromination.json",
+  "title": "phenol → 2,4,6-tribromophenol (notes/통독/L03 260행)",
+  "reactants": [
+   "[OH:1]c1ccccc1"
+  ],
+  "products": [
+   "Oc1c([Br:3])cc([Br:3])cc1[Br:3]"
+  ],
+  "conditions": "Br2",
+  "below": "EtOH/H2O"
+ },
+ {
+  "out": "figures/L03/kolbe_schmitt_1.json",
+  "title": "Kolbe–Schmitt: sodium phenoxide + CO2 → sodium salicylate (notes/통독/L03 290행)",
+  "reactants": [
+   "[O-:1]c1ccccc1",
+   "O=[C:2]=O"
+  ],
+  "products": [
+   "[O-]C(=O)[c:3]1ccccc1O"
+  ],
+  "conditions": "heat, pressure",
+  "below": "(Na+)"
+ },
+ {
+  "out": "figures/L03/aspirin.json",
+  "title": "salicylic acid + Ac2O → aspirin (notes/통독/L03 290행)",
+  "reactants": [
+   "OC(=O)c1ccccc1[OH:1]",
+   "CC(=O)OC(C)=O"
+  ],
+  "products": [
+   "OC(=O)c1ccccc1[O:3]C(C)=O"
+  ],
+  "conditions": "",
+  "below": "acetylation"
+ }
+]
