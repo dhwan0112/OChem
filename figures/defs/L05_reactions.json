@@ -1,0 +1,624 @@
+[
+ {
+  "out": "figures/L05/alanine_nh3.json",
+  "title": "2-bromopropanoic acid + NH3 → alanine (notes/통독/L05 52행)",
+  "reactants": [
+   "C[CH:2]([Br:2])C(=O)O",
+   "[NH3:1]"
+  ],
+  "products": [
+   "C[CH:3]([NH2:3])C(=O)[O-]",
+   "[NH4+]"
+  ],
+  "conditions": "NH3 (70 mol)",
+  "below": "alanine, 65–70%",
+  "note": "L05",
+  "line": 52,
+  "wiki": "개념/아민 합성 개관",
+  "alt": "2-bromopropanoic acid + NH3 → alanine",
+  "cap": "NH3(파랑)가 C–Br(빨강)을 SN2로 치환한다. 대과량 NH3로 과알킬화를 막는다"
+ },
+ {
+  "out": "figures/L05/octylamine_nh3.json",
+  "title": "1-bromooctane + NH3 → octylamine + dioctylamine (notes/통독/L05 56행)",
+  "reactants": [
+   "CCCCCCC[CH2:2][Br:2]"
+  ],
+  "products": [
+   "CCCCCCC[CH2:3][NH2:3]",
+   "CCCCCCCC[NH:3]CCCCCCCC"
+  ],
+  "conditions": "NH3 (2 eq)",
+  "below": "45% + 43%",
+  "note": "L05",
+  "line": 56,
+  "wiki": "개념/아민 합성 개관",
+  "alt": "1-bromooctane + NH3 → octylamine + dioctylamine",
+  "cap": "NH3가 적으면 생성된 amine이 다시 알킬화되어 dioctylamine이 거의 같은 양 생긴다"
+ },
+ {
+  "out": "figures/L05/phenethyl_azide_1.json",
+  "title": "PhCH2CH2Br + NaN3 → 2-phenylethyl azide (notes/통독/L05 68행)",
+  "reactants": [
+   "c1ccccc1C[CH2:2][Br:2]",
+   "[N-:1]=[N+]=[N-]"
+  ],
+  "products": [
+   "c1ccccc1C[CH2:3][N:3]=[N+]=[N-]"
+  ],
+  "conditions": "EtOH",
+  "below": "SN2",
+  "note": "L05",
+  "line": 68,
+  "wiki": "반응/아자이드·나이트릴을 거친 아민 합성",
+  "alt": "PhCH2CH2Br + NaN3 → 2-phenylethyl azide",
+  "cap": "azide(파랑)가 C–Br(빨강)을 SN2로 치환한다"
+ },
+ {
+  "out": "figures/L05/phenethyl_azide_2.json",
+  "title": "2-phenylethyl azide → 2-phenylethylamine (notes/통독/L05 68행)",
+  "reactants": [
+   "c1ccccc1CC[N:2]=[N+]=[N-]"
+  ],
+  "products": [
+   "c1ccccc1CC[NH2:3]"
+  ],
+  "conditions": "1. LiAlH4, ether",
+  "below": "2. H2O; 89%",
+  "note": "L05",
+  "line": 68,
+  "wiki": "반응/아자이드·나이트릴을 거친 아민 합성",
+  "alt": "2-phenylethyl azide → 2-phenylethylamine",
+  "cap": "azide를 환원하면 $N_2$가 빠지고 1차 amine(초록)이 된다(89%)"
+ },
+ {
+  "out": "figures/L05/benzylamine_acyl_1.json",
+  "title": "benzylamine + CH3COCl → N-benzylacetamide (notes/통독/L05 88행)",
+  "reactants": [
+   "c1ccccc1C[NH2:1]",
+   "C[C:2](=O)Cl"
+  ],
+  "products": [
+   "c1ccccc1C[NH:3][C:3](C)=O"
+  ],
+  "conditions": "base",
+  "below": "",
+  "note": "L05",
+  "line": 88,
+  "wiki": "반응/아마이드 환원",
+  "alt": "benzylamine + CH3COCl → N-benzylacetamide",
+  "cap": "amine N(파랑)이 acyl chloride C(빨강)를 공격해 amide(초록)가 된다"
+ },
+ {
+  "out": "figures/L05/benzylamine_acyl_2.json",
+  "title": "N-benzylacetamide → N-benzylethylamine (notes/통독/L05 88행)",
+  "reactants": [
+   "c1ccccc1CN[C:2](C)=O"
+  ],
+  "products": [
+   "c1ccccc1CN[CH2:3]C"
+  ],
+  "conditions": "1. LiAlH4",
+  "below": "2. H2O",
+  "note": "L05",
+  "line": 88,
+  "wiki": "반응/아마이드 환원",
+  "alt": "N-benzylacetamide → N-benzylethylamine",
+  "cap": "amide C=O(빨강)가 $CH_2$(초록)로 환원된다"
+ },
+ {
+  "out": "figures/L05/ra_3_methylbutanal.json",
+  "title": "3-methylbutanal + NH3 → 3-methylbutan-1-amine (notes/통독/L05 139행)",
+  "reactants": [
+   "CC(C)C[CH:2]=O"
+  ],
+  "products": [
+   "CC(C)C[CH2:3][NH2:3]"
+  ],
+  "conditions": "NH3, [H]",
+  "below": "1° amine",
+  "note": "L05",
+  "line": 139,
+  "wiki": "반응/환원성 아미노화",
+  "alt": "3-methylbutanal + NH3 → 3-methylbutan-1-amine",
+  "cap": "NH3로 환원성 아미노화하면 1차 amine이 된다(초록 = 새 C–N)"
+ },
+ {
+  "out": "figures/L05/ra_acetone.json",
+  "title": "cyclohexylmethanamine + acetone → N-(cyclohexylmethyl)propan-2-amine (notes/통독/L05 140행)",
+  "reactants": [
+   "NCC1CCCCC1",
+   "C[C:2](C)=O"
+  ],
+  "products": [
+   "C[CH:3](C)[NH:3]CC1CCCCC1"
+  ],
+  "conditions": "[H]",
+  "below": "2° amine",
+  "note": "L05",
+  "line": 140,
+  "wiki": "반응/환원성 아미노화",
+  "alt": "cyclohexylmethanamine + acetone → N-(cyclohexylmethyl)propan-2-amine",
+  "cap": "1차 amine + ketone → 2차 amine"
+ },
+ {
+  "out": "figures/L05/ra_pyrrolidine.json",
+  "title": "pyrrolidine + 2-methylpropanal → 1-isobutylpyrrolidine (notes/통독/L05 141행)",
+  "reactants": [
+   "C1CC[NH:1]C1",
+   "CC(C)[CH:2]=O"
+  ],
+  "products": [
+   "CC(C)[CH2:3][N:3]1CCCC1"
+  ],
+  "conditions": "[H]",
+  "below": "3° amine",
+  "note": "L05",
+  "line": 141,
+  "wiki": "반응/환원성 아미노화",
+  "alt": "pyrrolidine + 2-methylpropanal → 1-isobutylpyrrolidine",
+  "cap": "2차 amine + aldehyde → 3차 amine"
+ },
+ {
+  "out": "figures/L05/venlafaxine_1.json",
+  "title": "4-methoxyphenylacetonitrile + cyclohexanone (LDA) (notes/통독/L05 177행)",
+  "reactants": [
+   "COc1ccc([CH2:1]C#N)cc1",
+   "O=[C:2]1CCCCC1"
+  ],
+  "products": [
+   "COc1ccc([CH:3](C#N)[C:3]2(O)CCCCC2)cc1"
+  ],
+  "conditions": "LDA",
+  "below": "83%",
+  "note": "L05",
+  "line": 177,
+  "wiki": "개념/아민 합성 개관",
+  "alt": "4-methoxyphenylacetonitrile + cyclohexanone (LDA)",
+  "cap": "venlafaxine 1단계: nitrile α-탄소 anion(파랑)이 ketone C(빨강)에 첨가한다(새 C–C, 초록)"
+ },
+ {
+  "out": "figures/L05/venlafaxine_2.json",
+  "title": "nitrile → 1° amine (venlafaxine 2단계) (notes/통독/L05 178행)",
+  "reactants": [
+   "COc1ccc(C([C:2]#N)C2(O)CCCCC2)cc1"
+  ],
+  "products": [
+   "COc1ccc(C([CH2:3][NH2:3])C2(O)CCCCC2)cc1"
+  ],
+  "conditions": "H2, 5% Rh/Al2O3",
+  "below": "57%",
+  "note": "L05",
+  "line": 178,
+  "wiki": "반응/촉매 수소화",
+  "alt": "nitrile → 1° amine (venlafaxine 2단계)",
+  "cap": "C≡N(빨강)이 $CH_2NH_2$(초록)로 환원된다"
+ },
+ {
+  "out": "figures/L05/venlafaxine_3.json",
+  "title": "Eschweiler–Clarke → venlafaxine (notes/통독/L05 179행)",
+  "reactants": [
+   "COc1ccc(C([CH2][NH2:1])C2(O)CCCCC2)cc1"
+  ],
+  "products": [
+   "COc1ccc(C(C[N:3]([CH3:3])[CH3:3])C2(O)CCCCC2)cc1"
+  ],
+  "conditions": "HCHO, HCOOH",
+  "below": "reflux, 80%",
+  "note": "L05",
+  "line": 179,
+  "wiki": "반응/에슈바일러-클라크 반응",
+  "alt": "Eschweiler–Clarke → venlafaxine",
+  "cap": "N에 methyl 두 개(초록)가 붙어 venlafaxine이 된다"
+ },
+ {
+  "out": "figures/L05/butanal_nabh4.json",
+  "title": "butanal → 1-butanol (notes/통독/L05 221행)",
+  "reactants": [
+   "CCC[CH:2]=[O:2]"
+  ],
+  "products": [
+   "CCC[CH2:3][OH:3]"
+  ],
+  "conditions": "NaBH4, MeOH",
+  "below": "85%",
+  "note": "L05",
+  "line": 221,
+  "wiki": "시약/NaBH4",
+  "alt": "butanal → 1-butanol",
+  "cap": "aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다"
+ },
+ {
+  "out": "figures/L05/butanone_nabh4.json",
+  "title": "butanone → 2-butanol (notes/통독/L05 222행)",
+  "reactants": [
+   "CC[C:2](C)=[O:2]"
+  ],
+  "products": [
+   "CC[CH:3](C)[OH:3]"
+  ],
+  "conditions": "NaBH4, MeOH",
+  "below": "87%",
+  "note": "L05",
+  "line": 222,
+  "wiki": "시약/NaBH4",
+  "alt": "butanone → 2-butanol",
+  "cap": "ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다"
+ },
+ {
+  "out": "figures/L05/tbu_cyclohexanone_nabh4.json",
+  "title": "4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol (notes/통독/L05 243행)",
+  "reactants": [
+   "CC(C)(C)C1CC[C:2](=[O:2])CC1"
+  ],
+  "products": [
+   "CC(C)(C)C1CC[CH:3]([OH:3])CC1"
+  ],
+  "conditions": "NaBH4, EtOH",
+  "below": "",
+  "note": "L05",
+  "line": 243,
+  "wiki": "시약/NaBH4",
+  "alt": "4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol",
+  "cap": "C=O(빨강) → CH–OH(초록)"
+ },
+ {
+  "out": "figures/L05/libh4_ester.json",
+  "title": "LiBH4: ester만 환원, acid 유지 (notes/통독/L05 263행)",
+  "reactants": [
+   "CO[C:2](=O)CC(C)CC(=O)O"
+  ],
+  "products": [
+   "O[CH2:3]CC(C)CC(=O)O"
+  ],
+  "conditions": "LiBH4, EtOH",
+  "below": "",
+  "note": "L05",
+  "line": 263,
+  "wiki": "시약/LiBH4",
+  "alt": "LiBH4: ester만 환원, acid 유지",
+  "cap": "ester C=O(빨강)만 $CH_2OH$(초록)로 환원되고 $CO_2H$는 남는다"
+ },
+ {
+  "out": "figures/L05/lialh4_pivalic.json",
+  "title": "2,2-dimethylpropanoic acid → neopentyl alcohol (notes/통독/L05 273행)",
+  "reactants": [
+   "CC(C)(C)[C:2](=O)O"
+  ],
+  "products": [
+   "CC(C)(C)[CH2:3][OH:3]"
+  ],
+  "conditions": "1. LiAlH4, Et2O",
+  "below": "2. H3O+; 92%",
+  "note": "L05",
+  "line": 273,
+  "wiki": "시약/LiAlH4",
+  "alt": "2,2-dimethylpropanoic acid → neopentyl alcohol",
+  "cap": "carboxylic acid(빨강)가 1차 alcohol(초록)로 환원된다(92%)"
+ },
+ {
+  "out": "figures/L05/lialh4_bromopentane.json",
+  "title": "2-bromopentane → pentane (notes/통독/L05 284행)",
+  "reactants": [
+   "CCC[CH:2](C)[Br:2]"
+  ],
+  "products": [
+   "CCC[CH2:3]C"
+  ],
+  "conditions": "1. LiAlH4, ether",
+  "below": "2. H3O+",
+  "note": "L05",
+  "line": 284,
+  "wiki": "시약/LiAlH4",
+  "alt": "2-bromopentane → pentane",
+  "cap": "hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다"
+ },
+ {
+  "out": "figures/L05/liald4_bromoethylbenzene.json",
+  "title": "PhCH(Br)CH3 + LiAlD4 → PhCHDCH3 (notes/통독/L05 285행)",
+  "reactants": [
+   "C[CH:2]([Br:2])c1ccccc1"
+  ],
+  "products": [
+   "C[CH:3]([2H:3])c1ccccc1"
+  ],
+  "conditions": "1. LiAlD4, ether",
+  "below": "2. H3O+",
+  "note": "L05",
+  "line": 285,
+  "wiki": "시약/LiAlH4",
+  "alt": "PhCH(Br)CH3 + LiAlD4 → PhCHDCH3",
+  "cap": "LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다"
+ },
+ {
+  "out": "figures/L05/bh3_ketoacid.json",
+  "title": "PhCOCH2CH2CO2H + BH3 → PhCOCH2CH2CH2OH (notes/통독/L05 306행)",
+  "reactants": [
+   "O=C(CC[C:2](=O)O)c1ccccc1"
+  ],
+  "products": [
+   "O=C(CC[CH2:3][OH:3])c1ccccc1"
+  ],
+  "conditions": "BH3",
+  "below": "ketone kept",
+  "note": "L05",
+  "line": 306,
+  "wiki": "시약/보레인",
+  "alt": "PhCOCH2CH2CO2H + BH3 → PhCOCH2CH2CH2OH",
+  "cap": "BH3는 carboxylic acid(빨강)만 환원하고 ketone은 남긴다"
+ },
+ {
+  "out": "figures/L05/bh3_amide.json",
+  "title": "N,N-dimethylpivalamide → (CH3)3CCH2NMe2 (notes/통독/L05 307행)",
+  "reactants": [
+   "CC(C)(C)[C:2](=O)N(C)C"
+  ],
+  "products": [
+   "CC(C)(C)[CH2:3]N(C)C"
+  ],
+  "conditions": "BH3, THF",
+  "below": "79%",
+  "note": "L05",
+  "line": 307,
+  "wiki": "반응/아마이드 환원",
+  "alt": "N,N-dimethylpivalamide → (CH3)3CCH2NMe2",
+  "cap": "amide C=O(빨강)가 $CH_2$(초록)로 환원된다"
+ },
+ {
+  "out": "figures/L05/bh3_lactam.json",
+  "title": "lactam C=O → CH2, ester 유지 (notes/통독/L05 308행)",
+  "reactants": [
+   "COC(=O)C1C[C:2](=O)N(Cc2ccccc2)C1"
+  ],
+  "products": [
+   "COC(=O)C1C[CH2:3]N(Cc2ccccc2)C1"
+  ],
+  "conditions": "BH3, THF",
+  "below": "ester kept",
+  "note": "L05",
+  "line": 308,
+  "wiki": "시약/보레인",
+  "alt": "lactam C=O → CH2, ester 유지",
+  "cap": "BH3는 lactam C=O(빨강)를 $CH_2$(초록)로 환원하고 ester는 남긴다"
+ },
+ {
+  "out": "figures/L05/enone_h2_pdc.json",
+  "title": "4-(4-hydroxyphenyl)but-3-en-2-one → 4-(4-hydroxyphenyl)butan-2-one (notes/통독/L05 364행)",
+  "reactants": [
+   "CC(=O)/[CH:1]=[CH:1]/c1ccc(O)cc1"
+  ],
+  "products": [
+   "CC(=O)[CH2:3][CH2:3]c1ccc(O)cc1"
+  ],
+  "conditions": "H2, Pd/C",
+  "below": "",
+  "note": "L05",
+  "line": 364,
+  "wiki": "반응/촉매 수소화",
+  "alt": "4-(4-hydroxyphenyl)but-3-en-2-one → 4-(4-hydroxyphenyl)butan-2-one",
+  "cap": "C=C(파랑)만 수소화되고 C=O는 남는다"
+ },
+ {
+  "out": "figures/L05/dimethylcyclohexene_h2.json",
+  "title": "1,2-dimethylcyclohexene → cis-1,2-dimethylcyclohexane (notes/통독/L05 382행)",
+  "reactants": [
+   "C[C:1]1=[C:1](C)CCCC1"
+  ],
+  "products": [
+   "C[C@H:3]1CCCC[C@@H:3]1C"
+  ],
+  "conditions": "H2, PtO2, AcOH",
+  "below": "cis 82% + trans 18%",
+  "note": "L05",
+  "line": 382,
+  "wiki": "반응/촉매 수소화",
+  "alt": "1,2-dimethylcyclohexene → cis-1,2-dimethylcyclohexane",
+  "cap": "syn 첨가라서 cis(82%)가 주생성물이다(trans 18%)"
+ },
+ {
+  "out": "figures/L05/ethyl_benzoate_h2.json",
+  "title": "ethyl benzoate → ethyl cyclohexanecarboxylate (notes/통독/L05 387행)",
+  "reactants": [
+   "CCOC(=O)c1ccccc1"
+  ],
+  "products": [
+   "CCOC(=O)C1CCCCC1"
+  ],
+  "conditions": "H2, Ni",
+  "below": "50 °C, 100 atm",
+  "note": "L05",
+  "line": 387,
+  "wiki": "반응/촉매 수소화",
+  "alt": "ethyl benzoate → ethyl cyclohexanecarboxylate",
+  "cap": "benzene 고리 수소화에는 가혹한 조건이 필요하다"
+ },
+ {
+  "out": "figures/L05/phenylacetic_h2.json",
+  "title": "phenylacetic acid → cyclohexylacetic acid (notes/통독/L05 388행)",
+  "reactants": [
+   "OC(=O)Cc1ccccc1"
+  ],
+  "products": [
+   "OC(=O)CC1CCCCC1"
+  ],
+  "conditions": "H2, PtO2, AcOH",
+  "below": "25 °C",
+  "note": "L05",
+  "line": 388,
+  "wiki": "반응/촉매 수소화",
+  "alt": "phenylacetic acid → cyclohexylacetic acid",
+  "cap": "PtO2는 상온에서도 고리를 수소화한다"
+ },
+ {
+  "out": "figures/L05/geranial_citronellal.json",
+  "title": "geranial (E) → (+)-citronellal (notes/통독/L05 396행)",
+  "reactants": [
+   "CC(C)=CCC/[C:1](C)=[CH:1]/C=O"
+  ],
+  "products": [
+   "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
+  ],
+  "conditions": "H2, CO, Rh cat.",
+  "below": "(S,S)-Chiraphos",
+  "note": "L05",
+  "line": 396,
+  "wiki": "반응/촉매 수소화",
+  "alt": "geranial (E) → (+)-citronellal",
+  "cap": "비대칭 수소화. 공액 C=C(파랑)만 환원된다"
+ },
+ {
+  "out": "figures/L05/neral_citronellal.json",
+  "title": "neral (Z) → (+)-citronellal (notes/통독/L05 397행)",
+  "reactants": [
+   "CC(C)=CCC/[C:1](C)=[CH:1]\\C=O"
+  ],
+  "products": [
+   "CC(C)=CCC[CH:3](C)[CH2:3]C=O"
+  ],
+  "conditions": "H2, CO, Rh cat.",
+  "below": "(R,R)-Chiraphos",
+  "note": "L05",
+  "line": 397,
+  "wiki": "반응/촉매 수소화",
+  "alt": "neral (Z) → (+)-citronellal",
+  "cap": "Z 이성질체는 반대 리간드로 같은 거울상 생성물을 준다"
+ },
+ {
+  "out": "figures/L05/citronellal_isopulegol.json",
+  "title": "(+)-citronellal → (−)-isopulegol (notes/통독/L05 398행)",
+  "reactants": [
+   "C[C:1](C)=CCCC(C)C[CH:2]=O"
+  ],
+  "products": [
+   "C=C(C)C1CCC(C)C[CH:3]1O"
+  ],
+  "conditions": "Al cat.",
+  "below": "",
+  "note": "L05",
+  "line": 398,
+  "wiki": "반응/촉매 수소화",
+  "alt": "(+)-citronellal → (−)-isopulegol",
+  "cap": "Lewis acid 촉매 고리화(ene 반응). C=C(파랑)가 C=O(빨강)를 공격한다"
+ },
+ {
+  "out": "figures/L05/isopulegol_menthol.json",
+  "title": "(−)-isopulegol → (−)-menthol (notes/통독/L05 398행)",
+  "reactants": [
+   "[CH2:1]=[C:1](C)C1CCC(C)CC1O"
+  ],
+  "products": [
+   "C[CH:3](C)C1CCC(C)CC1O"
+  ],
+  "conditions": "H2, Ni cat.",
+  "below": "",
+  "note": "L05",
+  "line": 398,
+  "wiki": "반응/촉매 수소화",
+  "alt": "(−)-isopulegol → (−)-menthol",
+  "cap": "C=C(파랑)를 수소화하면 menthol이 된다"
+ },
+ {
+  "out": "figures/L05/rosenmund_naphthoyl.json",
+  "title": "2-naphthoyl chloride → 2-naphthaldehyde (notes/통독/L05 425행)",
+  "reactants": [
+   "O=[C:2](Cl)c1ccc2ccccc2c1"
+  ],
+  "products": [
+   "O=[CH:3]c1ccc2ccccc2c1"
+  ],
+  "conditions": "H2, Pd/BaSO4",
+  "below": "quinoline, 74–81%",
+  "note": "L05",
+  "line": 425,
+  "wiki": "반응/로젠문트 환원",
+  "alt": "2-naphthoyl chloride → 2-naphthaldehyde",
+  "cap": "Rosenmund 환원. 독성화한 촉매라 aldehyde에서 멈춘다"
+ },
+ {
+  "out": "figures/L05/ra_h2_pdc.json",
+  "title": "ketone + 1° amine → imine → 2° amine (H2/Pd-C) (notes/통독/L05 432행)",
+  "reactants": [
+   "COc1ccc(C[C:2](C)=O)cc1",
+   "COC(=O)c1cc(C(O)C[NH2:1])ccc1O"
+  ],
+  "products": [
+   "COc1ccc(C[CH:3](C)[NH:3]CC(O)c2ccc(O)c(C(=O)OC)c2)cc1"
+  ],
+  "conditions": "1. H+ (imine)",
+  "below": "2. H2, Pd/C",
+  "note": "L05",
+  "line": 432,
+  "wiki": "반응/환원성 아미노화",
+  "alt": "ketone + 1° amine → imine → 2° amine (H2/Pd-C)",
+  "cap": "imine을 거쳐 $H_2$/Pd-C로 환원한다. 새 C–N(초록)"
+ },
+ {
+  "out": "figures/L05/route_a_1.json",
+  "title": "PhCH2COOH → PhCH2CONHCH3 (notes/통독/L05 492행)",
+  "reactants": [
+   "OC(=O)Cc1ccccc1"
+  ],
+  "products": [
+   "C[NH:3][C:3](=O)Cc1ccccc1"
+  ],
+  "conditions": "1. SOCl2",
+  "below": "2. CH3NH2",
+  "note": "L05",
+  "line": 492,
+  "wiki": "반응/아마이드 환원",
+  "alt": "PhCH2COOH → PhCH2CONHCH3",
+  "cap": "경로 A 1단계: amide 형성"
+ },
+ {
+  "out": "figures/L05/route_a_2.json",
+  "title": "PhCH2CONHCH3 → PhCH2CH2NHCH3 (notes/통독/L05 492행)",
+  "reactants": [
+   "CN[C:2](=O)Cc1ccccc1"
+  ],
+  "products": [
+   "CN[CH2:3]Cc1ccccc1"
+  ],
+  "conditions": "1. LiAlH4",
+  "below": "2. H2O",
+  "note": "L05",
+  "line": 492,
+  "wiki": "반응/아마이드 환원",
+  "alt": "PhCH2CONHCH3 → PhCH2CH2NHCH3",
+  "cap": "경로 A 2단계: amide C=O(빨강) → $CH_2$(초록)"
+ },
+ {
+  "out": "figures/L05/route_b.json",
+  "title": "PhCH2CHO + CH3NH2 → PhCH2CH2NHCH3 (notes/통독/L05 493행)",
+  "reactants": [
+   "O=[CH:2]Cc1ccccc1",
+   "C[NH2:1]"
+  ],
+  "products": [
+   "C[NH:3][CH2:3]Cc1ccccc1"
+  ],
+  "conditions": "NaBH3CN",
+  "below": "weak acid",
+  "note": "L05",
+  "line": 493,
+  "wiki": "반응/환원성 아미노화",
+  "alt": "PhCH2CHO + CH3NH2 → PhCH2CH2NHCH3",
+  "cap": "경로 B: 환원성 아미노화. 새 C–N(초록)의 탄소는 aldehyde에서 온다"
+ },
+ {
+  "out": "figures/L05/furyl_oxidation.json",
+  "title": "2-(furan-2-yl)propan-1-ol → 2-(furan-2-yl)propanal (notes/통독/L05 511행)",
+  "reactants": [
+   "CC([CH2:2][OH:2])c1ccco1"
+  ],
+  "products": [
+   "CC([CH:3]=[O:3])c1ccco1"
+  ],
+  "conditions": "Swern, PCC or DMP",
+  "below": "",
+  "note": "L05",
+  "line": 511,
+  "wiki": "반응/알코올 산화",
+  "alt": "2-(furan-2-yl)propan-1-ol → 2-(furan-2-yl)propanal",
+  "cap": "온화한 산화로 aldehyde에서 멈춘다"
+ }
+]

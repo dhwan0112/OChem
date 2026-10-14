@@ -51,9 +51,17 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 
 `CH3CH(Br)COOH (1 mol) + NH3 (70 mol) --> CH3CH(NH2)COO- NH4+ (알라닌, 65-70%)`
 
+![2-bromopropanoic acid + NH3 → alanine](../../figures/L05/alanine_nh3.svg)
+
+*그림: NH3(파랑)가 C–Br(빨강)을 SN2로 치환한다. 대과량 NH3로 과알킬화를 막는다.*
+
 그런데 왜 NH<sub>3</sub>를 그렇게 많이 넣어야 할까? 1-bromooctane에 NH<sub>3</sub>를 2 eq만 넣어 보면 답이 나온다.
 
 `CH3(CH2)6CH2Br + NH3 (2 eq) --> 옥틸아민 (45%) + 다이옥틸아민 (43%) + 트라이옥틸아민 (미량) + 테트라옥틸암모늄 브로마이드 (미량)`
+
+![1-bromooctane + NH3 → octylamine + dioctylamine](../../figures/L05/octylamine_nh3.svg)
+
+*그림: NH3가 적으면 생성된 amine이 다시 알킬화되어 dioctylamine이 거의 같은 양 생긴다.*
 
 원하는 1차 amine과 거의 같은 양의 2차 amine이 섞여 나온다. 이것이 over-alkylation이다. 원인은 생성물 자체에 있다. 새로 생긴 RNH<sub>2</sub>는 alkyl group의 전자 공여 덕분에 NH<sub>3</sub>보다 오히려 더 좋은 nucleophile라서, 남은 RX를 먼저 낚아채 버린다.[4] 즉 반응이 "한 번만 일어나고 멈추는" 장치가 없다. 그래서 아래의 방법들은 모두 "N을 한 번만 붙이고 나중에 환원으로 amine을 드러내는" 전략으로 이 문제를 피한다.
 
@@ -66,6 +74,14 @@ overalkylation을 막으려면 어떻게 해야 할까? 한 가지 답은 nucleo
 `R-X + N3- --[S_N2, -X-]--> R-N3 --[LiAlH4 또는 H2/Pd 또는 PPh3]--> RNH2`
 
 예: `1-브로모-2-페닐에테인 PhCH2CH2Br --[NaN3, EtOH]--> 2-페닐에틸 아자이드 PhCH2CH2N3 --[1. LiAlH4, ether; 2. H2O]--> 2-페닐에틸아민 PhCH2CH2NH2 (89%)`
+
+![PhCH2CH2Br + NaN3 → 2-phenylethyl azide](../../figures/L05/phenethyl_azide_1.svg)
+
+*그림: azide(파랑)가 C–Br(빨강)을 SN2로 치환한다.*
+
+![2-phenylethyl azide → 2-phenylethylamine](../../figures/L05/phenethyl_azide_2.svg)
+
+*그림: azide를 환원하면 $N_2$가 빠지고 1차 amine(초록)이 된다(89%).*
 
 환원 시약으로 PPh<sub>3</sub>도 쓸 수 있다는 점이 흥미롭다.[5]
 
@@ -86,6 +102,14 @@ overalkylation을 막으려면 어떻게 해야 할까? 한 가지 답은 nucleo
 `RCOOH --[1. SOCl2; 2. NH3]--> RCONH2 --[1. LiAlH4, ether; 2. H2O (또는 BH3)]--> RCH2NH2`
 
 예: `벤질아민 PhCH2NH2 --[CH3COCl, base]--> PhCH2NHCOCH3 --[(1) LiAlH4; (2) H2O]--> N-벤질에틸아민 PhCH2NHCH2CH3`
+
+![benzylamine + CH3COCl → N-benzylacetamide](../../figures/L05/benzylamine_acyl_1.svg)
+
+*그림: amine N(파랑)이 acyl chloride C(빨강)를 공격해 amide(초록)가 된다.*
+
+![N-benzylacetamide → N-benzylethylamine](../../figures/L05/benzylamine_acyl_2.svg)
+
+*그림: amide C=O(빨강)가 $CH_2$(초록)로 환원된다.*
 
 이 두 단계를 합쳐 보면 결국 benzylamine의 N에 ethyl group을 하나 붙인 셈이다. 그런데 왜 ethyl bromide로 직접 alkylate하지 않을까? 직접 alkylation은 1-1에서 본 overalkylation이 일어나지만, acylation은 생성물인 amide가 친핵성이 약하므로(1-0-1) 딱 한 번에서 멈춘다. 즉 "acylation 후 환원"은 깔끔한 N-alkylation의 우회로다.
 
@@ -140,6 +164,18 @@ amine의 종류에 따라 결과가 한 단계씩 올라간다. NH<sub>3</sub>�
 - `사이클로헥실메탄아민 C6H11CH2NH2 + 아세톤 --> N-(사이클로헥실메틸)프로판-2-아민 C6H11CH2NHCH(CH3)2 (2차)`
 - `피롤리딘 + 2-methyl프로판알 (CH3)2CHCHO --> 1-아이소뷰틸피롤리딘 (3차)`
 
+![3-methylbutanal + NH3 → 3-methylbutan-1-amine](../../figures/L05/ra_3_methylbutanal.svg)
+
+*그림: NH3로 환원성 아미노화하면 1차 amine이 된다(초록 = 새 C–N).*
+
+![cyclohexylmethanamine + acetone → N-(cyclohexylmethyl)propan-2-amine](../../figures/L05/ra_acetone.svg)
+
+*그림: 1차 amine + ketone → 2차 amine.*
+
+![pyrrolidine + 2-methylpropanal → 1-isobutylpyrrolidine](../../figures/L05/ra_pyrrolidine.svg)
+
+*그림: 2차 amine + aldehyde → 3차 amine.*
+
 역합성할 때 쓸 만한 요령이 하나 있다. 생성물에서 새 C-N 결합의 탄소 쪽을 보면, 그 탄소가 carbonyl에서 왔고 거기엔 반드시 H가 하나 이상 붙어 있다(환원 때 들어온 H). 이 H가 없는 탄소, 예컨대 3차 alkyl group은 환원성 아미노화로 N에 붙일 수 없다.
 
 (출처: L5 p.12)
@@ -177,6 +213,18 @@ N에 methyl group을 두 개 붙이고 싶다면 더 간단한 방법이 있다.
 1. **C-C 결합 만들기** (슬라이드 표기: "enolate chemistry"): `4-메톡시페닐아세토나이트릴 --[LDA; 사이클로헥산온]--> 1-[사이아노(4-메톡시페닐)메틸]사이클로헥산올 (83%)`. LDA가 nitrile α-H를 떼고, 생긴 탄소 anion이 ketone C=O에 첨가한다.[8] (→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서의 LDA 참고)
 2. **nitrile → 1차 amine** (1-1b의 환원): `--[H2, 5% Rh/Al2O3]--> 1-[2-아미노-1-(4-메톡시페닐)에틸]사이클로헥산올 (57%)`.
 3. **N,N-dimethyl화** (1-4의 Eschweiler–Clarke): `--[HCHO, HCOOH, reflux]--> 벤라팍신 (80%, HCl 염)`.
+
+![4-methoxyphenylacetonitrile + cyclohexanone (LDA)](../../figures/L05/venlafaxine_1.svg)
+
+*그림: venlafaxine 1단계: nitrile α-탄소 anion(파랑)이 ketone C(빨강)에 첨가한다(새 C–C, 초록).*
+
+![nitrile → 1° amine (venlafaxine 2단계)](../../figures/L05/venlafaxine_2.svg)
+
+*그림: C≡N(빨강)이 $CH_2NH_2$(초록)로 환원된다.*
+
+![Eschweiler–Clarke → venlafaxine](../../figures/L05/venlafaxine_3.svg)
+
+*그림: N에 methyl 두 개(초록)가 붙어 venlafaxine이 된다.*
 
 그런데 2와 3을 한 번에 할 수는 없을까? 특허 경로[9]가 바로 그것이다. 사이아노 alcohol을 `H2 (12 bar), Pd/C (5%), HCHO (2.2 eq)`로 처리하면 벤라팍신이 94%로 나온다. nitrile 수소화로 생긴 1차 amine이 같은 용기 안의 HCHO와 환원성 아미노화(H<sub>2</sub>/Pd가 환원제)를 두 번 연달아 겪는 것이다. HCHO가 2.2 eq인 이유도 methyl group 두 개를 붙여야 하기 때문이다. 슬라이드의 빈 상자 두 개는 연습 문제 3번으로 옮겼다.
 
@@ -221,6 +269,14 @@ NaBH<sub>4</sub>는 아마 가장 많이 쓰이는 환원제일 것이다. 온�
 - `뷰탄알 CH3CH2CH2CHO --[NaBH4, MeOH]--> 1-뷰탄올 (85%)`
 - `뷰탄온 CH3COCH2CH3 --[NaBH4, MeOH]--> 2-뷰탄올 (87%)`
 
+![butanal → 1-butanol](../../figures/L05/butanal_nabh4.svg)
+
+*그림: aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다.*
+
+![butanone → 2-butanol](../../figures/L05/butanone_nabh4.svg)
+
+*그림: ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다.*
+
 메커니즘의 이름은 "hydride" 첨가다.
 1. BH<sub>4</sub><sup>-</sup>의 B-H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C-H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO<sup>-</sup>는 BH<sub>3</sub>에 붙어 EtOBH<sub>3</sub><sup>-</sup>가 된다.
@@ -242,6 +298,10 @@ NaBH<sub>4</sub>는 아마 가장 많이 쓰이는 환원제일 것이다. 온�
 
 실험 사진 예시는 `4-tert-뷰틸사이클로헥산온 --[NaBH4, ethanol]--> 4-tert-뷰틸사이클로헥산올`이며, TLC(S = 출발물, C = co-spot, R = 반응액)로 진행을 확인한다.[12]
 
+![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
+
+*그림: C=O(빨강) → CH–OH(초록).*
+
 (출처: L5 p.20)
 
 #### aldehyde와 ketone을 구별할 수 있을까
@@ -262,6 +322,10 @@ Na<sup>+</sup>를 Li<sup>+</sup>로 바꾸기만 했는데 왜 ester가 환원�
 
 `MeO2C-CH2-CH(CH3)-CH2-CO2H --[LiBH4, EtOH]--> HO-CH2-CH2-CH(CH3)-CH2-CO2H`
 
+![LiBH4: ester만 환원, acid 유지](../../figures/L05/libh4_ester.svg)
+
+*그림: ester C=O(빨강)만 $CH_2OH$(초록)로 환원되고 $CO_2H$는 남는다.*
+
 ester 쪽만 CH<sub>2</sub>OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 2-0의 서열에서 찾을 수 있다. 산은 수소화물 시약과 만나면 deprotonate되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다.
 
 (출처: L5 p.22)
@@ -273,6 +337,10 @@ LiAlH<sub>4</sub>는 강한 환원제다. carboxylic acid, ester, aldehyde는 1�
 - `2,2-다이메틸프로판산 (CH3)3CCO2H --[(1) LiAlH4, Et2O; (2) H2O/H2SO4]--> 네오펜틸 알코올 (CH3)3CCH2OH (92%)`
 - `RCO2R' --[(1) LiAlH4, Et2O; (2) H2O/H2SO4]--> RCH2OH + R'OH`
 
+![2,2-dimethylpropanoic acid → neopentyl alcohol](../../figures/L05/lialh4_pivalic.svg)
+
+*그림: carboxylic acid(빨강)가 1차 alcohol(초록)로 환원된다(92%).*
+
 ester를 환원하면 alcohol이 두 개 나온다는 점에 주의하자. acyl 쪽은 RCH<sub>2</sub>OH가 되고 알콕시 쪽은 R'OH로 떨어져 나온다. 슬라이드는 LiAlH<sub>4</sub>를 "pyrophoric chemical"로 경고하는데, 물과 격렬히 반응하므로 다룰 때 조심해야 한다.[14]
 
 (출처: L5 p.23)
@@ -283,6 +351,14 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 - `2-브로모펜테인 --[(1) LiAlH4, ether; (2) H2O/H2SO4]--> 펜테인`
 - `(1-브로모에틸)벤젠 PhCH(Br)CH3 --[(1) LiAlD4, ether; (2) H2O/H2SO4]--> PhCHDCH3`
+
+![2-bromopentane → pentane](../../figures/L05/lialh4_bromopentane.svg)
+
+*그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.*
+
+![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
+
+*그림: LiAl$D_4$를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.*
 
 두 번째 예는 왜 굳이 LiAlD<sub>4</sub>를 썼을까? D가 정확히 Br이 있던 자리에 들어간 것을 보면, 수소화물이 C-Br 탄소를 직접 공격해 Br을 밀어낸다는 것을 알 수 있다.[15] alkyl halide을 환원하는 다른 방법으로는 (a) 제거 반응 후 수소화, (b) alkyl radical을 거치는 방법이 있다.
 
@@ -306,6 +382,18 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 - `4-옥소-4-페닐뷰탄산 PhCOCH2CH2CO2H --[BH3]--> PhCOCH2CH2CH2OH` (ketone 유지)
 - `N,N-다이메틸피발아마이드 (CH3)3CCONMe2 --[BH3, THF]--> (CH3)3CCH2NMe2 (79%)`
 - `메틸 1-벤질-5-옥소피롤리딘-3-카복실레이트 --[BH3, THF]--> 메틸 1-벤질피롤리딘-3-카복실레이트` (락탐 C=O → CH<sub>2</sub>, ester 유지)
+
+![PhCOCH2CH2CO2H + BH3 → PhCOCH2CH2CH2OH](../../figures/L05/bh3_ketoacid.svg)
+
+*그림: BH3는 carboxylic acid(빨강)만 환원하고 ketone은 남긴다.*
+
+![N,N-dimethylpivalamide → (CH3)3CCH2NMe2](../../figures/L05/bh3_amide.svg)
+
+*그림: amide C=O(빨강)가 $CH_2$(초록)로 환원된다.*
+
+![lactam C=O → CH2, ester 유지](../../figures/L05/bh3_lactam.svg)
+
+*그림: BH3는 lactam C=O(빨강)를 $CH_2$(초록)로 환원하고 ester는 남긴다.*
 
 같은 기질 MeO<sub>2</sub>C-CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>-CO<sub>2</sub>H에 LiBH<sub>4</sub>를 쓰면 ester가 환원되고(2-2), BH<sub>3</sub>를 쓰면 산이 환원된다. 즉 두 시약은 서로 거울처럼 상보적인 화학선택성을 가진다.
 
@@ -363,6 +451,10 @@ ester를 LiAlH<sub>4</sub>로 환원하면 중간에 aldehyde가 생기지만, a
 
 `4-(4-하이드록시페닐)뷰트-3-ene-2-one --[H2, Pd/C]--> 4-(4-하이드록시페닐)뷰탄-2-온`
 
+![4-(4-hydroxyphenyl)but-3-en-2-one → 4-(4-hydroxyphenyl)butan-2-one](../../figures/L05/enone_h2_pdc.svg)
+
+*그림: C=C(파랑)만 수소화되고 C=O는 남는다.*
+
 이 예에서 C=C만 환원되고 ketone은 남는다는 점을 보자.[17] 금속 수소화물과는 정반대의 선택성이다.
 
 자주 쓰는 촉매는 둘이다. 하나는 Pd/C(팔라듐-탄소, 보통 질량비 5% 또는 10%)로, 녹지 않으므로 여과로 회수해 재사용할 수 있다. 다른 하나는 PtO<sub>2</sub>(Adams catalyst)인데, 실제로 일하는 것은 산화백금이 아니라 수소화 중에 생기는 Pt 금속이다.
@@ -381,11 +473,23 @@ H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서
 
 `1,2-다이메틸사이클로헥센 --[H2, PtO2, AcOH]--> cis-1,2-다이메틸사이클로헥산 (82%) + trans (18%)`
 
+![1,2-dimethylcyclohexene → cis-1,2-dimethylcyclohexane](../../figures/L05/dimethylcyclohexene_h2.svg)
+
+*그림: syn 첨가라서 cis(82%)가 주생성물이다(trans 18%).*
+
 그런데 syn 첨가라면서 왜 trans가 18%나 나올까? 촉매 표면에서 이중결합이 자리를 옮기는(이성질화) 일이 일어나고, 옮겨진 alkene이 수소화되면 trans가 생길 수 있기 때문이라고 설명한다.[18]
 
 방향족 고리도 수소화될 수 있지만, 고리의 안정성 때문에 조건이 세다.
 - `에틸 벤조에이트 PhCO2Et --[H2, Ni, 50 °C, 100 atm]--> 에틸 사이클로헥산카복실레이트`
 - `페닐아세트산 PhCH2CO2H --[H2, PtO2, AcOH, 25 °C]--> 사이클로헥실아세트산`
+
+![ethyl benzoate → ethyl cyclohexanecarboxylate](../../figures/L05/ethyl_benzoate_h2.svg)
+
+*그림: benzene 고리 수소화에는 가혹한 조건이 필요하다.*
+
+![phenylacetic acid → cyclohexylacetic acid](../../figures/L05/phenylacetic_h2.svg)
+
+*그림: PtO2는 상온에서도 고리를 수소화한다.*
 
 (출처: L5 p.31)
 
@@ -396,6 +500,22 @@ H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서
 - `제라니알 (E) --[H2, CO, Rh(CO)2acac, (S,S)-Chiraphos]--> (+)-시트로넬랄`
 - `네랄 (Z) --[H2, CO, Rh(CO)2acac, (R,R)-Chiraphos]--> (+)-시트로넬랄`
 - `(+)-시트로넬랄 --[Al cat.]--> (-)-아이소풀레골 --[H2, Ni cat.]--> (-)-멘톨`
+
+![geranial (E) → (+)-citronellal](../../figures/L05/geranial_citronellal.svg)
+
+*그림: 비대칭 수소화. 공액 C=C(파랑)만 환원된다.*
+
+![neral (Z) → (+)-citronellal](../../figures/L05/neral_citronellal.svg)
+
+*그림: Z 이성질체는 반대 리간드로 같은 거울상 생성물을 준다.*
+
+![(+)-citronellal → (−)-isopulegol](../../figures/L05/citronellal_isopulegol.svg)
+
+*그림: Lewis acid 촉매 고리화(ene 반응). C=C(파랑)가 C=O(빨강)를 공격한다.*
+
+![(−)-isopulegol → (−)-menthol](../../figures/L05/isopulegol_menthol.svg)
+
+*그림: C=C(파랑)를 수소화하면 menthol이 된다.*
 
 첫 단계는 비대칭 asymmetric hydrogenation으로, 분자에 있는 세 곳(공액 C=C, 고립된 C=C, CHO) 중 aldehyde와 공액된 C=C만 환원하면서 새 입체중심을 한쪽 거울상으로 만든다. 여기서 재미있는 점은 E 이성질체(제라니알)와 Z 이성질체(네랄)가 같은 (+)-시트로넬랄을 주려면 서로 반대 거울상의 키랄 리간드를 써야 한다는 것이다. 이중결합의 기하가 뒤집혀 있으니 같은 생성물을 얻으려면 촉매의 손잡이도 뒤집어야 하는 셈이다. 마지막 단계는 isopropenyl group의 C=C를 수소화하는 평범한 수소화다.[19]
 
@@ -424,12 +544,20 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
 
 `2-나프토일 클로라이드 --[H2, Pd/BaSO4, quinoline]--> 2-나프트알데하이드 (74-81%)`
 
+![2-naphthoyl chloride → 2-naphthaldehyde](../../figures/L05/rosenmund_naphthoyl.svg)
+
+*그림: Rosenmund 환원. 독성화한 촉매라 aldehyde에서 멈춘다.*
+
 여기서는 C-Cl 결합만 환원되고, 생긴 aldehyde와 naphthalene 고리는 환원되지 않는다. BaSO<sub>4</sub>는 촉매 담체이고, 퀴놀린은 첨가제다.[20]
 
 #### nitro group과 imine
 
 - `ArNO2 --[H2, Pt 또는 Pd, EtOH (+HOAc)]--> ArNH2` (보통 ~100%)
 - imine의 수소화는 곧 환원성 아미노화다. `1-(4-메톡시페닐)프로판-2-one + 메틸 5-(2-아미노-1-하이드록시에틸)-2-하이드록시벤조에이트 --[H+ (이민 형성)]--> 이민 --[H2, Pd/C]--> 2차 아민`. 1-3에서 NaBH<sub>3</sub>CN이 하던 역할을 H<sub>2</sub>/Pd-C가 맡은 것이다.
+
+![ketone + 1° amine → imine → 2° amine (H2/Pd-C)](../../figures/L05/ra_h2_pdc.svg)
+
+*그림: imine을 거쳐 $H_2$/Pd-C로 환원한다. 새 C–N(초록).*
 
 (출처: L5 p.33)
 
@@ -494,6 +622,18 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
    **경로 C**: 2-phenylethylamine(p.7의 azide 경로)을 포밀화(예: HCOOEt)해 N-포밀 amide PhCH<sub>2</sub>CH<sub>2</sub>NHCHO로 만든 뒤 LiAlH<sub>4</sub>로 환원하면 NHCH<sub>3</sub>가 된다.
    함정: PhCH<sub>2</sub>CH<sub>2</sub>Br + CH<sub>3</sub>NH<sub>2</sub> 직접 alkylation은 overalkylation 위험(p.6)이 있고, Eschweiler–Clarke는 N,N-dimethyl까지 가므로 monomethyl 합성에 맞지 않는다(p.15).
 
+![PhCH2COOH → PhCH2CONHCH3](../../figures/L05/route_a_1.svg)
+
+*그림: 경로 A 1단계: amide 형성.*
+
+![PhCH2CONHCH3 → PhCH2CH2NHCH3](../../figures/L05/route_a_2.svg)
+
+*그림: 경로 A 2단계: amide C=O(빨강) → $CH_2$(초록).*
+
+![PhCH2CHO + CH3NH2 → PhCH2CH2NHCH3](../../figures/L05/route_b.svg)
+
+*그림: 경로 B: 환원성 아미노화. 새 C–N(초록)의 탄소는 aldehyde에서 온다.*
+
 2. 생성물의 2차 amine N 양쪽이 모두 CH<sub>2</sub>이므로, 어느 쪽 C-N 결합이든 환원성 아미노화로 만들 수 있다. 대안은 **fragment 1 쪽을 1차 amine**(원래 CHO 탄소가 CH<sub>2</sub>NH<sub>2</sub>가 된 ...CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)으로, **fragment 2 쪽을 aldehyde**(원래 H<sub>2</sub>N-CH<sub>2</sub>-가 OHC-로 바뀐 OHC-CH<sub>2</sub>CH<sub>2</sub>-N(Cbz)...)로 바꾸어 NaCNBH<sub>3</sub>로 연결하는 것이다. 전체 탄소 수는 그대로다.
    H<sub>2</sub>/Pd-C가 어려운 이유: 분자에 OBn(benzyl ether)과 Cbz(benzyloxycarbonyl)가 많아 수소화 조건에서 benzyl group이 떨어져 나갈 수 있다(p.33 "deprotection of benzyl group"). NaCNBH<sub>3</sub>는 이들을 건드리지 않는다.
 
@@ -510,6 +650,10 @@ acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid 
 
 7. **alcohol 경유(p.17 "via alcohol")**: `에스터 --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(퓨란-2-일)프로판-1-ol --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(퓨란-2-일)프로판알`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 산화 문서 참고).
    **acid chloride 경유(p.17, p.33)**: ester 가수분해 → carboxylic acid → SOCl<sub>2</sub> → acid chloride → H<sub>2</sub>, Pd/BaSO<sub>4</sub>, Rosenmund → aldehyde.
+
+![2-(furan-2-yl)propan-1-ol → 2-(furan-2-yl)propanal](../../figures/L05/furyl_oxidation.svg)
+
+*그림: 온화한 산화로 aldehyde에서 멈춘다.*
 
 8. (a) LiBH<sub>4</sub>: ester만 환원되어 **HOCH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CO<sub>2</sub>H** (5-hydroxy-3-methylpentanoic acid). LiBH<sub>4</sub>는 산 존재하에 ester를 선택 환원한다(p.22). 산은 deprotonate되어 반응성 최하위인 carboxylate(p.18)가 된다.
    (b) BH<sub>3</sub>: 산만 환원되어 **MeO<sub>2</sub>CCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>2</sub>OH** (methyl 5-hydroxy-3-methylpentanoate). BH<sub>3</sub>는 Lewis 산이라 전자가 풍부한 carboxylic acid/amide를 선택 환원하고, Lewis 염기성이 약한 ester는 느리다(p.27-28).
