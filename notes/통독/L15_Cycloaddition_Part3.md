@@ -208,6 +208,10 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 
 니트릴 oxide도 반응계 안에서 만든다.[7] acetaldehyde를 예로 들면 전체 반응은 MeCHO --[1. H2N-OH; 2. Cl2; 3. NEt3]--> Me-C≡N⁺-O⁻이며, 과정은 다음과 같다.
 
+![MeCHO → acetonitrile oxide](../../figures/L15/nitrile_oxide_from_acetaldehyde.svg)
+
+*그림: oxime → hydroximoyl chloride → 염기로 HCl 제거.*
+
 1. acetaldehyde와 hydroxylamine이 축합해 옥심 MeCH=N-OH가 된다.
 2. OH 산소의 비공유 전자쌍이 밀어주는 힘으로 C=N의 탄소가 Cl–Cl을 공격하고(Cl⁻ 이탈), Me-CH(Cl)-N=O⁺H가 된다.
 3. C–H 양성자가 빠지면서 C=N이 다시 생겨 hydroxy모일 chloride(hydroximoyl chloride) MeC(Cl)=N-OH가 된다.
