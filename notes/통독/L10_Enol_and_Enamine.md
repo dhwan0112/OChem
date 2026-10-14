@@ -13,7 +13,14 @@
 
 ## 개요
 
-carbonyl 화합물의 α-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 이 강의는 그 이야기의 "중성 버전"을 다룬다. 산 조건에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile이 된다. 그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 앞부분의 주제다. 뒷부분에서는 halogenation으로 enol의 반응성을 확인하고, enamine이 강염기 없이 aldehyde를 alkylate하는 방법과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol 반응까지 살펴본다.
+carbonyl 화합물의 $\alpha$-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 
+이 강의는 그 이야기의 "중성 버전"을 다룬다. 
+acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile이 된다. 
+
+그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 
+이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 앞부분의 주제다. 
+
+뒷부분에서는 halogenation으로 enol의 반응성을 확인하고, enamine이 강염기 없이 aldehyde를 alkylate하는 방법과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol 반응까지 살펴본다.
 
 ## 본문
 
