@@ -91,6 +91,18 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 - butadiene + acrolein --[150 °C, 0.5 h]--> cyclohex-3-ene-1-carbaldehyde
 - butadiene + CH2=C(COOMe)2 --[25 °C, 24 h]--> dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%)
 
+![butadiene + ethylene → cyclohexene](../../figures/L13/da_butadiene_ethylene.svg)
+
+*그림: diene(파랑)과 dienophile(빨강) 사이에 σ 결합 두 개(초록).*
+
+![butadiene + acrolein → cyclohex-3-ene-1-carbaldehyde](../../figures/L13/da_butadiene_acrolein.svg)
+
+*그림: EWG가 있는 dienophile은 훨씬 빠르다.*
+
+![butadiene + CH2=C(CO2Me)2 → dimethyl cyclohex-3-ene-1,1-dicarboxylate](../../figures/L13/da_butadiene_methylenemalonate.svg)
+
+*그림: EWG 두 개라 상온에서도 진행.*
+
 EWG 하나로 압력 조건이 사라지고, 두 개면 상온에서도 반응한다. 보충: 짝지음 기가 없는 단순 alkene이 얼마나 나쁜 dienophile인지는 cyclopentadiene에서 잘 드러난다. 반응성이 아주 큰 이 diene에 단순 alkene을 섞어 가열해도 alkene과는 거의 반응하지 않고, cyclopentadiene끼리 먼저 이량화해 버린다(5-4절). (보충 근거: Clayden p.880) 슬라이드 상자에는 이 밖에 1-chlorovinyl acetate(CH2=C(Cl)OAc), crotononitrile(CH3CH=CH-CN), 고리형 unsaturated sulfone(2-sulfolene), 1,2-dihydronaphthalene 같은 dienophile도 나온다. (출처: L13 p.14)
 
 ### 5-2. diene: 전자가 풍부하고, s-cis여야 한다
