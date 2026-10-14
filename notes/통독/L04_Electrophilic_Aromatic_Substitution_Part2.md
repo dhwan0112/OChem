@@ -57,6 +57,10 @@ aniline(phenylamine)은 phenol, phenyl ether, 심지어 phenoxide 이온보다�
 - aniline --[Br₂, HOAc]--> 2,4,6-tribromoaniline.
 - 메커니즘은 phenol과 같다. N의 비공유 전자쌍에서 출발한 화살표가 고리를 통과해 Br-Br을 공격한다. intermediate는 iminium(C=N⁺H₂) 구조이고, HBr이 빠지면 방향족성이 회복된다. NH₂는 **ortho, para 배향**이다.
 
+![aniline + Br2 → 2,4,6-tribromoaniline](../../figures/L04/aniline_tribromination.svg)
+
+*그림: $NH_2$(파랑)가 고리를 강하게 활성화해 두 ortho와 para 자리 모두에 Br(초록)이 붙는다.*
+
 (출처: L4 p.4)
 
 ![aniline의 para 위치가 Br-Br을 공격해 iminium형 cation이 되는 메커니즘](../../figures/L04/aniline_para_br.svg)
@@ -76,6 +80,18 @@ amide의 N은 일반 amine보다 염기성이 훨씬 약하다. N의 비공유 �
 1. aniline --[Ac₂O]--> acetanilide(PhNHCOCH₃)
 2. --[Br₂, HOAc, 실온]--> *p*-bromoacetanilide
 3. --[HCl, EtOH/H₂O, 가열 환류]--> *p*-bromoaniline
+
+![aniline + Ac2O → acetanilide](../../figures/L04/acetanilide_1.svg)
+
+*그림: 1단계: aniline의 N(파랑)을 acetyl화해 활성을 낮춘다(새 N–C(O) 결합, 초록).*
+
+![acetanilide → p-bromoacetanilide](../../figures/L04/acetanilide_2.svg)
+
+*그림: 2단계: 부피 큰 NHAc 때문에 para 자리(파랑)에 Br(초록) 하나만 붙는다.*
+
+![p-bromoacetanilide → p-bromoaniline](../../figures/L04/acetanilide_3.svg)
+
+*그림: 3단계: amide를 가수분해해 보호기(빨강 C=O 쪽)를 떼면 p-bromoaniline이 된다.*
 
 amide N의 비공유 전자쌍은 C=O와 공액되어 있으면서도, amine보다는 약하게 benzene 고리로도 비편재화된다. 그래서 반응은 여전히 **ortho, para 위치**에서 일어나지만(주로 para) **한 번만** 일어난다.
 
@@ -110,6 +126,10 @@ toluene --[Br₂, Lewis acid 촉매]--> ortho 약 60%, para 약 35%, 메타 약 
 - methyl은 고리의 **반응성을 높이고**(활성화)
 - **ortho, para 배향**이다.
 
+![toluene + Br2 → o-/p-bromotoluene](../../figures/L04/toluene_bromination.svg)
+
+*그림: methyl은 ortho/para 지향기다. 생성물은 ortho 약 60%, para 약 35%(초록 = 새로 붙은 Br).*
+
 methyl group은 OR기를 약하게 만든 버전처럼, 고리 π 계의 전자 밀도를 특히 ortho와 para 위치에서 높인다. 메커니즘은 **σ σ conjugation** 이다. methyl의 C-H σ 결합 하나가 고리의 π 계와 겹쳐 전자를 약하게 내준다. 그래서 alkyl group은 전자 주는 기처럼 행동한다. (출처: L4 p.7)
 
 ### 2.2 intermediate로 이유 보기
@@ -130,6 +150,10 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 - toluene --[진한 H₂SO₄]--> *o*-toluenesulfonic acid + *p*-toluenesulfonic acid 혼합물. 여기에 NaCl을 넣으면 para 생성물이 나트륨염으로 약 40% 분리된다. *p*-toluenesulfonic acid이 바로 유기합성에서 자주 쓰는 산인 **TsOH**다.
 - 메커니즘 그림에서는 SO₃가 electrophile로 공격하고, 생긴 sulfonate가 protonate되어 SO₂OH가 된다.
 
+![toluene + H2SO4 → o-/p-toluenesulfonic acid](../../figures/L04/toluene_sulfonation.svg)
+
+*그림: ortho와 para 이성질체 혼합물이 생긴다. para 쪽이 TsOH다(초록 = $SO_3H$).*
+
 (출처: L4 p.10)
 
 **사카린 합성**
@@ -138,6 +162,22 @@ toluene의 nitration 데이터도 같은 경향을 보인다. ortho 63%, 메타 
 2. *o*-toluenesulfonyl chloride --[(NH₄)₂CO₃]--> sulfonamide(89%)
 3. --[KMnO₄]--> methyl이 carboxylic acid으로 산화된다(분리하지 않음).
 4. --[HCl]--> 고리화해 **saccharin** 이 된다(58%).
+
+![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
+
+*그림: saccharin 합성 1단계: chlorosulfonation(초록 = $SO_2Cl$).*
+
+![o-toluenesulfonyl chloride → o-toluenesulfonamide](../../figures/L04/saccharin_2.svg)
+
+*그림: 2단계: S–Cl(빨강)이 $NH_2$(초록)로 치환된다.*
+
+![o-toluenesulfonamide → 2-sulfamoylbenzoic acid](../../figures/L04/saccharin_3.svg)
+
+*그림: 3단계: methyl(빨강)이 $CO_2H$(초록)로 산화된다.*
+
+![2-sulfamoylbenzoic acid → saccharin](../../figures/L04/saccharin_4.svg)
+
+*그림: 4단계: N(파랑)이 $CO_2H$와 고리를 닫아 saccharin(초록 C–N)이 된다.*
 
 (출처: L4 p.11)
 
@@ -174,12 +214,28 @@ CF₃ 치환 benzene을 공격하는 경우를 비교해 보자.
 - PhCF₃ --[진한 HNO₃, 진한 H₂SO₄]--> *m*-nitro-(trifluoromethyl)benzene 96%
 - para 공격의 intermediate에서는 양전하 하나가 CF₃가 붙은 탄소에 놓인다. 슬라이드는 이것을 "trifluoromethyl 치환기 때문에 불안정해진 cation"이라고 표시한다.
 
+![PhNMe3+ 나이트로화 → meta 90%](../../figures/L04/phnme3_nitration.svg)
+
+*그림: $NMe_3^+$는 강한 meta 지향기다(초록 = 새 $NO_2$, 주생성물만 그림).*
+
+![PhCF3 → m-nitro(trifluoromethyl)benzene](../../figures/L04/phcf3_nitration.svg)
+
+*그림: $CF_3$도 meta 지향기다(96%).*
+
 (출처: L4 p.13)
 
 ### 3.3 공액으로 전자를 끄는 기: NO₂
 
 - benzene --[HNO₃, H₂SO₄]--> nitrobenzene
 - benzene --[발연 HNO₃ / 진한 H₂SO₄, 100 °C에서 30분 가열 환류]--> ***m*-dinitrobenzene**(75%)
+
+![benzene → nitrobenzene](../../figures/L04/benzene_nitration.svg)
+
+*그림: nitration. 새 C–N 결합(초록).*
+
+![benzene → m-dinitrobenzene](../../figures/L04/benzene_dinitration.svg)
+
+*그림: 가혹한 조건에서는 두 번째 $NO_2$가 meta로 들어간다(75%).*
 
 두 번째 nitro group은 **첫 번째의 메타 위치**로 들어간다. 즉 nitro group은 비활성화, 메타 배향이다. (출처: L4 p.14)
 
@@ -234,6 +290,10 @@ halobenzene의 nitration(진한 HNO₃/H₂SO₄, 25 °C) 데이터는 다음과
 
 nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하는 치환기**를 붙인다. 그래서 조건이 가혹하지 않으면 한 번 치환된 뒤 깔끔하게 멈춘다. 반대로 가혹한 조건에서는 더 반응한다. 예를 들어 nitrobenzene --[Br₂, Fe 가루, 135–145 °C]--> *m*-bromonitrobenzene(74%)이다. (출처: L4 p.16)
 
+![nitrobenzene + Br2/Fe → m-bromonitrobenzene](../../figures/L04/nitrobenzene_bromination.svg)
+
+*그림: 비활성화된 고리라 가열이 필요하고, Br(초록)은 meta로 들어간다.*
+
 강의 마지막 장(p.24)의 도표는 치환기를 반응성 순서로 정리한다.
 - **강한 활성화**(o,p): -NH₂, -NHR, -NR₂, -OH, -OR
 - **중간 활성화**(o,p): -NHCOR, -NHCOPh, -OCOR, -OCOPh
@@ -254,6 +314,10 @@ nitration, sulfonation, Friedel–Crafts acylation은 **매우 비활성화하�
 
 - **4-hydroxybenzaldehyde + X₂**: aldehyde는 메타로, OH는 ortho로 안내한다. 둘이 **같은 위치**를 가리키므로 3,5-다이할로-4-hydroxybenzaldehyde가 생긴다.
 - ***p*-nitrotoluene --[HNO₃, H₂SO₄]-->** 2,4-dinitrotoluene. methyl은 자기 ortho(2번)로, nitro는 자기 메타(2번)로 안내한다. 결과가 **additive**.
+
+![p-nitrotoluene → 2,4-dinitrotoluene](../../figures/L04/p_nitrotoluene_nitration.svg)
+
+*그림: methyl의 ortho이자 nitro의 meta인 자리로 새 $NO_2$(초록)가 들어간다(효과가 더해짐).*
 
 (출처: L4 p.17-18)
 
