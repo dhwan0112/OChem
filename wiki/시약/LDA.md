@@ -58,6 +58,10 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 슬라이드는 2-methylpropanoic acid methyl과 cyclopentanecarbaldehyde의 LDA enolate를 직접 그려 보라고 한다(→ [L7 연습 문제](../../practice/L07_Exercises.md) 1). (출처: L7 p.7)
 
+![n-BuLi + diisopropylamine → LDA](../../figures/L07/lda_formation.svg)
+
+*그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다.*
+
 ## 흔한 오해
 
 - "강염기면 BuLi를 바로 써도 된다": BuLi는 친핵성이 강해 carbonyl에 첨가한다. 그래서 BuLi로 비친핵성인 LDA를 먼저 만든 뒤 쓴다. (출처: L7 p.6)

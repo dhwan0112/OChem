@@ -1,0 +1,177 @@
+[
+ {
+  "out": "figures/L07/lda_formation.json",
+  "title": "n-BuLi + diisopropylamine → LDA (notes/통독/L07 79행)",
+  "reactants": [
+   "CCC[CH2-:1].[Li+]",
+   "CC(C)[NH:2]C(C)C"
+  ],
+  "products": [
+   "CC(C)[N-:3]C(C)C.[Li+]",
+   "CCCC"
+  ],
+  "conditions": "THF",
+  "below": "",
+  "note": "L07",
+  "line": 79,
+  "wiki": "시약/LDA",
+  "alt": "n-BuLi + diisopropylamine → LDA",
+  "cap": "BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$)가 된다"
+ },
+ {
+  "out": "figures/L07/ester_alkylation.json",
+  "title": "methyl butanoate → methyl 2-ethylbutanoate (notes/통독/L07 143행)",
+  "reactants": [
+   "CCC[C:2](=O)OC"
+  ],
+  "products": [
+   "CC[CH:3]([CH2:3]C)C(=O)OC"
+  ],
+  "conditions": "1. LDA, THF",
+  "below": "2. EtI; 96%",
+  "note": "L07",
+  "line": 143,
+  "wiki": "반응/엔올레이트 알킬화",
+  "alt": "methyl butanoate → methyl 2-ethylbutanoate",
+  "cap": "LDA로 만든 enolate의 α-C가 EtI와 SN2로 새 C–C(초록)를 만든다(96%)"
+ },
+ {
+  "out": "figures/L07/nitrile_anion.json",
+  "title": "PhCH2CN → nitrile-stabilized carbanion (notes/통독/L07 218행)",
+  "reactants": [
+   "c1ccccc1[CH2:2]C#N"
+  ],
+  "products": [
+   "c1ccccc1[CH-:3]C#N"
+  ],
+  "conditions": "base",
+  "below": "",
+  "note": "L07",
+  "line": 218,
+  "wiki": "개념/α-수소의 산도",
+  "alt": "PhCH2CN → nitrile-stabilized carbanion",
+  "cap": "음전하(초록)는 C≡N의 N까지 비편재화된다"
+ },
+ {
+  "out": "figures/L07/ester_alkylation_target.json",
+  "title": "methyl 3-methylbutanoate → α-ethyl 생성물 (notes/통독/L07 355행)",
+  "reactants": [
+   "CC(C)C[C:2](=O)OC"
+  ],
+  "products": [
+   "CC(C)[CH:3]([CH2:3]C)C(=O)OC"
+  ],
+  "conditions": "1. LDA, THF, −78 °C",
+  "below": "2. EtI",
+  "note": "L07",
+  "line": 355,
+  "wiki": "반응/엔올레이트 알킬화",
+  "alt": "methyl 3-methylbutanoate → α-ethyl 생성물",
+  "cap": "enolate α-C와 ethyl 사이에 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L07/aae_1.json",
+  "title": "ethyl acetoacetate → ethyl 2-butylacetoacetate (notes/통독/L07 360행)",
+  "reactants": [
+   "CC(=O)[CH2:1]C(=O)OCC"
+  ],
+  "products": [
+   "CC(=O)[CH:3]([CH2:3]CCC)C(=O)OCC"
+  ],
+  "conditions": "NaOEt, EtOH",
+  "below": "n-BuBr",
+  "note": "L07",
+  "line": 360,
+  "wiki": "반응/아세토아세트산 에스터 합성",
+  "alt": "ethyl acetoacetate → ethyl 2-butylacetoacetate",
+  "cap": "1단계: 활성 α-C(파랑)를 butyl화(초록)"
+ },
+ {
+  "out": "figures/L07/aae_2.json",
+  "title": "→ ethyl 2,2-dibutylacetoacetate (notes/통독/L07 361행)",
+  "reactants": [
+   "CC(=O)[CH:1](CCCC)C(=O)OCC"
+  ],
+  "products": [
+   "CC(=O)[C:3]([CH2:3]CCC)(CCCC)C(=O)OCC"
+  ],
+  "conditions": "NaOEt",
+  "below": "n-BuBr",
+  "note": "L07",
+  "line": 361,
+  "wiki": "반응/아세토아세트산 에스터 합성",
+  "alt": "→ ethyl 2,2-dibutylacetoacetate",
+  "cap": "2단계: 남은 α-H를 떼고 한 번 더 butyl화"
+ },
+ {
+  "out": "figures/L07/aae_3.json",
+  "title": "ester 가수분해 → β-keto acid (notes/통독/L07 362행)",
+  "reactants": [
+   "CC(=O)C(CCCC)(CCCC)C(=O)O[CH2:2]C"
+  ],
+  "products": [
+   "CC(=O)C(CCCC)(CCCC)C(=O)[OH:3]"
+  ],
+  "conditions": "1. aq. NaOH, heat",
+  "below": "2. H3O+",
+  "note": "L07",
+  "line": 362,
+  "wiki": "반응/아세토아세트산 에스터 합성",
+  "alt": "ester 가수분해 → β-keto acid",
+  "cap": "3단계: ester(빨강)를 가수분해해 β-keto acid(초록)"
+ },
+ {
+  "out": "figures/L07/aae_4.json",
+  "title": "β-keto acid → 3-butylheptan-2-one (notes/통독/L07 363행)",
+  "reactants": [
+   "CC(=O)C(CCCC)(CCCC)[C:2](=O)O"
+  ],
+  "products": [
+   "CC(=O)[CH:3](CCCC)CCCC",
+   "O=C=O"
+  ],
+  "conditions": "heat",
+  "below": "−CO2",
+  "note": "L07",
+  "line": 363,
+  "wiki": "반응/아세토아세트산 에스터 합성",
+  "alt": "β-keto acid → 3-butylheptan-2-one",
+  "cap": "4단계: 탈카복실화로 $CO_2$가 빠진다"
+ },
+ {
+  "out": "figures/L07/malonic_1.json",
+  "title": "diethyl malonate → diethyl benzylmalonate (notes/통독/L07 368행)",
+  "reactants": [
+   "CCOC(=O)[CH2:1]C(=O)OCC",
+   "Br[CH2:2]c1ccccc1"
+  ],
+  "products": [
+   "CCOC(=O)[CH:3]([CH2:3]c1ccccc1)C(=O)OCC"
+  ],
+  "conditions": "1. NaOEt",
+  "below": "2. PhCH2Br",
+  "note": "L07",
+  "line": 368,
+  "wiki": "반응/말론산 에스터 합성",
+  "alt": "diethyl malonate → diethyl benzylmalonate",
+  "cap": "malonate anion(파랑)이 benzyl bromide(빨강)와 새 C–C(초록)"
+ },
+ {
+  "out": "figures/L07/malonic_2.json",
+  "title": "diethyl benzylmalonate → 3-phenylpropanoic acid (notes/통독/L07 368행)",
+  "reactants": [
+   "CCOC(=O)C(Cc1ccccc1)[C:2](=O)OCC"
+  ],
+  "products": [
+   "OC(=O)[CH2:3]Cc1ccccc1",
+   "O=C=O"
+  ],
+  "conditions": "1. KOH, reflux",
+  "below": "2. H3O+, reflux, −CO2",
+  "note": "L07",
+  "line": 368,
+  "wiki": "반응/말론산 에스터 합성",
+  "alt": "diethyl benzylmalonate → 3-phenylpropanoic acid",
+  "cap": "가수분해 뒤 탈카복실화"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "out": "figures/L06/ylide_ester_1.json",
+  "title": "BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시) (notes/통독/L06 376행)",
+  "reactants": [
+   "Br[CH2:2]C(=O)OCC",
+   "[P:1](c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+:3]([CH2:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9",
+   "[Br-]"
+  ],
+  "conditions": "",
+  "below": "SN2",
+  "note": "L07",
+  "line": 27,
+  "wiki": null,
+  "alt": "BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)",
+  "cap": "$PPh_3$(파랑)가 C–Br(빨강)을 SN2로 치환한다"
+ },
+ {
+  "out": "figures/L06/ylide_ester_2.json",
+  "title": "phosphonium salt → stabilized ylide (notes/통독/L06 376행)",
+  "reactants": [
+   "[P+]([CH2:2]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "products": [
+   "[P+]([CH-:3]C(=O)OCC)(c9ccccc9)(c9ccccc9)c9ccccc9"
+  ],
+  "conditions": "Na2CO3",
+  "below": "stabilized ylide",
+  "note": "L07",
+  "line": 27,
+  "wiki": null,
+  "alt": "phosphonium salt → stabilized ylide",
+  "cap": "C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다"
+ }
+]
