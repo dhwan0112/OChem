@@ -1,0 +1,44 @@
+{
+ "scheme": {
+  "reactions": [
+   {
+    "reactants": [
+     "CC(=O)CCCBr"
+    ],
+    "products": [
+     "CC1(CCCBr)OCCO1"
+    ],
+    "conditions": "(CH₂OH)₂, H⁺"
+   },
+   {
+    "reactants": [
+     "CC1(CCCBr)OCCO1"
+    ],
+    "products": [
+     "CC1(CCC[Mg]Br)OCCO1"
+    ],
+    "conditions": "Mg, Et₂O"
+   },
+   {
+    "reactants": [
+     "CC1(CCC[Mg]Br)OCCO1"
+    ],
+    "products": [
+     "OC(CCCC1(C)OCCO1)CCCC1(C)OCCO1"
+    ],
+    "conditions": "HCO₂Et; H₂O"
+   },
+   {
+    "reactants": [
+     "OC(CCCC1(C)OCCO1)CCCC1(C)OCCO1"
+    ],
+    "products": [
+     "CC(=O)CCCC(O)CCCC(C)=O"
+    ],
+    "conditions": "H⁺, H₂O"
+   }
+  ],
+  "columns": 1,
+  "width_pt": 540
+ }
+}
