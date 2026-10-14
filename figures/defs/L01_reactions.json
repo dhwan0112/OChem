@@ -1,0 +1,28 @@
+[
+ {
+  "out": "figures/L01/cyclohexene_mcpba.json",
+  "title": "cyclohexene + mCPBA → cyclohexene oxide 95% (L1 p.14)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1",
+   "O=C([O:2][O:2][H])c1cccc(Cl)c1"
+  ],
+  "products": [
+   "C1CC[CH:3]2[O:3][CH:3]2C1",
+   "O=C([OH])c1cccc(Cl)c1"
+  ],
+  "conditions": "CH2Cl2",
+  "below": "95%"
+ },
+ {
+  "out": "figures/L01/isobutene_bromohydrin.json",
+  "title": "2-methylpropene + Br2/H2O → bromohydrin, OH는 3차 탄소 (notes/통독/L01 244행)",
+  "reactants": [
+   "C[C:1](C)=[CH2:1]"
+  ],
+  "products": [
+   "C[C:3](C)([OH:3])[CH2:3][Br:3]"
+  ],
+  "conditions": "Br2, H2O",
+  "below": "Markovnikov"
+ }
+]

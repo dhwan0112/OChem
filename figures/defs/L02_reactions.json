@@ -1,0 +1,128 @@
+[
+ {
+  "out": "figures/L02/cyclopentene_oxide_me2nh.json",
+  "title": "cyclopentene oxide + Me2NH → trans-2-(dimethylamino)cyclopentanol (±) (notes/통독/L02 108행)",
+  "reactants": [
+   "C1C[C@H:2]2O[C@H]2C1",
+   "C[NH:1]C"
+  ],
+  "products": [
+   "C1C[C@@H:3]([N:3](C)C)[C@H]([OH])C1"
+  ],
+  "conditions": "",
+  "below": "anti opening, (±)"
+ },
+ {
+  "out": "figures/L02/cyclohexene_br2_trans.json",
+  "title": "cyclohexene + Br2 → trans-1,2-dibromocyclohexane (±) (notes/통독/L02 109행)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1"
+  ],
+  "products": [
+   "C1CC[C@@H]([Br:3])[C@H]([Br:3])C1"
+  ],
+  "conditions": "Br2",
+  "below": "anti, (±) only"
+ },
+ {
+  "out": "figures/L02/stilbene_nbs_bromohydrin.json",
+  "title": "trans-stilbene + NBS, H2O/DMSO → bromohydrin (±, anti) (notes/통독/L02 136행)",
+  "reactants": [
+   "c1ccccc1/[CH:1]=[CH:1]/c1ccccc1"
+  ],
+  "products": [
+   "c1ccccc1[C@@H]([Br:3])[C@H]([OH:3])c1ccccc1"
+  ],
+  "conditions": "NBS, H2O/DMSO",
+  "below": "cat. HBr; anti, (±)"
+ },
+ {
+  "out": "figures/L02/cyclohexene_nbs_propargyl.json",
+  "title": "cyclohexene + NBS, HBr; propargyl alcohol → trans-1-bromo-2-(propargyloxy)cyclohexane (±) (notes/통독/L02 142행)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1",
+   "C#CC[OH:1]"
+  ],
+  "products": [
+   "C1CC[C@@H]([Br:3])[C@H]([O:3]CC#C)C1"
+  ],
+  "conditions": "NBS, cat. HBr",
+  "below": "anti, (±)"
+ },
+ {
+  "out": "figures/L02/methylcyclohexene_nbs_meoh.json",
+  "title": "1-methylcyclohexene + NBS, HBr; ROH (예: MeOH) → Br은 2차, OR은 3차 탄소, anti (notes/통독/L02 143행)",
+  "reactants": [
+   "C[C:1]1=[CH:1]CCCC1"
+  ],
+  "products": [
+   "C[C@]1([O:3]C)CCCC[C@@H]1[Br:3]"
+  ],
+  "conditions": "NBS, cat. HBr",
+  "below": "ROH (e.g. MeOH)"
+ },
+ {
+  "out": "figures/L02/methylenecyclohexane_hydration.json",
+  "title": "methylenecyclohexane + H2O, H+ → 1-methylcyclohexanol (Markovnikov) (notes/통독/L02 238행)",
+  "reactants": [
+   "[CH2:1]=[C:1]1CCCCC1"
+  ],
+  "products": [
+   "C[C:3]1([OH:3])CCCCC1"
+  ],
+  "conditions": "H2O, H+",
+  "below": "Markovnikov"
+ },
+ {
+  "out": "figures/L02/tbuoh_e1.json",
+  "title": "t-BuOH + H2SO4 → isobutene (E1, 수화의 역반응) (notes/통독/L02 239행)",
+  "reactants": [
+   "CC(C)(C)[OH:2]"
+  ],
+  "products": [
+   "C[C:3](C)=[CH2:3]",
+   "[OH2]"
+  ],
+  "conditions": "H2SO4",
+  "arrow": "equilibrium",
+  "below": "E1 (reverse = hydration)"
+ },
+ {
+  "out": "figures/L02/alpha_methylstyrene_hydroboration.json",
+  "title": "Ph-C(CH3)=CH2 + BH3; H2O2, NaOH → Ph-CH(CH3)-CH2OH (anti-Markovnikov) (notes/통독/L02 293행)",
+  "reactants": [
+   "c1ccccc1C(C)=[CH2:1]"
+  ],
+  "products": [
+   "c1ccccc1C(C)[CH2:3][OH:3]"
+  ],
+  "conditions": "1. BH3, THF",
+  "below": "2. H2O2, NaOH"
+ },
+ {
+  "out": "figures/L02/cyclohexene_tfa_1.json",
+  "title": "cyclohexene + TFA → cyclohexyl trifluoroacetate (notes/통독/L02 246행)",
+  "reactants": [
+   "C1CC[CH:1]=[CH:1]C1",
+   "FC(F)(F)C(=O)[OH:2]"
+  ],
+  "products": [
+   "C1CC[CH:3]([O:3]C(=O)C(F)(F)F)CC1"
+  ],
+  "conditions": "",
+  "below": "TFA adds"
+ },
+ {
+  "out": "figures/L02/cyclohexene_tfa_2.json",
+  "title": "cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol (notes/통독/L02 247행)",
+  "reactants": [
+   "C1CCC([O:2]C(=O)C(F)(F)F)CC1"
+  ],
+  "products": [
+   "C1CCC([OH:3])CC1",
+   "FC(F)(F)C(=O)[O-]"
+  ],
+  "conditions": "base, H2O",
+  "below": ""
+ }
+]

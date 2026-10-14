@@ -111,6 +111,14 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
   - 2단계에서 Br⁻가 **반대쪽 면**에서 S<sub>N</sub>2로 공격한다(반전).
   - 처음 생기는 형태는 두 Br이 모두 **축 diaxial** 에 있는 의자 형태다. 이것이 빠르게 고리 ring inversion을 거쳐 **이중 적도 diequatorial** 형태로 바뀐다.
 
+![cyclopentene oxide + Me2NH → trans-2-(dimethylamino)cyclopentanol](../../figures/L02/cyclopentene_oxide_me2nh.svg)
+
+*그림: $Me_2NH$의 N(파랑)이 epoxide 탄소(빨강)를 뒤쪽에서 공격해 고리가 열린다. N과 OH가 trans(anti)가 되고 생성물은 라세미(±)다.*
+
+![cyclohexene + Br2 → trans-1,2-dibromocyclohexane](../../figures/L02/cyclohexene_br2_trans.svg)
+
+*그림: anti 첨가라서 trans-1,2-dibromocyclohexane(±)만 생긴다. 파랑 = 반응하는 $\pi$ 결합 또는 친핵체 쪽, 빨강 = 친전자체 쪽(끊어지는 결합, 떠나는 기), 초록 = 새로 생긴 결합과 들어온 기.*
+
 (출처: L2 p.10)
 
 보충: cyclohexene은 고리 안의 이중결합이 *Z*일 수밖에 없어서 "출발 alkene의 기하가 생성물을 결정한다"는 stereospecificity을 직접 보여 주지 못한다. 이것은 2-butene으로 확인한다. *Z*-2-butene에 Br₂를 첨가하면 (2*R*,3*R*)/(2*S*,3*S*)-2,3-dibromobutane **라세미체**만, *E*-2-butene에서는 **메소**-2,3-dibromobutane만 생긴다. 두 경우 모두 anti 첨가이며, 기하 이성질체마다 서로 다른 부분입체이성질체가 하나씩 나온다는 사실 자체가 bromonium 이온 intermediate의 증거다. OsO₄(syn 첨가)와 결과가 정반대라는 점(연습 문제 4번)과 비교해 두면 좋다. (보충 근거: Clayden p.439–440)
@@ -135,12 +143,24 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 - 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> bromohydrin(±, anti). 물이 bromonium 이온의 반대쪽에서 공격하므로 **stereoselective** 이다. (출처: L2 p.11)
 
+![trans-stilbene + NBS, H2O/DMSO → bromohydrin](../../figures/L02/stilbene_nbs_bromohydrin.svg)
+
+*그림: trans-stilbene의 bromohydrin 형성. 물이 bromonium 이온의 반대쪽에서 공격해 Br과 OH(초록)가 anti로 붙는다(±). 파랑 = 반응하는 C=C.*
+
 ### 3.2 NBS + alcohol: 위치·입체 선택성의 결합
 
 > 개념 문서: [halohydrin formation](../../wiki/반응/할로하이드린%20형성.md)
 
 - cyclohexene --[1. NBS, HBr; 2. propargyl alcohol(HC≡CCH₂OH)]--> *trans*-1-bromo-2-(propargyloxy)cyclohexane(±).
 - 1-methylcyclohexene --[1. NBS, HBr; 2. alcohol]--> Br은 2차 탄소(CH)에, OR은 **methyl이 붙은 3차 탄소**에 anti로 붙는다. **입체선택적이면서 위치선택적**이다.
+
+![cyclohexene + NBS, HBr; propargyl alcohol → trans-1-bromo-2-(propargyloxy)cyclohexane](../../figures/L02/cyclohexene_nbs_propargyl.svg)
+
+*그림: alcohol(파랑 O)이 bromonium 이온을 열어 Br과 OR(초록)이 trans로 붙는다(±).*
+
+![1-methylcyclohexene + NBS; ROH → anti, OR은 3차 탄소](../../figures/L02/methylcyclohexene_nbs_meoh.svg)
+
+*그림: 1-methylcyclohexene. Br은 2차 탄소(CH)에, OR은 methyl이 붙은 3차 탄소에 anti로 붙는다. 그림의 OR은 예시로 OMe를 그렸다.*
 
 여기서 alcohol이 **더 붐비는 쪽**을 공격하는 이유는 L1과 같다. 느슨한 S<sub>N</sub>2 transition state에서 그쪽이 부분 양전하를 가장 잘 안정화하기 때문이다. (출처: L2 p.12)
 
@@ -238,6 +258,14 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 - methylylenecyclohexane --[H₂O, H⁺]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. δ⁺인 H가 CH₂에, δ⁻인 OH가 3차 탄소에 붙는다.
 - 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 HSO₄⁻가 염기로 작용해 β-H를 떼어낸다.
 
+![methylenecyclohexane + H2O, H+ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
+
+*그림: Markovnikov 수화. H는 $CH_2$에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.*
+
+![t-BuOH + H2SO4 ⇌ isobutene + H2O](../../figures/L02/tbuoh_e1.svg)
+
+*그림: 같은 조건에서 일어나는 역반응(E1 탈수). 떠나는 OH(빨강, protonate된 뒤 물로 떠난다)와 새 C=C(초록).*
+
 (출처: L2 p.19)
 
 ### 6.2 TFA를 이용한 단계적 수화
@@ -245,6 +273,14 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 평형 문제를 피하는 방법으로 **trifluoroacetic acid(TFA, CF₃CO₂H)** 을 쓴다.
 1. cyclohexene + TFA → cyclohexyl trifluoroacetate. TFA는 강산이라 alkene을 protonate하고(δ⁺인 H), 그 짝염기가 cation을 붙잡는다(δ⁻인 O).
 2. ester --[염기, H₂O]--> cyclohexanol + trifluoroacetate anion.
+
+![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
+
+*그림: 1단계: TFA의 H(빨강 OH 쪽)가 C=C(파랑)를 protonate하고, 짝염기 $CF_3CO_2^-$의 O가 cation을 붙잡아 ester(초록)가 된다.*
+
+![cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol](../../figures/L02/cyclohexene_tfa_2.svg)
+
+*그림: 2단계: ester를 염기로 가수분해하면 cyclohexanol(초록 OH)과 trifluoroacetate anion이 생긴다.*
 
 (출처: L2 p.20)
 
@@ -291,6 +327,10 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 3. HO⁻가 B를 공격해 붕소 ester를 가수분해한다. 이어서 protonation이 일어나 alcohol이 된다.
 
 예: Ph-C(CH₃)=CH₂ --[1. HBR₂; 2. H₂O₂, NaOH]--> Ph-CH(CH₃)-CH₂OH. OH가 **덜 치환된 탄소**에 붙는다. (출처: L2 p.25)
+
+![Ph-C(CH3)=CH2 → Ph-CH(CH3)-CH2OH (hydroboration–oxidation)](../../figures/L02/alpha_methylstyrene_hydroboration.svg)
+
+*그림: hydroboration–oxidation. OH(초록)가 덜 치환된 탄소($CH_2$, 파랑)에 붙는다(anti-Markovnikov).*
 
 ![보론 ate 착물에서 alkyl group이 B에서 O로 이동하고 HO⁻가 떨어지는 메커니즘](../../figures/L02/borane_oxidation.svg)
 

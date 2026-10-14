@@ -37,6 +37,10 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 *그림: 보충: 2-bromobutane의 제거 반응($NaOEt$, $EtOH$). 염기 $EtO^-$(파랑)가 $\beta$-H(빨강)를 떼어 내고, 동시에 C–Br 결합(빨강)이 끊어지며 C=C(초록)가 생긴다. 왼쪽의 *E*-2-butene이 주생성물, 오른쪽의 *Z*-2-butene이 부생성물이다.*
 
+![alkyne의 Lindlar 환원: hex-3-yne → (Z)-hex-3-ene](../../figures/L01/lindlar_z_alkene.svg)
+
+*그림: alkyne에 $H_2$/Lindlar 촉매. 두 H(초록)가 같은 면에서 들어와(syn) Z-alkene만 생긴다. 구조는 예시(hex-3-yne)다. 파랑 = 반응하는 C≡C.*
+
 린들라 환원이 왜 *Z*만 주는가? 두 수소 원자가 금속 촉매 **표면의 같은 쪽**에서 alkyne에 동시에 올라타기 때문이다(syn 첨가). 같은 면에서 들어오니 두 H가 같은 쪽에 놓이고, 결과적으로 R¹과 R²도 같은 쪽에 남는 *Z*-alkene이 된다. (출처: L1 p.5)
 
 > 여담으로, 강의는 PVC(폴리염화비닐)를 예로 든다. PVC의 단량체인 vinyl chloride은 (a) acetyl렌에 HCl을 첨가하거나, (b) ethylene에 Cl₂를 첨가해 1,2-dichloroethane을 만든 뒤 HCl을 제거해서 얻는다. 첨가와 제거가 실제 산업에서 짝을 이뤄 쓰이는 사례다.[1] (출처: L1 p.6)
@@ -135,6 +139,10 @@ epoxide는 bromonium 이온의 Br⁺ 자리에 O가 들어간 3원 고리라고 
 *그림: 네 개의 화살표가 한 번에 움직인다. (1) $\pi$ 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.*
 
 가장 흔히 쓰는 과산은 **mCPBA(*meta*-chloroperoxybenzoic acid)** 다. 결정성 고체라서 비교적 안전하게 다룰 수 있다. 예를 들어 cyclohexene --[mCPBA]--> cyclohexene oxide의 수율은 95%이고, 부산물로 *m*-chlorobenzoic acid이 나온다. (출처: L1 p.14)
+
+![cyclohexene + mCPBA → cyclohexene oxide](../../figures/L01/cyclohexene_mcpba.svg)
+
+*그림: cyclohexene의 C=C(파랑)가 mCPBA의 O–O(빨강)에서 O를 받아 epoxide(초록)가 되고, m-chlorobenzoic acid가 남는다(95%).*
 
 메커니즘은 한 번에 일어나는 concerted 과정이다.
 1. alkene의 $\pi$ 전자가 과산의 말단(친전자성) 산소를 공격한다.
@@ -243,6 +251,10 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 - 2-methyl프로펜 --[Br₂, H₂O]--> bromohydrin. OH는 3차 탄소에, Br은 CH₂에 붙는다.
 - 이 bromohydrin을 염기(HO⁻)로 처리하면 alkoxide(O⁻)가 생긴다. 이 alkoxide가 분자 안에서 S<sub>N</sub>2로 옆 탄소의 Br을 밀어내면 **epoxide**가 된다. 즉 bromohydrin은 epoxide의 전구체다.
+
+![2-methylpropene + Br2/H2O → bromohydrin](../../figures/L01/isobutene_bromohydrin.svg)
+
+*그림: 2-methylpropene + $Br_2$, $H_2O$. OH(초록)는 3차 탄소에, Br(초록)은 $CH_2$에 붙는다. 파랑 = 반응하는 C=C.*
 
 (출처: L1 p.21)
 
