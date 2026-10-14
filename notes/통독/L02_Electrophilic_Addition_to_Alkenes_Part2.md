@@ -13,10 +13,11 @@
 
 ## 개요
 
-L1에서는 "alkene의 π 전자가 electrophile을 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
+L1에서는 "alkene의 $\pi$ 전자가 electrophile을 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. 
+L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
 
 L2는 다음 질문들에 답한다.
-- regioselectivity을 한 줄로 예측하는 요령이 있을까? (δ⁺/δ⁻ 규칙)
+- regioselectivity을 한 줄로 예측하는 요령이 있을까? ($\delta^+$/$\delta^-$ 규칙)
 - epoxide를 열 때 산성 조건과 염기성 조건에서 결과가 왜 정반대가 될까?
 - 1,2-diol을 *trans*로도, *cis*로도 만들 수 있을까?
 - 이중결합을 완전히 끊어 carbonyl 두 개로 쪼갤 수 있을까?
@@ -26,26 +27,26 @@ L2는 다음 질문들에 답한다.
 
 ---
 
-## 1. regioselectivity을 예측하는 한 줄 요령: δ⁺와 δ⁻
+## 1. regioselectivity을 예측하는 한 줄 요령: $\delta^+$와 $\delta^-$
 
 > 개념 문서: [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md)
 
 L1에서 본 반응들의 regioselectivity을 다시 보자.
-- HBr addition: H(δ⁺)는 덜 치환된 탄소로, Br(δ⁻)은 더 치환된 탄소로 간다. intermediate는 carbocation이다.
-- Br₂/MeOH: bromonium 이온의 Br(δ⁺)은 덜 치환된 탄소에 남고, MeOH(nucleophile, δ⁻)는 더 치환된 탄소로 간다.
+- HBr addition: H($\delta^+$)는 덜 치환된 탄소로, Br($\delta^-$)은 더 치환된 탄소로 간다. intermediate는 carbocation이다.
+- Br₂/MeOH: bromonium 이온의 Br($\delta^+$)은 덜 치환된 탄소에 남고, MeOH(nucleophile, $\delta^-$)는 더 치환된 탄소로 간다.
 
 두 반응은 메커니즘이 다르지만 결과는 같은 패턴을 따른다.
 
-> **시약에서 "δ⁻"로 표시되는 원자(친핵성 부분)는 더 치환된 탄소로, "δ⁺"로 표시되는 원자(친전자성 부분)는 덜 치환된 탄소로 간다.**
+> **시약에서 "$\delta^-$"로 표시되는 원자(친핵성 부분)는 더 치환된 탄소로, "$\delta^+$"로 표시되는 원자(친전자성 부분)는 덜 치환된 탄소로 간다.**
 
-이 요령이 통하는 이유는 두 경우 모두 반응 도중 **양전하가 더 치환된 탄소에 쌓이고**, nucleophile이 그 자리로 가기 때문이다. 이 규칙은 뒤에 나오는 수화, TFA addition, 수소붕소화에도 그대로 적용된다. 특히 수소붕소화에서는 B-H 결합의 극성이 뒤집혀 결과가 "반마르코프니코프"가 된다. (출처: L2 p.2-4, L3 p.4)
+이 요령이 통하는 이유는 두 경우 모두 반응 도중 **양전하가 더 치환된 탄소에 쌓이고**, nucleophile이 그 자리로 가기 때문이다. 이 규칙은 뒤에 나오는 수화, TFA addition, hydroboration에도 그대로 적용된다. 특히 수소붕소화에서는 B-H 결합의 극성이 뒤집혀 결과가 "반마르코프니코프"가 된다. (출처: L2 p.2-4, L3 p.4)
 
 ### 1.1 diene에서의 두 가지 regioselectivity
 
 > 개념 문서: [diene의 electrophilic addition](../../wiki/반응/다이엔의%20친전자성%20첨가.md), [allyl cation](../../wiki/개념/알릴%20양이온.md)
 
 isoprene + HBr 반응에서는 regioselectivity 문제가 **두 번** 나온다(L1 p.19 복습).
-1. H⁺가 어느 이중결합에 붙는가? methyl의 안정화를 받는 allyl cation을 만드는 쪽에 붙는다.
+1. $H^+$가 어느 이중결합에 붙는가? methyl의 안정화를 받는 allyl cation을 만드는 쪽에 붙는다.
 2. Br⁻가 allyl cation의 어느 끝을 공격하는가? 덜 붐비는 끝을 공격해 프레닐 bromide가 된다.
 
 두 번째 선택은 **allyl cation과 bromide 사이의 regioselectivity**이라고 따로 구분해 둔다. (출처: L2 p.5)
@@ -65,9 +66,15 @@ isoprene + HBr 반응에서는 regioselectivity 문제가 **두 번** 나온다(
 
 > 개념 문서: [epoxide ring opening](../../wiki/반응/에폭사이드%20고리%20열기.md), [loose SN2 transition state](../../wiki/개념/느슨한%20SN2%20전이%20상태.md)
 
-epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그런데 epoxide는 중성이라 그대로는 잘 열리지 않는다. 고리를 열려면 **산 촉매** 또는 **강한 nucleophile**이 필요하다. 어느 쪽을 쓰느냐에 따라 regioselectivity이 **정반대**가 된다. 이것이 L2에서 가장 중요한 비교 중 하나다. (출처: L2 p.8)
+comment: 기본적인 epoxide링 구조 그림 추가 바람. 
+epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 
+그런데 epoxide는 중성이라 그대로는 잘 열리지 않는다. 
+고리를 열려면 **산 촉매** 또는 **강한 nucleophile**이 필요하다. 
+어느 쪽을 쓰느냐에 따라 regioselectivity이 **정반대**가 된다. 
+이것이 L2에서 가장 중요한 비교 중 하나다. (출처: L2 p.8)
 
-### 2.1 산 촉매 조건 (MeOH, H⁺)
+### 2.1 산 촉매 조건 (MeOH, $H^+$)
+
 
 1. epoxide 산소가 protonate되어 양전하를 띤 intermediate가 된다.
 2. 이제 C-O 결합이 약해지고 늘어나면서 탄소에 부분 양전하가 생긴다. alkyl group 두 개가 붙은 **3차 탄소**가 이 양전하를 더 잘 견딘다.
@@ -78,7 +85,7 @@ epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다. 그�
 
 ![산 촉매 조건에서 protonate된 epoxide를 MeOH가 3차 탄소에서 여는 메커니즘](../../figures/L02/epoxide_acid.svg)
 
-그림: 왼쪽: epoxide 산소의 비공유 전자쌍이 H⁺(빨강)를 protonation. 가운데: protonate된 산소 쪽 C–O 결합(빨강)이 늘어나며 3차 탄소에 부분 양전하(δ+)가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 공격한다(위 화살표). 동시에 C–O 결합 전자는 산소로 돌아간다(아래 화살표). 오른쪽: H⁺를 잃으면 OMe가 3차 탄소에 붙은 생성물이 된다(초록은 새 C–O 결합).
+그림: 왼쪽: epoxide 산소의 비공유 전자쌍이 $H^+$(빨강)를 protonation. 가운데: protonate된 산소 쪽 C–O 결합(빨강)이 늘어나며 3차 탄소에 부분 양전하($\delta^+$)가 쌓이고, MeOH의 산소(파랑)가 그 3차 탄소를 공격한다(위 화살표). 동시에 C–O 결합 전자는 산소로 돌아간다(아래 화살표). 오른쪽: $H^+$를 잃으면 OMe가 3차 탄소에 붙은 생성물이 된다(초록은 새 C–O 결합).
 
 ### 2.2 염기성 조건 (MeO⁻)
 
@@ -138,7 +145,7 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 > 개념 문서: [NBS](../../wiki/시약/NBS.md), [halohydrin formation](../../wiki/반응/할로하이드린%20형성.md)
 
 Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 수 있다. NBS가 Br₂를 조금씩 내놓는 방식은 다음과 같다.
-1. H⁺가 NBS의 carbonyl 산소를 protonation한다.
+1. $H^+$가 NBS의 carbonyl 산소를 protonation한다.
 2. Br⁻가 N-Br의 Br을 공격해 Br₂와 succinimide가 생긴다.
 3. 생긴 Br₂가 alkene과 반응하면 HBr이 다시 만들어진다.
 4. 그 HBr이 또 NBS에서 Br₂를 풀어낸다.
@@ -168,7 +175,7 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 ![비대칭 bromonium 이온을 MeOH가 더 치환된 탄소에서 여는 메커니즘](../../figures/L01/bromonium_meoh.svg)
 
-그림: L1의 isobutene 예와 같은 메커니즘이다. C–Br 결합이 늘어나 3차 탄소에 부분 양전하(δ+)가 쌓이고, alcohol의 O(파랑)가 그 탄소를 Br⁺ 반대쪽에서 공격한 뒤 양성자를 잃는다(−H⁺).
+그림: L1의 isobutene 예와 같은 메커니즘이다. C–Br 결합이 늘어나 3차 탄소에 부분 양전하($\delta^+$)가 쌓이고, alcohol의 O(파랑)가 그 탄소를 Br⁺ 반대쪽에서 공격한 뒤 양성자를 잃는다(−$H^+$).
 
 여기서 alcohol이 **더 붐비는 쪽**을 공격하는 이유는 L1과 같다. 느슨한 S<sub>N</sub>2 transition state에서 그쪽이 부분 양전하를 가장 잘 안정화하기 때문이다. (출처: L2 p.12)
 
@@ -206,7 +213,7 @@ cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanedi
 
 ![OsO₄가 cyclohexene과 고리형으로 반응해 오스메이트 ester를 거쳐 syn diol이 되는 메커니즘](../../figures/L02/oso4_dihydroxylation.svg)
 
-그림: 화살표 셋이 한 번에 움직인다(슬라이드 p.14와 같은 배치). (1) 위쪽 Os=O의 π 전자가 위쪽 alkene 탄소와 새 C–O 결합을 만들고, (2) C=C π 전자(파랑)가 아래쪽 산소로 가서 두 번째 C–O 결합을 만들며, (3) 아래쪽 Os=O의 π 전자가 Os로 돌아간다. 그 결과 Os는 전자 두 개를 얻어 Os(VIII)에서 Os(VI)로 환원된다. 두 C–O 결합(초록 쐐기)이 같은 면에 생기므로, 가수분해(H₂O) 뒤에도 두 OH는 같은 쪽(syn)에 있다. 점선 쐐기의 H는 반대쪽 면을 향한다.
+그림: 화살표 셋이 한 번에 움직인다(슬라이드 p.14와 같은 배치). (1) 위쪽 Os=O의 $\pi$ 전자가 위쪽 alkene 탄소와 새 C–O 결합을 만들고, (2) C=C $\pi$ 전자(파랑)가 아래쪽 산소로 가서 두 번째 C–O 결합을 만들며, (3) 아래쪽 Os=O의 $\pi$ 전자가 Os로 돌아간다. 그 결과 Os는 전자 두 개를 얻어 Os(VIII)에서 Os(VI)로 환원된다. 두 C–O 결합(초록 쐐기)이 같은 면에 생기므로, 가수분해(H₂O) 뒤에도 두 OH는 같은 쪽(syn)에 있다. 점선 쐐기의 H는 반대쪽 면을 향한다.
 
 OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 **촉매량의 OsO₄**와 **NMO(N-methylmorpholine-N-oxide)** 를 함께 쓴다. NMO가 반응 후 생긴 Os(VI)를 다시 Os(VIII)로 산화해 촉매를 재생한다. 예: R-CH₂-CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R-CH₂-CH(OH)-C(OH)(CH₃)₂. (출처: L2 p.14)
 
@@ -222,11 +229,11 @@ OsO₄는 syn 첨가이므로 생성물의 입체화학은 출발 alkene의 기�
 
 > 개념 문서: [periodate cleavage](../../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../../wiki/시약/NaIO4.md)
 
-1. OsO₄로 1,2-diol을 만든다. 이 단계에서 π 결합이 산화된다.
+1. OsO₄로 1,2-diol을 만든다. 이 단계에서 $\pi$ 결합이 산화된다.
 2. periodic acid 나트륨(sodium periodate, NaIO₄)이 diol의 두 OH와 고리형 **periodic acid ester(periodate ester)** 를 만든다.
 3. 고리형 메커니즘으로 **C-C σ 결합이 끊어지며** carbonyl 화합물 두 개가 생긴다.
 
-결국 π 결합과 σ 결합을 차례로 산화하는 두 번의 산화다. (출처: L2 p.16)
+결국 $\pi$ 결합과 σ 결합을 차례로 산화하는 두 번의 산화다. (출처: L2 p.16)
 
 ### 5.2 ozone 분해 (ozonolysis)
 
@@ -241,7 +248,7 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 
 ![ozone이 2-butene에 고리형으로 첨가된 뒤 5원 고리가 무너져 aldehyde와 carbonyl oxide가 되는 메커니즘](../../figures/L02/ozonolysis.svg)
 
-그림: 슬라이드의 R을 CH₃로 둔 2-butene으로 그렸다. addition: ozone 끝 산소의 음전하 전자쌍(파랑)이 한쪽 탄소를, C=C π 전자(파랑)가 반대쪽 끝 산소(빨강)를 공격하고, O=O⁺의 π 전자는 가운데 산소로 돌아간다. collapse: 오른쪽 고리 산소의 비공유 전자쌍이 C=O를 만들고, C–C σ 결합(빨강) 전자가 왼쪽 C–O 쪽으로 가서 또 하나의 C=O를 만들며, 약한 O–O 결합 전자는 꼭대기 산소로 간다. 결과는 aldehyde와 carbonyl oxide다(초록은 새로 생긴 C–O/C=O 결합). 이후 Me₂S나 Ph₃P가 남는 산소를 떼어 간다.
+그림: 슬라이드의 R을 CH₃로 둔 2-butene으로 그렸다. addition: ozone 끝 산소의 음전하 전자쌍(파랑)이 한쪽 탄소를, C=C $\pi$ 전자(파랑)가 반대쪽 끝 산소(빨강)를 공격하고, O=O⁺의 $\pi$ 전자는 가운데 산소로 돌아간다. collapse: 오른쪽 고리 산소의 비공유 전자쌍이 C=O를 만들고, C–C σ 결합(빨강) 전자가 왼쪽 C–O 쪽으로 가서 또 하나의 C=O를 만들며, 약한 O–O 결합 전자는 꼭대기 산소로 간다. 결과는 aldehyde와 carbonyl oxide다(초록은 새로 생긴 C–O/C=O 결합). 이후 Me₂S나 Ph₃P가 남는 산소를 떼어 간다.
 
 두 번째 단계(후처리)에 무엇을 쓰느냐에 따라 생성물이 달라진다.
 
@@ -263,16 +270,16 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 
 alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이 hydration이다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
 
-- methylylenecyclohexane --[H₂O, H⁺]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. δ⁺인 H가 CH₂에, δ⁻인 OH가 3차 탄소에 붙는다.
+- methylylenecyclohexane --[H₂O, $H^+$]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. $\delta^+$인 H가 CH₂에, $\delta^-$인 OH가 3차 탄소에 붙는다.
 - 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 HSO₄⁻가 염기로 작용해 β-H를 떼어낸다.
 
-![methylenecyclohexane + H2O, H+ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
+![methylenecyclohexane + H2O, $H^+$ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
 
 그림: Markovnikov 수화. H는 $CH_2$ 에, OH(초록)는 3차 탄소에 붙는다. 파랑 = 반응하는 C=C.
 
 ![산 촉매 수화 전체 메커니즘: methylenecyclohexane + H3O+ → cation → oxonium ion → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration_mech.svg)
 
-그림: 산 촉매 수화의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 줄은 이것을 단계별로 풀어 쓴 것이다(대괄호는 중간체, ⇌는 평형). 1단계: 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 H3O+가 물(nucleophile, 파랑)이 되며, 3차 탄소에는 cation(electrophile, 빨강)이 생긴다(Markovnikov). 2단계: 물의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)을 만들고 oxonium ion(conjugate acid, 빨강)이 된다. 3단계: 다른 물(base, 파랑)이 oxonium ion의 H를 가져가고 O–H 결합 전자는 양전하 O로 가서 중성 alcohol(초록 OH)과 H3O+가 생긴다.
+그림: 산 촉매 수화의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 줄은 이것을 단계별로 풀어 쓴 것이다(대괄호는 중간체, ⇌는 평형). 1단계: 파랑 C=C $\pi$ 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $H_3O^+$ 가 물(nucleophile, 파랑)이 되며, 3차 탄소에는 cation(electrophile, 빨강)이 생긴다(Markovnikov). 2단계: 물의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)을 만들고 oxonium ion(conjugate acid, 빨강)이 된다. 3단계: 다른 물(base, 파랑)이 oxonium ion의 H를 가져가고 O–H 결합 전자는 양전하 O로 가서 중성 alcohol(초록 OH)과 $H_3O^+$ 가 생긴다.
 
 ![t-BuOH + H2SO4 ⇌ isobutene + H2O](../../figures/L02/tbuoh_e1.svg)
 
@@ -287,7 +294,7 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 ### 6.2 TFA를 이용한 단계적 수화
 
 평형 문제를 피하는 방법으로 **trifluoroacetic acid(TFA, CF₃CO₂H)** 을 쓴다.
-1. cyclohexene + TFA → cyclohexyl trifluoroacetate. TFA는 강산이라 alkene을 protonate하고(δ⁺인 H), 그 짝염기가 cation을 붙잡는다(δ⁻인 O).
+1. cyclohexene + TFA → cyclohexyl trifluoroacetate. TFA는 강산이라 alkene을 protonate하고($\delta^+$인 H), 그 짝염기가 cation을 붙잡는다($\delta^-$인 O).
 2. ester --[염기, H₂O]--> cyclohexanol + trifluoroacetate anion.
 
 ![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
@@ -296,7 +303,7 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![TFA 첨가 전체 메커니즘: cyclohexene + CF3CO2H → cyclohexyl cation, CF3CO2− → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_mech.svg)
 
-그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C π 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$ 가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$ (nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.
+그림: TFA 첨가의 전체 메커니즘. 위 줄이 전체 반응이고, 아래 대괄호는 중간체다. 1단계(protonation): 파랑 C=C $\pi$ 전자가 빨강 H를 공격하고(주황 화살표), O–H 결합 전자는 O로 가서 $CF_3CO_2^-$ 가 떠나며 cyclohexyl cation(electrophile, 빨강)과 새 C–H 결합(초록)이 생긴다. 2단계: 짝염기 $CF_3CO_2^-$ (nucleophile, 파랑)의 O 전자쌍이 cation 탄소를 공격해 새 C–O 결합(초록)이 생기고 ester가 된다. 중간체가 하나뿐이라 ⇌를 V자로 배치했다.
 
 ![cyclohexyl trifluoroacetate + 염기, H2O → cyclohexanol](../../figures/L02/cyclohexene_tfa_2.svg)
 
@@ -323,19 +330,19 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 > 개념 문서: [hydroboration-oxidation](../../wiki/반응/수소붕소화-산화.md), [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md)
 
 - 보레인은 alkene에 **새 C-H 결합과 새 C-B 결합을 동시에** 만든다. 이것이 **협동적 syn concerted syn addition** 다.
-- 출발점은 보론의 **빈 p 궤도함수**다. π 전자가 이 빈 궤도함수로 들어가면서 동시에 H가 탄소로 옮겨간다.
+- 출발점은 보론의 **빈 p 궤도함수**다. $\pi$ 전자가 이 빈 궤도함수로 들어가면서 동시에 H가 탄소로 옮겨간다.
 - 비대칭 alkene에서는 **보론이 덜 치환된 탄소**에 붙는다.
 - 반응은 여러 번 일어날 수 있다. BH₃ + 1-butene 3당량 → trialkylborane.
 
 (출처: L2 p.24)
 
-왜 보론이 덜 치환된 쪽으로 갈까? 전기음성도가 **H(2.2) > B(2.04)** 이므로 B-H 결합에서는 **H가 δ⁻, B가 δ⁺** 다. 1절의 요령을 그대로 적용하면 δ⁺인 B는 덜 치환된 탄소로, δ⁻인 H는 더 치환된 탄소로 간다. 결과는 겉보기에 "반마르코프니코프"지만 **원리는 똑같다**. 슬라이드도 이를 "seemingly anti-Markovnikov"라고 표현한다. (출처: L2 p.24)
+왜 보론이 덜 치환된 쪽으로 갈까? 전기음성도가 **H(2.2) > B(2.04)** 이므로 B-H 결합에서는 **H가 $\delta^-$, B가 $\delta^+$** 다. 1절의 요령을 그대로 적용하면 $\delta^+$인 B는 덜 치환된 탄소로, $\delta^-$인 H는 더 치환된 탄소로 간다. 결과는 겉보기에 "반마르코프니코프"지만 **원리는 똑같다**. 슬라이드도 이를 "seemingly anti-Markovnikov"라고 표현한다. (출처: L2 p.24)
 
-보충: 교과서는 같은 결과를 두 가지 요인으로 설명한다. 하나는 전자 효과로, π 전자가 보론의 빈 p 궤도함수로 흘러 들어가면서 양전하가 반대쪽, 즉 **더 치환된 탄소**에 쌓이고 그 자리로 H가 옮겨 간다(위의 δ⁺/δ⁻ 설명과 같은 내용). 다른 하나는 입체 효과로, BR₂ 쪽이 H보다 커서 덜 붐비는 탄소로 간다. BH₃만으로도 선택성이 94%이고 부피 큰 9-BBN에서 99.9%로 오르는 7.4절의 데이터가 두 요인이 함께 작용한다는 것을 보여 준다. (보충 근거: Clayden p.446)
+보충: 교과서는 같은 결과를 두 가지 요인으로 설명한다. 하나는 전자 효과로, $\pi$ 전자가 보론의 빈 p 궤도함수로 흘러 들어가면서 양전하가 반대쪽, 즉 **더 치환된 탄소**에 쌓이고 그 자리로 H가 옮겨 간다(위의 $\delta^+$/$\delta^-$ 설명과 같은 내용). 다른 하나는 입체 효과로, BR₂ 쪽이 H보다 커서 덜 붐비는 탄소로 간다. BH₃만으로도 선택성이 94%이고 부피 큰 9-BBN에서 99.9%로 오르는 7.4절의 데이터가 두 요인이 함께 작용한다는 것을 보여 준다. (보충 근거: Clayden p.446)
 
 ![BH₃가 프로펜에 협동적 syn 첨가해 B가 덜 치환된 탄소에 붙는 메커니즘](../../figures/L02/hydroboration.svg)
 
-그림: 슬라이드의 cyclopentene 대신 비대칭 alkene인 프로펜으로 그려 regioselectivity을 함께 보였다. 화살표 둘이 동시에 움직인다. (1) C=C π 전자(파랑)가 보론(빨강, δ+)의 빈 p 궤도함수로 들어가 C–B 결합을 만들고, (2) B–H 결합(빨강) 전자가 H(δ−)를 데리고 더 치환된 탄소로 옮겨 간다. 두 결합(초록)이 alkene의 같은 면에 생기므로 syn 첨가다.
+그림: 슬라이드의 cyclopentene 대신 비대칭 alkene인 프로펜으로 그려 regioselectivity을 함께 보였다. 화살표 둘이 동시에 움직인다. (1) C=C $\pi$ 전자(파랑)가 보론(빨강, $\delta^+$)의 빈 p 궤도함수로 들어가 C–B 결합을 만들고, (2) B–H 결합(빨강) 전자가 H($\delta^-$)를 데리고 더 치환된 탄소로 옮겨 간다. 두 결합(초록)이 alkene의 같은 면에 생기므로 syn 첨가다.
 
 ### 7.3 산화: C-B를 C-OH로
 
@@ -378,7 +385,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 ## 흔한 오해
 
 - **"epoxide는 언제나 덜 붐비는 쪽이 열린다"**: 염기성(강한 nucleophile) 조건에서만 그렇다. 산성 조건에서는 **더 치환된 쪽**이 열린다. 다만 반대로 "산성이면 무조건 더 치환된 쪽"도 아니다. 한쪽이 3차 탄소처럼 양전하를 잘 안정화할 때 그렇고, 한쪽 끝이 CH₂인 일치환 epoxide는 산성에서도 1차 탄소 공격이 우세할 수 있다. (보충 근거: Clayden p.438)
-- **"수소붕소화는 Markovnikov 규칙을 어기는 예외 반응이다"**: B-H에서 δ⁺는 B이고 δ⁻는 H다. "δ⁺는 덜 치환된 쪽으로"라는 원리는 그대로 지켜진다. 결과만 반대로 보일 뿐이다.
+- **"수소붕소화는 Markovnikov 규칙을 어기는 예외 반응이다"**: B-H에서 $\delta^+$는 B이고 $\delta^-$는 H다. "$\delta^+$는 덜 치환된 쪽으로"라는 원리는 그대로 지켜진다. 결과만 반대로 보일 뿐이다.
 - **"OsO₄는 *trans* diol을 준다"**: OsO₄는 **syn(*cis*)** diol을 준다. *trans*(anti) diol은 에폭시화 후 산성 가수분해로 만든다.
 - **"ozone 분해 생성물은 항상 aldehyde다"**: 후처리 시약에 따라 달라진다. Me₂S는 aldehyde, H₂O₂는 carboxylic acid, NaBH₄는 alcohol을 준다.
 - **"NBS는 bromine과 전혀 다른 메커니즘으로 반응한다"**: 이 강의에서 NBS는 **Br₂를 조금씩 공급하는 공급원**이다. 반응 자체는 bromonium 이온을 거친다.
@@ -389,7 +396,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| epoxide 열기 (산) | ROH, H⁺ | β-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
+| epoxide 열기 (산) | ROH, $H^+$ | β-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
 | epoxide 열기 (염기) | RO⁻ (강한 Nu) | β-알콕시 alcohol | Nu는 덜 치환된 C에 | 반전 (anti) | 순수 S<sub>N</sub>2, 입체 효과 |
 | epoxide + amine | R₂NH | β-아미노 alcohol | (대칭 기질) | 반전, *trans* | |
 | cyclohexene bromination | Br₂ | *trans*-1,2-dibromide | | anti; diaxial → diequatorial | 부분입체이성질체 하나만 |
@@ -399,7 +406,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 | syn diol | OsO₄ (또는 cat. OsO₄, NMO) | *cis*-1,2-diol | | syn, 입체특이적 | 오스메이트 ester |
 | diol 절단 | NaIO₄ | carbonyl 2개 | | | 고리형 periodic acid ester |
 | ozone 분해 | 1. O₃ 2. Me₂S / H₂O₂ / NaBH₄ | aldehyde / carboxylic acid / alcohol | | | 1,3-쌍극자 cycloaddition |
-| 산 촉매 수화 | H₂O, H⁺ | alcohol | Markovnikov | | 평형, 3차 cation 필요 |
+| 산 촉매 수화 | H₂O, $H^+$ | alcohol | Markovnikov | | 평형, 3차 cation 필요 |
 | TFA 경유 수화 | 1. TFA 2. 염기, H₂O | alcohol | Markovnikov | | ester 경유 |
 | 수소붕소화-산화 | 1. BH₃·THF (또는 9-BBN) 2. H₂O₂, NaOH | alcohol | "반마르코프니코프" (B는 덜 치환된 C에) | syn | 9-BBN이 더 선택적 |
 
@@ -407,14 +414,14 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ## 연습 문제
 
-1. 2,2-dimethyl옥시레인을 (a) MeOH/H⁺, (b) NaOMe/MeOH로 처리했을 때의 생성물을 각각 쓰고, regioselectivity을 결정하는 요인을 설명하시오.
+1. 2,2-dimethyl옥시레인을 (a) MeOH/$H^+$, (b) NaOMe/MeOH로 처리했을 때의 생성물을 각각 쓰고, regioselectivity을 결정하는 요인을 설명하시오.
 2. cyclohexene + Br₂의 생성물을 입체화학까지 포함해 쓰시오. 처음 생기는 의자 형태와 최종적으로 안정한 의자 형태도 설명하시오.
 3. 1-methylcyclohexene을 NBS(촉매량 HBr), H₂O로 처리한 생성물을 쓰시오. (regioselectivity과 입체화학 포함)
 4. (슬라이드 p.15 빈칸) *E*-RCH=CHR과 *Z*-RCH=CHR을 각각 OsO₄로 처리한 생성물의 상대 입체화학을 쓰시오. R이 같은 경우 각각 메소인지 라세미인지 밝히시오.
 5. cyclohexene에서 출발해 (a) *cis*-1,2-cyclohexanediol과 (b) *trans*-1,2-cyclohexanediol을 만드는 방법을 쓰시오.
 6. 1-methylcyclohexene을 1. O₃, 2. Me₂S로 처리한 생성물을 쓰시오. 2단계를 H₂O₂로 바꾸면 생성물이 어떻게 달라지는가?
 7. 2-methyl-1-butene에서 (a) 2-methyl-2-butanol과 (b) 2-methyl-1-butanol을 각각 선택적으로 만드는 방법을 쓰시오.
-8. 수소붕소화에서 보론이 덜 치환된 탄소에 붙는 이유를 전기음성도와 δ⁺/δ⁻ 규칙으로 설명하고, 9-BBN이 BH₃보다 선택성이 높은 이유를 쓰시오.
+8. 수소붕소화에서 보론이 덜 치환된 탄소에 붙는 이유를 전기음성도와 $\delta^+$/$\delta^-$ 규칙으로 설명하고, 9-BBN이 BH₃보다 선택성이 높은 이유를 쓰시오.
 
 ## 정답 및 해설
 
@@ -424,8 +431,8 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 4. syn 첨가이므로 *E*-alkene에서는 두 OH와 R이 지그재그 사슬에서 서로 반대쪽에 놓인 diol이 생긴다. 피셔 투영식으로는 *threo*형이며, R이 같으면 **라세미체**다. *Z*-alkene에서는 *erythro*형이 생기며, R이 같으면 **메소 화합물**이다. 예를 들어 *trans*-2-butene은 (2*R*,3*R*)/(2*S*,3*S*)-2,3-butanediol 라세미체를, *cis*-2-butene은 *meso*-2,3-butanediol을 준다. (원리: L2 p.14-15. 메소/라세미 판정은 표준 입체화학에 따른 보충 설명.) (보충 근거: Wade p.365)
 5. (a) OsO₄를 쓰거나(촉매량 OsO₄ + NMO도 가능) 물로 처리한다. syn 첨가가 일어난다. (b) mCPBA로 에폭시화한 뒤 H₂O/HClO₄로 처리한다. S<sub>N</sub>2 반전으로 anti 생성물이 된다. (L2 p.13-14)
 6. 6-oxoheptanal(OHC-(CH₂)₄-C(=O)CH₃, keto aldehyde)이 생긴다. 고리 alkene이 끊어지므로 사슬 하나의 양 끝에 carbonyl이 생긴다. 2단계를 H₂O₂로 바꾸면 aldehyde 쪽이 carboxylic acid으로 산화되어 6-oxoheptanoic acid이 된다. ketone은 그대로 남는다. ketone이 산화되지 않는다는 점은 표준 교재 내용에 따른 보충 설명이다. (보충 근거: Clayden p.443) (L2 p.17-18)
-7. (a) H₂O/H⁺로 산 촉매 수화하거나, TFA를 첨가한 뒤 가수분해한다. 3차 cation을 거치는 Markovnikov 수화다. (b) 1. BH₃·THF(또는 9-BBN), 2. H₂O₂/NaOH로 수소붕소화-산화를 한다. (L2 p.19-20, p.24-27)
-8. H(2.2)가 B(2.04)보다 전기음성도가 커서 B-H 결합에서 B가 δ⁺, H가 δ⁻다. δ⁺(친전자성) 원자는 덜 치환된 탄소로, δ⁻ 원자는 더 치환된 탄소로 간다는 규칙에 따라 B가 덜 치환된 탄소에 붙는다. 9-BBN은 부피가 커서, 이 전자 효과에 더해 덜 붐비는 탄소를 선호하는 입체 효과까지 작용한다(94% 대 99.9%). (L2 p.24, p.27)
+7. (a) H₂O/$H^+$로 산 촉매 수화하거나, TFA를 첨가한 뒤 가수분해한다. 3차 cation을 거치는 Markovnikov 수화다. (b) 1. BH₃·THF(또는 9-BBN), 2. H₂O₂/NaOH로 수소붕소화-산화를 한다. (L2 p.19-20, p.24-27)
+8. H(2.2)가 B(2.04)보다 전기음성도가 커서 B-H 결합에서 B가 $\delta^+$, H가 $\delta^-$다. $\delta^+$(친전자성) 원자는 덜 치환된 탄소로, $\delta^-$ 원자는 더 치환된 탄소로 간다는 규칙에 따라 B가 덜 치환된 탄소에 붙는다. 9-BBN은 부피가 커서, 이 전자 효과에 더해 덜 붐비는 탄소를 선호하는 입체 효과까지 작용한다(94% 대 99.9%). (L2 p.24, p.27)
 
 ---
 
