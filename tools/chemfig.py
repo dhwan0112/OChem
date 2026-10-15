@@ -112,6 +112,36 @@ class Mcp:
         self.p.wait(timeout=10)
 
 
+# ---------------- 표기 정리(기본 적용) ----------------
+
+_SUB = str.maketrans("0123456789", "₀₁₂₃₄₅₆₇₈₉")
+_NOT_FORMULA = {"SN1", "SN2", "SE2", "E1", "E2", "E1cB", "L1", "L2", "L3"}
+_FORMULA_TOKEN = re.compile(r"^[(\[]*(?:[A-Z][a-z]?|\(|\)|Et|Me|Ph|Bu|Pr|Ac|Ts|Ms)[A-Za-z0-9()\[\]⁺⁻+=]*$")
+
+
+def subscript_formulas(text):
+    """캡션·조건의 화학식 숫자를 아래첨자로: (COCl)2 → (COCl)₂, CH2Cl2 → CH₂Cl₂, Et3N → Et₃N.
+    SN2·E2 같은 반응 이름, 단계 번호(1. 2.), 페이지(p.7), 온도·당량 숫자는 건드리지 않는다."""
+    def tok(m):
+        t = m.group(0)
+        core = t.strip("()[],;:")
+        if core in _NOT_FORMULA or re.match(r"^L\d", core) or not _FORMULA_TOKEN.match(t) or not re.search(r"[A-Za-z)\]]\d", t):
+            return t
+        return re.sub(r"(?<=[A-Za-z)\]])(\d+)", lambda d: d.group(1).translate(_SUB), t)
+    return re.sub(r"[^\s,;/]+", tok, text)
+
+
+# ReShiki는 약어 라벨 안의 '-'를 음전하 윗첨자로 바꾼다(t-Bu → t⁻Bu). 접두 이성질체 기호는 윗첨자 글자로.
+_ISO_PREFIX = {"t-": "ᵗ", "i-": "ⁱ", "n-": "ⁿ", "s-": "ˢ", "tert-": "ᵗ", "sec-": "ˢ", "iso-": "ⁱ"}
+
+
+def fix_abbrev_label(label):
+    for k, v in _ISO_PREFIX.items():
+        if label.startswith(k):
+            return v + label[len(k):]
+    return label
+
+
 # ---------------- 스펙 -> ReShiki 제안(Proposal) ----------------
 
 def mol_entry(m):
@@ -126,7 +156,7 @@ def scheme_proposal(sc):
                 width_pt=sc.get("width_pt", 540), preserve_details=True)
     reactions = [dict(reactants=[mol_entry(m) for m in r["reactants"]],
                       products=[mol_entry(m) for m in r["products"]],
-                      conditions=r.get("conditions", ""), arrow=r.get("arrow", "forward"),
+                      conditions=subscript_formulas(r.get("conditions", "")), arrow=r.get("arrow", "forward"),
                       title=r.get("title", ""), role="main", direction=None)
                  for r in sc.get("reactions", [])]
     return dict(explanation="", replace_ids=[], composition=comp,
@@ -142,8 +172,8 @@ def sketch_proposal(spec):
                   display=b[3] if len(b) > 3 else "plain", ring_arc=False)
              for b in spec.get("bonds", [])]
     arrows = [dict(start=dict(x=a[0], y=a[1]), end=dict(x=a[2], y=a[3])) for a in spec.get("arrows", [])]
-    captions = [dict(text=c[0], position=dict(x=c[1], y=c[2]), color=None) for c in spec.get("captions", [])]
-    abbreviations = [dict(label=a[0], anchor=a[1], atoms=a[2]) for a in spec.get("abbrev", [])]
+    captions = [dict(text=subscript_formulas(c[0]), position=dict(x=c[1], y=c[2]), color=None) for c in spec.get("captions", [])]
+    abbreviations = [dict(label=fix_abbrev_label(a[0]), anchor=a[1], atoms=a[2]) for a in spec.get("abbrev", [])]
     sketch = dict(atoms=atoms, bonds=bonds, shapes=[], tilts=[], centroids=[], arrows=arrows,
                   captions=captions, abbreviations=abbreviations, ligands=[])
     comp = dict(arrangement="rows", columns=1, width_pt=540, preserve_details=True)
