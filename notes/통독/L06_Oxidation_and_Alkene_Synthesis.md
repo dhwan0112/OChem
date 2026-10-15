@@ -136,6 +136,10 @@ $$
 
 그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.
 
+![geraniol + DMP → geranial 종합 메커니즘](../../figures/L06/geraniol_dmp_mech.svg)
+
+그림: 위 줄은 전체 반응이고, 아래 줄은 아래 본문의 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 α-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
+
 aldehyde에서 정확히 멈추고 C=C의 E 기하도 그대로 유지된다. 그렇다면 왜 DMP를 많이 쓸까? 슬라이드는 세 가지 장점을 든다. 첫째, 초원자가 iodine(hypervalent iodine) 시약은 독성이 낮고 안전하며 다루기 쉽고 환경 부담이 적다. 둘째, 온도와 pH가 온화하다(실온 근처, 중성). 셋째, 복잡한 기질의 민감한 작용기를 잘 tolerance of sensitive functional groups.
 
 메커니즘은 1.2절의 뼈대를 그대로 따른다.
@@ -169,9 +173,17 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 그림: 1차 alcohol → aldehyde.
 
+![PhCH2OH → PhCHO Swern 종합 메커니즘](../../figures/L06/swern_benzyl_mech.svg)
+
+그림: 보충: 위 줄은 전체 반응(슬라이드의 조건)이고, 아래 줄은 활성종 $\mathrm{Me_2S^+Cl}$이 만들어진 뒤의 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계: alcohol의 O(파랑, nucleophile)가 S$^+$(빨강, electrophile)를 공격하고 Cl이 떠나 alkoxysulfonium 이온이 된다($\mathrm{Cl^-}$와 HCl은 그리지 않았고, HCl은 $\mathrm{Et_3N}$이 받는다). 2단계: $\mathrm{Et_3N}$(base)이 S–CH$_3$의 H(빨강)를 떼어 sulfur ylide(conjugate base)가 된다. 3단계: ylide의 $\mathrm{CH_2^-}$가 5원 고리 TS를 거쳐 카비놀 C–H의 H를 떼고, 그 C–H 결합 전자는 C=O π 결합(초록)이 되며 O–S 결합 전자는 S로 돌아가 $\mathrm{Me_2S}$가 떨어진다.
+
 ![cyclohexanol → cyclohexanone (Swern)](../../figures/L06/swern_cyclohexanol.svg)
 
 그림: 2차 alcohol → ketone.
+
+![cyclohexanol → cyclohexanone Swern 종합 메커니즘](../../figures/L06/swern_cyclohexanol_mech.svg)
+
+그림: 보충: 위의 PhCH$_2$OH 그림과 같은 메커니즘을 2차 alcohol에 적용한 것이다. 카비놀 탄소에 H가 하나 남아 있으므로(빨강) 마지막 단계에서 ketone이 된다. 색과 화살표의 의미는 위 그림과 같다.
 
 시약이 흔하고 DMP보다 훨씬 싸다. 그 대가로 부산물이 Me2S(악취), CO, CO2, HCl로 꽤 지저분하다. 산화수로 보면 DMSO의 S(IV)가 Me2S의 S(II)로 환원되고, 그만큼 alcohol이 산화되는 것이다. 슬라이드의 합성 예는 (+)-asteltoxin 합성 intermediate다. `(COCl)2 5 equiv, DMSO 6 equiv; 그 다음 Et3N 10 equiv, −78 °C` 조건에서 1차 CH2OH가 CHO로 바뀌고(95%), 같은 분자 안의 3차 OH는 그대로 남는다. 1.2절에서 본 대로 3차 alcohol에는 떼어 낼 α-H가 없기 때문이다.
 
@@ -182,19 +194,9 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 3. Et3N이 S-methyl의 H를 떼어 내 sulfonium 일리드를 만든다.
 4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 α-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
 
-![Swern oxidation 단계별 중간체 (1/4)](../../figures/L06/swern_steps_1.svg)
+![Swern oxidation 활성종 생성 (1단계)](../../figures/L06/swern_steps_1.svg)
 
-![Swern oxidation 단계별 중간체 (2/4)](../../figures/L06/swern_steps_2.svg)
-
-![Swern oxidation 단계별 중간체 (3/4)](../../figures/L06/swern_steps_3.svg)
-
-![Swern oxidation 단계별 중간체 (4/4)](../../figures/L06/swern_steps_4.svg)
-
-그림: 보충: DMSO와 $(COCl)_2$ 가 chlorosulfonium ion( $Me_2S^+Cl$ )을 만들고( $CO$, $CO_2$, $Cl^-$ 방출), alcohol이 S를 공격해 alkoxysulfonium ion이 된다. $Et_3N$ 이 methyl의 H를 떼어 sulfur ylide가 되고, ylide가 분자내에서 carbinol H를 떼며 ketone과 $Me_2S$ 로 쪼개진다.
-
-![Swern: sulfur ylide의 분자내 H 제거](../../figures/L06/swern_ylide_elim.svg)
-
-그림: 보충: 핵심 단계의 굽은 화살표. ylide의 $CH_2^-$ (파랑)가 carbinol C–H의 H(빨강)를 떼고, 그 C–H 전자쌍이 C=O π 결합이 되며, O–S 결합 전자는 S로 돌아가 $Me_2S$ 가 떨어진다. 5원 고리 TS를 거치는 분자내 제거라서 외부 염기는 ylide를 만드는 데만 쓰인다.
+그림: 보충: 1단계. DMSO와 $(COCl)_2$ 가 chlorosulfonium ion( $Me_2S^+Cl$ )을 만들고( $CO$, $CO_2$, $Cl^-$ 방출) 이것이 활성종이 된다. 이 단계는 구조만 그렸고 화살표는 없다. 2–4단계는 위 합성 예 바로 아래의 종합 메커니즘 그림(PhCH$_2$OH, cyclohexanol)에 합쳤다.
 
 
 −78 °C를 지켜야 하는 이유는 1단계의 활성종이 불안정하기 때문이다. HCl은 Et3N이 중화한다.
@@ -318,6 +320,10 @@ $$
 
 그림: OH(초록)는 더 치환된 탄소에, Cl은 덜 치환된 탄소에 붙는다.
 
+![2-methylbut-2-ene + HOCl → 3-chloro-2-methylbutan-2-ol 종합 메커니즘](../../figures/L06/hocl_addition_mech.svg)
+
+그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(단계는 평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): alkene의 π 결합(파랑, nucleophile)이 HOCl의 Cl(빨강, electrophile)을 공격하고 O–Cl 결합 전자가 O로 떠나 chloronium ion과 $\mathrm{HO^-}$가 생긴다. 2단계: $\mathrm{H_2O}$(nucleophile)가 양전하를 더 잘 안정화하는 3차 탄소를 공격해 고리가 열린다. 3단계: $\mathrm{HO^-}$(base)가 oxonium의 O–H를 떼어 chlorohydrin이 되고 $\mathrm{H_2O}$가 다시 나온다. 새로 생긴 C–O와 C–Cl 결합은 초록이다.
+
 슬라이드는 이 반응 옆에 "regio-selectivity"라고 적어 두었다. OH는 3차 탄소에, Cl은 2차 탄소에 붙는다. 이유는 HOCl에서 electrophile로 C=C에 먼저 붙는 쪽이 Cl이기 때문이다. Cl이 붙어 생긴 chloronium 이온은 양전하를 더 잘 안정화하는 3차 탄소 쪽이 물에 공격받는다(Markovnikov형).[7]
 
 (출처: L6c p.15)
@@ -415,6 +421,10 @@ $$
 ![2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene](../../figures/L06/e2_2_bromopentane.svg)
 
 그림: E2. 왼쪽부터 (E)-pent-2-ene 51%, (Z) 18%, pent-1-ene 31%.
+
+![2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene E2 종합 메커니즘](../../figures/L06/e2_2_bromopentane_mech.svg)
+
+그림: 위 줄은 슬라이드의 전체 반응이고, 아래 줄은 (E)-pent-2-ene을 주는 E2 메커니즘이다. E2는 중간체가 없는 한 단계 협동 반응이라 괄호와 ⇌ 없이 한 번에 그렸다. $\mathrm{EtO^-}$(base, 파랑)의 비공유 전자쌍이 β-H(빨강)를 떼고, C–H 결합 전자는 C=C π 결합(초록)이 되며, 동시에 C–Br 결합(빨강) 전자는 $\mathrm{Br^-}$로 떠난다. H와 Br이 anti-periplanar여야 한다. (Z)-alkene은 Et와 Me가 gauche인 형태에서, pent-1-ene은 CH$_3$의 H를 떼는 같은 메커니즘이다.
 
 E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene으로 가는 형태 (i)에서는 Et와 Me가 서로 떨어져 있지만, Z-alkene으로 가는 형태 (ii)에서는 둘이 gauche로 붙어 있어 입체 장애 때문에 불리하다. 그래서 E가 더 많이 생기지만 Z와 말단 alkene도 상당량 섞인다. 즉 E2는 "선호"는 있어도 "통제"는 못 한다. 그래서 이 강의는 두 가지 통제 수단을 소개한다. I. alkyne을 입체선택적으로 환원하는 방법, II. Wittig 반응이다. 고리 닫힘 복분해와 교차 복분해는 이후 강의에서 다룬다(→ olefin 복분해 문서 참고).[9]
 
@@ -520,6 +530,10 @@ $$
 
 그림: ylide 탄소(파랑)와 C=O 탄소(빨강)가 새 C=C(초록)가 된다.
 
+![cyclohexanone + Ph3P=CH2 → methylenecyclohexane Wittig 종합 메커니즘](../../figures/L06/wittig_cyclohexanone_mech.svg)
+
+그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): ylide의 음전하 탄소(파랑, nucleophile)의 비공유 전자쌍이 C=O 탄소(빨강, electrophile)를 공격하고, C=O π 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합해 4원 고리 oxaphosphetane이 생긴다. 2단계: C–P 결합 전자는 C–C 사이로 들어가 C=C π 결합(초록)이 되고, C–O 결합 전자는 O–P 사이로 들어가 $\mathrm{P{=}O}$가 되어 methylenecyclohexane과 $\mathrm{Ph_3P{=}O}$가 떨어진다.
+
 
 일리드는 미리 만들어서 넣어도 되고 반응계 in situ 만들어도 된다.[11]
 
@@ -555,6 +569,10 @@ $$
 
 그림: C=O가 음전하를 안정화하므로 약염기로도 ylide(초록)가 생긴다.
 
+![BrCH2CO2Et + PPh3 → stabilized ylide 종합 메커니즘](../../figures/L06/ylide_ester_mech.svg)
+
+그림: 위 두 그림(SN2와 탈양성자화)을 하나로 합친 종합 메커니즘이다. 위 줄은 전체 반응이고, 아래 줄은 단계별 과정이다(평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): $\mathrm{PPh_3}$의 P(파랑, nucleophile)가 C–Br의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고 $\mathrm{Br^-}$가 떠난다. 2단계: $\mathrm{CO_3^{2-}}$(base)가 P$^+$ 옆 C–H의 H(빨강, acid)를 떼고 C–H 결합 전자가 탄소의 비공유 전자쌍이 되어 ylide(conjugate base)와 $\mathrm{HCO_3^-}$(conjugate acid)가 된다. 음전하는 C=O 쪽으로 퍼질 수 있어(공명 ⟷) ylide가 안정화된다.
+
 비안정화 unstabilized ylide는 그런 치환기가 없다(R = alkyl). 음전하가 탄소에 그대로 몰려 있으므로 강염기가 필요하다.
 
 $$
@@ -568,6 +586,10 @@ $$
 ![phosphonium salt + BuLi → cyclopentylidene ylide](../../figures/L06/ylide_cyclopentyl_2.svg)
 
 그림: 불안정화 ylide라서 BuLi 같은 강염기가 필요하다.
+
+![cyclopentyl bromide + PPh3 → cyclopentylidene ylide 종합 메커니즘](../../figures/L06/ylide_cyclopentyl_mech.svg)
+
+그림: 위 두 그림을 하나로 합친 종합 메커니즘이다. 1단계(위 줄의 화살표): $\mathrm{PPh_3}$(파랑, nucleophile)가 C–Br의 탄소(빨강, electrophile)를 공격해 SN2로 phosphonium bromide가 된다. 2단계: BuLi(base)의 C–Li 결합 전자가 P$^+$ 옆 C–H의 H(빨강, acid)를 떼어 butane(conjugate acid)이 되고, C–H 결합 전자는 탄소의 비공유 전자쌍이 되어 ylide(conjugate base)가 된다. 이 ylide는 음전하가 탄소에 그대로 몰려 있다. PPh$_3$ + bromomethane의 SN2(위의 첫 그림)도 같은 메커니즘이다.
 
 슬라이드가 덧붙이듯 "ylid"와 "phosphorane"은 같은 화학종을 다르게 그린 것일 뿐이다. 이 구분이 중요한 이유는 다음 절에서 나온다. 두 일리드는 반대 기하의 alkene을 준다.
 
@@ -606,14 +628,6 @@ $$
 2. 그 결과 4원 고리 oxaphosphetane intermediate가 생긴다.
 3. oxaphosphetane이 제거 반응으로 분해되면서 C–P와 C–O 결합이 끊어지고, C=C와 P=O가 생긴다.
 
-![Wittig 1단계: 일리드 탄소가 benzaldehyde의 carbonyl 탄소를 공격하고 O가 P와 결합해 oxaphosphetane이 생긴다](../../figures/L06/wittig_step1.svg)
-
-그림: 1–2단계. 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합(빨강) 전자는 O로 가서 O가 P⁺와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 슬라이드처럼 일리드는 cyclopentylidene–$PPh_3$, carbonyl 화합물은 benzaldehyde다.
-
-![Wittig 2단계: oxaphosphetane이 분해되어 alkene과 Ph3P=O가 생긴다](../../figures/L06/wittig_step2.svg)
-
-그림: 3단계. C–P 결합(파랑) 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합(파랑) 전자는 O–P 사이로 들어가 P=O가 된다. 두 화살표가 4원 고리 안에서 함께 돌아가며, 생기는 강한 P=O 결합(초록)이 반응의 구동력이다. 생성물은 benzylidenecyclopentane(65%)과 $Ph_3P=O$ 다.
-
 $$
 \text{cyclopentylidene–}\mathrm{PPh_3} + \mathrm{PhCHO} \longrightarrow \text{benzylidenecyclopentane}\ (65\%) + \mathrm{Ph_3P{=}O}
 $$
@@ -621,6 +635,10 @@ $$
 ![cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane](../../figures/L06/wittig_benzylidene.svg)
 
 그림: 새 C=C(초록).
+
+![cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane Wittig 종합 메커니즘](../../figures/L06/wittig_benzylidene_mech.svg)
+
+그림: 위 단계 1–3을 하나로 합친 종합 메커니즘이다(기존 wittig_step1·step2 그림을 이 그림에 합쳤다). 위 줄은 전체 반응이고, 아래 줄은 단계별 과정이다(평형 화살표 ⇌로 연결). 1–2단계: 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 3단계: C–P 결합 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합 전자는 O–P 사이로 들어가 P=O가 된다. 생기는 강한 P=O 결합(초록)이 반응의 구동력이며, 생성물은 benzylidenecyclopentane(65%)과 $\mathrm{Ph_3P{=}O}$다.
 
 그렇다면 이 반응은 왜 이렇게 잘 진행될까? P=O 결합이 매우 강해서 이것이 생기는 것 자체가 반응을 앞으로 밀어 주는 구동력이 되기 때문이다.
 
@@ -662,6 +680,10 @@ $$
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
 
 그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.
+
+![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate HWE 종합 메커니즘](../../figures/L06/hwe_dimethylcyclopentanone_mech.svg)
+
+그림: 보충: 위 줄은 전체 반응이고, 아래 두 줄은 단계별 메커니즘이다(평형 화살표 ⇌로 연결, 단계 구성은 wiki의 HWE 문서가 인용한 L8 슬라이드의 메커니즘을 따랐다). 1단계: $\mathrm{NaH}$의 $\mathrm{H^-}$(base)가 P와 C=O 사이 CH$_2$의 H(빨강, acid)를 떼어 phosphonate carbanion과 $\mathrm{H_2}$가 된다. 2단계: carbanion(파랑, nucleophile)이 ketone의 C=O 탄소(빨강, electrophile)를 공격해 alkoxide가 된다. 3단계: alkoxide의 O$^-$가 P를 공격해 4원 고리 oxaphosphetane형 intermediate가 된다. 4단계: C–P와 C–O 결합이 끊어지며 C=C(초록)와 $(\mathrm{EtO})_2\mathrm{PO_2^-}$가 생긴다. 4단계의 화살표는 그림 맨 아래 줄 오른쪽 intermediate에 그렸고, 맨 위 줄의 생성물 옆 $\mathrm{Na^+}$는 반대 이온이다.
 
 그림에서 CO2Et는 gem-dimethyl 반대쪽으로 그려져 있다. 실험실에서 HWE를 좋아하는 이유 하나는 부산물인 diethyl phosphate 염이 물에 녹아, 분리가 까다로운 Ph3P=O보다 훨씬 쉽게 씻겨 나간다는 점이다. 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응이다(연습 문제 6).
 

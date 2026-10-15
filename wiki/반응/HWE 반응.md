@@ -49,6 +49,10 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 
 그림: phosphonate anion(파랑)이 C=O(빨강)와 새 C=C(초록)를 만든다.
 
+![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate HWE 종합 메커니즘](../../figures/L06/hwe_dimethylcyclopentanone_mech.svg)
+
+그림: 보충: 위 줄은 전체 반응이고, 아래 두 줄은 단계별 메커니즘이다(평형 화살표 ⇌로 연결, 단계 구성은 위 4단계 목록, 곧 L8 슬라이드의 메커니즘을 따랐다). 1단계: $\mathrm{NaH}$의 $\mathrm{H^-}$(base)가 P와 C=O 사이 CH$_2$의 H(빨강, acid)를 떼어 phosphonate carbanion과 $\mathrm{H_2}$가 된다. 2단계: carbanion(파랑, nucleophile)이 ketone의 C=O 탄소(빨강, electrophile)를 공격해 alkoxide가 된다. 3단계: alkoxide의 O$^-$가 P를 공격해 4원 고리 oxaphosphetane형 intermediate가 된다. 4단계: C–P와 C–O 결합이 끊어지며 C=C(초록)와 $(\mathrm{EtO})_2\mathrm{PO_2^-}$가 생긴다. 4단계의 화살표는 그림 맨 아래 줄 오른쪽 intermediate에 그렸고, 맨 위 줄의 생성물 옆 $\mathrm{Na^+}$는 반대 이온이다.
+
 ## 흔한 오해
 
 - **"HWE도 Wittig처럼 Ph₃P=O가 나온다"**: P에 phenyl이 아니라 ethoxy가 붙어 있어 수용성 phosphate 염이 나온다. (출처: L6c p.37)
