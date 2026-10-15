@@ -66,16 +66,10 @@ $$
 슬라이드가 든 nucleophile은 CN-, RNH2, RSH, R2CuLi, enolate 등이다.
 
 예시 두 개:
--
-  $$
-  \text{메시틸}\ \text{oxide}(\text{mesityl oxide},\ \mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3}) \xrightarrow[25\,{}^\circ\mathrm{C},\ 5\ \text{h},\ 94\%]{\mathrm{PhSH}} \text{4-methyl-4-(phenylthio)pentan-2-one},\ \mathrm{(CH_3)_2C(SPh){-}CH_2{-}CO{-}CH_3}
-  $$
+- $\text{메시틸}\ \text{oxide}(\text{mesityl oxide},\ \mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3}) \xrightarrow[25\thinspace{}^\circ\mathrm{C},\ 5\ \text{h},\ 94\unicode{x25}]{\mathrm{PhSH}} \text{4-methyl-4-(phenylthio)pentan-2-one},\ \mathrm{(CH_3)_2C(SPh){-}CH_2{-}CO{-}CH_3}$
 
   thiol의 황은 β-탄소에 붙는다.
--
-  $$
-  \text{칼콘}(\text{chalcone},\ \mathrm{Ph{-}CH{=}CH{-}CO{-}Ph}) \xrightarrow[\mathrm{EtOH},\ \mathrm{HOAc},\ 95\%]{\mathrm{CN^-}} \mathrm{Ph{-}CH(CN){-}CH_2{-}CO{-}Ph}
-  $$
+- $\text{칼콘}(\text{chalcone},\ \mathrm{Ph{-}CH{=}CH{-}CO{-}Ph}) \xrightarrow[\mathrm{EtOH},\ \mathrm{HOAc},\ 95\unicode{x25}]{\mathrm{CN^-}} \mathrm{Ph{-}CH(CN){-}CH_2{-}CO{-}Ph}$
 
   CN이 β-탄소(Ph가 붙은 탄소)에 붙는다.
 
@@ -179,23 +173,17 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 - **1,2**: $\text{아크릴로일 chloride}\ \mathrm{CH_2{=}CH{-}COCl} \xrightarrow{\mathrm{NH_3}} \text{acrylamide}\ \mathrm{CH_2{=}CH{-}CONH_2}$[^2]
 - **1,4**:
 
-  $$
-  \text{methyl acrylate}\ \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow{\mathrm{NH_3}} \mathrm{H_2N{-}CH_2CH_2{-}CO_2Me}
-  $$
+  $\text{methyl acrylate}\ \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow{\mathrm{NH_3}} \mathrm{H_2N{-}CH_2CH_2{-}CO_2Me}$
 
   (methyl 3-aminopropanoate)
 - **1,2**:
 
-  $$
-  \text{cinnamaldehyde}\ \mathrm{Ph{-}CH{=}CH{-}CHO} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaBH_4}} \mathrm{Ph{-}CH{=}CH{-}CH_2OH}
-  $$
+  $\text{cinnamaldehyde}\ \mathrm{Ph{-}CH{=}CH{-}CHO} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaBH_4}} \mathrm{Ph{-}CH{=}CH{-}CH_2OH}$
 
   (신나밀 alcohol, 97%). aldehyde라서 직접 환원된다.
 - **1,4 후 1,2**:
 
-  $$
-  \text{cyclopentenone} \xrightarrow[\mathrm{EtOH},\ 99\%]{\mathrm{NaBH_4}} \text{cyclopentanol}
-  $$
+  $\text{cyclopentenone} \xrightarrow[\mathrm{EtOH},\ 99\unicode{x25}]{\mathrm{NaBH_4}} \text{cyclopentanol}$
 
   먼저 수소화 이온이 1,4로 들어가 cyclopentanone이 되고, 그 ketone이 다시 1,2로 환원된다(→ [L5](L05_Reduction.md) 환원 문서 참고).
 
@@ -224,16 +212,10 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 ### 3.2 요인 2: nucleophile, Grignard vs 유기구리
 
 같은 2-cyclohexenone에 같은 methyl group을 넣어도 시약에 따라 결과가 갈린다.
--
-  $$
-  \text{2-cyclohexenone} \xrightarrow[95\%]{1.\ \mathrm{CH_3MgBr},\ \text{ether 또는}\ \mathrm{CH_3Li};\ 2.\ \mathrm{H_3O^+}} \text{1-methyl-2-cyclohexen-1-ol}
-  $$
+- $\text{2-cyclohexenone} \xrightarrow[95\unicode{x25}]{1.\ \mathrm{CH_3MgBr},\ \text{ether 또는}\ \mathrm{CH_3Li};\ 2.\ \mathrm{H_3O^+}} \text{1-methyl-2-cyclohexen-1-ol}$
 
   **1,2-첨가**
--
-  $$
-  \text{2-cyclohexenone} \xrightarrow[97\%]{1.\ \mathrm{Li(CH_3)_2Cu},\ \text{ether};\ 2.\ \mathrm{H_3O^+}} \text{3-methylcyclohexanone}
-  $$
+- $\text{2-cyclohexenone} \xrightarrow[97\unicode{x25}]{1.\ \mathrm{Li(CH_3)_2Cu},\ \text{ether};\ 2.\ \mathrm{H_3O^+}} \text{3-methylcyclohexanone}$
 
   **1,4-첨가**
 
@@ -267,16 +249,10 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 ### 3.3 요인 3: 반응 조건, kinetic vs thermodynamic 생성물
 
 methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도만 바꿔도 생성물이 달라진다.
--
-  $$
-  \mathrm{MVK} \xrightarrow[5\text{–}10\,{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \text{사이아노하이드린}\ \mathrm{(CH_2{=}CH{-}C(OH)(CN){-}CH_3)}
-  $$
+- $\mathrm{MVK} \xrightarrow[5\text{–}10\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \text{사이아노하이드린}\ \mathrm{(CH_2{=}CH{-}C(OH)(CN){-}CH_3)}$
 
   carbonyl에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
--
-  $$
-  \mathrm{MVK} \xrightarrow[80\,{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \mathrm{NC{-}CH_2CH_2{-}CO{-}CH_3}\ \text{(4-oxopentanenitrile)}
-  $$
+- $\mathrm{MVK} \xrightarrow[80\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \mathrm{NC{-}CH_2CH_2{-}CO{-}CH_3}\ \text{(4-oxopentanenitrile)}$
 
   **1,4 생성물**. 이것이 **thermodynamic 생성물(thermodynamic product, P2)**이다.
 
@@ -402,14 +378,8 @@ malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)
 그림: malonate anion(파랑) → β-탄소(빨강).
 
 **nitro알케인**: nitro group α-H는 산성이 커서 약한 염기로도 nitro네이트 anion이 생긴다.
--
-  $$
-  \mathrm{PhCH_2NO_2} + \text{2-cyclohexenone} \xrightarrow[0\text{–}25\,{}^\circ\mathrm{C},\ \text{neat},\ 92\%]{\mathrm{Al_2O_3}} \text{3-}(\mathrm{CH(Ph)NO_2})\text{cyclohexanone}
-  $$
--
-  $$
-  \mathrm{I{-}(CH_2)_4{-}CH{=}CH{-}CO_2Me} + \mathrm{CH_3NO_2} \xrightarrow[\mathrm{DMF},\ 20\,{}^\circ\mathrm{C}]{\mathrm{Cs_2CO_3}} \mathrm{[I{-}(CH_2)_4{-}CH(CH_2NO_2){-}CH_2CO_2Me]} \longrightarrow \text{methyl 2-(2-nitrocyclohexyl)acetate}\ (65\%)
-  $$
+- $\mathrm{PhCH_2NO_2} + \text{2-cyclohexenone} \xrightarrow[0\text{–}25\thinspace{}^\circ\mathrm{C},\ \text{neat},\ 92\unicode{x25}]{\mathrm{Al_2O_3}} \text{3-}(\mathrm{CH(Ph)NO_2})\text{cyclohexanone}$
+- $\mathrm{I{-}(CH_2)_4{-}CH{=}CH{-}CO_2Me} + \mathrm{CH_3NO_2} \xrightarrow[\mathrm{DMF},\ 20\thinspace{}^\circ\mathrm{C}]{\mathrm{Cs_2CO_3}} \mathrm{[I{-}(CH_2)_4{-}CH(CH_2NO_2){-}CH_2CO_2Me]} \longrightarrow \text{methyl 2-(2-nitrocyclohexyl)acetate}\ (65\unicode{x25})$
   1. nitro메테인의 anion이 enester의 β-탄소에 conjugate addition한다(분자 간).
   2. 생성물의 CH2NO2는 여전히 산성 α-H를 갖는다. 그래서 다시 deprotonate된 nitro네이트 탄소가 같은 분자의 C-I를 SN2로 공격해 고리를 닫는다(분자 내 alkylation).
   3. 결과는 NO2와 CH2CO2Me가 이웃한 탄소에 붙은 cyclohexane이다. conjugate addition과 alkylation이 연달아 일어난 셈이다.
@@ -457,14 +427,8 @@ $$
 ### 5.2 enamine의 conjugate addition
 
 enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addition에 믿고 쓸 수 있다. 반응 뒤 H2O로 iminium/enamine을 가수분해하면 ketone이 돌아온다.
--
-  $$
-  \text{피롤리딘}\ \text{엔아민}(\text{사이클로헥산온 유래}) + \mathrm{CH_2{=}C(SMe){-}CO_2Me} \xrightarrow[\mathrm{MeCN},\ 95\%]{\text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SMe){-}CO_2Me})\text{cyclohexanone}
-  $$
--
-  $$
-  \text{모폴린 엔아민} + \mathrm{CH_2{=}C(SO_2Ph){-}CO{-}CH_3} \xrightarrow[\mathrm{THF},\ 2\ \text{h},\ 0\text{–}20\,{}^\circ\mathrm{C},\ 75\%]{\mathrm{SiO_2},\ \text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SO_2Ph){-}CO{-}CH_3})\text{cyclohexanone}
-  $$
+- $\text{피롤리딘}\ \text{엔아민}(\text{사이클로헥산온 유래}) + \mathrm{CH_2{=}C(SMe){-}CO_2Me} \xrightarrow[\mathrm{MeCN},\ 95\unicode{x25}]{\text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SMe){-}CO_2Me})\text{cyclohexanone}$
+- $\text{모폴린 엔아민} + \mathrm{CH_2{=}C(SO_2Ph){-}CO{-}CH_3} \xrightarrow[\mathrm{THF},\ 2\ \text{h},\ 0\text{–}20\thinspace{}^\circ\mathrm{C},\ 75\unicode{x25}]{\mathrm{SiO_2},\ \text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SO_2Ph){-}CO{-}CH_3})\text{cyclohexanone}$
 
 ![pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%)](../../figures/L11/enamine_michael_sme.svg)
 
@@ -563,16 +527,10 @@ $$
 보충: 규칙 1의 크기를 숫자로 보면, 2-halonitrobenzene에서 F 화합물은 Cl·Br 화합물보다 약 10^2–10^3배 빠르고 I 화합물은 더 느리다. 규칙 3의 근거도 실험으로 확인된다. cyclohexadienyl anion(SNAr intermediate의 모형)의 13C NMR에서 공격 자리 기준 오쏘·파라 탄소는 benzene(약 130 ppm)보다 훨씬 고장(약 76–78 ppm)으로, 메타 탄소는 거의 그대로(약 132 ppm) 나타난다. 음전하가 사실상 오쏘·파라에만 놓인다는 뜻이다. 그래서 한 분자에 Cl이 둘 있어도 NO2의 오쏘에 있는 Cl만 치환되고 메타의 Cl은 남는다. 참고로 규칙 1의 F 효과는 공명이 아니라 **유발 효과**(C–F 결합의 분극)이고, NO2의 효과는 주로 **공명**이다. (보충 근거: Clayden p.517–518)
 
 예시는 다음과 같다.
--
-  $$
-  \text{2-fluoroacetophenone} + \mathrm{R_2NH} \xrightarrow{\text{addition},\ \text{elimination}} \text{2-}(\mathrm{NR_2})\text{acetophenone}
-  $$
+- $\text{2-fluoroacetophenone} + \mathrm{R_2NH} \xrightarrow{\text{addition},\ \text{elimination}} \text{2-}(\mathrm{NR_2})\text{acetophenone}$
 
   acetyl group의 오쏘 위치 F가 치환된다. 7.1절의 cyclohexene 예와 메커니즘이 같다. 음전하가 acetyl 산소로 가서 enolate가 된다.
--
-  $$
-  \text{4-chloronitrobenzene} + \mathrm{HO^-} \xrightarrow{\text{addition},\ \text{elimination}} \text{4-nitrophenol}
-  $$
+- $\text{4-chloronitrobenzene} + \mathrm{HO^-} \xrightarrow{\text{addition},\ \text{elimination}} \text{4-nitrophenol}$
 
   파라 위치의 Cl이 치환되고, 음전하는 NO2 산소까지 퍼진다.[^10]
 

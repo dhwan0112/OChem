@@ -27,23 +27,14 @@ tags: [분류/개념, 범위/Test1, 단원/알켄-첨가, 강의/L01, 강의/L02
 
 ## 예
 
--
-  $$
-  \text{2-methylpropene} \xrightarrow[\mathrm{MeOH}]{\mathrm{Br_2}} \mathrm{(CH_3)_2C(OMe)CH_2Br}
-  $$
+- $\text{2-methylpropene} \xrightarrow[\mathrm{MeOH}]{\mathrm{Br_2}} \mathrm{(CH_3)_2C(OMe)CH_2Br}$
 
   OMe가 3차 탄소에 붙는다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (L1, 출처: L1 p.22)
--
-  $$
-  \text{2-methylpropene} \xrightarrow{\mathrm{Br_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(OH)CH_2Br}
-  $$
+- $\text{2-methylpropene} \xrightarrow{\mathrm{Br_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(OH)CH_2Br}$
 
   (L1, 출처: L1 p.21)
 - $\text{1-methylcyclohexene} \xrightarrow{\mathrm{NBS},\ \mathrm{HBr};\ \mathrm{ROH}}$ OR은 3차 탄소에, Br은 2차 탄소에 anti. regioselective이면서 stereoselective다. (L2, 출처: L2 p.12)
--
-  $$
-  \text{2,2-dimethyloxirane} \xrightarrow[\mathrm{MeOH}]{\mathrm{H^+}} \mathrm{(CH_3)_2C(OMe)CH_2OH}
-  $$
+- $\text{2,2-dimethyloxirane} \xrightarrow[\mathrm{MeOH}]{\mathrm{H^+}} \mathrm{(CH_3)_2C(OMe)CH_2OH}$
 
   산성 [epoxide ring opening](../반응/에폭사이드%20고리%20열기.md). 위치를 정하는 것은 전자 효과이며 bromonium ion이 열리는 경우와 똑같다. (L2, 출처: L2 p.8)
 

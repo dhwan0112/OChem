@@ -52,22 +52,10 @@ $$
 
 슬라이드의 멘톨 합성 경로는 다음과 같다.
 
--
-  $$
-  \text{geraniol} \xrightarrow{?} \text{geranial}
-  $$
--
-  $$
-  \text{geranial} \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(S,S)-Chiraphos}} \text{(+)-citronellal}
-  $$
--
-  $$
-  \text{neral} \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(R,R)-Chiraphos}} \text{(+)-citronellal}
-  $$
--
-  $$
-  \text{(+)-citronellal} \xrightarrow{\mathrm{Al}\ \text{cat.}} \text{(−)-isopulegol} \xrightarrow{\mathrm{H_2},\ \mathrm{Ni}\ \text{cat.}} \text{(−)-menthol}
-  $$
+- $\text{geraniol} \xrightarrow{?} \text{geranial}$
+- $\text{geranial} \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(S,S)-Chiraphos}} \text{(+)-citronellal}$
+- $\text{neral} \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(R,R)-Chiraphos}} \text{(+)-citronellal}$
+- $\text{(+)-citronellal} \xrightarrow{\mathrm{Al}\ \text{cat.}} \text{(−)-isopulegol} \xrightarrow{\mathrm{H_2},\ \mathrm{Ni}\ \text{cat.}} \text{(−)-menthol}$
 
 ![geranial (E) → (+)-citronellal](../../figures/L05/geranial_citronellal.svg)
 
@@ -93,18 +81,9 @@ $$
 
 슬라이드의 표를 보면 1차 alcohol은 aldehyde를 거쳐 carboxylic acid이 되고, 2차 alcohol은 ketone이 되며, 3차 alcohol은 "No reaction"이다.
 
--
-  $$
-  \mathrm{RCH_2OH} \xrightarrow{\mathrm{O}} \mathrm{RCHO} \xrightarrow{\mathrm{O}} \mathrm{RCO_2H}
-  $$
--
-  $$
-  \mathrm{R_2CHOH} \xrightarrow{\mathrm{O}} \mathrm{R_2C{=}O}
-  $$
--
-  $$
-  \mathrm{R_3COH} \xrightarrow{\mathrm{O}} \text{반응 없음}
-  $$
+- $\mathrm{RCH_2OH} \xrightarrow{\mathrm{O}} \mathrm{RCHO} \xrightarrow{\mathrm{O}} \mathrm{RCO_2H}$
+- $\mathrm{R_2CHOH} \xrightarrow{\mathrm{O}} \mathrm{R_2C{=}O}$
+- $\mathrm{R_3COH} \xrightarrow{\mathrm{O}} \text{반응 없음}$
 
 차이가 생기는 이유는 녹색 박스의 일반 메커니즘에 있다.
 
@@ -156,16 +135,10 @@ aldehyde에서 정확히 멈추고 C=C의 E 기하도 그대로 유지된다. �
 
 DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻게 할까? 그래서 나온 것이 Swern 산화다. DMSO와 옥살릴 chloride (COCl)2를 DCM에서 −78 °C로 섞고, alcohol을 넣은 뒤 마지막에 NEt3를 넣으면서 온도를 −78 °C에서 rt까지 올린다.
 
--
-  $$
-  \mathrm{PhCH_2OH} \xrightarrow{(1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온};\ (2)\ \mathrm{Et_3N}} \mathrm{PhCHO}
-  $$
+- $\mathrm{PhCH_2OH} \xrightarrow{(1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온};\ (2)\ \mathrm{Et_3N}} \mathrm{PhCHO}$
 
   (1차 → aldehyde)
--
-  $$
-  \text{cyclohexanol} \xrightarrow{(1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온};\ (2)\ \mathrm{Et_3N}} \text{cyclohexanone}
-  $$
+- $\text{cyclohexanol} \xrightarrow{(1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온};\ (2)\ \mathrm{Et_3N}} \text{cyclohexanone}$
 
   (2차 → ketone)
 
@@ -217,10 +190,7 @@ $$
 
 MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산화하지는 못하고, allyl alcohol과 benzyl alcohol만 골라서 aldehyde나 ketone으로 바꾼다. 이 "편식"이 오히려 장점이 된다.
 
--
-  $$
-  \text{retinol}(\text{비타민}\ \mathrm{A},\ \text{폴리엔 알릴 1차 알코올}) \xrightarrow[>95\%]{\mathrm{MnO_2}} \text{retinal}
-  $$
+- $\text{retinol}(\text{비타민}\ \mathrm{A},\ \text{폴리엔 알릴 1차 알코올}) \xrightarrow[>95\unicode{x25}]{\mathrm{MnO_2}} \text{retinal}$
 - steroid형 diol: C=C 옆의 allyl 2차 OH만 산화되어 enone이 되고, allyl이 아닌 2차 OH는 그대로 남는다.
 
 ![retinol → retinal (MnO2)](../../figures/L06/retinol_mno2.svg)
@@ -497,16 +467,12 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 1. SN2: PPh3(nucleophile)가 1차 또는 2차 halide을 공격해 phosphonium염이 된다. 예:
 
-   $$
-   \mathrm{PPh_3} + \mathrm{CH_3Br} \xrightarrow{\mathrm{S_{\mathrm{N}}2}} \mathrm{Ph_3P^+CH_3\,Br^-}
-   $$
+   $\mathrm{PPh_3} + \mathrm{CH_3Br} \xrightarrow{\mathrm{S_{\mathrm{N}}2}} \mathrm{Ph_3P^+CH_3\thinspace Br^-}$
 
    (methyltriphenylphosphonium bromide)
 2. deprotonation: P+ 옆의 C–H는 P+ 때문에 산성이 커져 있으므로 염기로 뗄 수 있다. 예:
 
-   $$
-   \mathrm{Ph_3P^+CH_3\,Br^-} \xrightarrow[\mathrm{THF}]{\mathrm{BuLi}} \mathrm{Ph_3P{=}CH_2}
-   $$
+   $\mathrm{Ph_3P^+CH_3\thinspace Br^-} \xrightarrow[\mathrm{THF}]{\mathrm{BuLi}} \mathrm{Ph_3P{=}CH_2}$
 
    (methylenetriphenylphosphorane)
 
@@ -600,22 +566,14 @@ $$
 슬라이드가 주는 일반 규칙은 두 줄이다.
 
 - 안정화 일리드 → E-선택적
-  -
-    $$
-    \mathrm{Ph_3P{=}CHCO_2Et} + \mathrm{OHC{-}CH{=}CH{-}}\text{(acetonide)} \longrightarrow \mathrm{EtO_2C{-}CH{=}CH{-}CH{=}CH{-}}\text{(acetonide)}\ (96\%,\ \text{모두}\ \mathrm{E})
-    $$
+  - $\mathrm{Ph_3P{=}CHCO_2Et} + \mathrm{OHC{-}CH{=}CH{-}}\text{(acetonide)} \longrightarrow \mathrm{EtO_2C{-}CH{=}CH{-}CH{=}CH{-}}\text{(acetonide)}\ (96\unicode{x25},\ \text{모두}\ \mathrm{E})$
   - 빈칸 예:
 
-    $$
-    [?] + \mathrm{OHC{-}}\text{(epoxide)}\mathrm{{-}THF}\ \text{유도체} \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots\ (\text{E-선택적})
-    $$
+    $[?] + \mathrm{OHC{-}}\text{(epoxide)}\mathrm{{-}THF}\ \text{유도체} \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots\ (\text{E-선택적})$
 
     (연습 문제 4)
 - 비안정화 일리드 → Z-선택적
-  -
-    $$
-    \mathrm{(CH_3)_2CH(CH_2)_4{-}CH{=}PPh_3}\ \text{계열 알킬 일리드} + \mathrm{\mathit{n}\text{-}C_{13}H_{27}CHO} \longrightarrow \text{Z-알켄}\ (91\%,\ \text{모두}\ \mathrm{Z})
-    $$
+  - $\mathrm{(CH_3)_2CH(CH_2)_4{-}CH{=}PPh_3}\ \text{계열 알킬 일리드} + \mathrm{\mathit{n}\text{-}C_{13}H_{27}CHO} \longrightarrow \text{Z-알켄}\ (91\unicode{x25},\ \text{모두}\ \mathrm{Z})$
   - dihydropyran CH2–일리드 + acetonide로 보호된 당 aldehyde → Z만 생긴다.
 
 (출처: L6c p.30–31)
@@ -748,9 +706,7 @@ $$
 3. (L6c p.25) H2/Lindlar 촉매로 12(HO–CH(Me)–CH=CH(Z)–CH=CH(E)–piperidine)를 100% 수율로 준 출발물 11의 구조를 제시하라.
 4. (L6c p.30) 빈칸:
 
-   $$
-   [?] + \mathrm{OHC{-}}\text{(epoxide)}\ldots \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots(\text{E-선택적})
-   $$
+   $[?] + \mathrm{OHC{-}}\text{(epoxide)}\ldots \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots(\text{E-선택적})$
 
    빈칸 시약은 무엇이며 왜 E가 생기는가?
 5. (L6c p.32) 다음 표적 분자를 Wittig 반응으로 만들 때 필요한 기질(carbonyl + 일리드)을 제안하라. (a) (CH3)2C=CH–CH2CH3 (2-methylpent-2-ene) (b) 3-methylenecyclohexene

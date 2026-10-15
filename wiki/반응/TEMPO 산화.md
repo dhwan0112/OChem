@@ -57,16 +57,10 @@ $$
 
 ## 예
 
--
-  $$
-  \text{1-heptanol} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\,{}^\circ\mathrm{C}]{\mathrm{TEMPO},\ \mathrm{NaOCl},\ \mathrm{KBr},\ \mathrm{NaHCO_3}} \text{heptanal}
-  $$
+- $\text{1-heptanol} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\thinspace{}^\circ\mathrm{C}]{\mathrm{TEMPO},\ \mathrm{NaOCl},\ \mathrm{KBr},\ \mathrm{NaHCO_3}} \text{heptanal}$
 
   (L6)
--
-  $$
-  \text{cinnamyl alcohol}\ \mathrm{PhCH{=}CHCH_2OH} \xrightarrow{\text{같은 조건}} \text{cinnamaldehyde}\ \mathrm{PhCH{=}CHCHO}
-  $$
+- $\text{cinnamyl alcohol}\ \mathrm{PhCH{=}CHCH_2OH} \xrightarrow{\text{같은 조건}} \text{cinnamaldehyde}\ \mathrm{PhCH{=}CHCHO}$
 
   (C=C 유지) (L6)
 

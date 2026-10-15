@@ -377,9 +377,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 2. (p.13) 빈 칸을 채워라:
 
-   $$
-   \text{γ-뷰티로락톤} \xrightarrow{\mathrm{LDA}} \mathrm{[\,A\,]} \xrightarrow{\mathrm{MeI}} \mathrm{[\,B\,]}\ (88\%)
-   $$
+   $\text{γ-뷰티로락톤} \xrightarrow{\mathrm{LDA}} \mathrm{[\thinspace A\thinspace]} \xrightarrow{\mathrm{MeI}} \mathrm{[\thinspace B\thinspace]}\ (88\unicode{x25})$
 
 3. (p.14) CH3CH(CH3)CH(CH2CH3)CO2CH3 (2-ethyl-3-methylbutanoic acid methyl)를 enolate α-치환 반응으로 합성하라. 두 가지 가능한 끊기 중 어느 것이 더 좋은지 이유와 함께 답하라.
 
@@ -406,9 +404,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 3. 두 가지 끊기:
    - (i) α-C와 ethyl 사이:
 
-     $$
-     \text{3-methyl뷰탄산 메틸}\ \mathrm{(CH_3)_2CHCH_2CO_2CH_3} \xrightarrow{(1)\ \mathrm{LDA},\ \mathrm{THF},\ -78\,{}^\circ\mathrm{C};\ (2)\ \mathrm{CH_3CH_2I}\ (\text{또는}\ \mathrm{EtBr})} \text{목표물}
-     $$
+     $\text{3-methyl뷰탄산 메틸}\ \mathrm{(CH_3)_2CHCH_2CO_2CH_3} \xrightarrow{(1)\ \mathrm{LDA},\ \mathrm{THF},\ -78\thinspace{}^\circ\mathrm{C};\ (2)\ \mathrm{CH_3CH_2I}\ (\text{또는}\ \mathrm{EtBr})} \text{목표물}$
    - (ii) α-C와 isopropyl 사이: butanoic acid methyl + LDA, 그다음 2-iodopropane(2차 halide).
    - 정답은 (i). (ii)는 2차 halide라 SN2가 느리고 E2 제거와 경쟁하여 수율이 나쁨. 1차 halide(EtI)를 쓰는 (i)가 좋음(슬라이드의 butanoic acid methyl + EtI 96% 예와 같은 유형). (출처: L7 p.10, p.13, p.14)
 
@@ -421,26 +417,14 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 그림: 위 정답 (i)의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: LDA(파랑, base)가 ester의 α-H(빨강, acid)를 떼어 lithium enolate(conjugate base)와 diisopropylamine(conjugate acid)이 된다. 2단계: enolate의 α-C(파랑, nucleophile)가 1차 halide인 EtI의 탄소(빨강, electrophile)를 SN2로 공격해 새 C–C 결합(초록)을 만들고 $\mathrm{I}^-$ 가 떠난다. 2.3의 methyl butanoate 그림과 같은 단계이고 ester 쪽 치환기(isopropyl)만 다르다. 보충: 곡선 화살표는 표준 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.10, p.13, p.14)
 
 4. 순서:
-   1.
-      $$
-      \text{아세토아세트산 에틸} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaOEt},\ \mathrm{CH_3(CH_2)_3Br}} \text{2-뷰틸아세토아세트산 에틸}
-      $$
-   2.
-      $$
-      \xrightarrow{\mathrm{NaOEt};\ \mathrm{CH_3(CH_2)_3Br}} \text{2,2-다이뷰틸아세토아세트산 에틸}\ \mathrm{CH_3COC(Bu)_2CO_2Et}
-      $$
+   1. $\text{아세토아세트산 에틸} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaOEt},\ \mathrm{CH_3(CH_2)_3Br}} \text{2-뷰틸아세토아세트산 에틸}$
+   2. $\xrightarrow{\mathrm{NaOEt};\ \mathrm{CH_3(CH_2)_3Br}} \text{2,2-다이뷰틸아세토아세트산 에틸}\ \mathrm{CH_3COC(Bu)_2CO_2Et}$
 
       (monoalkyl 생성물에 남은 하나의 활성 α-H를 다시 제거 후 alkylation)
-   3.
-      $$
-      \xrightarrow{(1)\ \text{aq.}\ \mathrm{NaOH},\ \text{heat};\ (2)\ \mathrm{H_3O^+}} \mathrm{CH_3COC(Bu)_2CO_2H}
-      $$
+   3. $\xrightarrow{(1)\ \text{aq.}\ \mathrm{NaOH},\ \text{heat};\ (2)\ \mathrm{H_3O^+}} \mathrm{CH_3COC(Bu)_2CO_2H}$
 
       (β-keto acid)
-   4.
-      $$
-      \xrightarrow[\text{heat}]{\mathrm{{-}CO_2}} \mathrm{CH_3COCH(Bu)_2}\ =\ \text{3-뷰틸-2-헵타논}
-      $$
+   4. $\xrightarrow[\text{heat}]{\mathrm{{-}CO_2}} \mathrm{CH_3COCH(Bu)_2}\ =\ \text{3-뷰틸-2-헵타논}$
    - 해설: acetoacetic ester 합성은 R-X마다 활성 탄소에 R을 하나씩 붙이고, 마지막에 CO2Et가 H로 바뀜. 목표물의 C3에 Bu가 두 개(C4~C7 사슬도 butyl) 있으므로 이중 alkylation. 보충: 1-butyl bromide는 1차라 SN2에 적합. (보충 근거: Clayden p.587) (출처: L7 p.16, p.17, p.20)
 
 ![ethyl acetoacetate → ethyl 2-butylacetoacetate](../../figures/L07/aae_1.svg)
@@ -469,10 +453,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
-6.
-   $$
-   \mathrm{CH_2(CO_2Et)_2} \xrightarrow{(1)\ \mathrm{NaOEt};\ (2)\ \mathrm{PhCH_2Br}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2} \xrightarrow{(1)\ 50\%\ \mathrm{KOH}\ (\text{또는}\ \mathrm{NaOH}),\ \text{reflux};\ (2)\ \text{dil.}\ \mathrm{H_2SO_4}\ (\text{또는}\ \mathrm{H_3O^+}),\ \text{reflux},\ \mathrm{{-}CO_2}} \mathrm{PhCH_2CH_2COOH}
-   $$
+6. $\mathrm{CH_2(CO_2Et)_2} \xrightarrow{(1)\ \mathrm{NaOEt};\ (2)\ \mathrm{PhCH_2Br}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2} \xrightarrow{(1)\ 50\unicode{x25}\ \mathrm{KOH}\ (\text{또는}\ \mathrm{NaOH}),\ \text{reflux};\ (2)\ \text{dil.}\ \mathrm{H_2SO_4}\ (\text{또는}\ \mathrm{H_3O^+}),\ \text{reflux},\ \mathrm{{-}CO_2}} \mathrm{PhCH_2CH_2COOH}$
 
    해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
 

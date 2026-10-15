@@ -54,16 +54,10 @@ $$
 
 ## 예
 
--
-  $$
-  \text{methionine} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}
-  $$
+- $\text{methionine} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}$
 
   (L12) (출처: L12 p.10)
--
-  $$
-  \mathrm{Boc{-}Phe{-}Ala{-}OMe} \xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}
-  $$
+- $\mathrm{Boc{-}Phe{-}Ala{-}OMe} \xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$
 
   methyl ester와 amide는 TFA에 견딘다. (L12 Practice) (출처: L12 연습 풀이 p.3)
 

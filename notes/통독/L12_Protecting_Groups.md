@@ -386,26 +386,14 @@ $$
 
 **예제 2 (불가능한 Grignard reagent 만들기).** ketone이 있으면 Grignard 시약을 만들 수 없었다. 그렇다면 ketone을 가리면 된다.
 
-1.
-   $$
-   \mathrm{CH_3CO(CH_2)_3Br} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \text{촉매}} \text{아세탈-}\mathrm{(CH_2)_3Br}
-   $$
-2.
-   $$
-   \xrightarrow[\mathrm{Et_2O}]{\mathrm{Mg}} \text{아세탈-}\mathrm{(CH_2)_3MgBr}
-   $$
+1. $\mathrm{CH_3CO(CH_2)_3Br} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \text{촉매}} \text{아세탈-}\mathrm{(CH_2)_3Br}$
+2. $\xrightarrow[\mathrm{Et_2O}]{\mathrm{Mg}} \text{아세탈-}\mathrm{(CH_2)_3MgBr}$
 
    ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
-3.
-   $$
-   \xrightarrow{\mathrm{HCO_2Et}} (\text{아세탈-}\mathrm{(CH_2)_3})_2\mathrm{CHOH}
-   $$
+3. $\xrightarrow{\mathrm{HCO_2Et}} (\text{아세탈-}\mathrm{(CH_2)_3})_2\mathrm{CHOH}$
 
    ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
-4.
-   $$
-   \xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{(CH_3CO(CH_2)_3)_2CHOH}
-   $$
+4. $\xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{(CH_3CO(CH_2)_3)_2CHOH}$
 
    (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
 

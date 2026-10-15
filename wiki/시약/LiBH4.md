@@ -36,10 +36,7 @@ ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 �
 
 ## 예
 
--
-  $$
-  \mathrm{MeO_2C{-}CH_2CH(CH_3)CH_2{-}CO_2H} \xrightarrow[\mathrm{EtOH}]{\mathrm{LiBH_4}} \mathrm{HOCH_2CH_2CH(CH_3)CH_2{-}CO_2H}
-  $$
+- $\mathrm{MeO_2C{-}CH_2CH(CH_3)CH_2{-}CO_2H} \xrightarrow[\mathrm{EtOH}]{\mathrm{LiBH_4}} \mathrm{HOCH_2CH_2CH(CH_3)CH_2{-}CO_2H}$
 
   (ester만 환원) (L5) (출처: L5 p.22)
 - 3β-acetoxy steroid-20-온: NaBH₄는 ketone만 환원하고 acetate를 남기지만, LiBH₄는 ketone과 acetate를 모두 환원해 3β-OH가 드러난 diol을 준다([L5 연습 문제](../../practice/L05_Exercises.md) 5번). (L5) (출처: L5 p.25)
