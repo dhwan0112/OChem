@@ -42,7 +42,7 @@ amine의 화학을 한 줄로 요약하면 "N의 비공유 전자쌍"이다. 이
 가장 단순한 발상은 NH<sub>3</sub>를 nucleophile로 써서 alkyl halide을 S<sub>N</sub>2로 치환하는 것이다.
 
 $$
-\mathrm{NH_3}\ (\text{대과량}) + \mathrm{R{-}X} \longrightarrow \mathrm{[R{-}NH_3^+\,X^-]} \longrightarrow \mathrm{RNH_2} + \mathrm{NH_4^+\,X^-}
+\mathrm{NH_3}\ (\text{대과량}) + \mathrm{R{-}X} \longrightarrow \mathrm{[R{-}NH_3^+\thinspace X^-]} \longrightarrow \mathrm{RNH_2} + \mathrm{NH_4^+\thinspace X^-}
 $$
 
 메커니즘은 이렇다.
@@ -52,7 +52,7 @@ $$
 실제로 2-bromopropanoic acid 1 mol에 NH<sub>3</sub>를 무려 70 mol 넣으면 alanine(암모늄염 형태)을 65-70%로 얻을 수 있다.
 
 $$
-\mathrm{CH_3CH(Br)COOH}\ (1\ \text{mol}) \xrightarrow[65\text{–}70\%]{\mathrm{NH_3}\ (70\ \text{mol})} \mathrm{CH_3CH(NH_2)COO^-\,NH_4^+}\ (\text{알라닌})
+\mathrm{CH_3CH(Br)COOH}\ (1\ \text{mol}) \xrightarrow[65\text{–}70\unicode{x25}]{\mathrm{NH_3}\ (70\ \text{mol})} \mathrm{CH_3CH(NH_2)COO^-\thinspace NH_4^+}\ (\text{알라닌})
 $$
 
 ![2-bromopropanoic acid + NH3 → alanine](../../figures/L05/alanine_nh3.svg)
@@ -67,7 +67,7 @@ $$
 
 $$
 \begin{aligned}
-\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) &\longrightarrow \text{옥틸아민}\ (45\%) + \text{다이옥틸아민}\ (43\%) \\
+\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) &\longrightarrow \text{옥틸아민}\ (45\unicode{x25}) + \text{다이옥틸아민}\ (43\unicode{x25}) \\
 &\qquad + \text{트라이옥틸아민}\ (\text{미량}) + \text{테트라옥틸암모늄 브로마이드}\ (\text{미량})
 \end{aligned}
 $$
@@ -95,7 +95,7 @@ $$
 예:
 
 $$
-\text{1-브로모-2-페닐에테인}\ \mathrm{PhCH_2CH_2Br} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaN_3}} \text{2-페닐에틸 아자이드}\ \mathrm{PhCH_2CH_2N_3} \xrightarrow{1.\ \mathrm{LiAlH_4},\ \text{ether};\ 2.\ \mathrm{H_2O}} \text{2-페닐에틸아민}\ \mathrm{PhCH_2CH_2NH_2}\ (89\%)
+\text{1-브로모-2-페닐에테인}\ \mathrm{PhCH_2CH_2Br} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaN_3}} \text{2-페닐에틸 아자이드}\ \mathrm{PhCH_2CH_2N_3} \xrightarrow{1.\ \mathrm{LiAlH_4},\ \text{ether};\ 2.\ \mathrm{H_2O}} \text{2-페닐에틸아민}\ \mathrm{PhCH_2CH_2NH_2}\ (89\unicode{x25})
 $$
 
 ![PhCH2CH2Br + NaN3 → 2-phenylethyl azide](../../figures/L05/phenethyl_azide_1.svg)
@@ -515,7 +515,7 @@ N,N-dimethylpivalamide(79%)를 예로 단계를 따라가 보자.
 ester를 LiAlH<sub>4</sub>로 환원하면 중간에 aldehyde가 생기지만, aldehyde는 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. 그럼 aldehyde에서 멈추게 할 방법은 없을까? DIBAL-H(diisobutylaluminium hydride, i-Bu<sub>2</sub>AlH)가 답이다. DIBAL은 alane이며, Al-H-Al 다리 결합을 가진 bridged dimer로 존재한다.
 
 $$
-\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\,{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \mathrm{H_3O^+}} \mathrm{RCHO}\ (88\%,\ \mathrm{R}\ =\ \mathrm{\mathit{n}\text{-}C_{11}H_{23}})
+\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\thinspace{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \mathrm{H_3O^+}} \mathrm{RCHO}\ (88\unicode{x25},\ \mathrm{R}\ =\ \mathrm{\mathit{n}\text{-}C_{11}H_{23}})
 $$
 
 1. Lewis 산성 Al이 ester carbonyl O에 배위하고, Al-H의 수소화물이 carbonyl 탄소로 전달된다.
@@ -565,7 +565,7 @@ $$
 H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서 1,2-dimethylcyclohexene을 수소화하면 cis 생성물이 우세하다.
 
 $$
-\text{1,2-다이메틸사이클로헥센} \xrightarrow[\mathrm{AcOH}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{cis-1,2-다이메틸사이클로헥산}\ (82\%) + \text{trans}\ (18\%)
+\text{1,2-다이메틸사이클로헥센} \xrightarrow[\mathrm{AcOH}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{cis-1,2-다이메틸사이클로헥산}\ (82\unicode{x25}) + \text{trans}\ (18\unicode{x25})
 $$
 
 ![1,2-dimethylcyclohexene → cis-1,2-dimethylcyclohexane](../../figures/L05/dimethylcyclohexene_h2.svg)
@@ -638,7 +638,7 @@ $$
 acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid chloride → aldehyde라는 경로가 생긴다.
 
 $$
-\text{2-나프토일 클로라이드} \xrightarrow[74\text{–}81\%]{\mathrm{H_2},\ \mathrm{Pd/BaSO_4},\ \text{quinoline}} \text{2-나프트알데하이드}
+\text{2-나프토일 클로라이드} \xrightarrow[74\text{–}81\unicode{x25}]{\mathrm{H_2},\ \mathrm{Pd/BaSO_4},\ \text{quinoline}} \text{2-나프트알데하이드}
 $$
 
 ![2-naphthoyl chloride → 2-naphthaldehyde](../../figures/L05/rosenmund_naphthoyl.svg)

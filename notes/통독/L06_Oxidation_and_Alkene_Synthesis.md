@@ -26,7 +26,7 @@
 ester를 LiAlH4로 환원하면 alcohol까지 가 버린다. 그렇다면 aldehyde만 얻고 싶을 때는 어떻게 할까? 답은 DIBAL-H(diisobutylaluminium hydride, i-Bu2AlH)를 저온에서 쓰는 것이다. DIBAL은 alane이고, 용액에서는 Al–H–Al 다리 결합으로 이어진 bridged dimer로 존재한다.
 
 $$
-\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\,{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \text{그 다음}\ \mathrm{H_3O^+}} \mathrm{RCHO}
+\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\thinspace{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \text{그 다음}\ \mathrm{H_3O^+}} \mathrm{RCHO}
 $$
 
 (R = n-C11H23, 88%)
@@ -108,7 +108,7 @@ $$
 geraniol의 물음표에 대한 가장 간단한 답이 DMP다. 1983년 D. B. Dess와 J. C. Martin이 보고했으며, 5배위 iodine(V)(pentacoordinate iodine(V)) 화합물이다. benziodoxolone 골격의 I에 acetate(OAc) 3개가 붙어 있는 구조다.
 
 $$
-\text{geraniol} \xrightarrow[\mathrm{CH_2Cl_2},\ 84\%]{\mathrm{DMP}} \text{geranial}
+\text{geraniol} \xrightarrow[\mathrm{CH_2Cl_2},\ 84\unicode{x25}]{\mathrm{DMP}} \text{geranial}
 $$
 
 ![geraniol → geranial (DMP)](../../figures/L06/geraniol_dmp.svg)
@@ -181,7 +181,7 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 루테늄 산화물은 원래 강한 산화제인데, 이것을 촉매로만 쓸 수는 없을까? TPAP(tetra-n-propylammonium perruthenate, Pr4N+ RuO4−, Ru(VII))가 그런 시약이다. TPAP는 촉매량만 넣고, 실제 산화 당량은 NMO(N-methylmorpholine N-oxide)가 최종 terminal oxidant로 댄다. alcohol을 산화하고 Ru(V)가 된 루테늄을 NMO가 다시 Ru(VII)로 되돌리고, 그 과정에서 NMO는 N-methylmorpholine이 된다.
 
 $$
-\text{α-하이드록시}\ \text{에스터}(\text{2차 알코올}) \xrightarrow[93\%]{\mathrm{TPAP}} \text{α-케토 에스터}
+\text{α-하이드록시}\ \text{에스터}(\text{2차 알코올}) \xrightarrow[93\unicode{x25}]{\mathrm{TPAP}} \text{α-케토 에스터}
 $$
 
 (출처: L6c p.10)
@@ -206,7 +206,7 @@ MnO2는 매우 순한 산화제다.[4] 너무 순해서 아무 alcohol이나 산
 이번에는 값싼 NaOCl을 산화제로 쓸 수는 없을까? 표백제만으로는 선택성이 없지만, TEMPO라는 촉매를 끼우면 aldehyde에서 깔끔하게 멈춘다. TEMPO는 2,2,6,6-tetramethylpiperidine N-oxyl(슬라이드 표기 "tetramethylpiperidine N-oxide")로, 네 개의 methyl이 N–O• radical을 둘러싸 보호하고 있는 안정한 nitroxyl radical이다(m.p. 36–38 °C).
 
 $$
-\mathrm{RCH_2OH} + \mathrm{NaOCl} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\,{}^\circ\mathrm{C}]{\mathrm{NaHCO_3},\ \mathrm{KBr}\ (0.1\ \text{mol equiv}),\ \mathrm{TEMPO}\ (0.01\ \text{mol equiv})} \mathrm{RCHO}
+\mathrm{RCH_2OH} + \mathrm{NaOCl} \xrightarrow[\mathrm{CH_2Cl_2{-}H_2O},\ 0\thinspace{}^\circ\mathrm{C}]{\mathrm{NaHCO_3},\ \mathrm{KBr}\ (0.1\ \text{mol equiv}),\ \mathrm{TEMPO}\ (0.01\ \text{mol equiv})} \mathrm{RCHO}
 $$
 
 슬라이드의 예는 1-heptanol → heptanal, cinnamyl alcohol(PhCH=CHCH2OH) → cinnamaldehyde(PhCH=CHCHO)이며, 두 번째 예에서 C=C는 그대로 남는다.
@@ -230,7 +230,7 @@ $$
 표백제보다 더 싼 산화제는 공기다. 그렇다면 공기 중의 O2로 alcohol을 산화할 수 있을까? Stahl 산화는 TEMPO와 구리를 함께 촉매로 써서 이것을 해낸다.
 
 $$
-\mathrm{RCH_2OH} \xrightarrow[\mathrm{MeCN},\ \text{rt}]{5\%\ \mathrm{(bpy)CuI},\ 5\%\ \mathrm{TEMPO},\ 10\%\ \mathrm{NMI},\ \text{air 또는}\ \mathrm{O_2}} \mathrm{RCHO}
+\mathrm{RCH_2OH} \xrightarrow[\mathrm{MeCN},\ \text{rt}]{5\unicode{x25}\ \mathrm{(bpy)CuI},\ 5\unicode{x25}\ \mathrm{TEMPO},\ 10\unicode{x25}\ \mathrm{NMI},\ \text{air 또는}\ \mathrm{O_2}} \mathrm{RCHO}
 $$
 
 (bpy = 2,2'-bipyridine, NMI = N-methylimidazole)
@@ -303,7 +303,7 @@ $$
 1차 alcohol을 한 번에 carboxylic acid까지 보내려면 강한 산화제가 필요하다. 대표가 Jones oxidation(1946)다. 크롬산 H2CrO4를 쓰는데, CrO3나 다이크로뮴산염(Cr2O7^2−)을 acetic acid이나 묽은 sulfuric acid에 녹여 만든다. 즉 강산성 조건이다.
 
 $$
-\mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CH_2OH} \xrightarrow[>86\%]{\mathrm{CrO_3},\ \mathrm{H_2SO_4}} \mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CO_2H}
+\mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CH_2OH} \xrightarrow[>86\unicode{x25}]{\mathrm{CrO_3},\ \mathrm{H_2SO_4}} \mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CO_2H}
 $$
 
 ![N-Cbz prolinol → N-Cbz proline (Jones)](../../figures/L06/jones_cbz_prolinol.svg)
@@ -341,7 +341,7 @@ $$
 먼저 KMnO4는 매우 강한 산화제로, benzyl methyl group(toluene 유도체 Ar–CH3)를 carboxylic acid Ar–CO2H까지 산화한다. 슬라이드는 이것을 사카린 합성으로 보여 준다.
 
 $$
-\text{toluene} \xrightarrow{\mathrm{ClSO_2OH}} \text{o-toluenesulfonyl chloride} \xrightarrow{\mathrm{(NH_4)_2CO_3}} \text{o-toluenesulfonamide}\ (89\%) \xrightarrow{\mathrm{KMnO_4}} \text{2-sulfamoylbenzoic acid}\ (\text{분리 안 함}) \xrightarrow{\mathrm{HCl}} \text{saccharin}\ (58\%)
+\text{toluene} \xrightarrow{\mathrm{ClSO_2OH}} \text{o-toluenesulfonyl chloride} \xrightarrow{\mathrm{(NH_4)_2CO_3}} \text{o-toluenesulfonamide}\ (89\unicode{x25}) \xrightarrow{\mathrm{KMnO_4}} \text{2-sulfamoylbenzoic acid}\ (\text{분리 안 함}) \xrightarrow{\mathrm{HCl}} \text{saccharin}\ (58\unicode{x25})
 $$
 
 ![toluene + ClSO2OH → o-/p-toluenesulfonyl chloride](../../figures/L04/saccharin_1.svg)
@@ -385,7 +385,7 @@ alkene은 산업적으로는 석유에서 대량으로 얻는다. 탄화수소�
 익숙한 E2 반응도 이 점에서는 불만족스럽다.
 
 $$
-\text{2-bromopentane} \xrightarrow{\mathrm{NaOEt}} (\mathit{E})\text{-pent-2-ene}\ 51\% + (\mathit{Z})\text{-pent-2-ene}\ 18\% + \text{pent-1-ene}\ 31\%
+\text{2-bromopentane} \xrightarrow{\mathrm{NaOEt}} (\mathit{E})\text{-pent-2-ene}\ 51\unicode{x25} + (\mathit{Z})\text{-pent-2-ene}\ 18\unicode{x25} + \text{pent-1-ene}\ 31\unicode{x25}
 $$
 
 ![2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene](../../figures/L06/e2_2_bromopentane.svg)
@@ -409,7 +409,7 @@ E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene�
 alkyne에 H2를 두 번 붙이면 알케인이 되는데, 한 번만 붙이고 멈출 수는 없을까? Lindlar 촉매가 그 답이다. Pd를 CaCO3 지지체에 올리고 Pb(OAc)2로 "피독(poisoning)"해 활성을 일부러 낮춘 촉매다. alkyne을 이 촉매에서 H2와 반응시키면 cis(Z)-alkene에서 멈춘다.[10]
 
 $$
-\mathrm{R{-}C{\equiv}C{-}}\text{(γ-lactone)} \xrightarrow{\mathrm{H_2},\ \text{Lindlar}} \text{Japanese beetle pheromone}\ (80\text{–}90\%,\ \mathrm{Z}\ \text{이성질체만})
+\mathrm{R{-}C{\equiv}C{-}}\text{(γ-lactone)} \xrightarrow{\mathrm{H_2},\ \text{Lindlar}} \text{Japanese beetle pheromone}\ (80\text{–}90\unicode{x25},\ \mathrm{Z}\ \text{이성질체만})
 $$
 
 ![alkyne → Japanese beetle pheromone (Lindlar)](../../figures/L06/pheromone_lindlar.svg)
@@ -427,7 +427,7 @@ Z가 되는 이유는 H2가 금속 표면에 흡착된 상태에서 두 H가 alk
 그렇다면 반대로 E-alkene은 어떻게 만들까? 이번에는 H2 대신 전자와 양성자를 하나씩 따로 넣는다. 액체 암모니아에 녹인 나트륨이 전자 공급원이고, t-BuOH가 양성자 공급원이다.
 
 $$
-\text{내부 알카인} \xrightarrow{\mathrm{Na},\ \mathrm{NH_3(l)},\ \mathrm{\mathit{t}\text{-}BuOH}} \text{E-알켄}\ (80\text{–}90\%,\ \text{모두}\ \mathrm{E})
+\text{내부 알카인} \xrightarrow{\mathrm{Na},\ \mathrm{NH_3(l)},\ \mathrm{\mathit{t}\text{-}BuOH}} \text{E-알켄}\ (80\text{–}90\unicode{x25},\ \text{모두}\ \mathrm{E})
 $$
 
 메커니즘은 단일전자 single electron transfer, SET이고, radical이 intermediate로 나온다.
@@ -448,7 +448,7 @@ $$
 ### 6.3 예: Lindlar의 선택성 (Org. Lett. 2001)
 
 $$
-11 \xrightarrow[\mathrm{MeOH:CH_2Cl_2},\ 100\%]{\mathrm{H_2},\ \text{Lindlar cat}} 12
+11 \xrightarrow[\mathrm{MeOH:CH_2Cl_2},\ 100\unicode{x25}]{\mathrm{H_2},\ \text{Lindlar cat}} 12
 $$
 
 생성물 12는 HO–CH(Me)–CH=CH(Z)–CH=CH(E)–(N-Boc-6-methylpiperidin-2-yl)이다. 이어서 12의 OH를 cinnamic acid로 ester화하면 5가 된다(83%, 축합 조건은 슬라이드에 없다). 출발물 11은 빈칸으로 남아 있는데, "Lindlar가 무엇을 바꾸고 무엇을 그대로 두는가"를 생각하면 거꾸로 추론할 수 있다(연습 문제 3).
@@ -489,7 +489,7 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane이 만나 C=C가 생기는 반응이다. 쉽게 말해 carbonyl의 =O 자리에 일리드의 =CHR이 들어가고, 산소는 Ph3P=O로 빠져나간다.
 
 $$
-\text{cyclohexanone} + \mathrm{Ph_3P{=}CH_2} \longrightarrow \text{methylenecyclohexane}\ (86\%) + \mathrm{Ph_3P{=}O}
+\text{cyclohexanone} + \mathrm{Ph_3P{=}CH_2} \longrightarrow \text{methylenecyclohexane}\ (86\unicode{x25}) + \mathrm{Ph_3P{=}O}
 $$
 
 ![cyclohexanone + Ph3P=CH2 → methylenecyclohexane](../../figures/L06/wittig_cyclohexanone.svg)
@@ -587,7 +587,7 @@ $$
 3. oxaphosphetane이 제거 반응으로 분해되면서 C–P와 C–O 결합이 끊어지고, C=C와 P=O가 생긴다.
 
 $$
-\text{cyclopentylidene–}\mathrm{PPh_3} + \mathrm{PhCHO} \longrightarrow \text{benzylidenecyclopentane}\ (65\%) + \mathrm{Ph_3P{=}O}
+\text{cyclopentylidene–}\mathrm{PPh_3} + \mathrm{PhCHO} \longrightarrow \text{benzylidenecyclopentane}\ (65\unicode{x25}) + \mathrm{Ph_3P{=}O}
 $$
 
 ![cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane](../../figures/L06/wittig_benzylidene.svg)
