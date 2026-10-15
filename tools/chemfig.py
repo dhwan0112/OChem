@@ -174,6 +174,17 @@ def sketch_proposal(spec):
     arrows = [dict(start=dict(x=a[0], y=a[1]), end=dict(x=a[2], y=a[3])) for a in spec.get("arrows", [])]
     captions = [dict(text=subscript_formulas(c[0]), position=dict(x=c[1], y=c[2]), color=None) for c in spec.get("captions", [])]
     abbreviations = [dict(label=fix_abbrev_label(a[0]), anchor=a[1], atoms=a[2]) for a in spec.get("abbrev", [])]
+    # 직선형 누적 이중결합 탄소(O=C=O, O=C=N, S=C=S …)는 골격식에서 C가 사라져 O====O처럼 보인다.
+    # 이런 탄소는 항상 'C' 라벨로 그린다.
+    named = {a[1] for a in spec.get("abbrev", [])} | {i for a in spec.get("abbrev", []) for i in a[2]}
+    for i, a in enumerate(spec.get("atoms", [])):
+        if a[0] != "C" or i in named:
+            continue
+        bs = [b for b in spec.get("bonds", []) if i in b[:2]]
+        if len(bs) == 2 and all((b[2] if len(b) > 2 else 1) == 2 for b in bs):
+            others = [spec["atoms"][b[1] if b[0] == i else b[0]][0] for b in bs]
+            if all(o != "C" for o in others):
+                abbreviations.append(dict(label="C", anchor=i, atoms=[i]))
     sketch = dict(atoms=atoms, bonds=bonds, shapes=[], tilts=[], centroids=[], arrows=arrows,
                   captions=captions, abbreviations=abbreviations, ligands=[])
     comp = dict(arrangement="rows", columns=1, width_pt=540, preserve_details=True)
@@ -212,6 +223,7 @@ def lp_offset(ang):
 
 
 LP_RX, LP_RY = 14.5, 14.0
+LP_ARROW_GAP = 5.0  # pt
 
 
 def decorate(doc, spec):
@@ -304,10 +316,13 @@ def decorate(doc, spec):
             vx, vy = ctrl["x"] - px, ctrl["y"] - py
             n = math.hypot(vx, vy) or 1.0
             return vx / n, vy / n
+        # 비공유 전자쌍에서 시작/끝나는 화살표는 기본 간격을 넓혀 점 두 개를 가리지 않게 한다.
+        def lp_gap(e):
+            return dict(e, gap=LP_ARROW_GAP) if "lp" in e and "gap" not in e else e
         if t0:
-            arrow["start_anchor"] = anchor(t0, c["from"], unit(x0, y0))
+            arrow["start_anchor"] = anchor(t0, lp_gap(c["from"]), unit(x0, y0))
         if t1:
-            arrow["end_anchor"] = anchor(t1, c["to"], unit(x1, y1))
+            arrow["end_anchor"] = anchor(t1, lp_gap(c["to"]), unit(x1, y1))
         doc["arrows"].append(arrow)
         next_id += 1
     return doc
