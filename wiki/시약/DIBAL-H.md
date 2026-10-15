@@ -25,9 +25,9 @@ ester를 [LiAlH4](LiAlH4.md)로 환원하면 중간에 aldehyde가 생기지만,
 
 Lewis acid인 Al이 ester carbonyl O에 배위한 뒤 Al–H의 hydride가 분자 내에서 전달되어 [tetrahedral intermediate](../개념/사면체%20중간체.md) R–CH(OEt)–O–Al(*i*-Bu)₂가 생긴다. 이 intermediate가 −70 °C에서 무너지지 않으므로 반응 중에 aldehyde가 없고, H₃O⁺ 후처리에서야 aldehyde가 나온다. (출처: L5 p.29, L6c p.2)
 
-![DIBAL-H가 ester 산소에 배위한 뒤 hydride를 전달해 저온에서 안정한 tetrahedral intermediate를 만드는 과정](../../figures/L05/dibal_ester.svg)
+![DIBAL-H에 의한 ester의 aldehyde 환원 종합 메커니즘: Al이 carbonyl O에 배위하고 Al–H의 hydride가 분자 내에서 carbonyl 탄소로 옮겨 가 −70 °C에서 안정한 tetrahedral intermediate가 되며, 산 처리로 aldehyde와 EtOH가 나온다](../../figures/L05/dibal_ester_mech.svg)
 
-그림: Al이 carbonyl O에 배위하고 Al–H(파랑)가 carbonyl 탄소(빨강)로 hydride를 준다. 가운데 tetrahedral intermediate는 −70 °C에서 무너지지 않는다.
+그림: 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): carbonyl O의 비공유 전자쌍(파랑, Lewis base)이 Al의 빈 p orbital(빨강, Lewis acid)로 들어가 Lewis adduct($\mathrm{O}^+$–$\mathrm{Al}^-$)가 된다. 2단계: Al–H 결합(파랑)의 hydride가 분자 내에서 carbonyl 탄소(빨강)로 옮겨 가고 C=O π 전자는 O로 올라가 tetrahedral intermediate가 된다(새 C–H는 초록). 이 intermediate는 −70 °C에서 무너지지 않으므로 aldehyde가 생기지 않고 두 번째 hydride를 받지도 않는다. 3단계(위쪽 화살표): 반응이 끝난 뒤 $\mathrm{H_3O^+}$ 로 처리하면 intermediate가 가수분해되어 aldehyde와 EtOH가 나온다. R은 $n\text{-}\mathrm{C_{11}H_{23}}$ 이고 알루미늄 부산물은 그리지 않았다. 보충: 슬라이드는 1–2단계까지 그렸고, 3단계 화살표(workup)와 Lewis adduct 단계의 분리는 보충이다. (보충 근거: Clayden p.533)
 
 ## 이웃 시약과 비교
 

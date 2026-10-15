@@ -59,6 +59,10 @@ $$
 
 그림: $NH_3$ (파랑)가 C–Br(빨강)을 SN2로 치환한다. 대과량 $NH_3$ 로 과알킬화를 막는다.
 
+![2-bromopropanoic acid + NH3의 SN2 amination 종합 메커니즘: NH3가 C–Br을 SN2로 치환해 ammonium이 되고, 다른 NH3 두 분자가 N–H와 O–H의 양성자를 차례로 떼어 alaninate가 된다](../../figures/L05/alanine_nh3_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): $\mathrm{NH}_3$ 의 비공유 전자쌍(파랑, nucleophile)이 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–N 결합이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다(SN2). 2단계: 생긴 ammonium의 N–H 양성자(산, 빨강)를 다른 $\mathrm{NH}_3$ (염기, 파랑)가 가져가 중성 amine이 되고 $\mathrm{NH}_4^+$ 가 생긴다. 3단계: carboxylic acid의 O–H 양성자(산, 빨강)도 또 하나의 $\mathrm{NH}_3$ (염기, 파랑)가 가져가 alaninate가 된다. 위 줄의 $\mathrm{NH}_4\mathrm{Br}$ 는 $\mathrm{NH}_4^+$ 와 $\mathrm{Br}^-$ 이고, 모두 $\mathrm{NH}_3$ 세 분자가 쓰인다. $\mathrm{NH}_3$ 를 70 mol이나 쓰는 이유(over-alkylation 방지)는 아래 octylamine 그림에서 본다. 보충: 곡선 화살표와 3단계의 양성자 이동은 표준 SN2 메커니즘과 산-염기 반응에 따라 그린 것이다. (보충 근거: Clayden p.353)
+
 그런데 왜 NH<sub>3</sub>를 그렇게 많이 넣어야 할까? 1-bromooctane에 NH<sub>3</sub>를 2 eq만 넣어 보면 답이 나온다.
 
 $$
@@ -71,6 +75,10 @@ $$
 ![1-bromooctane + NH3 → octylamine + dioctylamine](../../figures/L05/octylamine_nh3.svg)
 
 그림: $NH_3$ 가 적으면 생성된 amine이 다시 알킬화되어 dioctylamine이 거의 같은 양 생긴다.
+
+![1-bromooctane + NH3의 SN2 amination과 over-alkylation 종합 메커니즘: octylamine이 NH3보다 나은 nucleophile이라 남은 alkyl bromide를 다시 SN2로 공격해 dioctylamine이 된다](../../figures/L05/octylamine_nh3_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). $\mathrm{R}$ 은 n-$\mathrm{C}_8\mathrm{H}_{17}$ 이다. 1단계(위 줄의 화살표): $\mathrm{NH}_3$ (파랑, nucleophile)가 C–Br 탄소(빨강, electrophile)를 SN2로 공격해 $\mathrm{RNH}_3^+$ 가 된다. 2단계: 다른 $\mathrm{NH}_3$ (염기)가 N–H 양성자(산)를 가져가 octylamine $\mathrm{RNH}_2$ 가 된다. 3단계: 생긴 $\mathrm{RNH}_2$ 는 alkyl group의 전자 공여 때문에 $\mathrm{NH}_3$ 보다 더 좋은 nucleophile이라 남은 1-bromooctane을 다시 SN2로 공격해 $\mathrm{R}_2\mathrm{NH}_2^+$ 가 된다(새 C–N은 초록). 4단계: 이 ammonium도 $\mathrm{NH}_3$ 에게 양성자를 주어 dioctylamine $\mathrm{R}_2\mathrm{NH}$ 가 된다. 그래서 $\mathrm{NH}_3$ 가 2 eq뿐이면 octylamine(45%)과 dioctylamine(43%)이 거의 같은 양 생긴다. 같은 두 단계가 한 번 더 일어나면 trioctylamine과 4차 암모늄염까지 가지만 미량이라 그리지 않았다. 단계마다 생기는 $\mathrm{Br}^-$ 와 $\mathrm{NH}_4^+$ 짝이온도 그리지 않았다. 보충: 곡선 화살표는 표준 SN2 메커니즘과 산-염기 반응에 따라 그린 것이다. (보충 근거: Clayden p.353)
 
 원하는 1차 amine과 거의 같은 양의 2차 amine이 섞여 나온다. 이것이 over-alkylation이다. 원인은 생성물 자체에 있다. 새로 생긴 RNH<sub>2</sub>는 alkyl group의 전자 공여 덕분에 NH<sub>3</sub>보다 오히려 더 좋은 nucleophile라서, 남은 RX를 먼저 낚아채 버린다.[4] 즉 반응이 "한 번만 일어나고 멈추는" 장치가 없다. 그래서 아래의 방법들은 모두 "N을 한 번만 붙이고 나중에 환원으로 amine을 드러내는" 전략으로 이 문제를 피한다.
 
@@ -93,6 +101,10 @@ $$
 ![PhCH2CH2Br + NaN3 → 2-phenylethyl azide](../../figures/L05/phenethyl_azide_1.svg)
 
 그림: azide(파랑)가 C–Br(빨강)을 SN2로 치환한다.
+
+![PhCH2CH2Br + NaN3의 SN2 종합 메커니즘: azide의 끝 질소가 C–Br 탄소를 Br의 반대쪽에서 공격해 alkyl azide와 Br−가 된다](../../figures/L05/phenethyl_azide_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 SN2이므로 중간체가 없고, 곡선 화살표를 위 줄의 반응물에 바로 그렸다. $\mathrm{N}_3^-$ 의 끝 질소 비공유 전자쌍(파랑, nucleophile)이 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–N 결합(초록)이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다. 생성물 alkyl azide $\mathrm{R{-}N{=}N^+{=}N^-}$ 는 더 이상 nucleophile이 아니라서 반응이 한 번에서 멈춘다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 곡선 화살표는 표준 SN2 메커니즘을 그린 것이다. (보충 근거: Clayden p.353–354)
 
 ![2-phenylethyl azide → 2-phenylethylamine](../../figures/L05/phenethyl_azide_2.svg)
 
@@ -130,6 +142,10 @@ $$
 
 그림: amine N(파랑)이 acyl chloride C(빨강)를 공격해 amide(초록)가 된다.
 
+![benzylamine의 acyl화 종합 메커니즘: amine N이 acyl chloride의 carbonyl 탄소를 공격해 tetrahedral intermediate가 되고, Cl−가 떠난 뒤 염기가 N–H 양성자를 떼어 amide가 된다](../../figures/L05/benzylamine_acyl_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). nucleophilic acyl substitution이다. 1단계(위 줄의 화살표): amine N의 비공유 전자쌍(파랑, nucleophile)이 acyl chloride의 carbonyl 탄소(빨강, electrophile)를 공격해 새 N–C 결합(초록)을 만들고, C=O의 π 전자는 산소로 올라가 $\mathrm{O}^-$ 가 되어 tetrahedral intermediate(zwitterion)가 된다. 2단계: $\mathrm{O}^-$ 의 비공유 전자쌍이 C=O를 다시 만들고 C–Cl 결합 전자는 Cl로 가서 $\mathrm{Cl}^-$ 가 이탈한다. 그 결과 protonated amide(conjugate acid, 빨강)가 생긴다. 3단계: 염기 B:(파랑)가 $\mathrm{N}^+$–H의 H를 가져가고 N–H 결합 전자가 N의 비공유 전자쌍이 되어 amide와 $\mathrm{BH}^+$ 가 된다. 위 줄의 $\mathrm{BH}^+\mathrm{Cl}^-$ 는 염기가 HCl을 붙잡은 염이다. 생성물 amide는 N의 비공유 전자쌍이 C=O와 공명해 nucleophile이 약하므로 반응이 한 번에서 멈춘다. 보충: 곡선 화살표와 염기 B:는 표준 addition–elimination 메커니즘을 그린 것이다. (보충 근거: Clayden p.177, p.202–203)
+
 ![N-benzylacetamide → N-benzylethylamine](../../figures/L05/benzylamine_acyl_2.svg)
 
 그림: amide C=O(빨강)가 $CH_2$ (초록)로 환원된다.
@@ -166,6 +182,8 @@ amine을 만드는 가장 강력하고 범용적인 방법이 환원성 아미�
 ![reductive amination (3/3)](../../figures/L05/reductive_amination_scheme_3.svg)
 
 그림: 보충: ketone과 2차 amine이 산 촉매로 물을 잃고 iminium ion이 되고, $NaBH_3CN$ 이 C=N⁺만 골라 환원해 3차 amine이 된다. 아래는 $NH_3$, $H_2$ /Ni로 benzaldehyde에서 1차 amine을 얻는 예.
+
+(위 둘째·셋째 반응식(NaBH<sub>3</sub>CN)의 단계별 그림은 아래 "NaBH<sub>3</sub>CN을 쓴 예"의 종합 그림과 같다. 2차 amine + carbonyl은 pyrrolidine 그림, 1차 amine + carbonyl은 acetone 그림을 본다.)
 
 
 (출처: L5 p.10)
@@ -209,13 +227,25 @@ amine의 종류에 따라 결과가 한 단계씩 올라간다. NH<sub>3</sub>�
 
 그림: $NH_3$ 로 환원성 아미노화하면 1차 amine이 된다(초록 = 새 C–N).
 
+![3-methylbutanal + NH3의 reductive amination 종합 메커니즘: NH3가 carbonyl을 공격해 hemiaminal이 되고, 산 촉매로 물이 떠나 iminium ion이 된 뒤 NaBH3CN의 hydride를 받아 1차 amine이 된다](../../figures/L05/ra_3_methylbutanal_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): $\mathrm{NH}_3$ 의 비공유 전자쌍(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 올라간다. 양성자 이동 두 번(그림에는 그리지 않음)을 거치면 hemiaminal이 된다(새 C–N 결합은 초록). 2단계: 산 촉매 $\mathrm{H}_3\mathrm{O}^+$ (산, 빨강)가 hemiaminal의 O–H에 양성자를 준다(hemiaminal O는 염기, 파랑). 3단계: N의 비공유 전자쌍이 C–N 결합 쪽으로 밀고 C–O 결합 전자는 O로 가서 $\mathrm{H}_2\mathrm{O}$ 가 떠나 iminium ion이 된다. 4단계: $\mathrm{NaBH}_3\mathrm{CN}$ 의 B–H 결합(파랑)에서 hydride가 iminium 탄소(빨강)로 옮겨 가고 C=N π 전자는 N으로 돌아가 1차 amine이 된다(새 C–H는 초록). 실제로는 hemiaminal에서 물이 빠져 중성 imine이 먼저 생기고 그것이 protonate되어 iminium이 되지만(imine과 iminium은 평형), 그림은 iminium으로 바로 가는 경로를 그렸다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 슬라이드 p.11의 일반 메커니즘을 이 기질에 맞춰 단계별로 풀어 그린 것이며, 산 촉매와 곡선 화살표는 보충이다. (보충 근거: Clayden p.230–231, p.235)
+
 ![cyclohexylmethanamine + acetone → N-(cyclohexylmethyl)propan-2-amine](../../figures/L05/ra_acetone.svg)
 
 그림: 1차 amine + ketone → 2차 amine.
 
+![cyclohexylmethanamine + acetone의 reductive amination 종합 메커니즘: 1차 amine이 ketone을 공격해 hemiaminal과 iminium ion을 거쳐 NaBH3CN의 hydride를 받고 2차 amine이 된다](../../figures/L05/ra_acetone_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): 1차 amine N의 비공유 전자쌍(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 올라간다. 양성자 이동 두 번(그림에는 그리지 않음)을 거치면 hemiaminal이 된다(새 C–N 결합은 초록). 2단계: 산 촉매 $\mathrm{H}_3\mathrm{O}^+$ (산, 빨강)가 hemiaminal의 O–H에 양성자를 준다(hemiaminal O는 염기, 파랑). 3단계: N의 비공유 전자쌍이 C–N 결합 쪽으로 밀고 C–O 결합 전자는 O로 가서 $\mathrm{H}_2\mathrm{O}$ 가 떠나 iminium ion이 된다. 4단계: $\mathrm{NaBH}_3\mathrm{CN}$ 의 B–H 결합(파랑)에서 hydride가 iminium 탄소(빨강)로 옮겨 가고 C=N π 전자는 N으로 돌아가 2차 amine이 된다(새 C–H는 초록). ketone이라 carbonyl 탄소에 H가 없으므로, 새 C–H가 생기는 자리가 ketone 탄소다(isopropyl의 CH). 실제로는 중성 imine을 거쳐 iminium이 되지만, 그림은 iminium으로 바로 가는 경로를 그렸다. Cy는 cyclohexyl이다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 슬라이드 p.11의 일반 메커니즘을 이 기질에 맞춰 단계별로 풀어 그린 것이며, 산 촉매와 곡선 화살표는 보충이다. (보충 근거: Clayden p.230–231, p.235)
+
 ![pyrrolidine + 2-methylpropanal → 1-isobutylpyrrolidine](../../figures/L05/ra_pyrrolidine.svg)
 
 그림: 2차 amine + aldehyde → 3차 amine.
+
+![pyrrolidine + 2-methylpropanal의 reductive amination 종합 메커니즘: 2차 amine이 aldehyde를 공격해 hemiaminal과 iminium ion을 거쳐 NaBH3CN의 hydride를 받고 3차 amine이 된다](../../figures/L05/ra_pyrrolidine_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): 2차 amine N의 비공유 전자쌍(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 올라간다. 양성자 이동 두 번(그림에는 그리지 않음)을 거치면 hemiaminal이 된다(새 C–N 결합은 초록). 2단계: 산 촉매 $\mathrm{H}_3\mathrm{O}^+$ (산, 빨강)가 hemiaminal의 O–H에 양성자를 준다(hemiaminal O는 염기, 파랑). 3단계: N의 비공유 전자쌍이 C–N 결합 쪽으로 밀고 C–O 결합 전자는 O로 가서 $\mathrm{H}_2\mathrm{O}$ 가 떠나 iminium ion이 된다. 4단계: $\mathrm{NaBH}_3\mathrm{CN}$ 의 B–H 결합(파랑)에서 hydride가 iminium 탄소(빨강)로 옮겨 가고 C=N π 전자는 N으로 돌아가 3차 amine이 된다(새 C–H는 초록). 2차 amine은 N에 H가 하나뿐이라 중성 imine을 만들 수 없으므로 iminium ion을 거쳐 바로 환원된다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 슬라이드 p.11의 일반 메커니즘을 이 기질에 맞춰 단계별로 풀어 그린 것이며, 산 촉매와 곡선 화살표는 보충이다. (보충 근거: Clayden p.230–231, p.235)
 
 역합성할 때 쓸 만한 요령이 하나 있다. 생성물에서 새 C-N 결합의 탄소 쪽을 보면, 그 탄소가 carbonyl에서 왔고 거기엔 반드시 H가 하나 이상 붙어 있다(환원 때 들어온 H). 이 H가 없는 탄소, 예컨대 3차 alkyl group은 환원성 아미노화로 N에 붙일 수 없다.
 
@@ -241,9 +271,9 @@ $$
 4. 이 2차 amine이 다시 HCHO와 반응(+H<sup>+</sup>, -H<sub>2</sub>O)해 iminium R-N<sup>+</sup>(CH<sub>3</sub>)=CH<sub>2</sub>가 된다.
 5. HCOO<sup>-</sup>가 한 번 더 수소화물을 주고 CO<sub>2</sub>가 빠지면 R-N(CH<sub>3</sub>)<sub>2</sub>가 된다.
 
-![포름산 이온의 C–H 수소화물이 iminium 탄소로 옮겨 가고 CO2가 빠지는 Eschweiler–Clarke 핵심 단계](../../figures/L05/eschweiler_hydride.svg)
+![Eschweiler–Clarke methylation 종합 메커니즘: imine이 포름산에서 양성자를 받아 iminium ion과 formate가 되고, formate의 C–H hydride가 iminium 탄소로 옮겨 가며 CO2가 빠져 N-methyl amine이 된다](../../figures/L05/eschweiler_clarke_mech.svg)
 
-그림: 3번 단계(첫 번째 수소화물 전달)다. 포름산 이온의 H–C 결합(파랑)이 수소화물로서 iminium 탄소(빨강)를 공격하고, O<sup>-</sup>의 비공유 전자쌍이 내려와 C=O를 하나 더 만들어 CO<sub>2</sub>가 떨어져 나간다. iminium의 C=N π 전자는 N으로 돌아가 양전하를 없앤다. 새로 생긴 C–H 결합은 초록이다. 5번 단계도 같은 방식이다. 보충: 슬라이드에는 앞의 두 화살표만 있고, C=N π → N 화살표는 전자 수를 맞추려고 덧붙였다.
+그림: 위 줄은 1차 amine과 HCHO가 축합($-\mathrm{H}_2\mathrm{O}$ )해 생긴 imine $\mathrm{R{-}N{=}CH}_2$ 가 포름산과 반응해 N-methyl amine이 되는 한 번의 순환이고(imine 생성은 그리지 않았다), 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): imine N의 비공유 전자쌍(파랑, 염기)이 $\mathrm{HCOOH}$ 의 O–H 양성자(빨강, 산)를 받고 O–H 결합 전자는 O로 가서 iminium ion과 formate가 된다. 2단계: formate의 H–C 결합(파랑)이 hydride로서 iminium 탄소(빨강, electrophile)를 공격하고, $\mathrm{O}^-$ 의 비공유 전자쌍이 내려와 C=O를 하나 더 만들어 $\mathrm{CO}_2$ 가 떨어져 나간다. iminium의 C=N π 전자는 N으로 돌아가 양전하를 없앤다. 새 C–H 결합은 초록이다. 같은 순환이 한 번 더(HCHO와 축합해 iminium, 다시 formate의 hydride, $\mathrm{CO}_2$ 이탈) 일어나면 $\mathrm{R{-}N(CH_3)_2}$ 가 된다. 보충: 슬라이드에는 앞의 두 화살표만 있고, C=N π → N 화살표는 전자 수를 맞추려고 덧붙였다. (보충 근거: Clayden p.716, p.778)
 
 그럼 왜 4차 암모늄염까지 가지 않을까? 3차 amine은 N에 H가 없어 HCHO와 iminium을 만들 수 없기 때문이다. 즉 이 반응은 구조적으로 3차 amine에서 멈춘다. 1-1의 직접 alkylation과 정반대의 장점이다. CO<sub>2</sub> 기체가 빠져나가는 것도 반응을 비가역적으로 밀어 준다.
 
@@ -282,6 +312,8 @@ $$
 ![Eschweiler–Clarke → venlafaxine](../../figures/L05/venlafaxine_3.svg)
 
 그림: N에 methyl 두 개(초록)가 붙어 venlafaxine이 된다.
+
+(이 단계의 메커니즘은 1-4의 Eschweiler–Clarke 종합 그림과 같다. 여기서는 R 자리에 venlafaxine 골격이 있다.)
 
 그런데 2와 3을 한 번에 할 수는 없을까? 특허 경로[9]가 바로 그것이다. 사이아노 alcohol을 `H2 (12 bar), Pd/C (5%), HCHO (2.2 eq)`로 처리하면 벤라팍신이 94%로 나온다. nitrile 수소화로 생긴 1차 amine이 같은 용기 안의 HCHO와 환원성 아미노화(H<sub>2</sub>/Pd가 환원제)를 두 번 연달아 겪는 것이다. HCHO가 2.2 eq인 이유도 methyl group 두 개를 붙여야 하기 때문이다. 슬라이드의 빈 상자 두 개는 연습 문제 3번으로 옮겼다.
 
@@ -336,18 +368,24 @@ NaBH<sub>4</sub>는 아마 가장 많이 쓰이는 환원제일 것이다. 온�
 
 그림: aldehyde C=O(빨강)가 1차 alcohol(초록)로 환원된다.
 
+![butanal의 NaBH4 환원 종합 메커니즘: BH4−의 hydride가 carbonyl 탄소를 공격해 alkoxide가 되고, MeOH가 양성자를 주어 1-butanol이 되며 남은 MeO−는 BH3에 붙는다](../../figures/L05/butanal_nabh4_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). butanone 그림과 단계가 같고, carbonyl 탄소에 H가 붙어 있다는 점(aldehyde)만 다르다. 용매는 반응식에 맞춰 MeOH로 그렸다. 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고 C=O π 전자는 산소로 올라가 alkoxide가 된다. 2단계: alkoxide(염기)가 MeOH(산)의 H를 가져가 1-butanol(conjugate acid)과 $\mathrm{MeO}^-$ (conjugate base)가 된다. 3단계: $\mathrm{MeO}^-$ 가 $\mathrm{BH}_3$ 에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
+
 ![butanone → 2-butanol](../../figures/L05/butanone_nabh4.svg)
 
 그림: ketone C=O(빨강)가 2차 alcohol(초록)로 환원된다.
+
+![butanone의 NaBH4 환원 종합 메커니즘: BH4−의 hydride가 carbonyl 탄소를 공격해 alkoxide가 되고, MeOH가 양성자를 주어 2-butanol이 되며 남은 MeO−는 BH3에 붙는다](../../figures/L05/butanone_nabh4_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 용매는 반응식에 맞춰 MeOH로 그렸다(슬라이드 메커니즘은 EtOH이고 단계는 같다). 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고, C=O π 전자는 산소로 올라가 alkoxide $\mathrm{O}^-$ 가 된다. 2단계: alkoxide(염기, 파랑)의 비공유 전자쌍이 MeOH(산, 빨강)의 H를 가져가고, H–O 결합 전자는 O에 남아 2-butanol(conjugate acid, 빨강)과 $\mathrm{MeO}^-$ (conjugate base, 파랑)가 된다. 3단계: $\mathrm{MeO}^-$ 의 비공유 전자쌍이 $\mathrm{BH}_3$ (Lewis acid, 빨강)에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. $\mathrm{MeOBH}_3^-$ 에는 B–H가 남아 있어 여전히 환원제이므로 $\mathrm{BH}_4^-$ 하나가 hydride 네 개를 모두 쓸 수 있다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
 
 메커니즘의 이름은 "hydride" 첨가다.
 1. BH<sub>4</sub><sup>-</sup>의 B-H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C-H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO<sup>-</sup>는 BH<sub>3</sub>에 붙어 EtOBH<sub>3</sub><sup>-</sup>가 된다.
 3. 그런데 EtOBH<sub>3</sub><sup>-</sup>에는 아직 B-H가 남아 있으니 여전히 환원제다.
 
-![NaBH4의 수소화물이 ketone 탄소를 공격하고 alkoxide가 EtOH에서 양성자를 받는 메커니즘](../../figures/L05/nabh4_ketone.svg)
-
-그림: 왼쪽은 1번 단계다. BH<sub>4</sub><sup>-</sup>의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격하고 C=O π 전자는 산소로 간다. 가운데는 2번 단계다. alkoxide O<sup>-</sup>(파랑)의 비공유 전자쌍이 EtOH의 H(빨강)를 가져가고, H–O 결합 전자는 O에 남아 EtO<sup>-</sup>가 된다. 새 C–H 결합은 초록이다. EtO<sup>-</sup>는 BH<sub>3</sub>와 만나 EtOBH<sub>3</sub><sup>-</sup>가 된다.
+(이 단계의 메커니즘 그림은 위 butanal·butanone 반응식 바로 아래의 종합 그림에 합쳤다. 화살표의 의미는 그 그림 설명을 본다.)
 
 (출처: L5 p.19)
 
@@ -366,6 +404,8 @@ $$
 ![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
 
 그림: C=O(빨강) → CH–OH(초록).
+
+(이 반응의 메커니즘은 위 butanone 종합 그림과 같다. 고리 ketone이라는 점만 다르다.)
 
 (출처: L5 p.20)
 
@@ -435,9 +475,17 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.
 
+![2-bromopentane의 LiAlH4 환원 종합 메커니즘: AlH4−의 hydride가 C–Br 탄소를 SN2로 공격해 pentane과 Br−가 된다](../../figures/L05/lialh4_bromopentane_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 SN2이므로 중간체가 없고, 곡선 화살표를 위 줄의 반응물에 바로 그렸다. $\mathrm{AlH}_4^-$ 의 Al–H 결합(파랑, nucleophile)의 hydride가 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–H 결합(초록)이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다. 남은 $\mathrm{AlH}_3$ 는 생성물 쪽에 적었고 $\mathrm{Li}^+$ 는 그리지 않았다.
+
 ![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
 
 그림: LiAl $D_4$ 를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
+
+![(1-bromoethyl)benzene + LiAlD4의 SN2 종합 메커니즘: AlD4−의 D가 Br이 있던 탄소를 직접 공격해 PhCHDCH3와 Br−가 된다](../../figures/L05/liald4_bromoethylbenzene_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 SN2이므로 중간체가 없고, 곡선 화살표를 위 줄의 반응물에 바로 그렸다. $\mathrm{AlD}_4^-$ 의 Al–D 결합(파랑, nucleophile)의 deuteride가 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–D 결합(초록)이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다. D가 정확히 Br이 있던 자리에 들어간 것이 hydride가 C–Br 탄소를 직접 공격한다는 증거다. $\mathrm{Li}^+$ 는 그리지 않았다.
 
 두 번째 예는 왜 굳이 LiAlD<sub>4</sub>를 썼을까? D가 정확히 Br이 있던 자리에 들어간 것을 보면, 수소화물이 C-Br 탄소를 직접 공격해 Br을 밀어낸다는 것을 알 수 있다.[15] alkyl halide을 환원하는 다른 방법으로는 (a) 제거 반응 후 수소화, (b) alkyl radical을 거치는 방법이 있다.
 
@@ -488,6 +536,10 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 
 그림: amide C=O(빨강)가 $CH_2$ (초록)로 환원된다.
 
+![N,N-dimethylpivalamide의 BH3 환원 종합 메커니즘: O가 BH3에 배위하고 분자 내 hydride 전달로 tetrahedral intermediate가 된 뒤 iminium ion을 거쳐 두 번째 hydride를 받아 amine이 된다](../../figures/L05/bh3_amide_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): carbonyl O의 비공유 전자쌍(파랑, Lewis base)이 $\mathrm{BH}_3$ 의 빈 p orbital(빨강, Lewis acid)로 들어가 Lewis acid–base 착물(새 O–B 결합은 초록)을 만들고, N의 비공유 전자쌍이 C–N 쪽으로 밀어 $\mathrm{C{=}N}^+$ 성격이 생긴다. 2단계: 붙어 있는 B–H 결합(파랑)의 hydride가 분자 내에서 $\mathrm{C{=}N}^+$ 탄소(빨강)로 옮겨 가고 C=N π 전자는 N으로 돌아가 tetrahedral intermediate(새 C–H는 초록)가 된다. 3단계: N의 비공유 전자쌍이 C–N 결합 쪽으로 내려와 $\mathrm{C{=}N}^+$ 를 만들고 C–O 결합 전자는 O로 가서 $\mathrm{H_2B{-}O^-}$ 가 떨어지며 iminium ion이 된다. 4단계: 또 하나의 $\mathrm{BH}_3$ 의 B–H(파랑)가 iminium 탄소(빨강)에 hydride를 주고 C=N π 전자는 B와 결합해 amine–borane 착물이 된다(착물은 그리지 않았다). 마지막으로 $\mathrm{H}_2\mathrm{O}$ 퀜치(위 줄의 생성물로 가는 화살표)로 3차 amine이 나온다. 슬라이드는 4단계를 N 근처에서 고리 모양으로 도는 화살표로 그렸고, 여기서는 C=N 결합에서 B로 가는 화살표 하나로 줄였다. 검토 의견: 전자 수를 맞추면 C=N π 전자는 먼저 N의 비공유 전자쌍이 되고 그것이 B에 배위해 N–B 결합을 만드는 것이며, hydride를 내놓은 $\mathrm{BH}_3$ 는 $\mathrm{BH}_2^+$ 꼴이 되므로 실제로는 $\mathrm{H_2B{-}O^-}$ 와 짝을 이룬 B–H 종이 hydride를 주는 편이 자연스럽다. 슬라이드의 단순화를 그대로 따랐다. 보충: 3단계의 이탈기를 $\mathrm{H_2B{-}O^-}$ 로 그린 것은 보충이다. (보충 근거: Clayden p.531–532)
+
 ![lactam C=O → CH2, ester 유지](../../figures/L05/bh3_lactam.svg)
 
 그림: $BH_3$ 는 lactam C=O(빨강)를 $CH_2$ (초록)로 환원하고 ester는 남긴다.
@@ -506,13 +558,7 @@ N,N-dimethylpivalamide(79%)를 예로 단계를 따라가 보자.
 4. 또 다른 BH<sub>3</sub>의 수소화물이 iminium 탄소에 붙어 amine-보레인 착물(N-B 결합)이 된다.
 5. H<sub>2</sub>O로 퀜치하면 유리 3차 amine RCH<sub>2</sub>NMe<sub>2</sub>가 나온다.
 
-![BH3 amide 환원 1부: O가 BH3에 배위하고 분자 내 수소화물 전달로 tetrahedral intermediate가 생긴다](../../figures/L05/bh3_amide_step1.svg)
-
-그림: 1-2번 단계. 왼쪽에서 carbonyl O의 비공유 전자쌍(파랑)이 BH<sub>3</sub>의 빈 p 오비탈(빨강 B)로 들어가고, N의 비공유 전자쌍이 C–N 쪽으로 밀어 C=N<sup>+</sup> 성격을 만든다(새 O–B 결합은 초록). 가운데 착물에서는 B–H 결합(파랑)의 수소화물이 C=N<sup>+</sup> 탄소(빨강)로 옮겨 가고, C=N π 전자는 N으로 돌아간다. 그 결과 오른쪽 tetrahedral intermediate(새 C–H는 초록)가 생긴다.
-
-![BH3 amide 환원 2부: tetrahedral intermediate가 무너져 iminium 이온이 되고 두 번째 수소화물을 받아 amine이 된다](../../figures/L05/bh3_amide_step2.svg)
-
-그림: 3-5번 단계. 왼쪽에서 N의 비공유 전자쌍(파랑)이 C–N 결합 쪽으로 내려와 C=N<sup>+</sup>를 만들고, 빨간 C–O 결합의 전자는 O로 가서 O–BH<sub>2</sub>가 떨어져 나간다. 가운데에서는 또 하나의 BH<sub>3</sub>의 B–H(파랑)가 iminium 탄소(빨강)에 수소화물을 주고, C=N π 전자는 N을 거쳐 B와 결합해 amine-보레인 착물(초록 N–B)이 된다. 슬라이드는 이 과정을 N 근처에서 고리 모양으로 도는 화살표로 그렸고, 여기서는 C=N 결합에서 B로 가는 화살표 하나로 줄였다. 마지막으로 H<sub>2</sub>O 퀜치로 3차 amine이 나온다.
+(이 단계의 메커니즘 그림은 위 N,N-dimethylpivalamide 반응식 바로 아래의 종합 그림에 합쳤다. 화살표의 의미는 그 그림 설명을 본다.)
 
 3번 단계가 핵심이다. ester라면 tetrahedral intermediate에서 OR이 떨어져 나가지만, amide는 O(붕소에 붙어 좋은 leaving group이 된)가 떨어지고 N이 남는다. 그래서 alcohol이 아니라 amine이 된다.[16]
 
@@ -530,9 +576,9 @@ $$
 2. tetrahedral intermediate R-CH(OEt)-O-Al(i-Bu)<sub>2</sub>가 생긴다. 이 intermediate는 -70 °C에서 안정해서 무너지지 않는다. 무너지지 않으니 aldehyde가 생기지 않고, 따라서 두 번째 수소화물을 받을 대상도 없다.
 3. 반응이 끝난 뒤 H<sub>3</sub>O<sup>+</sup>로 처리하면 intermediate가 가수분해되어 그제야 aldehyde가 풀려난다.
 
-![DIBAL-H가 ester 산소에 배위한 뒤 수소화물을 전달해 저온에서 안정한 tetrahedral intermediate를 만들고, 산 처리로 aldehyde가 나오는 과정](../../figures/L05/dibal_ester.svg)
+![DIBAL-H에 의한 ester의 aldehyde 환원 종합 메커니즘: Al이 carbonyl O에 배위하고 Al–H의 hydride가 분자 내에서 carbonyl 탄소로 옮겨 가 −70 °C에서 안정한 tetrahedral intermediate가 되며, 산 처리로 aldehyde와 EtOH가 나온다](../../figures/L05/dibal_ester_mech.svg)
 
-그림: 왼쪽은 Al이 carbonyl O에 배위한 착물이다(O<sup>+</sup>–Al<sup>-</sup>). Al–H 결합(파랑)의 수소화물이 carbonyl 탄소(빨강)로 옮겨 가고, C=O π 전자는 O로 간다. 가운데 tetrahedral intermediate(새 C–H는 초록)는 −70 °C에서 무너지지 않는다. H<sub>3</sub>O<sup>+</sup> 처리 후에야 aldehyde가 나온다.
+그림: 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(위 줄의 화살표): carbonyl O의 비공유 전자쌍(파랑, Lewis base)이 Al의 빈 p orbital(빨강, Lewis acid)로 들어가 Lewis adduct($\mathrm{O}^+$–$\mathrm{Al}^-$)가 된다. 2단계: Al–H 결합(파랑)의 hydride가 분자 내에서 carbonyl 탄소(빨강)로 옮겨 가고 C=O π 전자는 O로 올라가 tetrahedral intermediate가 된다(새 C–H는 초록). 이 intermediate는 −70 °C에서 무너지지 않으므로 aldehyde가 생기지 않고 두 번째 hydride를 받지도 않는다. 3단계(위쪽 화살표): 반응이 끝난 뒤 $\mathrm{H_3O^+}$ 로 처리하면 intermediate가 가수분해되어 aldehyde와 EtOH가 나온다. R은 $n\text{-}\mathrm{C_{11}H_{23}}$ 이고 알루미늄 부산물은 그리지 않았다. 보충: 슬라이드는 1–2단계까지 그렸고, 3단계 화살표(workup)와 Lewis adduct 단계의 분리는 보충이다. (보충 근거: Clayden p.533)
 
 즉 aldehyde를 "수소화물이 다 사라진 뒤에야 꺼내는" 전략이다. 저온이 필수인 이유도 여기에 있다. 슬라이드의 질문 "ester를 aldehyde로 바꾸는 다른 방법은?"은 연습 문제 7번으로 옮겼다.
 
