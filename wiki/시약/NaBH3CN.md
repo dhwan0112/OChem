@@ -40,7 +40,7 @@ reductive amination에서 실제로 hydride를 받는 것은 carbonyl이 아니�
 - $\text{pyrrolidine} + \text{2-methylpropanal} \xrightarrow{\mathrm{NaBH_3CN}} \text{1-isobutylpyrrolidine}$
 
   (3차)
-- $\text{cyclohexanone} \xrightarrow[52\text{–}54\unicode{x25}]{(1)\ \mathrm{(CH_3)_2NH};\ (2)\ \mathrm{NaBH_3CN}} \text{N,N-dimethylcyclohexanamine}$
+- $\text{cyclohexanone} \xrightarrow[(2)\ \mathrm{NaBH_3CN}]{(1)\ \mathrm{(CH_3)_2NH}} \text{N,N-dimethylcyclohexanamine}$ (수율 52–54%)
 - 거미 독소 전구체: aldehyde 조각과 1차 amine 조각을 NaCNBH₃(20 °C, 2 h)로 이어 2차 amine(48%)을 얻는다([L5 연습 문제](../../practice/L05_Exercises.md) 2번).
 
 (L5) (출처: L5 p.10, p.12, p.14)
