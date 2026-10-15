@@ -32,9 +32,7 @@ acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nuc
 
 1. α-alkylation(α-alkylation):
 
-   $$
-   \mathrm{R{-}C(O^-){=}CH_2} + \mathrm{Br{-}CH_2R'} \longrightarrow \mathrm{R{-}CO{-}CH_2{-}CH_2R'}
-   $$
+   $\mathrm{R{-}C(O^-){=}CH_2} + \mathrm{Br{-}CH_2R'} \longrightarrow \mathrm{R{-}CO{-}CH_2{-}CH_2R'}$
 
    S_N2로 Br⁻가 떨어진다.
 2. aldol reaction: enolate + aldehyde/ketone `R'–CO–R''` ⇌ β-hydroxy carbonyl `R–CO–CH₂–C(OH)R'R''` ⇌ (탈수) α,β-unsaturated carbonyl `R–CO–CH=CR'R''`. 각 단계가 가역으로 그려져 있다.

@@ -31,28 +31,16 @@ reductive amination에서 실제로 hydride를 받는 것은 carbonyl이 아니�
 
 슬라이드 조건은 NaBH₃CN, pH 3–4, EtOH다.[^1]
 
--
-  $$
-  \text{3-methylbutanal} + \mathrm{NH_3} \xrightarrow{\mathrm{NaBH_3CN}} \text{3-methylbutane-1-amine}
-  $$
+- $\text{3-methylbutanal} + \mathrm{NH_3} \xrightarrow{\mathrm{NaBH_3CN}} \text{3-methylbutane-1-amine}$
 
   (1차)
--
-  $$
-  \text{cyclohexylmethanamine} + \text{acetone} \xrightarrow{\mathrm{NaBH_3CN}} \text{N-(cyclohexylmethyl)propane-2-amine}
-  $$
+- $\text{cyclohexylmethanamine} + \text{acetone} \xrightarrow{\mathrm{NaBH_3CN}} \text{N-(cyclohexylmethyl)propane-2-amine}$
 
   (2차)
--
-  $$
-  \text{pyrrolidine} + \text{2-methylpropanal} \xrightarrow{\mathrm{NaBH_3CN}} \text{1-isobutylpyrrolidine}
-  $$
+- $\text{pyrrolidine} + \text{2-methylpropanal} \xrightarrow{\mathrm{NaBH_3CN}} \text{1-isobutylpyrrolidine}$
 
   (3차)
--
-  $$
-  \text{cyclohexanone} \xrightarrow[52\text{–}54\%]{(1)\ \mathrm{(CH_3)_2NH};\ (2)\ \mathrm{NaBH_3CN}} \text{N,N-dimethylcyclohexanamine}
-  $$
+- $\text{cyclohexanone} \xrightarrow[52\text{–}54\unicode{x25}]{(1)\ \mathrm{(CH_3)_2NH};\ (2)\ \mathrm{NaBH_3CN}} \text{N,N-dimethylcyclohexanamine}$
 - 거미 독소 전구체: aldehyde 조각과 1차 amine 조각을 NaCNBH₃(20 °C, 2 h)로 이어 2차 amine(48%)을 얻는다([L5 연습 문제](../../practice/L05_Exercises.md) 2번).
 
 (L5) (출처: L5 p.10, p.12, p.14)
