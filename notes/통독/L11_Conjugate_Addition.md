@@ -88,7 +88,7 @@ $$
 1차 또는 2차 amine은 α,β-unsaturated carbonyl 화합물에 첨가해서 **β-아미노 carbonyl 화합물**을 준다.
 
 $$
-\mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3} \xrightarrow[75\%]{\mathrm{MeNH_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(NHMe){-}CH_2{-}CO{-}CH_3}
+\mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3} \xrightarrow[75\unicode{x25}]{\mathrm{MeNH_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(NHMe){-}CH_2{-}CO{-}CH_3}
 $$
 
 ![MeNH2가 메시틸 oxide의 β-탄소를 공격해 쌍극성 이온 enolate가 되는 1단계](../../figures/L11/amine_addition.svg)
@@ -116,7 +116,7 @@ $$
 **만드는 법**:
 
 $$
-\mathrm{CuBr} + 2\ \mathrm{R{-}Li} \xrightarrow[-78\,{}^\circ\mathrm{C}]{\mathrm{Et_2O}} \mathrm{R_2CuLi} + \mathrm{LiBr}
+\mathrm{CuBr} + 2\ \mathrm{R{-}Li} \xrightarrow[-78\thinspace{}^\circ\mathrm{C}]{\mathrm{Et_2O}} \mathrm{R_2CuLi} + \mathrm{LiBr}
 $$
 
 이렇게 만든 cuprate는 불안정해서 만든 즉시 써야 한다.
@@ -124,7 +124,7 @@ $$
 **구리 촉매를 써서 반응계 in situ 만드는 법**:
 
 $$
-\text{isophorone (3,5,5-trimethylcyclohex-2-en-1-one)} \xrightarrow[\mathrm{Et_2O},\ 83\%]{\mathrm{MeMgBr},\ \mathrm{CuCl}\ (0.01\ \text{eq})} \text{3,3,5,5-tetramethylcyclohexanone}
+\text{isophorone (3,5,5-trimethylcyclohex-2-en-1-one)} \xrightarrow[\mathrm{Et_2O},\ 83\unicode{x25}]{\mathrm{MeMgBr},\ \mathrm{CuCl}\ (0.01\ \text{eq})} \text{3,3,5,5-tetramethylcyclohexanone}
 $$
 
 ![isophorone + MeMgBr/CuCl → 3,3,5,5-tetramethylcyclohexanone](../../figures/L11/isophorone_cuprate.svg)
@@ -318,7 +318,7 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 이 순서는 3.1절의 표를 뒤집은 것과 같다. amide는 carbonyl이 가장 덜 친전자적이어서 conjugate addition을 가장 잘 받는다. 예:
 
 $$
-\text{cyclohexanone} \xrightarrow{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow{\mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}} \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone}\ (60\%)
+\text{cyclohexanone} \xrightarrow{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow{\mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}} \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone}\ (60\unicode{x25})
 $$
 
 ![cyclohexanone enolate + (E)-CH3CH=CHCONMe2 → Michael (60%)](../../figures/L11/michael_cyclohexanone_amide.svg)
@@ -334,7 +334,7 @@ $$
 **Li+는 1,2(aldol)를 돕는다.**
 
 $$
-\text{ethyl isobutyrate}\ \mathrm{((CH_3)_2CH{-}CO_2Et)} \xrightarrow[-78\,{}^\circ\mathrm{C},\ \mathrm{THF}]{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow{\text{3-methylbut-2-enal},\ \mathrm{(CH_3)_2C{=}CH{-}CHO}} \mathrm{(CH_3)_2C{=}CH{-}CH(OH){-}C(CH_3)_2{-}CO_2Et}\ (72\%)
+\text{ethyl isobutyrate}\ \mathrm{((CH_3)_2CH{-}CO_2Et)} \xrightarrow[-78\thinspace{}^\circ\mathrm{C},\ \mathrm{THF}]{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow{\text{3-methylbut-2-enal},\ \mathrm{(CH_3)_2C{=}CH{-}CHO}} \mathrm{(CH_3)_2C{=}CH{-}CH(OH){-}C(CH_3)_2{-}CO_2Et}\ (72\unicode{x25})
 $$
 
 ![ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct](../../figures/L11/isobutyrate_12.svg)
@@ -346,7 +346,7 @@ $$
 **thermodynamic enolate로 4차 탄소 만들기.**
 
 $$
-\text{2-methylcyclopentanone} + \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow[53\%]{\mathrm{\mathit{t}\text{-}BuOK}} \text{2-methyl-2-}(\mathrm{CH_2CH_2CO_2Me})\text{cyclopentanone}
+\text{2-methylcyclopentanone} + \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow[53\unicode{x25}]{\mathrm{\mathit{t}\text{-}BuOK}} \text{2-methyl-2-}(\mathrm{CH_2CH_2CO_2Me})\text{cyclopentanone}
 $$
 
 ![2-methylcyclopentanone + methyl acrylate → Michael (53%)](../../figures/L11/michael_methylcyclopentanone.svg)
@@ -453,7 +453,7 @@ enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addit
 conjugate addition은 의약품 합성에도 쓰인다. 슬라이드의 예는 도파민 dopamine antagonist인 1-propyl-3-(2,5-dimethoxyphenyl)piperidine의 합성이다.[^5]
 
 $$
-\text{ethyl 2-(2,5-dimethoxyphenyl)acetate} \xrightarrow{\mathrm{CH_2{=}CH{-}CN},\ \text{Triton B}\ (\mathrm{PhCH_2NMe_3^+\,OH^-})} [\text{빈칸 1}] \xrightarrow{\mathrm{H_2/Pd/C}} [\text{빈칸 2}] \xrightarrow{\text{alkylation and reduction}} \text{생성물}
+\text{ethyl 2-(2,5-dimethoxyphenyl)acetate} \xrightarrow{\mathrm{CH_2{=}CH{-}CN},\ \text{Triton B}\ (\mathrm{PhCH_2NMe_3^+\thinspace OH^-})} [\text{빈칸 1}] \xrightarrow{\mathrm{H_2/Pd/C}} [\text{빈칸 2}] \xrightarrow{\text{alkylation and reduction}} \text{생성물}
 $$
 
 Triton B는 수산화 benzyltrimethylammonium이고, ester α-H를 떼는 염기 역할을 한다. 빈칸은 연습 문제로 옮겼다.
