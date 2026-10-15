@@ -40,7 +40,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 3번 단계에서 짐작할 수 있듯, BH₄⁻ 하나는 수소화물 네 개를 모두 쓸 수 있다. 슬라이드의 stoichiometry가 이것을 보여 준다.
 
 $$
-4\ \mathrm{R_2CO} + \mathrm{NaBH_4} \longrightarrow \mathrm{Na[B(OCHR_2)_4]} \xrightarrow{4\ \mathrm{H_2O}} \mathrm{NaB(OH)_4} + 4\ \mathrm{R_2CHOH}
+\begin{aligned} &4\ \mathrm{R_2CO} + \mathrm{NaBH_4} \longrightarrow \mathrm{Na[B(OCHR_2)_4]} \xrightarrow{\ 4\ \mathrm{H_2O}\ \mathstrut} \mathrm{NaB(OH)_4} \cr &\qquad + 4\ \mathrm{R_2CHOH} \end{aligned}
 $$
 
 (출처: L5 p.20)

@@ -169,7 +169,7 @@ E 신호가 δ 15.5라는 극단적인 낮은 장(downfield)에 있는 것은 �
 enol이 정말 nucleophile로 작용한다는 증거는 무엇일까? 가장 간단한 예가 halogenation이다.
 
 $$
-\text{아세톤} \xrightarrow[\mathrm{HOAc}]{\mathrm{Br_2}} \text{브로모아세톤}(\mathrm{CH_3COCH_2Br})
+\text{아세톤} \xrightarrow[\mathrm{HOAc}]{\ \mathrm{Br_2}\ \mathstrut} \text{브로모아세톤}(\mathrm{CH_3COCH_2Br})
 $$
 
 ![acetone + Br2/HOAc → bromoacetone](../../figures/L10/acetone_bromination.svg)
@@ -193,7 +193,7 @@ $$
 비대칭 ketone에서 특정 α-탄소만 halogenate하고 싶다면 어떻게 해야 할까? 슬라이드의 해법은 enol을 silyl enol ether의 형태로 "고정"하는 것이다.
 
 $$
-\mathrm{R{-}CH_2{-}CO{-}CH_3} \xrightarrow{\mathrm{LDA}} \mathrm{R{-}CH_2{-}C(OLi){=}CH_2} \xrightarrow{\mathrm{Me_3SiCl}} \mathrm{R{-}CH_2{-}C(OSiMe_3){=}CH_2} \xrightarrow{\mathrm{Br_2}} \mathrm{R{-}CH_2{-}CO{-}CH_2Br}
+\begin{aligned} &\mathrm{R{-}CH_2{-}CO{-}CH_3} \xrightarrow{\mathrm{LDA}} \mathrm{R{-}CH_2{-}C(OLi){=}CH_2} \cr &\qquad \xrightarrow{\ \mathrm{Me_3SiCl}\ \mathstrut} \mathrm{R{-}CH_2{-}C(OSiMe_3){=}CH_2} \cr &\qquad \xrightarrow{\ \mathrm{Br_2}\ \mathstrut} \mathrm{R{-}CH_2{-}CO{-}CH_2Br} \end{aligned}
 $$
 
 LDA(lithium diisopropylamide)는 부피가 큰 강염기라 가장 덜 least hindered α-H, 여기서는 CH₃의 H를 떼어낸다. 이렇게 생긴 덜 치환된 lithium enolate를 Me₃SiCl로 산소에서 silyl화하면, 위치가 정해진 중성 enol 등가체인 silyl enol ether가 된다. 이것을 Br₂와 반응시키면 덜 치환된 α-탄소(CH₃ 쪽)에 Br이 들어간다. (→ [L7](L07_Enolate_Alkylation.md) enolate 형성의 regioselectivity은 enolate 강의 문서 참고)
@@ -215,7 +215,7 @@ enol의 산소 대신 질소가 붙어 있으면 어떻게 될까? 그것이 ena
 대표적인 사용법은 Stork enamine alkylation이다.
 
 $$
-\text{사이클로헥사논} \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{1-(cyclohex-1-en-1-yl)pyrrolidine} \xrightarrow{1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}} \text{2-알킬사이클로헥사논}
+\begin{aligned} &\text{사이클로헥사논} \cr &\qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{1-(cyclohex-1-en-1-yl)pyrrolidine} \cr &\qquad \xrightarrow{\ 1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}\ \mathstrut} \text{2-알킬사이클로헥사논} \end{aligned}
 $$
 
 ![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
@@ -245,7 +245,7 @@ aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자�
 첫 번째 예는 pentane알이다.
 
 $$
-\mathrm{OHC{-}CH_2CH_2CH_2CH_3} \xrightarrow{\mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{1.\ \mathrm{BrCH_2CO_2Et}} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et}
+\begin{aligned} &\mathrm{OHC{-}CH_2CH_2CH_2CH_3} \cr &\qquad \xrightarrow{\ \mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}\ \mathstrut} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \cr &\qquad \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{BrCH_2CO_2Et}\ \mathstrut} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et} \end{aligned}
 $$
 
 ![pentanal + (i-Bu)2NH → enamine](../../figures/L10/enamine_pentanal.svg)
@@ -261,7 +261,7 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 두 번째 예는 α-H가 하나뿐인 2-ethylhexanal이다.
 
 $$
-\mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{1.\ \mathrm{CH_2{=}CH{-}CH_2Br}} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)}
+\begin{aligned} &\mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \cr &\qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \cr &\qquad \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{CH_2{=}CH{-}CH_2Br}\ \mathstrut} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)} \end{aligned}
 $$
 
 ![enamine을 이용한 aldehyde의 α-allylation (1/3)](../../figures/L10/stork_enamine_aldehyde_1.svg)
@@ -284,8 +284,9 @@ $$
 enamine을 화학양론적으로 만들어 쓰지 않고, amine을 촉매로 돌려 쓸 수는 없을까? 2000년 List, Lerner, Barbas가 그 답을 보였다.[15] amino acid L-proline이 enamine을 거쳐 직접 비대칭 aldol 반응을 촉매한 것이다. 이 업적은 2021년 노벨 화학상으로 이어졌다.[16]
 
 $$
-\text{아세톤} + \text{4-나이트로벤즈알데하이드} \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온}
+\begin{aligned} &\text{아세톤} + \text{4-나이트로벤즈알데하이드} \cr &\qquad \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온} \end{aligned}
 $$
+
 (아세톤 20 vol%; L-프롤린 30 mol%)
 
 68 % 수율, 76 % ee

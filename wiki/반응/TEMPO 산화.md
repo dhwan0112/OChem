@@ -16,6 +16,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 $$
 \mathrm{RCH_2OH} + \mathrm{NaOCl} \xrightarrow[\mathrm{NaHCO_3},\ \mathrm{CH_2Cl_2{-}H_2O},\ 0\thinspace{}^\circ\mathrm{C}]{\mathrm{TEMPO},\ \mathrm{KBr}} \mathrm{RCHO}
 $$
+
 (KBr 0.1 mol equiv, TEMPO 0.01 mol equiv)
 
 ## 메커니즘 (NaOCl 계)
@@ -41,6 +42,7 @@ $$
 $$
 \mathrm{RCH_2OH} \xrightarrow[\mathrm{NMI},\ \mathrm{MeCN},\ \text{rt}]{\mathrm{(bpy)CuI},\ \mathrm{TEMPO}} \mathrm{RCHO}
 $$
+
 (산화제: air 또는 $\mathrm{O_2}$)
 ($\mathrm{(bpy)CuI}$ 5%, TEMPO 5%, NMI 10%)
 
@@ -63,7 +65,7 @@ $$
 - $\text{1-heptanol} \xrightarrow[\mathrm{KBr},\ \mathrm{NaHCO_3}]{\mathrm{TEMPO},\ \mathrm{NaOCl}} \text{heptanal}$ ($\mathrm{CH_2Cl_2{-}H_2O}$, 0 °C)
 
   (L6)
-- $\text{cinnamyl alcohol}\ \mathrm{PhCH{=}CHCH_2OH} \xrightarrow{\text{같은 조건}} \text{cinnamaldehyde}\ \mathrm{PhCH{=}CHCHO}$
+- $\text{cinnamyl alcohol}\ \mathrm{PhCH{=}CHCH_2OH}$ $\xrightarrow{\text{같은 조건}} \text{cinnamaldehyde}\ \mathrm{PhCH{=}CHCHO}$
 
   (C=C 유지) (L6)
 

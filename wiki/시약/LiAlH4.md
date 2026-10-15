@@ -30,10 +30,10 @@ LiAlH₄는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, et
 
 ### carbonyl 환원
 
-- $\text{2,2-dimethylpropanoic acid}\ \mathrm{(CH_3)_3CCO_2H} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}} \text{neopentyl alcohol}\ \mathrm{(CH_3)_3CCH_2OH}$ (수율 92%)
+- $\text{2,2-dimethylpropanoic acid}\ \mathrm{(CH_3)_3CCO_2H}$ $\xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{\ (1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}\ \mathstrut} \text{neopentyl alcohol}\ \mathrm{(CH_3)_3CCH_2OH}$ (수율 92%)
 
   (L5)
-- $\mathrm{RCO_2R'} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}} \mathrm{RCH_2OH} + \mathrm{R'OH}$
+- $\mathrm{RCO_2R'} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{\ (1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}\ \mathstrut} \mathrm{RCH_2OH} + \mathrm{R'OH}$
 
   (L5)
 
@@ -43,10 +43,10 @@ ester를 환원하면 alcohol이 두 개 나온다는 점에 주의하자. acyl 
 
 LiAlH₄는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠을 H로 바꾼다.
 
-- $\text{2-bromopentane} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \text{ether}} \text{pentane}$
+- $\text{2-bromopentane} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{\ (1)\ \mathrm{LiAlH_4},\ \text{ether}\ \mathstrut} \text{pentane}$
 
   (L5)
-- $\text{(1-bromoethyl)benzene}\ \mathrm{PhCH(Br)CH_3} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlD_4},\ \text{ether}} \mathrm{PhCHDCH_3}$
+- $\text{(1-bromoethyl)benzene}\ \mathrm{PhCH(Br)CH_3}$ $\xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{\ (1)\ \mathrm{LiAlD_4},\ \text{ether}\ \mathstrut} \mathrm{PhCHDCH_3}$
 
   (L5)
 

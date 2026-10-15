@@ -78,7 +78,7 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 그렇다면 해결책은 무엇일까? 답은 단순하다. FG1과 FG2가 있는 분자에서 FG2를 반응시키고 싶은데 FG1이 방해한다면, FG1을 보호하고 → FG2에서 반응시키고 → FG1을 탈보호하면 된다.
 
 $$
-\mathrm{FG_1{\sim}FG_2} \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE}
+\begin{aligned} &\mathrm{FG_1{\sim}FG_2} \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \cr &\qquad \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE} \end{aligned}
 $$
 
 ![보호–반응–탈보호 흐름](../../figures/L12/pg_strategy.svg)
@@ -141,7 +141,7 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 
 
 $$
-\mathrm{ROH} \xrightarrow[\text{imidazole}]{\mathrm{R'_3SiCl}} \mathrm{ROSiR'_3}
+\mathrm{ROH} \xrightarrow[\text{imidazole}]{\ \mathrm{R'_3SiCl}\ \mathstrut} \mathrm{ROSiR'_3}
 $$
 
 ![TBSCl/imidazole에 의한 alcohol 보호](../../figures/L12/tbs_protection_imidazole.svg)
@@ -157,7 +157,7 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 그래서 먼저 OH를 TBDMS 에테르로 바꾼다.
 
 $$
-\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \xrightarrow[\text{imidazole}]{\mathrm{\mathit{t}\text{-}BuMe_2SiCl}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
+\begin{aligned} &\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \cr &\qquad \xrightarrow[\text{imidazole}]{\ \mathrm{\mathit{t}\text{-}BuMe_2SiCl}\ \mathstrut} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \cr &\qquad \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH} \end{aligned}
 $$
 
 ![TBS 보호 후 acetylide alkylation (1/2)](../../figures/L12/tbs_acetylide_1.svg)
@@ -268,7 +268,7 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 Boc는 Boc2O("Boc anhydride")와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. amine N이 무수물의 carbonyl 탄소를 공격하고, tetrahedral intermediate에서 t-BuOCO2-가 떨어져 나간다.[7]
 
 $$
-\text{메티오닌} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}
+\text{메티오닌} \xrightarrow{\ \mathrm{Boc_2O},\ \text{base}\ \mathstrut} \mathrm{Boc{-}Met}
 $$
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
@@ -372,7 +372,7 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 **예제 1 (덜 반응성인 ester만 반응시키기).** ethyl acetoacetate의 ketone을 먼저 acetal로 가린다. 그러면 PhMgBr 2당량은 남은 ester를 공격할 수밖에 없다. 첫 번째 첨가 후 EtO-가 떨어져 ketone이 되고, 이 ketone에 두 번째 PhMgBr이 붙어 3차 alcohol이 된다. 마지막에 산성 수용액으로 처리하면 acetal이 벗겨진다.
 
 $$
-\mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}} \text{케톤만 아세탈화} \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{CH_3COCH_2C(OH)Ph_2}
+\begin{aligned} &\mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \mathstrut} \text{케톤만 아세탈화} \cr &\qquad \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \cr &\qquad \xrightarrow{\ \mathrm{H^+},\ \mathrm{H_2O}\ \mathstrut} \mathrm{CH_3COCH_2C(OH)Ph_2} \end{aligned}
 $$
 
 ![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (1/3)](../../figures/L12/acetal_grignard_ketoester_1.svg)
@@ -386,14 +386,14 @@ $$
 
 **예제 2 (불가능한 Grignard reagent 만들기).** ketone이 있으면 Grignard 시약을 만들 수 없었다. 그렇다면 ketone을 가리면 된다.
 
-1. $\mathrm{CH_3CO(CH_2)_3Br} \xrightarrow{\mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \text{촉매}} \text{아세탈-}\mathrm{(CH_2)_3Br}$
+1. $\mathrm{CH_3CO(CH_2)_3Br} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \text{촉매}\ \mathstrut} \text{아세탈-}\mathrm{(CH_2)_3Br}$
 2. $\xrightarrow[\mathrm{Et_2O}]{\mathrm{Mg}} \text{아세탈-}\mathrm{(CH_2)_3MgBr}$
 
    ketone이 가려져 있으니 이제 Grignard 시약이 안정하게 존재할 수 있다.
-3. $\xrightarrow{\mathrm{HCO_2Et}} (\text{아세탈-}\mathrm{(CH_2)_3})_2\mathrm{CHOH}$
+3. $\xrightarrow{\ \mathrm{HCO_2Et}\ \mathstrut} (\text{아세탈-}\mathrm{(CH_2)_3})_2\mathrm{CHOH}$
 
    ethyl 포메이트에 Grignard reagent 2당량이 붙어 2차 alcohol이 된다.[11]
-4. $\xrightarrow{\mathrm{H^+},\ \mathrm{H_2O}} \mathrm{(CH_3CO(CH_2)_3)_2CHOH}$
+4. $\xrightarrow{\ \mathrm{H^+},\ \mathrm{H_2O}\ \mathstrut} \mathrm{(CH_3CO(CH_2)_3)_2CHOH}$
 
    (6-hydroxyundecane-2,10-dione) : 두 acetal이 한꺼번에 벗겨진다.
 

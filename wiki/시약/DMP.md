@@ -16,6 +16,7 @@ menthol 경로의 "geraniol → geranial" 물음표(→ [alcohol oxidation](../�
 $$
 \text{geraniol} \xrightarrow[\mathrm{CH_2Cl_2}]{\mathrm{DMP}} \text{geranial}
 $$
+
 (수율 84%)
 
 aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 그렇다면 왜 DMP를 많이 쓸까? 슬라이드는 세 가지 장점을 든다. 첫째, hypervalent iodine(초원자가 iodine) 시약은 독성이 낮고 안전하며 다루기 쉽고 환경 부담이 적다. 둘째, 온도와 pH가 온화하다(실온 근처, 중성). 셋째, 복잡한 기질의 민감한 작용기를 잘 tolerance of sensitive functional groups. (출처: L6c p.7)
@@ -61,7 +62,7 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
   (L6) (출처: L6c p.7)
 - "3 = 1 + 2": Boger의 vancomycin 계열 합성
 
-  $\mathrm{R{-}CH_2OH} \xrightarrow{\text{Dess–Martin}} \mathrm{R{-}CHO} \xrightarrow{\mathrm{NaClO_2}} \mathrm{R{-}CO_2H}$
+  $\mathrm{R{-}CH_2OH} \xrightarrow{\text{Dess–Martin}} \mathrm{R{-}CHO} \xrightarrow{\ \mathrm{NaClO_2}\ \mathstrut} \mathrm{R{-}CO_2H}$
 
   (2단계 77%). 두 번째 단계는 [Pinnick oxidation](../반응/피닉%20산화.md)다(→ [alcohol oxidation](../반응/알코올%20산화.md)). (L6) (출처: L6c p.16–17)
 

@@ -26,7 +26,7 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 예:
 
 $$
-\mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \xrightarrow[\mathrm{H_2O/\mathit{t}\text{-}BuOH}]{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO}} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2}
+\begin{aligned} &\mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \cr &\qquad \xrightarrow[\mathrm{H_2O/\mathit{t}\text{-}BuOH}]{\ \text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO}\ \mathstrut} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2} \end{aligned}
 $$
 
 (출처: L2 p.14)

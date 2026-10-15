@@ -24,7 +24,7 @@
 
 앞 강의(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) Wittig/HWE reaction 문서 참고)에서 ylide는 보통 BuLi 같은 강염기로 만들었다. 그런데 bromoacetic acid ester에서 출발한 phosphonium 염은 Na2CO3 같은 약염기로도 ylide가 된다. 왜 그럴까?
 
-답은 음전하 옆에 붙은 C=O에 있다. $\mathrm{BrCH_2CO_2R} \xrightarrow{\mathrm{PPh_3}} \mathrm{Ph_3P^+{-}CH_2CO_2R} \xrightarrow{\mathrm{Na_2CO_3}} \mathrm{Ph_3P^+{-}CH^-{-}CO_2R}$ 에서 생긴 음전하는 carbonyl 산소까지 퍼져 나가, enolate와 똑같은 모양의 공명 구조(O−가 있는 C=C)를 갖는다. 즉 anion이 안정해진 만큼 C-H가 산성이 되어 약한 염기로도 충분하다. 이렇게 콘쥬게이션하거나 anion을 안정화하는 치환기(R = H, OR, alkyl인 C(=O)R)를 가진 것을 안정화 ylide(stabilized ylide)라 한다.
+답은 음전하 옆에 붙은 C=O에 있다. $\mathrm{BrCH_2CO_2R} \xrightarrow{\ \mathrm{PPh_3}\ \mathstrut} \mathrm{Ph_3P^+{-}CH_2CO_2R}$ $\xrightarrow{\ \mathrm{Na_2CO_3}\ \mathstrut} \mathrm{Ph_3P^+{-}CH^-{-}CO_2R}$ 에서 생긴 음전하는 carbonyl 산소까지 퍼져 나가, enolate와 똑같은 모양의 공명 구조(O−가 있는 C=C)를 갖는다. 즉 anion이 안정해진 만큼 C-H가 산성이 되어 약한 염기로도 충분하다. 이렇게 콘쥬게이션하거나 anion을 안정화하는 치환기(R = H, OR, alkyl인 C(=O)R)를 가진 것을 안정화 ylide(stabilized ylide)라 한다.
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
 
@@ -167,7 +167,7 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 된다. ester α-H(pKa ~25)는 ketone보다 덜 산성이지만 LDA로는 충분하다. butanoic acid methyl을 LDA/THF로 enolate화한 뒤 ethyl iodide를 넣으면 2-ethylbutanoic acid methyl이 96%로 얻어진다:
 
 $$
-\mathrm{CH_3CH_2CH_2CO_2Me} \xrightarrow[\mathrm{THF}]{\mathrm{LDA},\ \mathrm{CH_3CH_2I}} \mathrm{(CH_3CH_2)_2CHCO_2Me}
+\mathrm{CH_3CH_2CH_2CO_2Me} \xrightarrow[\mathrm{THF}]{\ \mathrm{LDA},\ \mathrm{CH_3CH_2I}\ \mathstrut} \mathrm{(CH_3CH_2)_2CHCO_2Me}
 $$
 
 [4]
@@ -219,7 +219,7 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 실제 합성은 그 반대 순서다:
 
 $$
-\text{아세토아세트산 에틸} \xrightarrow[(2)\ \mathrm{CH_3CH_2Br}]{(1)\ \mathrm{NaOEt}} \text{2-에틸아세토아세트산 에틸} \xrightarrow[(2)\ \mathrm{H_3O^+}]{(1)\ \text{dil.}\ \mathrm{NaOH},\ \text{heat}} \text{2-에틸-3-옥소뷰탄산} \xrightarrow{\text{heat}} \text{2-펜타논} + \mathrm{CO_2}
+\begin{aligned} &\text{아세토아세트산 에틸} \cr &\qquad \xrightarrow[(2)\ \mathrm{CH_3CH_2Br}]{(1)\ \mathrm{NaOEt}} \text{2-에틸아세토아세트산 에틸} \cr &\qquad \xrightarrow[(2)\ \mathrm{H_3O^+}]{(1)\ \text{dil.}\ \mathrm{NaOH},\ \text{heat}} \text{2-에틸-3-옥소뷰탄산} \xrightarrow{\text{heat}} \text{2-펜타논} + \mathrm{CO_2} \end{aligned}
 $$
 
 ![acetoacetic ester 합성으로 2-pentanone 만들기 (1/3)](../../figures/L07/acetoacetic_ester_pentanone_1.svg)
@@ -404,7 +404,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 3. 두 가지 끊기:
    - (i) α-C와 ethyl 사이:
 
-     $\text{3-methyl뷰탄산 메틸}\ \mathrm{(CH_3)_2CHCH_2CO_2CH_3} \xrightarrow[(2)\ \mathrm{CH_3CH_2I}\ (\text{또는}\ \mathrm{EtBr})]{(1)\ \mathrm{LDA},\ \mathrm{THF},\ -78\thinspace{}^\circ\mathrm{C}} \text{목표물}$
+     $\text{3-methyl뷰탄산 메틸}\ \mathrm{(CH_3)_2CHCH_2CO_2CH_3}$ $\xrightarrow[(2)\ \mathrm{CH_3CH_2I}\ (\text{또는}\ \mathrm{EtBr})]{(1)\ \mathrm{LDA},\ \mathrm{THF},\ -78\thinspace{}^\circ\mathrm{C}} \text{목표물}$
    - (ii) α-C와 isopropyl 사이: butanoic acid methyl + LDA, 그다음 2-iodopropane(2차 halide).
    - 정답은 (i). (ii)는 2차 halide라 SN2가 느리고 E2 제거와 경쟁하여 수율이 나쁨. 1차 halide(EtI)를 쓰는 (i)가 좋음(슬라이드의 butanoic acid methyl + EtI 96% 예와 같은 유형). (출처: L7 p.10, p.13, p.14)
 
@@ -417,14 +417,14 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 그림: 위 정답 (i)의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: LDA(파랑, base)가 ester의 α-H(빨강, acid)를 떼어 lithium enolate(conjugate base)와 diisopropylamine(conjugate acid)이 된다. 2단계: enolate의 α-C(파랑, nucleophile)가 1차 halide인 EtI의 탄소(빨강, electrophile)를 SN2로 공격해 새 C–C 결합(초록)을 만들고 $\mathrm{I}^-$ 가 떠난다. 2.3의 methyl butanoate 그림과 같은 단계이고 ester 쪽 치환기(isopropyl)만 다르다. 보충: 곡선 화살표는 표준 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.10, p.13, p.14)
 
 4. 순서:
-   1. $\text{아세토아세트산 에틸} \xrightarrow[\mathrm{CH_3(CH_2)_3Br},\ \mathrm{EtOH}]{\mathrm{NaOEt}} \text{2-뷰틸아세토아세트산 에틸}$
+   1. $\text{아세토아세트산 에틸}$ $\xrightarrow[\mathrm{CH_3(CH_2)_3Br},\ \mathrm{EtOH}]{\mathrm{NaOEt}} \text{2-뷰틸아세토아세트산 에틸}$
    2. $\xrightarrow[\mathrm{CH_3(CH_2)_3Br}]{\mathrm{NaOEt}} \text{2,2-다이뷰틸아세토아세트산 에틸}\ \mathrm{CH_3COC(Bu)_2CO_2Et}$
 
       (monoalkyl 생성물에 남은 하나의 활성 α-H를 다시 제거 후 alkylation)
    3. $\xrightarrow[(2)\ \mathrm{H_3O^+}]{(1)\ \text{aq.}\ \mathrm{NaOH},\ \text{heat}} \mathrm{CH_3COC(Bu)_2CO_2H}$
 
       (β-keto acid)
-   4. $\xrightarrow[\text{heat}]{\mathrm{{-}CO_2}} \mathrm{CH_3COCH(Bu)_2}\ =\ \text{3-뷰틸-2-헵타논}$
+   4. $\xrightarrow[\text{heat}]{\ \mathrm{{-}CO_2}\ \mathstrut} \mathrm{CH_3COCH(Bu)_2}\ =\ \text{3-뷰틸-2-헵타논}$
    - 해설: acetoacetic ester 합성은 R-X마다 활성 탄소에 R을 하나씩 붙이고, 마지막에 CO2Et가 H로 바뀜. 목표물의 C3에 Bu가 두 개(C4~C7 사슬도 butyl) 있으므로 이중 alkylation. 보충: 1-butyl bromide는 1차라 SN2에 적합. (보충 근거: Clayden p.587) (출처: L7 p.16, p.17, p.20)
 
 ![ethyl acetoacetate → ethyl 2-butylacetoacetate](../../figures/L07/aae_1.svg)
@@ -453,7 +453,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
-6. $\mathrm{CH_2(CO_2Et)_2} \xrightarrow[(2)\ \mathrm{PhCH_2Br}]{(1)\ \mathrm{NaOEt}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2} \xrightarrow[(2)\ \text{dil.}\ \mathrm{H_2SO_4},\ \text{reflux},\ \mathrm{{-}CO_2}]{(1)\ \mathrm{KOH},\ \text{reflux}} \mathrm{PhCH_2CH_2COOH}$ ($\mathrm{KOH}$ 50%) ((1) KOH 대신 NaOH, (2) dil. $\mathrm{H_2SO_4}$ 대신 $\mathrm{H_3O^+}$도 가능)
+6. $\mathrm{CH_2(CO_2Et)_2}$ $\xrightarrow[(2)\ \mathrm{PhCH_2Br}]{(1)\ \mathrm{NaOEt}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2}$ $\xrightarrow[(2)\ \text{dil.}\ \mathrm{H_2SO_4},\ \text{reflux},\ \mathrm{{-}CO_2}]{(1)\ \mathrm{KOH},\ \text{reflux}} \mathrm{PhCH_2CH_2COOH}$ ($\mathrm{KOH}$ 50%) ((1) KOH 대신 NaOH, (2) dil. $\mathrm{H_2SO_4}$ 대신 $\mathrm{H_3O^+}$도 가능)
 
    해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
 
