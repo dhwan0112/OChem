@@ -18,7 +18,7 @@ amine은 좋은 nucleophile이자 염기라서 electrophile이 있는 반응에 
 Boc는 Boc2O("Boc anhydride", di-tert-butyl dicarbonate, (t-BuOCO)2O)와 염기로 씌운다. 슬라이드의 예는 methionine을 Boc-Met으로 바꾸는 반응이다. amine N이 anhydride의 carbonyl 탄소를 공격하고, [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 t-BuOCO2⁻가 떨어져 나간다.[^1]
 
 $$
-\text{methionine} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}
+\text{methionine} \xrightarrow{\ \mathrm{Boc_2O},\ \text{base}\ \mathstrut} \mathrm{Boc{-}Met}
 $$
 
 (출처: L12 p.10)
@@ -54,7 +54,7 @@ $$
 
 ## 예
 
-- $\text{methionine} \xrightarrow{\mathrm{Boc_2O},\ \text{base}} \mathrm{Boc{-}Met}$
+- $\text{methionine} \xrightarrow{\ \mathrm{Boc_2O},\ \text{base}\ \mathstrut} \mathrm{Boc{-}Met}$
 
   (L12) (출처: L12 p.10)
 - $\mathrm{Boc{-}Phe{-}Ala{-}OMe} \xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$

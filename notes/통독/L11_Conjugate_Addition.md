@@ -55,7 +55,7 @@ conjugate addition(1,4-첨가)는 α,β-unsaturated carbonyl 화합물의 C=C �
 conjugate addition은 **Michael addition**이라고도 부른다. 일반식은 다음과 같다.
 
 $$
-\mathrm{CH_2{=}CH{-}CO{-}R(OR)} \xrightarrow[(2)\ \mathrm{HA}]{(1)\ \mathrm{Nu^-}\ (\text{또는}\ \mathrm{H{-}Nu})} \mathrm{Nu{-}CH_2{-}CH_2{-}CO{-}R(OR)}
+\begin{aligned} &\mathrm{CH_2{=}CH{-}CO{-}R(OR)} \cr &\qquad \xrightarrow[(2)\ \mathrm{HA}]{(1)\ \mathrm{Nu^-}\ (\text{또는}\ \mathrm{H{-}Nu})} \mathrm{Nu{-}CH_2{-}CH_2{-}CO{-}R(OR)} \end{aligned}
 $$
 
 결과적으로 Nu와 H가 C=C를 가로질러 붙는다. Nu는 β-탄소에, H는 α-탄소에 붙는다. 이 반응에는 세 가지 조건이 있다.
@@ -66,10 +66,10 @@ $$
 슬라이드가 든 nucleophile은 CN-, RNH2, RSH, R2CuLi, enolate 등이다.
 
 예시 두 개:
-- $\text{메시틸}\ \text{oxide}(\text{mesityl oxide},\ \mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3}) \xrightarrow[25\thinspace{}^\circ\mathrm{C},\ 5\ \text{h}]{\mathrm{PhSH}} \text{4-methyl-4-(phenylthio)pentan-2-one},\ \mathrm{(CH_3)_2C(SPh){-}CH_2{-}CO{-}CH_3}$ (수율 94%)
+- $\text{메시틸}\ \text{oxide}(\text{mesityl oxide},\ \mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3})$ $\xrightarrow[25\thinspace{}^\circ\mathrm{C},\ 5\ \text{h}]{\mathrm{PhSH}} \text{4-methyl-4-(phenylthio)pentan-2-one},$ $\mathrm{(CH_3)_2C(SPh){-}CH_2{-}CO{-}CH_3}$ (수율 94%)
 
   thiol의 황은 β-탄소에 붙는다.
-- $\text{칼콘}(\text{chalcone},\ \mathrm{Ph{-}CH{=}CH{-}CO{-}Ph}) \xrightarrow[\mathrm{EtOH},\ \mathrm{HOAc}]{\mathrm{CN^-}} \mathrm{Ph{-}CH(CN){-}CH_2{-}CO{-}Ph}$ (수율 95%)
+- $\text{칼콘}(\text{chalcone},\ \mathrm{Ph{-}CH{=}CH{-}CO{-}Ph})$ $\xrightarrow[\mathrm{EtOH},\ \mathrm{HOAc}]{\mathrm{CN^-}} \mathrm{Ph{-}CH(CN){-}CH_2{-}CO{-}Ph}$ (수율 95%)
 
   CN이 β-탄소(Ph가 붙은 탄소)에 붙는다.
 
@@ -88,8 +88,9 @@ $$
 1차 또는 2차 amine은 α,β-unsaturated carbonyl 화합물에 첨가해서 **β-아미노 carbonyl 화합물**을 준다.
 
 $$
-\mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3} \xrightarrow{\mathrm{MeNH_2},\ \mathrm{H_2O}} \mathrm{(CH_3)_2C(NHMe){-}CH_2{-}CO{-}CH_3}
+\begin{aligned} &\mathrm{(CH_3)_2C{=}CH{-}CO{-}CH_3} \cr &\qquad \xrightarrow{\ \mathrm{MeNH_2},\ \mathrm{H_2O}\ \mathstrut} \mathrm{(CH_3)_2C(NHMe){-}CH_2{-}CO{-}CH_3} \end{aligned}
 $$
+
 (수율 75%)
 
 ![MeNH2가 메시틸 oxide의 β-탄소를 공격해 쌍극성 이온 enolate가 되는 1단계](../../figures/L11/amine_addition.svg)
@@ -117,7 +118,7 @@ $$
 **만드는 법**:
 
 $$
-\mathrm{CuBr} + 2\ \mathrm{R{-}Li} \xrightarrow[-78\thinspace{}^\circ\mathrm{C}]{\mathrm{Et_2O}} \mathrm{R_2CuLi} + \mathrm{LiBr}
+\mathrm{CuBr} + 2\ \mathrm{R{-}Li} \xrightarrow[-78\thinspace{}^\circ\mathrm{C}]{\ \mathrm{Et_2O}\ \mathstrut} \mathrm{R_2CuLi} + \mathrm{LiBr}
 $$
 
 이렇게 만든 cuprate는 불안정해서 만든 즉시 써야 한다.
@@ -125,8 +126,9 @@ $$
 **구리 촉매를 써서 반응계 in situ 만드는 법**:
 
 $$
-\text{isophorone (3,5,5-trimethylcyclohex-2-en-1-one)} \xrightarrow[\mathrm{CuCl}\ (0.01\ \text{eq}),\ \mathrm{Et_2O}]{\mathrm{MeMgBr}} \text{3,3,5,5-tetramethylcyclohexanone}
+\begin{aligned} &\text{isophorone (3,5,5-trimethylcyclohex-2-en-1-one)} \cr &\qquad \xrightarrow[\mathrm{CuCl}\ (0.01\ \text{eq}),\ \mathrm{Et_2O}]{\mathrm{MeMgBr}} \text{3,3,5,5-tetramethylcyclohexanone} \end{aligned}
 $$
+
 (수율 83%)
 
 ![isophorone + MeMgBr/CuCl → 3,3,5,5-tetramethylcyclohexanone](../../figures/L11/isophorone_cuprate.svg)
@@ -172,20 +174,20 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 **α,β-unsaturated acyl chloride > enal > enone > α,β-unsaturated ester > α,β-unsaturated amide**
 
 즉 carbonyl이 친전자적일수록 1,2, carbonyl이 덜 친전자적일수록 1,4로 간다. 슬라이드의 예시는 다음과 같다.
-- **1,2**: $\text{아크릴로일 chloride}\ \mathrm{CH_2{=}CH{-}COCl} \xrightarrow{\mathrm{NH_3}} \text{acrylamide}\ \mathrm{CH_2{=}CH{-}CONH_2}$[^2]
+- **1,2**: $\text{아크릴로일 chloride}\ \mathrm{CH_2{=}CH{-}COCl}$ $\xrightarrow{\ \mathrm{NH_3}\ \mathstrut} \text{acrylamide}\ \mathrm{CH_2{=}CH{-}CONH_2}$[^2]
 - **1,4**:
 
-  $\text{methyl acrylate}\ \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow{\mathrm{NH_3}} \mathrm{H_2N{-}CH_2CH_2{-}CO_2Me}$
+  $\text{methyl acrylate}\ \mathrm{CH_2{=}CH{-}CO_2Me}$ $\xrightarrow{\ \mathrm{NH_3}\ \mathstrut} \mathrm{H_2N{-}CH_2CH_2{-}CO_2Me}$
 
   (methyl 3-aminopropanoate)
 - **1,2**:
 
-  $\text{cinnamaldehyde}\ \mathrm{Ph{-}CH{=}CH{-}CHO} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaBH_4}} \mathrm{Ph{-}CH{=}CH{-}CH_2OH}$
+  $\text{cinnamaldehyde}\ \mathrm{Ph{-}CH{=}CH{-}CHO}$ $\xrightarrow[\mathrm{EtOH}]{\ \mathrm{NaBH_4}\ \mathstrut} \mathrm{Ph{-}CH{=}CH{-}CH_2OH}$
 
   (신나밀 alcohol, 97%). aldehyde라서 직접 환원된다.
 - **1,4 후 1,2**:
 
-  $\text{cyclopentenone} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaBH_4}} \text{cyclopentanol}$ (수율 99%)
+  $\text{cyclopentenone} \xrightarrow[\mathrm{EtOH}]{\ \mathrm{NaBH_4}\ \mathstrut} \text{cyclopentanol}$ (수율 99%)
 
   먼저 수소화 이온이 1,4로 들어가 cyclopentanone이 되고, 그 ketone이 다시 1,2로 환원된다(→ [L5](L05_Reduction.md) 환원 문서 참고).
 
@@ -214,10 +216,10 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 ### 3.2 요인 2: nucleophile, Grignard vs 유기구리
 
 같은 2-cyclohexenone에 같은 methyl group을 넣어도 시약에 따라 결과가 갈린다.
-- $\text{2-cyclohexenone} \xrightarrow[2.\ \mathrm{H_3O^+}]{1.\ \mathrm{CH_3MgBr},\ \text{ether 또는}\ \mathrm{CH_3Li}} \text{1-methyl-2-cyclohexen-1-ol}$ (수율 95%)
+- $\text{2-cyclohexenone}$ $\xrightarrow[2.\ \mathrm{H_3O^+}]{\ 1.\ \mathrm{CH_3MgBr},\ \text{ether 또는}\ \mathrm{CH_3Li}\ \mathstrut} \text{1-methyl-2-cyclohexen-1-ol}$ (수율 95%)
 
   **1,2-첨가**
-- $\text{2-cyclohexenone} \xrightarrow[2.\ \mathrm{H_3O^+}]{1.\ \mathrm{Li(CH_3)_2Cu},\ \text{ether}} \text{3-methylcyclohexanone}$ (수율 97%)
+- $\text{2-cyclohexenone} \xrightarrow[2.\ \mathrm{H_3O^+}]{\ 1.\ \mathrm{Li(CH_3)_2Cu},\ \text{ether}\ \mathstrut} \text{3-methylcyclohexanone}$ (수율 97%)
 
   **1,4-첨가**
 
@@ -251,10 +253,10 @@ carbonyl이 얼마나 반응성이 큰지에 따라 직접 첨가(C=O 공격) �
 ### 3.3 요인 3: 반응 조건, kinetic vs thermodynamic 생성물
 
 methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도만 바꿔도 생성물이 달라진다.
-- $\mathrm{MVK} \xrightarrow[5\text{–}10\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \text{사이아노하이드린}\ \mathrm{(CH_2{=}CH{-}C(OH)(CN){-}CH_3)}$
+- $\mathrm{MVK}$ $\xrightarrow[5\text{–}10\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \text{사이아노하이드린}\ \mathrm{(CH_2{=}CH{-}C(OH)(CN){-}CH_3)}$
 
   carbonyl에 직접 첨가한 **1,2 생성물**이다. 이 반응은 가역적이다. 이것이 **kinetic 생성물(kinetic product, P1)**이다.
-- $\mathrm{MVK} \xrightarrow[80\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \mathrm{NC{-}CH_2CH_2{-}CO{-}CH_3}\ \text{(4-oxopentanenitrile)}$
+- $\mathrm{MVK}$ $\xrightarrow[80\thinspace{}^\circ\mathrm{C}]{\mathrm{NaCN},\ \mathrm{HCN}} \mathrm{NC{-}CH_2CH_2{-}CO{-}CH_3}\ \text{(4-oxopentanenitrile)}$
 
   **1,4 생성물**. 이것이 **thermodynamic 생성물(thermodynamic product, P2)**이다.
 
@@ -284,7 +286,7 @@ methyl 비닐 ketone(MVK)에 시안화 이온을 첨가하는 반응은 온도�
 ketone에 염기를 넣어 만든 enolate(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고)는 탄소 nucleophile로서 Michael Michael acceptor의 β-탄소를 공격한다.
 
 $$
-\mathrm{R_1{-}CO{-}CH_3} \xrightarrow{\text{base}} \text{엔올레이트} \xrightarrow{\mathrm{CH_2{=}CH{-}CO{-}R_2}} \mathrm{R_1{-}CO{-}CH_2{-}CH_2{-}CH_2{-}CO{-}R_2}
+\begin{aligned} &\mathrm{R_1{-}CO{-}CH_3} \xrightarrow{\text{base}} \text{엔올레이트} \cr &\qquad \xrightarrow{\ \mathrm{CH_2{=}CH{-}CO{-}R_2}\ \mathstrut} \mathrm{R_1{-}CO{-}CH_2{-}CH_2{-}CH_2{-}CO{-}R_2} \end{aligned}
 $$
 
 1. 염기가 α-H를 떼어 enolate를 만든다.
@@ -320,8 +322,9 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 이 순서는 3.1절의 표를 뒤집은 것과 같다. amide는 carbonyl이 가장 덜 친전자적이어서 conjugate addition을 가장 잘 받는다. 예:
 
 $$
-\text{cyclohexanone} \xrightarrow{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow{\mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}} \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone}
+\begin{aligned} &\text{cyclohexanone} \xrightarrow{\mathrm{LDA}} \text{리튬 엔올레이트} \cr &\qquad \xrightarrow{\ \mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}\ \mathstrut} \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone} \end{aligned}
 $$
+
 (수율 60%)
 
 ![cyclohexanone enolate + (E)-CH3CH=CHCONMe2 → Michael (60%)](../../figures/L11/michael_cyclohexanone_amide.svg)
@@ -337,8 +340,9 @@ $$
 **Li+는 1,2(aldol)를 돕는다.**
 
 $$
-\text{ethyl isobutyrate}\ \mathrm{((CH_3)_2CH{-}CO_2Et)} \xrightarrow[-78\thinspace{}^\circ\mathrm{C},\ \mathrm{THF}]{\mathrm{LDA}} \text{리튬 엔올레이트} \xrightarrow[\mathrm{(CH_3)_2C{=}CH{-}CHO}]{\text{3-methylbut-2-enal}} \mathrm{(CH_3)_2C{=}CH{-}CH(OH){-}C(CH_3)_2{-}CO_2Et}
+\begin{aligned} &\text{ethyl isobutyrate}\ \mathrm{((CH_3)_2CH{-}CO_2Et)} \cr &\qquad \xrightarrow[-78\thinspace{}^\circ\mathrm{C},\ \mathrm{THF}]{\mathrm{LDA}} \text{리튬 엔올레이트} \cr &\qquad \xrightarrow[\mathrm{(CH_3)_2C{=}CH{-}CHO}]{\text{3-methylbut-2-enal}} \mathrm{(CH_3)_2C{=}CH{-}CH(OH){-}C(CH_3)_2{-}CO_2Et} \end{aligned}
 $$
+
 (수율 72%)
 
 ![ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct](../../figures/L11/isobutyrate_12.svg)
@@ -350,8 +354,9 @@ $$
 **thermodynamic enolate로 4차 탄소 만들기.**
 
 $$
-\text{2-methylcyclopentanone} + \mathrm{CH_2{=}CH{-}CO_2Me} \xrightarrow{\mathrm{\mathit{t}\text{-}BuOK}} \text{2-methyl-2-}(\mathrm{CH_2CH_2CO_2Me})\text{cyclopentanone}
+\begin{aligned} &\text{2-methylcyclopentanone} + \mathrm{CH_2{=}CH{-}CO_2Me} \cr &\qquad \xrightarrow{\mathrm{\mathit{t}\text{-}BuOK}} \text{2-methyl-2-}(\mathrm{CH_2CH_2CO_2Me})\text{cyclopentanone} \end{aligned}
 $$
+
 (수율 53%)
 
 ![2-methylcyclopentanone + methyl acrylate → Michael (53%)](../../figures/L11/michael_methylcyclopentanone.svg)
@@ -373,7 +378,7 @@ $$
 **1,3-다이카르보닐 화합물**:
 
 $$
-\mathrm{CH_2(CO_2Et)_2} + \mathrm{CH_3CH{=}CH{-}CO_2Et} \xrightarrow[\mathrm{EtOH},\ \text{reflux}\ 1\ \text{h}]{\mathrm{NaOEt}} \mathrm{(EtO_2C)_2CH{-}CH(CH_3){-}CH_2{-}CO_2Et}
+\begin{aligned} &\mathrm{CH_2(CO_2Et)_2} + \mathrm{CH_3CH{=}CH{-}CO_2Et} \cr &\qquad \xrightarrow[\mathrm{EtOH},\ \text{reflux}\ 1\ \text{h}]{\mathrm{NaOEt}} \mathrm{(EtO_2C)_2CH{-}CH(CH_3){-}CH_2{-}CO_2Et} \end{aligned}
 $$
 
 malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)를 공격한다.
@@ -383,8 +388,8 @@ malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)
 그림: malonate anion(파랑) → β-탄소(빨강).
 
 **nitro알케인**: nitro group α-H는 산성이 커서 약한 염기로도 nitro네이트 anion이 생긴다.
-- $\mathrm{PhCH_2NO_2} + \text{2-cyclohexenone} \xrightarrow[0\text{–}25\thinspace{}^\circ\mathrm{C},\ \text{neat}]{\mathrm{Al_2O_3}} \text{3-}(\mathrm{CH(Ph)NO_2})\text{cyclohexanone}$ (수율 92%)
-- $\mathrm{I{-}(CH_2)_4{-}CH{=}CH{-}CO_2Me} + \mathrm{CH_3NO_2} \xrightarrow[\mathrm{DMF},\ 20\thinspace{}^\circ\mathrm{C}]{\mathrm{Cs_2CO_3}} \mathrm{[I{-}(CH_2)_4{-}CH(CH_2NO_2){-}CH_2CO_2Me]} \longrightarrow \text{methyl 2-(2-nitrocyclohexyl)acetate}$ (수율 65%)
+- $\mathrm{PhCH_2NO_2} + \text{2-cyclohexenone} \xrightarrow[0\text{–}25\thinspace{}^\circ\mathrm{C},\ \text{neat}]{\ \mathrm{Al_2O_3}\ \mathstrut} \text{3-}(\mathrm{CH(Ph)NO_2})\text{cyclohexanone}$ (수율 92%)
+- $\mathrm{I{-}(CH_2)_4{-}CH{=}CH{-}CO_2Me} + \mathrm{CH_3NO_2}$ $\xrightarrow[\mathrm{DMF},\ 20\thinspace{}^\circ\mathrm{C}]{\ \mathrm{Cs_2CO_3}\ \mathstrut} \mathrm{[I{-}(CH_2)_4{-}CH(CH_2NO_2){-}CH_2CO_2Me]}$ $\longrightarrow \text{methyl 2-(2-nitrocyclohexyl)acetate}$ (수율 65%)
   1. nitro메테인의 anion이 enester의 β-탄소에 conjugate addition한다(분자 간).
   2. 생성물의 CH2NO2는 여전히 산성 α-H를 갖는다. 그래서 다시 deprotonate된 nitro네이트 탄소가 같은 분자의 C-I를 SN2로 공격해 고리를 닫는다(분자 내 alkylation).
   3. 결과는 NO2와 CH2CO2Me가 이웃한 탄소에 붙은 cyclohexane이다. conjugate addition과 alkylation이 연달아 일어난 셈이다.
@@ -410,11 +415,11 @@ malonic diethyl enolate가 크로톤산 ethyl의 β-탄소(CH3가 붙은 탄소)
 enamine은 aldehyde나 ketone이 **2차 amine**과 반응해서 생긴다(→ [L10](L10_Enol_and_Enamine.md) enol과 enamine 문서 참고). 자주 쓰는 2차 amine은 pyrrolidine, piperidine, morpholine이다.
 
 $$
-\text{cyclohexanone} + \text{pyrrolidine} \xrightarrow{\text{cat.}\ \mathrm{H^+}} \text{1-pyrrolidinylcyclohexene}\ (\text{엔아민})
+\begin{aligned} &\text{cyclohexanone} + \text{pyrrolidine} \cr &\qquad \xrightarrow{\text{cat.}\ \mathrm{H^+}} \text{1-pyrrolidinylcyclohexene}\ (\text{엔아민}) \end{aligned}
 $$
 
 $$
-\text{엔아민} \xrightarrow{1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}} \text{2-R-cyclohexanone}
+\text{엔아민} \xrightarrow{\ 1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}\ \mathstrut} \text{2-R-cyclohexanone}
 $$
 
 ![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
@@ -432,8 +437,8 @@ $$
 ### 5.2 enamine의 conjugate addition
 
 enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addition에 믿고 쓸 수 있다. 반응 뒤 H2O로 iminium/enamine을 가수분해하면 ketone이 돌아온다.
-- $\text{피롤리딘}\ \text{엔아민}(\text{사이클로헥산온 유래}) + \mathrm{CH_2{=}C(SMe){-}CO_2Me} \xrightarrow[\mathrm{MeCN}]{\text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SMe){-}CO_2Me})\text{cyclohexanone}$ (수율 95%)
-- $\text{모폴린 엔아민} + \mathrm{CH_2{=}C(SO_2Ph){-}CO{-}CH_3} \xrightarrow[\mathrm{THF},\ 2\ \text{h},\ 0\text{–}20\thinspace{}^\circ\mathrm{C}]{\mathrm{SiO_2},\ \text{then}\ \mathrm{H_2O}} \text{2-}(\mathrm{CH_2{-}CH(SO_2Ph){-}CO{-}CH_3})\text{cyclohexanone}$ (수율 75%)
+- $\text{피롤리딘}\ \text{엔아민}(\text{사이클로헥산온 유래})$ $+ \mathrm{CH_2{=}C(SMe){-}CO_2Me}$ $\xrightarrow[\mathrm{MeCN}]{\ \text{then}\ \mathrm{H_2O}\ \mathstrut} \text{2-}(\mathrm{CH_2{-}CH(SMe){-}CO_2Me})\text{cyclohexanone}$ (수율 95%)
+- $\text{모폴린 엔아민} + \mathrm{CH_2{=}C(SO_2Ph){-}CO{-}CH_3}$ $\xrightarrow[\mathrm{THF},\ 2\ \text{h},\ 0\text{–}20\thinspace{}^\circ\mathrm{C}]{\ \mathrm{SiO_2},\ \text{then}\ \mathrm{H_2O}\ \mathstrut} \text{2-}(\mathrm{CH_2{-}CH(SO_2Ph){-}CO{-}CH_3})\text{cyclohexanone}$ (수율 75%)
 
 ![pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%)](../../figures/L11/enamine_michael_sme.svg)
 
@@ -458,7 +463,7 @@ enamine은 **전하가 없고 무른 nucleophile**다. 그래서 conjugate addit
 conjugate addition은 의약품 합성에도 쓰인다. 슬라이드의 예는 도파민 dopamine antagonist인 1-propyl-3-(2,5-dimethoxyphenyl)piperidine의 합성이다.[^5]
 
 $$
-\text{ethyl 2-(2,5-dimethoxyphenyl)acetate} \xrightarrow[\text{Triton B}\ (\mathrm{PhCH_2NMe_3^+\thinspace OH^-})]{\mathrm{CH_2{=}CH{-}CN}} [\text{빈칸 1}] \xrightarrow{\mathrm{H_2/Pd/C}} [\text{빈칸 2}] \xrightarrow{\text{alkylation and reduction}} \text{생성물}
+\begin{aligned} &\text{ethyl 2-(2,5-dimethoxyphenyl)acetate} \cr &\qquad \xrightarrow[\text{Triton B}\ (\mathrm{PhCH_2NMe_3^+\thinspace OH^-})]{\ \mathrm{CH_2{=}CH{-}CN}\ \mathstrut} [\text{빈칸 1}] \xrightarrow{\ \mathrm{H_2/Pd/C}\ \mathstrut} [\text{빈칸 2}] \cr &\qquad \xrightarrow{\text{alkylation and reduction}} \text{생성물} \end{aligned}
 $$
 
 Triton B는 수산화 benzyltrimethylammonium이고, ester α-H를 떼는 염기 역할을 한다. 빈칸은 연습 문제로 옮겼다.
@@ -498,7 +503,7 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 β-탄소에 leaving group(예: F)가 붙어 있으면 어떻게 될까? conjugate addition으로 생긴 enolate가 그냥 protonate되지 않는다. 대신 전자를 되밀어 leaving group을 내보낸다. 결과적으로 β-leaving group이 nucleophile로 **치환**된다.
 
 $$
-\text{1-(2-fluorocyclohex-1-enyl)ethanone} + \mathrm{R_2NH} \longrightarrow \text{1-(2-}\mathrm{NR_2}\text{-cyclohex-1-enyl)ethanone}
+\begin{aligned} &\text{1-(2-fluorocyclohex-1-enyl)ethanone} + \mathrm{R_2NH} \cr &\qquad \longrightarrow \text{1-(2-}\mathrm{NR_2}\text{-cyclohex-1-enyl)ethanone} \end{aligned}
 $$
 
 1. **addition**: R2NH의 질소가 F가 붙은 β-탄소를 공격한다. C=C의 π전자는 산소로 가서 enolate가 된다. 이때 β-탄소는 sp3가 되고 N과 F가 함께 붙어 있다.[^7]

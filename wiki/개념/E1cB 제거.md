@@ -21,7 +21,7 @@ E2는 H와 leaving group이 한 번에 떨어지고, E1은 leaving group이 먼�
 2. enolate의 전자쌍이 내려오며 Cα=Cβ 이중결합을 만들고, β-탄소의 HO⁻를 밀어낸다.
 
 $$
-\mathrm{CH_3CH(OH)CH_2CHO} \longrightarrow \mathrm{CH_3CH{=}CHCHO}\ (\text{2-butenal},\ \text{enal}) + \mathrm{H_2O}\ (\mathrm{HO^-}\ \text{재생})
+\begin{aligned} &\mathrm{CH_3CH(OH)CH_2CHO} \cr &\qquad \longrightarrow \mathrm{CH_3CH{=}CHCHO}\ (\text{2-butenal},\ \text{enal}) \cr &\qquad + \mathrm{H_2O}\ (\mathrm{HO^-}\ \text{재생}) \end{aligned}
 $$
 
 이 반응이 앞으로 가는 원동력은 생성물의 **conjugation**이다. alkene과 carbonyl이 이어져 전자가 넓게 퍼지므로 α,β-unsaturated carbonyl 화합물이 안정하다. 더 강한 염기, 더 높은 온도, 더 긴 반응 시간일수록 탈수 생성물이 나오기 쉽다. (출처: L8 p.10, p.11)

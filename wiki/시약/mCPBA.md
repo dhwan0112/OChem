@@ -25,6 +25,7 @@ peracid는 carboxylic acid의 C(=O)와 산성 H 사이에 산소가 하나 더 �
 $$
 \text{cyclohexene} \xrightarrow{\mathrm{mCPBA}} \text{cyclohexene oxide} + \text{m-chlorobenzoic acid}
 $$
+
 (수율 95%)
 
 (출처: L1 p.14)
