@@ -73,6 +73,10 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 
 그림: 1차 allyl alcohol(빨강)이 aldehyde(초록)로 산화되고 C=C 배치는 그대로다.
 
+![geraniol + DMP → geranial 종합 메커니즘](../../figures/L06/geraniol_dmp_mech.svg)
+
+그림: 위 줄은 전체 반응이고, 아래 줄은 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 α-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
+
 ## 흔한 오해
 
 - **"DMP는 1차 alcohol을 산까지 산화한다"**: aldehyde에서 멈춘다. 산이 필요하면 [NaClO2](NaClO2.md)를 이어 쓴다. (출처: L6c p.17)
