@@ -70,9 +70,9 @@ enolate를 만들려면 먼저 "떼어 낼 수소가 얼마나 잘 떨어지는�
 
 carbonyl 화합물이 α-H를 잃어 생긴 anion이 enolate이고, 음전하가 α-C와 O에 나뉘어(공명, 전자 비편재화) 안정하다. 그런데 enolate가 "얼마나 많이" 생기는지는 염기 세기에 달려 있다.
 
-![acetaldehyde의 α-H를 HO⁻가 떼어 enolate가 생기고, enolate는 oxyanion과 carbanion 두 공명 구조로 표현되는 메커니즘](../../figures/L07/enolate_formation.svg)
+![acetaldehyde + HO⁻의 enolate 형성 종합 메커니즘: HO⁻가 α-H를 떼어 enolate와 H2O가 되고, enolate는 oxyanion과 carbanion의 공명 혼성체다](../../figures/L07/enolate_formation_mech.svg)
 
-그림: 슬라이드 p.24의 acetaldehyde 예다. 왼쪽: HO⁻(파랑, 염기)의 비공유 전자쌍이 α-H(빨강)를 떼어 가고(화살표 1), 끊어진 C–H 결합 전자쌍이 C–C 사이로 들어가 C=C가 되며(화살표 2), 원래 C=O의 π 전자가 산소로 밀려나 O⁻가 된다(화살표 3). 오른쪽: 생긴 enolate는 음전하가 O에 있는 oxyanion과 α-C에 있는 carbanion의 공명 혼성체다. oxyanion 위의 두 화살표(O의 전자쌍이 C=O로, C=C의 π 전자가 α-C로)가 두 공명 구조를 잇는다. 염기를 LDA로 바꿔도 화살표의 흐름은 같다. (출처: L7 p.5, p.24)
+그림: 슬라이드 p.24의 acetaldehyde 예다. 한 단계 산-염기 반응이라 중간체 없이 한 줄로 그렸고, 대괄호는 공명 혼성체의 두 극한 구조를 묶은 것이며 ⇌는 평형이다. 왼쪽: $\mathrm{HO}^-$ (파랑, base)의 비공유 전자쌍이 α-H(빨강, acid)를 떼어 가고(화살표 1), 끊어진 C–H 결합 전자쌍이 C–C 사이로 들어가 C=C가 되며(화살표 2), 원래 C=O의 π 전자가 산소로 밀려나 $\mathrm{O}^-$ 가 된다(화살표 3). 오른쪽: 생긴 enolate(conjugate base, 파랑)는 음전하가 O에 있는 oxyanion과 α-C에 있는 carbanion의 공명 혼성체이고, $\mathrm{H_2O}$ 는 conjugate acid(빨강)다. oxyanion 위의 두 화살표(O의 전자쌍이 C=O로, C=C의 π 전자가 α-C로)가 두 공명 구조를 잇는다. 염기를 LDA로 바꿔도 화살표의 흐름은 같다. 짝이온($\mathrm{Na}^+$ 등)은 그리지 않았다. (출처: L7 p.5, p.24)
 
 예를 들어 acetone에 EtONa를 넣으면 $\text{아세톤}(\text{pKa}\ 19) + \mathrm{EtONa} \rightleftharpoons \text{소듐 엔올레이트} + \mathrm{EtOH}(\text{pKa}\ 16)$ 의 평형이 된다. 오른쪽의 EtOH가 왼쪽의 acetone보다 더 강한 산이므로 평형은 왼쪽으로 치우치고, enolate는 아주 조금만 존재한다. 산-염기 평형은 늘 "약한 산·약한 염기 쪽"으로 기운다는 원칙 그대로다.
 
@@ -96,6 +96,10 @@ BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 
 
 그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$ )가 된다.
 
+![n-BuLi + diisopropylamine의 LDA 형성 종합 메커니즘: BuLi의 carbanion이 N–H 양성자를 떼어 LDA와 butane이 된다](../../figures/L07/lda_formation_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 산-염기 반응이라 중간체가 없고, 곡선 화살표를 반응물에 바로 그렸다. BuLi의 carbanion 비공유 전자쌍(파랑, base)이 diisopropylamine의 N–H 양성자(빨강, acid)를 가져가 새 C–H 결합(초록)이 생기고(butane, conjugate acid), N–H 결합 전자는 N의 비공유 전자쌍이 되어 $\mathrm{N}^-$ 가 된다(LDA, conjugate base). $\mathrm{Li}^+$ 는 이온으로 따로 적었다. 보충: 곡선 화살표는 표준 산-염기 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.6)
+
 그렇다면 BuLi를 바로 쓰면 안 될까? BuLi는 친핵성도 강해서 carbonyl 탄소에 첨가해 버린다. LDA는 질소 양옆의 부피 큰 isopropyl group 두 개가 질소를 가려, 작은 양성자는 잘 떼어 내지만 carbonyl 탄소에는 다가가지 못한다. 즉 LDA는 강염기이면서 친핵성이 NOT nucleophilic 염기다. 같은 부류로 LiTMP(lithium 2,2,6,6-tetramethylpiperidide)와 LHMDS(LiN(SiMe3)2)가 있다.
 
 슬라이드는 여기서 2-methylpropanoic acid methyl과 cyclopentanecarbaldehyde의 LDA enolate를 직접 그려 보라고 한다(→ 연습 문제 1).
@@ -117,6 +121,8 @@ BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 
 ![2-methylcyclohexanone에서 C6-H를 떼면 kinetic enolate, C2-H를 떼면 thermodynamic enolate가 생기는 두 경로](../../figures/L07/kinetic_thermo_enolate.svg)
 
 그림: 가운데 2-methylcyclohexanone에서 떼어 낼 수 있는 두 종류의 α-H를 빨간색으로 표시했다. 왼쪽 화살표: 가려지지 않은 C6–H를 LDA가 −78 °C에서 빠르게 떼면 C1=C6 이중 결합을 가진 kinetic enolate가 된다(덜 치환된 C=C). 오른쪽 화살표: CH₃ 옆의 C2–H는 염기가 다가가기 어려워 느리게 떨어지지만, 생기면 C1=C2 이중 결합이 더 많이 치환되어 더 안정한 thermodynamic enolate가 된다. (출처: L7 p.11, p.12)
+
+(이 deprotonation의 곡선 화살표는 2.2의 ketone alkylation 종합 그림의 1단계와 같다. $\mathrm{CH_3}$ 옆의 C2–H도 같은 방식으로 떨어지되 입체 장애 때문에 느리다.)
 
 즉 kinetic enolate는 "언덕(활성화 에너지)이 낮은 길", thermodynamic enolate는 "골짜기(생성물 에너지)가 깊은 곳"이 이기는 경우다. 저온에서 LDA처럼 비가역적으로 deprotonate하면 먼저 도착한 쪽이 그대로 남으므로 kinetic 생성물이 얻어진다.
 
@@ -146,9 +152,9 @@ SN2인 만큼 제약도 SN2 그대로다. leaving group X는 염화·bromination
 
 2-methylcyclohexanone을 LDA(DME 용매)로 처리하면 앞에서 본 kinetic lithium enolate(C1=C6)가 생긴다. 여기에 CH3I를 넣으면 LiI가 빠지며 2,6-dimethylcyclohexanone(56%)이, benzyl bromide를 넣으면 2-benzyl-6-methylcyclohexanone(42–45%)이 생긴다.
 
-![2-methylcyclohexanone의 kinetic lithium enolate가 CH3I와 SN2 반응해 2,6-dimethylcyclohexanone이 되는 메커니즘](../../figures/L07/enolate_c_alkylation.svg)
+![2-methylcyclohexanone의 kinetic enolate alkylation 종합 메커니즘: LDA가 C6–H를 떼어 lithium enolate가 되고, enolate가 CH3I와 SN2로 반응해 2,6-dimethylcyclohexanone이 된다](../../figures/L07/enolate_c_alkylation_mech.svg)
 
-그림: 파란색은 nucleophile인 enolate의 C=C π 결합, 빨간색은 electrophile인 CH₃I의 탄소와 C–I 결합이다. 화살표 셋은 (1) O⁻의 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) 그만큼 밀려난 C=C π 전자가 CH₃의 탄소를 I의 정반대편에서 공격하며(SN2 뒤쪽 공격), (3) C–I 결합 전자가 I로 떠나 I⁻(LiI)가 되는 과정이다. 초록색 결합이 새로 생긴 C–C 결합이다. 화살표 표기는 슬라이드 p.25의 C-alkylation 그림을 따랐다. (출처: L7 p.10, p.12, p.25)
+그림: 위 줄이 전체 반응(2-methylcyclohexanone → 2,6-dimethylcyclohexanone)이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계(가운데 줄): LDA의 $\mathrm{N}^-$ 비공유 전자쌍(파랑, base)이 덜 가려진 C6의 α-H(빨강, acid)를 떼어 가고, 끊어진 C–H 결합 전자가 C=C가 되며, C=O의 π 전자는 $\mathrm{O}^-$ 로 밀려난다. 그 결과 kinetic lithium enolate(conjugate base)와 diisopropylamine(conjugate acid)이 생긴다. 2단계(아래 줄): enolate(nucleophile, 파랑)의 (1) $\mathrm{O}^-$ 비공유 전자쌍이 내려와 C=O를 다시 만들고, (2) 그만큼 밀려난 C=C π 전자가 $\mathrm{CH_3I}$ 의 탄소(electrophile, 빨강)를 I의 정반대편에서 공격하며(SN2 뒤쪽 공격), (3) C–I 결합 전자가 I로 떠나 $\mathrm{I}^-$ (LiI)가 된다. 초록색 결합이 새로 생긴 C–C 결합이다. 화살표 표기는 슬라이드 p.25의 C-alkylation 그림을 따랐다. 보충: 1단계의 곡선 화살표는 표준 산-염기 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.10, p.12, p.25)
 
 그렇다고 선택성이 완벽한 것은 아니다. LDA/THF 후 CH3I 조건에서 kinetic enolate 경로의 2,6-dimethylcyclohexanone이 56%로 주생성물이지만, thermodynamic enolate 경로의 2,2-dimethylcyclohexanone도 6% 섞여 나온다. 결론적으로 LDA/저온 조건에서는 덜 치환된 α-탄소에 alkyl group이 들어간다고 기억하면 된다. 참고로 대칭인 cyclohexanone은 이런 고민 없이 LDA/THF로 enolate(O−Li+)와 diisopropylamine이 생긴다.
 
@@ -169,6 +175,10 @@ $$
 ![methyl butanoate → methyl 2-ethylbutanoate](../../figures/L07/ester_alkylation.svg)
 
 그림: LDA로 만든 enolate의 α-C가 EtI와 SN2로 새 C–C(초록)를 만든다(96%).
+
+![methyl butanoate의 ester enolate alkylation 종합 메커니즘: LDA가 α-H를 떼어 lithium enolate가 되고, enolate가 EtI와 SN2로 반응해 methyl 2-ethylbutanoate가 된다](../../figures/L07/ester_alkylation_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: LDA(파랑, base)가 ester의 α-H(빨강, acid)를 떼어 lithium enolate(conjugate base)와 diisopropylamine(conjugate acid)이 된다. 2단계: enolate의 α-C(파랑, nucleophile)가 EtI의 탄소(빨강, electrophile)를 I의 반대편에서 SN2로 공격해 새 C–C 결합(초록)이 생기고 $\mathrm{I}^-$ 가 떠난다. 화살표의 의미는 2.2의 ketone 그림과 같다. 보충: 곡선 화살표는 표준 산-염기·SN2 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.13, p.14)
 
 고리형 ester인 락톤도 마찬가지다. γ-뷰티로락톤을 LDA, 이어서 MeI로 처리하면 88% 수율의 생성물이 생긴다(빈 칸 문제 → 연습 문제 2). 슬라이드는 이어서 CH3CH(CH3)CH(CH2CH3)CO2CH3를 enolate α-치환으로 합성해 보라고 한다(→ 연습 문제 3).
 
@@ -192,9 +202,9 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 먼저 aq. NaOH로 가열해 ester를 염기성 가수분해하면 carboxylate CH3COCH(R)CO2− Na+가 되고, H3O+로 산성화하면 β-keto acid CH3COCH(R)CO2H가 된다. 이 β-keto acid을 가열하면 decarboxylation이 일어난다. carboxyl group의 O-H 수소가 ketone 산소로 옮겨 가는 6원자 고리형 transition state를 거치며 C-CO2 결합이 끊어지고 CO2가 빠져나가, enol이 생긴다.[7] 최종 생성물은 methyl ketone CH3COCH2R이다.
 
-![β-keto acid이 6원자 고리형 transition state를 거쳐 CO2를 잃고 enol이 된 뒤 methyl ketone으로 tautomerize하는 메커니즘](../../figures/L07/decarboxylation.svg)
+![β-keto acid의 decarboxylation 종합 메커니즘: 6원자 고리형 transition state에서 CO2가 빠져 enol이 되고, enol이 tautomerize해 ketone이 된다](../../figures/L07/decarboxylation_mech.svg)
 
-그림: β-keto acid을 ketone O와 carboxyl O–H가 마주 보는 고리 모양으로 그렸다. 세 화살표가 한 번에 움직인다. (1) ketone C=O의 전자(파랑)가 carboxyl group의 H(빨강)를 잡아 오고, (2) O–H 결합 전자가 C–O 사이로 들어가 CO₂의 C=O가 되며, (3) 끊어지는 Cα–COOH 결합(빨강)의 전자가 Cα와 ketone 탄소 사이로 들어가 C=C가 된다. 그 결과 enol과 CO₂가 생기고(초록 결합이 새로 생긴 O–H와 C=C), enol은 tautomerize해 methyl ketone이 된다. 슬라이드는 첫 화살표를 ketone O에서 H로 그렸는데, 여기서는 C=O 결합에서 출발하게 그려 ketone 탄소의 결합 수가 맞도록 했다. (출처: L7 p.16)
+그림: 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 슬라이드는 치환기를 R로 그렸는데, 여기서는 3.2의 2-pentanone 합성에 맞춰 R = ethyl인 2-ethyl-3-oxobutanoic acid를 예로 들었다. 1단계: β-keto acid를 ketone O와 carboxyl O–H가 마주 보는 6원자 고리형 구조로 두면(점선은 분자 안의 수소 결합) 세 화살표가 한 번에 움직인다. (1) ketone C=O의 전자(파랑)가 carboxyl group의 H(빨강)를 잡아 오고, (2) O–H 결합 전자가 C–O 사이로 들어가 $\mathrm{CO_2}$ 의 C=O가 되며, (3) 끊어지는 Cα–COOH 결합(빨강)의 전자가 Cα와 ketone 탄소 사이로 들어가 C=C가 된다. 그 결과 enol과 $\mathrm{CO_2}$ 가 생긴다(초록 결합이 새로 생긴 O–H와 C=C). 2단계: enol이 tautomerize해 ketone(2-pentanone)이 된다(새 C–H는 초록). 슬라이드는 첫 화살표를 ketone O에서 H로 그렸는데, 여기서는 C=O 결합에서 출발하게 그려 ketone 탄소의 결합 수가 맞도록 했다. (출처: L7 p.16)
 
 보충: 왜 β-keto acid만 이렇게 쉽게 CO2를 잃을까? 고리형 transition state에서 끊어지는 Cα–COOH 결합의 전자쌍은 Cα와 β 위치 carbonyl 탄소 사이로 들어가 enol을 만들어야 한다. 그래서 carboxyl group의 β 위치에 두 번째 carbonyl이 있어야만 이 경로가 열리고, 단순 carboxylic acid은 가열해도 이렇게 decarboxylate하지 않는다. 또 한 분자에서 두 분자(생성물과 CO2 기체)가 생기므로, 가열하면 엔트로피 항(−TΔS)의 기여가 커져 반응이 더 잘 진행된다. malonic 쪽도 같은 이유로, 두 ester가 모두 가수분해되어도 CO2는 하나만 빠진다. (보충 근거: Clayden p.597)
 
@@ -219,6 +229,8 @@ $$
 ![acetoacetic ester 합성으로 2-pentanone 만들기 (3/3)](../../figures/L07/acetoacetic_ester_pentanone_3.svg)
 
 그림: 보충: ethyl acetoacetate의 두 carbonyl 사이 C–H를 NaOEt로 떼어 EtBr로 alkylation하고, ester를 가수분해한 β-keto acid를 가열하면 $CO_2$ 가 빠져 2-pentanone이 된다.
+
+(위 세 반응식의 메커니즘은 따로 그리지 않고 같은 단계의 종합 그림을 쓴다. 1/3의 $\mathrm{NaOEt}$ 탈양성자화와 alkyl halide와의 SN2는 아래 연습 문제 4 정답의 acetoacetic ester alkylation 종합 그림과 같고(거기서는 n-BuBr, 여기서는 EtBr), 3/3의 탈카복실화는 3.1의 decarboxylation 종합 그림이 바로 이 기질(2-ethyl-3-oxobutanoic acid → 2-pentanone)이다. 2/3의 ester 가수분해에는 슬라이드의 화살표가 없다.)
 
 
 (출처: L7 p.18)
@@ -404,6 +416,10 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 그림: enolate α-C와 ethyl 사이에 새 C–C(초록).
 
+![methyl 3-methylbutanoate의 ester enolate alkylation 종합 메커니즘: LDA가 α-H를 떼어 lithium enolate가 되고, enolate가 EtI와 SN2로 반응해 α-ethyl 생성물이 된다](../../figures/L07/ester_alkylation_target_mech.svg)
+
+그림: 위 정답 (i)의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: LDA(파랑, base)가 ester의 α-H(빨강, acid)를 떼어 lithium enolate(conjugate base)와 diisopropylamine(conjugate acid)이 된다. 2단계: enolate의 α-C(파랑, nucleophile)가 1차 halide인 EtI의 탄소(빨강, electrophile)를 SN2로 공격해 새 C–C 결합(초록)을 만들고 $\mathrm{I}^-$ 가 떠난다. 2.3의 methyl butanoate 그림과 같은 단계이고 ester 쪽 치환기(isopropyl)만 다르다. 보충: 곡선 화살표는 표준 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.10, p.13, p.14)
+
 4. 순서:
    1.
       $$
@@ -431,9 +447,15 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 그림: 1단계: 활성 α-C(파랑)를 butyl화(초록).
 
+![ethyl acetoacetate의 alkylation 종합 메커니즘: EtO⁻가 두 carbonyl 사이의 α-H를 떼어 enolate가 되고, enolate가 n-BuBr와 SN2로 반응해 ethyl 2-butylacetoacetate가 된다](../../figures/L07/aae_1_mech.svg)
+
+그림: 위 반응식(1단계 monoalkylation)의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: $\mathrm{EtO}^-$ (파랑, base)가 두 carbonyl 사이의 α-H(빨강, acid)를 떼어 enolate(conjugate base)와 EtOH(conjugate acid)가 된다. 이 α-H는 pKa가 약 11이라 alkoxide로 충분하다. 음전하는 ketone 쪽과 ester 쪽 두 C=O로 퍼지는데(공명), 그림에는 ketone 쪽 한 가지만 그렸다. 2단계: enolate의 α-C(파랑, nucleophile)가 n-BuBr의 탄소(빨강, electrophile)를 Br의 반대편에서 SN2로 공격해 새 C–C 결합(초록)이 생기고 $\mathrm{Br}^-$ 가 떠난다. $\mathrm{Na}^+$ 는 짝이온으로 적었다. 보충: 곡선 화살표는 표준 산-염기·SN2 메커니즘으로 그린 것이다. (보충 근거: Clayden p.596) (출처: L7 p.16, p.17)
+
 ![→ ethyl 2,2-dibutylacetoacetate](../../figures/L07/aae_2.svg)
 
 그림: 2단계: 남은 α-H를 떼고 한 번 더 butyl화.
+
+(2단계도 위 종합 그림과 같은 메커니즘이다. 남은 α-H를 $\mathrm{NaOEt}$ 로 한 번 더 떼고 n-BuBr로 SN2 alkylation한다.)
 
 ![ester 가수분해 → β-keto acid](../../figures/L07/aae_3.svg)
 
@@ -442,6 +464,8 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 ![β-keto acid → 3-butylheptan-2-one](../../figures/L07/aae_4.svg)
 
 그림: 4단계: 탈카복실화로 $CO_2$ 가 빠진다.
+
+(이 탈카복실화의 메커니즘은 3.1의 decarboxylation 종합 그림과 같다. α 자리에 butyl group 둘이 있을 뿐이다.)
 
 5. 주생성물: 2,6-dimethylcyclohexanone(슬라이드 56%). 부생성물: 2,2-dimethylcyclohexanone(6%). 이유: LDA/저온에서는 비가역적 deprotonation라 kinetic 조절. C6의 CH2 수소는 입체 장애가 작아 TS1이 낮고 빠르게 제거됨 → 덜 kinetic enolate → C6 methylation. C2-H 제거는 염기와 CH3의 입체 상호작용으로 TS2가 높음. 생성된 enolate(사치환 C=C)가 더 안정하더라도 저온에서 평형이 일어나지 않으므로 소량만 생김. (출처: L7 p.8, p.10, p.11, p.12)
 
@@ -456,9 +480,15 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 그림: malonate anion(파랑)이 benzyl bromide(빨강)와 새 C–C(초록).
 
+![diethyl malonate의 benzylation 종합 메커니즘: EtO⁻가 두 ester 사이의 α-H를 떼어 enolate가 되고, enolate가 PhCH2Br와 SN2로 반응해 diethyl benzylmalonate가 된다](../../figures/L07/malonic_1_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 두 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 1단계: $\mathrm{EtO}^-$ (파랑, base)가 두 ester 사이의 α-H(빨강, acid, pKa 약 13)를 떼어 enolate(conjugate base)와 EtOH(conjugate acid)가 된다. 음전하는 두 C=O로 퍼지는데(공명), 그림에는 한 가지만 그렸다. 2단계: enolate의 α-C(파랑, nucleophile)가 benzyl bromide의 탄소(빨강, electrophile)를 Br의 반대편에서 SN2로 공격해 새 C–C 결합(초록)이 생기고 $\mathrm{Br}^-$ 가 떠난다. $\mathrm{Na}^+$ 는 짝이온으로 적었다. 보충: 곡선 화살표는 표준 산-염기·SN2 메커니즘으로 그린 것이다. (보충 근거: Clayden p.596) (출처: L7 p.19)
+
 ![diethyl benzylmalonate → 3-phenylpropanoic acid](../../figures/L07/malonic_2.svg)
 
 그림: 가수분해 뒤 탈카복실화.
+
+(탈카복실화의 메커니즘은 3.1의 decarboxylation 종합 그림과 같은 6원자 고리형 transition state이고, 치환 malonic acid에서는 ketone C=O 자리에 다른 쪽 carboxyl의 C=O가 온다.)
 
 7. 정답: (b), (c), (d), (e).
    - (b) benzaldehyde, (e) pivaldehyde: α-H가 없음(benzaldehyde의 α-C는 방향족 고리 탄소, pivaldehyde의 α-C는 4차) → enolization 불가능.

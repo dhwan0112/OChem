@@ -64,6 +64,10 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 그림: BuLi의 carbanion(파랑)이 N–H(빨강)의 H를 떼어 LDA(초록 $N^-$ )가 된다.
 
+![n-BuLi + diisopropylamine의 LDA 형성 종합 메커니즘: BuLi의 carbanion이 N–H 양성자를 떼어 LDA와 butane이 된다](../../figures/L07/lda_formation_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 산-염기 반응이라 중간체가 없고, 곡선 화살표를 반응물에 바로 그렸다. BuLi의 carbanion 비공유 전자쌍(파랑, base)이 diisopropylamine의 N–H 양성자(빨강, acid)를 가져가 새 C–H 결합(초록)이 생기고(butane, conjugate acid), N–H 결합 전자는 N의 비공유 전자쌍이 되어 $\mathrm{N}^-$ 가 된다(LDA, conjugate base). $\mathrm{Li}^+$ 는 이온으로 따로 적었다. 보충: 곡선 화살표는 표준 산-염기 메커니즘으로 그린 것이다. (보충 근거: Clayden p.588) (출처: L7 p.6)
+
 ## 흔한 오해
 
 - "강염기면 BuLi를 바로 써도 된다": BuLi는 친핵성이 강해 carbonyl에 첨가한다. 그래서 BuLi로 비친핵성인 LDA를 먼저 만든 뒤 쓴다. (출처: L7 p.6)
