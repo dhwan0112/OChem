@@ -141,7 +141,7 @@ TBS와 TBDMS는 같은 것을 부르는 두 이름이고, 슬라이드에서도 
 
 
 $$
-\mathrm{ROH} \xrightarrow{\mathrm{R'_3SiCl},\ \text{imidazole}} \mathrm{ROSiR'_3}
+\mathrm{ROH} \xrightarrow[\text{imidazole}]{\mathrm{R'_3SiCl}} \mathrm{ROSiR'_3}
 $$
 
 ![TBSCl/imidazole에 의한 alcohol 보호](../../figures/L12/tbs_protection_imidazole.svg)
@@ -157,7 +157,7 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 그래서 먼저 OH를 TBDMS 에테르로 바꾼다.
 
 $$
-\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{\mathit{t}\text{-}BuMe_2SiCl},\ \text{imidazole}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
+\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \xrightarrow[\text{imidazole}]{\mathrm{\mathit{t}\text{-}BuMe_2SiCl}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
 $$
 
 ![TBS 보호 후 acetylide alkylation (1/2)](../../figures/L12/tbs_acetylide_1.svg)
@@ -212,7 +212,7 @@ $$
 $$
 
 $$
-\mathrm{RR'NH} \xrightarrow{\mathrm{R''O{-}CO{-}O{-}CO{-}OR''},\ \text{base}} \mathrm{R'RN{-}CO{-}OR''}
+\mathrm{RR'NH} \xrightarrow[\text{base}]{\mathrm{R''O{-}CO{-}O{-}CO{-}OR''}} \mathrm{R'RN{-}CO{-}OR''}
 $$
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)

@@ -52,8 +52,9 @@ $$
 실제로 2-bromopropanoic acid 1 mol에 NH<sub>3</sub>를 무려 70 mol 넣으면 alanine(암모늄염 형태)을 65-70%로 얻을 수 있다.
 
 $$
-\mathrm{CH_3CH(Br)COOH}\ (1\ \text{mol}) \xrightarrow[65\text{–}70\unicode{x25}]{\mathrm{NH_3}\ (70\ \text{mol})} \mathrm{CH_3CH(NH_2)COO^-\thinspace NH_4^+}\ (\text{알라닌})
+\mathrm{CH_3CH(Br)COOH}\ (1\ \text{mol}) \xrightarrow{\mathrm{NH_3}\ (70\ \text{mol})} \mathrm{CH_3CH(NH_2)COO^-\thinspace NH_4^+}\ (\text{알라닌})
 $$
+(수율 65–70%)
 
 ![2-bromopropanoic acid + NH3 → alanine](../../figures/L05/alanine_nh3.svg)
 
@@ -67,10 +68,11 @@ $$
 
 $$
 \begin{aligned}
-\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) &\longrightarrow \text{옥틸아민}\ (45\unicode{x25}) + \text{다이옥틸아민}\ (43\unicode{x25}) \\
+\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3}\ (2\ \text{eq}) &\longrightarrow \text{옥틸아민} + \text{다이옥틸아민} \\
 &\qquad + \text{트라이옥틸아민}\ (\text{미량}) + \text{테트라옥틸암모늄 브로마이드}\ (\text{미량})
 \end{aligned}
 $$
+(수율 옥틸아민 45%, 다이옥틸아민 43%)
 
 ![1-bromooctane + NH3 → octylamine + dioctylamine](../../figures/L05/octylamine_nh3.svg)
 
@@ -95,8 +97,9 @@ $$
 예:
 
 $$
-\text{1-브로모-2-페닐에테인}\ \mathrm{PhCH_2CH_2Br} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaN_3}} \text{2-페닐에틸 아자이드}\ \mathrm{PhCH_2CH_2N_3} \xrightarrow{1.\ \mathrm{LiAlH_4},\ \text{ether};\ 2.\ \mathrm{H_2O}} \text{2-페닐에틸아민}\ \mathrm{PhCH_2CH_2NH_2}\ (89\unicode{x25})
+\text{1-브로모-2-페닐에테인}\ \mathrm{PhCH_2CH_2Br} \xrightarrow[\mathrm{EtOH}]{\mathrm{NaN_3}} \text{2-페닐에틸 아자이드}\ \mathrm{PhCH_2CH_2N_3} \xrightarrow[2.\ \mathrm{H_2O}]{1.\ \mathrm{LiAlH_4},\ \text{ether}} \text{2-페닐에틸아민}\ \mathrm{PhCH_2CH_2NH_2}
 $$
+(수율 89%)
 
 ![PhCH2CH2Br + NaN3 → 2-phenylethyl azide](../../figures/L05/phenethyl_azide_1.svg)
 
@@ -119,7 +122,7 @@ $$
 비슷한 발상으로 cyanide 이온을 쓸 수도 있다. 다만 이번에는 탄소 nucleophile이므로, 결과적으로 탄소가 하나 늘어난 1차 amine이 된다는 점이 다르다. CN의 탄소가 그대로 CH<sub>2</sub>NH<sub>2</sub>의 CH<sub>2</sub>가 되기 때문이다.
 
 $$
-\mathrm{RCH_2X} \xrightarrow{\mathrm{NaCN}} \mathrm{RCH_2C{\equiv}N} \xrightarrow{1.\ \mathrm{LiAlH_4},\ \text{ether};\ 2.\ \mathrm{H_2O}\ \text{또는}\ \mathrm{H_2/Pd}} \mathrm{RCH_2CH_2NH_2}\ (\text{1차 아민})
+\mathrm{RCH_2X} \xrightarrow{\mathrm{NaCN}} \mathrm{RCH_2C{\equiv}N} \xrightarrow[2.\ \mathrm{H_2O}\ \text{또는}\ \mathrm{H_2/Pd}]{1.\ \mathrm{LiAlH_4},\ \text{ether}} \mathrm{RCH_2CH_2NH_2}\ (\text{1차 아민})
 $$
 
 (출처: L5 p.8)
@@ -129,7 +132,7 @@ $$
 앞의 두 방법은 1차 amine만 준다. 2차·3차 amine이 필요하면 어떻게 할까? 여기서 amide가 나선다. amide는 LiAlH<sub>4</sub> 또는 BH<sub>3</sub>로 환원하면 C=O가 통째로 CH<sub>2</sub>가 되어 amine이 된다. amide의 N에 무엇이 붙어 있느냐에 따라 1차, 2차, 3차 amine을 모두 만들 수 있다.
 
 $$
-\mathrm{RCOOH} \xrightarrow{1.\ \mathrm{SOCl_2};\ 2.\ \mathrm{NH_3}} \mathrm{RCONH_2} \xrightarrow{1.\ \mathrm{LiAlH_4},\ \text{ether};\ 2.\ \mathrm{H_2O}\ (\text{또는}\ \mathrm{BH_3})} \mathrm{RCH_2NH_2}
+\mathrm{RCOOH} \xrightarrow{1.\ \mathrm{SOCl_2};\ 2.\ \mathrm{NH_3}} \mathrm{RCONH_2} \xrightarrow[2.\ \mathrm{H_2O}\ (\text{또는}\ \mathrm{BH_3})]{1.\ \mathrm{LiAlH_4},\ \text{ether}} \mathrm{RCH_2NH_2}
 $$
 
 예:
@@ -162,9 +165,9 @@ $$
 
 amine을 만드는 가장 강력하고 범용적인 방법이 환원성 아미노화다. aldehyde나 ketone에 amine을 섞고 환원제를 넣으면, carbonyl 탄소에 N이 붙은 amine이 생긴다.
 
-- $\text{벤즈알데하이드}\ \mathrm{PhCHO} \xrightarrow[89\unicode{x25}]{\mathrm{NH_3},\ \mathrm{H_2},\ \mathrm{Ni}} \text{벤질아민}\ \mathrm{PhCH_2NH_2}$
-- $\mathrm{PhCHO} \xrightarrow[89\unicode{x25}]{(1)\ \mathrm{CH_3CH_2NH_2};\ (2)\ \mathrm{LiBH_3CN}} \text{N-벤질에탄아민}\ \mathrm{PhCH_2NHCH_2CH_3}$
-- $\text{사이클로헥산온} \xrightarrow[52\text{–}54\unicode{x25}]{(1)\ \mathrm{(CH_3)_2NH};\ (2)\ \mathrm{NaBH_3CN}} \text{N,N-다이메틸사이클로헥산아민}$
+- $\text{벤즈알데하이드}\ \mathrm{PhCHO} \xrightarrow{\mathrm{NH_3},\ \mathrm{H_2},\ \mathrm{Ni}} \text{벤질아민}\ \mathrm{PhCH_2NH_2}$ (수율 89%)
+- $\mathrm{PhCHO} \xrightarrow[(2)\ \mathrm{LiBH_3CN}]{(1)\ \mathrm{CH_3CH_2NH_2}} \text{N-벤질에탄아민}\ \mathrm{PhCH_2NHCH_2CH_3}$ (수율 89%)
+- $\text{사이클로헥산온} \xrightarrow[(2)\ \mathrm{NaBH_3CN}]{(1)\ \mathrm{(CH_3)_2NH}} \text{N,N-다이메틸사이클로헥산아민}$ (수율 52–54%)
 
 ![reductive amination (1/3)](../../figures/L05/reductive_amination_scheme_1.svg)
 
@@ -267,15 +270,15 @@ $$
 
 1. **C-C 결합 만들기** (슬라이드 표기: "enolate chemistry"):
 
-   $\text{4-메톡시페닐아세토나이트릴} \xrightarrow[83\unicode{x25}]{\mathrm{LDA};\ \text{사이클로헥산온}} \text{1-[사이아노(4-메톡시페닐)메틸]사이클로헥산올}$
+   $\text{4-메톡시페닐아세토나이트릴} \xrightarrow{\mathrm{LDA};\ \text{사이클로헥산온}} \text{1-[사이아노(4-메톡시페닐)메틸]사이클로헥산올}$ (수율 83%)
 
    LDA가 nitrile α-H를 떼고, 생긴 탄소 anion이 ketone C=O에 첨가한다.[8] (→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서의 LDA 참고)
 2. **nitrile → 1차 amine** (1-1b의 환원):
 
-   $\xrightarrow[57\unicode{x25}]{\mathrm{H_2},\ 5\unicode{x25}\ \mathrm{Rh/Al_2O_3}} \text{1-[2-아미노-1-(4-메톡시페닐)에틸]사이클로헥산올}$
+   $\xrightarrow{\mathrm{H_2},\ \mathrm{Rh/Al_2O_3}} \text{1-[2-아미노-1-(4-메톡시페닐)에틸]사이클로헥산올}$ (수율 57%; 5% $\mathrm{Rh/Al_2O_3}$)
 3. **N,N-dimethyl화** (1-4의 Eschweiler–Clarke):
 
-   $\xrightarrow[\text{reflux}]{\mathrm{HCHO},\ \mathrm{HCOOH}} \text{벤라팍신}\ (80\unicode{x25},\ \mathrm{HCl}\ \text{염})$
+   $\xrightarrow[\text{reflux}]{\mathrm{HCHO},\ \mathrm{HCOOH}} \text{벤라팍신}\ (\mathrm{HCl}\ \text{염})$ (수율 80%)
 
 ![4-methoxyphenylacetonitrile + cyclohexanone (LDA)](../../figures/L05/venlafaxine_1.svg)
 
@@ -331,8 +334,8 @@ $$
 
 NaBH<sub>4</sub>는 아마 가장 많이 쓰이는 환원제일 것이다. 온화해서 aldehyde와 ketone만 alcohol로 바꾸고, 보통 ethanol이나 methanol에서 시약을 과량 써서 반응시킨다.
 
-- $\text{뷰탄알}\ \mathrm{CH_3CH_2CH_2CHO} \xrightarrow[\mathrm{MeOH},\ 85\unicode{x25}]{\mathrm{NaBH_4}} \text{1-뷰탄올}$
-- $\text{뷰탄온}\ \mathrm{CH_3COCH_2CH_3} \xrightarrow[\mathrm{MeOH},\ 87\unicode{x25}]{\mathrm{NaBH_4}} \text{2-뷰탄올}$
+- $\text{뷰탄알}\ \mathrm{CH_3CH_2CH_2CHO} \xrightarrow[\mathrm{MeOH}]{\mathrm{NaBH_4}} \text{1-뷰탄올}$ (수율 85%)
+- $\text{뷰탄온}\ \mathrm{CH_3COCH_2CH_3} \xrightarrow[\mathrm{MeOH}]{\mathrm{NaBH_4}} \text{2-뷰탄올}$ (수율 87%)
 
 ![butanal → 1-butanol](../../figures/L05/butanal_nabh4.svg)
 
@@ -411,8 +414,8 @@ ester 쪽만 CH<sub>2</sub>OH가 되고 산은 그대로 남는다. 산이 살�
 
 LiAlH<sub>4</sub>는 강한 환원제다. carboxylic acid, ester, aldehyde는 1차 alcohol로, ketone은 2차 alcohol로 환원하고, 1-2에서 봤듯 amide는 amine으로 바꾼다.
 
-- $\text{2,2-다이메틸프로판산}\ \mathrm{(CH_3)_3CCO_2H} \xrightarrow[92\unicode{x25}]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O};\ (2)\ \mathrm{H_2O/H_2SO_4}} \text{네오펜틸 알코올}\ \mathrm{(CH_3)_3CCH_2OH}$
-- $\mathrm{RCO_2R'} \xrightarrow{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O};\ (2)\ \mathrm{H_2O/H_2SO_4}} \mathrm{RCH_2OH} + \mathrm{R'OH}$
+- $\text{2,2-다이메틸프로판산}\ \mathrm{(CH_3)_3CCO_2H} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}} \text{네오펜틸 알코올}\ \mathrm{(CH_3)_3CCH_2OH}$ (수율 92%)
+- $\mathrm{RCO_2R'} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \mathrm{Et_2O}} \mathrm{RCH_2OH} + \mathrm{R'OH}$
 
 ![2,2-dimethylpropanoic acid → neopentyl alcohol](../../figures/L05/lialh4_pivalic.svg)
 
@@ -426,8 +429,8 @@ ester를 환원하면 alcohol이 두 개 나온다는 점에 주의하자. acyl 
 
 LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠을 H로 바꾼다.
 
-- $\text{2-브로모펜테인} \xrightarrow{(1)\ \mathrm{LiAlH_4},\ \text{ether};\ (2)\ \mathrm{H_2O/H_2SO_4}} \text{펜테인}$
-- $\text{(1-브로모에틸)벤젠}\ \mathrm{PhCH(Br)CH_3} \xrightarrow{(1)\ \mathrm{LiAlD_4},\ \text{ether};\ (2)\ \mathrm{H_2O/H_2SO_4}} \mathrm{PhCHDCH_3}$
+- $\text{2-브로모펜테인} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlH_4},\ \text{ether}} \text{펜테인}$
+- $\text{(1-브로모에틸)벤젠}\ \mathrm{PhCH(Br)CH_3} \xrightarrow[(2)\ \mathrm{H_2O/H_2SO_4}]{(1)\ \mathrm{LiAlD_4},\ \text{ether}} \mathrm{PhCHDCH_3}$
 
 ![2-bromopentane → pentane](../../figures/L05/lialh4_bromopentane.svg)
 
@@ -469,7 +472,7 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 - $\text{4-옥소-4-페닐뷰탄산}\ \mathrm{PhCOCH_2CH_2CO_2H} \xrightarrow{\mathrm{BH_3}} \mathrm{PhCOCH_2CH_2CH_2OH}$
 
   (ketone 유지)
-- $\text{N,N-다이메틸피발아마이드}\ \mathrm{(CH_3)_3CCONMe_2} \xrightarrow[\mathrm{THF},\ 79\unicode{x25}]{\mathrm{BH_3}} \mathrm{(CH_3)_3CCH_2NMe_2}$
+- $\text{N,N-다이메틸피발아마이드}\ \mathrm{(CH_3)_3CCONMe_2} \xrightarrow[\mathrm{THF}]{\mathrm{BH_3}} \mathrm{(CH_3)_3CCH_2NMe_2}$ (수율 79%)
 - $\text{메틸 1-벤질-5-옥소피롤리딘-3-카복실레이트} \xrightarrow[\mathrm{THF}]{\mathrm{BH_3}} \text{메틸 1-벤질피롤리딘-3-카복실레이트}$
 
   (락탐 C=O → CH<sub>2</sub>, ester 유지)
@@ -515,8 +518,9 @@ N,N-dimethylpivalamide(79%)를 예로 단계를 따라가 보자.
 ester를 LiAlH<sub>4</sub>로 환원하면 중간에 aldehyde가 생기지만, aldehyde는 ester보다 반응성이 크니 곧바로 alcohol까지 가 버린다. 그럼 aldehyde에서 멈추게 할 방법은 없을까? DIBAL-H(diisobutylaluminium hydride, i-Bu<sub>2</sub>AlH)가 답이다. DIBAL은 alane이며, Al-H-Al 다리 결합을 가진 bridged dimer로 존재한다.
 
 $$
-\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\thinspace{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \mathrm{H_3O^+}} \mathrm{RCHO}\ (88\unicode{x25},\ \mathrm{R}\ =\ \mathrm{\mathit{n}\text{-}C_{11}H_{23}})
+\mathrm{RCO_2Et} \xrightarrow[\text{hexane},\ -70\thinspace{}^\circ\mathrm{C}]{\mathrm{DIBAL},\ \mathrm{H_3O^+}} \mathrm{RCHO}\ (\mathrm{R}\ =\ \mathrm{\mathit{n}\text{-}C_{11}H_{23}})
 $$
+(수율 88%)
 
 1. Lewis 산성 Al이 ester carbonyl O에 배위하고, Al-H의 수소화물이 carbonyl 탄소로 전달된다.
 2. tetrahedral intermediate R-CH(OEt)-O-Al(i-Bu)<sub>2</sub>가 생긴다. 이 intermediate는 -70 °C에서 안정해서 무너지지 않는다. 무너지지 않으니 aldehyde가 생기지 않고, 따라서 두 번째 수소화물을 받을 대상도 없다.
@@ -565,8 +569,9 @@ $$
 H가 모두 표면 쪽, 즉 같은 면에서 오니 **syn 첨가**다. 그래서 1,2-dimethylcyclohexene을 수소화하면 cis 생성물이 우세하다.
 
 $$
-\text{1,2-다이메틸사이클로헥센} \xrightarrow[\mathrm{AcOH}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{cis-1,2-다이메틸사이클로헥산}\ (82\unicode{x25}) + \text{trans}\ (18\unicode{x25})
+\text{1,2-다이메틸사이클로헥센} \xrightarrow[\mathrm{AcOH}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{cis-1,2-다이메틸사이클로헥산} + \text{trans}
 $$
+(수율 cis-1,2-다이메틸사이클로헥산 82%, trans 18%)
 
 ![1,2-dimethylcyclohexene → cis-1,2-dimethylcyclohexane](../../figures/L05/dimethylcyclohexene_h2.svg)
 
@@ -592,8 +597,8 @@ $$
 
 촉매 수소화가 산업에서 어떻게 쓰이는지 보여 주는 예다.
 
-- $\text{제라니알}\ (\mathit{E}) \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(S,S)-Chiraphos}} \text{(+)-시트로넬랄}$
-- $\text{네랄}\ (\mathit{Z}) \xrightarrow{\mathrm{H_2},\ \mathrm{CO},\ \mathrm{Rh(CO)_2acac},\ \text{(R,R)-Chiraphos}} \text{(+)-시트로넬랄}$
+- $\text{제라니알}\ (\mathit{E}) \xrightarrow[\text{(S,S)-Chiraphos}]{\mathrm{H_2},\ \mathrm{CO}} \text{(+)-시트로넬랄}$ ($\mathrm{Rh(CO)_2acac}$ 촉매)
+- $\text{네랄}\ (\mathit{Z}) \xrightarrow[\text{(R,R)-Chiraphos}]{\mathrm{H_2},\ \mathrm{CO}} \text{(+)-시트로넬랄}$ ($\mathrm{Rh(CO)_2acac}$ 촉매)
 - $\text{(+)-시트로넬랄} \xrightarrow{\mathrm{Al}\ \text{cat.}} \text{(-)-아이소풀레골} \xrightarrow{\mathrm{H_2},\ \mathrm{Ni}\ \text{cat.}} \text{(-)-멘톨}$
 
 ![geranial (E) → (+)-citronellal](../../figures/L05/geranial_citronellal.svg)
@@ -638,8 +643,9 @@ $$
 acid chloride이 가장 쉽다는 점을 이용하면, carboxylic acid → acid chloride → aldehyde라는 경로가 생긴다.
 
 $$
-\text{2-나프토일 클로라이드} \xrightarrow[74\text{–}81\unicode{x25}]{\mathrm{H_2},\ \mathrm{Pd/BaSO_4},\ \text{quinoline}} \text{2-나프트알데하이드}
+\text{2-나프토일 클로라이드} \xrightarrow[\text{quinoline}]{\mathrm{H_2},\ \mathrm{Pd/BaSO_4}} \text{2-나프트알데하이드}
 $$
+(수율 74–81%)
 
 ![2-naphthoyl chloride → 2-naphthaldehyde](../../figures/L05/rosenmund_naphthoyl.svg)
 
@@ -765,7 +771,7 @@ $$
 
 7. **alcohol 경유(p.17 "via alcohol")**:
 
-   $\text{에스터} \xrightarrow{1.\ \mathrm{LiAlH_4}\ (\text{또는}\ \mathrm{LiBH_4});\ 2.\ \mathrm{H_2O}} \text{2-(퓨란-2-일)프로판-1-ol} \xrightarrow{\text{온화한 산화: Swern},\ \mathrm{PCC},\ \text{Dess–Martin 등}} \text{2-(퓨란-2-일)프로판알}$
+   $\text{에스터} \xrightarrow[2.\ \mathrm{H_2O}]{1.\ \mathrm{LiAlH_4}\ (\text{또는}\ \mathrm{LiBH_4})} \text{2-(퓨란-2-일)프로판-1-ol} \xrightarrow{\text{온화한 산화: Swern},\ \mathrm{PCC},\ \text{Dess–Martin 등}} \text{2-(퓨란-2-일)프로판알}$
 
    1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 산화 문서 참고).
    **acid chloride 경유(p.17, p.33)**: ester 가수분해 → carboxylic acid → SOCl<sub>2</sub> → acid chloride → H<sub>2</sub>, Pd/BaSO<sub>4</sub>, Rosenmund → aldehyde.

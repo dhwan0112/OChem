@@ -245,7 +245,7 @@ aldehyde를 α-alkylate하는 것은 왜 까다로울까? aldehyde는 친전자�
 첫 번째 예는 pentane알이다.
 
 $$
-\mathrm{OHC{-}CH_2CH_2CH_2CH_3} \xrightarrow{\mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \xrightarrow{1.\ \mathrm{BrCH_2CO_2Et},\ \text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et}
+\mathrm{OHC{-}CH_2CH_2CH_2CH_3} \xrightarrow{\mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{1.\ \mathrm{BrCH_2CO_2Et}} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et}
 $$
 
 ![pentanal + (i-Bu)2NH → enamine](../../figures/L10/enamine_pentanal.svg)
@@ -261,7 +261,7 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate(α-haloester)를 공�
 두 번째 예는 α-H가 하나뿐인 2-ethylhexanal이다.
 
 $$
-\mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \xrightarrow{1.\ \mathrm{CH_2{=}CH{-}CH_2Br},\ \text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)}
+\mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{1.\ \mathrm{CH_2{=}CH{-}CH_2Br}} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)}
 $$
 
 ![enamine을 이용한 aldehyde의 α-allylation (1/3)](../../figures/L10/stork_enamine_aldehyde_1.svg)
@@ -284,8 +284,9 @@ $$
 enamine을 화학양론적으로 만들어 쓰지 않고, amine을 촉매로 돌려 쓸 수는 없을까? 2000년 List, Lerner, Barbas가 그 답을 보였다.[15] amino acid L-proline이 enamine을 거쳐 직접 비대칭 aldol 반응을 촉매한 것이다. 이 업적은 2021년 노벨 화학상으로 이어졌다.[16]
 
 $$
-\text{아세톤}(20\ \text{vol}\unicode{x25}) + \text{4-나이트로벤즈알데하이드} \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}\ 30\ \text{mol}\unicode{x25}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온}
+\text{아세톤} + \text{4-나이트로벤즈알데하이드} \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온}
 $$
+(아세톤 20 vol%; L-프롤린 30 mol%)
 
 68 % 수율, 76 % ee
 
