@@ -91,9 +91,17 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 
 그림: hydride가 C–Br(빨강)을 SN2로 치환해 C–H가 된다.
 
+![2-bromopentane의 LiAlH4 환원 종합 메커니즘: AlH4−의 hydride가 C–Br 탄소를 SN2로 공격해 pentane과 Br−가 된다](../../figures/L05/lialh4_bromopentane_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 SN2이므로 중간체가 없고, 곡선 화살표를 위 줄의 반응물에 바로 그렸다. $\mathrm{AlH}_4^-$ 의 Al–H 결합(파랑, nucleophile)의 hydride가 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–H 결합(초록)이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다. 남은 $\mathrm{AlH}_3$ 는 생성물 쪽에 적었고 $\mathrm{Li}^+$ 는 그리지 않았다.
+
 ![PhCH(Br)CH3 + LiAlD4 → PhCHDCH3](../../figures/L05/liald4_bromoethylbenzene.svg)
 
 그림: LiAl $D_4$ 를 쓰면 Br(빨강) 자리에 D(초록)가 들어간다.
+
+![(1-bromoethyl)benzene + LiAlD4의 SN2 종합 메커니즘: AlD4−의 D가 Br이 있던 탄소를 직접 공격해 PhCHDCH3와 Br−가 된다](../../figures/L05/liald4_bromoethylbenzene_mech.svg)
+
+그림: 위 반응식의 메커니즘이다. 한 단계 SN2이므로 중간체가 없고, 곡선 화살표를 위 줄의 반응물에 바로 그렸다. $\mathrm{AlD}_4^-$ 의 Al–D 결합(파랑, nucleophile)의 deuteride가 C–Br 탄소(빨강, electrophile)를 Br의 반대쪽에서 공격해 새 C–D 결합(초록)이 생기고, C–Br 결합 전자는 Br로 가서 $\mathrm{Br}^-$ 가 떠난다. D가 정확히 Br이 있던 자리에 들어간 것이 hydride가 C–Br 탄소를 직접 공격한다는 증거다. $\mathrm{Li}^+$ 는 그리지 않았다.
 
 ## 흔한 오해
 
