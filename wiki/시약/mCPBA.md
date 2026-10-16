@@ -32,7 +32,7 @@ $$
 
 ## 왜 산소가 electrophilic한가
 
-nucleophile이 말단 OH의 산소를 공격하면 O–O 결합이 끊어지면서 carboxylate(좋은 leaving group)가 떨어진다. 즉 "산소 원자에서 일어나는 SN2"다. benzene처럼 aromaticity로 안정한 π 결합과는 반응하지 않는다. (출처: L1 p.13, L3 p.9)
+nucleophile이 말단 OH의 산소를 공격하면 O–O 결합이 끊어지면서 carboxylate(좋은 leaving group)가 떨어진다. 즉 "산소 원자에서 일어나는 SN2"다. benzene처럼 aromaticity로 안정한 $\pi$ 결합과는 반응하지 않는다. (출처: L1 p.13, L3 p.9)
 
 ## 선택성
 

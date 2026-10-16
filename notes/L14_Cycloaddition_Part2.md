@@ -26,7 +26,7 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 
 ### 2. Woodward–Hoffmann 규칙 (슬라이드 p.4–7)
 - (4q+2)s + (4r)a 성분 수가 홀수면 열적 허용. suprafacial/antarafacial 정의, "허용 ≠ 반드시 일어남".
-- 2.1 DA [π4s + π2s]: 합 1, 허용(p.6). 2.2 [4+4] [π4s + π4s]: 합 0, 열적 금지(p.7).
+- 2.1 DA [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]: 합 1, 허용(p.6). 2.2 [4+4] [$\pi4\mathrm{s}$ + $\pi4\mathrm{s}$]: 합 0, 열적 금지(p.7).
 - → [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md)
 
 ### 3. 치환기의 분류: C, Z, X형 (슬라이드 p.8–9)
@@ -38,7 +38,7 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 - → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [inverse electron demand Diels–Alder](../wiki/반응/역전자%20요구%20딜스-알더%20반응.md)
 
 ### 5. DA 반응의 regioselectivity (슬라이드 p.11–15)
-- dienophile의 electrophilic 위치(β-탄소)가 diene의 nucleophilic 위치와 결합한다.
+- dienophile의 electrophilic 위치($\beta$-탄소)가 diene의 nucleophilic 위치와 결합한다.
 - 5.1 C2-치환 diene → "pseudo para"(p.12). 5.2 C1-치환 diene → "pseudo ortho", concerted but unsynchronous TS(p.13). 5.3 ortho/para 규칙(p.14). 5.4 실제 선택성 9:1, 6.8:1, 6:1, 10:1(p.15).
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md)
 
@@ -56,16 +56,16 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 - → [6+4 cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md)
 
 ### 9. [4+3] cycloaddition (슬라이드 p.22–23)
-- 1,3-dibromoacetone + Zn → oxyallyl cation(3원자 2π) + diene → cyclohept-4-enone. 6전자라 허용.
+- 1,3-dibromoacetone + Zn → oxyallyl cation(3원자 $2\pi$) + diene → cyclohept-4-enone. 6전자라 허용.
 - → [4+3 cycloaddition](../wiki/반응/4+3%20고리화%20첨가.md), [allyl cation](../wiki/개념/알릴%20양이온.md)
 
 ### 10. 광화학 [2+2] cycloaddition (슬라이드 p.24–28)
-- 10.1 열적 π2s + π2s는 금지(p.24–25). 10.2 빛을 받으면 HOMO/HOMO, LUMO/LUMO 모두 결합성이라 허용(p.26).
+- 10.1 열적 $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$는 금지(p.24–25). 10.2 빛을 받으면 HOMO/HOMO, LUMO/LUMO 모두 결합성이라 허용(p.26).
 - 10.3 각 성분 stereospecific, endo 선택성 없음(p.27). 10.4 regioselectivity는 LUMO/LUMO 큰 계수(isobutylene + cyclohexenone)(p.28).
 - → [photochemical \[2+2\] cycloaddition](../wiki/반응/광화학%202+2%20고리화%20첨가.md)
 
 ### 11. cubane (슬라이드 p.29–30)
-- cubane과 octanitrocubane. Eaton & Cole 합성: 자발적 DA endo 이량화 → hν 분자 내 [2+2] → Favorskii 고리 축소 두 번.
+- cubane과 octanitrocubane. Eaton & Cole 합성: 자발적 DA endo 이량화 → $h\nu$ 분자 내 [2+2] → Favorskii 고리 축소 두 번.
 - → [cubane](../wiki/개념/큐베인.md)
 
 ### 12. 요약 (슬라이드 p.31)
@@ -76,7 +76,7 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| butadiene 이량화 [4+2] | 가열 | 4-vinylcyclohexene | – | – | π4s+π2s, 허용 (p.7) |
+| butadiene 이량화 [4+2] | 가열 | 4-vinylcyclohexene | – | – | $\pi4\mathrm{s}$+$\pi2\mathrm{s}$, 허용 (p.7) |
 | butadiene [4+4] | 가열 | (cycloocta-1,5-diene 생성 안 됨) | – | – | [열적 금지](../wiki/개념/우드워드-호프만%20규칙.md) (p.7) |
 | 2-methoxybutadiene + acrylonitrile | DA | 4-methoxycyclohex-3-ene-1-carbonitrile | pseudo para | – | (p.11–12) |
 | 4-methylpenta-1,3-diene + methyl acrylate | DA | methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate | pseudo ortho | – | 비대칭 협동 TS (p.13) |
@@ -85,13 +85,13 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 | (E)-1-methoxybutadiene + acrolein | DA | cis-2-methoxycyclohex-3-ene-1-carbaldehyde | ortho | [endo](../wiki/개념/endo%20규칙.md) → OMe/CHO cis | 라세미 (p.16–17) |
 | (E)-1-acetoxybutadiene + (E)-crotonaldehyde | DA | 6-formyl-5-methylcyclohex-2-en-1-yl acetate | ortho (OAc/CHO) | OAc/CHO cis, CHO/Me trans | 라세미 (p.18–19) |
 | isoprene + methyl vinyl ketone | toluene 120 °C / SnCl4·5H2O 0 °C | 1-(4-methylcyclohex-3-en-1-yl)ethanone | para:meta = 71:29 / 93:7 | – | [Lewis acid](../wiki/시약/루이스%20산%20촉매.md) (p.20) |
-| tropone + cyclopentadiene | [6+4 cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md), 열 | 다리걸친 이환 ketone | – | 슬라이드 "endo" | 10π (p.21) |
+| tropone + cyclopentadiene | [6+4 cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md), 열 | 다리걸친 이환 ketone | – | 슬라이드 "endo" | $10\pi$ (p.21) |
 | 6,6-dimethylfulvene + 1-NEt2-butadiene | [6+4] 후 −HNEt2 | dimethyl azulene형 골격 | CMe2–C4 | – | (p.21) |
 | 1,3-dibromoacetone + Zn + diene | Zn | cyclohept-4-en-1-one | – | – | [4+3 cycloaddition](../wiki/반응/4+3%20고리화%20첨가.md) (p.22–23) |
-| ethylene + maleic anhydride | 가열 ✗ / hν ✓ | cyclobutane-1,2-dicarboxylic anhydride | – | supra–supra | [광화학 2+2](../wiki/반응/광화학%202+2%20고리화%20첨가.md) (p.24) |
-| dimethyl 1,2-cyclobutenedicarboxylate + 3-methylcyclohex-2-enone | hν | 4-4-6 삼환 diester ketone | – | 각 성분 stereospecific, anti | (p.27) |
-| isobutylene + cyclohex-2-enone | hν | 7,7-dimethylbicyclo[4.2.0]octan-2-one | CMe2–Cβ | cis 융합으로 그림 | LUMO/LUMO (p.28) |
-| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; hν | endo 이량체 → 새장 diketone | – | endo | [cubane](../wiki/개념/큐베인.md) (p.30) |
+| ethylene + maleic anhydride | 가열 ✗ / $h\nu$ ✓ | cyclobutane-1,2-dicarboxylic anhydride | – | supra–supra | [광화학 2+2](../wiki/반응/광화학%202+2%20고리화%20첨가.md) (p.24) |
+| dimethyl 1,2-cyclobutenedicarboxylate + 3-methylcyclohex-2-enone | $h\nu$ | 4-4-6 삼환 diester ketone | – | 각 성분 stereospecific, anti | (p.27) |
+| isobutylene + cyclohex-2-enone | $h\nu$ | 7,7-dimethylbicyclo[4.2.0]octan-2-one | CMe2–C$\beta$ | cis 융합으로 그림 | LUMO/LUMO (p.28) |
+| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | endo 이량체 → 새장 diketone | – | endo | [cubane](../wiki/개념/큐베인.md) (p.30) |
 
 ## 연습 문제
 → [L14 연습 문제](../practice/L14_Exercises.md)

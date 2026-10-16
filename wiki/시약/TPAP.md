@@ -20,14 +20,14 @@ ruthenium 산화물은 원래 강한 산화제다. 이것을 촉매로만 쓸 �
 | 1차 alcohol | aldehyde |
 | 2차 alcohol | ketone |
 
-예: α-hydroxy ester(2차 alcohol) --[TPAP]--> α-keto ester(93%). (출처: L6c p.10, p.17)
+예: $\alpha$-hydroxy ester(2차 alcohol) --[TPAP]--> $\alpha$-keto ester(93%). (출처: L6c p.10, p.17)
 
 ## 원리: 촉매 순환
 
 1. Ru(VII)가 alcohol을 산화하고 Ru(V)가 된다.
 2. NMO가 Ru(V)를 다시 Ru(VII)로 되돌리고, 자신은 *N*-methylmorpholine이 된다.
 
-즉 ruthenium은 돌기만 하고, 소모되는 것은 NMO다. alcohol 쪽에서 보면 [alcohol oxidation](../반응/알코올%20산화.md)의 일반 뼈대(O–Ru 결합 형성 → α-H 제거)를 따른다. (출처: L6c p.6, p.10)
+즉 ruthenium은 돌기만 하고, 소모되는 것은 NMO다. alcohol 쪽에서 보면 [alcohol oxidation](../반응/알코올%20산화.md)의 일반 뼈대(O–Ru 결합 형성 → $\alpha$-H 제거)를 따른다. (출처: L6c p.6, p.10)
 
 ## 이웃 시약과 비교
 

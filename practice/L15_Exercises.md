@@ -27,22 +27,22 @@
 1. 정답: 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde, OAc/CHO cis, CHO/Me trans (라세미).
    해설: (1) diene C1의 X형 OAc → "ortho" 규칙에 따라 CHO 탄소가 OAc 탄소 옆에 결합(Me 탄소는 diene C4와 결합). (2) endo 전이상태에서 CHO가 diene 아래 위치 → (E)-1-치환 diene의 C1 치환기와 cis. (3) E-diene오필 → CHO와 Me trans 보존. 슬라이드 박스와 일치. (출처: L15 p.3)
 
-2. 정답: 전자 풍부 — 2-methyl프로펜(Me, X), enamine(NR2, X), lithium enolate(O⁻, X), 2-methoxybutadiene(OMe, X). 전자 부족 — methyl acrylate(CO2Me, Z), cyclohexenone(C=O, Z), benzonitrile(CN, Z). -SiMe3는 Z형(π 받개이지만 σ 주개).
-   해설: X형은 π 주개, Z형은 π 받개. 슬라이드 p.5의 점선 왼쪽/오른쪽 배치가 이 분류에 해당. (출처: L15 p.4–5)
+2. 정답: 전자 풍부 — 2-methyl프로펜(Me, X), enamine(NR2, X), lithium enolate(O⁻, X), 2-methoxybutadiene(OMe, X). 전자 부족 — methyl acrylate(CO2Me, Z), cyclohexenone(C=O, Z), benzonitrile(CN, Z). -SiMe3는 Z형($\pi$ 받개이지만 $\sigma$ 주개).
+   해설: X형은 $\pi$ 주개, Z형은 $\pi$ 받개. 슬라이드 p.5의 점선 왼쪽/오른쪽 배치가 이 분류에 해당. (출처: L15 p.4–5)
 
-3. 정답: ketene은 누적 이중결합으로 C=C π와 C=O π가 서로 직교. alkene HOMO가 ketene C=O LUMO와 결합하면서 중앙 탄소의 직교 p 궤도와도 결합할 수 있어, ketene이 antarafacial 성분인 supra-antara [π2s + π2a] 경로가 열적으로 허용된다. 일반 alkene의 supra-supra [2+2]는 4전자(4n)라 열적으로 금지이고, supra-antara는 기하적으로 불가능하다. 생성물은 2,2,3,4-tetramethylcyclobutanone으로, 3,4-dimethyl이 cis(alkene 기하 보존).
+3. 정답: ketene은 누적 이중결합으로 C=C $\pi$와 C=O $\pi$가 서로 직교. alkene HOMO가 ketene C=O LUMO와 결합하면서 중앙 탄소의 직교 p 궤도와도 결합할 수 있어, ketene이 antarafacial 성분인 supra-antara [$\pi2\mathrm{s}$ + $\pi2\mathrm{a}$] 경로가 열적으로 허용된다. 일반 alkene의 supra-supra [2+2]는 4전자(4n)라 열적으로 금지이고, supra-antara는 기하적으로 불가능하다. 생성물은 2,2,3,4-tetramethylcyclobutanone으로, 3,4-dimethyl이 cis(alkene 기하 보존).
    (출처: L15 p.6–7, p.32)
 
-4. 정답: (a) dichloroketene Cl2C=C=O. Et3N이 α-H를 떼어 enolate를 만들고, enolate가 acyl Cl⁻을 내보내 ketene 생성. (b) 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one(cis 융합). 친전자성인 ketene carbonyl 탄소에 cyclopentadiene의 말단 탄소가 결합하고, CCl2 탄소가 그 이웃(남은 C=C에 allyl) 탄소와 결합한다. 이 계에서는 [2+2]가 [4+2]보다 빠르다.
+4. 정답: (a) dichloroketene Cl2C=C=O. Et3N이 $\alpha$-H를 떼어 enolate를 만들고, enolate가 acyl Cl⁻을 내보내 ketene 생성. (b) 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one(cis 융합). 친전자성인 ketene carbonyl 탄소에 cyclopentadiene의 말단 탄소가 결합하고, CCl2 탄소가 그 이웃(남은 C=C에 allyl) 탄소와 결합한다. 이 계에서는 [2+2]가 [4+2]보다 빠르다.
    (출처: L15 p.8)
 
-5. 정답: 1단계: 1-(chlorosulfonyl)-4-(chloromethyl)-4-methyl아제티딘-2-one. 2단계: 4-(chloromethyl)-4-methyl아제티딘-2-온(N-H β-락탐).
+5. 정답: 1단계: 1-(chlorosulfonyl)-4-(chloromethyl)-4-methyl아제티딘-2-one. 2단계: 4-(chloromethyl)-4-methyl아제티딘-2-온(N-H $\beta$-락탐).
    해설: alkene의 말단 CH2(친핵성)가 CSI carbonyl 탄소(친전자성)와 결합하고, 더 치환된 탄소(양전하를 더 잘 안정화)가 N과 결합 → N 옆 4차 탄소. NaHCO3/H2O로 S–Cl 가수분해 → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
 
-6. 정답: (a) 5-부틸-2-methylisoxazolidine (부틸이 O 옆 C5). alkene(HOMO)이 니트론(LUMO)과 상호작용; alkene 말단 CH2가 친전자성 니트론 탄소와 결합. (b) 4-acetyl-2-methylisoxazolidine (acetyl이 C4). 니트론(HOMO)의 O⁻가 친전자성 β-탄소(CH2)와 결합; alkene은 LUMO 사용.
+6. 정답: (a) 5-부틸-2-methylisoxazolidine (부틸이 O 옆 C5). alkene(HOMO)이 니트론(LUMO)과 상호작용; alkene 말단 CH2가 친전자성 니트론 탄소와 결합. (b) 4-acetyl-2-methylisoxazolidine (acetyl이 C4). 니트론(HOMO)의 O⁻가 친전자성 $\beta$-탄소(CH2)와 결합; alkene은 LUMO 사용.
    해설: 니트론은 친핵성·친전자성을 겸하므로 상대에 따라 역할이 바뀐다(슬라이드 규칙). (출처: L15 p.15)
 
-7. 정답: (a) 3-R'-4,5-cis-다이R-isoxazoline. (b) 3-R'-4,5-trans-다이R-isoxazoline. (c) 3-R'-5-R isoxazole(방향족, R이 O 옆 C5). (a)를 H2/Ni, H2O로 처리하면 N–O 수소화 분해 → β-hydroxy imine → 가수분해 → R'-CO-CH(R)-CH(OH)-R, syn-aldol 생성물.
+7. 정답: (a) 3-R'-4,5-cis-다이R-isoxazoline. (b) 3-R'-4,5-trans-다이R-isoxazoline. (c) 3-R'-5-R isoxazole(방향족, R이 O 옆 C5). (a)를 H2/Ni, H2O로 처리하면 N–O 수소화 분해 → $\beta$-hydroxy imine → 가수분해 → R'-CO-CH(R)-CH(OH)-R, syn-aldol 생성물.
    해설: 협동적 supra-supra [3+2]이므로 alkene 기하가 stereospecificity, cis 고리 관계가 syn aldol로 전달된다. trans였다면 anti aldol. (출처: L15 p.18–20)
 
 8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-쌍극 cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-쌍극 cycloaddition으로 carbonyl + carbonyl oxide(1,3-쌍극자) → 재배향 후 1,3-쌍극 cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.

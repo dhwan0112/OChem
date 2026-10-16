@@ -11,7 +11,7 @@ tags: [분류/시약, 범위/Test1, 단원/알켄-첨가, 강의/L02, 시약유�
 
 ## 개요
 
-alkene을 carbonyl 두 개로 쪼개는 방법은 [ozonolysis](../반응/오존%20분해.md)와 "OsO₄ → NaIO₄" 두 가지다. 뒤의 방법에서 NaIO₄는 두 번째 산화, 곧 C–C σ 결합의 절단을 맡는다. (출처: L2 p.16)
+alkene을 carbonyl 두 개로 쪼개는 방법은 [ozonolysis](../반응/오존%20분해.md)와 "OsO₄ → NaIO₄" 두 가지다. 뒤의 방법에서 NaIO₄는 두 번째 산화, 곧 C–C $\sigma$ 결합의 절단을 맡는다. (출처: L2 p.16)
 
 ## 무엇을 하나
 
@@ -24,7 +24,7 @@ alkene을 carbonyl 두 개로 쪼개는 방법은 [ozonolysis](../반응/오존%
 
 ## 어떻게 끊나
 
-NaIO₄가 diol의 두 OH와 고리형 **periodic acid ester**를 만들고, 고리형 메커니즘으로 C–C σ 결합이 끊어지며 carbonyl 두 개가 생긴다. (출처: L2 p.16)
+NaIO₄가 diol의 두 OH와 고리형 **periodic acid ester**를 만들고, 고리형 메커니즘으로 C–C $\sigma$ 결합이 끊어지며 carbonyl 두 개가 생긴다. (출처: L2 p.16)
 
 보충: 두 OH가 한 iodine에 함께 묶여야 하므로 이웃한(1,2-) diol이 필요하다. OsO₄와 NaIO₄를 한 번에 쓰는 방법을 Lemieux–Johnson 산화라고 한다(표준 교재 내용). (보충 근거: Clayden p.443, Wade p.496)
 

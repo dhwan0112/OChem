@@ -19,13 +19,13 @@
   1. Nu = Br: 1,2-dibromohexane(1,2-dibromohexane), BrCH2-CHBr-C4H9
   2. Nu = Cl: 1-bromo-2-클로로헥세인(1-bromo-2-chlorohexane), BrCH2-CHCl-C4H9
   3. Nu = OH(물): 1-bromo헥산-2-올(1-bromohexan-2-ol), BrCH2-CH(OH)-C4H9
-- regioselectivity 설명: bromonium 이온에서 더 많이 치환된 탄소가 δ+ 성격(cation성)을 더 많이 띠므로 nucleophile이 그쪽을 공격한다("more substituted, more positive cation character").
+- regioselectivity 설명: bromonium 이온에서 더 많이 치환된 탄소가 $\delta^{+}$ 성격(cation성)을 더 많이 띠므로 nucleophile이 그쪽을 공격한다("more substituted, more positive cation character").
 
 (출처: Tutorial_1_solution p.1)
 
 ### 해설
 
-이 문제의 핵심은 왜 Br이 한쪽 끝(C1)에만 붙고 Br, Cl, OH는 모두 안쪽 탄소(C2)에 붙느냐이다. 출발점은 Br2가 alkene의 π 전자를 받아 만드는 bromonium 이온이다. 이 3원자 고리는 대칭이 아니다. C1은 일차 탄소이고 C2는 alkyl group(부틸)가 붙은 이차 탄소이므로, C–Br⁺ 결합 중 C2–Br 쪽이 더 길고 약하며 C2에 양전하가 더 많이 쌓인다. 즉 bromonium 이온은 "C2에 부분 cation을 가진 고리"로 보는 것이 정확하다.
+이 문제의 핵심은 왜 Br이 한쪽 끝(C1)에만 붙고 Br, Cl, OH는 모두 안쪽 탄소(C2)에 붙느냐이다. 출발점은 Br2가 alkene의 $\pi$ 전자를 받아 만드는 bromonium 이온이다. 이 3원자 고리는 대칭이 아니다. C1은 일차 탄소이고 C2는 alkyl group(부틸)가 붙은 이차 탄소이므로, C–Br⁺ 결합 중 C2–Br 쪽이 더 길고 약하며 C2에 양전하가 더 많이 쌓인다. 즉 bromonium 이온은 "C2에 부분 cation을 가진 고리"로 보는 것이 정확하다.
 
 그래서 nucleophile은 C2를 공격한다. 그런데 이 용액에는 nucleophile이 셋이나 있다. Br2가 쪼개지며 생긴 Br⁻, 일부러 넣은 Cl⁻, 그리고 용매인 H2O다. 세 nucleophile이 같은 bromonium 이온을 두고 경쟁하므로 세 생성물이 섞여 나온다. 물은 중성 nucleophile라서 공격한 직후에는 oxonium(R–OH2⁺)이 되고, 양성자를 잃으면 bromohydrin이 된다. 물은 양이 압도적으로 많아서 실제로는 bromohydrin이 많이 생기는 경우가 흔하다. 다만 공식 풀이는 비율을 따지지 않았다.
 
@@ -33,7 +33,7 @@
 
 ### 핵심 개념
 
-- bromonium 이온은 비대칭이며, 더 많이 치환된 탄소가 δ+를 더 크게 띤다.
+- bromonium 이온은 비대칭이며, 더 많이 치환된 탄소가 $\delta^{+}$를 더 크게 띤다.
 - 여러 nucleophile(Br⁻, Cl⁻, H2O)가 공존하면 경쟁 생성물이 섞인다.
 - nucleophile은 더 치환된 탄소를, anti 방향에서 공격한다(Markovnikov형, anti 첨가).
 
@@ -49,7 +49,7 @@
 
 ### 공식 풀이
 
-- 1단계(수소붕소화, hydroboration): H–BR2는 Hδ⁻–Bδ⁺로 분극되어 있다. B는 덜 치환된 탄소(CH–CH3 쪽)에 붙고, H는 더 치환된 탄소(cyclopentyl이 붙은 쪽, "more substituted, more positive character")에 붙는다. 수소붕소화는 **syn 첨가**다. 생성물은 라세미(±) alkyl보레인으로 그려져 있다.
+- 1단계(수소붕소화, hydroboration): H–BR2는 H$\delta^{-}$–B$\delta^{+}$로 분극되어 있다. B는 덜 치환된 탄소(CH–CH3 쪽)에 붙고, H는 더 치환된 탄소(cyclopentyl이 붙은 쪽, "more substituted, more positive character")에 붙는다. 수소붕소화는 **syn 첨가**다. 생성물은 라세미(±) alkyl보레인으로 그려져 있다.
 - 2단계(H2O2): B가 OH로 바뀌며 입체화학이 유지된다. 생성물은 3-cyclopentylbutane-2-올(3-cyclopentylbutan-2-ol)이며, 라세미(±)이다. 풀이 그림에서는 지그재그 Me–C–C–Me 골격 위에, cyclopentyl 쪽 탄소에 cyclopentyl(hash)과 H(wedge)가, 카비놀 탄소에 H(hash)와 OH(wedge)가 그려져 있다.
 - 3단계(TsCl, base): OH가 OTs로 바뀌며 입체화학이 유지된다(±).
 - 4단계(KCN, SN2): CN⁻이 OTs의 뒤쪽에서 공격하여 **입체 inversion of stereochemistry**이 일어난다. 생성물은 3-cyclopentyl-2-methylbutanenitrile(3-cyclopentyl-2-methylbutanenitrile)이다.
@@ -58,7 +58,7 @@
 
 ### 해설
 
-이 문제의 핵심은 단계마다 입체중심이 "새로 생기는가, 유지되는가, 뒤집히는가"를 끝까지 추적하는 것이다. 첫 단계부터 보자. 9-BBN의 B–H 결합에서 B는 빈 p 오비탈을 가진 electrophile다. 그래서 B가 alkene π 전자를 받는 순간, alkene의 두 탄소 중 양전하를 더 잘 견디는 탄소(cyclopentyl과 methyl이 붙은 삼치환 탄소)에 δ+가 생긴다. 그런데 이 δ+ 탄소로 넘어오는 것은 B가 아니라 B에 붙어 있던 H(δ⁻)다. 즉 4중심 전이상태에서 B는 덜 치환된 탄소에, H는 더 치환된 탄소에 동시에 붙는다. 게다가 9-BBN은 부피가 커서 입체적으로도 덜 붐비는 탄소를 강하게 선호한다. 그 결과가 "반-Markovnikov(anti-Markovnikov)" regioselectivity이다.
+이 문제의 핵심은 단계마다 입체중심이 "새로 생기는가, 유지되는가, 뒤집히는가"를 끝까지 추적하는 것이다. 첫 단계부터 보자. 9-BBN의 B–H 결합에서 B는 빈 p 오비탈을 가진 electrophile다. 그래서 B가 alkene $\pi$ 전자를 받는 순간, alkene의 두 탄소 중 양전하를 더 잘 견디는 탄소(cyclopentyl과 methyl이 붙은 삼치환 탄소)에 $\delta^{+}$가 생긴다. 그런데 이 $\delta^{+}$ 탄소로 넘어오는 것은 B가 아니라 B에 붙어 있던 H($\delta^{-}$)다. 즉 4중심 전이상태에서 B는 덜 치환된 탄소에, H는 더 치환된 탄소에 동시에 붙는다. 게다가 9-BBN은 부피가 커서 입체적으로도 덜 붐비는 탄소를 강하게 선호한다. 그 결과가 "반-Markovnikov(anti-Markovnikov)" regioselectivity이다.
 
 그런데 B와 H가 한 번에, 같은 면에서 들어오므로 첨가는 syn이다. 이 기질은 삼치환 alkene이라서 두 탄소 모두 새 입체중심이 된다. 그래서 두 입체중심의 상대배치는 alkene의 기하(E)와 syn 첨가에 의해 하나로 정해진다. alkene의 위·아래 면은 동등하게 공격받으므로 생성물은 라세미체(±)다. 직접 CIP 순위를 매겨 보면 alcohol은 (2R*,3S*)-3-cyclopentylbutane-2-ol, 즉 (2R,3S)/(2S,3R) 쌍이다. 이 표기는 공식 풀이의 wedge/hash 그림에서 이 해설이 직접 계산한 값이며, 풀이에 적혀 있지는 않다.
 
@@ -94,14 +94,14 @@
 
 이 문제의 핵심은 왜 E2 제거가 "엉뚱해 보이는" 방향으로 일어나는가이다. 먼저 1단계는 문제 1과 같은 논리다. Br2가 bromonium 이온을 만들고, 용매인 EtOH가 nucleophile로 작용한다. bromonium의 두 탄소 중 C1은 삼차(ethyl과 고리 탄소 둘)이고 C2는 이차다. 그래서 양전하가 더 큰 C1을 EtOH가 공격하고, 그 방향은 Br의 anti이다. 즉 Br(C2)과 OEt(C1)는 고리 위에서 trans가 된다. 이것을 bromoether라 하며, halohydrin 형성의 alcohol 버전이다.
 
-그런데 2단계의 E2에서 쓸 수 있는 β-수소를 찾아보면 선택지가 좁다. Br이 붙은 C2의 이웃은 C1과 C3인데, C1은 OEt와 Et가 붙은 사차 탄소라서 H가 아예 없다. 그래서 제거는 C3의 H와만 일어날 수 있다. 게다가 E2는 H와 Br이 anti-periplanar(cyclohexane에서는 trans-diaxial)여야 한다. C3에는 CH2의 수소 두 개가 있으므로 그중 하나는 항상 Br과 diaxial 배치를 이룰 수 있다. 결과적으로 C2=C3 이중결합이 생기고, 원래의 C1은 allyl 위치의 사차 OEt, Et로 남는다. 새로 번호를 매기면 3-ethoxy-3-ethylcyclohexene이다. 부피 큰 tBuOK는 SN2 치환 대신 제거를 하도록 고른 염기다.
+그런데 2단계의 E2에서 쓸 수 있는 $\beta$-수소를 찾아보면 선택지가 좁다. Br이 붙은 C2의 이웃은 C1과 C3인데, C1은 OEt와 Et가 붙은 사차 탄소라서 H가 아예 없다. 그래서 제거는 C3의 H와만 일어날 수 있다. 게다가 E2는 H와 Br이 anti-periplanar(cyclohexane에서는 trans-diaxial)여야 한다. C3에는 CH2의 수소 두 개가 있으므로 그중 하나는 항상 Br과 diaxial 배치를 이룰 수 있다. 결과적으로 C2=C3 이중결합이 생기고, 원래의 C1은 allyl 위치의 사차 OEt, Et로 남는다. 새로 번호를 매기면 3-ethoxy-3-ethylcyclohexene이다. 부피 큰 tBuOK는 SN2 치환 대신 제거를 하도록 고른 염기다.
 
 마지막 ozone분해에서는 고리 안의 C=C가 끊어지므로 고리가 열려 사슬이 된다. 이중결합의 두 탄소가 각각 CHO가 되고, Me2S는 ozonide를 환원적으로 분해해 산이 아닌 aldehyde에서 멈추게 한다. 즉 고리 탄소 6개가 그대로 사슬 6개가 되어 hexane다이알 골격이 되고, 원래 C1이었던 탄소가 한쪽 CHO의 바로 옆(C2)에서 Et와 OEt를 들고 있다. 이 C2는 입체중심이지만 처음부터 라세미였으므로 최종 생성물도 라세미다. (→ [L1](../notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) 문서 bromonium 부분, L02 문서 ozone분해 부분 참고)
 
 ### 핵심 개념
 
 - Br2/ROH: bromoether 형성(Markovnikov, anti 첨가).
-- E2의 regioselectivity은 "anti-periplanar β-H가 어디 있는가"가 결정한다. 사차 탄소 쪽으로는 제거가 불가능하다.
+- E2의 regioselectivity은 "anti-periplanar $\beta$-H가 어디 있는가"가 결정한다. 사차 탄소 쪽으로는 제거가 불가능하다.
 - O3 후 Me2S(환원적 후처리): C=C → 두 개의 C=O. 고리 alkene이면 고리가 열린다.
 
 ---
@@ -160,7 +160,7 @@
 
 ### 해설
 
-이 문제의 핵심은 치환기가 왜 특정 위치로 electrophile을 보내느냐이다. 판단 기준은 하나다. electrophile이 붙은 뒤 생기는 cation intermediate(arenium 이온, arenium ion 또는 σ-complex)의 양전하가 어디에 놓이는지 보는 것이다. ortho나 para로 공격하면 공명 구조 중 하나에서 양전하가 치환기가 붙은 ipso 위에 놓인다. meta로 공격하면 그런 공명 구조가 없다.
+이 문제의 핵심은 치환기가 왜 특정 위치로 electrophile을 보내느냐이다. 판단 기준은 하나다. electrophile이 붙은 뒤 생기는 cation intermediate(arenium 이온, arenium ion 또는 $\sigma$-complex)의 양전하가 어디에 놓이는지 보는 것이다. ortho나 para로 공격하면 공명 구조 중 하나에서 양전하가 치환기가 붙은 ipso 위에 놓인다. meta로 공격하면 그런 공명 구조가 없다.
 
 그래서 ipso 탄소의 양전하를 안정화하는 치환기는 o/p 지향기가 된다. ethyl group은 유도 효과와 초공액으로 전자를 주므로 약한 활성화 o/p 지향기다. OMe와 NHAc는 O와 N의 비공유 전자쌍이 ipso cation에 직접 전자를 밀어 넣어 oxonium/iminium 형태의 공명 구조를 추가로 만든다. 그래서 강한 활성화 o/p 지향기다. NHAc는 N의 전자쌍이 carbonyl과도 공명하므로 NH2보다는 약하다. 그런데 Cl은 독특하다. 전기음성도 때문에 유도 효과로 고리 전체를 비활성화하지만(반응이 benzene보다 느림), 비공유 전자쌍의 공명 기여는 ortho/para intermediate에서만 가능하다. 즉 "비활성화이지만 o/p 지향"이다.
 
@@ -196,9 +196,9 @@
 
 이 문제의 핵심은 왜 cyclobutylmethyl기가 그대로 붙지 않고 cyclopentyl기가 붙느냐이다. Friedel–Crafts alkylation에서 electrophile은 carbocation(또는 그에 가까운 halogenationalkyl–AlBr3 착물)이다. carbocation은 더 안정한 형태로 rearrangement될 기회가 있으면 거의 항상 재배열한다. 그런데 여기서 생기는 ⁺CH2–cyclobutyl은 일차 cation이라 매우 불안정하다.
 
-그래서 이웃한 cyclobutane 고리의 C–C σ 결합이 전자쌍을 들고 cation 중심으로 옮겨 간다(1,2-alkyl 이동). 그러면 원래의 CH2가 고리 안으로 편입되어 4원자 고리가 5원자 고리로 넓어지고, 양전하는 이차 cyclopentyl cation으로 옮겨 간다. 이 이동은 두 가지 이유로 강하게 유리하다. 하나는 일차 → 이차 cation의 안정화이고, 다른 하나는 고리 변형 ring strain이 큰 cyclobutane(약 26 kcal/mol)이 거의 변형이 없는 cyclopentane(약 6 kcal/mol)으로 바뀌는 것이다. 즉 전하 안정화와 변형 해소가 같은 방향으로 작용한다.
+그래서 이웃한 cyclobutane 고리의 C–C $\sigma$ 결합이 전자쌍을 들고 cation 중심으로 옮겨 간다(1,2-alkyl 이동). 그러면 원래의 CH2가 고리 안으로 편입되어 4원자 고리가 5원자 고리로 넓어지고, 양전하는 이차 cyclopentyl cation으로 옮겨 간다. 이 이동은 두 가지 이유로 강하게 유리하다. 하나는 일차 → 이차 cation의 안정화이고, 다른 하나는 고리 변형 ring strain이 큰 cyclobutane(약 26 kcal/mol)이 거의 변형이 없는 cyclopentane(약 6 kcal/mol)으로 바뀌는 것이다. 즉 전하 안정화와 변형 해소가 같은 방향으로 작용한다.
 
-이후는 일반적인 EAS다. benzene의 π 전자가 cyclopentyl cation을 공격해 arenium 이온을 만들고, AlBr4⁻(또는 Br⁻)가 H⁺를 떼어 내 방향족성이 회복된다. 한 가지 덧붙이면, 공식 풀이는 편의상 자유 일차 cation을 그렸다. 실제로 자유 일차 cation은 거의 생기지 않으며, C–Br–AlBr3 착물의 이온화와 alkyl 이동이 동시에(협동적으로) 일어난다고 보는 것이 더 정확하다. cyclopentylbenzene은 같다. 이 재배열 문제 때문에 다음 문제 7에서는 alkylation 대신 acylation을 쓴다. (→ [L3](../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) EAS 강의의 Friedel–Crafts alkylation·재배열 부분 참고)
+이후는 일반적인 EAS다. benzene의 $\pi$ 전자가 cyclopentyl cation을 공격해 arenium 이온을 만들고, AlBr4⁻(또는 Br⁻)가 H⁺를 떼어 내 방향족성이 회복된다. 한 가지 덧붙이면, 공식 풀이는 편의상 자유 일차 cation을 그렸다. 실제로 자유 일차 cation은 거의 생기지 않으며, C–Br–AlBr3 착물의 이온화와 alkyl 이동이 동시에(협동적으로) 일어난다고 보는 것이 더 정확하다. cyclopentylbenzene은 같다. 이 재배열 문제 때문에 다음 문제 7에서는 alkylation 대신 acylation을 쓴다. (→ [L3](../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) EAS 강의의 Friedel–Crafts alkylation·재배열 부분 참고)
 
 ### 핵심 개념
 

@@ -15,12 +15,12 @@
 
 ## 개요
 
-L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 **stereochemistry**와 **실제 합성 도구**로 넓힌다. 먼저 regioselectivity를 한 줄로 예측하는 δ⁺/δ⁻ 요령을 세우고, 그것으로 epoxide 고리 열기의 산/염기 대비를 설명한다. 이어 SN2 inversion에서 나오는 anti cyclohexene bromination, NBS를 보고, 1,2-diol을 *trans*/*cis*로 골라 만드는 방법, 이중결합을 완전히 끊는 두 방법(OsO₄ → NaIO₄, ozonolysis)을 다룬다. 마지막으로 OH 하나를 붙이는 두 방향, 즉 Markovnikov 수화와 "anti-Markovnikov" hydroboration-oxidation을 비교한다. 강의 끝의 요약 지도(p.28)는 [electrophilic addition to alkenes (overview)](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 설명했다.
+L2는 L1의 원리($\pi$ 전자가 electrophile을 공격)와 두 intermediate를 **stereochemistry**와 **실제 합성 도구**로 넓힌다. 먼저 regioselectivity를 한 줄로 예측하는 $\delta^{+}$/$\delta^{-}$ 요령을 세우고, 그것으로 epoxide 고리 열기의 산/염기 대비를 설명한다. 이어 SN2 inversion에서 나오는 anti cyclohexene bromination, NBS를 보고, 1,2-diol을 *trans*/*cis*로 골라 만드는 방법, 이중결합을 완전히 끊는 두 방법(OsO₄ → NaIO₄, ozonolysis)을 다룬다. 마지막으로 OH 하나를 붙이는 두 방향, 즉 Markovnikov 수화와 "anti-Markovnikov" hydroboration-oxidation을 비교한다. 강의 끝의 요약 지도(p.28)는 [electrophilic addition to alkenes (overview)](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)에 설명했다.
 
 ## 강의 흐름
 
-### 1. regioselectivity을 예측하는 한 줄 요령: δ⁺와 δ⁻ (슬라이드 p.2–6)
-- 시약의 δ⁻ 원자는 더 치환된 탄소로, δ⁺ 원자는 덜 치환된 탄소로 간다(양전하가 더 치환된 탄소에 쌓이므로)(p.2–4). → [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
+### 1. regioselectivity을 예측하는 한 줄 요령: $\delta^{+}$와 $\delta^{-}$ (슬라이드 p.2–6)
+- 시약의 $\delta^{-}$ 원자는 더 치환된 탄소로, $\delta^{+}$ 원자는 덜 치환된 탄소로 간다(양전하가 더 치환된 탄소에 쌓이므로)(p.2–4). → [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
 - 1.1 diene에서는 regioselectivity가 두 번 나온다(H⁺의 위치, allyl cation과 bromide 사이)(p.5). → [electrophilic addition to dienes](../wiki/반응/다이엔의%20친전자성%20첨가.md), [allyl cation](../wiki/개념/알릴%20양이온.md)
 - 1.2 1,3-butadiene + Br₂: 0 °C는 1,2(kinetic), 가열은 (*E*)-1,4(thermodynamic)(p.6). → [electrophilic addition to dienes](../wiki/반응/다이엔의%20친전자성%20첨가.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
@@ -41,7 +41,7 @@ L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 *
 - → [dihydroxylation](../wiki/반응/다이하이드록실화.md), [OsO4](../wiki/시약/OsO4.md), [NMO](../wiki/시약/NMO.md), [mCPBA](../wiki/시약/mCPBA.md)
 
 ### 5. 이중결합 완전히 끊기 (슬라이드 p.16–18)
-- 5.1 OsO₄로 diol → NaIO₄가 고리형 periodate ester를 거쳐 C–C σ를 끊는다(p.16). → [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../wiki/시약/NaIO4.md)
+- 5.1 OsO₄로 diol → NaIO₄가 고리형 periodate ester를 거쳐 C–C $\sigma$를 끊는다(p.16). → [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../wiki/시약/NaIO4.md)
 - 5.2 ozonolysis: O₃ 첨가 → 붕괴(carbonyl + carbonyl oxide) → 후처리. Me₂S는 aldehyde, H₂O₂는 acid, NaBH₄는 alcohol(p.17–18). → [ozonolysis](../wiki/반응/오존%20분해.md), [ozone](../wiki/시약/오존.md)
 
 ### 6. OH 하나 붙이기: 물을 이중결합에 더하는 법 (슬라이드 p.19–21)
@@ -51,7 +51,7 @@ L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 *
 
 ### 7. 수소붕소화: "반마르코프니코프" alcohol (슬라이드 p.22–27)
 - 7.1 BH₃는 diborane(3중심 2전자 결합)으로 존재하고 ether 착물로 쓴다(p.22–23). → [borane](../wiki/시약/보레인.md)
-- 7.2 concerted syn addition, B(δ⁺)는 덜 치환된 탄소로: "seemingly anti-Markovnikov"(p.24). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
+- 7.2 concerted syn addition, B($\delta^{+}$)는 덜 치환된 탄소로: "seemingly anti-Markovnikov"(p.24). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
 - 7.3 H₂O₂/NaOH oxidation: ate complex에서 alkyl group이 B → O로 이동(p.25). → [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md)
 - 7.4 9-BBN은 입체 효과가 더해져 94% → 99.9%(p.26–27). → [9-BBN](../wiki/시약/9-BBN.md)
 
@@ -59,12 +59,12 @@ L2는 L1의 원리(π 전자가 electrophile을 공격)와 두 intermediate를 *
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | stereochemistry | 비고 |
 |---|---|---|---|---|---|
-| [epoxide ring opening](../wiki/반응/에폭사이드%20고리%20열기.md) (산) | ROH, H⁺ | β-alkoxy alcohol | Nu는 더 치환된 C에 | inversion (anti) | loose SN2, 전자 효과 |
-| epoxide 열기 (염기) | RO⁻ (강한 Nu) | β-alkoxy alcohol | Nu는 덜 치환된 C에 | inversion (anti) | 순수 SN2, 입체 효과 |
-| epoxide + amine | R₂NH | β-amino alcohol | (대칭 기질) | inversion, *trans* | |
+| [epoxide ring opening](../wiki/반응/에폭사이드%20고리%20열기.md) (산) | ROH, H⁺ | $\beta$-alkoxy alcohol | Nu는 더 치환된 C에 | inversion (anti) | loose SN2, 전자 효과 |
+| epoxide 열기 (염기) | RO⁻ (강한 Nu) | $\beta$-alkoxy alcohol | Nu는 덜 치환된 C에 | inversion (anti) | 순수 SN2, 입체 효과 |
+| epoxide + amine | R₂NH | $\beta$-amino alcohol | (대칭 기질) | inversion, *trans* | |
 | [cyclohexene bromination](../wiki/반응/할로젠%20첨가.md) | Br₂ | *trans*-1,2-dibromide | | anti; diaxial → diequatorial | diastereomer 하나만 |
-| [bromohydrin](../wiki/반응/할로하이드린%20형성.md) | NBS, cat. HBr, H₂O/DMSO | β-bromo alcohol | OH는 더 치환된 C에 | anti | NBS = Br₂ 공급원 |
-| bromoether | NBS, HBr, 그다음 ROH | β-bromo ether | OR은 더 치환된 C에 | anti | |
+| [bromohydrin](../wiki/반응/할로하이드린%20형성.md) | NBS, cat. HBr, H₂O/DMSO | $\beta$-bromo alcohol | OH는 더 치환된 C에 | anti | NBS = Br₂ 공급원 |
+| bromoether | NBS, HBr, 그다음 ROH | $\beta$-bromo ether | OR은 더 치환된 C에 | anti | |
 | anti diol | 1. mCPBA 2. H₂O, HClO₄ | *trans*-1,2-diol | | anti | |
 | [syn diol](../wiki/반응/다이하이드록실화.md) | OsO₄ (또는 cat. OsO₄, NMO) | *cis*-1,2-diol | | syn, stereospecific | osmate ester |
 | [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md) | NaIO₄ | carbonyl 2개 | | | 고리형 periodate ester |

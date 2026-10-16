@@ -32,7 +32,7 @@
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md), [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md)
 
 #### 1.2 3차 alcohol은 왜 산화되지 않나 (p.6)
-- 일반 메커니즘: O–LG 결합 형성 → 염기가 α-H 제거(E2형). 3차 alcohol에는 α-H가 없다.
+- 일반 메커니즘: O–LG 결합 형성 → 염기가 $\alpha$-H 제거(E2형). 3차 alcohol에는 $\alpha$-H가 없다.
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 
 ### 2. alcohol → aldehyde/ketone: 순한 산화제들 (L6c p.7–14)
@@ -155,7 +155,7 @@
 | [dissolving metal reduction](../wiki/반응/용해%20금속%20환원.md) | Na, NH₃(l), t-BuOH | E-alkene | trans vinyl anion → E | SET (p.23–24) |
 | ylide 생성 ([phosphorus ylide](../wiki/시약/인%20일라이드.md)) | PPh₃ + RCH₂X (S<sub>N</sub>2); BuLi/PhLi/t-BuOK (안정화형은 Na₂CO₃) | Ph₃P=CHR | 1°/2° halide | (p.26, 29) |
 | [Wittig](../wiki/반응/위티그%20반응.md) (비안정화) | Ph₃P=CHR (R = alkyl) + R′CHO | R–CH=CH–R′ | Z-선택적 | syn oxaphosphetane (p.31, 34) |
-| [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph₃P=CHCO₂Et, Ph₃P=CHCHO 등 + RCHO | α,β-unsaturated carbonyl | E-선택적 | (p.30) |
+| [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph₃P=CHCO₂Et, Ph₃P=CHCHO 등 + RCHO | $\alpha,\beta$-unsaturated carbonyl | E-선택적 | (p.30) |
 | [HWE](../wiki/반응/HWE%20반응.md) | (EtO)₂P(O)CH₂EWG, NaH/EtO⁻/KHMDS + aldehyde·ketone | alkene | E-선택적(이치환) | 수용성 phosphate 부산물 (p.36–37) |
 
 (쪽 번호는 모두 L6c 기준)

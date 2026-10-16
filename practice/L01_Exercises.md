@@ -15,11 +15,11 @@
 
 ## 정답 및 해설
 
-1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 π 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
-2. HOMO는 채워진 C=C π 궤도함수, LUMO는 비어 있는 Br-Br σ\* 궤도함수다. π 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 σ\*는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
+1. cyclohexane은 변화가 없다(주황색 유지). cyclohexene은 bromine water가 탈색된다. 알케인에는 친핵성 $\pi$ 결합이 없어 Br₂와 반응하지 못하지만, alkene은 Br₂와 electrophilic addition을 일으켜 Br₂가 소모되기 때문이다. (L1 p.8)
+2. HOMO는 채워진 C=C $\pi$ 궤도함수, LUMO는 비어 있는 Br-Br $\sigma$\* 궤도함수다. $\pi$ 전자 밀도는 두 탄소의 중앙에서 가장 높다. 그리고 $\sigma$\*는 Br-Br 결합축 방향으로 뻗어 있으므로, 결합성 겹침이 일어나려면 Br₂가 결합축을 따라 끝부분부터 다가와야 한다. (L1 p.9-10)
 3. *cis*-2-butene에서는 *cis*-2,3-dimethyl옥시레인(메소 화합물)이, *trans*-2-butene에서는 *trans*-2,3-dimethyl옥시레인(라세미체)이 생긴다. 두 C-O 결합이 같은 면에서 동시에 생기므로 입체특이적이다. 메소/라세미 판정은 보충 설명이며, 원리는 L1 p.15의 스틸벤 예와 같다. (보충 근거: Clayden p.854)
 4. 주생성물은 1-bromo-1-phenyl에테인(PhCHBrCH₃)이다. H⁺가 말단 CH₂에 붙으면 공명 안정화된 benzyl cation이 생긴다. 반대로 붙으면 불안정한 1차 cation이 생기므로 그 경로는 일어나지 않는다. (L1 p.17)
 5. 0 °C에서는 3,4-dibromo-1-butene(1,2-첨가, kinetic 생성물)이, 가열하면 (*E*)-1,4-dibromo-2-butene(1,4-첨가, thermodynamic 생성물)이 주생성물이다. 1,4-생성물은 이치환 내부 alkene이라 더 안정하고, 가열하면 두 생성물 사이의 평형이 thermodynamic 생성물 쪽으로 이동한다. (L2 p.6)
 6. 생성물은 1-bromo-2-methoxy-2-methylpropane((CH₃)₂C(OMe)CH₂Br)이다. bromonium 이온이 열리는 느슨한 S<sub>N</sub>2 transition state에서 C-Br 결합이 먼저 늘어나며 부분 양전하가 생긴다. 이 양전하는 alkyl group 두 개가 안정화하는 3차 탄소 쪽에 더 잘 쌓이므로 methanol이 그쪽을 공격한다. 이는 전자 효과에 의한 선택성이다. (L1 p.22-23)
 7. (a) mCPBA로 직접 에폭시화한다. (b) Br₂/H₂O로 bromohydrin((CH₃)₂C(OH)CH₂Br)을 만든 뒤, 염기로 alkoxide를 만들어 분자내 S<sub>N</sub>2로 고리를 닫는다. (L1 p.14, p.21)
-8. 2,3-dimethyl-2-butene > 2-methyl-2-butene > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl group이 많을수록 π 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)
+8. 2,3-dimethyl-2-butene > 2-methyl-2-butene > 프로펜 > ethylene 순이다(>6500 > 6500 > 24 > 1). alkyl group이 많을수록 $\pi$ 결합이 전자가 풍부해져 친핵성이 커진다. (L1 p.15)

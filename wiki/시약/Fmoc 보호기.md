@@ -27,7 +27,7 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [carboca
 
 ## 메커니즘: 왜 염기에 약한가
 
-대신 Fmoc에는 다른 약점이 있다. fluorene 9번 위치의 C–H가 pKa 약 25로, 탄소에 붙은 수소치고는 꽤 산성이다. 이 H가 떨어지고 나면 생기는 anion이 14-electron aromatic system을 이루어 안정화되기 때문이다(→ [aromaticity](../개념/방향족성.md), [α-H acidity](../개념/α-수소의%20산도.md)). 그래서 염기를 만나면 다음과 같은 E1cB elimination이 일어난다.
+대신 Fmoc에는 다른 약점이 있다. fluorene 9번 위치의 C–H가 pKa 약 25로, 탄소에 붙은 수소치고는 꽤 산성이다. 이 H가 떨어지고 나면 생기는 anion이 14-electron aromatic system을 이루어 안정화되기 때문이다(→ [aromaticity](../개념/방향족성.md), [$\alpha$-H acidity](../개념/α-수소의%20산도.md)). 그래서 염기를 만나면 다음과 같은 E1cB elimination이 일어난다.
 
 1. amine 염기(:NR3)가 fluorene 9번 C–H를 deprotonation한다(가역).
 2. 생긴 fluorenyl anion은 aromaticity로 안정화된다.
@@ -40,7 +40,7 @@ carbamate O에 붙은 탄소가 CH2, 즉 1차 탄소이므로 안정한 [carboca
 
 (출처: L12 p.11)
 
-보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 aromatic anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 aromatic인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 π계를 이룬다). (보충 근거: Clayden p.559)
+보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 aromatic anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 aromatic인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 $\pi$계를 이룬다). (보충 근거: Clayden p.559)
 
 실제 peptide 합성에서는 piperidine 같은 2차 amine을 주로 쓴다.[^1] 결국 Boc(산에 약하고 염기에 강함)와 Fmoc(산에 강하고 염기에 약함)는 거울상처럼 서로 보완하는 관계이고, 이것이 orthogonal protection 전략의 토대가 된다. (출처: L12 p.11)
 

@@ -7,7 +7,7 @@ tags: [분류/개념, 범위/Test2, 인명규칙, 단원/고리화-첨가, 강�
 ---
 # endo 규칙
 
-> [Diels–Alder reaction](../반응/딜스-알더%20반응.md)에서는 dienophile의 π 치환기(C=O 등)가 diene π계 **아래로 tucked under** endo TS가 endo rule. 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
+> [Diels–Alder reaction](../반응/딜스-알더%20반응.md)에서는 dienophile의 $\pi$ 치환기(C=O 등)가 diene $\pi$계 **아래로 tucked under** endo TS가 endo rule. 이유는 secondary orbital overlap(2차 오비탈 겹침)이다.
 
 ## 개요
 
@@ -15,23 +15,23 @@ stereospecificity가 **한 반응물 안**의 치환기끼리의 관계를 정�
 
 ![cyclopentadiene + maleic anhydride의 endo adduct(생성)과 exo adduct(생성 안 됨)](../../figures/L13/endo_exo.svg)
 
-그림: 초록색은 DA 반응으로 새로 생긴 σ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 $CH_2$ 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 $CH_2$ 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.
+그림: 초록색은 DA 반응으로 새로 생긴 $\sigma$ 결합 두 개, 파란색은 다리 걸친 고리에 남은 C=C, 빨간색은 anhydride의 C=O다. 왼쪽 endo adduct에서는 anhydride 고리가 C=C 쪽(아래)으로 접혀 들어가 있어 C=C와 C=O가 분자의 같은 쪽에 놓이고, 고리 접합 H 두 개는 $CH_2$ 다리 쪽(위)을 향한다. 오른쪽 exo adduct는 반대로 anhydride가 $CH_2$ 다리 쪽을 향하고 H가 아래를 향한다. 실제로는 endo adduct만 생긴다.
 
 ## 원리
 
 ### 기하학적으로 본 endo와 exo
 
-TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 diene 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 carbonyl 같은 전자 끄는 π 치환기가 있으면 보통 endo 첨가가 우세하다. 결과적으로 생성물에서는 새 이중 결합과 C=O 기가 분자의 같은 쪽에 놓인다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 stereoisomer가 섞여 나오는 경우도 많다.[^1] (출처: L13 p.21–22)
+TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. 이때 EWG(예: CHO)가 diene 아래로 들어가면 endo TS, 바깥으로 비켜나 있으면 exo TS다. dienophile에 carbonyl 같은 전자 끄는 $\pi$ 치환기가 있으면 보통 endo 첨가가 우세하다. 결과적으로 생성물에서는 새 이중 결합과 C=O 기가 분자의 같은 쪽에 놓인다. 다만 이것은 "선호"이지 "법칙"이 아니어서 두 stereoisomer가 섞여 나오는 경우도 많다.[^1] (출처: L13 p.21–22)
 
 ### orbital로 본 endo 선호: secondary orbital overlap
 
 그 이유는 secondary orbital overlap이다. endo TS에서는 dienophile의 C=O 기가 diene 바로 아래에 놓여, 결합을 만들지 않는 diene의 "뒤쪽"(C2, C3)과 결합성으로 상호작용한다. 이 추가 안정화 덕분에 endo TS의 에너지가 낮아진다. (출처: L13 p.21)
 
-슬라이드 p.29는 cyclopentadiene dimerization을 예로 이것을 orbital로 그린다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 σ 결합을 만드는 **1차 상호작용**이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 π orbital이 diene의 C2, C3 lobe 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 **secondary orbital overlap**이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 π계를 diene 아래에 둘 수 있는 endo 경로가 선호된다(→ [frontier molecular orbital](프런티어%20분자%20오비탈.md)).[^2] (출처: L13 p.29)
+슬라이드 p.29는 cyclopentadiene dimerization을 예로 이것을 orbital로 그린다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 $\sigma$ 결합을 만드는 **1차 상호작용**이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 $\pi$ orbital이 diene의 C2, C3 lobe 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 **secondary orbital overlap**이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 $\pi$계를 diene 아래에 둘 수 있는 endo 경로가 선호된다(→ [frontier molecular orbital](프런티어%20분자%20오비탈.md)).[^2] (출처: L13 p.29)
 
 ![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
 
-그림: 위가 cyclopentadiene( $CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene π 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
+그림: 위가 cyclopentadiene( $CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene $\pi$ 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
 ### endo는 kinetic product다
 
@@ -88,7 +88,7 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 
 ## 흔한 오해
 
-- **"endo는 치환기가 다리(CH2) 아래쪽, 안쪽에 있는 것"이라고 생각하기 쉽지만 사실은** endo는 dienophile의 π 치환기가 diene π계 아래에 놓이는 배향이다. 그래서 norbornene 생성물에서는 치환기가 새 C=C 쪽, 즉 CH2 다리의 반대쪽에 있다. (출처: L13 p.21–22)
+- **"endo는 치환기가 다리(CH2) 아래쪽, 안쪽에 있는 것"이라고 생각하기 쉽지만 사실은** endo는 dienophile의 $\pi$ 치환기가 diene $\pi$계 아래에 놓이는 배향이다. 그래서 norbornene 생성물에서는 치환기가 새 C=C 쪽, 즉 CH2 다리의 반대쪽에 있다. (출처: L13 p.21–22)
 - **"secondary orbital overlap이 새 결합을 만든다"고 생각하기 쉽지만 사실은** 결합으로 이어지지 않고 endo TS만 안정화하는 kinetic effect다. (출처: L13 p.21, p.29)
 - **"endo = 치환기끼리 cis"라고 외우기 쉽지만 사실은** endo TS에서 cis가 되는 것은 diene의 **"out" 치환기**와 EWG다. "in" 치환기는 EWG와 trans가 된다. (E)-1-치환 diene에서는 치환기가 "out"이므로 endo 생성물에서 치환기와 EWG가 cis다. (출처: L14 p.17)
 - **"endo는 100% 보존되는 stereospecificity"라고 생각하기 쉽지만 사실은** stereoselectivity라 혼합물이 생길 수 있다. (출처: L13 p.22, p.31)

@@ -274,7 +274,7 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이 hydration이다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
 
 - methylylenecyclohexane --[H₂O, $H^+$]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. $\delta^+$인 H가 CH₂에, $\delta^-$인 OH가 3차 탄소에 붙는다.
-- 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 $\mathrm{HSO}_{4}^-$ 가 염기로 작용해 β-H를 떼어낸다.
+- 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 $\mathrm{HSO}_{4}^-$ 가 염기로 작용해 $\beta$-H를 떼어낸다.
 
 ![methylenecyclohexane + H2O, $H^+$ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
 
@@ -290,7 +290,7 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 
 ![t-BuOH의 산 촉매 E1 탈수 전체 메커니즘: t-BuOH + H2SO4 → oxonium ion → 3차 cation → isobutene + H2O + H2SO4](../../figures/L02/tbuoh_e1_mech.svg)
 
-그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$ 의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$ (conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$ (base, 파랑)의 전자쌍이 β-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$ 가 재생된다.
+그림: t-BuOH의 산 촉매 E1 탈수 전체 메커니즘(수화의 역반응). 위 줄이 전체 반응이고, 아래 줄은 단계별 풀이다. 1단계: OH의 전자쌍(파랑)이 $H_2SO_4$ 의 H(빨강)를 가져가 protonated alcohol(conjugate acid, 빨강)과 $HSO_4^-$ (conjugate base, 파랑)가 된다. 2단계: C–O 결합 전자가 O로 가서 물이 떠나고 3차 cation이 생긴다. 3단계: $HSO_4^-$ (base, 파랑)의 전자쌍이 $\beta$-H(빨강)를 가져가고 C–H 결합 전자가 새 C=C(초록)를 만들어 isobutene과 $H_2SO_4$ 가 재생된다.
 
 (출처: L2 p.19)
 
@@ -399,12 +399,12 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| epoxide 열기 (산) | ROH, $H^+$ | β-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
-| epoxide 열기 (염기) | $\mathrm{RO}^-$ (강한 Nu) | β-알콕시 alcohol | Nu는 덜 치환된 C에 | 반전 (anti) | 순수 S<sub>N</sub>2, 입체 효과 |
-| epoxide + amine | R₂NH | β-아미노 alcohol | (대칭 기질) | 반전, *trans* | |
+| epoxide 열기 (산) | ROH, $H^+$ | $\beta$-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
+| epoxide 열기 (염기) | $\mathrm{RO}^-$ (강한 Nu) | $\beta$-알콕시 alcohol | Nu는 덜 치환된 C에 | 반전 (anti) | 순수 S<sub>N</sub>2, 입체 효과 |
+| epoxide + amine | R₂NH | $\beta$-아미노 alcohol | (대칭 기질) | 반전, *trans* | |
 | cyclohexene bromination | Br₂ | *trans*-1,2-dibromide | | anti; diaxial → diequatorial | 부분입체이성질체 하나만 |
-| bromohydrin | NBS, cat. HBr, H₂O/DMSO | β-bromoalcohol | OH는 더 치환된 C에 | anti | NBS = Br₂ 공급원 |
-| bromoether | NBS, HBr, 그다음 ROH | β-bromoether | OR은 더 치환된 C에 | anti | |
+| bromohydrin | NBS, cat. HBr, H₂O/DMSO | $\beta$-bromoalcohol | OH는 더 치환된 C에 | anti | NBS = Br₂ 공급원 |
+| bromoether | NBS, HBr, 그다음 ROH | $\beta$-bromoether | OR은 더 치환된 C에 | anti | |
 | anti diol | 1. mCPBA 2. H₂O, HClO₄ | *trans*-1,2-diol | | anti | |
 | syn diol | OsO₄ (또는 cat. OsO₄, NMO) | *cis*-1,2-diol | | syn, 입체특이적 | 오스메이트 ester |
 | diol 절단 | NaIO₄ | carbonyl 2개 | | | 고리형 periodic acid ester |

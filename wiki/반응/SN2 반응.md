@@ -15,7 +15,7 @@ tags: [분류/반응, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 
 ## 원리
 
-- **backside attack과 inversion:** nucleophile은 C–X σ\* orbital과 가장 잘 겹치도록 leaving group의 정반대편(180°)에서 일직선으로 들어온다. 그래서 공격받은 탄소의 configuration이 inversion된다. (출처: L1 p.12)
+- **backside attack과 inversion:** nucleophile은 C–X $\sigma$\* orbital과 가장 잘 겹치도록 leaving group의 정반대편(180°)에서 일직선으로 들어온다. 그래서 공격받은 탄소의 configuration이 inversion된다. (출처: L1 p.12)
 - **입체 장애가 위치를 정한다:** 양전하가 쌓이지 않는 "순수한" SN2에서는 덜 붐비는 탄소가 공격받는다. 예를 들어 염기성 조건에서 MeO⁻는 epoxide의 1차 탄소만 공격한다. (출처: L2 p.9)
 - **기질 제한:** methyl·1차(특히 allylic·benzylic)는 좋고, 2차는 느리며 E2 elimination과 경쟁하고, 3차는 elimination만 일어난다. leaving group으로는 Cl, Br, I, OTs가 쓰인다. (출처: L7 p.9–10)
 
@@ -32,10 +32,10 @@ tags: [분류/반응, 범위/Test1, 범위/Test2, 단원/공액-첨가, 단원/�
 | [epoxide ring opening](에폭사이드%20고리%20열기.md) (염기) | RO⁻, amine → 덜 치환된 탄소 | *trans* 생성물, 입체 효과로 위치 결정 | L2 p.9–10 |
 | [amine synthesis via azide and nitrile](아자이드·나이트릴을%20거친%20아민%20합성.md) | NH₃, N₃⁻, CN⁻ → R–X | C–N 또는 C–C 결합, overalkylation 회피 | L5 p.5–8 |
 | [phosphorus ylide](../시약/인%20일라이드.md) 제조 | PPh₃ → 1차·2차 R–X | phosphonium salt → [Wittig reaction](위티그%20반응.md) | L6 p.26 |
-| [enolate alkylation](엔올레이트%20알킬화.md) | enolate α-탄소 → R–X | α-C–C 결합 형성 | L7 p.9–10; L10 p.2 |
+| [enolate alkylation](엔올레이트%20알킬화.md) | enolate $\alpha$-탄소 → R–X | $\alpha$-C–C 결합 형성 | L7 p.9–10; L10 p.2 |
 | [acetoacetic ester synthesis](아세토아세트산%20에스터%20합성.md)·[malonic ester synthesis](말론산%20에스터%20합성.md) | stabilized enolate → R–X | alkyl group 도입 후 [decarboxylation](탈카복실화.md) | L7 p.16–19 |
 | [Evans oxazolidinone](../시약/에반스%20옥사졸리디논.md) | chelated Z-enolate → BnBr | 한쪽 면에서만 SN2 → 99:1 dr | L7 p.27–28 |
-| [Stork enamine reaction](스토크%20엔아민%20반응.md) | [enamine](../개념/엔아민.md) α-탄소 → R–X | iminium ion 경유 alkylation | L10 p.11 |
+| [Stork enamine reaction](스토크%20엔아민%20반응.md) | [enamine](../개념/엔아민.md) $\alpha$-탄소 → R–X | iminium ion 경유 alkylation | L10 p.11 |
 | nitro-[Michael reaction](마이클%20반응.md) 후 고리 닫기 | nitronate 탄소 → 같은 분자의 C–I | 분자내 alkylation | L11 p.17; L13 p.6 |
 | [silyl ether protecting group](../시약/실릴%20에터%20보호기.md) 예 | lithium acetylide → C–Br | OH를 TBDMS로 막아야 SN2가 된다 | L12 p.5–6 |
 

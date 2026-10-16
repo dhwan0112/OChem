@@ -25,7 +25,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 
 예: $(EtO)_2P(O)CH_2CO_2Et$ + PhCHO
 1. EtO⁻가 P와 C=O 사이의 산성 CH₂ 양성자를 떼어 enolate를 만든다.
-2. enolate의 α-탄소(nucleophile)가 PhCHO의 carbonyl electrophile을 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol addition과 같은 모양이다.
+2. enolate의 $\alpha$-탄소(nucleophile)가 PhCHO의 carbonyl electrophile을 공격해 alkoxide가 생긴다. 슬라이드에서 박스로 강조된 이 단계가 aldol addition과 같은 모양이다.
 3. alkoxide O⁻가 인을 공격해 4원 고리 intermediate([oxaphosphetane](../개념/옥사포스페테인.md)형)를 만든다.
 4. C–P, O–P 결합이 재배열되며 $(EtO)_2PO_2^-$가 떨어지고 C=C가 생겨 (*E*)-$EtO_2C$–CH=CH–Ph가 된다.
 
@@ -43,7 +43,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 ## 예
 
 - 2,2-dimethylcyclopentanone + $(EtO)_2P(O)CH_2CO_2Et$ --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate. 그림에서 CO₂Et는 gem-dimethyl 반대쪽으로 그려져 있다. (L6) (출처: L6c p.37)
-- 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응(β-lactam 기질 → 6원 고리가 닫힌 1-carbacephem 골격, 85%)이다([L6 연습 문제](../../practice/L06_Exercises.md) 6번). (L6) (출처: L6c p.37)
+- 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응($\beta$-lactam 기질 → 6원 고리가 닫힌 1-carbacephem 골격, 85%)이다([L6 연습 문제](../../practice/L06_Exercises.md) 6번). (L6) (출처: L6c p.37)
 
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
 

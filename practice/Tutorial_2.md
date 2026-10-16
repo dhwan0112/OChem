@@ -38,7 +38,7 @@
 
 이 문제의 핵심은 왜 이 순서로 치환기를 도입해야 하느냐이다. 방향족 다치환 화합물 합성에서는 먼저 들어간 치환기가 다음 치환기의 위치를 정한다. 그래서 역합성할 때는 "어떤 치환기가 다른 치환기를 원하는 자리로 보내 줄 수 있는가"를 먼저 따져야 한다.
 
-(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation은 protection과 위치 조절을 동시에 해 준다. 첫 번째 alkylation은 amide의 para 위치에서 일어난다. 두 번째 alkylation은 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl group의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치(β 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl group이 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
+(a)에서 amine은 처음부터 NH2로 두지 않고 amide로 바꾼 뒤에 Friedel–Crafts 반응을 한다. 왜 그럴까? 자유 amine(aniline)은 루이스 염기라서 AlCl3와 착물을 만든다. 그러면 질소가 –NH2⁺–AlCl3⁻ 같은 강한 전자끌개가 되어 고리가 비활성화되고, Friedel–Crafts 반응이 실패한다. 그런데 amide로 바꾸면 질소 전자쌍의 일부가 carbonyl로 분산되어 루이스 염기성이 떨어진다. 그러면서도 여전히 o/p 지향 활성화기로 남는다. 게다가 부피가 커서 para 선택성이 높다. 즉 acylation은 protection과 위치 조절을 동시에 해 준다. 첫 번째 alkylation은 amide의 para 위치에서 일어난다. 두 번째 alkylation은 사슬 끝의 C–Br이 AlCl3로 활성화되면서 방금 붙은 alkyl group의 ortho(amide 기준으로는 meta)에서 분자 내로 일어나 6원자 고리를 닫는다. 이 위치는 고리 크기 때문에 정해진다. 그래서 질소는 테트랄린의 2번 위치($\beta$ 위치)에 놓인다. 마지막으로 LiAlH4(또는 BH3)가 amide C=O를 CH2로 환원한다. 그 결과 뷰타노일기가 n-butyl group이 되어 이차 amine이 완성된다. amide를 "protecting group 겸 alkyl 사슬 공급원"으로 쓰는 깔끔한 설계다.
 
 다만 몇 가지는 알아 두어야 한다. 2,5-dibromohexane에서 생기는 이차 carbocation은 1,2-수소 이동으로 다른 이차 cation과 섞일 수 있다. 또 생성물의 두 methyl 입체중심(C5, C8)은 cis/trans 부분입체이성질체 혼합물로 얻어진다. 공식 풀이는 이 부분을 다루지 않았다. 이런 점은 시험 답안의 큰 줄기를 바꾸지는 않는다. (→ [L3](../notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) EAS 강의 Friedel–Crafts 부분, L05 문서의 amide 환원 부분 참고)
 
@@ -150,7 +150,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 그런데 BH3는 정반대 논리로 움직인다. BH3는 붕소의 빈 p 오비탈로 전자쌍을 받는 Lewis acid이다. 그래서 먼저 carbonyl 산소에 배위해야 반응이 시작된다. 즉 산소가 전자가 풍부한 carbonyl일수록 빠르다. carboxylic acid(빠르게 acyl옥시보레인을 형성)과 amide(N 전자쌍 때문에 O가 전자가 풍부함)가 가장 빠르고, ester는 느리다. 그래서 6번에서는 산만 alcohol로 환원되고 ester는 유지되며, 5번(LiBH4)과 정확히 거울상 같은 선택성이 나온다. 3번도 같은 논리로 amide만 amine으로 환원된다. 강의 슬라이드도 "Borane reduces esters and ketones much slower than carboxylic acids"라고 정리하고 있다(L5 p.27).
 
-덧붙이면, 1번, 5번, 6번 생성물은 모두 γ-hydroxy carbonyl 화합물이다. 그래서 산성 후처리나 가열 조건에서 분자 내 ester화가 일어나 γ-락톤으로 닫히기 쉽다(1번 → γ-발레로락톤, 5번·6번 → γ-뷰티로락톤). 공식 풀이는 열린 형태로 답했다. (→ [L5](../notes/L05_Reduction.md) 문서의 금속 수소화물·보레인 비교 부분 참고)
+덧붙이면, 1번, 5번, 6번 생성물은 모두 $\gamma$-hydroxy carbonyl 화합물이다. 그래서 산성 후처리나 가열 조건에서 분자 내 ester화가 일어나 $\gamma$-락톤으로 닫히기 쉽다(1번 → $\gamma$-발레로락톤, 5번·6번 → $\gamma$-뷰티로락톤). 공식 풀이는 열린 형태로 답했다. (→ [L5](../notes/L05_Reduction.md) 문서의 금속 수소화물·보레인 비교 부분 참고)
 
 **검토 의견:** 3번 답(BH3가 amide만 환원하고 ketone은 유지)은 강의 내용(L5 p.27)과 일치하므로 시험에서는 공식 답을 따르는 것이 안전하다. 다만 실제로는 BH3·THF가 ketone도 0 °C–실온에서 꽤 빠르게 환원한다(Brown의 반응성 서열에서 ketone은 ester보다 훨씬 빠르다). 반면 삼차 amide의 완전 환원에는 보통 가열(환류)이 필요하다. 그래서 실제 실험에서는 ketone까지 환원된 5-(dimethyl아미노)pentane-2-ol이 섞일 가능성이 크다. ketone 보존이 목적이라면 ketone을 acetal로 보호한 뒤 환원하는 편이 확실하다.
 
@@ -170,7 +170,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 공식 풀이
 
-- 역합성: 목표 α,β-unsaturated ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
+- 역합성: 목표 $\alpha,\beta$-unsaturated ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
 - 정방향:
   1. `사이클로헥산올 --[DMP]--> 사이클로헥산온`
   2. `사이클로헥산온 --[Ph3P=CHCH3 (Wittig)]--> 에틸리덴사이클로헥세인`
@@ -192,4 +192,4 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 - DMP: alcohol → aldehyde/ketone(온화한 산화).
 - 비안정화 ylide Wittig로 C=C를 만들고, 수소붕소화-산화(반-Markovnikov)로 곁사슬에 OH를 도입한다.
-- 안정화 ylide/HWE: α,β-unsaturated ester, E 선택적. ketone에는 HWE가 더 효과적이다.
+- 안정화 ylide/HWE: $\alpha,\beta$-unsaturated ester, E 선택적. ketone에는 HWE가 더 효과적이다.

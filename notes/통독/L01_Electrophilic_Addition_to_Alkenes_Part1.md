@@ -258,7 +258,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 ![비대칭 bromonium 이온을 H2O가 3차 탄소에서 여는 메커니즘](../../figures/L01/isobutene_bromohydrin_mech.svg)
 
-그림: 물의 산소(파랑) 비공유 전자쌍이 bromonium 이온의 3차 탄소(빨강, δ+)를 $\mathrm{Br}^+$ 의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자는 Br로 간다. 3차 탄소가 부분 양전하를 더 잘 견디므로 OH가 Markovnikov 위치에 붙고, 양성자를 잃으면(−$\mathrm{H}^+$) bromohydrin이 된다.
+그림: 물의 산소(파랑) 비공유 전자쌍이 bromonium 이온의 3차 탄소(빨강, $\delta^{+}$)를 $\mathrm{Br}^+$ 의 반대쪽에서 공격하고, 주황 화살표대로 C–Br 결합 전자는 Br로 간다. 3차 탄소가 부분 양전하를 더 잘 견디므로 OH가 Markovnikov 위치에 붙고, 양성자를 잃으면(−$\mathrm{H}^+$) bromohydrin이 된다.
 
 (출처: L1 p.21)
 
