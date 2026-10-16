@@ -29,7 +29,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 
 메커니즘의 이름은 "hydride" 첨가다.
 
-1. BH₄⁻의 B–H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C–H 결합이 생기고 C=O π 결합이 끊어져 alkoxide가 된다.
+1. BH₄⁻의 B–H 결합 전자쌍이 nucleophile로서 carbonyl electrophile을 공격한다. C–H 결합이 생기고 C=O $\pi$ 결합이 끊어져 alkoxide가 된다.
 2. alkoxide O가 용매 EtOH의 H를 받아 alcohol이 되고, 남은 EtO⁻는 BH₃에 붙어 EtOBH₃⁻가 된다.
 3. 그런데 EtOBH₃⁻에는 아직 B–H가 남아 있으니 여전히 환원제다.
 
@@ -77,7 +77,7 @@ $$
 
 ![butanal의 NaBH4 환원 종합 메커니즘: BH4−의 hydride가 carbonyl 탄소를 공격해 alkoxide가 되고, MeOH가 양성자를 주어 1-butanol이 되며 남은 MeO−는 BH3에 붙는다](../../figures/L05/butanal_nabh4_mech.svg)
 
-그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). butanone 그림과 단계가 같고, carbonyl 탄소에 H가 붙어 있다는 점(aldehyde)만 다르다. 용매는 반응식에 맞춰 MeOH로 그렸다. 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고 C=O π 전자는 산소로 올라가 alkoxide가 된다. 2단계: alkoxide(염기)가 MeOH(산)의 H를 가져가 1-butanol(conjugate acid)과 $\mathrm{MeO}^-$ (conjugate base)가 된다. 3단계: $\mathrm{MeO}^-$ 가 $\mathrm{BH}_3$ 에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). butanone 그림과 단계가 같고, carbonyl 탄소에 H가 붙어 있다는 점(aldehyde)만 다르다. 용매는 반응식에 맞춰 MeOH로 그렸다. 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고 C=O $\pi$ 전자는 산소로 올라가 alkoxide가 된다. 2단계: alkoxide(염기)가 MeOH(산)의 H를 가져가 1-butanol(conjugate acid)과 $\mathrm{MeO}^-$ (conjugate base)가 된다. 3단계: $\mathrm{MeO}^-$ 가 $\mathrm{BH}_3$ 에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
 
 ![butanone → 2-butanol](../../figures/L05/butanone_nabh4.svg)
 
@@ -85,7 +85,7 @@ $$
 
 ![butanone의 NaBH4 환원 종합 메커니즘: BH4−의 hydride가 carbonyl 탄소를 공격해 alkoxide가 되고, MeOH가 양성자를 주어 2-butanol이 되며 남은 MeO−는 BH3에 붙는다](../../figures/L05/butanone_nabh4_mech.svg)
 
-그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 용매는 반응식에 맞춰 MeOH로 그렸다(슬라이드 메커니즘은 EtOH이고 단계는 같다). 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고, C=O π 전자는 산소로 올라가 alkoxide $\mathrm{O}^-$ 가 된다. 2단계: alkoxide(염기, 파랑)의 비공유 전자쌍이 MeOH(산, 빨강)의 H를 가져가고, H–O 결합 전자는 O에 남아 2-butanol(conjugate acid, 빨강)과 $\mathrm{MeO}^-$ (conjugate base, 파랑)가 된다. 3단계: $\mathrm{MeO}^-$ 의 비공유 전자쌍이 $\mathrm{BH}_3$ (Lewis acid, 빨강)에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. $\mathrm{MeOBH}_3^-$ 에는 B–H가 남아 있어 여전히 환원제이므로 $\mathrm{BH}_4^-$ 하나가 hydride 네 개를 모두 쓸 수 있다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응이고 아래 줄은 단계별 풀이다(대괄호는 중간체, ⇌는 평형). 용매는 반응식에 맞춰 MeOH로 그렸다(슬라이드 메커니즘은 EtOH이고 단계는 같다). 1단계(위 줄의 화살표): $\mathrm{BH}_4^-$ 의 B–H 결합(파랑, nucleophile)이 carbonyl 탄소(빨강, electrophile)를 공격해 새 C–H 결합(초록)이 생기고, C=O $\pi$ 전자는 산소로 올라가 alkoxide $\mathrm{O}^-$ 가 된다. 2단계: alkoxide(염기, 파랑)의 비공유 전자쌍이 MeOH(산, 빨강)의 H를 가져가고, H–O 결합 전자는 O에 남아 2-butanol(conjugate acid, 빨강)과 $\mathrm{MeO}^-$ (conjugate base, 파랑)가 된다. 3단계: $\mathrm{MeO}^-$ 의 비공유 전자쌍이 $\mathrm{BH}_3$ (Lewis acid, 빨강)에 붙어 $\mathrm{MeOBH}_3^-$ 가 된다. $\mathrm{MeOBH}_3^-$ 에는 B–H가 남아 있어 여전히 환원제이므로 $\mathrm{BH}_4^-$ 하나가 hydride 네 개를 모두 쓸 수 있다. $\mathrm{Na}^+$ 는 그리지 않았다. 보충: 3단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.131, p.530)
 
 ![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
 

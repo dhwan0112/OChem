@@ -19,16 +19,16 @@ CM3121 Advanced Organic Chemistry (10/16 강의 예습)
 
 ## 개요
 
-L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고, 이 강의는 세 번째 갈래인 sigmatropic rearrangement를 다룬다(두 번째 갈래 electrocyclic reaction은 [L17](L17_Electrocyclic_Reactions.md)). 먼저 [i,j] 표기와 Δσ로 갈래를 정리하고, 가장 중요한 [3,3](Claisen, Cope)을 chair형 TS와 Woodward–Hoffmann 셈으로 분석한다. 이어서 규칙이 "허용"만 말하고 "방향"은 열역학이 정한다는 점을 Claisen·Cope 변형들로 확인한다. 마지막으로 헤테로원자가 낀 [3,3], [2,3] rearrangement, 그리고 수소 이동([1,3]/[1,5]/[1,7]H)에서 사슬 길이가 suprafacial/antarafacial을 어떻게 바꾸는지 본다. (출처: Clayden p.909)
+L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고, 이 강의는 세 번째 갈래인 sigmatropic rearrangement를 다룬다(두 번째 갈래 electrocyclic reaction은 [L17](L17_Electrocyclic_Reactions.md)). 먼저 [i,j] 표기와 $\Delta\sigma$로 갈래를 정리하고, 가장 중요한 [3,3](Claisen, Cope)을 chair형 TS와 Woodward–Hoffmann 셈으로 분석한다. 이어서 규칙이 "허용"만 말하고 "방향"은 열역학이 정한다는 점을 Claisen·Cope 변형들로 확인한다. 마지막으로 헤테로원자가 낀 [3,3], [2,3] rearrangement, 그리고 수소 이동([1,3]/[1,5]/[1,7]H)에서 사슬 길이가 suprafacial/antarafacial을 어떻게 바꾸는지 본다. (출처: Clayden p.909)
 
 ## 강의 흐름
 
 ### 1. sigmatropic rearrangement란 무엇인가 (Clayden p.910, p.917, p.919, p.922)
-- 세 갈래는 Δσ로 나뉜다(cycloaddition ±2, sigmatropic 0, electrocyclic ±1). [i,j]는 옛 σ 결합과 새 σ 결합의 위치 번호이고 TS 고리 크기 = i + j다.
+- 세 갈래는 $\Delta\sigma$로 나뉜다(cycloaddition ±2, sigmatropic 0, electrocyclic ±1). [i,j]는 옛 $\sigma$ 결합과 새 $\sigma$ 결합의 위치 번호이고 TS 고리 크기 = i + j다.
 - → [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 2. Claisen rearrangement: 처음 발견된 [3,3] (Clayden p.909–912)
-- allyl aryl/vinyl ether → γ,δ-unsaturated carbonyl. allyl group이 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
+- allyl aryl/vinyl ether → $\gamma,\delta$-unsaturated carbonyl. allyl group이 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [acetal formation](../wiki/반응/아세탈%20형성.md)
 
 ### 3. chair형 transition state: 왜 *E* alkene이 생기나 (Clayden p.910–911)
@@ -36,7 +36,7 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md)
 
 ### 4. Woodward–Hoffmann rules로 [3,3]을 판정하기 (Clayden p.912–913)
-- π2s + σ2a + π2a, (4q+2)s 하나로 합 1 → 열적 허용. σ 결합의 s/a는 retention/inversion으로 정하고, 꼬리표를 달리 붙여도 홀짝은 같다.
+- $\pi2\mathrm{s}$ + $\sigma2\mathrm{a}$ + $\pi2\mathrm{a}$, (4q+2)s 하나로 합 1 → 열적 허용. $\sigma$ 결합의 s/a는 retention/inversion으로 정하고, 꼬리표를 달리 붙여도 홀짝은 같다.
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
 
 ### 5. 방향: 규칙은 "허용"만 말하고 "어느 쪽"은 말하지 않는다 (Clayden p.913, p.923)
@@ -52,11 +52,11 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 8. [2,3] sigmatropic rearrangement (Clayden p.917–919)
-- 5원자 TS, carbanion 또는 S·Se가 낀다. ω 성분으로 ω2a + σ2s + π2a. benzyl allyl ether anion, sulfenate ester ⇌ allyl sulfoxide, SeO2 allylic oxidation.
+- 5원자 TS, carbanion 또는 S·Se가 낀다. $\omega$ 성분으로 $\omega2\mathrm{a}$ + $\sigma2\mathrm{s}$ + $\pi2\mathrm{a}$. benzyl allyl ether anion, sulfenate ester ⇌ allyl sulfoxide, SeO2 allylic oxidation.
 - → [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [SeO2](../wiki/시약/SeO2.md)
 
 ### 9. [1,5] sigmatropic hydrogen shift (Clayden p.919–921)
-- suprafacial로 쉽게 일어나며(π4s + σ2s), 5-치환 cyclopentadiene이 isomerization해 Diels–Alder 혼합물을 준다.
+- suprafacial로 쉽게 일어나며($\pi4\mathrm{s}$ + $\sigma2\mathrm{s}$), 5-치환 cyclopentadiene이 isomerization해 Diels–Alder 혼합물을 준다.
 - → [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md)
 
 ### 10. [1,3]H와 [1,7]H: 사슬 길이가 suprafacial/antarafacial을 바꾼다 (Clayden p.921–922)
@@ -72,10 +72,10 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 | 반응 | 출발물 → 생성물 | 조건 | 추진력 | 문서 |
 |---|---|---|---|---|
 | aromatic Claisen | allyl aryl ether → *o*-allylphenol | 가열 | aromaticity 회복 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| aliphatic Claisen | allyl vinyl ether → γ,δ-unsaturated aldehyde (*E*) | 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → γ,δ-unsaturated aldehyde | EtCO2H, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| orthoester·orthoamide 변형 | → γ,δ-unsaturated ester·amide | 산, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| Ireland–Claisen | allyl ester → γ,δ-unsaturated carboxylic acid (*E*) | LDA(Me3SiCl); H⁺/H2O | carboxylate 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| aliphatic Claisen | allyl vinyl ether → $\gamma,\delta$-unsaturated aldehyde (*E*) | 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → $\gamma,\delta$-unsaturated aldehyde | EtCO2H, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| orthoester·orthoamide 변형 | → $\gamma,\delta$-unsaturated ester·amide | 산, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| Ireland–Claisen | allyl ester → $\gamma,\delta$-unsaturated carboxylic acid (*E*) | LDA(Me3SiCl); H⁺/H2O | carboxylate 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
 | Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | degenerate | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | enol·enolate → C=O | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | strain-release Cope | 3원 고리 포함 1,5-diene → 고리 확장 | 33 °C, 36 h | ring strain 해소 | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |

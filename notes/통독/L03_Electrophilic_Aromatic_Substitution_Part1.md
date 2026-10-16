@@ -25,11 +25,11 @@ L1–L2에서 alkene의 이중결합은 bromine이나 과산 같은 electrophile
 
 ---
 
-## 0. 복습: electrophile의 δ⁺와 alkene의 HOMO
+## 0. 복습: electrophile의 $\delta^{+}$와 alkene의 HOMO
 
 > 개념 문서: [electrophile and nucleophile](../../wiki/개념/친전자체와%20친핵체.md), [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md)
 
-강의는 L1–L2의 반응 표를 다시 보여주면서 각 시약의 **δ⁺ 부분**(HX의 H, H₂O의 H, X₂/H₂O의 X, BH₃의 B)을 강조한다. 이 δ⁺ 부분이 electrophile다. (출처: L3 p.4)
+강의는 L1–L2의 반응 표를 다시 보여주면서 각 시약의 **$\delta^{+}$ 부분**(HX의 H, H₂O의 H, X₂/H₂O의 X, BH₃의 B)을 강조한다. 이 $\delta^{+}$ 부분이 electrophile다. (출처: L3 p.4)
 
 isobutene의 HOMO 그림을 보면 전자 밀도가 **CH₂ 말단**에 높다. 그래서 electrophile(H⁺ 등)가 CH₂ 쪽에 붙고, 양전하는 3차 탄소에 남는다. Markovnikov regioselectivity을 궤도함수 그림으로 다시 확인한 셈이다. 이 "HOMO의 전자 밀도가 큰 곳이 공격당한다"는 관점은 이 강의 7절의 phenol에서 다시 나온다. (출처: L3 p.5)
 
@@ -41,7 +41,7 @@ isobutene의 HOMO 그림을 보면 전자 밀도가 **CH₂ 말단**에 높다. 
 
 benzene은 평면 정육각형이다. 탄소 여섯 개가 모두 sp² 혼성이고, 각 탄소에 붙은 H는 고리 평면 위에 놓인다. 모든 C-C 결합 길이는 **1.39 Å**으로 같다. 이 값은 단일결합(C-C 1.47 Å)과 이중결합(C=C 1.33 Å)의 중간이다.
 
-benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함수가 겹쳐 만든 **분자 궤도함수 세 개에 π 전자 여섯 개**가 들어 있는 데서 나온다. 즉 benzene의 π 전자는 특정 C=C 결합에 묶여 있지 않고 고리 전체에 퍼져 있다. 그래서 "평범한 C=C 결합"이 아니다. (출처: L3 p.9)
+benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함수가 겹쳐 만든 **분자 궤도함수 세 개에 $\pi$ 전자 여섯 개**가 들어 있는 데서 나온다. 즉 benzene의 $\pi$ 전자는 특정 C=C 결합에 묶여 있지 않고 고리 전체에 퍼져 있다. 그래서 "평범한 C=C 결합"이 아니다. (출처: L3 p.9)
 
 - cyclohexene --[RCO₃H]--> epoxide(cis 첨가)
 - cyclohexene --[Br₂]--> *trans*-1,2-dibromide(trans 첨가)
@@ -62,12 +62,12 @@ benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함
 
 ![Lewis acid으로 활성화된 Br2를 benzene의 π 결합이 공격해 cyclohexadienyl cation이 되고, H+가 빠져 bromobenzene이 되는 메커니즘](../../figures/L03/bromination_lewis.svg)
 
-그림: 1단계(속도 결정): benzene의 π 결합(파랑)이 AlCl₃와 착물을 이룬 Br–Br⁺의 바깥쪽 Br(빨강)을 공격한다. 두 번째 화살표는 Br–Br 결합 전자가 AlCl₃ 쪽 Br로 넘어가는 것을 나타낸다(AlCl₃Br⁻가 된다). 새로 생긴 C–Br 결합은 초록색이다. 2단계(빠름): sp³ 탄소의 C–H 결합 전자가 고리 안으로 들어가 양전하를 지우고(−H⁺), 방향족성이 회복된다. 그림 속 cation은 공명 구조 셋 중 하나(양전하가 오르토 탄소에 있는 것)만 그렸다.
+그림: 1단계(속도 결정): benzene의 $\pi$ 결합(파랑)이 AlCl₃와 착물을 이룬 Br–Br⁺의 바깥쪽 Br(빨강)을 공격한다. 두 번째 화살표는 Br–Br 결합 전자가 AlCl₃ 쪽 Br로 넘어가는 것을 나타낸다(AlCl₃Br⁻가 된다). 새로 생긴 C–Br 결합은 초록색이다. 2단계(빠름): sp³ 탄소의 C–H 결합 전자가 고리 안으로 들어가 양전하를 지우고(−H⁺), 방향족성이 회복된다. 그림 속 cation은 공명 구조 셋 중 하나(양전하가 오르토 탄소에 있는 것)만 그렸다.
 
 benzene도 **AlCl₃나 FeCl₃ 같은 Lewis acid 촉매**를 넣으면 bromine과 반응한다. 두 반응을 비교해 보자.
 
-- **alkene**: π 결합이 Br-Br을 공격해 bromonium 이온이 된다. Br⁻가 반대쪽에서 공격하면 *trans*-dibromide라는 **첨가** 생성물이 나온다.
-- **benzene**: π 결합이 Br-Br⁺-AlCl₃⁻ 착물의 Br을 공격해 cation intermediate가 된다. 그다음 **H⁺가 빠져나가** bromobenzene이 된다. 이것은 **치환** 생성물이다.
+- **alkene**: $\pi$ 결합이 Br-Br을 공격해 bromonium 이온이 된다. Br⁻가 반대쪽에서 공격하면 *trans*-dibromide라는 **첨가** 생성물이 나온다.
+- **benzene**: $\pi$ 결합이 Br-Br⁺-AlCl₃⁻ 착물의 Br을 공격해 cation intermediate가 된다. 그다음 **H⁺가 빠져나가** bromobenzene이 된다. 이것은 **치환** 생성물이다.
 
 bromine 원자가 수소 원자 하나를 대신했으니 치환 반응이다. 시약은 친전자성 bromine이고 기질은 방향족이므로, 이 반응을 **electrophilic aromatic substitution**이라 부른다. (출처: L3 p.10)
 
@@ -79,7 +79,7 @@ bromine 원자가 수소 원자 하나를 대신했으니 치환 반응이다. �
 
 모든 S<sub>E</sub>Ar은 같은 두 단계를 거친다.
 
-1. **속도 결정 단계(rate-determining step)**: benzene의 π 전자가 electrophile E⁺를 공격한다. 그 결과 E와 H가 함께 붙은 sp³ 탄소가 하나 생기고, 나머지 다섯 탄소에 걸쳐 양전하가 퍼진 **cyclohexadienyl cation(cyclohexadienyl cation)** 이 생긴다. 이 단계에서 방향족성이 깨지므로 느리다.
+1. **속도 결정 단계(rate-determining step)**: benzene의 $\pi$ 전자가 electrophile E⁺를 공격한다. 그 결과 E와 H가 함께 붙은 sp³ 탄소가 하나 생기고, 나머지 다섯 탄소에 걸쳐 양전하가 퍼진 **cyclohexadienyl cation(cyclohexadienyl cation)** 이 생긴다. 이 단계에서 방향족성이 깨지므로 느리다.
 2. **빠른 단계**: sp³ 탄소의 H가 H⁺로 떨어져 나가고, 그 C-H 결합 전자가 고리로 돌아와 방향족성이 회복된다.
 
 (출처: L3 p.11)
@@ -96,11 +96,11 @@ bromine 원자가 수소 원자 하나를 대신했으니 치환 반응이다. �
 
 ![cyclohexadienyl cation(σ complex)의 공명 구조 세 개](../../figures/L03/sigma_complex_resonance.svg)
 
-그림: E(여기서는 Br)가 붙은 sp³ 탄소를 기준으로 양전하(빨강)는 두 ortho 위치와 para 위치에만 놓인다. 주황 화살표는 π 전자쌍이 이웃한 양전하 쪽으로 옮겨 가 다음 공명 구조가 되는 과정이다. meta 위치에는 양전하가 오지 않는다. (출처: L3 p.11)
+그림: E(여기서는 Br)가 붙은 sp³ 탄소를 기준으로 양전하(빨강)는 두 ortho 위치와 para 위치에만 놓인다. 주황 화살표는 $\pi$ 전자쌍이 이웃한 양전하 쪽으로 옮겨 가 다음 공명 구조가 되는 과정이다. meta 위치에는 양전하가 오지 않는다. (출처: L3 p.11)
 
 ![S_EAr의 에너지 도표: σ complex에서 H⁺를 잃는 길(치환)이 nucleophile 첨가보다 유리하다](../../figures/L03/sear_energy_profile.svg)
 
-그림: 첫 단계(방향족성을 잃는 친전자체 공격)가 느리고, σ complex에서 $H^+$ 를 잃으면 방향족성을 되찾아 낮은 에너지의 치환 생성물이 된다(초록). nucleophile이 첨가하면(빨간 점선) 방향족성이 없는 생성물이라 불리하다. 보충: 정성적 도표다.
+그림: 첫 단계(방향족성을 잃는 친전자체 공격)가 느리고, $\sigma$ complex에서 $H^+$ 를 잃으면 방향족성을 되찾아 낮은 에너지의 치환 생성물이 된다(초록). nucleophile이 첨가하면(빨간 점선) 방향족성이 없는 생성물이라 불리하다. 보충: 정성적 도표다.
 
 ## 3. nitration (nitration)
 
@@ -122,7 +122,7 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 
 ![benzene의 π 결합이 nitronium 이온의 질소를 공격하면서 N=O 결합 하나가 끊어지고, H+가 빠져 nitrobenzene이 되는 메커니즘](../../figures/L03/nitration_attack.svg)
 
-그림: π 결합(파랑)이 N⁺(빨강)를 공격하는 화살표와, N=O 결합 하나(빨강)의 π 전자가 산소로 올라가는 화살표가 동시에 움직인다. 그래서 질소는 4개의 결합만 유지하고, 산소는 O⁻(파랑)가 된다. 새 C–N 결합은 초록색이다. 이어서 C–H 결합 전자가 고리로 들어가며 H⁺가 빠진다.
+그림: $\pi$ 결합(파랑)이 N⁺(빨강)를 공격하는 화살표와, N=O 결합 하나(빨강)의 $\pi$ 전자가 산소로 올라가는 화살표가 동시에 움직인다. 그래서 질소는 4개의 결합만 유지하고, 산소는 O⁻(파랑)가 된다. 새 C–N 결합은 초록색이다. 이어서 C–H 결합 전자가 고리로 들어가며 H⁺가 빠진다.
 
 ### 3.1 nitro group의 활용
 
@@ -197,7 +197,7 @@ carbocation의 안정성 순서는 CH₃⁺ < CH₃CH₂⁺ < (CH₃)₂CH⁺ < 
 
 ![1-chloropropane-AlCl3 착물에서 1,2-수소화물 이동과 C-Cl 결합 끊어짐이 함께 일어나 isopropyl cation이 되고, benzene이 이를 공격하는 메커니즘](../../figures/L03/fc_hydride_shift.svg)
 
-그림: 슬라이드의 "rearrangement route"다. 1차 cation은 따로 생기지 않으므로, 이웃 탄소의 C–H 결합(파랑)이 전자쌍째 C1(빨강)으로 옮겨가는 화살표와 C1–Cl⁺ 결합(빨강) 전자가 Cl로 떠나는 화살표를 한 단계로 그렸다. 그 결과 2차(isopropyl) cation이 생기고, 옮겨온 H(파랑)는 가운데 탄소에 붙어 있다. 오른쪽 화살표는 benzene의 π 결합(파랑)이 cation 탄소를 공격하는 단계다. 이후 H⁺가 빠지면 isopropylbenzene(cumene)이 된다.
+그림: 슬라이드의 "rearrangement route"다. 1차 cation은 따로 생기지 않으므로, 이웃 탄소의 C–H 결합(파랑)이 전자쌍째 C1(빨강)으로 옮겨가는 화살표와 C1–Cl⁺ 결합(빨강) 전자가 Cl로 떠나는 화살표를 한 단계로 그렸다. 그 결과 2차(isopropyl) cation이 생기고, 옮겨온 H(파랑)는 가운데 탄소에 붙어 있다. 오른쪽 화살표는 benzene의 $\pi$ 결합(파랑)이 cation 탄소를 공격하는 단계다. 이후 H⁺가 빠지면 isopropylbenzene(cumene)이 된다.
 
 ### 5.3 문제 2: 다중 치환
 
@@ -222,7 +222,7 @@ Friedel–Crafts acylation은 보통 benzene을 **acid chloride(RCOCl)과 AlCl�
 
 ![acid chloride-AlCl3 착물에서 acylium 이온이 생기고 benzene이 그 탄소를 공격하는 메커니즘](../../figures/L03/fc_acylation.svg)
 
-그림: R을 CH₃로 acetyl chloride. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 C=O 쪽으로 밀려 들어가 C≡O⁺ 삼중 결합을 만들고, 동시에 C–Cl⁺ 결합(빨강) 전자가 Cl로 떠나 AlCl₄⁻가 된다. 오른쪽: acylium 이온의 친전자성 탄소(빨강)를 benzene의 π 결합(파랑)이 공격한다. 이후 단계(H⁺ 이탈)는 bromination과 같다.
+그림: R을 CH₃로 acetyl chloride. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 C=O 쪽으로 밀려 들어가 C≡O⁺ 삼중 결합을 만들고, 동시에 C–Cl⁺ 결합(빨강) 전자가 Cl로 떠나 AlCl₄⁻가 된다. 오른쪽: acylium 이온의 친전자성 탄소(빨강)를 benzene의 $\pi$ 결합(파랑)이 공격한다. 이후 단계(H⁺ 이탈)는 bromination과 같다.
 
 (출처: L3 p.18)
 
@@ -231,7 +231,7 @@ acid chloride 대신 **acid anhydride** 도 쓸 수 있다. 이 경우 AlCl₃�
 ### 6.2 acylation이 alkylation보다 나은 이유
 
 alkylation의 두 가지 문제가 acylation에서는 생기지 않는다.
-1. **다중 치환이 없다**: 생성물의 acyl group이 π 계에서 전자를 끌어가 고리를 비활성화하므로 두 번째 치환이 어렵다. 고리가 처음부터 너무 비활성화되어 있으면 아예 반응하지 않는다. 예를 들어 nitrobenzene은 Friedel–Crafts acylation에 불활성이어서 **이 반응의 용매로 쓰이기도 한다**.
+1. **다중 치환이 없다**: 생성물의 acyl group이 $\pi$ 계에서 전자를 끌어가 고리를 비활성화하므로 두 번째 치환이 어렵다. 고리가 처음부터 너무 비활성화되어 있으면 아예 반응하지 않는다. 예를 들어 nitrobenzene은 Friedel–Crafts acylation에 불활성이어서 **이 반응의 용매로 쓰이기도 한다**.
 2. **자리 옮김이 없다**: electrophile인 acylium 이온이 이미 비교적 안정하기 때문이다.
 
 또한 acylation은 acyl 염화물에 특별한 구조적 조건이 필요 없다. R이 거의 무엇이든 된다. (출처: L3 p.18, p.21)
@@ -254,7 +254,7 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 
 1. succinic acid 무수물 + benzene --[AlCl₃ 2.2 당량]--> 3-benzoylpropanoic acid
 2. --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
-3. --[H₃PO₄]--> α-테트랄론(1-테트랄론, 3,4-dihydronaphthalene-1(2*H*)-온)
+3. --[H₃PO₄]--> $\alpha$-테트랄론(1-테트랄론, 3,4-dihydronaphthalene-1(2*H*)-온)
 
 ![α-tetralone 합성 3단계 (1/3)](../../figures/L03/tetralone_synthesis_1.svg)
 
@@ -262,7 +262,7 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 
 ![α-tetralone 합성 3단계 (3/3)](../../figures/L03/tetralone_synthesis_3.svg)
 
-그림: 보충: succinic anhydride와 benzene의 Friedel–Crafts acylation( $AlCl_3$ ) → Clemmensen 환원( $Zn(Hg)$, $HCl$ ) → 분자내 Friedel–Crafts acylation( $H_3PO_4$ )으로 α-tetralone이 된다.
+그림: 보충: succinic anhydride와 benzene의 Friedel–Crafts acylation( $AlCl_3$ ) → Clemmensen 환원( $Zn(Hg)$, $HCl$ ) → 분자내 Friedel–Crafts acylation( $H_3PO_4$ )으로 $\alpha$-tetralone이 된다.
 
 
 슬라이드 p.22는 메커니즘을 빈칸으로 두었고, 답은 L4 p.3에 있다.
@@ -293,7 +293,7 @@ benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런
 
 ![phenol의 para 브로민화 종합 메커니즘: O 비공유 전자쌍이 고리를 거쳐 Br–Br을 공격해 oxonium cation이 되고, Br−가 H+를 떼어 p-bromophenol이 된다](../../figures/L03/phenol_tribromination_mech.svg)
 
-그림: 위 반응식의 메커니즘이다. 첫 번째 치환(para 위치)만 그렸고, 두 ortho 위치에서도 같은 두 단계가 되풀이되어 2,4,6-tribromophenol이 된다. 위 줄이 전체 반응이고 아래 대괄호는 중간체다. 1단계: 화살표 넷이 한꺼번에 움직인다. OH 산소의 비공유 전자쌍(파랑)이 C–O 결합으로 들어가 C=O⁺(초록)를 만들고, 고리의 π 전자가 차례로 밀려 para 탄소의 π 결합(파랑)이 $Br_2$ 의 Br(빨강)을 공격하며, Br–Br 결합 전자는 바깥쪽 Br로 가서 $Br^-$ 가 된다. 새 C–Br 결합은 초록색이다. 2단계: 중간체 oxonium cation(산, 빨강)의 sp³ 탄소에 붙은 H(빨강)를 $Br^-$ (염기, 파랑)가 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복된다(−HBr). 보충: 2단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.474, p.479)
+그림: 위 반응식의 메커니즘이다. 첫 번째 치환(para 위치)만 그렸고, 두 ortho 위치에서도 같은 두 단계가 되풀이되어 2,4,6-tribromophenol이 된다. 위 줄이 전체 반응이고 아래 대괄호는 중간체다. 1단계: 화살표 넷이 한꺼번에 움직인다. OH 산소의 비공유 전자쌍(파랑)이 C–O 결합으로 들어가 C=O⁺(초록)를 만들고, 고리의 $\pi$ 전자가 차례로 밀려 para 탄소의 $\pi$ 결합(파랑)이 $Br_2$ 의 Br(빨강)을 공격하며, Br–Br 결합 전자는 바깥쪽 Br로 가서 $Br^-$ 가 된다. 새 C–Br 결합은 초록색이다. 2단계: 중간체 oxonium cation(산, 빨강)의 sp³ 탄소에 붙은 H(빨강)를 $Br^-$ (염기, 파랑)가 가져가고, C–H 결합 전자가 고리로 돌아와 방향족성이 회복된다(−HBr). 보충: 2단계의 화살표는 슬라이드에 없는 보충이다. (보충 근거: Clayden p.474, p.479)
 
 (출처: L3 p.23)
 
@@ -301,7 +301,7 @@ benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런
 
 ### 7.2 이유: HOMO가 바뀌었다
 
-1. phenol에서 가장 에너지가 높은 전자는 더 이상 benzene 고리의 π 전자가 아니다. **산소의 비공유 전자쌍**이다.
+1. phenol에서 가장 에너지가 높은 전자는 더 이상 benzene 고리의 $\pi$ 전자가 아니다. **산소의 비공유 전자쌍**이다.
 2. 이 비결합 전자가 만드는 HOMO는 방향족 고리의 낮은 에너지 결합 전자보다 **에너지가 훨씬 높다**. 그래서 친핵성이 훨씬 크다.
 
 (출처: L3 p.23)
@@ -331,7 +331,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 ![Kolbe–Schmitt 반응의 종합 메커니즘: phenoxide의 ortho 탄소가 CO2를 공격해 keto 중간체가 되고, tautomerization으로 salicylate가 된다](../../figures/L03/kolbe_schmitt_1_mech.svg)
 
-그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응(sodium phenoxide + $CO_2$ → sodium salicylate)이고 아래 대괄호는 중간체다. 1단계: $O^-$ (파랑)의 비공유 전자쌍이 C–O 결합으로 들어가 C=O를 만들고, 고리의 π 결합(파랑)이 ortho 탄소에서 $CO_2$ 의 탄소(빨강)를 공격하며, $CO_2$ 의 C=O π 전자는 산소로 올라가 $O^-$ 가 된다. 새 C–C 결합은 초록색이다. 점선은 $Na^+$ 가 $O^-$ 와 $CO_2$ 의 O에 걸쳐 있는 모습으로(슬라이드와 같다), 이 배위가 $CO_2$ 를 ortho 위치로 안내한다. 2단계: 중간체(cyclohexadienone)의 sp³ 탄소에서 H(빨강)가 빠지고 산소가 H⁺를 받는 keto–enol tautomerization으로 방향족성이 회복되어 salicylate가 된다. 슬라이드도 이 단계를 "tautomerization(±H⁺)"으로만 적어서 곡선 화살표는 그리지 않았다. (보충 근거: Clayden p.481)
+그림: 위 반응식의 메커니즘이다. 위 줄이 전체 반응(sodium phenoxide + $CO_2$ → sodium salicylate)이고 아래 대괄호는 중간체다. 1단계: $O^-$ (파랑)의 비공유 전자쌍이 C–O 결합으로 들어가 C=O를 만들고, 고리의 $\pi$ 결합(파랑)이 ortho 탄소에서 $CO_2$ 의 탄소(빨강)를 공격하며, $CO_2$ 의 C=O $\pi$ 전자는 산소로 올라가 $O^-$ 가 된다. 새 C–C 결합은 초록색이다. 점선은 $Na^+$ 가 $O^-$ 와 $CO_2$ 의 O에 걸쳐 있는 모습으로(슬라이드와 같다), 이 배위가 $CO_2$ 를 ortho 위치로 안내한다. 2단계: 중간체(cyclohexadienone)의 sp³ 탄소에서 H(빨강)가 빠지고 산소가 H⁺를 받는 keto–enol tautomerization으로 방향족성이 회복되어 salicylate가 된다. 슬라이드도 이 단계를 "tautomerization(±H⁺)"으로만 적어서 곡선 화살표는 그리지 않았다. (보충 근거: Clayden p.481)
 
 ![salicylic acid + Ac2O → aspirin](../../figures/L03/aspirin.svg)
 
@@ -343,11 +343,11 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 ## 흔한 오해
 
-- **"benzene도 이중결합이 있으니 Br₂와 첨가 반응한다"**: benzene의 π 전자는 고리 전체에 퍼져 안정하다. Br₂만으로는 반응하지 않고, Lewis acid이 있을 때 **치환**한다.
+- **"benzene도 이중결합이 있으니 Br₂와 첨가 반응한다"**: benzene의 $\pi$ 전자는 고리 전체에 퍼져 안정하다. Br₂만으로는 반응하지 않고, Lewis acid이 있을 때 **치환**한다.
 - **"S<sub>E</sub>Ar 2단계도 alkene처럼 anion이 cation을 공격한다"**: H⁺가 빠져 방향족성을 회복하는 것이 훨씬 유리하므로 치환으로 끝난다.
 - **"Friedel–Crafts alkylation으로 *n*-propylbenzene을 깔끔하게 만들 수 있다"**: 1,2-수소화물 이동으로 cumene이 주생성물이 된다. *n*-propylbenzene은 **acylation + 클레멘센 환원**으로 만든다.
 - **"acylation도 다중 치환이 문제다"**: acyl group이 고리를 비활성화하므로 한 번 치환된 뒤 멈춘다.
-- **"phenol의 반응성은 고리 π 전자 덕분이다"**: 산소 비공유 전자쌍이 HOMO의 에너지를 끌어올렸기 때문이다.
+- **"phenol의 반응성은 고리 $\pi$ 전자 덕분이다"**: 산소 비공유 전자쌍이 HOMO의 에너지를 끌어올렸기 때문이다.
 
 ---
 
@@ -375,18 +375,18 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 2. S<sub>E</sub>Ar 메커니즘에서 속도 결정 단계는 무엇이며, 그 이유는 무엇인가? cyclohexadienyl cation에서 양전하가 놓일 수 있는 위치를 E가 붙은 탄소 기준으로 쓰시오.
 3. nitric acid과 sulfuric acid의 혼합물에서 nitronium 이온이 생기는 과정을 단계별로 쓰시오. nitronium 이온의 혼성과 모양도 쓰시오.
 4. benzene + 1-chloropropane + AlCl₃ 반응의 주생성물과 부생성물을 쓰고, 그 이유를 설명하시오. *n*-propylbenzene을 주생성물로 얻으려면 어떻게 해야 하는가?
-5. (슬라이드 p.22 빈칸) succinic acid 무수물 + benzene에서 출발해 α-테트랄론을 만드는 3단계 합성의 각 단계 메커니즘을 설명하시오.
+5. (슬라이드 p.22 빈칸) succinic acid 무수물 + benzene에서 출발해 $\alpha$-테트랄론을 만드는 3단계 합성의 각 단계 메커니즘을 설명하시오.
 6. nitrobenzene이 Friedel–Crafts acylation의 용매로 쓰일 수 있는 이유는 무엇인가?
 7. phenol이 Lewis acid 없이도 Br₂와 빠르게 반응해 2,4,6-tribromophenol을 주는 이유를 HOMO 관점과 공명 구조 관점에서 설명하시오.
 8. benzene에서 출발해 phenol을 만드는 방법을 S<sub>E</sub>Ar과 이 강의에서 배운 다른 반응들을 조합해 쓰시오.
 
 ## 정답 및 해설
 
-1. 모든 결합 길이가 단일결합(1.47 Å)과 이중결합(1.33 Å)의 중간이라는 것은 π 전자가 특정 결합에 고정되지 않고 고리 전체에 퍼져 있다는 뜻이다. 이렇게 비편재화된 6π 전자계는 방향족 안정성을 갖는다. Br₂와 반응하면 이 안정성을 잃어야 하므로, 평범한 alkene과 달리 Br₂만으로는 반응하지 않는다. (L3 p.9)
-2. 속도 결정 단계는 첫 단계, 즉 π 전자가 E⁺를 공격해 cyclohexadienyl cation을 만드는 단계다. 이 단계에서 방향족성이 깨지기 때문에 느리다. 양전하는 E가 붙은 탄소를 기준으로 두 오르토 위치와 파라 위치에만 놓인다. (L3 p.11)
+1. 모든 결합 길이가 단일결합(1.47 Å)과 이중결합(1.33 Å)의 중간이라는 것은 $\pi$ 전자가 특정 결합에 고정되지 않고 고리 전체에 퍼져 있다는 뜻이다. 이렇게 비편재화된 $6\pi$ 전자계는 방향족 안정성을 갖는다. Br₂와 반응하면 이 안정성을 잃어야 하므로, 평범한 alkene과 달리 Br₂만으로는 반응하지 않는다. (L3 p.9)
+2. 속도 결정 단계는 첫 단계, 즉 $\pi$ 전자가 E⁺를 공격해 cyclohexadienyl cation을 만드는 단계다. 이 단계에서 방향족성이 깨지기 때문에 느리다. 양전하는 E가 붙은 탄소를 기준으로 두 오르토 위치와 파라 위치에만 놓인다. (L3 p.11)
 3. H₂SO₄가 HNO₃의 OH를 protonate해 -OH₂⁺를 만들고, H₂O가 떨어져 나가 NO₂⁺가 된다. NO₂⁺에서 N은 sp 혼성이고 분자는 직선형(O=N⁺=O)이다. (L3 p.12)
 4. 주생성물은 isopropylbenzene(cumene), 부생성물은 *n*-propylbenzene이다. 다중 치환 생성물도 생긴다. 1차 cation은 용액에서 존재하지 못하므로 착물이 1,2-수소화물 이동으로 2차 cation이 된 뒤 반응한다. *n*-propylbenzene을 원한다면 propanoyl chloride(CH₃CH₂COCl)/AlCl₃로 acylation한 뒤 Zn/Hg, HCl로 클레멘센 환원한다. (L3 p.17, p.20)
-5. (i) AlCl₃가 무수물 carbonyl O에 배위해 고리가 열리면서 acylium 이온이 생긴다. benzene이 이를 공격하고 H⁺가 빠지면 아릴 ketone(carboxylate-AlCl₃)이 되며, 후처리하면 3-benzoylpropanoic acid이 된다. (ii) Zn/Hg, HCl로 ketone만 CH₂로 환원해 4-phenylbutanoic acid을 얻는다. (iii) H₃PO₄가 COOH를 protonate하고 물이 빠져 acylium 이온이 생긴다. 같은 분자의 benzene 고리가 분자내 공격해 6원 고리가 닫히고, H⁺가 빠지면 α-테트랄론이 된다. (L4 p.3)
+5. (i) AlCl₃가 무수물 carbonyl O에 배위해 고리가 열리면서 acylium 이온이 생긴다. benzene이 이를 공격하고 H⁺가 빠지면 아릴 ketone(carboxylate-AlCl₃)이 되며, 후처리하면 3-benzoylpropanoic acid이 된다. (ii) Zn/Hg, HCl로 ketone만 CH₂로 환원해 4-phenylbutanoic acid을 얻는다. (iii) H₃PO₄가 COOH를 protonate하고 물이 빠져 acylium 이온이 생긴다. 같은 분자의 benzene 고리가 분자내 공격해 6원 고리가 닫히고, H⁺가 빠지면 $\alpha$-테트랄론이 된다. (L4 p.3)
 6. nitro group이 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
 7. phenol에서는 산소 비공유 전자쌍이 고리와 공액되어 HOMO 에너지가 크게 올라간다. 그래서 친핵성이 훨씬 커진다. 공명 구조를 그리면 O의 전자가 오르토와 파라 위치로 밀려 들어가 그 위치의 전자 밀도가 높아진다. 그래서 세 위치(2,4,6)에서 촉매 없이 빠르게 치환된다. (L3 p.23-25)
 8. benzene --[HNO₃/H₂SO₄]--> nitrobenzene --[H₂, Pd/C 또는 Sn/HCl]--> aniline --[NaNO₂, HCl, 0 °C]--> diazonium 염 --[H₂O, 가열]--> phenol. (L3 p.12-13)

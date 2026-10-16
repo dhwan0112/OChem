@@ -73,7 +73,7 @@ $$
 
 그림: C=C(파랑)를 수소화하면 menthol이 된다.
 
-여기서 물음표로 남은 첫 단계, 즉 allyl 1차 alcohol을 α,β-unsaturated aldehyde로 바꾸는 단계가 바로 이번 강의의 산화 반응이다. 이 단계에서 산화제가 너무 세면 carboxylic acid까지 가 버리고, 분자 안에 있는 C=C 두 개도 공격받을 수 있다. 그래서 순한 산화제가 필요하다.[2]
+여기서 물음표로 남은 첫 단계, 즉 allyl 1차 alcohol을 $\alpha,\beta$-unsaturated aldehyde로 바꾸는 단계가 바로 이번 강의의 산화 반응이다. 이 단계에서 산화제가 너무 세면 carboxylic acid까지 가 버리고, 분자 안에 있는 C=C 두 개도 공격받을 수 있다. 그래서 순한 산화제가 필요하다.[2]
 
 (출처: L6c p.3–5)
 
@@ -88,12 +88,12 @@ $$
 차이가 생기는 이유는 녹색 박스의 일반 메커니즘에 있다.
 
 1. alcohol O(nucleophile)가 산화제 LG–A(electrophile)를 공격해 O–LG 결합을 만들고, HA가 빠진다.
-2. 염기 B:가 카비놀 탄소의 α-H를 떼어 낸다.
-3. C–H 결합에 있던 전자쌍이 C=O π 결합으로 옮겨 가고, 동시에 O–LG 결합이 끊어져 LG:가 떠난다. 생성물은 C=O + B–H + LG:다.
+2. 염기 B:가 카비놀 탄소의 $\alpha$-H를 떼어 낸다.
+3. C–H 결합에 있던 전자쌍이 C=O $\pi$ 결합으로 옮겨 가고, 동시에 O–LG 결합이 끊어져 LG:가 떠난다. 생성물은 C=O + B–H + LG:다.
 
 ![alcohol 산화의 일반 메커니즘: O–LG 결합 형성 후 염기가 C–H를 떼어 내며 C=O가 생긴다](../../figures/L06/alcohol_ox_general.svg)
 
-그림: 슬라이드 녹색 박스의 일반 메커니즘. 1단계: alcohol O(파랑, nucleophile)의 비공유 전자쌍이 산화제의 LG(빨강, electrophile)를 공격하고, LG–A 결합 전자는 A로 떠난다(HA가 빠짐). 2단계: 염기 B:(파랑)가 카비놀 탄소의 H를 떼어 내고, C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O π 결합이 되며, O–LG 결합(빨강) 전자는 LG와 함께 떠난다. 세 화살표가 한 번에 움직이는 E2형 제거다. 초록 C=O가 새로 생긴 결합이다. 3차 alcohol에는 2단계의 C–H가 없으므로 이 과정이 일어날 수 없다.
+그림: 슬라이드 녹색 박스의 일반 메커니즘. 1단계: alcohol O(파랑, nucleophile)의 비공유 전자쌍이 산화제의 LG(빨강, electrophile)를 공격하고, LG–A 결합 전자는 A로 떠난다(HA가 빠짐). 2단계: 염기 B:(파랑)가 카비놀 탄소의 H를 떼어 내고, C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O $\pi$ 결합이 되며, O–LG 결합(빨강) 전자는 LG와 함께 떠난다. 세 화살표가 한 번에 움직이는 E2형 제거다. 초록 C=O가 새로 생긴 결합이다. 3차 alcohol에는 2단계의 C–H가 없으므로 이 과정이 일어날 수 없다.
 
 즉 산화의 본질은 O–H의 H와 C–H의 H를 하나씩 떼어 내는 것이다. 3차 alcohol에는 2단계에서 떼어 낼 C–H가 없으니 C=O를 만들 길이 없다. 이 강의에 나오는 시약들은 결국 "LG를 무엇으로 붙이느냐"만 다르고, 이 뼈대는 모두 같다. 슬라이드도 각 시약을 "I–O", "S–Cl", "Ru–O"처럼 산화제의 핵심 결합으로 부른다.
 
@@ -119,14 +119,14 @@ $$
 
 ![geraniol + DMP → geranial 종합 메커니즘](../../figures/L06/geraniol_dmp_mech.svg)
 
-그림: 위 줄은 전체 반응이고, 아래 줄은 아래 본문의 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 α-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
+그림: 위 줄은 전체 반응이고, 아래 줄은 아래 본문의 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 $\alpha$-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
 
 aldehyde에서 정확히 멈추고 C=C의 E 기하도 그대로 유지된다. 그렇다면 왜 DMP를 많이 쓸까? 슬라이드는 세 가지 장점을 든다. 첫째, 초원자가 iodine(hypervalent iodine) 시약은 독성이 낮고 안전하며 다루기 쉽고 환경 부담이 적다. 둘째, 온도와 pH가 온화하다(실온 근처, 중성). 셋째, 복잡한 기질의 민감한 작용기를 잘 tolerance of sensitive functional groups.
 
 메커니즘은 1.2절의 뼈대를 그대로 따른다.
 
 1. 리간드 교환: alcohol O가 I(V)를 공격해 OAc 하나를 밀어낸다. 그러면 알콕시 periodinane intermediate와 AcOH가 생긴다. 이 단계가 "O–LG 만들기"에 해당한다.
-2. I에 붙은 또 다른 acetate의 carbonyl 산소가 염기 노릇을 하며 분자 내에서 α-H를 떼어 낸다.
+2. I에 붙은 또 다른 acetate의 carbonyl 산소가 염기 노릇을 하며 분자 내에서 $\alpha$-H를 떼어 낸다.
 3. C=O가 생기면서 I–O 결합이 끊어지고, I(V)는 I(III)(iodinane, OAc 1개)로 환원된다.
 
 전체 부산물은 iodinane과 AcOH 2분자다.
@@ -150,7 +150,7 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 ![PhCH2OH → PhCHO Swern 종합 메커니즘](../../figures/L06/swern_benzyl_mech.svg)
 
-그림: 보충: 위 줄은 전체 반응(슬라이드의 조건)이고, 아래 줄은 활성종 $\mathrm{Me_2S^+Cl}$이 만들어진 뒤의 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계: alcohol의 O(파랑, nucleophile)가 S$^+$(빨강, electrophile)를 공격하고 Cl이 떠나 alkoxysulfonium 이온이 된다($\mathrm{Cl^-}$와 HCl은 그리지 않았고, HCl은 $\mathrm{Et_3N}$이 받는다). 2단계: $\mathrm{Et_3N}$(base)이 S–CH$_3$의 H(빨강)를 떼어 sulfur ylide(conjugate base)가 된다. 3단계: ylide의 $\mathrm{CH_2^-}$가 5원 고리 TS를 거쳐 카비놀 C–H의 H를 떼고, 그 C–H 결합 전자는 C=O π 결합(초록)이 되며 O–S 결합 전자는 S로 돌아가 $\mathrm{Me_2S}$가 떨어진다.
+그림: 보충: 위 줄은 전체 반응(슬라이드의 조건)이고, 아래 줄은 활성종 $\mathrm{Me_2S^+Cl}$이 만들어진 뒤의 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계: alcohol의 O(파랑, nucleophile)가 S$^+$(빨강, electrophile)를 공격하고 Cl이 떠나 alkoxysulfonium 이온이 된다($\mathrm{Cl^-}$와 HCl은 그리지 않았고, HCl은 $\mathrm{Et_3N}$이 받는다). 2단계: $\mathrm{Et_3N}$(base)이 S–CH$_3$의 H(빨강)를 떼어 sulfur ylide(conjugate base)가 된다. 3단계: ylide의 $\mathrm{CH_2^-}$가 5원 고리 TS를 거쳐 카비놀 C–H의 H를 떼고, 그 C–H 결합 전자는 C=O $\pi$ 결합(초록)이 되며 O–S 결합 전자는 S로 돌아가 $\mathrm{Me_2S}$가 떨어진다.
 
 ![cyclohexanol → cyclohexanone (Swern)](../../figures/L06/swern_cyclohexanol.svg)
 
@@ -160,14 +160,14 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 그림: 보충: 위의 PhCH$_2$OH 그림과 같은 메커니즘을 2차 alcohol에 적용한 것이다. 카비놀 탄소에 H가 하나 남아 있으므로(빨강) 마지막 단계에서 ketone이 된다. 색과 화살표의 의미는 위 그림과 같다.
 
-시약이 흔하고 DMP보다 훨씬 싸다. 그 대가로 부산물이 Me2S(악취), CO, CO2, HCl로 꽤 지저분하다. 산화수로 보면 DMSO의 S(IV)가 Me2S의 S(II)로 환원되고, 그만큼 alcohol이 산화되는 것이다. 슬라이드의 합성 예는 (+)-asteltoxin 합성 intermediate다. `(COCl)2 5 equiv, DMSO 6 equiv; 그 다음 Et3N 10 equiv, −78 °C` 조건에서 1차 CH2OH가 CHO로 바뀌고(95%), 같은 분자 안의 3차 OH는 그대로 남는다. 1.2절에서 본 대로 3차 alcohol에는 떼어 낼 α-H가 없기 때문이다.
+시약이 흔하고 DMP보다 훨씬 싸다. 그 대가로 부산물이 Me2S(악취), CO, CO2, HCl로 꽤 지저분하다. 산화수로 보면 DMSO의 S(IV)가 Me2S의 S(II)로 환원되고, 그만큼 alcohol이 산화되는 것이다. 슬라이드의 합성 예는 (+)-asteltoxin 합성 intermediate다. `(COCl)2 5 equiv, DMSO 6 equiv; 그 다음 Et3N 10 equiv, −78 °C` 조건에서 1차 CH2OH가 CHO로 바뀌고(95%), 같은 분자 안의 3차 OH는 그대로 남는다. 1.2절에서 본 대로 3차 alcohol에는 떼어 낼 $\alpha$-H가 없기 때문이다.
 
 그런데 "S–Cl"이라는 활성종은 어떻게 생길까? 슬라이드에는 메커니즘이 없으므로 교과서의 표준 설명으로 보충한다.[3]
 
 1. DMSO의 O가 (COCl)2를 공격한다. 이어서 CO, CO2, Cl−가 떨어져 나가면 chlorodimethylsulfonium 이온 Me2S+–Cl이 생긴다. 이것이 "S–Cl" 활성종이다.
 2. alcohol O가 S+를 공격하고 Cl−가 떠난다 → alkoxysulfonium 이온 R2CH–O–S+Me2.
 3. Et3N이 S-methyl의 H를 떼어 내 sulfonium 일리드를 만든다.
-4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 α-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
+4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 $\alpha$-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
 
 ![Swern oxidation 활성종 생성 (1단계)](../../figures/L06/swern_steps_1.svg)
 
@@ -183,7 +183,7 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 루테늄 산화물은 원래 강한 산화제인데, 이것을 촉매로만 쓸 수는 없을까? TPAP(tetra-n-propylammonium perruthenate, Pr4N+ RuO4−, Ru(VII))가 그런 시약이다. TPAP는 촉매량만 넣고, 실제 산화 당량은 NMO(N-methylmorpholine N-oxide)가 최종 terminal oxidant로 댄다. alcohol을 산화하고 Ru(V)가 된 루테늄을 NMO가 다시 Ru(VII)로 되돌리고, 그 과정에서 NMO는 N-methylmorpholine이 된다.
 
 $$
-\text{α-하이드록시}\ \text{에스터}(\text{2차 알코올}) \xrightarrow{\mathrm{TPAP}} \text{α-케토 에스터}
+\alpha\text{-하이드록시}\ \text{에스터}(\text{2차 알코올}) \xrightarrow{\mathrm{TPAP}} \alpha\text{-케토 에스터}
 $$
 
 (수율 93%)
@@ -222,12 +222,12 @@ $$
 1. OCl−(최종 산화제)가 Br−(공촉매)를 OBr−로 산화하고, 자신은 Cl−가 된다.
 2. OBr−가 TEMPO(또는 hydroxylamine)를 nitro소늄 cation(nitrosonium cation, N+=O)으로 산화한다.[5] alcohol을 실제로 산화하는 것은 이 cation이다.
 3. 염기성 조건에서 생긴 alkoxide R1CH2O−가 N+를 공격해 intermediate 부가물(I), 즉 N(O−)–O–CH2R1이 생긴다.
-4. N에 붙은 O−가 분자 내에서 α-H를 떼어 내고, N–O(알콕시) 결합이 끊어진다. 그 결과 carbonyl R1CHO와 hydroxylamine(TEMPO-H, N–OH)이 생긴다.
+4. N에 붙은 O−가 분자 내에서 $\alpha$-H를 떼어 내고, N–O(알콕시) 결합이 끊어진다. 그 결과 carbonyl R1CHO와 hydroxylamine(TEMPO-H, N–OH)이 생긴다.
 5. hydroxylamine은 다시 TEMPO를 거쳐 nitro소늄으로 산화되어 순환이 닫힌다.
 
 ![TEMPO 산화의 intermediate 부가물(I)에서 분자 내 α-H 제거로 aldehyde와 hydroxylamine이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 비공유 전자쌍이 같은 분자 안의 α-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(알콕시) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. 1.2절 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.
+그림: 위 4단계(L6c p.12의 intermediate adduct (I)). N에 붙은 O⁻(파랑)의 비공유 전자쌍이 같은 분자 안의 $\alpha$-H(빨강)를 떼어 간다. 그 C–H 결합 전자(파란 결합)는 C–O 사이로 들어가 C=O가 되고, N⁺–O(알콕시) 결합(빨강) 전자는 N으로 돌아가 N⁺가 중성 N이 된다. 결과는 aldehyde(초록 C=O)와 hydroxylamine(N–OH)이다. 1.2절 일반 메커니즘에서 "LG = N⁺, 염기 = 분자 내 O⁻"인 경우로 보면 된다.
 
 (출처: L6c p.11–12)
 
@@ -303,7 +303,7 @@ $$
 
 ![2-methylbut-2-ene + HOCl → 3-chloro-2-methylbutan-2-ol 종합 메커니즘](../../figures/L06/hocl_addition_mech.svg)
 
-그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(단계는 평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): alkene의 π 결합(파랑, nucleophile)이 HOCl의 Cl(빨강, electrophile)을 공격하고 O–Cl 결합 전자가 O로 떠나 chloronium ion과 $\mathrm{HO^-}$가 생긴다. 2단계: $\mathrm{H_2O}$(nucleophile)가 양전하를 더 잘 안정화하는 3차 탄소를 공격해 고리가 열린다. 3단계: $\mathrm{HO^-}$(base)가 oxonium의 O–H를 떼어 chlorohydrin이 되고 $\mathrm{H_2O}$가 다시 나온다. 새로 생긴 C–O와 C–Cl 결합은 초록이다.
+그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(단계는 평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): alkene의 $\pi$ 결합(파랑, nucleophile)이 HOCl의 Cl(빨강, electrophile)을 공격하고 O–Cl 결합 전자가 O로 떠나 chloronium ion과 $\mathrm{HO^-}$가 생긴다. 2단계: $\mathrm{H_2O}$(nucleophile)가 양전하를 더 잘 안정화하는 3차 탄소를 공격해 고리가 열린다. 3단계: $\mathrm{HO^-}$(base)가 oxonium의 O–H를 떼어 chlorohydrin이 되고 $\mathrm{H_2O}$가 다시 나온다. 새로 생긴 C–O와 C–Cl 결합은 초록이다.
 
 슬라이드는 이 반응 옆에 "regio-selectivity"라고 적어 두었다. OH는 3차 탄소에, Cl은 2차 탄소에 붙는다. 이유는 HOCl에서 electrophile로 C=C에 먼저 붙는 쪽이 Cl이기 때문이다. Cl이 붙어 생긴 chloronium 이온은 양전하를 더 잘 안정화하는 3차 탄소 쪽이 물에 공격받는다(Markovnikov형).[7]
 
@@ -411,7 +411,7 @@ $$
 
 ![2-bromopentane + NaOEt → pent-2-ene (E/Z) + pent-1-ene E2 종합 메커니즘](../../figures/L06/e2_2_bromopentane_mech.svg)
 
-그림: 위 줄은 슬라이드의 전체 반응이고, 아래 줄은 (E)-pent-2-ene을 주는 E2 메커니즘이다. E2는 중간체가 없는 한 단계 협동 반응이라 괄호와 ⇌ 없이 한 번에 그렸다. $\mathrm{EtO^-}$(base, 파랑)의 비공유 전자쌍이 β-H(빨강)를 떼고, C–H 결합 전자는 C=C π 결합(초록)이 되며, 동시에 C–Br 결합(빨강) 전자는 $\mathrm{Br^-}$로 떠난다. H와 Br이 anti-periplanar여야 한다. (Z)-alkene은 Et와 Me가 gauche인 형태에서, pent-1-ene은 CH$_3$의 H를 떼는 같은 메커니즘이다.
+그림: 위 줄은 슬라이드의 전체 반응이고, 아래 줄은 (E)-pent-2-ene을 주는 E2 메커니즘이다. E2는 중간체가 없는 한 단계 협동 반응이라 괄호와 ⇌ 없이 한 번에 그렸다. $\mathrm{EtO^-}$(base, 파랑)의 비공유 전자쌍이 $\beta$-H(빨강)를 떼고, C–H 결합 전자는 C=C $\pi$ 결합(초록)이 되며, 동시에 C–Br 결합(빨강) 전자는 $\mathrm{Br^-}$로 떠난다. H와 Br이 anti-periplanar여야 한다. (Z)-alkene은 Et와 Me가 gauche인 형태에서, pent-1-ene은 CH$_3$의 H를 떼는 같은 메커니즘이다.
 
 E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene으로 가는 형태 (i)에서는 Et와 Me가 서로 떨어져 있지만, Z-alkene으로 가는 형태 (ii)에서는 둘이 gauche로 붙어 있어 입체 장애 때문에 불리하다. 그래서 E가 더 많이 생기지만 Z와 말단 alkene도 상당량 섞인다. 즉 E2는 "선호"는 있어도 "통제"는 못 한다. 그래서 이 강의는 두 가지 통제 수단을 소개한다. I. alkyne을 입체선택적으로 환원하는 방법, II. Wittig 반응이다. 고리 닫힘 복분해와 교차 복분해는 이후 강의에서 다룬다(→ olefin 복분해 문서 참고).[9]
 
@@ -426,7 +426,7 @@ E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene�
 alkyne에 H2를 두 번 붙이면 알케인이 되는데, 한 번만 붙이고 멈출 수는 없을까? Lindlar 촉매가 그 답이다. Pd를 CaCO3 지지체에 올리고 Pb(OAc)2로 "피독(poisoning)"해 활성을 일부러 낮춘 촉매다. alkyne을 이 촉매에서 H2와 반응시키면 cis(Z)-alkene에서 멈춘다.[10]
 
 $$
-\begin{aligned} &\mathrm{R{-}C{\equiv}C{-}}\text{(γ-lactone)} \cr &\qquad \xrightarrow{\ \mathrm{H_2},\ \text{Lindlar}\ \mathstrut} \text{Japanese beetle pheromone}\ (\mathrm{Z}\ \text{이성질체만}) \end{aligned}
+\begin{aligned} &\mathrm{R{-}C{\equiv}C{-}}\text{(}\gamma\text{-lactone)} \cr &\qquad \xrightarrow{\ \mathrm{H_2},\ \text{Lindlar}\ \mathstrut} \text{Japanese beetle pheromone}\ (\mathrm{Z}\ \text{이성질체만}) \end{aligned}
 $$
 
 (수율 80–90%)
@@ -460,7 +460,7 @@ $$
 
 핵심은 3단계다. 두 H가 한꺼번에 들어오는 Lindlar와 달리, 여기서는 intermediate가 스스로 덜 붐비는 trans 모양을 고를 시간이 있다.
 
-보충: 비닐 anion이 어떻게 모양을 "고를" 수 있을까? 음전하는 π 오비탈이 아니라 sp<sup>2</sup> 오비탈에 들어 있는데, 비닐 anion은 기하학적으로 불안정해서 cis와 trans 사이를 쉽게 오간다. 그래서 양성자를 받기 전에 R<sup>1</sup>과 R<sup>2</sup>가 멀어지는 더 안정한 trans 배치로 모이고, 마지막 protonation이 그 기하를 고정한다. Na를 액체 NH<sub>3</sub>에 녹이면 용매화된 전자 때문에 짙은 파란색 용액이 되며, 이 전자가 alkyne의 π* 오비탈(LUMO)로 들어가는 것이 1단계다. (보충 근거: Clayden p.542–543, p.682)
+보충: 비닐 anion이 어떻게 모양을 "고를" 수 있을까? 음전하는 $\pi$ 오비탈이 아니라 sp<sup>2</sup> 오비탈에 들어 있는데, 비닐 anion은 기하학적으로 불안정해서 cis와 trans 사이를 쉽게 오간다. 그래서 양성자를 받기 전에 R<sup>1</sup>과 R<sup>2</sup>가 멀어지는 더 안정한 trans 배치로 모이고, 마지막 protonation이 그 기하를 고정한다. Na를 액체 NH<sub>3</sub>에 녹이면 용매화된 전자 때문에 짙은 파란색 용액이 되며, 이 전자가 alkyne의 $\pi^{*}$ 오비탈(LUMO)로 들어가는 것이 1단계다. (보충 근거: Clayden p.542–543, p.682)
 
 검토 의견: 슬라이드는 양성자 공급원을 *t*-BuOH로 적는다. Clayden은 비닐 anion이 NH<sub>3</sub>에서도 양성자를 떼어 올 만큼 염기성이 커서 alkyne 환원에는 별도의 양성자 공급원이 꼭 필요하지는 않으며, *t*-BuOH는 흔히 덧붙이는 것이라고 설명한다. 시험에서는 슬라이드대로 *t*-BuOH를 쓰면 되지만, "NH<sub>3</sub>는 단지 용매일 뿐 절대 양성자를 주지 않는다"고 단정할 필요는 없다. (보충 근거: Clayden p.543, p.682)
 
@@ -523,7 +523,7 @@ $$
 
 ![cyclohexanone + Ph3P=CH2 → methylenecyclohexane Wittig 종합 메커니즘](../../figures/L06/wittig_cyclohexanone_mech.svg)
 
-그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): ylide의 음전하 탄소(파랑, nucleophile)의 비공유 전자쌍이 C=O 탄소(빨강, electrophile)를 공격하고, C=O π 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합해 4원 고리 oxaphosphetane이 생긴다. 2단계: C–P 결합 전자는 C–C 사이로 들어가 C=C π 결합(초록)이 되고, C–O 결합 전자는 O–P 사이로 들어가 $\mathrm{P{=}O}$가 되어 methylenecyclohexane과 $\mathrm{Ph_3P{=}O}$가 떨어진다.
+그림: 위 줄은 전체 반응, 아래 줄은 단계별 메커니즘이다(평형 화살표 ⇌로 연결). 1단계(위 줄의 화살표): ylide의 음전하 탄소(파랑, nucleophile)의 비공유 전자쌍이 C=O 탄소(빨강, electrophile)를 공격하고, C=O $\pi$ 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합해 4원 고리 oxaphosphetane이 생긴다. 2단계: C–P 결합 전자는 C–C 사이로 들어가 C=C $\pi$ 결합(초록)이 되고, C–O 결합 전자는 O–P 사이로 들어가 $\mathrm{P{=}O}$가 되어 methylenecyclohexane과 $\mathrm{Ph_3P{=}O}$가 떨어진다.
 
 
 일리드는 미리 만들어서 넣어도 되고 반응계 in situ 만들어도 된다.[11]
@@ -623,7 +623,7 @@ $$
 
 ![cyclopentylidene-PPh3 + PhCHO → benzylidenecyclopentane Wittig 종합 메커니즘](../../figures/L06/wittig_benzylidene_mech.svg)
 
-그림: 위 단계 1–3을 하나로 합친 종합 메커니즘이다(기존 wittig_step1·step2 그림을 이 그림에 합쳤다). 위 줄은 전체 반응이고, 아래 줄은 단계별 과정이다(평형 화살표 ⇌로 연결). 1–2단계: 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O π 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 3단계: C–P 결합 전자는 C–C 사이로 들어가 C=C π 결합이 되고, C–O 결합 전자는 O–P 사이로 들어가 P=O가 된다. 생기는 강한 P=O 결합(초록)이 반응의 구동력이며, 생성물은 benzylidenecyclopentane(65%)과 $\mathrm{Ph_3P{=}O}$다.
+그림: 위 단계 1–3을 하나로 합친 종합 메커니즘이다(기존 wittig_step1·step2 그림을 이 그림에 합쳤다). 위 줄은 전체 반응이고, 아래 줄은 단계별 과정이다(평형 화살표 ⇌로 연결). 1–2단계: 일리드의 음전하 탄소(파랑, nucleophile) 전자쌍이 PhCHO의 carbonyl 탄소(빨강, electrophile)를 공격하고, C=O $\pi$ 결합 전자는 O로 가서 O가 $\mathrm{P^+}$와 결합한다. 그 결과 새 C–C와 P–O 결합(초록)을 가진 4원 고리 oxaphosphetane이 생긴다. 3단계: C–P 결합 전자는 C–C 사이로 들어가 C=C $\pi$ 결합이 되고, C–O 결합 전자는 O–P 사이로 들어가 P=O가 된다. 생기는 강한 P=O 결합(초록)이 반응의 구동력이며, 생성물은 benzylidenecyclopentane(65%)과 $\mathrm{Ph_3P{=}O}$다.
 
 그렇다면 이 반응은 왜 이렇게 잘 진행될까? P=O 결합이 매우 강해서 이것이 생기는 것 자체가 반응을 앞으로 밀어 주는 구동력이 되기 때문이다.
 
@@ -686,7 +686,7 @@ $$
 ## 흔한 오해
 
 - "MnO2는 환원제"라고 생각하기 쉽지만(원본 슬라이드 p.10의 오타), 사실은 매우 순한 산화제다. 그것도 allyl·benzyl alcohol만 산화한다. 수정본은 "oxidizing reagent"로 고쳐 놓았다.
-- "산화제가 세면 3차 alcohol도 결국 산화된다"고 생각하기 쉽지만, 사실 이 강의의 메커니즘에서는 카비놀 탄소의 α-H를 떼어야 C=O가 생긴다. 3차 alcohol은 그 H가 없어서 반응하지 않는다.
+- "산화제가 세면 3차 alcohol도 결국 산화된다"고 생각하기 쉽지만, 사실 이 강의의 메커니즘에서는 카비놀 탄소의 $\alpha$-H를 떼어야 C=O가 생긴다. 3차 alcohol은 그 H가 없어서 반응하지 않는다.
 - "TEMPO radical이 alcohol을 직접 산화한다"고 생각하기 쉽지만, 사실 실제 산화제는 TEMPO가 산화되어 생긴 nitro소늄(oxoammonium) cation N+=O다. TEMPO는 촉매이고, NaOCl(또는 Stahl 계의 O2)이 최종 산화제다.
 - "Pinnick의 2-methyl-2-butene은 반응물"이라고 생각하기 쉽지만, 사실 부산물 HOCl을 잡는 제거제다. HOCl이 붙을 때 OH는 3차 탄소, Cl은 2차 탄소로 간다. 방향을 반대로 쓰기 쉬우니 주의한다.
 - "Swern은 Cl2가 산화한다"고 생각하기 쉽지만, 사실 활성종은 DMSO와 (COCl)2에서 생긴 chlorosulfonium(Me2S+–Cl)이다. 산소는 결국 Me2S가 되어 빠져나간다.
@@ -719,7 +719,7 @@ $$
 | 용해 금속 환원 | Na, NH3(l), t-BuOH | E-alkene | – | trans 비닐 anion → E | SET (p.23–24) |
 | 일리드 생성 | PPh3 + RCH2X (SN2); BuLi/PhLi/t-BuOK (안정화형은 Na2CO3) | Ph3P=CHR | 1°/2° halide | – | (p.26, 29) |
 | Wittig (비안정화) | Ph3P=CHR (R = alkyl) + R'CHO | R–CH=CH–R' | C=O 자리에 C=C | Z-선택적 | syn oxaphosphetane (p.31, 34) |
-| Wittig (안정화) | Ph3P=CHCO2Et, Ph3P=CHCHO 등 + RCHO | α,β-unsaturated carbonyl | C=O 자리에 C=C | E-선택적 | (p.30) |
+| Wittig (안정화) | Ph3P=CHCO2Et, Ph3P=CHCHO 등 + RCHO | $\alpha,\beta$-unsaturated carbonyl | C=O 자리에 C=C | E-선택적 | (p.30) |
 | HWE | (EtO)2P(O)CH2EWG, NaH/EtO−/KHMDS + aldehyde·ketone | alkene | C=O 자리에 C=C | E-선택적(이치환) | 수용성 phosphate 부산물 (p.36–37) |
 
 (쪽 번호는 모두 L6c 기준)
@@ -737,7 +737,7 @@ $$
 
    빈칸 시약은 무엇이며 왜 E가 생기는가?
 5. (L6c p.32) 다음 표적 분자를 Wittig 반응으로 만들 때 필요한 기질(carbonyl + 일리드)을 제안하라. (a) (CH3)2C=CH–CH2CH3 (2-methylpent-2-ene) (b) 3-methylenecyclohexene
-6. (L6c p.37) 빈칸을 채워라. (a) CH3C(=O)CH2CH2CH(OTBS)CH(OTBS)CH2OTBS + [?] --[KHMDS]--> CH3CH=C(CH3)–CH=CH–CH=C(CH3)–CH2CH2…(새 C=C는 ketone 탄소 자리). (b) β-락탐 N–CH(P(O)(OEt)2)CO2t-Bu와 측쇄 CH2CH2C(=O)CH2OR을 가진 기질 --[NaH, THF, 85%]--> [?]
+6. (L6c p.37) 빈칸을 채워라. (a) CH3C(=O)CH2CH2CH(OTBS)CH(OTBS)CH2OTBS + [?] --[KHMDS]--> CH3CH=C(CH3)–CH=CH–CH=C(CH3)–CH2CH2…(새 C=C는 ketone 탄소 자리). (b) $\beta$-락탐 N–CH(P(O)(OEt)2)CO2t-Bu와 측쇄 CH2CH2C(=O)CH2OR을 가진 기질 --[NaH, THF, 85%]--> [?]
 7. (L6c p.15) Pinnick 산화에 2-methyl-2-butene을 넣는 이유와, 이것이 HOCl과 반응해 생기는 생성물(regioselectivity 포함)을 쓰라.
 8. (L6c p.23–24) 다음 두 반응의 생성물 입체화학을 쓰고, 두 번째 반응의 메커니즘을 4단계로 서술하라. (a) R1–C≡C–R2 + H2/Lindlar (b) R1–C≡C–R2 + Na, NH3(l), t-BuOH
 
@@ -755,7 +755,7 @@ $$
 
 5. (a) C2=C3를 끊는다. 가장 좋은 조합은 acetone (CH3)2C=O + Ph3P=CH–CH2CH3(propylidene 일리드: 1-bromopropane + PPh3로 SN2한 뒤 BuLi로 deprotonation)이다. 대안은 propanal CH3CH2CHO + Ph3P=C(CH3)2인데, 이 일리드는 2-bromopropane(2차 halide)에서 와야 해서 SN2가 더 느리다. C2에 같은 CH3가 두 개 있으므로 E/Z 문제는 없다. (b) 엑소 C=CH2를 끊는다: cyclohex-2-en-1-one + Ph3P=CH2(CH3Br + PPh3, 그 다음 BuLi). 고리 안의 C=C는 그대로 둔다. 반대 조합(고리 일리드 + HCHO)은 비현실적이다. (L6c p.26–27, p.32)
 
-6. (a) 빈칸은 다이에닐 phosphonate (EtO)2P(O)–CH2–CH=CH–C(CH3)=CH–CH3((2E,4E)-4-methylhexa-2,4-dien-1-yl diethyl phosphonate)다. KHMDS가 P 옆 CH2를 deprotonate하고, 생긴 carbanion이 methyl ketone과 HWE 반응을 해 새 삼치환 C=C(그림의 빨간 결합)를 만든다. 슬라이드의 "dr = 7:1"은 새 C=C의 기하이성질체 비로 해석된다. (b) 분자 내 HWE다. P와 CO2t-Bu 사이의 C–H를 NaH가 떼어 carbanion을 만들고, 이것이 같은 분자의 ketone을 공격한다. 고리 원자는 N, β-락탐 C4, CH2, CH2, ketone C, carbanion C이므로 6원 고리가 닫힌다. 생성물은 1-카바세펨(1-carbacephem) 골격이다: tert-butyl 7-phthalimido-3-(ROCH2)-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate. C2=C3 이중결합에서 C2에는 CO2t-Bu, C3에는 CH2OR이 붙고, β-락탐 입체화학은 유지된다. 부산물은 (EtO)2PO2− Na+다. (L6c p.36–37)
+6. (a) 빈칸은 다이에닐 phosphonate (EtO)2P(O)–CH2–CH=CH–C(CH3)=CH–CH3((2E,4E)-4-methylhexa-2,4-dien-1-yl diethyl phosphonate)다. KHMDS가 P 옆 CH2를 deprotonate하고, 생긴 carbanion이 methyl ketone과 HWE 반응을 해 새 삼치환 C=C(그림의 빨간 결합)를 만든다. 슬라이드의 "dr = 7:1"은 새 C=C의 기하이성질체 비로 해석된다. (b) 분자 내 HWE다. P와 CO2t-Bu 사이의 C–H를 NaH가 떼어 carbanion을 만들고, 이것이 같은 분자의 ketone을 공격한다. 고리 원자는 N, $\beta$-락탐 C4, CH2, CH2, ketone C, carbanion C이므로 6원 고리가 닫힌다. 생성물은 1-카바세펨(1-carbacephem) 골격이다: tert-butyl 7-phthalimido-3-(ROCH2)-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate. C2=C3 이중결합에서 C2에는 CO2t-Bu, C3에는 CH2OR이 붙고, $\beta$-락탐 입체화학은 유지된다. 부산물은 (EtO)2PO2− Na+다. (L6c p.36–37)
 
 7. NaClO2가 aldehyde를 산화하면 HOCl이 부산물로 생기는데, 이것이 부반응을 일으키므로 제거해야 한다. 제거 반응은 $\mathrm{(CH_3)_2C{=}CHCH_3} + \mathrm{HOCl} \longrightarrow \mathrm{(CH_3)_2C(OH){-}CHCl{-}CH_3}$이다. Cl이 electrophile로 C=C에 붙고, 물(OH)이 더 치환된 3차 탄소를 공격한다(Markovnikov형). 대신 DMSO를 써도 된다. (L6c p.15)
 

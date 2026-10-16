@@ -19,16 +19,16 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 
 ## 강의 흐름
 
-### 0. 복습: electrophile의 δ⁺와 alkene의 HOMO (슬라이드 p.4–5)
-- 시약의 δ⁺ 부분이 electrophile이다. isobutene HOMO는 CH₂ 말단에 커서 Markovnikov regioselectivity를 궤도함수로 설명한다.
+### 0. 복습: electrophile의 $\delta^{+}$와 alkene의 HOMO (슬라이드 p.4–5)
+- 시약의 $\delta^{+}$ 부분이 electrophile이다. isobutene HOMO는 CH₂ 말단에 커서 Markovnikov regioselectivity를 궤도함수로 설명한다.
 - → [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md)
 
 ### 1. benzene은 왜 alkene처럼 반응하지 않는가 (슬라이드 p.9–10)
-- C–C 1.39 Å, 6π 전자가 고리 전체에 퍼져 있어 RCO₃H, Br₂와 반응하지 않는다. Lewis acid(AlCl₃, FeCl₃)가 있으면 Br₂와 substitution한다(1.1).
+- C–C 1.39 Å, $6\pi$ 전자가 고리 전체에 퍼져 있어 RCO₃H, Br₂와 반응하지 않는다. Lewis acid(AlCl₃, FeCl₃)가 있으면 Br₂와 substitution한다(1.1).
 - → [aromaticity](../wiki/개념/방향족성.md), [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md), [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md)
 
 ### 2. S<sub>E</sub>Ar의 메커니즘: cyclohexadienyl cation (슬라이드 p.11)
-- π 전자가 E⁺를 공격하는 단계가 rate-determining step이고, H⁺가 빠져 aromaticity가 회복된다. 양전하는 E 기준 ortho, para에만 놓인다. ipso/ortho/meta/para 용어.
+- $\pi$ 전자가 E⁺를 공격하는 단계가 rate-determining step이고, H⁺가 빠져 aromaticity가 회복된다. 양전하는 E 기준 ortho, para에만 놓인다. ipso/ortho/meta/para 용어.
 - → [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [arenium ion](../wiki/개념/아레늄%20이온.md)
 
 ### 3. nitration (슬라이드 p.12–13)
@@ -44,7 +44,7 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 - → [Friedel–Crafts alkylation](../wiki/반응/프리델-크래프츠%20알킬화.md), [carbocation rearrangement](../wiki/개념/탄소%20양이온%20자리옮김.md), [carbocation](../wiki/개념/탄소%20양이온.md)
 
 ### 6. Friedel–Crafts acylation (슬라이드 p.18–22)
-- 6.1 acylium ion이 electrophile(acid chloride 또는 anhydride). 6.2 다중 치환·rearrangement가 없다(nitrobenzene은 용매). 6.3 acylation + Clemmensen reduction = 깔끔한 alkylation. 6.4 succinic acid 무수물 → α-테트랄론(빈칸 문제, 답은 L4 p.3).
+- 6.1 acylium ion이 electrophile(acid chloride 또는 anhydride). 6.2 다중 치환·rearrangement가 없다(nitrobenzene은 용매). 6.3 acylation + Clemmensen reduction = 깔끔한 alkylation. 6.4 succinic acid 무수물 → $\alpha$-테트랄론(빈칸 문제, 답은 L4 p.3).
 - → [Friedel–Crafts acylation](../wiki/반응/프리델-크래프츠%20아실화.md), [acylium ion](../wiki/개념/아실륨%20이온.md), [Clemmensen reduction](../wiki/반응/클레멘센%20환원.md)
 
 ### 7. phenol의 친전자성 치환 (슬라이드 p.23–26)
@@ -61,7 +61,7 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 | [F-C alkylation](../wiki/반응/프리델-크래프츠%20알킬화.md) | RX + AlCl₃ | R⁺ | ArR (rearrangement, 다중 치환) |
 | [F-C acylation](../wiki/반응/프리델-크래프츠%20아실화.md) | RCOCl 또는 (RCO)₂O + AlCl₃ | RC≡O⁺ | ArCOR (한 번만) |
 | [Clemmensen](../wiki/반응/클레멘센%20환원.md) | Zn/Hg, HCl | (환원) | ArCH₂R (ketone만) |
-| 분자내 acylation | H₃PO₄ | acylium | α-테트랄론 |
+| 분자내 acylation | H₃PO₄ | acylium | $\alpha$-테트랄론 |
 | nitro 환원 | H₂, Pd/C 또는 Sn, 묽은 HCl | | ArNH₂ |
 | [diazotization](../wiki/반응/다이아조늄%20염%20반응.md) → phenol | NaNO₂, HCl, 0 °C → H₂O, 가열 | aryl cation | ArOH |
 | phenol bromination | Br₂, EtOH/H₂O | Br₂ | 2,4,6-tribromophenol |

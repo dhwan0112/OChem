@@ -29,14 +29,14 @@ TEMPO 자체가 alcohol을 산화하는 것이 아니다.
 1. OCl⁻(최종 산화제)가 Br⁻를 OBr⁻로 산화한다.
 2. OBr⁻가 TEMPO를 nitrosonium cation(N⁺=O)으로 산화한다.[^1] 실제 산화제는 이 cation이다.
 3. alkoxide가 N⁺를 공격해 부가물 N(O⁻)–O–CH₂R이 생긴다.
-4. N에 붙은 O⁻가 분자 내에서 α-H를 떼고 N–O 결합이 끊어져 RCHO와 hydroxylamine(TEMPO-H)이 된다.
+4. N에 붙은 O⁻가 분자 내에서 $\alpha$-H를 떼고 N–O 결합이 끊어져 RCHO와 hydroxylamine(TEMPO-H)이 된다.
 5. TEMPO-H는 다시 산화되어 순환이 닫힌다.
 
 (출처: L6c p.11–12)
 
 ![TEMPO 산화의 부가물에서 분자 내 α-H 제거로 aldehyde와 hydroxylamine이 생기는 단계](../../figures/L06/tempo_adduct.svg)
 
-그림: 4단계. N에 붙은 O⁻(파랑)가 α-H(빨강)를 떼어 가고, N⁺–O 결합 전자는 N으로 돌아간다. 초록 C=O가 새 결합이다.
+그림: 4단계. N에 붙은 O⁻(파랑)가 $\alpha$-H(빨강)를 떼어 가고, N⁺–O 결합 전자는 N으로 돌아간다. 초록 C=O가 새 결합이다.
 
 Stahl 계에서는 Cu(I)가 TEMPO-H와 ½ O₂로 Cu(II)–OH와 TEMPO•가 되고, 이 둘이 함께 alcohol을 산화하며 Cu(I)와 TEMPO-H로 돌아간다. 결국 O₂가 물이 된다. (출처: L6c p.13)
 

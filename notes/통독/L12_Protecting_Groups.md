@@ -217,7 +217,7 @@ $$
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
+그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O $\pi$ 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
 
 대표 선수는 두 명이다. benzyl 카바메이트인 Cbz(Z라고도 함, R'RN-CO-OCH2Ph)는 BnOCOCl과 염기로 씌우고, t-butyl 카바메이트인 Boc(R'RN-CO-OC(CH3)3)는 (t-BuOCO)2O, 흔히 Boc2O라 부르는 시약과 염기로 씌운다.
 
@@ -249,7 +249,7 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 
 그런데 문제가 있다. 두 amino acid 모두 NH2와 CO2H를 다 가지고 있다. 그래서 보호 없이 섞어 활성화하면 Leu–Leu, Gly–Gly, Gly–Leu가 모두 생길 수 있다. 원하는 짝만 맺어 주려면 "반응하면 안 되는 쪽"을 모두 가려야 한다.
 
-보충: 슬라이드의 C(=O)X에서 X로 무엇을 쓰는지도 이유가 있다. acyl chloride는 너무 반응성이 커서 peptide 합성에서는 쓰지 않는다. α-탄소의 라세미화, 그리고 두 amino acid이 고리로 이어진 diketopiperazine 같은 부산물이 생기기 쉽기 때문이다. 대신 p-nitrophenyl ester나 2,4,6-trichlorophenyl ester처럼 "적당히 활성화된" ester, 또는 DCC 같은 커플링제를 쓴다. 전자 끄는 기가 붙은 phenoxide는 pKa가 낮아 좋은 leaving group이 되기 때문이다. 또 amino acid의 단순 methyl·ethyl ester는 다른 분자의 amine에게 공격받을 수 있어서, NH2가 보호되어 있거나 염산염(–NH3+)으로 "보호"되어 있을 때만 안정하다. (보충 근거: Clayden p.553, p.555, p.557)
+보충: 슬라이드의 C(=O)X에서 X로 무엇을 쓰는지도 이유가 있다. acyl chloride는 너무 반응성이 커서 peptide 합성에서는 쓰지 않는다. $\alpha$-탄소의 라세미화, 그리고 두 amino acid이 고리로 이어진 diketopiperazine 같은 부산물이 생기기 쉽기 때문이다. 대신 p-nitrophenyl ester나 2,4,6-trichlorophenyl ester처럼 "적당히 활성화된" ester, 또는 DCC 같은 커플링제를 쓴다. 전자 끄는 기가 붙은 phenoxide는 pKa가 낮아 좋은 leaving group이 되기 때문이다. 또 amino acid의 단순 methyl·ethyl ester는 다른 분자의 amine에게 공격받을 수 있어서, NH2가 보호되어 있거나 염산염(–NH3+)으로 "보호"되어 있을 때만 안정하다. (보충 근거: Clayden p.553, p.555, p.557)
 
 보충: amino acid 곁사슬도 보호 대상이다. 글루탐산·아스파르트산은 CO2H를, 라이신은 NH2를 하나 더 가지므로, 이들을 그대로 두면 주사슬 대신 곁사슬에서 amide가 생긴다. 7-5절에서 "곁사슬 protecting group(PG)"가 따로 등장하는 이유다. (보충 근거: Wade p.1183)
 
@@ -279,12 +279,12 @@ $$
 
 1. 카바메이트의 carbonyl O가 H+에 의해 protonate된다.
 2. t-Bu–O 결합이 끊어지며 t-butyl cation이 떨어져 나간다. 이 cation은 3차 carbocation이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
-3. t-butyl cation은 β-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
+3. t-butyl cation은 $\beta$-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid은 양성자가 옮겨 간 zwitterion(O-/NH2+) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
 ![Boc 카바메이트의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid이 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)과 3차 t-butyl cation이 생긴다.
+그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 $\pi$ 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)과 3차 t-butyl cation이 생긴다.
 
 ![carbamic acid이 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
@@ -317,7 +317,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 그림: 윗줄 왼쪽: $NR_3$ (파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14전자 방향족계로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, $CH_2\text{–}O$ 결합(빨강) 전자가 산소로 떨어져 E1cB. 아랫줄: dibenzofulvene(초록이 새 C=C)과 카바메이트 anion이 생기고, 카바메이트 anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 $CO_2$ 와 $H_2N\text{–}R$ 이 된다.
 
-보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 방향족 anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 방향족인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 π계를 이룬다). (보충 근거: Clayden p.559)
+보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 방향족 anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 방향족인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 $\pi$계를 이룬다). (보충 근거: Clayden p.559)
 
 실제 peptide 합성에서는 piperidine 같은 2차 amine을 주로 쓴다.[9] 결국 Boc(산에 약하고 염기에 강함)와 Fmoc(산에 강하고 염기에 약함)는 거울상처럼 서로 보완하는 관계이고, 이것이 직교 보호 전략의 토대가 된다.
 
@@ -357,7 +357,7 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 ![carbonyl protonation과 ethylene glycol OH의 첨가로 hemiacetal이 되는 단계](../../figures/L12/acetal_hemiacetal.svg)
 
-그림: 보충(슬라이드는 전체 반응식만 보여 준다). 왼쪽: carbonyl 산소(파랑)의 전자쌍이 p-TsOH의 H⁺(빨강)를 잡는다. 가운데: protonate된 carbonyl(oxonium ion)의 탄소(빨강)를 ethylene glycol의 O(파랑)가 공격하고, C=O π 전자는 O⁺로 돌아간다. 오른쪽: 양성자를 잃으면 hemiacetal이 된다(초록이 새 C–O). 모든 단계가 평형이다. (보충 근거: Clayden p.226, p.228)
+그림: 보충(슬라이드는 전체 반응식만 보여 준다). 왼쪽: carbonyl 산소(파랑)의 전자쌍이 p-TsOH의 H⁺(빨강)를 잡는다. 가운데: protonate된 carbonyl(oxonium ion)의 탄소(빨강)를 ethylene glycol의 O(파랑)가 공격하고, C=O $\pi$ 전자는 O⁺로 돌아간다. 오른쪽: 양성자를 잃으면 hemiacetal이 된다(초록이 새 C–O). 모든 단계가 평형이다. (보충 근거: Clayden p.226, p.228)
 
 ![hemiacetal에서 물이 떨어져 oxonium ion이 되고 두 번째 OH가 고리를 닫아 1,3-dioxolane이 되는 단계](../../figures/L12/acetal_ring_closure.svg)
 

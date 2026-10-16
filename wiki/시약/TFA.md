@@ -26,7 +26,7 @@ TFA는 acetic acid의 CH₃를 CF₃로 바꾼 산이다. 보충: fluorine 세 �
 
 산 촉매 수화는 E1 탈수와 평형이라 한쪽으로 몰기 어렵다. TFA를 쓰면 이 문제를 피한다. (출처: L2 p.19–20)
 
-1. TFA가 alkene을 protonate해(δ⁺인 H) 더 안정한 [carbocation](../개념/탄소%20양이온.md)을 만들고, 짝염기가 그 cation을 붙잡아(δ⁻인 O) trifluoroacetate ester가 된다.
+1. TFA가 alkene을 protonate해($\delta^{+}$인 H) 더 안정한 [carbocation](../개념/탄소%20양이온.md)을 만들고, 짝염기가 그 cation을 붙잡아($\delta^{-}$인 O) trifluoroacetate ester가 된다.
 2. ester를 염기성 수용액으로 가수분해하면 alcohol과 trifluoroacetate anion이 나온다.
 
 - 예: cyclohexene --[TFA]--> cyclohexyl trifluoroacetate --[염기, H₂O]--> cyclohexane올 (출처: L2 p.20)

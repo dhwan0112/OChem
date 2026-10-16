@@ -17,7 +17,7 @@ MnO₂는 너무 순해서 아무 alcohol이나 산화하지 못한다. 그런�
 
 | 기질 | 생성물 | 비고 |
 |---|---|---|
-| allyl 1차 alcohol | α,β-unsaturated aldehyde | C=C 유지 |
+| allyl 1차 alcohol | $\alpha,\beta$-unsaturated aldehyde | C=C 유지 |
 | allyl 2차 alcohol | enone | |
 | benzyl alcohol | 방향족 aldehyde·ketone | |
 | 일반(비allyl) alcohol | 반응 없음 | |

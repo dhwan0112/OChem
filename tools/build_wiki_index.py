@@ -14,6 +14,8 @@ import re
 import urllib.parse
 import sys
 
+from math_notation import inline_greek, plain_greek_label, PROTECTED
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WIKI = os.path.join(ROOT, "wiki")
 NOTES = os.path.join(ROOT, "notes")
@@ -185,7 +187,7 @@ def slug(tag):
 
 
 def compute_tags(doc, extra):
-    t = doc["title"]
+    t = plain_greek_label(doc["title"])
     tags = [f"분류/{doc['category']}"]
     for n in doc["lectures"]:
         tags += [f"범위/{exam_scope(n)}", f"강의/L{n:02d}", f"단원/{UNIT[n]}"]
@@ -251,9 +253,18 @@ def short(summary, n=70):
     """표에 넣을 짧은 요약: 첫 문장, 링크는 글자만 남긴다."""
     s = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", summary)
     s = re.sub(r"\[\[([^\]]+)\]\]", r"\1", s)
-    s = re.sub(r"\[((?:\\.|[^\]\\])+)\]\([^)]+\)", lambda m: re.sub(r"\\(.)", r"\1", m.group(1)), s)
+    s = re.sub(r"\[((?:\\.|[^\]\\])+)\]\([^)]+\)", lambda m: m.group(1).replace(r"\[", "[").replace(r"\]", "]"), s)
     s = re.split(r"(?<!cat)(?<!eq)(?<!aq)\. ", s)[0]
-    return s if len(s) <= n else s[: n - 1] + "…"
+    s = inline_greek(s)
+    if len(s) <= n:
+        return s
+    end = n - 1
+    # LaTeX 명령/구분자 중간에서 자르면 목록의 나머지까지 수식으로 삼킬 수 있다.
+    for m in PROTECTED.finditer(s):
+        if m.start() < end < m.end():
+            end = m.start()
+            break
+    return s[:end].rstrip() + "…"
 
 
 def url(path):
@@ -264,7 +275,8 @@ def url(path):
 def mdlink(text, target, from_dir):
     """target(절대 경로)으로 가는 상대 경로 마크다운 링크. 글자 속 대괄호는 이스케이프한다."""
     rel = os.path.relpath(target, from_dir).replace(os.sep, "/")
-    text = text.replace("[", "\\[").replace("]", "\\]")
+    text = inline_greek(text)
+    text = re.sub(r"(?<!\\)([\[\]])", lambda m: "\\" + m[1], text)
     return f"[{text}]({url(rel)})"
 
 
@@ -411,7 +423,7 @@ def update_lecture_notes(docs):
         block_lines += ["", END]
         block = "\n".join(block_lines)
         if START in text:
-            new = re.sub(re.escape(START) + r".*?" + re.escape(END), block, text, flags=re.S)
+            new = re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: block, text, flags=re.S)
         else:
             # 제목(H1) 바로 아래에 넣는다
             new = re.sub(r"^(# .+\n)", lambda m: m.group(1) + "\n" + block + "\n", text, count=1, flags=re.M)

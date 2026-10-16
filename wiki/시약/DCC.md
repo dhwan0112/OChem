@@ -31,7 +31,7 @@ L-phenylalanine과 L-alanine으로 Phe-Ala dipeptide를 만드는 공식 풀이�
 
 보호를 하는 이유는 각 amino acid가 amine(nucleophile)과 carboxylic acid(DCC로 활성화되는 쪽)를 모두 갖기 때문이다. 보호 없이 DCC와 섞으면 Phe-Phe, Ala-Ala, Ala-Phe, Phe-Ala와 oligomer가 무작위로 생긴다. (출처: L12 p.9; L12 Practice 문제 3)
 
-검토 의견: 공식 경로는 표준적이고 옳다. 다만 DCC 활성화 단계와 NaOH saponification 단계에서는 α-탄소의 racemization 위험이 있어, 실무에서는 HOBt 같은 첨가제나 온화한 조건(LiOH, 저온)을 함께 쓴다(보충 근거: Clayden p.748). 공식 답은 바꾸지 않는다.
+검토 의견: 공식 경로는 표준적이고 옳다. 다만 DCC 활성화 단계와 NaOH saponification 단계에서는 $\alpha$-탄소의 racemization 위험이 있어, 실무에서는 HOBt 같은 첨가제나 온화한 조건(LiOH, 저온)을 함께 쓴다(보충 근거: Clayden p.748). 공식 답은 바꾸지 않는다.
 
 ## 흔한 오해
 

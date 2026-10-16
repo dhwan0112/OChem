@@ -25,7 +25,7 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 ## 예
 
 - R–CH₂–CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R–CH₂–CH(OH)–C(OH)(CH₃)₂ (출처: L2 p.14)
-- α-hydroxy ester(2차 alcohol) --[TPAP(cat.), NMO]--> α-keto ester (93%) (출처: L6c p.10)
+- $\alpha$-hydroxy ester(2차 alcohol) --[TPAP(cat.), NMO]--> $\alpha$-keto ester (93%) (출처: L6c p.10)
 - 바레니클린 intermediate: 노보넨형 C=C --[cat. OsO₄, NMO, 85%]--> exo-*cis*-diol --[NaIO₄]--> dialdehyde (→ [periodate cleavage](../반응/과아이오딘산%20절단.md)) (출처: Tutorial 2 문제 3)
 
 ## 시험에서

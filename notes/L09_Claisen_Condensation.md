@@ -15,12 +15,12 @@
 
 ## 개요
 
-enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl(β-keto ester, β-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation이 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enolization되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
+enolate의 세 번째 짝, "enolate + ester"를 다룬다. $\alpha$-alkylation과 aldol에 이어 ester를 상대로 하면 1,3-dicarbonyl($\beta$-keto ester, $\beta$-diketone)이 생긴다. 강의는 먼저 Claisen이 nucleophilic acyl substitution이라는 점을 확인하고, 자기 축합의 메커니즘에서 "생성물의 deprotonation이 원동력"이라는 핵심 원리를 끌어낸다. 이어 같은 원리로 crossed Claisen(enolization되지 않는 ester를 electrophile로)과 분자 내 Dieckmann condensation을 설명하고, 합성 설계 연습으로 마무리한다.
 
 ## 강의 흐름
 
 ### 1. Enolate가 할 수 있는 네 가지 일 (슬라이드 p.2, p.14)
-- enolate + alkyl halide → α-alkylation, + aldehyde/ketone → aldol, + ester → 1,3-dicarbonyl(Claisen), + enone → Michael. Claisen의 C–C 형성은 가역(⇌)이다.
+- enolate + alkyl halide → $\alpha$-alkylation, + aldehyde/ketone → aldol, + ester → 1,3-dicarbonyl(Claisen), + enone → Michael. Claisen의 C–C 형성은 가역(⇌)이다.
 - → [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../wiki/반응/알돌%20반응.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 2. Claisen 반응은 결국 친핵성 acyl 치환이다 (슬라이드 p.3)
@@ -29,8 +29,8 @@ enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldo
 
 ### 3. 자기 축합: ester 두 분자가 하나로 (슬라이드 p.4–7)
 - 2 CH₃CO₂Et → ethyl acetoacetate(76%), ethyl pentanoate → 2-propyl-3-oxoheptanoate(77%).
-- 원동력은 생성물 β-keto ester(pKa ~9)의 deprotonation. 그래서 염기 1당량, 같은 alkoxide, α-H 2개 이상, 마지막 산 처리.
-- 같은 β-keto ester anion이 Claisen에서는 종착점, acetoacetic ester alkylation에서는 출발점(p.7).
+- 원동력은 생성물 $\beta$-keto ester(pKa ~9)의 deprotonation. 그래서 염기 1당량, 같은 alkoxide, $\alpha$-H 2개 이상, 마지막 산 처리.
+- 같은 $\beta$-keto ester anion이 Claisen에서는 종착점, acetoacetic ester alkylation에서는 출발점(p.7).
 - → [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [alkoxide base](../wiki/시약/알콕사이드%20염기.md), [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md)
 
 ### 4. 교차 Claisen condensation: 짝을 골라 섞기 (슬라이드 p.8–11)
@@ -39,7 +39,7 @@ enolate의 세 번째 짝, "enolate + ester"를 다룬다. α-alkylation과 aldo
 - → [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
 
 ### 5. 분자 내 Claisen: Dieckmann condensation (슬라이드 p.12)
-- diester → 고리형 β-keto ester. 고리 크기 = carbonyl 사이 CH₂ 수 + 1(1,6-diester → 5원, 1,7-diester → 6원).
+- diester → 고리형 $\beta$-keto ester. 고리 크기 = carbonyl 사이 CH₂ 수 + 1(1,6-diester → 5원, 1,7-diester → 6원).
 - → [Dieckmann condensation](../wiki/반응/디크만%20축합.md)
 
 ### 6. 연습: Claisen으로 합성 설계하기 (슬라이드 p.13)

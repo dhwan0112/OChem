@@ -7,7 +7,7 @@ tags: [분류/시약, 범위/Test1, 범위/Test2, 단원/산화-알켄-합성, �
 ---
 # SeO2
 
-> selenium dioxide. allyl methyl기(C=C 옆의 CH₃)를 산화해 **enal**(α,β-unsaturated aldehyde)을 만든다. benzyl methyl group에는 듣지 않는다.
+> selenium dioxide. allyl methyl기(C=C 옆의 CH₃)를 산화해 **enal**($\alpha,\beta$-unsaturated aldehyde)을 만든다. benzyl methyl group에는 듣지 않는다.
 
 ## 개요
 

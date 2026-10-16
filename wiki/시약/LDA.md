@@ -32,7 +32,7 @@ BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약�
 - ketone(pKa 19) + EtONa ⇌ enolate + EtOH(pKa 16): 왼쪽으로 치우쳐 enolate가 소량뿐이다.
 - ketone(pKa 19) + LDA → enolate + HN(*i*-Pr)₂(pKa 36–38)[^1]: 사실상 완전히 오른쪽으로 간다.
 
-ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
+ester $\alpha$-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ### 왜 친핵성이 없나
 
@@ -40,7 +40,7 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ## 선택성
 
-- **regioselectivity:** −78 °C에서 LDA는 가장 덜 가려진 α-H를 빨리, 비가역적으로 떼어 간다. 그래서 비대칭 ketone에서는 덜 치환된 C=C의 enolate가 생긴다. 2-heptanone은 methyl 쪽만 100 : 0으로 deprotonate된다. (출처: L7 p.8, p.11–12)
+- **regioselectivity:** −78 °C에서 LDA는 가장 덜 가려진 $\alpha$-H를 빨리, 비가역적으로 떼어 간다. 그래서 비대칭 ketone에서는 덜 치환된 C=C의 enolate가 생긴다. 2-heptanone은 methyl 쪽만 100 : 0으로 deprotonate된다. (출처: L7 p.8, p.11–12)
 - **화학선택성:** 친핵성이 없으므로 carbonyl에 첨가하지 않는다. (출처: L7 p.6)
 
 ![2-methylcyclohexanone의 kinetic/thermodynamic enolate](../../figures/L07/kinetic_thermo_enolate.svg)
@@ -55,7 +55,7 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 | ester alkylation | CH₃CH₂CH₂CO₂Me --[LDA, THF; EtI]--> (CH₃CH₂)₂CHCO₂Me 96% | L7 p.13 |
 | [directed aldol](../반응/교차%20알돌%20반응.md) | CH₃COCH₂CH₃ --[LDA, −78 °C; CH₃CHO; H₂O]--> CH₃CH₂COCH₂CH(OH)CH₃ 75% | L8 p.18 |
 | kinetic [silyl enol ether](실릴%20엔올%20에터.md) | 2-methylcyclohexanone --[LDA, −78 °C; Me₃SiCl]--> 덜 치환된 enol ether 99 : 1 | L8 p.24 |
-| 위치 지정 [α-halogenation](../반응/α-할로젠화.md) | R–CH₂–CO–CH₃ --[LDA; Me₃SiCl; Br₂]--> R–CH₂–CO–CH₂Br | L10 p.10 |
+| 위치 지정 [$\alpha$-halogenation](../반응/α-할로젠화.md) | R–CH₂–CO–CH₃ --[LDA; Me₃SiCl; Br₂]--> R–CH₂–CO–CH₂Br | L10 p.10 |
 | [asymmetric alkylation](에반스%20옥사졸리디논.md) | N-acyl oxazolidinone --[LDA, −78 °C; BnBr]--> 92%, 99 : 1 dr | L7 p.27 |
 
 슬라이드는 2-methylpropanoic acid methyl과 cyclopentanecarbaldehyde의 LDA enolate를 직접 그려 보라고 한다(→ [L7 연습 문제](../../practice/L07_Exercises.md) 1). (출처: L7 p.7)
@@ -76,15 +76,15 @@ ester α-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
 ## 관련 문서
 
-- 반응: [enolate alkylation](../반응/엔올레이트%20알킬화.md), [crossed aldol reaction](../반응/교차%20알돌%20반응.md), [Mukaiyama aldol reaction](../반응/무카이야마%20알돌%20반응.md), [α-halogenation](../반응/α-할로젠화.md)
+- 반응: [enolate alkylation](../반응/엔올레이트%20알킬화.md), [crossed aldol reaction](../반응/교차%20알돌%20반응.md), [Mukaiyama aldol reaction](../반응/무카이야마%20알돌%20반응.md), [$\alpha$-halogenation](../반응/α-할로젠화.md)
 - 시약: [alkoxide base](알콕사이드%20염기.md), [silyl enol ether](실릴%20엔올%20에터.md), [Evans oxazolidinone](에반스%20옥사졸리디논.md)
 - 개념: [enol and enolate](../개념/엔올과%20엔올레이트.md), [enolate chemistry (overview)](../개념/엔올레이트%20화학%20개관.md), [alpha-hydrogen acidity](../개념/α-수소의%20산도.md), [kinetic vs thermodynamic enolate](../개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md)
 
 ## 출처
 
-- [L7 enolate와 α-alkylation](../../notes/L07_Enolate_Alkylation.md) I절(p.5–7), II절, VI절
+- [L7 enolate와 $\alpha$-alkylation](../../notes/L07_Enolate_Alkylation.md) I절(p.5–7), II절, VI절
 - [L8 aldol reaction](../../notes/L08_Aldol_Reactions.md) 5절
 - [L10 enol과 enamine](../../notes/L10_Enol_and_Enamine.md) silyl enol ether halogenation
 - [L11 conjugate addition](../../notes/L11_Conjugate_Addition.md) 4절
 
-[^1]: diisopropylamine의 pKa가 L7 p.4의 표에서는 36, p.6의 반응식에서는 38로 서로 다르게 적혀 있다. 둘 다 문헌에서 쓰이는 값(측정 조건에 따라 다름)이며, 어느 값이든 ketone(19)과의 차이가 커서 결론은 같다. 평형 상수는 대략 10^(ΔpKa)로 어림한다. (출처: L7 p.4, p.6)
+[^1]: diisopropylamine의 pKa가 L7 p.4의 표에서는 36, p.6의 반응식에서는 38로 서로 다르게 적혀 있다. 둘 다 문헌에서 쓰이는 값(측정 조건에 따라 다름)이며, 어느 값이든 ketone(19)과의 차이가 커서 결론은 같다. 평형 상수는 대략 $10^{\Delta pK_{\mathrm{a}}}$로 어림한다. (출처: L7 p.4, p.6)

@@ -31,12 +31,12 @@ $$
 
 1. carbamate의 carbonyl O가 H⁺에 의해 protonate된다.
 2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 cation은 3차 [carbocation](../개념/탄소%20양이온.md)이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
-3. t-butyl cation은 β-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
+3. t-butyl cation은 $\beta$-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid는 양성자가 옮겨 간 zwitterion(O⁻/NH2⁺) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
 ![Boc carbamate의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid가 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 π 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.
+그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 $\pi$ 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.
 
 ![carbamic acid가 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
@@ -63,7 +63,7 @@ $$
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O π 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
+그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O $\pi$ 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 

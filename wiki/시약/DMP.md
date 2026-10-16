@@ -27,17 +27,17 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 |---|---|---|
 | 1차 alcohol | aldehyde | 산까지 가지 않음 |
 | 2차 alcohol | ketone | |
-| 3차 alcohol | 반응 없음 | 떼어 낼 α-H가 없음 |
+| 3차 alcohol | 반응 없음 | 떼어 낼 $\alpha$-H가 없음 |
 | C=C | 그대로 | 기하도 유지 |
 
 (출처: L6c p.6–7)
 
 ## 메커니즘
 
-메커니즘은 [alcohol oxidation](../반응/알코올%20산화.md)의 일반 뼈대(O–LG 결합 형성 → 염기가 α-H 제거)를 그대로 따른다.
+메커니즘은 [alcohol oxidation](../반응/알코올%20산화.md)의 일반 뼈대(O–LG 결합 형성 → 염기가 $\alpha$-H 제거)를 그대로 따른다.
 
 1. ligand exchange: alcohol O가 I(V)를 공격해 OAc 하나를 밀어낸다. 그러면 alkoxy periodinane intermediate와 AcOH가 생긴다. 이 단계가 "O–LG 만들기"에 해당한다.
-2. I에 붙은 또 다른 acetate의 carbonyl 산소가 염기 노릇을 하며 분자 내에서 α-H를 떼어 낸다.
+2. I에 붙은 또 다른 acetate의 carbonyl 산소가 염기 노릇을 하며 분자 내에서 $\alpha$-H를 떼어 낸다.
 3. C=O가 생기면서 I–O 결합이 끊어지고, I(V)는 I(III)(iodinane, OAc 1개)로 환원된다.
 
 전체 부산물은 iodinane과 AcOH 2분자다. (출처: L6c p.7)
@@ -72,7 +72,7 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
 
 ![geraniol + DMP → geranial 종합 메커니즘](../../figures/L06/geraniol_dmp_mech.svg)
 
-그림: 위 줄은 전체 반응이고, 아래 줄은 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 α-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
+그림: 위 줄은 전체 반응이고, 아래 줄은 메커니즘 1–3단계다(평형 화살표 ⇌로 연결). 아래 줄에서 R은 geraniol의 나머지 부분 $\mathrm{CH{=}C(CH_3)CH_2CH_2CH{=}C(CH_3)_2}$이다. 1단계(리간드 교환): alcohol의 O(파랑, nucleophile)가 I(빨강, electrophile)를 공격하고 OAc 하나가 떠나 alkoxy periodinane과 AcOH(conjugate acid)가 생긴다. 2–3단계: I에 붙은 다른 acetate의 carbonyl O(파랑, base)가 카비놀의 $\alpha$-H(빨강)를 떼고, 그 C–H 결합 전자는 C=O가 되며 O–I 결합 전자는 I로 돌아가 I(V)가 I(III)로 환원된다. 부산물은 iodinane과 AcOH다.
 
 ## 흔한 오해
 

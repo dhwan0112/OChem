@@ -30,13 +30,13 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [Robinson annulation](../wiki/반응/로빈슨%20고리%20형성.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 3. Diels–Alder 반응이란 무엇인가 (슬라이드 p.7–9)
-- conjugated diene + alkene(dienophile) → cyclohexene. butadiene + ethylene은 165 °C, 900 atm이 필요하다. C1–C6, C4–C5 새 σ 결합과 C2=C3 새 π 결합.
+- conjugated diene + alkene(dienophile) → cyclohexene. butadiene + ethylene은 165 °C, 900 atm이 필요하다. C1–C6, C4–C5 새 $\sigma$ 결합과 C2=C3 새 $\pi$ 결합.
 - cyclic diene은 bridged bicyclic(norbornene)을 준다. Diels–Alderase 효소도 있다.
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md)
 
 ### 4. 어떻게 반응하나: 메커니즘과 transition state (슬라이드 p.10–13)
-- 단일 기본 단계의 concerted 반응. 열역학: π 두 개 → σ 두 개. 속도론: 6π 방향족성 TS(새 C···C 약 2.2 Å).
-- 두 반응물이 suprafacial–suprafacial로 포개지는 [π4s + π2s]다.
+- 단일 기본 단계의 concerted 반응. 열역학: $\pi$ 두 개 → $\sigma$ 두 개. 속도론: $6\pi$ 방향족성 TS(새 C···C 약 2.2 Å).
+- 두 반응물이 suprafacial–suprafacial로 포개지는 [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]다.
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [aromaticity](../wiki/개념/방향족성.md)
 
 ### 5. 무엇이 반응을 빠르게 하나 (슬라이드 p.14–18)
@@ -51,14 +51,14 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 - 6-3 endo 규칙: cyclopentadiene + maleic anhydride는 endo만 secondary orbital overlap. endo는 kinetic 생성물이다. p.23–24 연습은 all-cis 답(연습 문제 3). → [endo rule](../wiki/개념/endo%20규칙.md)
 
 ### 7. 왜 그런가: 분자 오비탈로 다시 보기 (슬라이드 p.25–31)
-- 7-1 ethylene π/π*, butadiene ψ1–ψ4(HOMO ψ2, LUMO ψ3)(p.25–26). → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)
+- 7-1 ethylene $\pi$/$\pi^{*}$, butadiene $\psi_{1}$–$\psi_{4}$(HOMO $\psi_{2}$, LUMO $\psi_{3}$)(p.25–26). → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)
 - 7-2 diene HOMO–dienophile LUMO 간격이 작을수록 빠르다(EDG는 HOMO↑, EWG는 LUMO↓)(p.27). → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)
 - 7-3 양 끝 로브가 같은 면에서 만나야 해서 stereospecific하다(p.28). → [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md)
 - 7-4 endo-dicyclopentadiene의 secondary orbital overlap(p.29). → [endo rule](../wiki/개념/endo%20규칙.md)
 - 7-5 butadiene 두 분자는 [4+2]만 하고 [4+4]는 열적으로 안 된다(p.30). 정리 슬라이드(p.31). → [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md)
 
 ### 8. Woodward–Hoffmann 규칙: 허용과 금지를 가르는 계산법 (슬라이드 p.32–36)
-- 열적 pericyclic 반응은 (4q+2)s + (4r)a 성분 수가 홀수여야 허용된다. DA [π4s + π2s]는 합 1로 허용. "허용"은 가능하다는 뜻일 뿐이다.
+- 열적 pericyclic 반응은 (4q+2)s + (4r)a 성분 수가 홀수여야 허용된다. DA [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]는 합 1로 허용. "허용"은 가능하다는 뜻일 뿐이다.
 - p.36 연습([4+2] 허용, [4+4] 금지)은 연습 문제 7.
 - → [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md)
 
