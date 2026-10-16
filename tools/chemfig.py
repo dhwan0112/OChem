@@ -20,7 +20,7 @@
    "captions": [[텍스트, x, y, 색, 크기pt], ...]      (x, y)는 텍스트 왼쪽 위, 크기 기본 8pt
    "shapes":   [{"lobe": [...]}, {"line": [...]}]     p 오비탈 로브와 점선 (add_shapes 참고)
    "abbrev":   [[라벨, 기준 원자, [원자들]], ...]       예: ["CH3", 2, [2]]로 메틸을 CH3 라벨로 접기
-   "lone_pairs": [[원자, 각도], ...]                  각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래
+   "lone_pairs": [[원자, 각도, 추가간격], ...]       각도: 90 위, 0 오른쪽, 180 왼쪽, 270 아래. 추가간격은 SVG 단위(기본 0)
    "curved": [{"from": 끝점, "to": 끝점, "bend": 0.5, "color": "arrow", "kind": "curved"}]
       끝점: {"atom": i} | {"bond": [a, b]} | {"lp": [원자, 각도]} | {"pt": [x, y]}
       끝점에 "gap": 간격(pt, 기본 2), "offset": [dx, dy](결합 단위),
@@ -213,13 +213,14 @@ def anchor(target, e, toward):
             "direction": {"x": dx, "y": dy}, "gap": e.get("gap", 2)}
 
 
-def lp_offset(ang):
+def lp_offset(ang, padding=0):
     """원자 중심에서 비공유 전자쌍까지의 변위.
     10 pt 라벨(29.2 단위) 한 글자 O/N 글리프의 반폭 ≈ 11.4, 반높이(cap) ≈ 10.6에
     점 반지름(1.2)과 작은 틈(~2)을 더해 점이 글리프에 바로 붙도록 한다.
-    (이전 값 21/17은 글리프에서 약 9 단위 떨어져 보였다.)"""
+    padding은 그림별 겹침을 피하기 위한 추가 간격(SVG 단위)이다.
+    생략하면 기존 위치를 유지하며, 표식과 화살표 부착점에 같은 값을 쓴다."""
     r = math.radians(ang)
-    return LP_RX * math.cos(r), -LP_RY * math.sin(r)
+    return (LP_RX + padding) * math.cos(r), -(LP_RY + padding) * math.sin(r)
 
 
 LP_RX, LP_RY = 14.5, 14.0
@@ -259,6 +260,7 @@ def decorate(doc, spec):
     next_id = max([x["id"] for k in ("atoms", "annotations", "arrows", "graphics", "groups")
                    for x in doc.get(k, [])] + [0]) + 1
     marks = {}  # (원자 인덱스, 각도) -> mark id
+    lp_padding = {(lp[0], lp[1]): lp[2] for lp in spec.get("lone_pairs", []) if len(lp) > 2}
 
     def lone_pair(i, ang):
         nonlocal next_id
@@ -266,7 +268,7 @@ def decorate(doc, spec):
         if key in marks:
             return marks[key]
         r = math.radians(ang)
-        ox, oy = lp_offset(ang)
+        ox, oy = lp_offset(ang, lp_padding.get((i, ang), 0))
         mark = {"id": next_id, "kind": "lone_pair", "angle": float((ang - 90) % 360),
                 "offset": {"x": ox, "y": oy}, "size_pt": 4.0}
         atoms[i].setdefault("marks", []).append(mark)
@@ -295,7 +297,7 @@ def decorate(doc, spec):
             i, ang = e["lp"]
             m = lone_pair(i, ang)
             p = atoms[i]["position"]
-            ox, oy = lp_offset(ang)
+            ox, oy = lp_offset(ang, lp_padding.get((i, ang), 0))
             return ((p["x"] + ox, p["y"] + oy),
                     {"kind": "lone_pair", "atom": ids[i], "mark": m})
         return (e["pt"][0] * SCALE, e["pt"][1] * SCALE), None
