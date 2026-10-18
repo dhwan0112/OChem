@@ -80,3 +80,11 @@ ReShiki는 굽은 화살표를 네이티브로 지원한다. 전자쌍 화살표
 - **3D 구조/TS와 에너지 도표**는 `tools/visual_boost.py`가 `tools/mplfig.py`(위 규격의 `PX` 표, CSS 변수 색, 같은 카드)와 `tools/mol3dfig.py`로 만든다. 3D 그림은 공-막대가 아니라 chemfig와 같은 선 그림이다: C는 꼭짓점, 다른 원자는 18 px 라벨(배경색 바탕으로 결합을 끊음), 앞쪽 결합은 ink, 뒤쪽 결합은 muted, 형성/절단 결합은 good 점선. 3D 투영은 결합이 짧아 보이므로 34 px/Å로 그린다.
 - 3D 좌표는 `figures/xyz/`에 둔다. GFN2-xTB로 최적화했고, TS는 형성·절단 결합 길이를 고정한 근사 구조다. 그림과 설명문에 "approx. TS"임을 밝힌다.
 - 에너지 도표는 수치 없는 정성적 도표이며(곡선 1.6 px), 노트에서는 "보충:"으로 밝힌다.
+
+## 8. 원본 자료에서 발췌한 raster 그림
+
+- Test 2 강의·교재 발췌 PNG의 원본과 출처는 `figures/test2_source_manifest.json`으로 보존한다.
+- 문서에는 같은 이름의 `.svg`를 연결한다. `python3 tools/theme_source_figures.py`가 원본 PNG를 내장한 독립 SVG를 재생성한다(Pillow 필요).
+- 라이트 모드는 원본을 그대로 표시한다. 다크 모드는 `prefers-color-scheme`에 따라 배경을 #1e1e1e, 검은 선을 #e6e6e6으로 바꾸고 hue compensation을 적용한다. 원본 강조색은 의미를 유지하되 새 메커니즘 그림의 역할 색으로 재해석하지 않는다.
+- 테마 전환은 기존 SVG와 마찬가지로 브라우저가 전달하는 색상 모드를 따른다. 앱 테마와 시스템 모드가 다르면 실제 앱에서 확인한다.
+- 새 발췌 그림도 양쪽 모드에서 전자쌍·전하·쐐기·화살표와 강조색을 검수한다.

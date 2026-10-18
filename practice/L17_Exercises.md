@@ -16,7 +16,7 @@ vitamin D의 앞 6e ring opening은 광조건 conrotatory이고, 뒤의 [1,7]H�
 
 p.24 아래의 두 pyrroline 생성물에서 ester의 cis/trans를 읽는다. [3+2]를 거꾸로 잘라 ylide 기하를 얻고, thermal 4e conrotatory opening을 역으로 적용해 출발 aziridine의 cis/trans를 찾는다. 답은 p.25에 있으며 alkene 포획과 alkyne 포획의 온도는 서로 다른 예의 조건이다. (출처: L17 p.24–25)
 
-![aziridine 역산 공식 풀이](../figures/L17/source/L17_p25.png)
+![aziridine 역산 공식 풀이](../figures/L17/source/L17_p25.svg)
 
 그림: 생성물 ester의 상대배치와 출발 aziridine을 짝짓는다. (출처: L17 p.25)
 

@@ -25,11 +25,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 더 읽기: [protecting group](../../wiki/개념/보호기.md), [orthogonal protection](../../wiki/개념/직교%20보호.md), [silyl ethers](../../wiki/시약/실릴%20에터%20보호기.md).
 
-![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p14.png)
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p14.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.14)
 
-![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p07.png)
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p07.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.7)
 

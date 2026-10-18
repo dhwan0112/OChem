@@ -23,15 +23,15 @@ iminium catalysis는 enamine donor 활성화와 역할이 반대다. 여기서�
 
 더 읽기: [1,2 vs 1,4](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [Michael reaction](../../wiki/반응/마이클%20반응.md), [iminium catalysis](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [SNAr](../../wiki/반응/친핵성%20방향족%20치환.md).
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p13.png)
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p13.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.13)
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p16.png)
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p16.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.16)
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p21.png)
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p21.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.21)
 

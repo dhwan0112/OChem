@@ -28,15 +28,15 @@ aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]�
 
 더 읽기: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [con/dis](../../wiki/개념/콘로테이션과%20디스로테이션.md), [Danheiser](../../wiki/반응/Danheiser%20benzannulation.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p15.png)
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p15.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.15)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p19.png)
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p19.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.19)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p25.png)
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p25.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.25)
 
@@ -44,11 +44,11 @@ aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]�
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p28.png)
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p28.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.28)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p29.png)
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p29.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.29)
 

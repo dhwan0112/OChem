@@ -23,15 +23,15 @@ C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 �
 
 더 읽기: [DA regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo](../../wiki/개념/endo%20규칙.md), [Tutorial 4 공식 풀이](../../practice/Tutorial_4.md).
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p12.png)
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p12.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.12)
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p17.png)
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p17.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.17)
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p27.png)
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p27.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.27)
 

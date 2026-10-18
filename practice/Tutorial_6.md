@@ -4,7 +4,7 @@
 
 ## 문제 1 — 두 입체이성질체의 열반응
 
-![Tutorial6 Q1 원본](../figures/tutorials/T06_p01.png)
+![Tutorial6 Q1 원본](../figures/tutorials/T06_p01.svg)
 
 그림: 두 출발 구조의 AcO/OAc 방향이 다르다. 문제는 두 반응 모두 첫 단계가 retro-Diels–Alder라고 명시한다. (출처: Tutorial Questions 6 p.1)
 
@@ -16,7 +16,7 @@
 
 ## 문제 2 — Grignard, anionic oxy-Cope, aromatization
 
-![Tutorial6 Q2와 Q3 원본](../figures/tutorials/T06_p02.png)
+![Tutorial6 Q2와 Q3 원본](../figures/tutorials/T06_p02.svg)
 
 그림: Q2에는 Grignard 첨가, KH/THF의 [3,3], oxidative dehydrogenative aromatization 조건이 주어져 있다. Q3은 열/빛의 두 생성물을 비교한다. (출처: Tutorial Questions 6 p.2)
 

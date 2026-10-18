@@ -53,7 +53,7 @@ L6에서 미뤄 둔 메커니즘은 L16(교재 보충, Clayden 기반)에서 나
 
 ## 그림으로 확인하기
 
-![SeO2 ene 및 2,3 rearrangement 공식 메커니즘](../../figures/L16/source/L16_p20.png)
+![SeO2 ene 및 2,3 rearrangement 공식 메커니즘](../../figures/L16/source/L16_p20.svg)
 
 그림: 먼저 allylic H 이동과 C–Se 결합 형성이 일어나는 ene 단계, 이어 [2,3], 분해와 추가 산화다. (출처: L16 p.20)
 

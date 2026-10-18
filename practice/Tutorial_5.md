@@ -4,7 +4,7 @@
 
 ## 문제 1 — diazomethane과 두 alkene
 
-![Tutorial5 Q1 원본](../figures/tutorials/T05_p01.png)
+![Tutorial5 Q1 원본](../figures/tutorials/T05_p01.svg)
 
 그림: 두 alkene의 치환기와 E/Z가 다르다. 아래는 diazomethane HOMO 그림이며 작은/큰 로브를 반응 계수와 연결한다. (출처: Tutorial Questions 5 p.1)
 
@@ -20,7 +20,7 @@ CH2 쪽 큰 HOMO 계수를 electron-poor alkene의 $\beta$-탄소와 맞추는 �
 
 ## 문제 2 — nitrone + diene, 그다음 Zn/HOAc와 MnO2
 
-![Tutorial5 Q2 원본](../figures/tutorials/T05_p02.png)
+![Tutorial5 Q2 원본](../figures/tutorials/T05_p02.svg)
 
 그림: 첫 빈칸은 bicyclic product이고, 다음 조건은 1. Zn/HOAc, 2. MnO2다. (출처: Tutorial Questions 5 p.2)
 
@@ -36,7 +36,7 @@ nitrone은 allyl cation처럼 2e가 아니라 4e 성분이다. diene 전체 4e�
 
 ## 문제 3 — acid chloride + enol ether
 
-![Tutorial5 Q3 원본](../figures/tutorials/T05_p03.png)
+![Tutorial5 Q3 원본](../figures/tutorials/T05_p03.svg)
 
 그림: Et3N은 acid chloride에서 ketene을 만드는 단서다. O-benzyl 치환 alkene의 출발 기하를 유지해 읽는다. (출처: Tutorial Questions 5 p.3)
 
@@ -48,7 +48,7 @@ Et3N에 의한 제거로 dimethylketene $\mathrm{Me_2C{=}C{=}O}$를 만든다. �
 
 ## 문제 4 — Fischer indole synthesis
 
-![Tutorial5 Q4 원본](../figures/tutorials/T05_p04.png)
+![Tutorial5 Q4 원본](../figures/tutorials/T05_p04.svg)
 
 그림: phenylhydrazine과 cyclohexanone의 hydrazone에서 fused indole로 가는 단계적 메커니즘을 묻는다. (출처: Tutorial Questions 5 p.4)
 

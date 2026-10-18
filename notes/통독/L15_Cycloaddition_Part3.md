@@ -29,11 +29,11 @@ nitrone adduct를 Zn/HOAc로 열면 amino alcohol이 드러나며, 남은 alkene
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p16.png)
+![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p16.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.16)
 
-![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p26.png)
+![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p26.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.26)
 

@@ -8,7 +8,7 @@
 
 p.10의 aldehyde acetal, ketone acetal, orthoester, orthoamide에서 출발해 생성물을 그려 본 뒤 p.11과 대조한다. 공통으로 새 C–C 결합이 생기는 말단은 같고, carbonyl에 남는 H/Me/OR/NR2가 각각 aldehyde/ketone/ester/amide를 가른다. 산 후처리라는 조건만으로 생성물 class를 정하지 않는다. (출처: L16 p.10–11)
 
-![공식 carbonyl class별 생성물](../figures/L16/source/L16_p11.png)
+![공식 carbonyl class별 생성물](../figures/L16/source/L16_p11.svg)
 
 그림: p.10 문제의 구조별 답이다. (출처: L16 p.11)
 

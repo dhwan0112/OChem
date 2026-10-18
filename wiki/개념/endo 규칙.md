@@ -107,7 +107,7 @@ endo는 열적으로 허용된 경로들 가운데 선택성을 말하는 규칙
 
 ## 그림으로 확인하기
 
-![Diels–Alder endo 접근](../../figures/L13/source/L13_p22.png)
+![Diels–Alder endo 접근](../../figures/L13/source/L13_p22.svg)
 
 그림: 출발 alkene의 기하 보존과 endo 선호를 별도로 판단한다. (출처: L13 p.22)
 

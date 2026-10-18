@@ -24,15 +24,15 @@ WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. [4
 
 더 읽기: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [endo rule](../../wiki/개념/endo%20규칙.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md).
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p19.png)
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p19.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.19)
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p22.png)
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p22.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.22)
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p33.png)
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p33.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.33)
 

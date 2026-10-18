@@ -27,15 +27,15 @@ thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말�
 
 더 읽기: [Claisen](../../wiki/반응/클라이젠%20자리옮김.md), [Cope](../../wiki/반응/코프%20자리옮김.md), [hydrogen shifts](../../wiki/반응/1,5-수소%20이동.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p06.png)
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p06.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.6)
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p11.png)
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p11.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.11)
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p20.png)
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p20.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.20)
 
@@ -43,7 +43,7 @@ thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말�
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p25.png)
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p25.svg)
 
 그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.25)
 
