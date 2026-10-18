@@ -107,9 +107,13 @@ endo는 열적으로 허용된 경로들 가운데 선택성을 말하는 규칙
 
 ## 그림으로 확인하기
 
-![Diels–Alder endo 접근](../../figures/L13/source/L13_p22.svg)
+![da endo exo ts 3d](../../figures/L13/da_endo_exo_ts_3d.svg)
 
-그림: 출발 alkene의 기하 보존과 endo 선호를 별도로 판단한다. (출처: L13 p.22)
+![endo exo](../../figures/L13/endo_exo.svg)
+
+그림: 보충: 첫 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 이어지는 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../../figures/L13/source/L13_p22.png)
 
 ## 관련 문서
 

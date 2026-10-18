@@ -27,25 +27,46 @@ thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말�
 
 더 읽기: [Claisen](../../wiki/반응/클라이젠%20자리옮김.md), [Cope](../../wiki/반응/코프%20자리옮김.md), [hydrogen shifts](../../wiki/반응/1,5-수소%20이동.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p06.svg)
+![claisen chair e](../../figures/L16/claisen_chair_e.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.6)
+그림: chair-like [3,3]의 배치와 R의 equatorial 선택을 보여 주는 모형이다. 이 배치도와 전체 HOMO/LUMO 그림은 서로 다른 설명 수준이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.6)
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p11.svg)
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.6](../../figures/L16/source/L16_p06.png)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.11)
+| 출발 전구체 | [3,3] 및 후처리로 읽을 carbonyl class |
+| --- | --- |
+| Aldehyde-derived allyl vinyl ether | Aldehyde |
+| Ketone-derived allyl vinyl ether | Ketone |
+| Orthoester-derived ketene acetal | Ester |
+| Amide acetal-derived 계 | Amide |
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p20.svg)
+원자 번호를 보존해 새 C–C 결합과 carbonyl 탄소를 추적한다. (출처: L16 p.11)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.20)
+![claisen aliphatic](../../figures/L16/claisen_aliphatic.svg)
+
+![ireland claisen arrows](../../figures/L16/ireland_claisen_arrows.svg)
+
+그림: allyl vinyl ether와 silyl ketene acetal을 별도 패널로 보여 준다. 원본의 acetal·orthoester·amide acetal 전체 구조는 원본 링크로 대조한다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.11)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.11](../../figures/L16/source/L16_p11.png)
+
+![selenium ene](../../figures/L16/selenium_ene.svg)
+
+![selenium 23](../../figures/L16/selenium_23.svg)
+
+그림: propene 모형으로 ene와 뒤의 [2,3]을 나누었다. 주황은 전자쌍 이동, 초록은 새 결합이다. [2,3] 뒤 selenium ester의 hydrolysis가 allylic alcohol을 준다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.20)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.20](../../figures/L16/source/L16_p20.png)
 
 ![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/hydrogen_shift_terminal_phases.svg)
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p25.svg)
+![photo 17 h shift](../../figures/L16/photo_17_h_shift.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.25)
+그림: 보충: 원본의 치환기를 생략한 heptatriene 모형이다. 주황 H로 옮겨지는 수소를 표시하고 세 C=C의 위치 변화를 함께 추적한다. 광화학 [1,7]은 suprafacial이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.25)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.25](../../figures/L16/source/L16_p25.png)
 
 
 ## 개요

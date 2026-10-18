@@ -1,0 +1,21 @@
+[
+  "figures/L16/fischer_tautomerization.json",
+  "figures/L16/fischer_33.json",
+  "figures/L16/fischer_rearomatization.json",
+  "figures/L16/fischer_cyclization.json",
+  "figures/L16/fischer_ammonia_loss.json",
+  "figures/L16/fischer_aromatization.json",
+  "figures/L16/selenium_ene.json",
+  "figures/L16/selenium_23.json",
+  "figures/L15/nitrone_no_reduction.json",
+  "figures/L15/tutorial5_dimethylketene.json",
+  "figures/L17/tutorial6_6e_anion.json",
+  "figures/L15/danishefsky_diene.json",
+  "figures/L15/brassard_diene.json",
+  "figures/L15/rawal_diene.json",
+  "figures/L15/tutorial5_q1_alkenes.json",
+  "figures/L15/tutorial5_q2_reactants.json",
+  "figures/L15/tutorial5_q3_enol_ether.json",
+  "figures/L17/eight_electron_open_chain.json",
+  "figures/L16/photo_17_h_shift.json"
+]

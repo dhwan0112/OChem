@@ -29,13 +29,21 @@ nitrone adduct를 Zn/HOAc로 열면 amino alcohol이 드러나며, 남은 alkene
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p16.svg)
+![nitrone no reduction](../../figures/L15/nitrone_no_reduction.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.16)
+그림: N–O 결합의 환원으로 amino alcohol이 되는 일반 고리 모형이다. 원본의 치환·입체배치나 Tutorial 5의 bicyclic 정답을 확정한 그림은 아니다. (원본 대조: L15_cycloaddition part 3.pdf p.16)
 
-![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p26.svg)
+[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.16](../../figures/L15/source/L15_p16.png)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.26)
+![danishefsky diene](../../figures/L15/danishefsky_diene.svg)
+
+![brassard diene](../../figures/L15/brassard_diene.svg)
+
+![rawal diene](../../figures/L15/rawal_diene.svg)
+
+그림: Danishefsky·Brassard·Rawal diene을 각각 분리했다. 모든 diene 탄소의 H를 명시했다. 파랑은 electron-rich diene과 주개 heteroatom이며 R은 원본처럼 일반 치환기다. (원본 대조: L15_cycloaddition part 3.pdf p.26)
+
+[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.26](../../figures/L15/source/L15_p26.png)
 
 
 ## 개요

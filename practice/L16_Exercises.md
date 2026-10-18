@@ -8,9 +8,22 @@
 
 p.10의 aldehyde acetal, ketone acetal, orthoester, orthoamide에서 출발해 생성물을 그려 본 뒤 p.11과 대조한다. 공통으로 새 C–C 결합이 생기는 말단은 같고, carbonyl에 남는 H/Me/OR/NR2가 각각 aldehyde/ketone/ester/amide를 가른다. 산 후처리라는 조건만으로 생성물 class를 정하지 않는다. (출처: L16 p.10–11)
 
-![공식 carbonyl class별 생성물](../figures/L16/source/L16_p11.svg)
+| 출발 전구체 | [3,3] 및 후처리로 읽을 carbonyl class |
+| --- | --- |
+| Aldehyde-derived allyl vinyl ether | Aldehyde |
+| Ketone-derived allyl vinyl ether | Ketone |
+| Orthoester-derived ketene acetal | Ester |
+| Amide acetal-derived 계 | Amide |
 
-그림: p.10 문제의 구조별 답이다. (출처: L16 p.11)
+원자 번호를 보존해 새 C–C 결합과 carbonyl 탄소를 추적한다. (출처: L16 p.11)
+
+![claisen aliphatic](../figures/L16/claisen_aliphatic.svg)
+
+![ireland claisen arrows](../figures/L16/ireland_claisen_arrows.svg)
+
+그림: allyl vinyl ether와 silyl ketene acetal을 별도 패널로 보여 준다. 원본의 acetal·orthoester·amide acetal 전체 구조는 원본 링크로 대조한다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.11)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.11](../figures/L16/source/L16_p11.png)
 
 ### anionic oxy-Cope의 ring expansion
 

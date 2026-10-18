@@ -23,17 +23,23 @@ C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 �
 
 더 읽기: [DA regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo](../../wiki/개념/endo%20규칙.md), [Tutorial 4 공식 풀이](../../practice/Tutorial_4.md).
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p12.svg)
+![regio para polar](../../figures/L14/regio_para_polar.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.12)
+그림: 원본의 가상 E+·Nu− 첨가로 주개·받개 말단을 찾는 단계다. 파랑과 빨강으로 찾은 연결 방향을 고정한 뒤 stereo를 판정한다. (원본 대조: L14_cycloaddition part 2.pdf p.12)
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p17.svg)
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.12](../../figures/L14/source/L14_p12.png)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.17)
+![endo exo inout](../../figures/L14/endo_exo_inout.svg)
 
-![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p27.svg)
+그림: 동일 기질의 endo/exo 접근을 두 행으로 분리했다. OMe/CHO 관계와 in 치환기를 함께 추적한다. (원본 대조: L14_cycloaddition part 2.pdf p.17)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.27)
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.17](../../figures/L14/source/L14_p17.png)
+
+![photo22 regio](../../figures/L14/photo22_regio.svg)
+
+그림: 보충 비교 예: isobutylene과 cyclohexenone의 광[2+2]다. 원본의 fused-ring 예와 기질이 다르므로 원본 생성물을 그대로 옮긴 답안으로 사용하지 않는다. 두 경우 모두 참여 alkene의 상대배치를 따로 추적한다. (원본 대조: L14_cycloaddition part 2.pdf p.27)
+
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.27](../../figures/L14/source/L14_p27.png)
 
 
 ## 개요

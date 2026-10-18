@@ -25,13 +25,30 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 더 읽기: [protecting group](../../wiki/개념/보호기.md), [orthogonal protection](../../wiki/개념/직교%20보호.md), [silyl ethers](../../wiki/시약/실릴%20에터%20보호기.md).
 
-![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p14.svg)
+![acetal grignard bromoketone 1](../../figures/L12/acetal_grignard_bromoketone_1.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.14)
+![acetal grignard bromoketone 2](../../figures/L12/acetal_grignard_bromoketone_2.svg)
 
-![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p07.svg)
+![acetal grignard bromoketone 3](../../figures/L12/acetal_grignard_bromoketone_3.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.7)
+![acetal grignard bromoketone 4](../../figures/L12/acetal_grignard_bromoketone_4.svg)
+
+그림: acetal 보호, Grignard 형성·첨가, 탈보호를 단계별로 읽는다. 서로 다른 시약 처리 단계를 한 화살표로 합치지 않는다. (원본 대조: L12_Protecting groups.pdf p.14)
+
+[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.14](../../figures/L12/source/L12_p14.png)
+
+| 비교 조건 | 강의의 상대 안정성 순서 |
+| --- | --- |
+| Acidic media | TMS < TES < TBS < TIPS < TBDPS |
+| Basic media | TMS < TES < TBS ≈ TBDPS < TIPS |
+
+비교 조건이 달라지면 순서도 달라진다. 수치는 보편적 수명이 아니므로 원본 비교표에서 조건과 함께 읽는다. (출처: L12 p.7)
+
+![silyl tbaf](../../figures/L12/silyl_tbaf.svg)
+
+그림: fluoride가 Si에 접근하여 Si–O를 끊는 단계다. 탄소의 C–O 결합을 끊는 그림이 아니다. (원본 대조: L12_Protecting groups.pdf p.7)
+
+[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.7](../../figures/L12/source/L12_p07.png)
 
 ![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/orthogonal_boc_benzyl.svg)
 

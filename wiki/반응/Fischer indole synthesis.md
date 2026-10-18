@@ -28,9 +28,13 @@ phenylhydrazine의 aryl에 직접 붙은 질소를 $\mathrm{N}_{A}$, 원래 NH2�
 
 산 촉매 조건에서는 질소나 탄소가 외부 acid/base와 양성자를 주고받을 수 있다. 이것은 한 분자 안에서 H와 $\sigma$ 결합 전자가 동시에 이동하는 concerted sigmatropic shift와 다르다. 강의의 thermal [1,3]H 이동은 짧은 사슬에서 필요한 antarafacial 기하를 만들 수 없어 불가능하다는 점도 기억해야 한다. 문제는 바로 이 구분을 명시적으로 묻는다. (출처: L16 p.24; 보충 근거: Clayden p.916; 출제: Tutorial Questions 5 p.4)
 
-![Fischer indole 문제의 구조](../../figures/tutorials/T05_p04.svg)
+![fischer tautomerization](../../figures/L16/fischer_tautomerization.svg)
 
-그림: hydrazone과 최종 fused indole은 문제에 주어진 구조다. 상세 중간체에 대한 설명은 Clayden p.916을 근거로 했으며 공식 tutorial 답안을 옮긴 것은 아니다. (출처: Tutorial Questions 5 p.4; 보충 근거: Clayden p.916)
+![fischer 33](../../figures/L16/fischer_33.svg)
+
+그림: 문제와 같은 cyclohexanone 유래 hydrazone에서 시작한다. 첫 패널은 acid-catalysed tautomerization, 두 번째는 [3,3]이다. 파란 N은 최종 indole에 남고 회색 N은 뒤에 NH3로 나간다. 상세 후속 단계는 Fischer indole 개념 문서에 있다. (보충 근거: Clayden p.916) (원본 대조: Tutorial Questions 5.pdf p.4)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 5.pdf p.4](../../figures/tutorials/T05_p04.png)
 
 ## 흔한 오해
 
@@ -41,15 +45,27 @@ phenylhydrazine의 aryl에 직접 붙은 질소를 $\mathrm{N}_{A}$, 원래 NH2�
 (보충 근거: Clayden p.916)
 
 
-## 중간체를 원본 도식과 대조하기
+## 중간체를 단계별로 추적하기
 
-![enehydrazine의 3,3 rearrangement](../../figures/L16/source/fischer_33.svg)
+![fischer tautomerization](../../figures/L16/fischer_tautomerization.svg)
 
-그림: hydrazone/enamine 평형과 [3,3]을 구별한 교재 도식이다. rearrangement 뒤 아직 benzene의 aromaticity가 회복되지 않은 diimine이 생긴다. 원본 도식의 전자 이동을 보존했으며 새 ReShiki 그림은 아니다. (보충 근거: Clayden p.916)
+![fischer 33](../../figures/L16/fischer_33.svg)
 
-![aromaticity 회복과 고리화 및 NH3 이탈](../../figures/L16/source/fischer_cyclization.svg)
+그림: hydrazone/enehydrazine 평형과 N–N 결합이 끊어지는 [3,3]을 분리했다. 파란 N은 보존되는 aryl N, 회색 N은 나중에 NH3로 나가는 N이다. (보충 근거: Clayden p.916) (원본 대조: Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf p.943)
 
-그림: proton transfer, C–N 고리화, NH3 이탈, 최종 방향족화를 나누어 보여 준다. aryl에 처음부터 붙었던 질소가 indole N으로 남는지 추적한다. (보충 근거: Clayden p.916)
+[원본 자료에서 세부 구조·입체배치 확인: Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf p.943](../../figures/L16/source/fischer_33.png)
+
+![fischer rearomatization](../../figures/L16/fischer_rearomatization.svg)
+
+![fischer cyclization](../../figures/L16/fischer_cyclization.svg)
+
+![fischer ammonia loss](../../figures/L16/fischer_ammonia_loss.svg)
+
+![fischer aromatization](../../figures/L16/fischer_aromatization.svg)
+
+그림: diimine의 rearomatization, C–N 고리화와 proton transfer, NH3 이탈, 최종 방향족화를 각각 나누었다. 여러 proton-transfer 단계를 한 concerted 화살표로 표시하지 않았다. (보충 근거: Clayden p.916) (원본 대조: Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf p.943)
+
+[원본 자료에서 세부 구조·입체배치 확인: Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf p.943](../../figures/L16/source/fischer_cyclization.png)
 
 ## 관련 문서
 

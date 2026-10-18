@@ -24,17 +24,30 @@ WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. [4
 
 더 읽기: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [endo rule](../../wiki/개념/endo%20규칙.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md).
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p19.svg)
+![maleate cis](../../figures/L13/maleate_cis.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.19)
+![fumarate trans](../../figures/L13/fumarate_trans.svg)
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p22.svg)
+그림: dienophile의 cis/trans 관계가 생성물에 보존되는 두 예를 나누었다. 쐐기와 점선의 상대배치를 비교한다. (원본 대조: L13_cycloaddition part 1.pdf p.19)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.22)
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.19](../../figures/L13/source/L13_p19.png)
 
-![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p33.svg)
+![da endo exo ts 3d](../../figures/L13/da_endo_exo_ts_3d.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.33)
+![endo exo](../../figures/L13/endo_exo.svg)
+
+그림: 보충: 첫 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 이어지는 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../../figures/L13/source/L13_p22.png)
+
+| 조건 | 허용 판정에 쓰는 합 |
+| --- | --- |
+| Thermal | $(4q+2)_s$ 성분 수 + $(4r)_a$ 성분 수가 홀수 |
+| Photochemical | 같은 합이 짝수 |
+
+허용은 실제 반응·속도·수율을 보장하지 않는다. 가능한 orbital symmetry를 판정한 다음 기하와 energetics를 따로 확인한다. (출처: L13 p.33; 광화학 비교: L14 p.24–28)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.33](../../figures/L13/source/L13_p33.png)
 
 
 ## 개요

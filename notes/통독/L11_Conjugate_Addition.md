@@ -23,17 +23,25 @@ iminium catalysis는 enamine donor 활성화와 역할이 반대다. 여기서�
 
 더 읽기: [1,2 vs 1,4](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [Michael reaction](../../wiki/반응/마이클%20반응.md), [iminium catalysis](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [SNAr](../../wiki/반응/친핵성%20방향족%20치환.md).
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p13.svg)
+![mvk cn 12 vs 14](../../figures/L11/mvk_cn_12_vs_14.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.13)
+그림: 같은 MVK/CN− 계의 저온 1,2와 고온 1,4 공격 위치를 나란히 비교한다. 에너지 곡선의 높이는 정량값으로 재구성하지 않았다. (원본 대조: L11_Conjugate addition.pdf p.13)
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p16.svg)
+[원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.13](../../figures/L11/source/L11_p13.png)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.16)
+![isobutyrate 12](../../figures/L11/isobutyrate_12.svg)
 
-![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p21.svg)
+![michael methylcyclopentanone](../../figures/L11/michael_methylcyclopentanone.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.21)
+그림: Li enolate의 1,2 첨가와 t-BuOK 조건의 Michael 반응을 별도 반응식으로 비교한다. (원본 대조: L11_Conjugate addition.pdf p.16)
+
+[원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.16](../../figures/L11/source/L11_p16.png)
+
+![iminium attack](../../figures/L11/iminium_attack.svg)
+
+그림: 원본 촉매 사이클 가운데 N-methylpyrrole의 C–C 결합 형성 단계를 분리했다. 빨강은 iminium 받개, 파랑은 주개, 주황은 전자쌍 이동이다. 축합·가수분해를 포함한 전체 촉매 사이클은 원본에서 대조한다. (원본 대조: L11_Conjugate addition.pdf p.21)
+
+[원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.21](../../figures/L11/source/L11_p21.png)
 
 
 ## 개요

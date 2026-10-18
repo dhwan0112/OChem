@@ -28,29 +28,51 @@ aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]�
 
 더 읽기: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [con/dis](../../wiki/개념/콘로테이션과%20디스로테이션.md), [Danheiser](../../wiki/반응/Danheiser%20benzannulation.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p15.svg)
+![eight electron open chain](../../figures/L17/eight_electron_open_chain.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.15)
+![octatriene disrotatory](../../figures/L17/octatriene_disrotatory.svg)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p19.svg)
+그림: 보충: 첫 그림은 8e closure의 무치환 모형, 두 번째는 6e disrotation의 별도 예다. 원본 endiandric acid의 전체 치환 골격을 그린 것은 아니며, 8e con 다음 새 계를 6e dis로 다시 세는 데 쓴다. (원본 대조: L17_Electrocyclic reactions.pdf p.15)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.19)
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.15](../../figures/L17/source/L17_p15.png)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p25.svg)
+![eight electron open chain](../../figures/L17/eight_electron_open_chain.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.25)
+![con dis homo lobes](../../figures/L17/con_dis_homo_lobes.svg)
+
+그림: 8e thermal conrotation을 먼저 보고, 아래의 4e·6e HOMO 말단 위상 비교로 회전 원리를 확인한다. 원본의 8e excited-state 전체 MO 준위표는 원본 링크로 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.19)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.19](../../figures/L17/source/L17_p19.png)
+
+| 역산 단계 | 확인할 항목 |
+| --- | --- |
+| Aziridine opening | N lone pair를 포함한 4e; thermal conrotatory |
+| Azomethine ylide 포획 | 4e dipole + alkyne 2e의 [3+2] |
+| 최종 배치 역산 | 출발 aziridine cis/trans와 최종 고리의 상대배치를 원자별로 추적 |
+
+원본 문제의 정답 쐐기·점선은 아래 공식 풀이를 기준으로 한다. 위 표는 그 구조를 대체하는 임의의 생성물 배정이 아니다. (출처: L17 p.24–25)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.25](../../figures/L17/source/L17_p25.png)
 
 ![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/danheiser_vinylketene.svg)
 
 그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p28.svg)
+![danheiser vinylketene](../../figures/L17/danheiser_vinylketene.svg)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.28)
+![ketene 22 cyclopentadiene](../../figures/L15/ketene_22_cyclopentadiene.svg)
 
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p29.svg)
+그림: 첫 그림은 Danheiser의 cyclobutenone opening 핵심 골격이다. 두 번째는 ketene [2+2]의 별도 강의 예로, 전체 Danheiser 중간체를 그대로 그린 것은 아니다. 완전한 치환 골격과 뒤의 benzannulation은 원본에서 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.28)
 
-그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.29)
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.28](../../figures/L17/source/L17_p28.png)
+
+![photo22 regio](../../figures/L14/photo22_regio.svg)
+
+![anionic oxy cope](../../figures/L16/anionic_oxy_cope.svg)
+
+그림: periplanone B 경로를 읽기 위한 광[2+2]와 anionic oxy-Cope의 별도 기본 예다. 복잡한 천연물 골격·입체배치는 원본에 남기며 모형의 생성물을 천연물 중간체로 동일시하지 않는다. (원본 대조: L17_Electrocyclic reactions.pdf p.29)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.29](../../figures/L17/source/L17_p29.png)
 
 
 ## 개요

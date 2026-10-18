@@ -41,9 +41,13 @@ tags: [분류/반응, 범위/Test2, 인명반응, 단원/시그마트로픽-전�
 
 그림: 보충: 강의 p.28의 첫 고리 열림을 무치환 core로 단순화했다. 빨강 C–C $\sigma$ 결합이 끊어지고 초록 두 C=C가 생긴다. C=O는 유지된다. (출처: L17 p.28)
 
-![Danheiser 전체 공식 도식](../../figures/L17/source/L17_p28.svg)
+![danheiser vinylketene](../../figures/L17/danheiser_vinylketene.svg)
 
-그림: 복잡한 치환기와 전체 단계는 원본 그림에서 확인한다. 새로 그린 앞 그림은 첫 단계만 설명한다. (출처: L17 p.28)
+![ketene 22 cyclopentadiene](../../figures/L15/ketene_22_cyclopentadiene.svg)
+
+그림: 첫 그림은 Danheiser의 cyclobutenone opening 핵심 골격이다. 두 번째는 ketene [2+2]의 별도 강의 예로, 전체 Danheiser 중간체를 그대로 그린 것은 아니다. 완전한 치환 골격과 뒤의 benzannulation은 원본에서 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.28)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.28](../../figures/L17/source/L17_p28.png)
 
 ## 관련 문서
 

@@ -1,0 +1,380 @@
+[
+  {
+    "source": "figures/L11/source/L11_p10.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L11/acryloyl_chloride_nh3.svg",
+      "figures/L11/methyl_acrylate_nh3.svg",
+      "figures/L11/cyclopentenone_nabh4.svg"
+    ],
+    "description": "받개와 조건에 따른 1,2·1,4 첨가를 각각 분리했다. 원본의 서로 다른 세 반응 예이며 단일 기질의 경쟁 반응으로 합치지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L11/source/L11_p12.png",
+    "status": "inline_replaced",
+    "native_figures": [],
+    "description": "",
+    "text_table": true
+  },
+  {
+    "source": "figures/L11/source/L11_p13.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L11/mvk_cn_12_vs_14.svg"
+    ],
+    "description": "같은 MVK/CN− 계의 저온 1,2와 고온 1,4 공격 위치를 나란히 비교한다. 에너지 곡선의 높이는 정량값으로 재구성하지 않았다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L11/source/L11_p16.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L11/isobutyrate_12.svg",
+      "figures/L11/michael_methylcyclopentanone.svg"
+    ],
+    "description": "Li enolate의 1,2 첨가와 t-BuOK 조건의 Michael 반응을 별도 반응식으로 비교한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L11/source/L11_p21.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L11/iminium_attack.svg"
+    ],
+    "description": "원본 촉매 사이클 가운데 N-methylpyrrole의 C–C 결합 형성 단계를 분리했다. 빨강은 iminium 받개, 파랑은 주개, 주황은 전자쌍 이동이다. 축합·가수분해를 포함한 전체 촉매 사이클은 원본에서 대조한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L12/source/L12_p07.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L12/silyl_tbaf.svg"
+    ],
+    "description": "fluoride가 Si에 접근하여 Si–O를 끊는 단계다. 탄소의 C–O 결합을 끊는 그림이 아니다.",
+    "text_table": true
+  },
+  {
+    "source": "figures/L12/source/L12_p09.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L12/orthogonal_boc_benzyl.svg"
+    ],
+    "description": "Boc와 benzyl ester의 선택적 제거를 보여 주는 glycine 모형이다. 원본의 Leu/Gly peptide 합성 전체를 재현한 그림은 아니며, 원본의 N/C 보호 순서를 읽기 위한 개념 예다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L12/source/L12_p14.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L12/acetal_grignard_bromoketone_1.svg",
+      "figures/L12/acetal_grignard_bromoketone_2.svg",
+      "figures/L12/acetal_grignard_bromoketone_3.svg",
+      "figures/L12/acetal_grignard_bromoketone_4.svg"
+    ],
+    "description": "acetal 보호, Grignard 형성·첨가, 탈보호를 단계별로 읽는다. 서로 다른 시약 처리 단계를 한 화살표로 합치지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L13/source/L13_p19.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L13/maleate_cis.svg",
+      "figures/L13/fumarate_trans.svg"
+    ],
+    "description": "dienophile의 cis/trans 관계가 생성물에 보존되는 두 예를 나누었다. 쐐기와 점선의 상대배치를 비교한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L13/source/L13_p22.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L13/da_endo_exo_ts_3d.svg",
+      "figures/L13/endo_exo.svg"
+    ],
+    "description": "보충: 첫 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 이어지는 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L13/source/L13_p33.png",
+    "status": "inline_replaced",
+    "native_figures": [],
+    "description": "",
+    "text_table": true
+  },
+  {
+    "source": "figures/L14/source/L14_p12.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L14/regio_para_polar.svg"
+    ],
+    "description": "원본의 가상 E+·Nu− 첨가로 주개·받개 말단을 찾는 단계다. 파랑과 빨강으로 찾은 연결 방향을 고정한 뒤 stereo를 판정한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L14/source/L14_p17.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L14/endo_exo_inout.svg"
+    ],
+    "description": "동일 기질의 endo/exo 접근을 두 행으로 분리했다. OMe/CHO 관계와 in 치환기를 함께 추적한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L14/source/L14_p27.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L14/photo22_regio.svg"
+    ],
+    "description": "보충 비교 예: isobutylene과 cyclohexenone의 광[2+2]다. 원본의 fused-ring 예와 기질이 다르므로 원본 생성물을 그대로 옮긴 답안으로 사용하지 않는다. 두 경우 모두 참여 alkene의 상대배치를 따로 추적한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L15/source/L15_p15.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/nitrone_cycloaddition.svg"
+    ],
+    "description": "nitrone LUMO와 electron-rich alkene HOMO를 짝짓는 경우다. electron-poor alkene에서는 nitrone HOMO가 주는 쪽이 될 수 있으므로 이 한 도식을 모든 기질에 복사하지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L15/source/L15_p16.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/nitrone_no_reduction.svg"
+    ],
+    "description": "N–O 결합의 환원으로 amino alcohol이 되는 일반 고리 모형이다. 원본의 치환·입체배치나 Tutorial 5의 bicyclic 정답을 확정한 그림은 아니다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L15/source/L15_p26.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/danishefsky_diene.svg",
+      "figures/L15/brassard_diene.svg",
+      "figures/L15/rawal_diene.svg"
+    ],
+    "description": "Danishefsky·Brassard·Rawal diene을 각각 분리했다. 모든 diene 탄소의 H를 명시했다. 파랑은 electron-rich diene과 주개 heteroatom이며 R은 원본처럼 일반 치환기다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/L16_p06.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/claisen_chair_e.svg"
+    ],
+    "description": "chair-like [3,3]의 배치와 R의 equatorial 선택을 보여 주는 모형이다. 이 배치도와 전체 HOMO/LUMO 그림은 서로 다른 설명 수준이다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/L16_p11.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/claisen_aliphatic.svg",
+      "figures/L16/ireland_claisen_arrows.svg"
+    ],
+    "description": "allyl vinyl ether와 silyl ketene acetal을 별도 패널로 보여 준다. 원본의 acetal·orthoester·amide acetal 전체 구조는 원본 링크로 대조한다.",
+    "text_table": true
+  },
+  {
+    "source": "figures/L16/source/L16_p20.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/selenium_ene.svg",
+      "figures/L16/selenium_23.svg"
+    ],
+    "description": "propene 모형으로 ene와 뒤의 [2,3]을 나누었다. 주황은 전자쌍 이동, 초록은 새 결합이다. [2,3] 뒤 selenium ester의 hydrolysis가 allylic alcohol을 준다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/L16_p22.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/h15_shift_cp.svg",
+      "figures/L16/hydrogen_shift_terminal_phases.svg"
+    ],
+    "description": "첫 그림은 실제 [1,5]H 결합 변화이고 두 번째는 열적 H 이동 판정에 쓰는 말단 위상 도식이다. 위상 도식을 원본 전체 MO 에너지 준위표와 동일한 그림으로 취급하지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/L16_p25.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/photo_17_h_shift.svg"
+    ],
+    "description": "보충: 원본의 치환기를 생략한 heptatriene 모형이다. 주황 H로 옮겨지는 수소를 표시하고 세 C=C의 위치 변화를 함께 추적한다. 광화학 [1,7]은 suprafacial이다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L17/source/L17_p15.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L17/eight_electron_open_chain.svg",
+      "figures/L17/octatriene_disrotatory.svg"
+    ],
+    "description": "보충: 첫 그림은 8e closure의 무치환 모형, 두 번째는 6e disrotation의 별도 예다. 원본 endiandric acid의 전체 치환 골격을 그린 것은 아니며, 8e con 다음 새 계를 6e dis로 다시 세는 데 쓴다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L17/source/L17_p19.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L17/eight_electron_open_chain.svg",
+      "figures/L17/con_dis_homo_lobes.svg"
+    ],
+    "description": "8e thermal conrotation을 먼저 보고, 아래의 4e·6e HOMO 말단 위상 비교로 회전 원리를 확인한다. 원본의 8e excited-state 전체 MO 준위표는 원본 링크로 대조한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L17/source/L17_p25.png",
+    "status": "inline_replaced",
+    "native_figures": [],
+    "description": "",
+    "text_table": true
+  },
+  {
+    "source": "figures/L17/source/L17_p28.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L17/danheiser_vinylketene.svg",
+      "figures/L15/ketene_22_cyclopentadiene.svg"
+    ],
+    "description": "첫 그림은 Danheiser의 cyclobutenone opening 핵심 골격이다. 두 번째는 ketene [2+2]의 별도 강의 예로, 전체 Danheiser 중간체를 그대로 그린 것은 아니다. 완전한 치환 골격과 뒤의 benzannulation은 원본에서 대조한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L17/source/L17_p29.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L14/photo22_regio.svg",
+      "figures/L16/anionic_oxy_cope.svg"
+    ],
+    "description": "periplanone B 경로를 읽기 위한 광[2+2]와 anionic oxy-Cope의 별도 기본 예다. 복잡한 천연물 골격·입체배치는 원본에 남기며 모형의 생성물을 천연물 중간체로 동일시하지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T04_answers_p01.png",
+    "status": "reference_only_already",
+    "native_figures": [],
+    "description": "",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T04_answers_p02.png",
+    "status": "inline_replaced",
+    "native_figures": [],
+    "description": "",
+    "text_table": true
+  },
+  {
+    "source": "figures/tutorials/T05_p01.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/tutorial5_q1_alkenes.svg",
+      "figures/L15/diazomethane_resonance.svg"
+    ],
+    "description": "첫 패널은 문제의 두 alkene E/Z를 그대로 구별했다. 두 번째 패널은 공명 전자 이동이다. 생성물의 regio·stereo는 공식 정답으로 확정하지 않는다. 원본의 HOMO 로브 크기는 원본 링크에서 대조한다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T05_p02.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/tutorial5_q2_reactants.svg",
+      "figures/L15/nitrone_no_reduction.svg"
+    ],
+    "description": "첫 패널은 문제의 cyclic nitrone과 E-diene 출발물이다. 두 번째는 N–O 환원의 일반 모형이며, 실제 bicyclic 생성물의 확정 답안이 아니다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T05_p03.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/tutorial5_dimethylketene.svg",
+      "figures/L15/tutorial5_q3_enol_ether.svg"
+    ],
+    "description": "문제의 acid chloride로부터 dimethylketene이 생기는 net 반응과 Z-enol ether를 분리했다. cyclobutanone의 최종 쐐기·점선은 여기서 확정하지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T05_p04.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/fischer_tautomerization.svg",
+      "figures/L16/fischer_33.svg"
+    ],
+    "description": "문제와 같은 cyclohexanone 유래 hydrazone에서 시작한다. 첫 패널은 acid-catalysed tautomerization, 두 번째는 [3,3]이다. 파란 N은 최종 indole에 남고 회색 N은 뒤에 NH3로 나간다. 상세 후속 단계는 Fischer indole 개념 문서에 있다. (보충 근거: Clayden p.916)",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T06_p01.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L13/retro_da_dcpd.svg"
+    ],
+    "description": "retro-DA의 결합 변화를 보여 주는 무치환 dicyclopentadiene 예다. 원본 SPh/OAc 두 기질의 입체배치를 대체하지 않는다. 원본 구조와 아직 미확정인 최종 생성물은 아래 자료와 본문 검토 중 표시를 함께 읽는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T06_p02.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/anionic_oxy_cope.svg",
+      "figures/L17/tutorial6_6e_anion.svg"
+    ],
+    "description": "첫 패널은 Q2의 [3,3]을 이해하기 위한 기본 모형이며 실제 phenanthrene 골격의 정답은 아니다. 두 번째는 Q3 탈양성자화 계의 원자 연결·6e 셈이다. imine E/Z 및 최종 thermal/photo 생성물 배정은 확정하지 않았다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/fischer_33.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/fischer_tautomerization.svg",
+      "figures/L16/fischer_33.svg"
+    ],
+    "description": "hydrazone/enehydrazine 평형과 N–N 결합이 끊어지는 [3,3]을 분리했다. 파란 N은 보존되는 aryl N, 회색 N은 나중에 NH3로 나가는 N이다. (보충 근거: Clayden p.916)",
+    "text_table": false
+  },
+  {
+    "source": "figures/L16/source/fischer_cyclization.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L16/fischer_rearomatization.svg",
+      "figures/L16/fischer_cyclization.svg",
+      "figures/L16/fischer_ammonia_loss.svg",
+      "figures/L16/fischer_aromatization.svg"
+    ],
+    "description": "diimine의 rearomatization, C–N 고리화와 proton transfer, NH3 이탈, 최종 방향족화를 각각 나누었다. 여러 proton-transfer 단계를 한 concerted 화살표로 표시하지 않았다. (보충 근거: Clayden p.916)",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T04_answers_q1.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/danishefsky_diene.svg",
+      "figures/L14/endo_exo_inout.svg"
+    ],
+    "description": "첫 그림은 Danishefsky 주개 구조, 두 번째는 endo와 in 치환기의 별도 강의 예다. Tutorial 4 Q1의 실제 cyclic dienophile 및 생성물의 두 syn 관계는 아래 공식 답안에서 확인한다. 두 번째 그림을 그 문제의 생성물로 복사하지 않는다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T04_answers_q2a.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L14/photo22_regio.svg"
+    ],
+    "description": "광[2+2]의 기본 연결과 stereospecificity를 보여 주는 별도 강의 예다. 실제 Q2(a)의 cyclobutene diester, NaBH4 후 lactone과 접합 입체배치는 아래 공식 답안에 있다.",
+    "text_table": false
+  },
+  {
+    "source": "figures/tutorials/T04_answers_q2b.png",
+    "status": "inline_replaced",
+    "native_figures": [
+      "figures/L15/tutorial4_vinyl_grignard.svg",
+      "figures/L15/tutorial4_oxidation_imda.svg"
+    ],
+    "description": "공식 경로의 aldehyde 첨가와 산화를 분리했다. 이 두 패널 뒤의 실제 in situ DA 및 cis 접합은 아래 공식 답안으로 대조한다.",
+    "text_table": false
+  }
+]

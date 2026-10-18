@@ -53,9 +53,13 @@ L6에서 미뤄 둔 메커니즘은 L16(교재 보충, Clayden 기반)에서 나
 
 ## 그림으로 확인하기
 
-![SeO2 ene 및 2,3 rearrangement 공식 메커니즘](../../figures/L16/source/L16_p20.svg)
+![selenium ene](../../figures/L16/selenium_ene.svg)
 
-그림: 먼저 allylic H 이동과 C–Se 결합 형성이 일어나는 ene 단계, 이어 [2,3], 분해와 추가 산화다. (출처: L16 p.20)
+![selenium 23](../../figures/L16/selenium_23.svg)
+
+그림: propene 모형으로 ene와 뒤의 [2,3]을 나누었다. 주황은 전자쌍 이동, 초록은 새 결합이다. [2,3] 뒤 selenium ester의 hydrolysis가 allylic alcohol을 준다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.20)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.20](../../figures/L16/source/L16_p20.png)
 
 ## 관련 문서
 

@@ -4,9 +4,11 @@
 
 ## 문제 1 — 두 입체이성질체의 열반응
 
-![Tutorial6 Q1 원본](../figures/tutorials/T06_p01.svg)
+![retro da dcpd](../figures/L13/retro_da_dcpd.svg)
 
-그림: 두 출발 구조의 AcO/OAc 방향이 다르다. 문제는 두 반응 모두 첫 단계가 retro-Diels–Alder라고 명시한다. (출처: Tutorial Questions 6 p.1)
+그림: retro-DA의 결합 변화를 보여 주는 무치환 dicyclopentadiene 예다. 원본 SPh/OAc 두 기질의 입체배치를 대체하지 않는다. 원본 구조와 아직 미확정인 최종 생성물은 아래 자료와 본문 검토 중 표시를 함께 읽는다. (원본 대조: Tutorial Questions 6.pdf p.1)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 6.pdf p.1](../figures/tutorials/T06_p01.png)
 
 ### 확인된 출발점과 풀이 절차
 
@@ -16,9 +18,13 @@
 
 ## 문제 2 — Grignard, anionic oxy-Cope, aromatization
 
-![Tutorial6 Q2와 Q3 원본](../figures/tutorials/T06_p02.svg)
+![anionic oxy cope](../figures/L16/anionic_oxy_cope.svg)
 
-그림: Q2에는 Grignard 첨가, KH/THF의 [3,3], oxidative dehydrogenative aromatization 조건이 주어져 있다. Q3은 열/빛의 두 생성물을 비교한다. (출처: Tutorial Questions 6 p.2)
+![tutorial6 6e anion](../figures/L17/tutorial6_6e_anion.svg)
+
+그림: 첫 패널은 Q2의 [3,3]을 이해하기 위한 기본 모형이며 실제 phenanthrene 골격의 정답은 아니다. 두 번째는 Q3 탈양성자화 계의 원자 연결·6e 셈이다. imine E/Z 및 최종 thermal/photo 생성물 배정은 확정하지 않았다. (원본 대조: Tutorial Questions 6.pdf p.2)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 6.pdf p.2](../figures/tutorials/T06_p02.png)
 
 ### 단계별로 확인할 구조
 

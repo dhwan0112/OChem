@@ -4,9 +4,13 @@
 
 ## 문제 1 — diazomethane과 두 alkene
 
-![Tutorial5 Q1 원본](../figures/tutorials/T05_p01.svg)
+![tutorial5 q1 alkenes](../figures/L15/tutorial5_q1_alkenes.svg)
 
-그림: 두 alkene의 치환기와 E/Z가 다르다. 아래는 diazomethane HOMO 그림이며 작은/큰 로브를 반응 계수와 연결한다. (출처: Tutorial Questions 5 p.1)
+![diazomethane resonance](../figures/L15/diazomethane_resonance.svg)
+
+그림: 첫 패널은 문제의 두 alkene E/Z를 그대로 구별했다. 두 번째 패널은 공명 전자 이동이다. 생성물의 regio·stereo는 공식 정답으로 확정하지 않는다. 원본의 HOMO 로브 크기는 원본 링크에서 대조한다. (원본 대조: Tutorial Questions 5.pdf p.1)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 5.pdf p.1](../figures/tutorials/T05_p01.png)
 
 ### 풀이 제안과 검산
 
@@ -20,9 +24,13 @@ CH2 쪽 큰 HOMO 계수를 electron-poor alkene의 $\beta$-탄소와 맞추는 �
 
 ## 문제 2 — nitrone + diene, 그다음 Zn/HOAc와 MnO2
 
-![Tutorial5 Q2 원본](../figures/tutorials/T05_p02.svg)
+![tutorial5 q2 reactants](../figures/L15/tutorial5_q2_reactants.svg)
 
-그림: 첫 빈칸은 bicyclic product이고, 다음 조건은 1. Zn/HOAc, 2. MnO2다. (출처: Tutorial Questions 5 p.2)
+![nitrone no reduction](../figures/L15/nitrone_no_reduction.svg)
+
+그림: 첫 패널은 문제의 cyclic nitrone과 E-diene 출발물이다. 두 번째는 N–O 환원의 일반 모형이며, 실제 bicyclic 생성물의 확정 답안이 아니다. (원본 대조: Tutorial Questions 5.pdf p.2)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 5.pdf p.2](../figures/tutorials/T05_p02.png)
 
 ### 풀이 제안
 
@@ -36,9 +44,13 @@ nitrone은 allyl cation처럼 2e가 아니라 4e 성분이다. diene 전체 4e�
 
 ## 문제 3 — acid chloride + enol ether
 
-![Tutorial5 Q3 원본](../figures/tutorials/T05_p03.svg)
+![tutorial5 dimethylketene](../figures/L15/tutorial5_dimethylketene.svg)
 
-그림: Et3N은 acid chloride에서 ketene을 만드는 단서다. O-benzyl 치환 alkene의 출발 기하를 유지해 읽는다. (출처: Tutorial Questions 5 p.3)
+![tutorial5 q3 enol ether](../figures/L15/tutorial5_q3_enol_ether.svg)
+
+그림: 문제의 acid chloride로부터 dimethylketene이 생기는 net 반응과 Z-enol ether를 분리했다. cyclobutanone의 최종 쐐기·점선은 여기서 확정하지 않는다. (원본 대조: Tutorial Questions 5.pdf p.3)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 5.pdf p.3](../figures/tutorials/T05_p03.png)
 
 ### 풀이 제안
 
@@ -48,9 +60,13 @@ Et3N에 의한 제거로 dimethylketene $\mathrm{Me_2C{=}C{=}O}$를 만든다. �
 
 ## 문제 4 — Fischer indole synthesis
 
-![Tutorial5 Q4 원본](../figures/tutorials/T05_p04.svg)
+![fischer tautomerization](../figures/L16/fischer_tautomerization.svg)
 
-그림: phenylhydrazine과 cyclohexanone의 hydrazone에서 fused indole로 가는 단계적 메커니즘을 묻는다. (출처: Tutorial Questions 5 p.4)
+![fischer 33](../figures/L16/fischer_33.svg)
+
+그림: 문제와 같은 cyclohexanone 유래 hydrazone에서 시작한다. 첫 패널은 acid-catalysed tautomerization, 두 번째는 [3,3]이다. 파란 N은 최종 indole에 남고 회색 N은 뒤에 NH3로 나간다. 상세 후속 단계는 Fischer indole 개념 문서에 있다. (보충 근거: Clayden p.916) (원본 대조: Tutorial Questions 5.pdf p.4)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial Questions 5.pdf p.4](../figures/tutorials/T05_p04.png)
 
 ### 교재 근거로 검증한 메커니즘
 

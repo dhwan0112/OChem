@@ -110,4 +110,4 @@ python3 tools/chemfig.py figures/L01/bromonium_step1.json
 
 ### Test 2 보강 그림의 출처
 
-2026-10-18 보강에는 새 ReShiki 도식과 강의·제공 답안·교재 원본 도식 발췌가 함께 있다. `figures/L##/source/`와 `figures/tutorials/`의 PNG는 원본 구조와 입체표기를 보존한 발췌이며, 새로 그린 그림이라고 표시하지 않는다. 원본 파일명·PDF 쪽수·교재 인쇄 쪽수·SHA-256과 발췌 방법은 [출처 목록](figures/test2_source_manifest.json)에 있다. 복잡한 구조는 확대해서 확인할 수 있다.
+2026-10-18 보강에는 새 ReShiki 도식과 강의·제공 답안·교재 원본 도식 발췌가 함께 있다. `figures/L##/source/`와 `figures/tutorials/`의 PNG는 원본 구조와 입체표기를 보존한 발췌이며, 새로 그린 그림이라고 표시하지 않는다. 원본 파일명·PDF 쪽수·교재 인쇄 쪽수·SHA-256과 발췌 방법은 [출처 목록](figures/test2_source_manifest.json)에 있다. 본문에는 기존 규격의 단계별 SVG를 표시하고 원본 발췌는 출처 대조용 링크로 제공한다. 색상 필터로 감싼 원본 SVG는 사용하지 않는다. 새 그림 19개를 보강하고 기존 그림을 재사용했으며, 기본 모형으로 설명하는 경우 실제 원본 기질과 다름을 캡션에 밝힌다. 복잡한 천연물 전체 골격과 공식 답안의 세부 쐐기·점선은 원본 링크를 함께 확인한다. 원본 40개와 본문 그림의 대응은 [대응 목록](figures/style_alignment_sources.json)에 기록했다.

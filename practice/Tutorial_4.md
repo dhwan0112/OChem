@@ -4,9 +4,13 @@
 
 ## 문제 1 — Danishefsky diene의 regioselectivity와 endo 접근
 
-![Tutorial4 Q1 공식 답안](../figures/tutorials/T04_answers_q1.svg)
+![danishefsky diene](../figures/L15/danishefsky_diene.svg)
 
-그림: Q1의 regio·stereo를 확대해 읽는 공식 답안 발췌다. 원본 손글씨의 쐐기와 점선을 유지했다. (출처: Tutorial 4_answers p.1)
+![endo exo inout](../figures/L14/endo_exo_inout.svg)
+
+그림: 첫 그림은 Danishefsky 주개 구조, 두 번째는 endo와 in 치환기의 별도 강의 예다. Tutorial 4 Q1의 실제 cyclic dienophile 및 생성물의 두 syn 관계는 아래 공식 답안에서 확인한다. 두 번째 그림을 그 문제의 생성물로 복사하지 않는다. (원본 대조: Tutorial 4_answers.pdf p.1)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial 4_answers.pdf p.1](../figures/tutorials/T04_answers_q1.png)
 
 ### 공식 풀이
 
@@ -18,13 +22,15 @@ regioselectivity는 먼저 어느 말단끼리 연결되는지를 고른다. OMe
 
 **검토 의견:** 이전 제안에서 OMe–CO2Me 관계를 불확실로 두었으나 제공된 답안은 syn(endo)로 명시한다. 이 문제의 답은 공식 그림의 일차 cycloaddition 생성물이다. 산 후처리로 OSiMe3/OMe가 바뀌어 enone이 되는 일반적인 Danishefsky 후속 반응은 별도 보충이며, 문제에 없는 산 처리 단계를 답안에 임의로 넣지 않는다. (출처: Tutorial 4_answers p.1; L15 p.26)
 
-[공식 답안 p.1 전체 보기](../figures/tutorials/T04_answers_p01.svg)
+[공식 답안 p.1 전체 보기](../figures/tutorials/T04_answers_p01.png)
 
 ## 문제 2(a) — 광화학 [2+2] 다음 환원
 
-![Q2a 공식 반응물과 중간체](../figures/tutorials/T04_answers_q2a.svg)
+![photo22 regio](../figures/L14/photo22_regio.svg)
 
-그림: 광[2+2] 생성물의 상대배치와 NaBH4 후 lactone을 확대했다. (출처: Tutorial 4_answers p.1)
+그림: 광[2+2]의 기본 연결과 stereospecificity를 보여 주는 별도 강의 예다. 실제 Q2(a)의 cyclobutene diester, NaBH4 후 lactone과 접합 입체배치는 아래 공식 답안에 있다. (원본 대조: Tutorial 4_answers.pdf p.1)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial 4_answers.pdf p.1](../figures/tutorials/T04_answers_q2a.png)
 
 ### 공식 풀이
 
@@ -34,9 +40,7 @@ regioselectivity는 먼저 어느 말단끼리 연결되는지를 고른다. OMe
 
 ## 문제 2(b) — allylic alcohol C를 거쳐 in situ DA
 
-![Q2b 공식 aldehyde와 산화 및 in situ DA](../figures/tutorials/T04_answers_q2b.svg)
-
-그림: C의 OH와 산화 조건, endo 접근 및 최종 접합 H를 원본에서 확인한다. (출처: Tutorial 4_answers p.1)
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial 4_answers.pdf p.1](../figures/tutorials/T04_answers_q2b.png)
 
 ### 공식 풀이
 
@@ -54,9 +58,16 @@ aldehyde와 vinylmagnesium bromide를 반응시키고 산성 후처리하면 **C
 
 ## 문제 3 — tropone과 aza-oxyallyl 성분
 
-![Tutorial4 Q3 공식 메커니즘](../figures/tutorials/T04_answers_p02.svg)
+| 공식 메커니즘의 성분 | 전자 수·결합 추적 |
+| --- | --- |
+| Aza-oxyallyl형 3원자 성분 | $2\pi$; LUMO 받개 |
+| Tropone 경로 | O부터 고리 말단까지 $8\pi$; HOMO 주개 |
+| 새 결합 | Tropone O–CMe2 및 tropone C–N |
+| WH 판정 | $\pi2_s+\pi8_s$: 열적 허용 |
 
-그림: 탈양성자화와 Br 이탈, 3원자 $2\pi$ 성분과 tropone의 $8\pi$ 경로, 새 O–C/C–N 결합 및 WH 셈을 표시한 공식 답안이다. (출처: Tutorial 4_answers p.2)
+전체 원자 연결과 공식 화살표는 원본 답안으로 확인한다. 표의 반응 성분 수와 원자 수를 혼동하지 않는다. (출처: Tutorial 4_answers p.2)
+
+[원본 자료에서 세부 구조·입체배치 확인: Tutorial 4_answers.pdf p.2](../figures/tutorials/T04_answers_p02.png)
 
 ### 공식 풀이의 단계
 
