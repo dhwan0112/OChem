@@ -134,7 +134,7 @@ $$
 
 #### 출발물에서 생성물까지 결합을 따라 읽기
 
-받개를 먼저 carbonyl–$\alpha$–$\beta$ 순서로 표시하고, Nu에서 실제로 결합할 원자를 고른다. thiophenol에서는 S, cyanide에서는 C, methylamine에서는 N이 그 원자다. 이 원자를 $\beta$-탄소에 붙인 뒤 원래 $\alpha$–$\beta$의 이중결합을 단일결합으로 바꾸고, 최종 carbonyl을 회복하면 기본 생성물의 골격을 얻는다. 원래 $\beta$-탄소에 있던 methyl·phenyl 같은 치환기는 그대로 남는다. (출처: L11 p.4–5,9)
+받개를 먼저 $\mathrm{C(=O)}{-}C_{\alpha}{-}C_{\beta}$ 순서로 표시하고, Nu에서 실제로 결합할 원자를 고른다. thiophenol에서는 S, cyanide에서는 C, methylamine에서는 N이 그 원자다. 이 원자를 $\beta$-탄소에 붙인 뒤 원래 $\alpha{-}\beta$의 이중결합을 단일결합으로 바꾸고, 최종 carbonyl을 회복하면 기본 생성물의 골격을 얻는다. 원래 $\beta$-탄소에 있던 methyl·phenyl 같은 치환기는 그대로 남는다. (출처: L11 p.4–5,9)
 
 중성 nucleophile과 음이온 nucleophile의 첫 intermediate는 전하가 다르다. $\mathrm{CN^-}$ 같은 음이온이 1,4로 붙으면 주개의 음전하가 소비되고 받개 쪽 enolate에 음전하가 남는다. 반면 중성 amine은 비공유 전자쌍을 새 결합에 쓰면서 N이 양전하를 띠고, 받개 O에는 음전하가 생겨 zwitterion이 된다. 따라서 중성 amine의 첨가에 전하 표시를 모두 생략하면 뒤의 proton transfer가 왜 필요한지 설명할 수 없다. (출처: L11 p.5,7,13)
 
@@ -254,7 +254,7 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 #### cuprate 역합성은 새 결합을 먼저 찾는다
 
-예를 들어 2-heptanone을 만들려면 carbonyl 탄소를 C2로 두고 사슬의 C3를 $\alpha$, C4를 $\beta$로 표시한다. C4–C5 결합을 새 결합으로 보고 끊으면, 받개는 methyl vinyl ketone이고 전달할 조각은 propyl이다. 이때 이중결합을 되살릴 자리는 **최종 생성물의 C3–C4**, 즉 carbonyl에 인접한 $\alpha$–$\beta$ 결합이다. 끊은 C4–C5 자체를 이중결합으로 바꾸는 것이 아니다. (출처: L11 p.8; 풀이 적용)
+예를 들어 2-heptanone을 만들려면 carbonyl 탄소를 C2로 두고 사슬의 C3를 $\alpha$, C4를 $\beta$로 표시한다. C4–C5 결합을 새 결합으로 보고 끊으면, 받개는 methyl vinyl ketone이고 전달할 조각은 propyl이다. 이때 이중결합을 되살릴 자리는 **최종 생성물의 C3–C4**, 즉 carbonyl에 인접한 $\alpha{-}\beta$ 결합이다. 끊은 C4–C5 자체를 이중결합으로 바꾸는 것이 아니다. (출처: L11 p.8; 풀이 적용)
 
 이 방법으로 고리형 ketone도 읽는다. 목표물의 $\beta$-탄소에 methyl 둘이 있으면 하나는 출발 enone의 치환기, 다른 하나는 cuprate에서 전달된 methyl로 나눌 수 있다. 반면 $\gamma$-탄소의 치환기를 cuprate에서 넣겠다고 계획하면 공격 위치가 맞지 않는다. 마지막에는 **받개의 탄소 수 + 전달되는 R 한 조각의 탄소 수 = 생성물 탄소 수**를 확인한다. $\mathrm{R_2CuLi}$에 R이 둘 적혀 있어도 한 번의 conjugate addition에 R 둘을 같은 탄소에 동시에 붙이지 않는다. (출처: L11 p.6–8)
 

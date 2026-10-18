@@ -36,7 +36,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [organocuprate](../wiki/시약/유기구리%20시약.md), [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
 
 #### 2.3 연습: cuprate로 무엇을 만들 수 있나 (슬라이드 p.8)
-- 생성물에서 $\beta$-치환기 하나를 R₂CuLi의 R로 떼고 $\alpha$–$\beta$에 C=C를 다시 넣으면 출발 enone이 나온다.
+- 생성물에서 $\beta$-치환기 하나를 R₂CuLi의 R로 떼고 $\alpha{-}\beta$에 C=C를 다시 넣으면 출발 enone이 나온다.
 - → [organocuprate](../wiki/시약/유기구리%20시약.md)의 "역합성 요령", [연습 문제](../practice/L11_Exercises.md) 문제 1
 
 ### 3. 1,2-첨가와 1,4-첨가 (슬라이드 p.9–13)
