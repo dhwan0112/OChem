@@ -99,9 +99,7 @@ $$
 
 (출처: L6c p.6)
 
-$$
-\mathrm{\#\#}\ 2.\ \text{alcohol} \longrightarrow \text{aldehyde/ketone: 순한 산화제들}
-$$
+## 2. alcohol → aldehyde/ketone: 순한 산화제들
 
 > 개념 문서: [DMP](../../wiki/시약/DMP.md), [Swern oxidation](../../wiki/반응/스원%20산화.md), [TPAP](../../wiki/시약/TPAP.md), [NMO](../../wiki/시약/NMO.md), [MnO2](../../wiki/시약/MnO2.md), [TEMPO oxidation](../../wiki/반응/TEMPO%20산화.md), [TEMPO](../../wiki/시약/TEMPO.md), [alcohol oxidation](../../wiki/반응/알코올%20산화.md)
 
@@ -286,9 +284,7 @@ $$
 
 > 개념 문서: [Pinnick oxidation](../../wiki/반응/피닉%20산화.md), [NaClO2](../../wiki/시약/NaClO2.md), [Jones oxidation](../../wiki/반응/존스%20산화.md), [Jones reagent](../../wiki/시약/존스%20시약.md), [alcohol oxidation](../../wiki/반응/알코올%20산화.md)
 
-$$
-\mathrm{\#\#\#}\ 3.1\ \text{aldehyde} \longrightarrow \text{carboxylic acid: Pinnick oxidation}\ (1981)
-$$
+### 3.1 aldehyde → carboxylic acid: Pinnick oxidation (1981)
 
 aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 무엇으로 할까? 슬라이드의 답은 Pinnick 산화다. NaClO2(sodium chlorite)와 약산성 완충제 NaH2PO4를 쓰며, 순하고 싸고 선택적이다.
 
@@ -323,9 +319,7 @@ $$
 
 (출처: L6c p.15)
 
-$$
-\mathrm{\#\#\#}\ 3.2\ \text{1차 alcohol} \longrightarrow \text{carboxylic acid: Jones 산화와}\ \mathrm{"3}\ =\ 1 + \mathrm{2"}
-$$
+### 3.2 1차 alcohol → carboxylic acid: Jones 산화와 "3 = 1 + 2"
 
 1차 alcohol을 한 번에 carboxylic acid까지 보내려면 강한 산화제가 필요하다. 대표가 Jones oxidation(1946)다. 크롬산 H2CrO4를 쓰는데, CrO3나 다이크로뮴산염(Cr2O7^2−)을 acetic acid이나 묽은 sulfuric acid에 녹여 만든다. 즉 강산성 조건이다.
 

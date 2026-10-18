@@ -134,9 +134,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 (출처: L14 p.11)
 
-$$
-\mathrm{\#\#\#}\ 5.1\ \text{C2-치환 diene} \longrightarrow \text{"pseudo para"}
-$$
+### 5.1 C2-치환 diene → "pseudo para"
 
 슬라이드는 이 과정을 세 단계 사고 실험으로 보여준다.
 
@@ -150,9 +148,7 @@ $$
 
 (출처: L14 p.12)
 
-$$
-\mathrm{\#\#\#}\ 5.2\ \text{C1-치환 diene} \longrightarrow \text{"pseudo ortho"}
-$$
+### 5.2 C1-치환 diene → "pseudo ortho"
 
 C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜타-1,3-diene(Me2C=CH–CH=CH2)과 아크릴산 methyl(CH2=CH–CO2Me)이다. 이 경우 diene에서 계수가 가장 큰 탄소는 치환기에서 *먼 쪽* 말단(CH2)이고, dienophile에서는 $\beta$-탄소(CH2)다. 이 두 탄소가 먼저 결합한다.
 

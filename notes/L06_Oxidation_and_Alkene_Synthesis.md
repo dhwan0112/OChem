@@ -35,7 +35,7 @@
 - 일반 메커니즘: $\mathrm{O{-}LG}\ \text{결합 형성} \longrightarrow \text{염기가}\ \alpha\ \mathrm{{-}H}\ \text{제거(E2형)}$. 3차 alcohol에는 $\alpha$-H가 없다.
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 
-$\mathrm{\#\#\#}\ 2.\ \text{alcohol} \longrightarrow \text{aldehyde/ketone: 순한 산화제들}$ (L6c p.7–14)
+### 2. alcohol → aldehyde/ketone: 순한 산화제들 (L6c p.7–14)
 
 #### 2.1 Dess–Martin periodinane (DMP): "I–O"가 산화제 (p.7)
 - geraniol → geranial 84%. 중성·실온, 민감한 작용기에 강함. I(V) → I(III).
@@ -67,21 +67,11 @@ $\mathrm{\#\#\#}\ 2.\ \text{alcohol} \longrightarrow \text{aldehyde/ketone: 순�
 
 ### 3. carboxylic acid까지 가는 산화 (L6c p.15–17)
 
-$$
-\begin{aligned}
-& \mathrm{\#\#\#\#}\ 3.1\ \text{aldehyde} \\
-& \longrightarrow \text{carboxylic acid: Pinnick oxidation}\ (1981)\ \mathrm{(p.15)}
-\end{aligned}
-$$
+#### 3.1 aldehyde → carboxylic acid: Pinnick oxidation (1981) (p.15)
 - NaClO₂, NaH₂PO₄. 2-methyl-2-butene은 HOCl scavenger(OH는 3차, Cl은 2차 탄소).
 - → [Pinnick oxidation](../wiki/반응/피닉%20산화.md), [NaClO2](../wiki/시약/NaClO2.md)
 
-$$
-\begin{aligned}
-& \mathrm{\#\#\#\#}\ 3.2\ \text{1차 alcohol} \\
-& \longrightarrow \text{carboxylic acid: Jones 산화와}\ \mathrm{"3}\ =\ 1 + \mathrm{2"\,(p.16{-}17)}
-\end{aligned}
-$$
+#### 3.2 1차 alcohol → carboxylic acid: Jones 산화와 "3 = 1 + 2" (p.16–17)
 - Jones(CrO₃/H₂SO₄)는 강산성. $\text{섬세한 기질은}\ \mathrm{DMP} \longrightarrow \mathrm{NaClO_2}\ \text{두 단계}$.
 - → [Jones oxidation](../wiki/반응/존스%20산화.md), [Jones reagent](../wiki/시약/존스%20시약.md), [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 

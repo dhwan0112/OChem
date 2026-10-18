@@ -237,9 +237,7 @@ OsO₄는 syn 첨가이므로 생성물의 입체화학은 출발 alkene의 기�
 
 ## 5. 이중결합 완전히 끊기
 
-$$
-\mathrm{\#\#\#}\ 5.1\ \mathrm{OsO_4} \longrightarrow \mathrm{NaIO_4}\ (\text{periodic acid염 절단})
-$$
+### 5.1 OsO₄ → NaIO₄ (periodic acid염 절단)
 
 > 개념 문서: [periodate cleavage](../../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../../wiki/시약/NaIO4.md)
 

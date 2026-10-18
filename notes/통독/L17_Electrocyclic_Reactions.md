@@ -254,9 +254,7 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [allyl cation](../../wiki/개념/알릴%20양이온.md), [1,3-dipolar cycloaddition](../../wiki/반응/1,3-쌍극자%20고리화%20첨가.md)
 
-$$
-\mathrm{\#\#\#}\ 8.1\ \text{cyclopropyl cation} \longrightarrow \text{allyl cation}
-$$
+### 8.1 cyclopropyl cation → allyl cation
 
 이 장의 내용만 안다면, $2\pi$ 전자를 가진 allyl cation([L14](L14_Cycloaddition_Part2.md) 9절의 [4+3]에서 본 그 cation)이 disrotatory으로 고리를 닫아 cyclopropyl cation이 될 것이라고 예상할지 모른다($2\pi$ = 4n+2, n = 0). 실제로는 **반대 방향**이 일어난다. cyclopropyl cation은 고리 긴장 때문에 생기자마자 전자고리화로 열려 allyl cation이 된다. cyclopropyl cation은 사실상 관찰되지 않는다. (출처: Clayden p.928)
 
