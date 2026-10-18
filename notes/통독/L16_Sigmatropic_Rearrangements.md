@@ -326,7 +326,7 @@ C–O $\sigma$ 결합을 잃고 C–C $\sigma$ 결합을 얻는 것은 손해다
 
 5원자 고리라 완전한 의자는 아니지만, 새 $\pi$ 결합이 될 부분은 의자형에 가까운 배치를 할 수 있다. 치환된 allyl alcohol로 ether를 만들어 두면 치환기 R이 적도 자리를 택해 **새 C=C가 트랜스**가 된다. (출처: Clayden p.917)
 
-- $\mathrm{CH_2{=}CH{-}CH(OH){-}R} \xrightarrow{\mathrm{NaH},\ \mathrm{PhCH_2Br}} \text{benzyl ether}\ \mathrm{{-}{-}[1}$. BuLi; 2. H⁺]--> PhCH(OH)–CH2–CH=CH–R (*E*)
+- $\begin{aligned}& \mathrm{CH_2{=}CH{-}CH(OH){-}R} \xrightarrow{\mathrm{NaH},\ \mathrm{PhCH_2Br}} \text{benzyl ether} \\ & \xrightarrow{1.\ \mathrm{BuLi};\ 2.\ \mathrm{H^+}} \mathrm{PhCH(OH){-}CH_2{-}CH{=}CH{-}R}\ (\mathit{E})\end{aligned}$
 
 ### 8.4 $\omega$ 성분: p 오비탈 하나를 어떻게 세나
 
