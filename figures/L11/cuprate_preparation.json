@@ -1,0 +1,135 @@
+{
+ "title": "Stoichiometric preparation of lithium dialkylcuprate (L11 p.6–7; schematic as in lecture)",
+ "atoms": [
+  [
+   "C",
+   0,
+   0
+  ],
+  [
+   "Li",
+   1.2,
+   0
+  ],
+  [
+   "Cu",
+   9.2,
+   0,
+   -1
+  ],
+  [
+   "C",
+   7.7,
+   -0.9
+  ],
+  [
+   "C",
+   7.7,
+   0.9
+  ],
+  [
+   "Li",
+   10.8,
+   0,
+   1
+  ]
+ ],
+ "bonds": [
+  [
+   0,
+   1,
+   1,
+   "plain",
+   "nu"
+  ],
+  [
+   2,
+   3,
+   1,
+   "plain",
+   "nu"
+  ],
+  [
+   2,
+   4,
+   1,
+   "plain",
+   "nu"
+  ]
+ ],
+ "abbrev": [
+  [
+   "R",
+   0,
+   [
+    0
+   ]
+  ],
+  [
+   "R",
+   3,
+   [
+    3
+   ]
+  ],
+  [
+   "R",
+   4,
+   [
+    4
+   ]
+  ]
+ ],
+ "arrows": [
+  [
+   4.4,
+   0,
+   6.2,
+   0
+  ]
+ ],
+ "captions": [
+  [
+   "2",
+   -1.1,
+   -0.3,
+   "ink"
+  ],
+  [
+   "+ CuBr",
+   1.8,
+   -0.3,
+   "ink"
+  ],
+  [
+   "Et2O",
+   3.9,
+   -1.1,
+   "muted"
+  ],
+  [
+   "−78 °C",
+   3.8,
+   0.4,
+   "muted"
+  ],
+  [
+   "+ LiBr",
+   12.1,
+   -0.3,
+   "ink"
+  ],
+  [
+   "R₂CuLi (schematic)",
+   7.2,
+   2,
+   "muted"
+  ],
+  [
+   "use immediately",
+   7.2,
+   2.8,
+   "muted"
+  ]
+ ]
+}
