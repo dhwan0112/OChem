@@ -1,6 +1,6 @@
 # L17. 전자고리화 반응 (Electrocyclic reactions)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L17 뼈대](../L17_Electrocyclic_Reactions.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L17 뼈대](../L17_Electrocyclic_Reactions.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -10,9 +10,48 @@
 
 
 
-> 이 노트는 슬라이드 공개 전에 Clayden 2판 35장과 Wade 8판으로 만든 **예습판**이다. 강의 슬라이드가 나오면 슬라이드 기준으로 다시 정리한다. 슬라이드와 다르면 슬라이드를 따른다.
+> **2026-10-18 강의 반영:** 앞의 강의 확인·보강 절과 그림은 공식 PDF를 근거로 추가했다. 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
 
-CM3121 Advanced Organic Chemistry (10/21 강의 예습)
+CM3121 Advanced Organic Chemistry — 공식 강의 반영 및 교재 보충 (2026-10-18)
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## 공식 L17: 한 $\pi$계에서 회전과 합성으로 — 강의 확인·보강
+
+강의 앞 p.1–2는 L16의 [1,7] 복습이고 제목은 p.3이다. electrocyclic 반응은 conjugated 계 끝을 잇거나 끊어 $\sigma$ 결합 수가 하나 변한다. thermal 4n은 con, 4n+2는 dis이고 빛에서는 반대다. 허용 여부와 반응 방향은 별개이며, ring strain 때문에 opening이 유리해도 역방향 closure로 회전을 판단할 수 있다. (출처: L17 p.1–13,16)
+
+endiandric acid에서는 8e conrotation 다음 6e disrotation을 매 단계 다시 센다. vitamin D의 광 6e opening과 뒤의 thermal [1,7]H를 구별한다. Nazarov의 pentadienyl cation은 다섯 orbital에 네 전자이므로 산 조건에서 conrotatory이고, cyclopropyl cation의 2e opening은 disrotatory다. 원자 수를 $\pi$ 전자 수로 잘못 세면 둘을 동시에 틀리게 된다. (출처: L17 p.14–23)
+
+aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]로 포획된다. 최종 ester의 cis/trans에서 출발 aziridine을 역산하는 문제는 회전과 cycloaddition의 stereospecificity를 모두 사용한다. (출처: L17 p.24–25)
+
+마지막 합성 예는 개별 선택 규칙을 연결하는 연습이다. Danheiser에서는 cyclobutenone opening, ketene [2+2], 재opening, $6\pi$ closure와 aromaticity 회복이 이어진다. periplanone B에서는 광[2+2], Grignard, anionic oxy-Cope, 175 °C opening, 광 이성질화를 서로 다른 단계로 적는다. (출처: L17 p.28–29)
+
+더 읽기: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [con/dis](../../wiki/개념/콘로테이션과%20디스로테이션.md), [Danheiser](../../wiki/반응/Danheiser%20benzannulation.md), [Tutorial 6](../../practice/Tutorial_6.md).
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p15.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.15)
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p19.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.19)
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p25.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.25)
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/danheiser_vinylketene.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p28.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.28)
+
+![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/source/L17_p29.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L17 p.29)
+
 
 ## 개요
 
@@ -147,10 +186,24 @@ cycloaddition과 시그마트로픽 반응에서도 결합각이 109°와 120° 
 
 ### 4.2 열적 반응: 바닥 상태의 HOMO
 
-| $\pi$계 | 전자 수 | HOMO | 위쪽 로브 위상(C1 → 끝) | 양 끝 | 회전 |
-|---|---|---|---|---|---|
-| butadiene | 4 | $\psi_{2}$ | + + − − | 반대 | conrotatory |
-| hexatriene | 6 | $\psi_{3}$ | + + − − + + | 같음 | disrotatory |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### butadiene
+
+- 전자 수: 4
+- HOMO: $\psi_{2}$
+- 위쪽 로브 위상(C1 → 끝): + + − −
+- 양 끝: 반대
+- 회전: conrotatory
+
+### hexatriene
+
+- 전자 수: 6
+- HOMO: $\psi_{3}$
+- 위쪽 로브 위상(C1 → 끝): + + − − + +
+- 양 끝: 같음
+- 회전: disrotatory
+
 
 butadiene $\psi_{2}$의 양 끝 위상이 반대라는 것은 [L13](L13_Cycloaddition_Part1.md) 7-1절에서 이미 본 사실이다. (보충 근거: Wade p.672, p.698)
 
@@ -336,22 +389,134 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 
 ## 반응 요약표
 
-| 반응 | 출발물 → 생성물 | 조건 | $\pi$ 전자 | 회전 | 입체화학 결과 | 출처 |
-|---|---|---|---|---|---|---|
-| hexatriene 고리 닫힘 | $\text{헥사-1,3,5-triene} \longrightarrow \text{cyclohexa-1,3-diene}$ | 500 °C | 6 | 디스 | – | Clayden p.922 |
-| cyclobutene 고리 열림 | $\text{cyclobutene} \longrightarrow \text{뷰타-1,3-diene}$ | 200 °C | 4 | 콘 | – | p.922 |
-| norcaradiene 평형 | $\text{cycloheptatriene} \rightleftharpoons \text{norcaradiene}$ | – | 6 | 디스 | 치환에 따라 평형 이동 | p.922 |
-| octatriene (열) | $(2\ \mathit{E}\ \mathrm{,4}\ \mathit{Z}\ \mathrm{,6}\ \mathit{E})\text{-octatriene} \longrightarrow \text{5,6-dimethylcyclohexa-1,3-diene}$ | 가열 | 6 | 디스 ($\pi6\mathrm{s}$) | cis-dimethyl만 | p.924–925 |
-| octatriene (빛) | 같은 triene → 같은 골격 | $h\nu$ | 6 | 콘 ($\pi6\mathrm{a}$) | trans-dimethyl | p.927 |
-| dimethylcyclobutene 열림 | $\text{cis-3,4-dimethylcyclobutene} \longrightarrow (\mathit{E}\ ,\ \mathit{Z})\text{-헥사-2,4-diene}$ | 가열 | 4 | 콘 ($\pi4\mathrm{a}$) | 단일 이성질체 | p.925 |
-| 비타민 D (1단계) | ergosterol → 프로비타민 D2 | 햇빛 | 6 | 콘 | 열적 디스는 기하상 불가 | p.922, 927 |
-| endiandric acid | $\begin{aligned} & \text{폴리엔} \\ & \longrightarrow \text{cyclooctatriene} \\ & \longrightarrow \text{endiandric acid}\ \mathrm{D/E} \\ & \longrightarrow \mathrm{A} \end{aligned}$ | 열 | 8 → 6 | 콘 → 디스 | 라세미 천연물 | p.925–926 |
-| Nazarov (산) | $\text{다이바이닐 ketone} \longrightarrow \text{cyclopentenone}$ | H3PO4, AcOH | 4 (5 오비탈) | 콘 ($\pi4\mathrm{a}$) | 고리 접합 H trans | p.927–928 |
-| Nazarov (빛) | 같은 출발물 | $h\nu$, benzene | 4 | 디스 ($\pi4\mathrm{s}$) | 고리 접합 H cis | p.927–928 |
-| dienyl anion | $\text{cyclooctadiene} \longrightarrow \text{cis-이환[3.3.0]옥텐}$ | BuLi, −78 → 0 °C; H⁺ | 6 (5 오비탈) | 디스 ($\pi6\mathrm{s}$) | cis 융합 | p.928 |
-| cyclopropyl cation | $\text{cyclopropyl chloride} \longrightarrow \text{allyl acetate}$ | KOAc, AcOH | 2 | 디스(고리 열림) | – | p.928 |
-| 아지리딘 열림 + [3+2] | $\begin{aligned} & \text{ester 치환 아지리딘} \\ & \longrightarrow \text{azomethine ylide} \\ & \longrightarrow \text{dihydropyrrole} \end{aligned}$ | 100–175 °C, 쌍극친화체 | 4 | 콘 | cis → 2,5-trans, trans → 2,5-cis | p.929 |
-| 페리플라논 B의 고리 열림 | $\text{cyclobutene 융합 10원 고리} \longrightarrow \text{12원 고리 diene}$ | 175 °C; $h\nu$(이성질화) | 4 | 콘(구별 불가) | *Z*/*E* → *E* | p.930 |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### hexatriene 고리 닫힘
+
+- 출발물 → 생성물: $\text{헥사-1,3,5-triene} \longrightarrow \text{cyclohexa-1,3-diene}$
+- 조건: 500 °C
+- $\pi$ 전자: 6
+- 회전: 디스
+- 입체화학 결과: –
+- 출처: Clayden p.922
+
+### cyclobutene 고리 열림
+
+- 출발물 → 생성물: $\text{cyclobutene} \longrightarrow \text{뷰타-1,3-diene}$
+- 조건: 200 °C
+- $\pi$ 전자: 4
+- 회전: 콘
+- 입체화학 결과: –
+- 출처: p.922
+
+### norcaradiene 평형
+
+- 출발물 → 생성물: $\text{cycloheptatriene} \rightleftharpoons \text{norcaradiene}$
+- 조건: –
+- $\pi$ 전자: 6
+- 회전: 디스
+- 입체화학 결과: 치환에 따라 평형 이동
+- 출처: p.922
+
+### octatriene (열)
+
+- 출발물 → 생성물: $(2\ \mathit{E}\ \mathrm{,4}\ \mathit{Z}\ \mathrm{,6}\ \mathit{E})\text{-octatriene} \longrightarrow \text{5,6-dimethylcyclohexa-1,3-diene}$
+- 조건: 가열
+- $\pi$ 전자: 6
+- 회전: 디스 ($\pi6\mathrm{s}$)
+- 입체화학 결과: cis-dimethyl만
+- 출처: p.924–925
+
+### octatriene (빛)
+
+- 출발물 → 생성물: 같은 triene → 같은 골격
+- 조건: $h\nu$
+- $\pi$ 전자: 6
+- 회전: 콘 ($\pi6\mathrm{a}$)
+- 입체화학 결과: trans-dimethyl
+- 출처: p.927
+
+### dimethylcyclobutene 열림
+
+- 출발물 → 생성물: $\text{cis-3,4-dimethylcyclobutene} \longrightarrow (\mathit{E}\ ,\ \mathit{Z})\text{-헥사-2,4-diene}$
+- 조건: 가열
+- $\pi$ 전자: 4
+- 회전: 콘 ($\pi4\mathrm{a}$)
+- 입체화학 결과: 단일 이성질체
+- 출처: p.925
+
+### 비타민 D (1단계)
+
+- 출발물 → 생성물: ergosterol → 프로비타민 D2
+- 조건: 햇빛
+- $\pi$ 전자: 6
+- 회전: 콘
+- 입체화학 결과: 열적 디스는 기하상 불가
+- 출처: p.922, 927
+
+### endiandric acid
+
+- 출발물 → 생성물: $\begin{aligned} & \text{폴리엔} \\ & \longrightarrow \text{cyclooctatriene} \\ & \longrightarrow \text{endiandric acid}\ \mathrm{D/E} \\ & \longrightarrow \mathrm{A} \end{aligned}$
+- 조건: 열
+- $\pi$ 전자: 8 → 6
+- 회전: 콘 → 디스
+- 입체화학 결과: 라세미 천연물
+- 출처: p.925–926
+
+### Nazarov (산)
+
+- 출발물 → 생성물: $\text{다이바이닐 ketone} \longrightarrow \text{cyclopentenone}$
+- 조건: H3PO4, AcOH
+- $\pi$ 전자: 4 (5 오비탈)
+- 회전: 콘 ($\pi4\mathrm{a}$)
+- 입체화학 결과: 고리 접합 H trans
+- 출처: p.927–928
+
+### Nazarov (빛)
+
+- 출발물 → 생성물: 같은 출발물
+- 조건: $h\nu$, benzene
+- $\pi$ 전자: 4
+- 회전: 디스 ($\pi4\mathrm{s}$)
+- 입체화학 결과: 고리 접합 H cis
+- 출처: p.927–928
+
+### dienyl anion
+
+- 출발물 → 생성물: $\text{cyclooctadiene} \longrightarrow \text{cis-이환[3.3.0]옥텐}$
+- 조건: BuLi, −78 → 0 °C; H⁺
+- $\pi$ 전자: 6 (5 오비탈)
+- 회전: 디스 ($\pi6\mathrm{s}$)
+- 입체화학 결과: cis 융합
+- 출처: p.928
+
+### cyclopropyl cation
+
+- 출발물 → 생성물: $\text{cyclopropyl chloride} \longrightarrow \text{allyl acetate}$
+- 조건: KOAc, AcOH
+- $\pi$ 전자: 2
+- 회전: 디스(고리 열림)
+- 입체화학 결과: –
+- 출처: p.928
+
+### 아지리딘 열림 + [3+2]
+
+- 출발물 → 생성물: $\begin{aligned} & \text{ester 치환 아지리딘} \\ & \longrightarrow \text{azomethine ylide} \\ & \longrightarrow \text{dihydropyrrole} \end{aligned}$
+- 조건: 100–175 °C, 쌍극친화체
+- $\pi$ 전자: 4
+- 회전: 콘
+- 입체화학 결과: cis → 2,5-trans, trans → 2,5-cis
+- 출처: p.929
+
+### 페리플라논 B의 고리 열림
+
+- 출발물 → 생성물: $\text{cyclobutene 융합 10원 고리} \longrightarrow \text{12원 고리 diene}$
+- 조건: 175 °C; $h\nu$(이성질화)
+- $\pi$ 전자: 4
+- 회전: 콘(구별 불가)
+- 입체화학 결과: *Z*/*E* → *E*
+- 출처: p.930
+
 
 ---
 
@@ -387,7 +552,7 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 
 ## 각주
 
-[^1]: 전자고리화 반응의 회전 방향 가운데 어느 쪽(예: conrotatory의 두 방향 중 어느 쪽)이 선택되는지를 다루는 torquoselectivity은 Clayden 35장과 Wade 15장 어디에도 없어 이 예습판에서는 다루지 않는다. 슬라이드에 나오면 그때 추가한다.
+[^1]: 전자고리화 반응의 회전 방향 가운데 어느 쪽(예: conrotatory의 두 방향 중 어느 쪽)이 선택되는지를 다루는 torquoselectivity은 Clayden 35장과 Wade 15장 어디에도 없어 이 예습판에서는 다루지 않는다. 이번 L17 PDF에도 두 회전 방향의 에너지 비교가 제시되지 않아 이 노트에서는 정량적인 torquoselectivity를 다루지 않는다.
 [^2]: Clayden 그림에는 출발물이 "syn-1,2-dimethylcyclobutene"으로 적혀 있다. 그림의 구조(cyclobutene의 두 sp3 탄소에 Me가 같은 쪽으로 붙은 것)를 IUPAC 번호로 부르면 cis-3,4-dimethylcyclobutene이다. 이 노트는 IUPAC 이름을 쓴다. (출처: Clayden p.925)
 [^3]: Clayden은 이 비교를 근거로 "열적으로는 conrotatory, 광화학적으로는 disrotatory"을 확인한다고 쓴다. 광화학 반응 쪽도 protonate된 $\pi4$ cation으로 그려져 있다. (출처: Clayden p.928)
-[^4]: 보충: conrotatory에는 두 끝이 모두 시계 방향인 경우와 모두 반시계 방향인 경우가 있어, trans-3,4-dimethylcyclobutene에서는 이론상 (*E*,*E*)와 (*Z*,*Z*)가 모두 conrotatory 생성물이다. 두 교과서는 이 두 방향 사이의 선택을 다루지 않으므로(각주 1의 토크선택성), 여기서는 입체 장애가 작은 (*E*,*E*)라고만 적는다. 슬라이드가 나오면 확인할 부분이다.
+[^4]: 보충: conrotatory에는 두 끝이 모두 시계 방향인 경우와 모두 반시계 방향인 경우가 있어, trans-3,4-dimethylcyclobutene에서는 이론상 (*E*,*E*)와 (*Z*,*Z*)가 모두 conrotatory 생성물이다. 두 교과서는 이 두 방향 사이의 선택을 다루지 않으므로(각주 1의 토크선택성), 여기서는 입체 장애가 작은 (*E*,*E*)라고만 적는다. 이번 강의의 cis-cyclobutene 예와는 다른 trans substrate이므로 두 회전 방향의 선택은 별도 보충 검토 항목이다.

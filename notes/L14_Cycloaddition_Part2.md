@@ -5,7 +5,7 @@
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
 > - 반응: [\[4+3\] cycloaddition](../wiki/반응/4+3%20고리화%20첨가.md), [\[6+4\] cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md), [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [inverse electron demand Diels–Alder](../wiki/반응/역전자%20요구%20딜스-알더%20반응.md), [photochemical \[2+2\] cycloaddition](../wiki/반응/광화학%202+2%20고리화%20첨가.md)
 > - 시약: [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md), [NBS](../wiki/시약/NBS.md)
-> - 개념: [allyl cation](../wiki/개념/알릴%20양이온.md), [aromaticity](../wiki/개념/방향족성.md), [cubane](../wiki/개념/큐베인.md), [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../wiki/개념/endo%20규칙.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md), [substituent effect](../wiki/개념/치환기%20효과.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
+> - 개념: [allyl cation](../wiki/개념/알릴%20양이온.md), [aromaticity](../wiki/개념/방향족성.md), [cubane](../wiki/개념/큐베인.md), [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../wiki/개념/endo%20규칙.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md), [substituent effect](../wiki/개념/치환기%20효과.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Test 2 reaction checklist](../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
 
 <!-- wiki-links:end -->
 

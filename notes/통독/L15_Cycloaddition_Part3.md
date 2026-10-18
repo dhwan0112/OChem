@@ -1,6 +1,6 @@
 # L15. 고리화 첨가 반응 3부 (Cycloadditions, part 3)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L15 뼈대](../L15_Cycloaddition_Part3.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L15 뼈대](../L15_Cycloaddition_Part3.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -12,6 +12,31 @@
 
 
 CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## Cycloaddition을 다음 합성 단계와 연결한다 — 강의 확인·보강
+
+세 원자로 된 반응 성분을 모두 같은 전자 수로 세지 않는다. allyl cation은 2e, nitrone이나 diazomethane 같은 1,3-dipole은 4e다. 그래서 전자는 diene과 [4+3], 후자는 alkene과 [3+2]를 열적 supra–supra 경로로 한다. Tutorial 5의 “왜 [4+3]이 아닌가”는 바로 이 차이를 묻는다. (출처: L14 p.22–23; L15 p.13–16; Tutorial Questions 5 p.1–2)
+
+ketene은 누적 이중결합의 두 $\pi$계가 직교해 일반 alkene과 다른 thermal [2+2] 접근이 가능하다. acid chloride/Et3N 조건을 보면 먼저 ketene 생성 여부를 찾는다. cyclobutanone의 carbonyl이 어느 출발물에서 왔는지 확인하고 enol ether의 O를 고리 원자로 집어넣지 않는다. (출처: L15 p.6–8; Tutorial Questions 5 p.3)
+
+nitrone adduct를 Zn/HOAc로 열면 amino alcohol이 드러나며, 남은 alkene 옆 OH는 다음 MnO2 산화의 단서가 된다. Danishefsky diene도 cycloaddition 직후의 silyl enol ether/OMe를 가진 생성물과 후처리로 얻는 enone을 구별한다. 후처리 reagent가 없는 문제에서 그 단계를 임의로 추가하지 않는다. (출처: L15 p.16,26; Tutorial 4_answers p.1; Tutorial Questions 5 p.2)
+
+더 읽기: [1,3-dipolar cycloaddition](../../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [ketene cycloaddition](../../wiki/반응/케텐%202+2%20고리화%20첨가.md), [Tutorial 5](../../practice/Tutorial_5.md).
+
+![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/diazomethane_resonance.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
+
+![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p16.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.16)
+
+![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/source/L15_p26.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L15 p.26)
+
 
 ## 개요
 
@@ -428,30 +453,184 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
 
 ## 반응 정리표
 
-| 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
-|---|---|---|---|---|---|
-| DA: 1-acetoxybutadiene + (E)-crotonaldehyde | 가열 | 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde | ortho (OAc 옆에 CHO) | OAc/CHO cis(endo), CHO/Me trans(E 보존) | 라세미 (p.3) |
-| ketene + alkene [2+2] | heat | cyclobutanone | $\text{alkene 친핵성 탄소} \longrightarrow \text{ketene}\ \mathrm{C{=}O}\ \text{탄소}$ | alkene 기하 보존 | supra-antara (p.6–7) |
-| $\mathrm{Cl_2CHCOCl} \longrightarrow \mathrm{Cl_2C{=}C{=}O}, + \text{cyclopentadiene}$ | Et3N | 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소, CCl2가 allyl 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
-| ketene + imine (Staudinger) | PhOCH2COCl, Et3N | 3-페녹시 $\beta$-락탐 (92%) | imine N → ketene C=O 탄소 | 그림상 3,4-trans | p.12 |
-| CSI + CH2=C(Me)CH2Cl | 이후 NaHCO3, H2O | 4-(chloromethyl)-4-methyl아제티딘-2-one | 3차 탄소가 N과 결합 | – | SO3 이탈 (p.12) |
-| 니트론 + R-CH=CH2 (EDG) | 열 | 5-치환 isoxazolidine | 니트론 C–CH2, O–CHR | exo TS | 쌍극자 LUMO (p.15–16) |
-| 니트론 + CH2=CH-COR (EWG) | 열 | 4-acyl isoxazolidine | O–CH2($\beta$), C–CH(COR) | – | 쌍극자 HOMO (p.15) |
-| isoxazolidine N–O 절단 | Zn, HOAc | 1,3-amino alcohol | – | 입체 보존 | p.16 |
-| 니트론 제조 | RCHO + RNHOH | 니트론 | – | – | 축합 (p.16) |
-| 니트릴 oxide 제조 | 1. NH2OH 2. Cl2 3. NEt3 | R-C≡N⁺-O⁻ | – | – | hydroxy모일 chloride 경유 (p.17) |
-| 니트릴 oxide + Z/E alkene | – | isoxazoline | R'는 C3 | Z → cis, E → trans | 입체특이적 (p.19) |
-| 니트릴 oxide + 말단 alkyne | – | 3,5-이치환 isoxazole | R이 C5(O 옆) | – | p.19 |
-| isoxazoline 환원 | LiAlH4 | 1,3-amino alcohol | – | – | p.20 |
-| isoxazoline 환원/가수분해 | H2/Ni, H2O | $\beta$-hydroxy ketone | – | cis → syn, trans → anti | aldol 등가체 (p.20) |
-| ozone 분해 | 1. O3 2. Me2S | aldehyde/ketone + DMSO | – | $\text{노보넨} \longrightarrow \text{cis-1,3-dialdehyde}$ | p.21, 23 |
-| ozone 분해 | 1. O3 2. H2O2 | carboxylic acid | – | – | p.21 |
-| ozone 분해 | 1. O3 2. NaBH4 | alcohol | – | – | p.21 |
-| Danishefsky diene DA | DA 후 H⁺ | cyclohexenone | OMe/OSiR3 협력 | – | p.26 |
-| Rawal형 diene + 엔알 | Cr-salen 3 (5 mol%), 4Å MS, CH2Cl2 | 작용기화 cyclohexene | N과 CHO ortho | 거울상선택적 | p.27, 29 |
-| Rawal형 diene + 2-치환 acrolein | TADDOL 7, toluene, -80 °C; LiAlH4; HF | 4,4-이치환 cyclohexenone | – | 73–92% ee | H-결합 촉매 (p.28) |
-| SPAAC | azide + cyclooctyne | triazole | – | – | Cu-free (p.30) |
-| IEDDA | tetrazine + TCO | dihydropyridazine + N2 | – | – | 역-DA로 N2 방출 (p.30) |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### DA: 1-acetoxybutadiene + (E)-crotonaldehyde
+
+- 시약/조건: 가열
+- 생성물: 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde
+- regioselectivity: ortho (OAc 옆에 CHO)
+- 입체화학: OAc/CHO cis(endo), CHO/Me trans(E 보존)
+- 비고: 라세미 (p.3)
+
+### ketene + alkene [2+2]
+
+- 시약/조건: heat
+- 생성물: cyclobutanone
+- regioselectivity: $\text{alkene 친핵성 탄소} \longrightarrow \text{ketene}\ \mathrm{C{=}O}\ \text{탄소}$
+- 입체화학: alkene 기하 보존
+- 비고: supra-antara (p.6–7)
+
+### $\mathrm{Cl_2CHCOCl} \longrightarrow \mathrm{Cl_2C{=}C{=}O}, + \text{cyclopentadiene}$
+
+- 시약/조건: Et3N
+- 생성물: 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one
+- regioselectivity: C=O가 CH2 옆 접합 탄소, CCl2가 allyl 접합 탄소
+- 입체화학: cis 융합
+- 비고: [2+2] > [4+2] (p.8)
+
+### ketene + imine (Staudinger)
+
+- 시약/조건: PhOCH2COCl, Et3N
+- 생성물: 3-페녹시 $\beta$-락탐 (92%)
+- regioselectivity: imine N → ketene C=O 탄소
+- 입체화학: 그림상 3,4-trans
+- 비고: p.12
+
+### CSI + CH2=C(Me)CH2Cl
+
+- 시약/조건: 이후 NaHCO3, H2O
+- 생성물: 4-(chloromethyl)-4-methyl아제티딘-2-one
+- regioselectivity: 3차 탄소가 N과 결합
+- 입체화학: –
+- 비고: SO3 이탈 (p.12)
+
+### 니트론 + R-CH=CH2 (EDG)
+
+- 시약/조건: 열
+- 생성물: 5-치환 isoxazolidine
+- regioselectivity: 니트론 C–CH2, O–CHR
+- 입체화학: exo TS
+- 비고: 쌍극자 LUMO (p.15–16)
+
+### 니트론 + CH2=CH-COR (EWG)
+
+- 시약/조건: 열
+- 생성물: 4-acyl isoxazolidine
+- regioselectivity: O–CH2($\beta$), C–CH(COR)
+- 입체화학: –
+- 비고: 쌍극자 HOMO (p.15)
+
+### isoxazolidine N–O 절단
+
+- 시약/조건: Zn, HOAc
+- 생성물: 1,3-amino alcohol
+- regioselectivity: –
+- 입체화학: 입체 보존
+- 비고: p.16
+
+### 니트론 제조
+
+- 시약/조건: RCHO + RNHOH
+- 생성물: 니트론
+- regioselectivity: –
+- 입체화학: –
+- 비고: 축합 (p.16)
+
+### 니트릴 oxide 제조
+
+- 시약/조건: 1. NH2OH 2. Cl2 3. NEt3
+- 생성물: R-C≡N⁺-O⁻
+- regioselectivity: –
+- 입체화학: –
+- 비고: hydroxy모일 chloride 경유 (p.17)
+
+### 니트릴 oxide + Z/E alkene
+
+- 시약/조건: –
+- 생성물: isoxazoline
+- regioselectivity: R'는 C3
+- 입체화학: Z → cis, E → trans
+- 비고: 입체특이적 (p.19)
+
+### 니트릴 oxide + 말단 alkyne
+
+- 시약/조건: –
+- 생성물: 3,5-이치환 isoxazole
+- regioselectivity: R이 C5(O 옆)
+- 입체화학: –
+- 비고: p.19
+
+### isoxazoline 환원
+
+- 시약/조건: LiAlH4
+- 생성물: 1,3-amino alcohol
+- regioselectivity: –
+- 입체화학: –
+- 비고: p.20
+
+### isoxazoline 환원/가수분해
+
+- 시약/조건: H2/Ni, H2O
+- 생성물: $\beta$-hydroxy ketone
+- regioselectivity: –
+- 입체화학: cis → syn, trans → anti
+- 비고: aldol 등가체 (p.20)
+
+### ozone 분해
+
+- 시약/조건: 1. O3 2. Me2S
+- 생성물: aldehyde/ketone + DMSO
+- regioselectivity: –
+- 입체화학: $\text{노보넨} \longrightarrow \text{cis-1,3-dialdehyde}$
+- 비고: p.21, 23
+
+### ozone 분해
+
+- 시약/조건: 1. O3 2. H2O2
+- 생성물: carboxylic acid
+- regioselectivity: –
+- 입체화학: –
+- 비고: p.21
+
+### ozone 분해
+
+- 시약/조건: 1. O3 2. NaBH4
+- 생성물: alcohol
+- regioselectivity: –
+- 입체화학: –
+- 비고: p.21
+
+### Danishefsky diene DA
+
+- 시약/조건: DA 후 H⁺
+- 생성물: cyclohexenone
+- regioselectivity: OMe/OSiR3 협력
+- 입체화학: –
+- 비고: p.26
+
+### Rawal형 diene + 엔알
+
+- 시약/조건: Cr-salen 3 (5 mol%), 4Å MS, CH2Cl2
+- 생성물: 작용기화 cyclohexene
+- regioselectivity: N과 CHO ortho
+- 입체화학: 거울상선택적
+- 비고: p.27, 29
+
+### Rawal형 diene + 2-치환 acrolein
+
+- 시약/조건: TADDOL 7, toluene, -80 °C; LiAlH4; HF
+- 생성물: 4,4-이치환 cyclohexenone
+- regioselectivity: –
+- 입체화학: 73–92% ee
+- 비고: H-결합 촉매 (p.28)
+
+### SPAAC
+
+- 시약/조건: azide + cyclooctyne
+- 생성물: triazole
+- regioselectivity: –
+- 입체화학: –
+- 비고: Cu-free (p.30)
+
+### IEDDA
+
+- 시약/조건: tetrazine + TCO
+- 생성물: dihydropyridazine + N2
+- regioselectivity: –
+- 입체화학: –
+- 비고: 역-DA로 N2 방출 (p.30)
+
 
 ---
 

@@ -41,7 +41,7 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 ## 강의 노트 (`notes/`, 뼈대)
 
-강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 강의 흐름대로 길게 읽고 싶으면 **통독본**(`notes/통독/`)을 연다. 통독본은 2026-10-12 재구성 직전의 전체 강의 노트(교과서 보강 포함)를 보존한 사본이고, 소절마다 해당 개념 문서 링크가 붙어 있다. 이후의 수정은 개념 문서에만 반영되므로 최신 내용은 개념 문서가 기준이다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
+강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 강의 흐름대로 길게 읽고 싶으면 **통독본**(`notes/통독/`)을 연다. 통독본은 2026-10-12 재구성 직전의 전체 강의 노트(교과서 보강 포함)를 보존한 사본이고, 소절마다 해당 개념 문서 링크가 붙어 있다. 2026-10-18 요청에 따라 Test 2(L11–L17) 통독본에는 공식 강의 확인·보강 절과 그림을 추가했다. 상세 개념의 기준은 연결된 위키 문서다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
 
 | 강의 (뼈대) | 주제 | 통독본 | 시험 범위 |
 |---|---|---|---|
@@ -60,8 +60,8 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 | [L13](notes/L13_Cycloaddition_Part1.md) | 고리화 첨가 1 (딜스-알더 기초, FMO) | [통독](notes/통독/L13_Cycloaddition_Part1.md) | Test 2 |
 | [L14](notes/L14_Cycloaddition_Part2.md) | 고리화 첨가 2 (위치선택성, 루이스 산 촉매, [2+2] 등) | [통독](notes/통독/L14_Cycloaddition_Part2.md) | Test 2 |
 | [L15](notes/L15_Cycloaddition_Part3.md) | 고리화 첨가 3 (케텐 [2+2], 1,3-쌍극자 고리화 첨가) | [통독](notes/통독/L15_Cycloaddition_Part3.md) | Test 2 |
-| [L16](notes/L16_Sigmatropic_Rearrangements.md) | 시그마트로픽 자리옮김 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | [통독](notes/통독/L16_Sigmatropic_Rearrangements.md) | Test 2 |
-| [L17](notes/L17_Electrocyclic_Reactions.md) | 전자고리화 반응 (예습판: Clayden 35장 기반, 슬라이드 공개 후 갱신) | [통독](notes/통독/L17_Electrocyclic_Reactions.md) | Test 2 |
+| [L16](notes/L16_Sigmatropic_Rearrangements.md) | sigmatropic rearrangements (공식 L16 PDF 반영) | [통독](notes/통독/L16_Sigmatropic_Rearrangements.md) | Test 2 |
+| [L17](notes/L17_Electrocyclic_Reactions.md) | electrocyclic reactions (공식 L17 PDF 반영) | [통독](notes/통독/L17_Electrocyclic_Reactions.md) | Test 2 |
 
 시험 범위는 수정된 일정표(Revised schedule) 기준이다. Test 1은 1–5주차, Test 2는 6–10주차를 다루며 라디칼 화학은 Test 2에서 제외된다.
 
@@ -89,9 +89,10 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 - [Test 1 (2025) 문제 및 해설](practice/Test1_2025.md): 출제 경향 분석 포함
 - [Tutorial 1](practice/Tutorial_1.md), [Tutorial 2](practice/Tutorial_2.md), [Tutorial 3](practice/Tutorial_3.md): 공식 풀이와 해설
-- [Tutorial 4](practice/Tutorial_4.md): 공식 답이 없어 풀이를 제안함 (불확실한 부분 표시)
+- [Tutorial 4](practice/Tutorial_4.md): 공식 답안 반영 및 기존 Q2(b) 경로 정정
+- [Tutorial 5](practice/Tutorial_5.md), [Tutorial 6](practice/Tutorial_6.md): 원본 문제·풀이 제안. 공식 답 없음 및 미확정 구조를 명시함
 - [L10 Practice](practice/L10_Practice.md), [L12 Practice](practice/L12_Practice.md)
-- 강의별 연습 문제와 해설(노트에서 옮김): [L1](practice/L01_Exercises.md), [L2](practice/L02_Exercises.md), [L3](practice/L03_Exercises.md), [L4](practice/L04_Exercises.md), [L5](practice/L05_Exercises.md), [L6](practice/L06_Exercises.md), [L7](practice/L07_Exercises.md), [L8](practice/L08_Exercises.md), [L9](practice/L09_Exercises.md), [L10](practice/L10_Exercises.md), [L11](practice/L11_Exercises.md), [L12](practice/L12_Exercises.md), [L13](practice/L13_Exercises.md), [L14](practice/L14_Exercises.md), [L15](practice/L15_Exercises.md), [L16](practice/L16_Exercises.md), [L17](practice/L17_Exercises.md). L16–L17은 교과서 기반 자가 점검 문제다.
+- 강의별 연습 문제와 해설(노트에서 옮김): [L1](practice/L01_Exercises.md), [L2](practice/L02_Exercises.md), [L3](practice/L03_Exercises.md), [L4](practice/L04_Exercises.md), [L5](practice/L05_Exercises.md), [L6](practice/L06_Exercises.md), [L7](practice/L07_Exercises.md), [L8](practice/L08_Exercises.md), [L9](practice/L09_Exercises.md), [L10](practice/L10_Exercises.md), [L11](practice/L11_Exercises.md), [L12](practice/L12_Exercises.md), [L13](practice/L13_Exercises.md), [L14](practice/L14_Exercises.md), [L15](practice/L15_Exercises.md), [L16](practice/L16_Exercises.md), [L17](practice/L17_Exercises.md). L16–L17은 공식 강의 문제와 교재 기반 자가 점검을 구별해 담았다.
 
 공식 풀이에 의문이 있는 곳은 답을 바꾸지 않고 "검토 의견:"으로 따로 적었다.
 
@@ -106,3 +107,7 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 export RESHIKI=/path/to/reshiki        # ReShiki 실행 파일 (Linux x64 nightly에서 확인)
 python3 tools/chemfig.py figures/L01/bromonium_step1.json
 ```
+
+### Test 2 보강 그림의 출처
+
+2026-10-18 보강에는 새 ReShiki 도식과 강의·제공 답안·교재 원본 도식 발췌가 함께 있다. `figures/L##/source/`와 `figures/tutorials/`의 PNG는 원본 구조와 입체표기를 보존한 발췌이며, 새로 그린 그림이라고 표시하지 않는다. 원본 파일명·PDF 쪽수·교재 인쇄 쪽수·SHA-256과 발췌 방법은 [출처 목록](figures/test2_source_manifest.json)에 있다. 복잡한 구조는 확대해서 확인할 수 있다.

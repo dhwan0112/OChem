@@ -1,6 +1,6 @@
 # L16. 시그마트로픽 자리옮김 (Sigmatropic rearrangements)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L16 뼈대](../L16_Sigmatropic_Rearrangements.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L16 뼈대](../L16_Sigmatropic_Rearrangements.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -9,9 +9,44 @@
 
 
 
-> 이 노트는 슬라이드 공개 전에 Clayden 2판 35장과 Wade 8판으로 만든 **예습판**이다. 강의 슬라이드가 나오면 슬라이드 기준으로 다시 정리한다. 슬라이드와 다르면 슬라이드를 따른다.
+> **2026-10-18 강의 반영:** 앞의 강의 확인·보강 절과 그림은 공식 PDF를 근거로 추가했다. 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
 
-CM3121 Advanced Organic Chemistry (10/16 강의 예습)
+CM3121 Advanced Organic Chemistry — 공식 강의 반영 및 교재 보충 (2026-10-18)
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## 공식 L16: TS, driving force, hydrogen shift — 강의 확인·보강
+
+공개된 강의는 [3,3] Claisen/Ireland–Claisen/Cope/oxy-Cope, C·S·Se의 [2,3], [1,5]/[1,7]H 이동 순서다. 아래의 교재 보충은 유지하되 강의 범위의 기준은 이제 PDF p.3–26이다. [i,j]의 숫자는 전자 수가 아니라 옛 결합과 새 결합 사이의 위치를 세는 수다. (출처: L16 p.3,26)
+
+Claisen의 chair orbital 그림은 겹침의 기하를 보여 주며 특정 HOMO/LUMO 그림 자체는 아니다. 큰 치환기의 equatorial 선호가 E 생성물을 설명하고, carbonyl 결합의 안정성이 진행 방향을 민다. acetal/orthoester/orthoamide를 바꾸어도 [3,3] 추적은 같지만 마지막 aldehyde/ketone/ester/amide는 달라진다. (출처: L16 p.4–12)
+
+Cope는 strain 해소와 conjugation 같은 추진력을 확인한다. oxy-Cope의 중성 경로와 anionic 경로는 enol과 enolate를 구별하고, KH와 H+ 후처리의 역할을 각각 그린다. SeO2는 ene → [2,3] → 분해/추가 산화로 이어지며 첫 단계를 보통의 [4+2] cycloaddition으로 분류하지 않는다. (출처: L16 p.13–20)
+
+thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말단 위상과 실제 사슬의 도달 가능성을 함께 확인해 설명한다. vitamin D의 마지막 thermal [1,7]과 앞의 광화학 ring opening은 서로 다른 단계다. (출처: L16 p.21–25; L17 p.17–18)
+
+더 읽기: [Claisen](../../wiki/반응/클라이젠%20자리옮김.md), [Cope](../../wiki/반응/코프%20자리옮김.md), [hydrogen shifts](../../wiki/반응/1,5-수소%20이동.md), [Tutorial 6](../../practice/Tutorial_6.md).
+
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p06.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.6)
+
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p11.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.11)
+
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p20.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.20)
+
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/hydrogen_shift_terminal_phases.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
+
+![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/source/L16_p25.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L16 p.25)
+
 
 ## 개요
 
@@ -444,30 +479,171 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 - "[1,5]H 이동은 cyclopentadiene에서만 일어난다": (*E*,*Z*)-diene 같은 사슬형 계에서도 쉽게 일어난다. (출처: Clayden p.921)
 - "비타민 D 합성의 [1,7]H 이동에 빛이 필요하다": 빛이 필요한 것은 그 앞의 전자고리화 고리 열림이고, [1,7]H 이동 자체는 열적(대면)이다. (출처: Clayden p.921–922)
 
-## 반응 요약표
+## 반응별 조건과 추진력
 
-| 반응 | 출발물 → 생성물 | 조건 | 추진력 | 입체화학 | 출처 |
-|---|---|---|---|---|---|
-| 방향족 Claisen | $\text{allyl 아릴 ether} \longrightarrow \mathit{o}\ \text{-allylphenol}$ | 가열 | 방향족성 tautomerization | allyl group inside-out | Clayden p.909–910 |
-| 지방족 Claisen | $\text{allyl 바이닐 ether} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$ | 가열 | C=O 생성 | 의자형 TS, *E* | p.910–911 |
-| acetal 교환 + Claisen | $\text{allyl alcohol} + \mathrm{MeCH(OMe)_2} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$ | EtCO2H, 가열(MeOH 증류) | 위와 같음 | *E* | p.911 |
-| orthoester·orthoamide 변형 | $\begin{aligned} & \text{allyl alcohol} + \mathrm{RC(OMe)_3}\ \text{또는}\ \mathrm{DMF}\ \text{dimethyl acetal} \\ & \longrightarrow \gamma,\delta\ \text{-unsaturated ester·amide} \end{aligned}$ | 산, 가열 | 위와 같음 | – | p.912 |
-| Cope(모체) | $\text{헥사-1,5-diene} \longrightarrow \text{자기 자신}$ | 가열 | 없음(축퇴) | – | p.913 |
-| 옥시-Cope | $\text{헥사-1,5-diene-3-ol} \longrightarrow \text{헥스-5-enal}$ | 가열(느림) | enol → C=O | – | p.913–914 |
-| anion 옥시-Cope | $\begin{aligned} & \text{같은 alcohol} \\ & \longrightarrow \text{칼륨 enolate} \\ & \longrightarrow \text{aldehyde} \end{aligned}$ | KH, 가열; H⁺/H2O | enolate 안정화 | 빠름 | p.914 |
-| 아일랜드-Claisen | $\text{allyl ester} \longrightarrow \gamma,\delta\ \text{-unsaturated carboxylic acid}$ | LDA(필요하면 Me3SiCl); H⁺/H2O | carboxylate 생성 | *E* | p.914 |
-| 긴장 해소 Cope | $\text{3원 고리 포함 1,5-diene} \longrightarrow \text{고리 확장 생성물}$ | 33 °C, 36 h (100%) | 고리 긴장 해소 | – | p.915 |
-| 시트랄 합성 | enol ether → (Claisen) → (Cope) → 시트랄 | 가열 | C=O, 콘쥬게이션, 삼치환 alkene | – | p.915 |
-| 피셔 인돌 | $\begin{aligned} & \text{phenylhydrazone(enamine형)} \\ & \longrightarrow \text{diimine} \\ & \longrightarrow \text{인돌} \end{aligned}$ | 약산, 가열 | 약한 N–N 절단, 방향족화 | – | p.916 |
-| 크로뮴산 ester [3,3] | $\text{3차 allyl alcohol} \longrightarrow \text{자리 옮긴 enone}$ | CrO3, H⁺ | Cr(VI) 산화 | – | p.916–917 |
-| [2,3] 탄소 anion | $\text{benzyl allyl ether} \longrightarrow \text{호모알릴 alcohol}$ | BuLi; H⁺ | 탄소 anion → alkoxide | *E* | p.917 |
-| [2,3] 황 | $\begin{aligned} & \text{allyl alcohol} \\ & \longrightarrow \text{설펜산 ester} \\ & \longrightarrow \text{allyl sulfoxide} \end{aligned}$ | PhSCl, pyridine | S=O 생성 | – | p.918 |
-| 역 [2,3] 황 | $\text{alkylate된 allyl sulfoxide} \longrightarrow \text{allyl alcohol}$ | (MeO)3P, MeOH | 친황 포획 | – | p.918 |
-| SeO2 allyl 산화 | $\text{alkene} \longrightarrow \text{allyl alcohol}\ \mathrm{/}\ \text{엔알}$ | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | – | p.919 |
-| [1,5]H 이동 | $\text{5-R-cyclopentadiene} \rightleftharpoons \mathrm{1{-}R},\ \mathrm{2{-}R}\ \text{이성질체}$ | 빠른 평형(DA보다 빠를 수 있음) | 더 치환된 diene | 초면 | p.919–921 |
-| [1,7]H 이동 | 프로비타민 D2 → 비타민 D2 | 열(빛 불필요) | – | 대면 | p.921–922 |
+### 방향족 Claisen
 
----
+$\text{allyl 아릴 ether} \longrightarrow \mathit{o}\ \text{-allylphenol}$
+
+- 조건: 가열
+- 추진력: 방향족성 tautomerization
+- 입체화학: allyl group inside-out
+- 출처: Clayden p.909–910
+
+### 지방족 Claisen
+
+$\text{allyl 바이닐 ether} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$
+
+- 조건: 가열
+- 추진력: C=O 생성
+- 입체화학: 의자형 TS, *E*
+- 출처: p.910–911
+
+### acetal 교환 + Claisen
+
+$\text{allyl alcohol} + \mathrm{MeCH(OMe)_2} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$
+
+- 조건: EtCO2H, 가열(MeOH 증류)
+- 추진력: 위와 같음
+- 입체화학: *E*
+- 출처: p.911
+
+### orthoester·orthoamide 변형
+
+$\begin{aligned} & \text{allyl alcohol} + \mathrm{RC(OMe)_3}\ \text{또는}\ \mathrm{DMF}\ \text{dimethyl acetal} \\ & \longrightarrow \gamma,\delta\ \text{-unsaturated ester·amide} \end{aligned}$
+
+- 조건: 산, 가열
+- 추진력: 위와 같음
+- 입체화학: –
+- 출처: p.912
+
+### Cope(모체)
+
+$\text{헥사-1,5-diene} \longrightarrow \text{자기 자신}$
+
+- 조건: 가열
+- 추진력: 없음(축퇴)
+- 입체화학: –
+- 출처: p.913
+
+### 옥시-Cope
+
+$\text{헥사-1,5-diene-3-ol} \longrightarrow \text{헥스-5-enal}$
+
+- 조건: 가열(느림)
+- 추진력: enol → C=O
+- 입체화학: –
+- 출처: p.913–914
+
+### anion 옥시-Cope
+
+$\begin{aligned} & \text{같은 alcohol} \\ & \longrightarrow \text{칼륨 enolate} \\ & \longrightarrow \text{aldehyde} \end{aligned}$
+
+- 조건: KH, 가열; H⁺/H2O
+- 추진력: enolate 안정화
+- 입체화학: 빠름
+- 출처: p.914
+
+### 아일랜드-Claisen
+
+$\text{allyl ester} \longrightarrow \gamma,\delta\ \text{-unsaturated carboxylic acid}$
+
+- 조건: LDA(필요하면 Me3SiCl); H⁺/H2O
+- 추진력: carboxylate 생성
+- 입체화학: *E*
+- 출처: p.914
+
+### 긴장 해소 Cope
+
+$\text{3원 고리 포함 1,5-diene} \longrightarrow \text{고리 확장 생성물}$
+
+- 조건: 33 °C, 36 h (100%)
+- 추진력: 고리 긴장 해소
+- 입체화학: –
+- 출처: p.915
+
+### 시트랄 합성
+
+enol ether → (Claisen) → (Cope) → 시트랄
+
+- 조건: 가열
+- 추진력: C=O, 콘쥬게이션, 삼치환 alkene
+- 입체화학: –
+- 출처: p.915
+
+### 피셔 인돌
+
+$\begin{aligned} & \text{phenylhydrazone(enamine형)} \\ & \longrightarrow \text{diimine} \\ & \longrightarrow \text{인돌} \end{aligned}$
+
+- 조건: 약산, 가열
+- 추진력: 약한 N–N 절단, 방향족화
+- 입체화학: –
+- 출처: p.916
+
+### 크로뮴산 ester [3,3]
+
+$\text{3차 allyl alcohol} \longrightarrow \text{자리 옮긴 enone}$
+
+- 조건: CrO3, H⁺
+- 추진력: Cr(VI) 산화
+- 입체화학: –
+- 출처: p.916–917
+
+### [2,3] 탄소 anion
+
+$\text{benzyl allyl ether} \longrightarrow \text{호모알릴 alcohol}$
+
+- 조건: BuLi; H⁺
+- 추진력: 탄소 anion → alkoxide
+- 입체화학: *E*
+- 출처: p.917
+
+### [2,3] 황
+
+$\begin{aligned} & \text{allyl alcohol} \\ & \longrightarrow \text{설펜산 ester} \\ & \longrightarrow \text{allyl sulfoxide} \end{aligned}$
+
+- 조건: PhSCl, pyridine
+- 추진력: S=O 생성
+- 입체화학: –
+- 출처: p.918
+
+### 역 [2,3] 황
+
+$\text{alkylate된 allyl sulfoxide} \longrightarrow \text{allyl alcohol}$
+
+- 조건: (MeO)3P, MeOH
+- 추진력: 친황 포획
+- 입체화학: –
+- 출처: p.918
+
+### SeO2 allyl 산화
+
+$\text{alkene} \longrightarrow \text{allyl alcohol}\ \mathrm{/}\ \text{엔알}$
+
+- 조건: SeO2 (촉매 + t-BuOOH)
+- 추진력: ene reaction 후 [2,3]
+- 입체화학: –
+- 출처: p.919
+
+### [1,5]H 이동
+
+$\text{5-R-cyclopentadiene} \rightleftharpoons \mathrm{1{-}R},\ \mathrm{2{-}R}\ \text{이성질체}$
+
+- 조건: 빠른 평형(DA보다 빠를 수 있음)
+- 추진력: 더 치환된 diene
+- 입체화학: 초면
+- 출처: p.919–921
+
+### [1,7]H 이동
+
+프로비타민 D2 → 비타민 D2
+
+- 조건: 열(빛 불필요)
+- 추진력: –
+- 입체화학: 대면
+- 출처: p.921–922
+
+(보충 근거: Clayden p.909–922; 강의 대조: L16 p.4–25)
 
 ## 자가 점검 문제
 

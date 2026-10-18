@@ -1,6 +1,6 @@
 # L13. 고리화 첨가 반응 1부: Diels–Alder 반응 (Cycloadditions, Part 1)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L13 뼈대](../L13_Cycloaddition_Part1.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L13 뼈대](../L13_Cycloaddition_Part1.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -11,6 +11,31 @@
 
 
 CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## Diels–Alder: 연결·기하·endo를 분리한다 — 강의 확인·보강
+
+한 번의 concerted [4+2]에서 새 $\sigma$ 결합 두 개와 남는 C=C 하나를 함께 그린다. diene의 가운데 결합은 생성물의 C=C가 되고, diene은 실제로 s-cis 배치를 만들 수 있어야 한다. 평면 종이에 s-trans로 그려져 있다는 사실과 s-cis로 회전할 수 없다는 사실은 다르다. (출처: L13 p.10–18)
+
+입체화학은 두 층이다. 각 성분이 suprafacial로 반응하므로 dienophile의 cis/trans는 보존된다. 그 위에서 diene과의 상대 접근을 endo/exo로 고른다. cis를 유지했다는 말만으로 endo가 증명되거나, endo라는 말만으로 모든 쐐기를 결정할 수는 없다. FMO의 위상은 허용성, 에너지 간격은 반응성, 큰 orbital 계수의 짝은 regioselectivity에 각각 답한다. (출처: L13 p.13–24; L14 p.3,10–17)
+
+WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. [4+2]의 여섯 전자가 열적으로 허용이라는 결론은 supra–supra 성분이라는 맥락에서 쓴다. 다른 pericyclic 반응에 숫자 6만 그대로 옮기지 않는다. (출처: L13 p.33–35)
+
+더 읽기: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [endo rule](../../wiki/개념/endo%20규칙.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md).
+
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p19.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.19)
+
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p22.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.22)
+
+![Diels–Alder: 연결·기하·endo를 분리한다](../../figures/L13/source/L13_p33.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L13 p.33)
+
 
 ## 개요
 
@@ -288,28 +313,168 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 ## 반응 정리표
 
-| 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
-|---|---|---|---|---|---|
-| butadiene + ethylene | 165 °C, 17 h, 900 atm | cyclohexene (78%) | 해당 없음 | 해당 없음 | 활성화되지 않은 dienophile이라 가혹한 조건 필요 (p.7, 14) |
-| 2,3-dimethylbutadiene + acrolein | 열 | 3,4-dimethylcyclohex-3-ene-1-carbaldehyde | 대칭 diene이라 해당 없음 | 새 입체중심 1개(라셈) | (p.8) |
-| cyclopentadiene + nitroethylene | 열 | 5-nitronorbornene | 해당 없음 | endo/exo 가능 | 다리 걸친 이중 고리 (p.8) |
-| butadiene + acrolein | 150 °C, 0.5 h | cyclohex-3-ene-1-carbaldehyde | 해당 없음 | 라셈 | EWG 1개라 빠름 (p.14) |
-| butadiene + CH2=C(CO2Me)2 | 25 °C, 24 h | dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%) | 해당 없음 | 비카이랄 | EWG 2개라 상온에서 반응 (p.14) |
-| butadiene + methyl acrylate | 열 | methyl cyclohex-3-ene-1-carboxylate | 해당 없음 | 라셈 | s-cis 형태에서만 반응 (p.15) |
-| cyclopentadiene + acrolein | 20 °C, 68 h | 5-norbornene-2-carbaldehyde (92%) | 해당 없음 | endo로 그려짐 | s-cis 고정 diene이라 상온 반응 (p.16) |
-| cyclopentadiene 2분자 (이량화) | 상온, 몇 시간 | endo-dicyclopentadiene | 해당 없음 | endo | 가열·증류하면 역 DA로 단량체(b.p. 42 °C) 회수 (p.18, 29) |
-| hexachlorocyclopentadiene + maleic anhydride | 열 | 육염소 norbornene 무수물 | 해당 없음 | cis-무수물 | 난연제 (p.18) |
-| butadiene + maleic anhydride | 열 | cis-1,2,3,6-tetrahydrophthalic anhydride | 해당 없음 | cis(입체특이적) | $6\pi$ 방향족성 TS, 초면-초면 (p.12) |
-| butadiene + dimethyl maleate (Z) | 열 | cis-cyclohex-4-ene-1,2-diester | 해당 없음 | syn(cis) | 입체특이적 (p.19, 28) |
-| butadiene + dimethyl fumarate (E) | 열 | trans-cyclohex-4-ene-1,2-diester | 해당 없음 | anti(trans), 라셈 | 입체특이적 (p.19, 28) |
-| (E,E)-1,4-diphenylbutadiene + DMAD | 열 | cis-3,6-diphenylcyclohexa-1,4-diene-1,2-diester | 해당 없음 | 두 Ph cis("out"/"out") | alkyne dienophile (p.20) |
-| (E,Z)-RCH=CH-CH=CHR + DMAD | 열 | trans-3,6-disubstituted cyclohexa-1,4-diene diester | 해당 없음 | 두 R trans("in"/"out") | (p.20, 28) |
-| (E,E)-hexa-2,4-diene + DMAD / (E,Z) + DMAD | 열 | 3,6-dimethylcyclohexa-1,4-diene-1,2-diester | 해당 없음 | (E,E)는 syn, (E,Z)는 anti | (p.28) |
-| cyclopentadiene + maleic anhydride | 열 | endo 부가물 | 해당 없음 | endo만 생성 | 2차 오비탈 겹침 (p.21) |
-| (E,E)-hexa-2,4-diene + acrolein | 열 | all-cis 2,5-dimethylcyclohex-3-ene-1-carbaldehyde | 대칭 diene | endo: CHO와 두 Me 모두 cis | (p.23–24) |
-| butadiene 2분자 | 가열 | 4-vinylcyclohexene ([4+2]); cycloocta-1,5-diene([4+4])는 생기지 않음 | 해당 없음 | 해당 없음 | [$\pi4\mathrm{s}$+$\pi2\mathrm{s}$]는 허용, [$\pi4\mathrm{s}$+$\pi4\mathrm{s}$]는 금지 (p.30, 36) |
-| (비교) 2-methylcyclohexane-1,3-dione + MVK | 10% NaOH 후 piperidine/가열(−H2O), 또는 EtONa/가열(one-pot) | 이중 고리 enone | Michael → aldol | 4차 탄소 1개 | 극성 메커니즘 (p.6) |
-| (비교) I(CH2)4CH=CHCO2Me + CH3NO2 | Cs2CO3, DMF, 20 °C | 2-(2-nitrocyclohexyl)acetic acid methyl ester (65%) | nitro-Michael → 분자 내 SN2 | 표시 없음 | 극성 메커니즘 (p.6) |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### butadiene + ethylene
+
+- 시약/조건: 165 °C, 17 h, 900 atm
+- 생성물: cyclohexene (78%)
+- regioselectivity: 해당 없음
+- 입체화학: 해당 없음
+- 비고: 활성화되지 않은 dienophile이라 가혹한 조건 필요 (p.7, 14)
+
+### 2,3-dimethylbutadiene + acrolein
+
+- 시약/조건: 열
+- 생성물: 3,4-dimethylcyclohex-3-ene-1-carbaldehyde
+- regioselectivity: 대칭 diene이라 해당 없음
+- 입체화학: 새 입체중심 1개(라셈)
+- 비고: (p.8)
+
+### cyclopentadiene + nitroethylene
+
+- 시약/조건: 열
+- 생성물: 5-nitronorbornene
+- regioselectivity: 해당 없음
+- 입체화학: endo/exo 가능
+- 비고: 다리 걸친 이중 고리 (p.8)
+
+### butadiene + acrolein
+
+- 시약/조건: 150 °C, 0.5 h
+- 생성물: cyclohex-3-ene-1-carbaldehyde
+- regioselectivity: 해당 없음
+- 입체화학: 라셈
+- 비고: EWG 1개라 빠름 (p.14)
+
+### butadiene + CH2=C(CO2Me)2
+
+- 시약/조건: 25 °C, 24 h
+- 생성물: dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%)
+- regioselectivity: 해당 없음
+- 입체화학: 비카이랄
+- 비고: EWG 2개라 상온에서 반응 (p.14)
+
+### butadiene + methyl acrylate
+
+- 시약/조건: 열
+- 생성물: methyl cyclohex-3-ene-1-carboxylate
+- regioselectivity: 해당 없음
+- 입체화학: 라셈
+- 비고: s-cis 형태에서만 반응 (p.15)
+
+### cyclopentadiene + acrolein
+
+- 시약/조건: 20 °C, 68 h
+- 생성물: 5-norbornene-2-carbaldehyde (92%)
+- regioselectivity: 해당 없음
+- 입체화학: endo로 그려짐
+- 비고: s-cis 고정 diene이라 상온 반응 (p.16)
+
+### cyclopentadiene 2분자 (이량화)
+
+- 시약/조건: 상온, 몇 시간
+- 생성물: endo-dicyclopentadiene
+- regioselectivity: 해당 없음
+- 입체화학: endo
+- 비고: 가열·증류하면 역 DA로 단량체(b.p. 42 °C) 회수 (p.18, 29)
+
+### hexachlorocyclopentadiene + maleic anhydride
+
+- 시약/조건: 열
+- 생성물: 육염소 norbornene 무수물
+- regioselectivity: 해당 없음
+- 입체화학: cis-무수물
+- 비고: 난연제 (p.18)
+
+### butadiene + maleic anhydride
+
+- 시약/조건: 열
+- 생성물: cis-1,2,3,6-tetrahydrophthalic anhydride
+- regioselectivity: 해당 없음
+- 입체화학: cis(입체특이적)
+- 비고: $6\pi$ 방향족성 TS, 초면-초면 (p.12)
+
+### butadiene + dimethyl maleate (Z)
+
+- 시약/조건: 열
+- 생성물: cis-cyclohex-4-ene-1,2-diester
+- regioselectivity: 해당 없음
+- 입체화학: syn(cis)
+- 비고: 입체특이적 (p.19, 28)
+
+### butadiene + dimethyl fumarate (E)
+
+- 시약/조건: 열
+- 생성물: trans-cyclohex-4-ene-1,2-diester
+- regioselectivity: 해당 없음
+- 입체화학: anti(trans), 라셈
+- 비고: 입체특이적 (p.19, 28)
+
+### (E,E)-1,4-diphenylbutadiene + DMAD
+
+- 시약/조건: 열
+- 생성물: cis-3,6-diphenylcyclohexa-1,4-diene-1,2-diester
+- regioselectivity: 해당 없음
+- 입체화학: 두 Ph cis("out"/"out")
+- 비고: alkyne dienophile (p.20)
+
+### (E,Z)-RCH=CH-CH=CHR + DMAD
+
+- 시약/조건: 열
+- 생성물: trans-3,6-disubstituted cyclohexa-1,4-diene diester
+- regioselectivity: 해당 없음
+- 입체화학: 두 R trans("in"/"out")
+- 비고: (p.20, 28)
+
+### (E,E)-hexa-2,4-diene + DMAD / (E,Z) + DMAD
+
+- 시약/조건: 열
+- 생성물: 3,6-dimethylcyclohexa-1,4-diene-1,2-diester
+- regioselectivity: 해당 없음
+- 입체화학: (E,E)는 syn, (E,Z)는 anti
+- 비고: (p.28)
+
+### cyclopentadiene + maleic anhydride
+
+- 시약/조건: 열
+- 생성물: endo 부가물
+- regioselectivity: 해당 없음
+- 입체화학: endo만 생성
+- 비고: 2차 오비탈 겹침 (p.21)
+
+### (E,E)-hexa-2,4-diene + acrolein
+
+- 시약/조건: 열
+- 생성물: all-cis 2,5-dimethylcyclohex-3-ene-1-carbaldehyde
+- regioselectivity: 대칭 diene
+- 입체화학: endo: CHO와 두 Me 모두 cis
+- 비고: (p.23–24)
+
+### butadiene 2분자
+
+- 시약/조건: 가열
+- 생성물: 4-vinylcyclohexene ([4+2]); cycloocta-1,5-diene([4+4])는 생기지 않음
+- regioselectivity: 해당 없음
+- 입체화학: 해당 없음
+- 비고: [$\pi4\mathrm{s}$+$\pi2\mathrm{s}$]는 허용, [$\pi4\mathrm{s}$+$\pi4\mathrm{s}$]는 금지 (p.30, 36)
+
+### (비교) 2-methylcyclohexane-1,3-dione + MVK
+
+- 시약/조건: 10% NaOH 후 piperidine/가열(−H2O), 또는 EtONa/가열(one-pot)
+- 생성물: 이중 고리 enone
+- regioselectivity: Michael → aldol
+- 입체화학: 4차 탄소 1개
+- 비고: 극성 메커니즘 (p.6)
+
+### (비교) I(CH2)4CH=CHCO2Me + CH3NO2
+
+- 시약/조건: Cs2CO3, DMF, 20 °C
+- 생성물: 2-(2-nitrocyclohexyl)acetic acid methyl ester (65%)
+- regioselectivity: nitro-Michael → 분자 내 SN2
+- 입체화학: 표시 없음
+- 비고: 극성 메커니즘 (p.6)
+
 
 ## 연습 문제
 

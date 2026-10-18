@@ -28,9 +28,9 @@ allyl 위치의 C–H는 benzyl 위치처럼 공명으로 안정화되는 특별
 
 ## 메커니즘: pericyclic 반응 두 번
 
-L6에서 미뤄 둔 메커니즘은 L16(예습판, Clayden 기반)에서 나온다. SeO₂ allyl 산화는 사실 pericyclic 반응 두 번이다. (출처: Clayden p.919)
+L6에서 미뤄 둔 메커니즘은 L16(교재 보충, Clayden 기반)에서 나온다. SeO₂ allyl 산화는 사실 pericyclic 반응 두 번이다. (출처: Clayden p.919)
 
-1. **ene 반응과 비슷한 [4+2]:** SeO₂가 alkene과 반응해 allyl seleninic acid가 생긴다.
+1. **ene reaction:** SeO₂가 alkene과 반응해 allyl seleninic acid가 생긴다.
 2. **[2,3] rearrangement:** allyl seleninic acid는 allyl sulfoxide처럼(C–Se 결합이 더 약해서 더 쉽게) [2,3] sigmatropic rearrangement를 해 불안정한 Se(II) ester가 되고, 이것이 곧 분해되어 allylic alcohol이 된다(→ [2,3-sigmatropic rearrangement](../반응/2,3-시그마트로픽%20자리옮김.md)).
 3. 특히 methyl group은 산화가 더 진행되어 aldehyde(또는 ketone)가 되기도 한다.
 
@@ -50,6 +50,13 @@ L6에서 미뤄 둔 메커니즘은 L16(예습판, Clayden 기반)에서 나온�
 - "SeO₂도 benzyl methyl을 산화한다": 듣지 않는다. (출처: L6c p.18)
 - "SeO₂는 allyl methyl을 산까지 산화한다": 슬라이드의 생성물은 enal(CHO)이다.
 
+
+## 그림으로 확인하기
+
+![SeO2 ene 및 2,3 rearrangement 공식 메커니즘](../../figures/L16/source/L16_p20.png)
+
+그림: 먼저 allylic H 이동과 C–Se 결합 형성이 일어나는 ene 단계, 이어 [2,3], 분해와 추가 산화다. (출처: L16 p.20)
+
 ## 관련 문서
 
 - 비교 시약: [KMnO4](KMnO4.md), [MnO2](MnO2.md), [LiAlH4](LiAlH4.md)
@@ -59,4 +66,4 @@ L6에서 미뤄 둔 메커니즘은 L16(예습판, Clayden 기반)에서 나온�
 ## 출처
 
 - [L6 산화와 alkene 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 4절
-- [L16 sigmatropic rearrangement](../../notes/L16_Sigmatropic_Rearrangements.md) (예습판, Clayden p.919 기반)
+- [L16 sigmatropic rearrangement](../../notes/통독/L16_Sigmatropic_Rearrangements.md) (교재 보충, Clayden p.919 기반)

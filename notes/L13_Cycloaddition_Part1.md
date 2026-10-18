@@ -4,7 +4,7 @@
 
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
 > - 반응: [1,3-dipolar cycloaddition](../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [Michael reaction](../wiki/반응/마이클%20반응.md), [retro-Diels–Alder reaction](../wiki/반응/역%20딜스-알더%20반응.md), [Robinson annulation](../wiki/반응/로빈슨%20고리%20형성.md)
-> - 개념: [aromaticity](../wiki/개념/방향족성.md), [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [endo rule](../wiki/개념/endo%20규칙.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [s-cis conformation](../wiki/개념/s-cis%20형태.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
+> - 개념: [aromaticity](../wiki/개념/방향족성.md), [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [electrophile and nucleophile](../wiki/개념/친전자체와%20친핵체.md), [endo rule](../wiki/개념/endo%20규칙.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [pericyclic reaction](../wiki/개념/페리고리%20반응.md), [s-cis conformation](../wiki/개념/s-cis%20형태.md), [stereospecificity and stereoselectivity](../wiki/개념/입체특이성과%20입체선택성.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [Test 2 reaction checklist](../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md)
 
 <!-- wiki-links:end -->
 

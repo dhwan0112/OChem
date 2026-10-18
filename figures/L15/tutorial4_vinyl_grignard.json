@@ -1,0 +1,19 @@
+{
+ "title": "Tutorial4 Q2(b): official aldehyde + vinylmagnesium bromide route (Tutorial 4_answers p.1)",
+ "scheme": {
+  "width_pt": 510,
+  "reactions": [
+   {
+    "reactants": [
+     "O=C([H])CCC/C=C/C=C",
+     "[H]C([H])=C([H])[Mg]Br"
+    ],
+    "products": [
+     "[H]C([H])=C([H])C([H])(O)CCC/C=C/C=C"
+    ],
+    "conditions": "then H+",
+    "title": "C is an allylic alcohol"
+   }
+  ]
+ }
+}

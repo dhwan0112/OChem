@@ -5,7 +5,7 @@
 > **관련 위키 문서** ([위키 대문](../wiki/위키%20대문.md))
 > - 반응: [acetal formation](../wiki/반응/아세탈%20형성.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md), [hydrogenolysis](../wiki/반응/수소화분해.md), [nucleophilic acyl substitution](../wiki/반응/친핵성%20아실%20치환.md), [peptide synthesis](../wiki/반응/펩타이드%20합성.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 > - 시약: [benzyl ether protecting group](../wiki/시약/벤질%20에터%20보호기.md), [Boc protecting group](../wiki/시약/Boc%20보호기.md), [Cbz protecting group](../wiki/시약/Cbz%20보호기.md), [DCC](../wiki/시약/DCC.md), [Fmoc protecting group](../wiki/시약/Fmoc%20보호기.md), [Grignard reagent](../wiki/시약/그리냐르%20시약.md), [Pd/C](../wiki/시약/Pd-C.md), [silyl ether protecting group](../wiki/시약/실릴%20에터%20보호기.md), [TFA](../wiki/시약/TFA.md), [THP protecting group](../wiki/시약/THP%20보호기.md)
-> - 개념: [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [carbocation](../wiki/개념/탄소%20양이온.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [orthogonal protection](../wiki/개념/직교%20보호.md), [protecting group](../wiki/개념/보호기.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
+> - 개념: [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [carbocation](../wiki/개념/탄소%20양이온.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [orthogonal protection](../wiki/개념/직교%20보호.md), [protecting group](../wiki/개념/보호기.md), [Test 2 reaction checklist](../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
 
 <!-- wiki-links:end -->
 

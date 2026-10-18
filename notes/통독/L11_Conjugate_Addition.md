@@ -1,6 +1,6 @@
 # L11. 짝지음 첨가 (Conjugate Addition)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L11 뼈대](../L11_Conjugate_Addition.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L11 뼈대](../L11_Conjugate_Addition.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -9,6 +9,31 @@
 > - 시약: [LDA](../../wiki/시약/LDA.md), [LiAlH4](../../wiki/시약/LiAlH4.md), [NaBH4](../../wiki/시약/NaBH4.md), [Pd/C](../../wiki/시약/Pd-C.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md), [alkoxide base](../../wiki/시약/알콕사이드%20염기.md), [organocuprate](../../wiki/시약/유기구리%20시약.md), [pyrrolidine](../../wiki/시약/피롤리딘.md)
 > - 개념: [1,2-addition vs 1,4-addition](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [E1cB elimination](../../wiki/개념/E1cB%20제거.md), [Meisenheimer complex](../../wiki/개념/마이젠하이머%20착물.md), [aromaticity](../../wiki/개념/방향족성.md), [kinetic vs thermodynamic enolate](../../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [kinetic vs thermodynamic control](../../wiki/개념/속도론적%20지배와%20열역학적%20지배.md), [enamine](../../wiki/개념/엔아민.md), [enol and enolate](../../wiki/개념/엔올과%20엔올레이트.md), [iminium ion](../../wiki/개념/이미늄%20이온.md), [imine](../../wiki/개념/이민.md), [electrophile and nucleophile](../../wiki/개념/친전자체와%20친핵체.md), [hard and soft acids and bases (HSAB)](../../wiki/개념/하드-소프트%20산염기.md)
 
+
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## Conjugate addition: 반응 자리와 donor 선택 — 강의 확인·보강
+
+alkene이 nucleophile이라는 앞 단원의 직관을 잠시 내려놓아야 한다. conjugated EWG가 있으면 $\beta$-탄소도 electrophile이 된다. 1,2와 1,4를 가르는 첫 단서는 nucleophile의 hard/soft 성격이지만, 받개 carbonyl의 종류·counterion·온도까지 읽어야 한다. 같은 MVK/CN 계의 저온 1,2와 높은 온도 1,4는 빠른 경로와 안정한 생성물을 구별하는 사례다. (출처: L11 p.3,9–13)
+
+Michael product에서는 donor carbonyl–donor $\alpha$-C–acceptor $\beta$-C–acceptor $\alpha$-C–acceptor carbonyl 순서로 다섯 자리를 센다. 그래서 역합성에서 끊을 새 C–C 결합은 2–3 결합이다. enolate인지 enamine인지에 따라 hydrolysis까지의 intermediate는 다르지만, 최종 carbonyl을 회복해야 한다는 검산은 같다. (출처: L11 p.14–19)
+
+iminium catalysis는 enamine donor 활성화와 역할이 반대다. 여기서는 acceptor가 iminium이 되어 electrophilicity가 커진다. 이어지는 SNAr는 같은 addition–elimination 생각을 aromatic 계로 확장한 것이다. EWG가 ortho/para에서 음전하를 받아 주고 aromaticity가 다시 회복되는 두 단계를 그린다. (출처: L11 p.21–23)
+
+더 읽기: [1,2 vs 1,4](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [Michael reaction](../../wiki/반응/마이클%20반응.md), [iminium catalysis](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [SNAr](../../wiki/반응/친핵성%20방향족%20치환.md).
+
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p13.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.13)
+
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p16.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.16)
+
+![Conjugate addition: 반응 자리와 donor 선택](../../figures/L11/source/L11_p21.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L11 p.21)
 
 
 ## 개요
@@ -356,7 +381,8 @@ aldol이 가역이라는 점이 중요하다. aldol이 되었다가 되돌아오
 $$
 \begin{aligned}
 & \text{cyclohexanone} \xrightarrow{\mathrm{LDA}} \text{리튬 엔올레이트} \\
-& \qquad \xrightarrow{\ \mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}\ \mathstrut} \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone}
+& \xrightarrow{\ \mathrm{(\mathit{E})\text{-}CH_3CH{=}CH{-}CONMe_2}\ \mathstrut} \\
+& \text{2-}(\mathrm{CH(CH_3)CH_2CONMe_2})\text{cyclohexanone}
 \end{aligned}
 $$
 
@@ -655,34 +681,216 @@ $$
 
 ## 반응 정리표
 
-| 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
-|---|---|---|---|---|---|
-| thiol 첨가 | 메시틸 oxide + PhSH, 25 °C, 5 h | (CH3)2C(SPh)CH2COCH3 (94%) | 1,4 | 해당 없음 | 무른 nucleophile (p.4) |
-| 시안화 첨가 | 칼콘 + -CN, EtOH, HOAc | PhCH(CN)CH2COPh (95%) | 1,4 | 새 입체중심, 라세미(보충) | (p.4) |
-| amine 첨가 | 메시틸 oxide + MeNH2, H2O | (CH3)2C(NHMe)CH2COCH3 (75%) | 1,4 | 해당 없음 | $\begin{aligned} & \text{쌍극성 이온} \\ & \longrightarrow \text{enol} \\ & \longrightarrow \text{ketone}\ \mathrm{(p.5)} \end{aligned}$ |
-| cuprate 제조 | CuBr + 2 RLi, Et2O, -78 °C | R2CuLi + LiBr | – | – | 불안정, 즉시 사용 (p.6) |
-| Cu catalyst Grignard addition | isophorone + MeMgBr, CuCl 0.01 eq, Et2O | 3,3,5,5-tetramethylcyclohexanone (83%) | 1,4 | 해당 없음 | 금속 교환, Cu 재순환. CuCl 없으면 1,2 (p.6–7) |
-| Grignard/유기리튬 | 2-cyclohexenone + CH3MgBr 또는 CH3Li; H3O+ | 1-methyl-2-cyclohexene-1-ol (95%) | 1,2 | – | 단단한 nucleophile (p.11) |
-| cuprate | 2-cyclohexenone + (CH3)2CuLi; H3O+ | 3-methylcyclohexanone (97%) | 1,4 | – | 무른 nucleophile (p.11) |
-| acyl chloride + NH3 | CH2=CHCOCl + NH3 | CH2=CHCONH2 | 1,2(acyl 치환) | – | (p.10) |
-| acrylate + NH3 | CH2=CHCO2Me + NH3 | H2NCH2CH2CO2Me | 1,4 | – | (p.10) |
-| 엔알 환원 | cinnamaldehyde + NaBH4, EtOH | 신나밀 alcohol (97%) | 1,2 | – | (p.10) |
-| 고리 enone 환원 | cyclopentenone + NaBH4, EtOH | cyclopentanol (99%) | 1,4 후 1,2 | – | (p.10) |
-| HCN addition(저온) | MVK + NaCN, HCN, 5–10 °C | cyanohydrin | 1,2 | – | kinetic, 가역 (p.13) |
-| HCN addition(고온) | MVK + NaCN, HCN, 80 °C | NCCH2CH2COCH3 | 1,4 | – | thermodynamic (p.13) |
-| enolate Michael | cyclohexanone + LDA; (E)-CH3CH=CHCONMe2 | 1,5-ketoamide (60%) | 1,4 | 표시 없음 | amide 받개 (p.15) |
-| lithium enolate + 엔알 | ethyl isobutyrate + LDA, -78 °C, THF; (CH3)2C=CHCHO | $\beta$-hydroxy ester (72%) | 1,2(aldol) | – | Li+ 배위, 고리형 TS (p.16) |
-| thermodynamic enolate Michael | 2-methylcyclopentanone + methyl acrylate, t-BuOK | 2-Me-2-(CH2CH2CO2Me)cyclopentanone (53%) | 1,4 | 4차 탄소 | 더 치환된 쪽에서 반응 (p.16) |
-| malonic ester Michael | CH2(CO2Et)2 + 크로톤산 ethyl, NaOEt, EtOH, reflux | (EtO2C)2CHCH(CH3)CH2CO2Et | 1,4 | – | 안정한 enolate (p.17) |
-| nitro알케인 Michael | PhCH2NO2 + 2-cyclohexenone, Al2O3, neat | 3-(CH(Ph)NO2)cyclohexanone (92%) | 1,4 | – | (p.17) |
-| Michael-분자 내 alkylation | I(CH2)4CH=CHCO2Me + CH3NO2, Cs2CO3, DMF | methyl 2-(2-nitrocyclohexyl)acetate (65%) | 1,4 후 SN2 고리화 | 표시 없음 | (p.17) |
-| enamine alkylation | cyclohexanone + pyrrolidine(cat. H+); R-X; H2O, H+ | 2-R-cyclohexanone | $\alpha$-alkylation | – | (p.18) |
-| enamine Michael | pyrrolidine enamine + CH2=C(SMe)CO2Me, MeCN; H2O | 1,5-다이카르보닐 (95%) | 1,4 | – | (p.19) |
-| enamine Michael | 모폴린 enamine + CH2=C(SO2Ph)COCH3, SiO2, THF; H2O | 1,5-diketone (75%) | 1,4 | – | (p.19) |
-| iminium 촉매 | 엔알 + pyrrole, imidazolidinone 20 mol% | $\beta$-pyrrole릴 aldehyde (68–90%) | 1,4 | 87–97% ee, crotonaldehyde 예에서 (R) | benzyl group 반대면 공격 (p.21) |
-| $\beta$-leaving group 치환 | 2-F-cyclohexenyl methyl ketone + R2NH | $\beta$-아미노 enone | $\beta$-위치 치환 | – | 첨가-제거 (p.22) |
-| SNAr | o-F-acetophenone + R2NH | o-NR2-acetophenone | ipso 치환 | – | 오쏘 EWG (p.23) |
-| SNAr | p-Cl-nitrobenzene + HO- | p-nitrophenol | ipso 치환 | – | 파라 EWG (p.23) |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### thiol 첨가
+
+- 시약/조건: 메시틸 oxide + PhSH, 25 °C, 5 h
+- 생성물: (CH3)2C(SPh)CH2COCH3 (94%)
+- regioselectivity: 1,4
+- 입체화학: 해당 없음
+- 비고: 무른 nucleophile (p.4)
+
+### 시안화 첨가
+
+- 시약/조건: 칼콘 + -CN, EtOH, HOAc
+- 생성물: PhCH(CN)CH2COPh (95%)
+- regioselectivity: 1,4
+- 입체화학: 새 입체중심, 라세미(보충)
+- 비고: (p.4)
+
+### amine 첨가
+
+- 시약/조건: 메시틸 oxide + MeNH2, H2O
+- 생성물: (CH3)2C(NHMe)CH2COCH3 (75%)
+- regioselectivity: 1,4
+- 입체화학: 해당 없음
+- 비고: $\begin{aligned} & \text{쌍극성 이온} \\ & \longrightarrow \text{enol} \\ & \longrightarrow \text{ketone}\ \mathrm{(p.5)} \end{aligned}$
+
+### cuprate 제조
+
+- 시약/조건: CuBr + 2 RLi, Et2O, -78 °C
+- 생성물: R2CuLi + LiBr
+- regioselectivity: –
+- 입체화학: –
+- 비고: 불안정, 즉시 사용 (p.6)
+
+### Cu catalyst Grignard addition
+
+- 시약/조건: isophorone + MeMgBr, CuCl 0.01 eq, Et2O
+- 생성물: 3,3,5,5-tetramethylcyclohexanone (83%)
+- regioselectivity: 1,4
+- 입체화학: 해당 없음
+- 비고: 금속 교환, Cu 재순환. CuCl 없으면 1,2 (p.6–7)
+
+### Grignard/유기리튬
+
+- 시약/조건: 2-cyclohexenone + CH3MgBr 또는 CH3Li; H3O+
+- 생성물: 1-methyl-2-cyclohexene-1-ol (95%)
+- regioselectivity: 1,2
+- 입체화학: –
+- 비고: 단단한 nucleophile (p.11)
+
+### cuprate
+
+- 시약/조건: 2-cyclohexenone + (CH3)2CuLi; H3O+
+- 생성물: 3-methylcyclohexanone (97%)
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: 무른 nucleophile (p.11)
+
+### acyl chloride + NH3
+
+- 시약/조건: CH2=CHCOCl + NH3
+- 생성물: CH2=CHCONH2
+- regioselectivity: 1,2(acyl 치환)
+- 입체화학: –
+- 비고: (p.10)
+
+### acrylate + NH3
+
+- 시약/조건: CH2=CHCO2Me + NH3
+- 생성물: H2NCH2CH2CO2Me
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: (p.10)
+
+### 엔알 환원
+
+- 시약/조건: cinnamaldehyde + NaBH4, EtOH
+- 생성물: 신나밀 alcohol (97%)
+- regioselectivity: 1,2
+- 입체화학: –
+- 비고: (p.10)
+
+### 고리 enone 환원
+
+- 시약/조건: cyclopentenone + NaBH4, EtOH
+- 생성물: cyclopentanol (99%)
+- regioselectivity: 1,4 후 1,2
+- 입체화학: –
+- 비고: (p.10)
+
+### HCN addition(저온)
+
+- 시약/조건: MVK + NaCN, HCN, 5–10 °C
+- 생성물: cyanohydrin
+- regioselectivity: 1,2
+- 입체화학: –
+- 비고: kinetic, 가역 (p.13)
+
+### HCN addition(고온)
+
+- 시약/조건: MVK + NaCN, HCN, 80 °C
+- 생성물: NCCH2CH2COCH3
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: thermodynamic (p.13)
+
+### enolate Michael
+
+- 시약/조건: cyclohexanone + LDA; (E)-CH3CH=CHCONMe2
+- 생성물: 1,5-ketoamide (60%)
+- regioselectivity: 1,4
+- 입체화학: 표시 없음
+- 비고: amide 받개 (p.15)
+
+### lithium enolate + 엔알
+
+- 시약/조건: ethyl isobutyrate + LDA, -78 °C, THF; (CH3)2C=CHCHO
+- 생성물: $\beta$-hydroxy ester (72%)
+- regioselectivity: 1,2(aldol)
+- 입체화학: –
+- 비고: Li+ 배위, 고리형 TS (p.16)
+
+### thermodynamic enolate Michael
+
+- 시약/조건: 2-methylcyclopentanone + methyl acrylate, t-BuOK
+- 생성물: 2-Me-2-(CH2CH2CO2Me)cyclopentanone (53%)
+- regioselectivity: 1,4
+- 입체화학: 4차 탄소
+- 비고: 더 치환된 쪽에서 반응 (p.16)
+
+### malonic ester Michael
+
+- 시약/조건: CH2(CO2Et)2 + 크로톤산 ethyl, NaOEt, EtOH, reflux
+- 생성물: (EtO2C)2CHCH(CH3)CH2CO2Et
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: 안정한 enolate (p.17)
+
+### nitro알케인 Michael
+
+- 시약/조건: PhCH2NO2 + 2-cyclohexenone, Al2O3, neat
+- 생성물: 3-(CH(Ph)NO2)cyclohexanone (92%)
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: (p.17)
+
+### Michael-분자 내 alkylation
+
+- 시약/조건: I(CH2)4CH=CHCO2Me + CH3NO2, Cs2CO3, DMF
+- 생성물: methyl 2-(2-nitrocyclohexyl)acetate (65%)
+- regioselectivity: 1,4 후 SN2 고리화
+- 입체화학: 표시 없음
+- 비고: (p.17)
+
+### enamine alkylation
+
+- 시약/조건: cyclohexanone + pyrrolidine(cat. H+); R-X; H2O, H+
+- 생성물: 2-R-cyclohexanone
+- regioselectivity: $\alpha$-alkylation
+- 입체화학: –
+- 비고: (p.18)
+
+### enamine Michael
+
+- 시약/조건: pyrrolidine enamine + CH2=C(SMe)CO2Me, MeCN; H2O
+- 생성물: 1,5-다이카르보닐 (95%)
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: (p.19)
+
+### enamine Michael
+
+- 시약/조건: 모폴린 enamine + CH2=C(SO2Ph)COCH3, SiO2, THF; H2O
+- 생성물: 1,5-diketone (75%)
+- regioselectivity: 1,4
+- 입체화학: –
+- 비고: (p.19)
+
+### iminium 촉매
+
+- 시약/조건: 엔알 + pyrrole, imidazolidinone 20 mol%
+- 생성물: $\beta$-pyrrole릴 aldehyde (68–90%)
+- regioselectivity: 1,4
+- 입체화학: 87–97% ee, crotonaldehyde 예에서 (R)
+- 비고: benzyl group 반대면 공격 (p.21)
+
+### $\beta$-leaving group 치환
+
+- 시약/조건: 2-F-cyclohexenyl methyl ketone + R2NH
+- 생성물: $\beta$-아미노 enone
+- regioselectivity: $\beta$-위치 치환
+- 입체화학: –
+- 비고: 첨가-제거 (p.22)
+
+### SNAr
+
+- 시약/조건: o-F-acetophenone + R2NH
+- 생성물: o-NR2-acetophenone
+- regioselectivity: ipso 치환
+- 입체화학: –
+- 비고: 오쏘 EWG (p.23)
+
+### SNAr
+
+- 시약/조건: p-Cl-nitrobenzene + HO-
+- 생성물: p-nitrophenol
+- regioselectivity: ipso 치환
+- 입체화학: –
+- 비고: 파라 EWG (p.23)
+
 
 ---
 

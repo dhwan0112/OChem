@@ -1,6 +1,6 @@
 # L14. 고리화 첨가 반응 2부 (Cycloadditions, Part 2)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L14 뼈대](../L14_Cycloaddition_Part2.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L14 뼈대](../L14_Cycloaddition_Part2.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -9,6 +9,31 @@
 > - 시약: [NBS](../../wiki/시약/NBS.md)
 > - 개념: [endo rule](../../wiki/개념/endo%20규칙.md), [Diels–Alder regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [allyl cation](../../wiki/개념/알릴%20양이온.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md), [stereospecificity and stereoselectivity](../../wiki/개념/입체특이성과%20입체선택성.md), [suprafacial and antarafacial](../../wiki/개념/초면과%20대면.md), [pericyclic reaction](../../wiki/개념/페리고리%20반응.md), [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
 
+
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## Regioselectivity에서 광화학까지 — 강의 확인·보강
+
+문제를 풀 때 diene을 고정하고 dienophile의 두 방향을 먼저 비교한다. 유리한 결합 연결을 고른 뒤 그 연결을 고정해 endo/exo와 출발 E/Z를 적용한다. regio와 stereo를 동시에 뒤집으며 비교하면 어떤 효과가 답을 정했는지 알 수 없다. 강의 p.16–19가 이 두 단계 절차를 명시한다. (출처: L14 p.11–19)
+
+C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 외운 생성물 이름보다 polarization으로 읽는 편이 낫다. donor가 둘이면 각각 어느 말단을 강화하는지 표시한다. Tutorial 4 Q1의 공식 답안은 Danishefsky diene의 연결 방향, endo에서 오는 OMe/CO2Me syn, ring fusion의 stereospecificity를 나눠 보여 준다. (출처: L14 p.11–17; Tutorial 4_answers p.1)
+
+광화학 [2+2]는 열적 alkene [2+2]와 점유 상태가 다르다. 각 alkene 안의 기하는 보존되지만 어느 면에서 만나는지와 어떤 말단이 연결되는지는 따로 고른다. nitrone의 exo 선호까지 무조건 DA endo 규칙으로 해결하려 해서는 안 된다. (출처: L14 p.24–28; L15 p.16)
+
+더 읽기: [DA regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo](../../wiki/개념/endo%20규칙.md), [Tutorial 4 공식 풀이](../../practice/Tutorial_4.md).
+
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p12.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.12)
+
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p17.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.17)
+
+![Regioselectivity에서 광화학까지](../../figures/L14/source/L14_p27.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L14 p.27)
 
 
 ## 개요
@@ -452,24 +477,136 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 ## 반응 정리표
 
-| 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
-|---|---|---|---|---|---|
-| butadiene 이량화 [4+2] | 가열 | 4-vinylcyclohexene | – | – | $\pi4\mathrm{s}$+$\pi2\mathrm{s}$, 허용 (p.7) |
-| butadiene [4+4] | 가열 | (cycloocta-1,5-diene 생성 안 됨) | – | – | $\pi4\mathrm{s}$+$\pi4\mathrm{s}$, 열적 금지 (p.7) |
-| 2-methoxybutadiene + acrylonitrile | DA | 4-methoxycyclohex-3-ene-1-carbonitrile | pseudo para | – | OMe 옆 C1이 친핵성 (p.11–12) |
-| 4-methyl펜타-1,3-diene + 아크릴산 methyl | DA | methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate | pseudo ortho | – | 비대칭 협동 TS (p.13) |
-| (E)-펜타-1,3-diene + CH2=CHW | W=CN 100 °C / W=COOR 200 °C | 1,2-이치환 cyclohexene | ortho:meta = 9:1 / 6.8:1 | – | p.15 |
-| 2-X-butadiene + 아크릴산 methyl | – | 1,4-이치환 cyclohexene | para:meta = 6:1 (Me), 10:1 (OMe) | – | p.15 |
-| (E)-1-methoxybutadiene + acrolein | DA | cis-2-methoxycyclohex-3-ene-1-carbaldehyde | ortho | 엔도 → OMe/CHO cis | 라세미 (p.16–17) |
-| (E)-1-acetoxybutadiene + (E)-crotonaldehyde | DA | 6-폼일-5-methylcyclohex-2-ene-1-일 acetate | ortho (OAc/CHO) | OAc/CHO cis (엔도), CHO/Me trans (입체특이) | 라세미 (p.18–19) |
-| isoprene + methyl vinyl ketone | toluene 120 °C, 밀봉관 / SnCl4·5H2O, 0 °C | 1-(4-methylcyclohex-3-ene-1-일)ethanone | para:meta = 71:29 / 93:7 | – | Lewis acid이 LUMO를 낮추고 편극 증가 (p.20) |
-| tropone + cyclopentadiene | [6+4], 열적 | 다리걸친 이환 ketone (CH2, C=O 다리) | – | 슬라이드 표기 "endo" (각주 [5]) | $10\pi$ = 4n+2 (p.21) |
-| 6,6-dimethyl풀벤 + 1-NEt2-butadiene | [6+4] 후 −HNEt2 | dimethyl 아줄렌형 골격 | 위치선택적 (CMe2–C4) | – | 풀벤의 쌍극자 공명 (p.21) |
-| 1,3-dibromoacetone + Zn + diene | Zn | cyclohept-4-ene-1-one | – | – | 옥시알릴 cation ($2\pi$) + diene ($4\pi$), [4+3] (p.22–23) |
-| ethylene + maleic anhydride | 가열 ✗ / $h\nu$ ✓ | cyclobutane-1,2-dicarboxylic acid 무수물 | – | 수프라–수프라 | 열적 금지, 광화학 허용 (p.24) |
-| 1,2-cyclobutenedicarboxylic acid dimethyl + 3-methylcyclohex-2-enone | $h\nu$ | 4-4-6 삼환 diester ketone | – | 각 성분 입체특이, anti (엔도 선택성 없음) | p.27 |
-| isobutylene + cyclohex-2-enone | $h\nu$ | 7,7-dimethylbicyclo로[4.2.0]옥탄-2-one | CMe2–C$\beta$ | 슬라이드는 cis 융합으로 그림 | LUMO/LUMO 큰 계수 일치 (p.28) |
-| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | $\text{엔도 이량체} \longrightarrow \text{새장 diketone}$ | – | 엔도 이량체 | [4+2] + 분자 내 [2+2] (p.30) |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### butadiene 이량화 [4+2]
+
+- 시약/조건: 가열
+- 생성물: 4-vinylcyclohexene
+- regioselectivity: –
+- 입체화학: –
+- 비고: $\pi4\mathrm{s}$+$\pi2\mathrm{s}$, 허용 (p.7)
+
+### butadiene [4+4]
+
+- 시약/조건: 가열
+- 생성물: (cycloocta-1,5-diene 생성 안 됨)
+- regioselectivity: –
+- 입체화학: –
+- 비고: $\pi4\mathrm{s}$+$\pi4\mathrm{s}$, 열적 금지 (p.7)
+
+### 2-methoxybutadiene + acrylonitrile
+
+- 시약/조건: DA
+- 생성물: 4-methoxycyclohex-3-ene-1-carbonitrile
+- regioselectivity: pseudo para
+- 입체화학: –
+- 비고: OMe 옆 C1이 친핵성 (p.11–12)
+
+### 4-methyl펜타-1,3-diene + 아크릴산 methyl
+
+- 시약/조건: DA
+- 생성물: methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate
+- regioselectivity: pseudo ortho
+- 입체화학: –
+- 비고: 비대칭 협동 TS (p.13)
+
+### (E)-펜타-1,3-diene + CH2=CHW
+
+- 시약/조건: W=CN 100 °C / W=COOR 200 °C
+- 생성물: 1,2-이치환 cyclohexene
+- regioselectivity: ortho:meta = 9:1 / 6.8:1
+- 입체화학: –
+- 비고: p.15
+
+### 2-X-butadiene + 아크릴산 methyl
+
+- 시약/조건: –
+- 생성물: 1,4-이치환 cyclohexene
+- regioselectivity: para:meta = 6:1 (Me), 10:1 (OMe)
+- 입체화학: –
+- 비고: p.15
+
+### (E)-1-methoxybutadiene + acrolein
+
+- 시약/조건: DA
+- 생성물: cis-2-methoxycyclohex-3-ene-1-carbaldehyde
+- regioselectivity: ortho
+- 입체화학: 엔도 → OMe/CHO cis
+- 비고: 라세미 (p.16–17)
+
+### (E)-1-acetoxybutadiene + (E)-crotonaldehyde
+
+- 시약/조건: DA
+- 생성물: 6-폼일-5-methylcyclohex-2-ene-1-일 acetate
+- regioselectivity: ortho (OAc/CHO)
+- 입체화학: OAc/CHO cis (엔도), CHO/Me trans (입체특이)
+- 비고: 라세미 (p.18–19)
+
+### isoprene + methyl vinyl ketone
+
+- 시약/조건: toluene 120 °C, 밀봉관 / SnCl4·5H2O, 0 °C
+- 생성물: 1-(4-methylcyclohex-3-ene-1-일)ethanone
+- regioselectivity: para:meta = 71:29 / 93:7
+- 입체화학: –
+- 비고: Lewis acid이 LUMO를 낮추고 편극 증가 (p.20)
+
+### tropone + cyclopentadiene
+
+- 시약/조건: [6+4], 열적
+- 생성물: 다리걸친 이환 ketone (CH2, C=O 다리)
+- regioselectivity: –
+- 입체화학: 슬라이드 표기 "endo" (각주 [5])
+- 비고: $10\pi$ = 4n+2 (p.21)
+
+### 6,6-dimethyl풀벤 + 1-NEt2-butadiene
+
+- 시약/조건: [6+4] 후 −HNEt2
+- 생성물: dimethyl 아줄렌형 골격
+- regioselectivity: 위치선택적 (CMe2–C4)
+- 입체화학: –
+- 비고: 풀벤의 쌍극자 공명 (p.21)
+
+### 1,3-dibromoacetone + Zn + diene
+
+- 시약/조건: Zn
+- 생성물: cyclohept-4-ene-1-one
+- regioselectivity: –
+- 입체화학: –
+- 비고: 옥시알릴 cation ($2\pi$) + diene ($4\pi$), [4+3] (p.22–23)
+
+### ethylene + maleic anhydride
+
+- 시약/조건: 가열 ✗ / $h\nu$ ✓
+- 생성물: cyclobutane-1,2-dicarboxylic acid 무수물
+- regioselectivity: –
+- 입체화학: 수프라–수프라
+- 비고: 열적 금지, 광화학 허용 (p.24)
+
+### 1,2-cyclobutenedicarboxylic acid dimethyl + 3-methylcyclohex-2-enone
+
+- 시약/조건: $h\nu$
+- 생성물: 4-4-6 삼환 diester ketone
+- regioselectivity: –
+- 입체화학: 각 성분 입체특이, anti (엔도 선택성 없음)
+- 비고: p.27
+
+### isobutylene + cyclohex-2-enone
+
+- 시약/조건: $h\nu$
+- 생성물: 7,7-dimethylbicyclo로[4.2.0]옥탄-2-one
+- regioselectivity: CMe2–C$\beta$
+- 입체화학: 슬라이드는 cis 융합으로 그림
+- 비고: LUMO/LUMO 큰 계수 일치 (p.28)
+
+### cubane 합성 핵심 단계
+
+- 시약/조건: HNEt2 → 자발적 DA; $h\nu$
+- 생성물: $\text{엔도 이량체} \longrightarrow \text{새장 diketone}$
+- regioselectivity: –
+- 입체화학: 엔도 이량체
+- 비고: [4+2] + 분자 내 [2+2] (p.30)
+
 
 ---
 

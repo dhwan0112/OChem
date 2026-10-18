@@ -1,8 +1,26 @@
 # L16 연습 문제와 해설
 
-> [L16 시그마트로픽 자리옮김](../notes/L16_Sigmatropic_Rearrangements.md) 예습 노트에서 옮겨 온 자가 점검 문제와 해설이다(슬라이드 전 Clayden 기반 예습 내용). 개념 설명은 [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md), [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [Cope rearrangement](../wiki/반응/코프%20자리옮김.md), [2,3-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md)에 있다.
+> [L16 시그마트로픽 자리옮김](../notes/L16_Sigmatropic_Rearrangements.md) 교재 기반 자가 점검을 유지하고 공식 강의 문제를 추가했다. Clayden 쪽수와 L# PDF 쪽수를 구별한다. 개념 설명은 [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md), [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [Cope rearrangement](../wiki/반응/코프%20자리옮김.md), [2,3-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md)에 있다.
 
-## 자가 점검 문제
+## 공식 강의 문제 — 슬라이드와 답을 함께 보기
+
+### carbonyl class를 바꾸는 [3,3]
+
+p.10의 aldehyde acetal, ketone acetal, orthoester, orthoamide에서 출발해 생성물을 그려 본 뒤 p.11과 대조한다. 공통으로 새 C–C 결합이 생기는 말단은 같고, carbonyl에 남는 H/Me/OR/NR2가 각각 aldehyde/ketone/ester/amide를 가른다. 산 후처리라는 조건만으로 생성물 class를 정하지 않는다. (출처: L16 p.10–11)
+
+![공식 carbonyl class별 생성물](../figures/L16/source/L16_p11.png)
+
+그림: p.10 문제의 구조별 답이다. (출처: L16 p.11)
+
+### anionic oxy-Cope의 ring expansion
+
+p.16 아래 구조에서 OH를 KH로 deprotonate한 뒤, 참여 1,5-diene의 여섯 원자만 번호를 매긴다. 중앙 $\sigma$ 결합을 끊고 말단끼리 이은 뒤 두 $\pi$ 결합을 이동시킨 enolate를 그린다. H+ 후처리로 carbonyl을 회복한 답은 p.17에 있다. 기존 fused 작은 고리의 결합을 임의로 추가로 끊지 않는다. (출처: L16 p.16–17)
+
+### E,Z와 E,E diene의 [1,5]H
+
+p.22의 접힌 E,Z 구조에서 이동 H가 양 말단에 같은 면으로 닿는지 확인한다. 마지막 E,E 질문은 규칙상 허용이라는 말만으로 해결하지 않고 실제 H–말단 탄소의 접근 기하를 그리는 문제다. p.24의 표와 함께 orbital 허용성과 공간적 도달 가능성을 구별한다. (출처: L16 p.22–24)
+
+## 교재 기반 자가 점검 문제
 
 1. 다음 반응을 [i,j]로 분류하고 TS 고리 크기를 쓰라. (a) 2-allylphenol을 주는 allyl phenyl ether의 첫 단계, (b) BuLi로 만든 benzyl allyl ether anion의 자리옮김, (c) 5-methylcyclopentadiene이 1-methylcyclopentadiene으로 바뀌는 과정, (d) 프로비타민 D2 → 비타민 D2.
 

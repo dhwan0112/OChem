@@ -1,0 +1,284 @@
+[
+  {
+    "asset": "figures/L11/source/L11_p10.png",
+    "source": "L11_Conjugate addition.pdf",
+    "pdf_page": 10,
+    "sha256": "c6eed50ee7eee5496e404df798ecb02d2a35da214f938b2e129ef3806939910d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L11/source/L11_p12.png",
+    "source": "L11_Conjugate addition.pdf",
+    "pdf_page": 12,
+    "sha256": "c6eed50ee7eee5496e404df798ecb02d2a35da214f938b2e129ef3806939910d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L11/source/L11_p13.png",
+    "source": "L11_Conjugate addition.pdf",
+    "pdf_page": 13,
+    "sha256": "c6eed50ee7eee5496e404df798ecb02d2a35da214f938b2e129ef3806939910d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L11/source/L11_p16.png",
+    "source": "L11_Conjugate addition.pdf",
+    "pdf_page": 16,
+    "sha256": "c6eed50ee7eee5496e404df798ecb02d2a35da214f938b2e129ef3806939910d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L11/source/L11_p21.png",
+    "source": "L11_Conjugate addition.pdf",
+    "pdf_page": 21,
+    "sha256": "c6eed50ee7eee5496e404df798ecb02d2a35da214f938b2e129ef3806939910d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L12/source/L12_p07.png",
+    "source": "L12_Protecting groups.pdf",
+    "pdf_page": 7,
+    "sha256": "a5a43b6c62e3d537928f0257c293c0aec0fc48dc434f40be9bc65407b89ec321",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L12/source/L12_p09.png",
+    "source": "L12_Protecting groups.pdf",
+    "pdf_page": 9,
+    "sha256": "a5a43b6c62e3d537928f0257c293c0aec0fc48dc434f40be9bc65407b89ec321",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L12/source/L12_p14.png",
+    "source": "L12_Protecting groups.pdf",
+    "pdf_page": 14,
+    "sha256": "a5a43b6c62e3d537928f0257c293c0aec0fc48dc434f40be9bc65407b89ec321",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L13/source/L13_p19.png",
+    "source": "L13_cycloaddition part 1.pdf",
+    "pdf_page": 19,
+    "sha256": "6085560fad692f56a1b894426cfb26c9d0151d1290809eff8eb0c5edd884de0b",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L13/source/L13_p22.png",
+    "source": "L13_cycloaddition part 1.pdf",
+    "pdf_page": 22,
+    "sha256": "6085560fad692f56a1b894426cfb26c9d0151d1290809eff8eb0c5edd884de0b",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L13/source/L13_p33.png",
+    "source": "L13_cycloaddition part 1.pdf",
+    "pdf_page": 33,
+    "sha256": "6085560fad692f56a1b894426cfb26c9d0151d1290809eff8eb0c5edd884de0b",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L14/source/L14_p12.png",
+    "source": "L14_cycloaddition part 2.pdf",
+    "pdf_page": 12,
+    "sha256": "b5b13baa0b6557e809a5e95c5c0b1d35b73a218f18b73e66d5a90202f81d9028",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L14/source/L14_p17.png",
+    "source": "L14_cycloaddition part 2.pdf",
+    "pdf_page": 17,
+    "sha256": "b5b13baa0b6557e809a5e95c5c0b1d35b73a218f18b73e66d5a90202f81d9028",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L14/source/L14_p27.png",
+    "source": "L14_cycloaddition part 2.pdf",
+    "pdf_page": 27,
+    "sha256": "b5b13baa0b6557e809a5e95c5c0b1d35b73a218f18b73e66d5a90202f81d9028",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L15/source/L15_p15.png",
+    "source": "L15_cycloaddition part 3.pdf",
+    "pdf_page": 15,
+    "sha256": "3e7d6e49c71f4022a17139bcf1589d6064ac4d0233c1a3a54b867ef25bd16fa6",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L15/source/L15_p16.png",
+    "source": "L15_cycloaddition part 3.pdf",
+    "pdf_page": 16,
+    "sha256": "3e7d6e49c71f4022a17139bcf1589d6064ac4d0233c1a3a54b867ef25bd16fa6",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L15/source/L15_p26.png",
+    "source": "L15_cycloaddition part 3.pdf",
+    "pdf_page": 26,
+    "sha256": "3e7d6e49c71f4022a17139bcf1589d6064ac4d0233c1a3a54b867ef25bd16fa6",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L16/source/L16_p06.png",
+    "source": "L16_Sigmatropic rearrangements.pdf",
+    "pdf_page": 6,
+    "sha256": "94cd76535dc5fa267707f0225c7645661f15e69f227dc6b6d3209c75db00a31d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L16/source/L16_p11.png",
+    "source": "L16_Sigmatropic rearrangements.pdf",
+    "pdf_page": 11,
+    "sha256": "94cd76535dc5fa267707f0225c7645661f15e69f227dc6b6d3209c75db00a31d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L16/source/L16_p20.png",
+    "source": "L16_Sigmatropic rearrangements.pdf",
+    "pdf_page": 20,
+    "sha256": "94cd76535dc5fa267707f0225c7645661f15e69f227dc6b6d3209c75db00a31d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L16/source/L16_p22.png",
+    "source": "L16_Sigmatropic rearrangements.pdf",
+    "pdf_page": 22,
+    "sha256": "94cd76535dc5fa267707f0225c7645661f15e69f227dc6b6d3209c75db00a31d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L16/source/L16_p25.png",
+    "source": "L16_Sigmatropic rearrangements.pdf",
+    "pdf_page": 25,
+    "sha256": "94cd76535dc5fa267707f0225c7645661f15e69f227dc6b6d3209c75db00a31d",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L17/source/L17_p15.png",
+    "source": "L17_Electrocyclic reactions.pdf",
+    "pdf_page": 15,
+    "sha256": "6c73dda1706f183596495c8db8583be18710ce81357f31a0d2a932bca52876a7",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L17/source/L17_p19.png",
+    "source": "L17_Electrocyclic reactions.pdf",
+    "pdf_page": 19,
+    "sha256": "6c73dda1706f183596495c8db8583be18710ce81357f31a0d2a932bca52876a7",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L17/source/L17_p25.png",
+    "source": "L17_Electrocyclic reactions.pdf",
+    "pdf_page": 25,
+    "sha256": "6c73dda1706f183596495c8db8583be18710ce81357f31a0d2a932bca52876a7",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L17/source/L17_p28.png",
+    "source": "L17_Electrocyclic reactions.pdf",
+    "pdf_page": 28,
+    "sha256": "6c73dda1706f183596495c8db8583be18710ce81357f31a0d2a932bca52876a7",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/L17/source/L17_p29.png",
+    "source": "L17_Electrocyclic reactions.pdf",
+    "pdf_page": 29,
+    "sha256": "6c73dda1706f183596495c8db8583be18710ce81357f31a0d2a932bca52876a7",
+    "operation": "PDF page render; white margin trim only"
+  },
+  {
+    "asset": "figures/tutorials/T04_answers_p01.png",
+    "source": "Tutorial 4_answers.pdf",
+    "pdf_page": 1,
+    "sha256": "28dbc7608ba6039d64f8e928c1758855e0676d627d1a9527796b84576a7687d8",
+    "operation": "PDF page render; no diagram edits"
+  },
+  {
+    "asset": "figures/tutorials/T04_answers_p02.png",
+    "source": "Tutorial 4_answers.pdf",
+    "pdf_page": 2,
+    "sha256": "28dbc7608ba6039d64f8e928c1758855e0676d627d1a9527796b84576a7687d8",
+    "operation": "PDF page render; no diagram edits"
+  },
+  {
+    "asset": "figures/tutorials/T05_p01.png",
+    "source": "Tutorial Questions 5.pdf",
+    "pdf_page": 1,
+    "sha256": "3ad9208491b9c5128d79efd2b71d14fb7452398ceeb56d8edb946e54937d23ef",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/tutorials/T05_p02.png",
+    "source": "Tutorial Questions 5.pdf",
+    "pdf_page": 2,
+    "sha256": "3ad9208491b9c5128d79efd2b71d14fb7452398ceeb56d8edb946e54937d23ef",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/tutorials/T05_p03.png",
+    "source": "Tutorial Questions 5.pdf",
+    "pdf_page": 3,
+    "sha256": "3ad9208491b9c5128d79efd2b71d14fb7452398ceeb56d8edb946e54937d23ef",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/tutorials/T05_p04.png",
+    "source": "Tutorial Questions 5.pdf",
+    "pdf_page": 4,
+    "sha256": "3ad9208491b9c5128d79efd2b71d14fb7452398ceeb56d8edb946e54937d23ef",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/tutorials/T06_p01.png",
+    "source": "Tutorial Questions 6.pdf",
+    "pdf_page": 1,
+    "sha256": "b76fa91934f51850d99e2a387bf7eaf9050fe79f77d3171d0638b7464907c339",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/tutorials/T06_p02.png",
+    "source": "Tutorial Questions 6.pdf",
+    "pdf_page": 2,
+    "sha256": "b76fa91934f51850d99e2a387bf7eaf9050fe79f77d3171d0638b7464907c339",
+    "operation": "PDF render; remove page-number footer and blank outer margins; complete question and diagrams retained"
+  },
+  {
+    "asset": "figures/L16/source/fischer_33.png",
+    "source": "Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf",
+    "pdf_page": 943,
+    "printed_page": 916,
+    "sha256": "796261b964fed05cda470ea4db54a4031331fc28fbddb59660e405d692092a94",
+    "operation": "diagram crop only; explanatory paragraph text excluded"
+  },
+  {
+    "asset": "figures/L16/source/fischer_cyclization.png",
+    "source": "Clayden-Organic-Chemistry-2nd-edition-c2012-txtbk.pdf",
+    "pdf_page": 943,
+    "printed_page": 916,
+    "sha256": "796261b964fed05cda470ea4db54a4031331fc28fbddb59660e405d692092a94",
+    "operation": "diagram crop only; explanatory paragraph text excluded"
+  },
+  {
+    "asset": "figures/tutorials/T04_answers_q1.png",
+    "source": "Tutorial 4_answers.pdf",
+    "pdf_page": 1,
+    "sha256": "28dbc7608ba6039d64f8e928c1758855e0676d627d1a9527796b84576a7687d8",
+    "operation": "Focused official-answer panel crop; original strokes, wedges and arrows retained"
+  },
+  {
+    "asset": "figures/tutorials/T04_answers_q2a.png",
+    "source": "Tutorial 4_answers.pdf",
+    "pdf_page": 1,
+    "sha256": "28dbc7608ba6039d64f8e928c1758855e0676d627d1a9527796b84576a7687d8",
+    "operation": "Focused official-answer panel crop; original strokes, wedges and arrows retained"
+  },
+  {
+    "asset": "figures/tutorials/T04_answers_q2b.png",
+    "source": "Tutorial 4_answers.pdf",
+    "pdf_page": 1,
+    "sha256": "28dbc7608ba6039d64f8e928c1758855e0676d627d1a9527796b84576a7687d8",
+    "operation": "Focused official-answer panel crop; original strokes, wedges and arrows retained"
+  }
+]

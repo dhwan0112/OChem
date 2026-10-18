@@ -1,0 +1,28 @@
+{
+ "title": "Model example: Boc and benzyl ester orthogonality (L12 p.8-11; protecting-group logic)",
+ "scheme": {
+  "width_pt": 500,
+  "reactions": [
+   {
+    "reactants": [
+     "CC(C)(C)OC(=O)NCC(=O)OCc1ccccc1"
+    ],
+    "products": [
+     "[NH3+]CC(=O)OCc1ccccc1"
+    ],
+    "conditions": "TFA",
+    "title": "Remove Boc; retain Bn"
+   },
+   {
+    "reactants": [
+     "CC(C)(C)OC(=O)NCC(=O)OCc1ccccc1"
+    ],
+    "products": [
+     "CC(C)(C)OC(=O)NCC(=O)O"
+    ],
+    "conditions": "H2, Pd/C",
+    "title": "Remove Bn; retain Boc"
+   }
+  ]
+ }
+}

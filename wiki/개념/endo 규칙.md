@@ -95,6 +95,22 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 - **"endo는 언제나 thermodynamic으로도 유리하다"고 생각하기 쉽지만 사실은** endo는 대개 덜 안정한 kinetic product다. 가역 조건(furan + maleic anhydride)에서는 더 안정한 exo가 얻어진다. (보충 근거: Clayden p.884)
 - **"cycloaddition은 다 endo를 선호한다"고 생각하기 쉽지만 사실은** endo rule은 [4+2]의 이야기다. photochemical [2+2]에는 endo selectivity이 없고, nitrone cycloaddition은 exo를 선호한다. (출처: L14 p.27; L15 p.16)
 
+
+## endo와 stereospecificity는 다른 질문이다
+
+dienophile의 두 치환기가 cis인지 trans인지는 같은 성분에 대한 suprafacial 결합 형성으로 보존된다. 반면 endo/exo는 diene과 dienophile이 어느 상대 배치로 만나는지를 고르는 문제다. cis dienophile이 endo로 반응하는 경우에도 두 판단을 각각 설명해야 한다. “cis니까 endo”라는 한 문장으로 둘을 대체할 수 없다. (출처: L13 p.19–24)
+
+Tutorial 4 Q1의 답안은 이를 한 그림에 표시한다. Danishefsky diene과 cyclic dienophile의 endo 접근을 먼저 그리고, OMe와 CO2Me의 syn 관계와 ring junction의 syn 관계를 구별해 표시한다. 앞쪽 관계를 endo 선택과, 고리 접합 관계를 stereospecificity와 연결하면 쐐기·점선이 어느 근거에서 나왔는지 분명해진다. (출처: Tutorial 4_answers p.1)
+
+endo는 열적으로 허용된 경로들 가운데 선택성을 말하는 규칙이다. WH 허용 판정이 endo를 직접 골라 준다고 쓰지 않는다. 또 다른 cycloaddition의 exo 선호까지 Diels–Alder endo 규칙으로 덮지 않는다. cyclic nitrone의 반응은 별도의 steric approach를 검토한다. (출처: L13 p.21–24; L15 p.16)
+
+
+## 그림으로 확인하기
+
+![Diels–Alder endo 접근](../../figures/L13/source/L13_p22.png)
+
+그림: 출발 alkene의 기하 보존과 endo 선호를 별도로 판단한다. (출처: L13 p.22)
+
 ## 관련 문서
 
 - 반응: [Diels–Alder reaction](../반응/딜스-알더%20반응.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md), [photochemical \[2+2\] cycloaddition](../반응/광화학%202+2%20고리화%20첨가.md), [nitrone cycloaddition](../반응/나이트론%20고리화%20첨가.md), [\[6+4\] cycloaddition](../반응/6+4%20고리화%20첨가.md)

@@ -1,0 +1,18 @@
+{
+ "title": "Tutorial4 Q2(b): oxidation generates the intramolecular DA precursor (Tutorial 4_answers p.1)",
+ "scheme": {
+  "width_pt": 510,
+  "reactions": [
+   {
+    "reactants": [
+     "[H]C([H])=C([H])C([H])(O)CCC/C=C/C=C"
+    ],
+    "products": [
+     "[H]C([H])=C([H])C(=O)CCC/C=C/C=C"
+    ],
+    "conditions": "MnO2 or Na2Cr2O7, H+",
+    "title": "Trienone forms before in situ DA"
+   }
+  ]
+ }
+}

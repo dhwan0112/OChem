@@ -1,8 +1,26 @@
 # L17 연습 문제와 해설
 
-> [L17 전자고리화 반응](../notes/L17_Electrocyclic_Reactions.md) 예습 노트에서 옮겨 온 자가 점검 문제와 해설이다(슬라이드 전 Clayden 기반 예습 내용). 개념 설명은 [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md), [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md)에 있다.
+> [L17 전자고리화 반응](../notes/L17_Electrocyclic_Reactions.md) 교재 기반 자가 점검을 유지하고 공식 강의 문제를 추가했다. Clayden 쪽수와 L# PDF 쪽수를 구별한다. 개념 설명은 [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md), [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md)에 있다.
 
-## 자가 점검 문제
+## 공식 강의 문제 — 회전과 출발 기하
+
+### endiandric acid cascade
+
+p.14의 polyene에서 첫 닫힘의 전자 수와 회전을 적고, 생긴 중간체에서 남은 conjugated 계를 다시 센다. 답은 8e conrotatory 다음 6e disrotatory다. 두 단계의 새 $\sigma$ 결합과 고리 접합 H를 p.15와 비교한다. (출처: L17 p.14–15)
+
+### vitamin D와 Nazarov
+
+vitamin D의 앞 6e ring opening은 광조건 conrotatory이고, 뒤의 [1,7]H는 thermal antarafacial이다. Nazarov의 pentadienyl cation은 5 orbital/4e로, thermal conrotatory와 photochemical disrotatory가 다른 접합 입체배치를 준다. 반응명만 쓰지 말고 두 H의 앞/뒤 면을 p.18,21–22와 대조한다. (출처: L17 p.17–22)
+
+### aziridine을 생성물에서 역산하기
+
+p.24 아래의 두 pyrroline 생성물에서 ester의 cis/trans를 읽는다. [3+2]를 거꾸로 잘라 ylide 기하를 얻고, thermal 4e conrotatory opening을 역으로 적용해 출발 aziridine의 cis/trans를 찾는다. 답은 p.25에 있으며 alkene 포획과 alkyne 포획의 온도는 서로 다른 예의 조건이다. (출처: L17 p.24–25)
+
+![aziridine 역산 공식 풀이](../figures/L17/source/L17_p25.png)
+
+그림: 생성물 ester의 상대배치와 출발 aziridine을 짝짓는다. (출처: L17 p.25)
+
+## 교재 기반 자가 점검 문제
 
 1. (2*E*,4*Z*,6*Z*)-옥타-2,4,6-triene을 (a) 가열했을 때와 (b) 빛을 쬐었을 때 생기는 5,6-dimethylcyclohexa-1,3-diene의 두 Me cis/trans를 각각 쓰고, 각 반응을 $\pi6\mathrm{s}$/$\pi6\mathrm{a}$로 표시하라.
 

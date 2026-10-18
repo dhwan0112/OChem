@@ -1,6 +1,6 @@
 # L12. 보호기 (Protecting Groups)
 
-> **통독본**: 2026-10-12 재구성 직전의 강의별 전체 노트(교과서 보강 포함)를 그대로 보존한 사본이다. 강의 흐름대로 한 번에 읽을 때 쓴다. 이후의 수정과 보충은 개념 문서에만 반영되므로, **최신 내용은 개념 문서**가 기준이다. 뼈대 노트: [L12 뼈대](../L12_Protecting_Groups.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 기존 강의별 전체 설명을 바탕으로 2026-10-18에 공식 강의 확인·개념 보강·그림을 추가했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L12 뼈대](../L12_Protecting_Groups.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 
 
@@ -12,6 +12,31 @@
 
 
 CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장 (Protecting groups).
+
+> [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
+
+## Protecting groups: 조건의 순서를 설계한다 — 강의 확인·보강
+
+보호가 필요한 이유는 둘이다. ketone과 ester 가운데 반응성이 더 낮은 쪽을 선택하려는 경우와, Grignard가 free OH나 carbonyl과 만나 원하는 반응 전에 소모되는 경우다. 보호 구조를 외우기 전에 원래 조건에서 일어날 실패 반응부터 그려야 선택 이유가 분명해진다. (출처: L12 p.3–4,13–14)
+
+보호기의 평가는 protection, 원하는 transformation, deprotection 세 번에 걸쳐 한다. acetal은 염기와 nucleophile에 안정하고 산성 수용액에서 제거된다. silyl ether는 종류별로 산·염기 안정성 순위가 다르다. Boc/Cbz/Fmoc은 모두 N 보호에 쓰여도 제거 조건이 서로 달라 peptide 합성 순서를 결정한다. (출처: L12 p.6–11,13)
+
+직교 보호는 두 보호기가 존재하는 상태가 아니라 한쪽을 제거할 때 다른 쪽을 유지할 수 있는 조건 관계다. 실제 분자에 있는 alkene 등 다른 작용기도 제거 조건을 견디는지 확인해야 한다. 반응이 끝난 답안에서 보호된 O/N이 모두 원래 작용기로 돌아왔는지도 검산한다. (출처: L12 p.3–4,8–11,16)
+
+더 읽기: [protecting group](../../wiki/개념/보호기.md), [orthogonal protection](../../wiki/개념/직교%20보호.md), [silyl ethers](../../wiki/시약/실릴%20에터%20보호기.md).
+
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p14.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.14)
+
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/source/L12_p07.png)
+
+그림: 강의 원본 도식. 위의 설명과 함께 결합·전하·입체배치를 확인한다. (출처: L12 p.7)
+
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/orthogonal_boc_benzyl.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
+
 
 ## 개요
 
@@ -108,17 +133,80 @@ $$
 
 슬라이드는 Clayden 23장의 표를 그대로 보여 주며, 그중 acetal, 트라이알킬실릴, Cbz, Boc, Fmoc를 박스로 강조한다. "무엇으로부터 From" 칸을 눈여겨보면 각 protecting group의 성격이 보인다.
 
-| protecting group | 구조 | 보호 대상 | 무엇으로부터 보호 | 도입 | 제거 |
-|---|---|---|---|---|---|
-| acetal(다이옥솔레인) | 1,3-다이옥솔레인 고리 | ketone, aldehyde | nucleophile, 염기 | HOCH2CH2OH, H+ 촉매 | H+, H2O |
-| 트라이알킬실릴 R3Si (예: TBDMS) | RO-SiMe3, RO-SiMe2t-Bu | alcohol | nucleophile, C 또는 N 염기 | R3SiCl, 염기 | H+, H2O 또는 F- |
-| tetrahydropyranyl(THP) | 2-alkoxytetrahydropyran | alcohol | 강염기 | dihydropyran + 산 | H+, H2O |
-| benzyl 에테르(OBn) | RO-CH2Ph | alcohol | 거의 모든 조건 | NaH, BnBr | H2, Pd/C 또는 HBr |
-| methyl ArOMe | ArOMe | phenol | 염기 | NaH, MeI 또는 (MeO)2SO2 | BBr3, HBr, HI, Me3SiI |
-| t-butyl ester(CO2t-Bu) | RCO2C(CH3)3 | carboxylic acid | nucleophile | isobutene, H+ | 강산 |
-| Cbz (Z) | RNH-CO-OCH2Ph | amine | electrophile | BnOCOCl, 염기 | HBr/AcOH 또는 H2, Pd |
-| t-Boc | RNH-CO-OC(CH3)3 | amine | electrophile | (t-BuOCO)2O, 염기 | H+, H2O |
-| Fmoc | 9-fluorenylmethyl 카바메이트 | amine | electrophile | Fmoc-Cl | 염기(예: amine) |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### acetal(다이옥솔레인)
+
+- 구조: 1,3-다이옥솔레인 고리
+- 보호 대상: ketone, aldehyde
+- 무엇으로부터 보호: nucleophile, 염기
+- 도입: HOCH2CH2OH, H+ 촉매
+- 제거: H+, H2O
+
+### 트라이알킬실릴 R3Si (예: TBDMS)
+
+- 구조: RO-SiMe3, RO-SiMe2t-Bu
+- 보호 대상: alcohol
+- 무엇으로부터 보호: nucleophile, C 또는 N 염기
+- 도입: R3SiCl, 염기
+- 제거: H+, H2O 또는 F-
+
+### tetrahydropyranyl(THP)
+
+- 구조: 2-alkoxytetrahydropyran
+- 보호 대상: alcohol
+- 무엇으로부터 보호: 강염기
+- 도입: dihydropyran + 산
+- 제거: H+, H2O
+
+### benzyl 에테르(OBn)
+
+- 구조: RO-CH2Ph
+- 보호 대상: alcohol
+- 무엇으로부터 보호: 거의 모든 조건
+- 도입: NaH, BnBr
+- 제거: H2, Pd/C 또는 HBr
+
+### methyl ArOMe
+
+- 구조: ArOMe
+- 보호 대상: phenol
+- 무엇으로부터 보호: 염기
+- 도입: NaH, MeI 또는 (MeO)2SO2
+- 제거: BBr3, HBr, HI, Me3SiI
+
+### t-butyl ester(CO2t-Bu)
+
+- 구조: RCO2C(CH3)3
+- 보호 대상: carboxylic acid
+- 무엇으로부터 보호: nucleophile
+- 도입: isobutene, H+
+- 제거: 강산
+
+### Cbz (Z)
+
+- 구조: RNH-CO-OCH2Ph
+- 보호 대상: amine
+- 무엇으로부터 보호: electrophile
+- 도입: BnOCOCl, 염기
+- 제거: HBr/AcOH 또는 H2, Pd
+
+### t-Boc
+
+- 구조: RNH-CO-OC(CH3)3
+- 보호 대상: amine
+- 무엇으로부터 보호: electrophile
+- 도입: (t-BuOCO)2O, 염기
+- 제거: H+, H2O
+
+### Fmoc
+
+- 구조: 9-fluorenylmethyl 카바메이트
+- 보호 대상: amine
+- 무엇으로부터 보호: electrophile
+- 도입: Fmoc-Cl
+- 제거: 염기(예: amine)
+
 
 (출처: L12 p.5)
 
@@ -453,17 +541,80 @@ $$
 
 ## 반응 정리표
 
-| 보호 대상 | protecting group | 도입 조건 | 안정한 조건 | 제거 조건 | 비고 |
-|---|---|---|---|---|---|
-| alcohol | silyl 에테르 (TMS, TES, TBS/TBDMS, TIPS, TBDPS) | R3SiCl, imidazole | nucleophile, C/N 염기(Grignard, 유기리튬, acetylide 등) | TBAF (nBu4NF) 또는 H+/H2O | 산 안정성: TMS < TES < TBS < TIPS < TBDPS; 염기 안정성: TMS < TES < TBS ~ TBDPS < TIPS |
-| alcohol | THP | dihydropyran + 산 | 강염기 | H+, H2O | THP 자체도 acetal |
-| alcohol | benzyl 에테르 (OBn) | NaH, BnBr | 거의 모든 조건 | H2, Pd/C 또는 HBr | 강의에서는 부차적(회색 표시) |
-| phenol | methyl 에테르 (ArOMe) | NaH, MeI 또는 (MeO)2SO2 | 염기 | BBr3, HBr, HI, Me3SiI | |
-| carboxylic acid | t-butyl ester | isobutene, H+ | nucleophile | 강산 | 산 절단은 t-Bu cation 경유(Boc와 같은 원리) |
-| amine | Boc (t-BuOCO) | Boc2O, 염기 | electrophile, 염기, 수소화 | 산 (TFA; H+, H2O) | 부산물 CO2 + isobutene |
-| amine | Cbz (Z, BnOCO) | BnOCOCl, 염기 | electrophile | H2, Pd (수소화분해) 또는 HBr/AcOH | 부산물 toluene + CO2 |
-| amine | Fmoc | Fmoc-Cl, 염기 | electrophile, 산 | amine 염기 (E1cB) | 부산물 dibenzofulvene + CO2; 산에 안정하므로 Boc와 직교 |
-| aldehyde, ketone | acetal (1,3-다이옥솔레인) | HOCH2CH2OH, p-TsOH (물 제거) | 염기, nucleophile (Grignard, hydride 등) | H2O, p-TsOH (H+, H2O) | 가역 평형 반응 |
+<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+
+### alcohol
+
+- protecting group: silyl 에테르 (TMS, TES, TBS/TBDMS, TIPS, TBDPS)
+- 도입 조건: R3SiCl, imidazole
+- 안정한 조건: nucleophile, C/N 염기(Grignard, 유기리튬, acetylide 등)
+- 제거 조건: TBAF (nBu4NF) 또는 H+/H2O
+- 비고: 산 안정성: TMS < TES < TBS < TIPS < TBDPS; 염기 안정성: TMS < TES < TBS ~ TBDPS < TIPS
+
+### alcohol
+
+- protecting group: THP
+- 도입 조건: dihydropyran + 산
+- 안정한 조건: 강염기
+- 제거 조건: H+, H2O
+- 비고: THP 자체도 acetal
+
+### alcohol
+
+- protecting group: benzyl 에테르 (OBn)
+- 도입 조건: NaH, BnBr
+- 안정한 조건: 거의 모든 조건
+- 제거 조건: H2, Pd/C 또는 HBr
+- 비고: 강의에서는 부차적(회색 표시)
+
+### phenol
+
+- protecting group: methyl 에테르 (ArOMe)
+- 도입 조건: NaH, MeI 또는 (MeO)2SO2
+- 안정한 조건: 염기
+- 제거 조건: BBr3, HBr, HI, Me3SiI
+- 비고: —
+
+### carboxylic acid
+
+- protecting group: t-butyl ester
+- 도입 조건: isobutene, H+
+- 안정한 조건: nucleophile
+- 제거 조건: 강산
+- 비고: 산 절단은 t-Bu cation 경유(Boc와 같은 원리)
+
+### amine
+
+- protecting group: Boc (t-BuOCO)
+- 도입 조건: Boc2O, 염기
+- 안정한 조건: electrophile, 염기, 수소화
+- 제거 조건: 산 (TFA; H+, H2O)
+- 비고: 부산물 CO2 + isobutene
+
+### amine
+
+- protecting group: Cbz (Z, BnOCO)
+- 도입 조건: BnOCOCl, 염기
+- 안정한 조건: electrophile
+- 제거 조건: H2, Pd (수소화분해) 또는 HBr/AcOH
+- 비고: 부산물 toluene + CO2
+
+### amine
+
+- protecting group: Fmoc
+- 도입 조건: Fmoc-Cl, 염기
+- 안정한 조건: electrophile, 산
+- 제거 조건: amine 염기 (E1cB)
+- 비고: 부산물 dibenzofulvene + CO2; 산에 안정하므로 Boc와 직교
+
+### aldehyde, ketone
+
+- protecting group: acetal (1,3-다이옥솔레인)
+- 도입 조건: HOCH2CH2OH, p-TsOH (물 제거)
+- 안정한 조건: 염기, nucleophile (Grignard, hydride 등)
+- 제거 조건: H2O, p-TsOH (H+, H2O)
+- 비고: 가역 평형 반응
+
 
 직교성 요약: Boc(산) / Fmoc(염기) / Cbz(H2, Pd) / silyl 에테르(F-)는 서로 다른 조건으로 골라 벗길 수 있다. 반면 산 불안정 protecting group(Boc, acetal, silyl 에테르, THP, t-Bu ester)끼리, 그리고 수소화분해되는 Cbz와 benzyl 에테르끼리는 직교적이지 않다.
 
