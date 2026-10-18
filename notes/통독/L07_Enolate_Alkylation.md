@@ -214,12 +214,18 @@ acetoacetic ethyl은 소듐 ethoxide로 쉽게 enolate(소듐 염)가 되고, �
 
 ### 3.2 거꾸로 생각하기: 2-pentanone의 역합성
 
-그럼 목표 분자가 주어졌을 때 어떻게 거꾸로 짚어 갈까? 2-pentanone CH3COCH2CH2CH3를 보자. methyl ketone CH3CO-CH2-R에서 C=O 옆 CH2와 R 사이를 끊는다고 생각하면, CH3COCH2- 부분은 acetoacetic ester가, R(여기서는 ethyl)은 alkyl halide이 공급한다. 즉 $\text{2-펜타논} + \mathrm{CO_2} \Longrightarrow \text{2-에틸-3-옥소뷰탄산} \Longrightarrow \text{2-에틸아세토아세트산 에틸} \Longrightarrow \text{아세토아세트산 에틸}$ 순으로 거슬러 올라간다.
+그럼 목표 분자가 주어졌을 때 어떻게 거꾸로 짚어 갈까? 2-pentanone CH3COCH2CH2CH3를 보자. methyl ketone CH3CO-CH2-R에서 C=O 옆 CH2와 R 사이를 끊는다고 생각하면, CH3COCH2- 부분은 acetoacetic ester가, R(여기서는 ethyl)은 alkyl halide이 공급한다. 즉 $\begin{aligned} & \text{2-펜타논} + \mathrm{CO_2} \\ & \Longrightarrow \text{2-에틸-3-옥소뷰탄산} \\ & \Longrightarrow \text{2-에틸아세토아세트산 에틸} \\ & \Longrightarrow \text{아세토아세트산 에틸} \end{aligned}$ 순으로 거슬러 올라간다.
 
 실제 합성은 그 반대 순서다:
 
 $$
-\begin{aligned} &\text{아세토아세트산 에틸} \cr &\qquad \xrightarrow[(2)\ \mathrm{CH_3CH_2Br}]{(1)\ \mathrm{NaOEt}} \text{2-에틸아세토아세트산 에틸} \cr &\qquad \xrightarrow[(2)\ \mathrm{H_3O^+}]{(1)\ \text{dil.}\ \mathrm{NaOH},\ \text{heat}} \text{2-에틸-3-옥소뷰탄산} \xrightarrow{\text{heat}} \text{2-펜타논} + \mathrm{CO_2} \end{aligned}
+\begin{aligned}
+& \text{아세토아세트산 에틸} \\
+& \qquad \xrightarrow[(2)\ \mathrm{CH_3CH_2Br}]{(1)\ \mathrm{NaOEt}} \text{2-에틸아세토아세트산 에틸} \\
+& \qquad \\
+& \xrightarrow[(2)\ \mathrm{H_3O^+}]{(1)\ \text{dil.}\ \mathrm{NaOH},\ \text{heat}} \text{2-에틸-3-옥소뷰탄산} \\
+& \xrightarrow{\text{heat}} \text{2-펜타논} + \mathrm{CO_2}
+\end{aligned}
 $$
 
 ![acetoacetic ester 합성으로 2-pentanone 만들기 (1/3)](../../figures/L07/acetoacetic_ester_pentanone_1.svg)
@@ -259,7 +265,7 @@ malonic diethyl도 같은 논리로 움직인다. NaOEt로 enolate를 만들고 
 
 ### 4.2 carbonyl이 아니어도 enolate 같은 것이 생기나?
 
-생긴다. 질소를 포함한 작용기들이 그 예다. nitrile은 $\mathrm{PhCH_2C{\equiv}N} \xrightarrow{\text{base}} \mathrm{[PhCH{=}C{=}N^-}\ \leftrightarrow\ \mathrm{PhCH^-{-}C{\equiv}N]}$ 처럼 음전하를 질소로 넘길 수 있다. imine(C=N)은 $\mathrm{(CH_3)_2CH{-}CH{=}NPh} \xrightarrow{\text{base}} \mathrm{(CH_3)_2C{=}CH{-}N^-Ph}$ 로 아자-enolate(aza-enolate)를 만든다. nitro 화합물(N=O)은 특히 산성이라 nitro메테인은 Et3N 같은 약한 amine으로도 nitro메테인 anion(CH2=N+(O−)O−)이 된다.
+생긴다. 질소를 포함한 작용기들이 그 예다. nitrile은 $\begin{aligned} & \mathrm{PhCH_2C{\equiv}N} \\ & \xrightarrow{\text{base}} \mathrm{[PhCH{=}C{=}N^-}\ \\ & \leftrightarrow \ \mathrm{PhCH^-{-}C{\equiv}N]} \end{aligned}$ 처럼 음전하를 질소로 넘길 수 있다. imine(C=N)은 $\mathrm{(CH_3)_2CH{-}CH{=}NPh} \xrightarrow{\text{base}} \mathrm{(CH_3)_2C{=}CH{-}N^-Ph}$ 로 아자-enolate(aza-enolate)를 만든다. nitro 화합물(N=O)은 특히 산성이라 nitro메테인은 Et3N 같은 약한 amine으로도 nitro메테인 anion(CH2=N+(O−)O−)이 된다.
 
 ![PhCH2CN → nitrile-stabilized carbanion](../../figures/L07/nitrile_anion.svg)
 
@@ -357,15 +363,15 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 | LDA 제조 | n-BuLi + HN(i-Pr)2, THF | LiN(i-Pr)2 + butane | – | – | pKa 50이 빠져 비가역 (p.6) |
 | enolate 형성 (정량) | LDA, THF, −78 °C | lithium enolate | 덜 치환된 $\alpha$-C (kinetic) | – | amine(pKa 36~38)이 훨씬 약한 산 (p.5–8) |
 | enolate 형성 (소량, 평형) | NaOEt, EtOH | 소듐 enolate 소량 | – | – | EtOH(16)가 ketone(19)보다 강한 산 (p.5) |
-| kinetic vs thermodynamic enolate | LDA, −78 °C (kinetic) | 2-methylcyclohexanone → C1=C6 enolate | 덜 가려진 C6 | – | thermodynamic enolate는 C1=C2, 더 안정 (p.11–12) |
+| kinetic vs thermodynamic enolate | LDA, −78 °C (kinetic) | $\text{2-methylcyclohexanone} \longrightarrow \mathrm{C_1{=}C_6}\ \text{enolate}$ | 덜 가려진 C6 | – | thermodynamic enolate는 C1=C2, 더 안정 (p.11–12) |
 | ketone $\alpha$-alkylation | 1. LDA, DME/THF 2. CH3I (또는 BnBr) | 2,6-dimethylcyclohexanone 56% (2,2-이치환체 6%) | 덜 치환된 $\alpha$-C | 새 입체중심은 라세미 | SN2: methyl·1차·allyl·benzyl 좋음, 3차는 제거 (p.10–11) |
 | ester $\alpha$-alkylation | 1. LDA, THF 2. EtI | 2-ethylbutanoic acid methyl 96% | $\alpha$-C | – | ester $\alpha$-H pKa ~25 (p.13) |
 | 락톤 $\alpha$-alkylation | 1. LDA 2. MeI | $\alpha$-methyl-$\gamma$-뷰티로락톤 88% | $\alpha$-C | – | (p.14) |
 | acetoacetic ester 합성 | 1. NaOEt 2. R–X 3. aq. NaOH, 가열 4. H3O⁺, 가열(−CO2) | methyl ketone CH3COCH2R | 두 C=O 사이 CH2 | – | R–X에 −CH2COCH3를 붙이는 효과 (p.16–18) |
 | malonic ester 합성 | 1. NaOEt 2. R–X 3. KOH 환류 4. H2SO4 환류(−CO2) | carboxylic acid RCH2COOH | 두 C=O 사이 CH2 | – | R–X에 −CH2COOH를 붙이는 효과 (p.19–20) |
-| $\beta$-keto acid decarboxylation | 가열 | enol → ketone + CO2 | – | – | 6원자 고리형 transition state (p.16) |
+| $\beta$-keto acid decarboxylation | 가열 | $\text{enol} \longrightarrow \text{ketone} + \mathrm{CO_2}$ | – | – | 6원자 고리형 transition state (p.16) |
 | acid chloride + Et3N | Cl2CHCOCl, Et3N | dichloroketene Cl2C=C=O | – | – | enolate가 Cl⁻을 잃음 (p.23) |
-| C-alkylation vs O-alkylation | soft: MeI, MeBr / hard: MeOMs, Me2SO4, Me3O⁺ | soft → ketone (C), hard → enol ether (O) | C 또는 O | – | 큰 cation(Cs⁺, K⁺)은 O reaction 경향 (p.24–25) |
+| C-alkylation vs O-alkylation | soft: MeI, MeBr / hard: MeOMs, Me2SO4, Me3O⁺ | $\begin{aligned} & \text{soft} \\ & \longrightarrow \text{ketone}\ \mathrm{(C)},\ \text{hard} \\ & \longrightarrow \text{enol ether}\ \mathrm{(O)} \end{aligned}$ | C 또는 O | – | 큰 cation(Cs⁺, K⁺)은 O reaction 경향 (p.24–25) |
 | Evans 비대칭 alkylation | N-acyl oxazolidinone, LDA, −78 °C; BnBr | $\alpha$-benzyl 생성물 92% | $\alpha$-C | 99:1 dr | Li chelate Z-enolate, 보조기가 한 면을 가림 (p.27) |
 | 보조기 제거 | LiBH4 / LiOH, H2O2 | 키랄 1차 alcohol / 키랄 carboxylic acid | – | $\alpha$-입체중심 유지 | (p.28) |
 
@@ -377,7 +383,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 2. (p.13) 빈 칸을 채워라:
 
-   $\gamma\text{-뷰티로락톤} \xrightarrow{\mathrm{LDA}} \mathrm{[\thinspace A\thinspace]} \xrightarrow{\mathrm{MeI}} \mathrm{[\thinspace B\thinspace]}$ (수율 88%)
+   $\begin{aligned} & \gamma\text{-뷰티로락톤} \\ & \xrightarrow{\mathrm{LDA}} \mathrm{[\thinspace A\thinspace]} \\ & \xrightarrow{\mathrm{MeI}} \mathrm{[\thinspace B\thinspace]} \end{aligned}$ (수율 88%)
 
 3. (p.14) CH3CH(CH3)CH(CH2CH3)CO2CH3 (2-ethyl-3-methylbutanoic acid methyl)를 enolate $\alpha$-치환 반응으로 합성하라. 두 가지 가능한 끊기 중 어느 것이 더 좋은지 이유와 함께 답하라.
 
@@ -455,7 +461,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 
 6. $\mathrm{CH_2(CO_2Et)_2}$ $\xrightarrow[(2)\ \mathrm{PhCH_2Br}]{(1)\ \mathrm{NaOEt}} \text{벤질말론산 다이에틸}\ \mathrm{PhCH_2CH(CO_2Et)_2}$ $\xrightarrow[(2)\ \text{dil.}\ \mathrm{H_2SO_4},\ \text{reflux},\ \mathrm{{-}CO_2}]{(1)\ \mathrm{KOH},\ \text{reflux}} \mathrm{PhCH_2CH_2COOH}$ ($\mathrm{KOH}$ 50%) ((1) KOH 대신 NaOH, (2) dil. $\mathrm{H_2SO_4}$ 대신 $\mathrm{H_3O^+}$도 가능)
 
-   해설: malonic ester 합성은 R-X → R-CH2COOH. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
+   해설: $\text{malonic ester 합성은}\ \mathrm{R{-}X} \longrightarrow \mathrm{R{-}CH_2COOH}$. 목표물에서 -CH2COOH를 떼면 R = benzyl → BnBr(benzyl성 1차 halide, SN2에 매우 좋음). (출처: L7 p.19, p.29)
 
 ![diethyl malonate → diethyl benzylmalonate](../../figures/L07/malonic_1.svg)
 
@@ -472,7 +478,7 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 (탈카복실화의 메커니즘은 3.1의 decarboxylation 종합 그림과 같은 6원자 고리형 transition state이고, 치환 malonic acid에서는 ketone C=O 자리에 다른 쪽 carboxyl의 C=O가 온다.)
 
 7. 정답: (b), (c), (d), (e).
-   - (b) benzaldehyde, (e) pivaldehyde: $\alpha$-H가 없음(benzaldehyde의 $\alpha$-C는 방향족 고리 탄소, pivaldehyde의 $\alpha$-C는 4차) → enolization 불가능.
+   - (b) benzaldehyde, (e) pivaldehyde: $\begin{aligned} & \alpha\ \text{-H가}\ \text{없음}(\text{benzaldehyde의}\ \alpha\ \text{-C는 방향족 고리 탄소},\  \\ & \text{pivaldehyde의}\ \alpha\ \text{-C는 4차}) \\ & \longrightarrow \text{enolization 불가능} \end{aligned}$.
    - (c) acetic acid: MeO−가 O-H(pKa 5)를 먼저 제거해 안정한 carboxylate를 만들고 C-H는 건드리지 않음.
    - (d) acetamide: N-H가 먼저 deprotonate되어 amidate anion 형성.
    - (a) cyclohexanone, (f) acetic acid methyl은 enolate 형성 가능(MeO−와는 가역 평형, LDA로는 정량적). (출처: L7 p.21, p.23)

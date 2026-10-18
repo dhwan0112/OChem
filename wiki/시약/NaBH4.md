@@ -23,7 +23,7 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 | ester | (1차 alcohol) | 매우 느림, 보통 살아남음 |
 | amide, carboxylic acid | 반응 없음 | |
 
-예: butanal --[NaBH₄, MeOH]--> 1-butanol(85%), butanone --[NaBH₄, MeOH]--> 2-butanol(87%). (출처: L5 p.17, p.19)
+예: $\begin{aligned} & \text{butanal} \\ & \xrightarrow[\mathrm{MeOH}]{\mathrm{NaBH_4}} \text{1-butanol(85\%)},\ \text{butanone} \\ & \xrightarrow[\mathrm{MeOH}]{\mathrm{NaBH_4}} \text{2-butanol(87\%)} \end{aligned}$. (출처: L5 p.17, p.19)
 
 ## 메커니즘
 
@@ -40,7 +40,12 @@ NaBH₄는 아마 가장 많이 쓰이는 환원제다. 온화하기 때문에 �
 3번 단계에서 짐작할 수 있듯, BH₄⁻ 하나는 수소화물 네 개를 모두 쓸 수 있다. 슬라이드의 stoichiometry가 이것을 보여 준다.
 
 $$
-\begin{aligned} &4\ \mathrm{R_2CO} + \mathrm{NaBH_4} \longrightarrow \mathrm{Na[B(OCHR_2)_4]} \xrightarrow{\ 4\ \mathrm{H_2O}\ \mathstrut} \mathrm{NaB(OH)_4} \cr &\qquad + 4\ \mathrm{R_2CHOH} \end{aligned}
+\begin{aligned}
+& 4\ \mathrm{R_2CO} + \mathrm{NaBH_4} \\
+& \longrightarrow \mathrm{Na[B(OCHR_2)_4]} \\
+& \xrightarrow{\ 4\ \mathrm{H_2O}\ \mathstrut} \mathrm{NaB(OH)_4} \\
+& \qquad + 4\ \mathrm{R_2CHOH}
+\end{aligned}
 $$
 
 (출처: L5 p.20)
@@ -56,7 +61,7 @@ $$
 
 보통 alcohol 용매에서 과량 쓴다. NaBH₄는 물에 잘 녹고 물과는 느리게 반응해 H₂를 내며(알칼리를 넣으면 더 느려진다), **methanol과는 빠르게** 반응한다(60 °C, 24분에 H₂ 100% 발생, 같은 조건 ethanol은 2% 미만). 즉 methanol은 환원제를 갉아먹는다. 그래서 슬라이드의 결론은 "**EtOH가 MeOH보다 좋은 용매**"다.[^1] (출처: L5 p.20)
 
-실험 사진 예시는 4-*tert*-butylcyclohexanone --[NaBH₄, ethanol]--> 4-*tert*-butylcyclohexanol이며, TLC(S = 출발물, C = co-spot, R = 반응액)로 진행을 확인한다.[^2] (출처: L5 p.20)
+$\begin{aligned} & \text{실험 사진 예시는 4-*tert*-butylcyclohexanone} \\ & \xrightarrow{\mathrm{NaBH_4},\ \text{ethanol}} \text{4-*tert*-butylcyclohexanol} \end{aligned}$이며, TLC(S = 출발물, C = co-spot, R = 반응액)로 진행을 확인한다.[^2] (출처: L5 p.20)
 
 대조적으로 [LiAlH4](LiAlH4.md)는 너무 반응성이 커서 쓸 수 있는 용매가 탄화수소, ether, 3차 amine으로 제한되며, 보통 diethyl ether, THF, 다이글라임을 쓴다. (출처: L5 p.21)
 
@@ -67,7 +72,7 @@ $$
 | [NaBH3CN](NaBH3CN.md) | 느림 | X | X | X |
 | **NaBH₄** | O | 느림 | X | X |
 | [LiBH4](LiBH4.md) | O | O | X | X |
-| [LiAlH4](LiAlH4.md) | O | O | O(→ amine) | 느림(충분히 쓰면 O) |
+| [LiAlH4](LiAlH4.md) | O | O | $\mathrm{O}() \longrightarrow \text{amine)}$ | 느림(충분히 쓰면 O) |
 
 (출처: L5 p.17)
 
@@ -89,7 +94,7 @@ $$
 
 ![4-tert-butylcyclohexanone → 4-tert-butylcyclohexanol](../../figures/L05/tbu_cyclohexanone_nabh4.svg)
 
-그림: C=O(빨강) → CH–OH(초록).
+그림: $\mathrm{C{=}O(}\text{빨강)} \longrightarrow \mathrm{CH{-}OH(}\text{초록)}$.
 
 (이 반응의 메커니즘은 위 butanone 종합 그림과 같다. 고리 ketone이라는 점만 다르다.)
 

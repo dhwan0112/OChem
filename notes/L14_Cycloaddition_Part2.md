@@ -43,7 +43,7 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md)
 
 ### 6. regioselectivity과 stereoselectivity의 결합 (슬라이드 p.16–19)
-- (E)-1-methoxybutadiene + acrolein: "ortho" + endo("out" 치환기와 EWG cis) → cis-2-methoxycyclohex-3-ene-1-carbaldehyde.
+- (E)-1-methoxybutadiene + acrolein: $\begin{aligned} & \text{"ortho"} + \text{endo}(\mathrm{"out"}\ \text{치환기와}\ \mathrm{EWG}\ \text{cis}) \\ & \longrightarrow \text{cis-2-methoxycyclohex-3-ene-1-carbaldehyde} \end{aligned}$.
 - 6.1 (E)-1-acetoxybutadiene + (E)-crotonaldehyde: 3단계(stereospecificity)까지(연습 문제 3).
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../wiki/개념/endo%20규칙.md)
 
@@ -52,11 +52,11 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md)
 
 ### 8. 6원환을 넘어서: [6+4] cycloaddition (슬라이드 p.21)
-- supra–supra 열적 cycloaddition은 총 전자 수 4n+2일 때 허용. tropone + cyclopentadiene("endo" 표기는 문헌과 다름, 해당 문서 각주), fulvene + 1-NEt2-diene → azulene 골격.
+- supra–supra 열적 cycloaddition은 총 전자 수 4n+2일 때 허용. $\begin{aligned} & \text{tropone} + \text{cyclopentadiene}(\text{"endo" 표기는 문헌과 다름},\  \\ & \text{해당 문서 각주}),\ \text{fulvene} + \text{1-NEt2-diene} \\ & \longrightarrow \text{azulene 골격} \end{aligned}$.
 - → [6+4 cycloaddition](../wiki/반응/6+4%20고리화%20첨가.md)
 
 ### 9. [4+3] cycloaddition (슬라이드 p.22–23)
-- 1,3-dibromoacetone + Zn → oxyallyl cation(3원자 $2\pi$) + diene → cyclohept-4-enone. 6전자라 허용.
+- $\begin{aligned} & \text{1,3-dibromoacetone} + \mathrm{Zn} \\ & \longrightarrow \text{oxyallyl}\ \text{cation}(\text{3원자}\ 2\pi) + \text{diene} \\ & \longrightarrow \text{cyclohept-4-enone} \end{aligned}$. 6전자라 허용.
 - → [4+3 cycloaddition](../wiki/반응/4+3%20고리화%20첨가.md), [allyl cation](../wiki/개념/알릴%20양이온.md)
 
 ### 10. 광화학 [2+2] cycloaddition (슬라이드 p.24–28)
@@ -91,7 +91,7 @@ L13에서 Diels–Alder 반응이 concerted, stereospecific, endo 선호라는 �
 | ethylene + maleic anhydride | 가열 ✗ / $h\nu$ ✓ | cyclobutane-1,2-dicarboxylic anhydride | – | supra–supra | [광화학 2+2](../wiki/반응/광화학%202+2%20고리화%20첨가.md) (p.24) |
 | dimethyl 1,2-cyclobutenedicarboxylate + 3-methylcyclohex-2-enone | $h\nu$ | 4-4-6 삼환 diester ketone | – | 각 성분 stereospecific, anti | (p.27) |
 | isobutylene + cyclohex-2-enone | $h\nu$ | 7,7-dimethylbicyclo[4.2.0]octan-2-one | CMe2–C$\beta$ | cis 융합으로 그림 | LUMO/LUMO (p.28) |
-| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | endo 이량체 → 새장 diketone | – | endo | [cubane](../wiki/개념/큐베인.md) (p.30) |
+| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | $\text{endo 이량체} \longrightarrow \text{새장 diketone}$ | – | endo | [cubane](../wiki/개념/큐베인.md) (p.30) |
 
 ## 연습 문제
 → [L14 연습 문제](../practice/L14_Exercises.md)

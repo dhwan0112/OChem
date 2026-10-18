@@ -27,13 +27,13 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 - → [천연물과 polyketide, HWE와의 관계](../wiki/반응/알돌%20반응.md), [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md), [oxaphosphetane](../wiki/개념/옥사포스페테인.md)
 
 ### 1. aldol 반응이란: 정의와 강의의 지도 (p.7)
-- enolate(또는 enol) + carbonyl ⇌ $\beta$-hydroxy carbonyl → 탈수. 첫 단계가 가역이다.
+- $\begin{aligned} & \text{enolate}(\text{또는 enol}) + \text{carbonyl} \\ & \rightleftharpoons \beta\ \text{-hydroxy carbonyl} \\ & \longrightarrow \text{탈수} \end{aligned}$. 첫 단계가 가역이다.
 - → [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 ### 2. 염기성 조건의 aldol reaction
 
 #### 2.1 "aldol"이라는 이름은 어디서 왔나 (p.8)
-- 2 CH₃CHO --[10% NaOH, 5 °C]--> 3-hydroxybutanal(50%), aldehyde + alcohol.
+- $\begin{aligned} & 2\ \mathrm{CH_3CHO} \\ & \xrightarrow[5\,{}^\circ\mathrm{C}]{10\%\ \mathrm{NaOH}} \text{3-hydroxybutanal(50\%)},\ \text{aldehyde} + \text{alcohol} \end{aligned}$.
 - → [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 #### 2.2 메커니즘: 같은 분자가 nucleophile도 되고 electrophile도 된다 (p.9)
@@ -51,7 +51,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 ### 3. 산성 조건의 aldol reaction
 
 #### 3.1 산에서는 거의 항상 축합까지 간다 (p.12)
-- acetone + HCl → 4-methylpent-3-en-2-one, cyclopentanone + H⁺ → 2-cyclopentylidenecyclopentanone.
+- $\begin{aligned} & \text{acetone} + \mathrm{HCl} \\ & \longrightarrow \text{4-methylpent-3-en-2-one},\ \text{cyclopentanone} + \mathrm{H^+} \\ & \longrightarrow \text{2-cyclopentylidenecyclopentanone} \end{aligned}$.
 - → [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 #### 3.2 메커니즘: enolate 대신 enol (p.13)
@@ -62,7 +62,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 - 빈 칸 세 개 → [L8 연습 문제](../practice/L08_Exercises.md) 1–3
 
 ### 4. aldol은 거꾸로도 간다: retro-aldol reaction (p.15–16)
-- 천연 benzaldehyde: cinnamaldehyde --[K₂CO₃, reflux]--> PhCHO + CH₃CHO. conjugate addition → C–C 개열.
+- 천연 benzaldehyde: $\text{cinnamaldehyde} \xrightarrow[\text{reflux}]{\mathrm{K_2CO_3}} \mathrm{PhCHO} + \mathrm{CH_3CHO}$. conjugate addition → C–C 개열.
 - → [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
 
 ### 5. 교차 aldol reaction: 문제와 세 가지 해법
@@ -84,12 +84,12 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 - → [crossed aldol reaction](../wiki/반응/교차%20알돌%20반응.md), [Knoevenagel condensation](../wiki/반응/크뇌베나겔%20축합.md), [Henry reaction](../wiki/반응/헨리%20반응.md), [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md)
 
 ### 6. intramolecular aldol reaction: 고리 만들기 (p.30–32)
-- dicarbonyl → 5원/6원 고리 enone. 6-oxoheptanal은 C5 enolate가 aldehyde를 공격해 1-acetylcyclopentene(73%).
+- $\text{dicarbonyl} \longrightarrow \text{5원/6원 고리 enone}$. 6-oxoheptanal은 C5 enolate가 aldehyde를 공격해 1-acetylcyclopentene(73%).
 - lily aldehyde 합성(p.32)은 Case 2 crossed aldol 응용 → [lilial](../wiki/반응/교차%20알돌%20반응.md), [L8 연습 문제](../practice/L08_Exercises.md) 8
 - → [intramolecular aldol reaction](../wiki/반응/분자내%20알돌%20반응.md)
 
 ### 7. enolate가 만나는 세 electrophile (p.33)
-- aldol(aldehyde/ketone → $\beta$-hydroxy carbonyl), Claisen(ester → 1,3-dicarbonyl), Michael($\alpha,\beta$-unsaturated carbonyl → 1,5-dicarbonyl).
+- $\begin{aligned} & \text{aldol}(\text{aldehyde/ketone}) \\ & \longrightarrow \beta\ \text{-hydroxy carbonyl)},\ \text{Claisen}(\text{ester}) \\ & \longrightarrow \text{1,3-dicarbonyl)},\ \text{Michael}(\alpha,\beta\ \text{-unsaturated carbonyl}) \\ & \longrightarrow \text{1,5-dicarbonyl)} \end{aligned}$.
 - → [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md), [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 8. 정리 (p.34)
@@ -103,7 +103,7 @@ aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소�
 | self-[aldol](../wiki/반응/알돌%20반응.md) (CH₃CHO) | 10% NaOH, H₂O, 5 °C | 3-hydroxybutanal (50%) | 라세미 | 가역 (p.8–9) |
 | 염기성 탈수 | NaOH, 더 격렬한 조건 | (E)-2-butenal | $\alpha$-H 제거, $\beta$-OH 이탈 | [E1cB](../wiki/개념/E1cB%20제거.md) (p.10–11) |
 | 산성 aldol condensation | HCl (cat.) / H⁺ | 4-methylpent-3-en-2-one / 2-cyclopentylidenecyclopentanone | — | enol 경유, 탈수 E1 (p.12–13) |
-| [retro-aldol](../wiki/반응/역알돌%20반응.md) | K₂CO₃, reflux | cinnamaldehyde → PhCHO + CH₃CHO | conjugate addition 후 C$\alpha$–C$\beta$ 개열 | (p.16) |
+| [retro-aldol](../wiki/반응/역알돌%20반응.md) | K₂CO₃, reflux | $\text{cinnamaldehyde} \longrightarrow \mathrm{PhCHO} + \mathrm{CH_3CHO}$ | conjugate addition 후 C$\alpha$–C$\beta$ 개열 | (p.16) |
 | [directed aldol](../wiki/반응/교차%20알돌%20반응.md) (LDA) | (1) LDA, THF, −78 °C; (2) RCHO; (3) H₂O | $\beta$-hydroxy ketone (5-hydroxyhexan-3-one, 75%) | 덜 치환된 $\alpha$-탄소 | aldehyde enolate 부적합 (p.18–20) |
 | thermodynamic [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md) | TMSCl, Et₃N (DMF, 130 °C, 66 h) | 더 치환된 TMS enol ether (88 : 12) | 더 치환된 쪽 | cation성 TS (p.22–24) |
 | kinetic silyl enol ether | (i) LDA, −78 °C; (ii) TMSCl | 덜 치환된 TMS enol ether (99 : 1) | 덜 치환된 쪽 | (p.24) |

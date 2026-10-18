@@ -17,16 +17,16 @@ OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 OsO₄를 촉매
 
 | 짝 | 금속이 하는 일 | NMO가 하는 일 | 출처 |
 |---|---|---|---|
-| cat. OsO₄ / NMO | alkene에 두 O를 syn으로 붙이고 Os(VIII) → Os(VI) | Os(VI)를 Os(VIII)로 재산화 | L2 p.14 |
-| cat. TPAP / NMO (Ley–Griffith) | alcohol을 산화하고 Ru(VII) → Ru(V) | Ru(V)를 Ru(VII)로 재산화, 자신은 *N*-methyl모폴린이 됨 | L6c p.10 |
+| cat. OsO₄ / NMO | $\text{alkene에 두 O를 syn으로 붙이고}\ \mathrm{Os(VIII)} \longrightarrow \mathrm{Os(VI)}$ | Os(VI)를 Os(VIII)로 재산화 | L2 p.14 |
+| cat. TPAP / NMO (Ley–Griffith) | $\text{alcohol을 산화하고}\ \mathrm{Ru(VII)} \longrightarrow \mathrm{Ru(V)}$ | Ru(V)를 Ru(VII)로 재산화, 자신은 *N*-methyl모폴린이 됨 | L6c p.10 |
 
 보충: NMO는 N–O 결합의 산소 하나를 금속에 넘겨주고 3차 amine(*N*-methyl모폴린)으로 환원된다. 촉매량 OsO₄ + NMO 조합은 흔히 Upjohn 조건이라 부른다. (보충 근거: Clayden p.442, p.545)
 
 ## 예
 
-- R–CH₂–CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R–CH₂–CH(OH)–C(OH)(CH₃)₂ (출처: L2 p.14)
-- $\alpha$-hydroxy ester(2차 alcohol) --[TPAP(cat.), NMO]--> $\alpha$-keto ester (93%) (출처: L6c p.10)
-- 바레니클린 intermediate: 노보넨형 C=C --[cat. OsO₄, NMO, 85%]--> exo-*cis*-diol --[NaIO₄]--> dialdehyde (→ [periodate cleavage](../반응/과아이오딘산%20절단.md)) (출처: Tutorial 2 문제 3)
+- $\begin{aligned} & \mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \\ & \xrightarrow{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO},\ \mathrm{H_2O/}\ \mathit{t}\ \mathrm{{-}BuOH}} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2} \end{aligned}$ (출처: L2 p.14)
+- $\alpha\ \text{-hydroxy}\ \text{ester}(\text{2차 alcohol}) \xrightarrow{\mathrm{TPAP(cat.)},\ \mathrm{NMO}} \alpha\ \text{-keto ester}\ (93\%)$ (출처: L6c p.10)
+- 바레니클린 intermediate: $\begin{aligned} & \text{노보넨형}\ \mathrm{C{=}C} \\ & \xrightarrow{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO},\ 85\%} \text{exo-*cis*-diol} \\ & \xrightarrow{\mathrm{NaIO_4}} \text{dialdehyde} \end{aligned}$ (→ [periodate cleavage](../반응/과아이오딘산%20절단.md)) (출처: Tutorial 2 문제 3)
 
 ## 시험에서
 

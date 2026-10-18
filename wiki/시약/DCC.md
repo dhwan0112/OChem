@@ -23,11 +23,14 @@ tags: [분류/시약, 범위/Test2, 단원/보호기, 강의/L12, 시약유형/�
 
 L-phenylalanine과 L-alanine으로 Phe-Ala dipeptide를 만드는 공식 풀이다. (출처: L12 Practice 풀이 p.3)
 
-1. L-Phe --[Boc₂O]--> Boc-Phe-OH (amine 보호, → [Boc](Boc%20보호기.md))
-2. L-Ala --[H⁺, MeOH]--> H-Ala-OMe (carboxylic acid를 methyl ester로 보호)
-3. Boc-Phe-OH + H-Ala-OMe --[DCC]--> Boc-Phe-Ala-OMe
-4. --[TFA]--> H₂N-Phe-Ala-OMe (→ [TFA](TFA.md))
-5. --[NaOH, 물]--> L-Phe-L-Ala (ester 가수분해)
+1. $\mathrm{L{-}Phe} \xrightarrow{\mathrm{Boc_2O}} \mathrm{Boc{-}Phe{-}OH}\ (\text{amine 보호}),$ → [Boc](Boc%20보호기.md))
+2. $\begin{aligned} & \mathrm{L{-}Ala} \\ & \xrightarrow[\mathrm{MeOH}]{\mathrm{H^+}} \mathrm{H{-}Ala{-}OMe}\ (\text{carboxylic acid를 methyl ester로 보호}) \end{aligned}$
+
+3. $\mathrm{Boc{-}Phe{-}OH} + \mathrm{H{-}Ala{-}OMe} \xrightarrow{\mathrm{DCC}} \mathrm{Boc{-}Phe{-}Ala{-}OMe}$
+
+4. $\xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$ (→ [TFA](TFA.md))
+5. $\xrightarrow{\mathrm{NaOH},\ \text{물}} \mathrm{L{-}Phe{-}L{-}Ala}\ (\text{ester 가수분해})$
+
 
 보호를 하는 이유는 각 amino acid가 amine(nucleophile)과 carboxylic acid(DCC로 활성화되는 쪽)를 모두 갖기 때문이다. 보호 없이 DCC와 섞으면 Phe-Phe, Ala-Ala, Ala-Phe, Phe-Ala와 oligomer가 무작위로 생긴다. (출처: L12 p.9; L12 Practice 문제 3)
 

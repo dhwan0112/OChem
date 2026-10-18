@@ -15,8 +15,8 @@
 
 ## 정답 및 해설
 
-1. **경로 A (amide 환원, p.9)**: `PhCH2COOH --[1. SOCl2; 2. CH3NH2]--> PhCH2CONHCH3 --[1. LiAlH4; 2. H2O]--> PhCH2CH2NHCH3`. amide C=O가 CH<sub>2</sub>가 된다.
-   **경로 B (reductive amination, p.10-12)**: `PhCH2CHO + CH3NH2 --[NaBH3CN, 약산성]--> PhCH2CH2NHCH3`. 새 C-N 결합의 탄소 쪽(CH<sub>2</sub>)이 aldehyde에서 온다.
+1. **경로 A (amide 환원, p.9)**: $\begin{aligned} & \mathrm{PhCH_2COOH} \\ & \xrightarrow{1.\ \mathrm{SOCl_2};\ 2.\ \mathrm{CH_3NH_2}} \mathrm{PhCH_2CONHCH_3} \\ & \xrightarrow{1.\ \mathrm{LiAlH_4};\ 2.\ \mathrm{H_2O}} \mathrm{PhCH_2CH_2NHCH_3} \end{aligned}$. amide C=O가 CH<sub>2</sub>가 된다.
+   **경로 B (reductive amination, p.10-12)**: $\mathrm{PhCH_2CHO} + \mathrm{CH_3NH_2} \xrightarrow{\mathrm{NaBH_3CN},\ \text{약산성}} \mathrm{PhCH_2CH_2NHCH_3}$. 새 C-N 결합의 탄소 쪽(CH<sub>2</sub>)이 aldehyde에서 온다.
    **경로 C**: 2-phenylethylamine(p.7의 azide 경로)을 formylation(예: HCOOEt)해 N-포밀 amide PhCH<sub>2</sub>CH<sub>2</sub>NHCHO로 만든 뒤 LiAlH<sub>4</sub>로 환원하면 NHCH<sub>3</sub>가 된다.
    함정: PhCH<sub>2</sub>CH<sub>2</sub>Br + CH<sub>3</sub>NH<sub>2</sub> 직접 alkylation은 over-alkylation 위험(p.6)이 있고, Eschweiler–Clarke는 N,N-dimethyl까지 가므로 monomethyl 합성에 맞지 않는다(p.15).
 
@@ -34,7 +34,7 @@
 
 6. LiAlH<sub>4</sub>는 강한 환원제다(p.17). **lactam(고리형 amide)의 C=O는 CH<sub>2</sub>가 되어** N-methyl 고리형 3차 amine이 된다. **enone의 C=O는 2차 alcohol**(allyl alcohol)이 된다. 보충: LiAlH<sub>4</sub>는 enone을 주로 1,2-환원하므로 C=C는 남는다(1,4-첨가와의 비교는 → [1,2-addition vs 1,4-addition](../wiki/개념/1,2-첨가와%201,4-첨가.md)). aryl methyl ether와 고리형 ether는 변하지 않는다. 보충: 3-methoxy, 4,5-에폭시 고리, N-methyl, 6-OH, 7,8-이중결합의 조합은 morphine 계열(morphinan, codeine 유사) 골격에 해당한다. 새 C-OH stereocenter의 배향은 슬라이드에 제시되지 않았다.
 
-7. **alcohol 경유(p.17 "via alcohol")**: `ester --[1. LiAlH4 (또는 LiBH4); 2. H2O]--> 2-(furan-2-일)propane-1-ol --[온화한 산화: Swern, PCC, Dess–Martin 등]--> 2-(furan-2-일)propanal`. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol oxidation](../wiki/반응/알코올%20산화.md)).
+7. **alcohol 경유(p.17 "via alcohol")**: $\begin{aligned} & \text{ester} \\ & \xrightarrow{1.\ \mathrm{LiAlH_4}\ (\text{또는}\ \mathrm{LiBH_4});\ 2.\ \mathrm{H_2O}} \text{2-(furan-2-일)propane-1-ol} \\ & \xrightarrow{\text{온화한 산화: Swern},\ \mathrm{PCC},\ \text{Dess–Martin 등}} \text{2-(furan-2-일)propanal} \end{aligned}$. 1차 alcohol을 carboxylic acid까지 과산화하지 않는 산화제를 골라야 한다(→ [alcohol oxidation](../wiki/반응/알코올%20산화.md)).
    **acid chloride 경유(p.17, p.33)**: ester 가수분해 → carboxylic acid → SOCl<sub>2</sub> → acid chloride → H<sub>2</sub>, Pd/BaSO<sub>4</sub>, quinoline(Rosenmund) → aldehyde.
 
 8. (a) LiBH<sub>4</sub>: ester만 환원되어 **HOCH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CO<sub>2</sub>H** (5-hydroxy-3-methylpentanoic acid). LiBH<sub>4</sub>는 산 존재하에 ester를 선택 환원한다(p.22). 산은 deprotonate되어 반응성 최하위인 carboxylate(p.18)가 된다.

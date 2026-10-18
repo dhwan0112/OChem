@@ -32,7 +32,9 @@ acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nuc
 
 1. $\alpha$-alkylation($\alpha$-alkylation):
 
-   $\mathrm{R{-}C(O^-){=}CH_2} + \mathrm{Br{-}CH_2R'} \longrightarrow \mathrm{R{-}CO{-}CH_2{-}CH_2R'}$
+   $$
+\mathrm{R{-}C(O^-){=}CH_2} + \mathrm{Br{-}CH_2R'} \longrightarrow \mathrm{R{-}CO{-}CH_2{-}CH_2R'}
+$$
 
    S_N2로 Br⁻가 떨어진다.
 2. aldol reaction: enolate + aldehyde/ketone `R'–CO–R''` ⇌ $\beta$-hydroxy carbonyl `R–CO–CH₂–C(OH)R'R''` ⇌ (탈수) $\alpha,\beta$-unsaturated carbonyl `R–CO–CH=CR'R''`. 각 단계가 가역으로 그려져 있다.
@@ -193,7 +195,11 @@ $$
 비대칭 ketone에서 특정 $\alpha$-탄소만 halogenate하고 싶다면 어떻게 해야 할까? 슬라이드의 해법은 enol을 silyl enol ether의 형태로 "고정"하는 것이다.
 
 $$
-\begin{aligned} &\mathrm{R{-}CH_2{-}CO{-}CH_3} \xrightarrow{\mathrm{LDA}} \mathrm{R{-}CH_2{-}C(OLi){=}CH_2} \cr &\qquad \xrightarrow{\ \mathrm{Me_3SiCl}\ \mathstrut} \mathrm{R{-}CH_2{-}C(OSiMe_3){=}CH_2} \cr &\qquad \xrightarrow{\ \mathrm{Br_2}\ \mathstrut} \mathrm{R{-}CH_2{-}CO{-}CH_2Br} \end{aligned}
+\begin{aligned}
+& \mathrm{R{-}CH_2{-}CO{-}CH_3} \xrightarrow{\mathrm{LDA}} \mathrm{R{-}CH_2{-}C(OLi){=}CH_2} \\
+& \qquad \xrightarrow{\ \mathrm{Me_3SiCl}\ \mathstrut} \mathrm{R{-}CH_2{-}C(OSiMe_3){=}CH_2} \\
+& \qquad \xrightarrow{\ \mathrm{Br_2}\ \mathstrut} \mathrm{R{-}CH_2{-}CO{-}CH_2Br}
+\end{aligned}
 $$
 
 LDA(lithium diisopropylamide)는 부피가 큰 강염기라 가장 덜 least hindered $\alpha$-H, 여기서는 CH₃의 H를 떼어낸다. 이렇게 생긴 덜 치환된 lithium enolate를 Me₃SiCl로 산소에서 silyl화하면, 위치가 정해진 중성 enol 등가체인 silyl enol ether가 된다. 이것을 Br₂와 반응시키면 덜 치환된 $\alpha$-탄소(CH₃ 쪽)에 Br이 들어간다. (→ [L7](L07_Enolate_Alkylation.md) enolate 형성의 regioselectivity은 enolate 강의 문서 참고)
@@ -215,7 +221,11 @@ enol의 산소 대신 질소가 붙어 있으면 어떻게 될까? 그것이 ena
 대표적인 사용법은 Stork enamine alkylation이다.
 
 $$
-\begin{aligned} &\text{사이클로헥사논} \cr &\qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{1-(cyclohex-1-en-1-yl)pyrrolidine} \cr &\qquad \xrightarrow{\ 1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}\ \mathstrut} \text{2-알킬사이클로헥사논} \end{aligned}
+\begin{aligned}
+& \text{사이클로헥사논} \\
+& \qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{1-(cyclohex-1-en-1-yl)pyrrolidine} \\
+& \qquad \xrightarrow{\ 1.\ \mathrm{R{-}X};\ 2.\ \mathrm{H_2O},\ \mathrm{H^+}\ \mathstrut} \text{2-알킬사이클로헥사논}
+\end{aligned}
 $$
 
 ![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
@@ -245,7 +255,12 @@ aldehyde를 $\alpha$-alkylate하는 것은 왜 까다로울까? aldehyde는 친�
 첫 번째 예는 pentane알이다.
 
 $$
-\begin{aligned} &\mathrm{OHC{-}CH_2CH_2CH_2CH_3} \cr &\qquad \xrightarrow{\ \mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}\ \mathstrut} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \cr &\qquad \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{BrCH_2CO_2Et}\ \mathstrut} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et} \end{aligned}
+\begin{aligned}
+& \mathrm{OHC{-}CH_2CH_2CH_2CH_3} \\
+& \qquad \xrightarrow{\ \mathrm{(\mathit{i}\text{-}Bu)_2NH},\ \text{cat.}\ \mathrm{H^+}\ \mathstrut} \mathrm{(\mathit{i}\text{-}Bu)_2N{-}CH{=}CH{-}CH_2CH_2CH_3} \\
+& \qquad \\
+& \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{BrCH_2CO_2Et}\ \mathstrut} \mathrm{OHC{-}CH(CH_2CH_2CH_3){-}CH_2CO_2Et}
+\end{aligned}
 $$
 
 ![pentanal + (i-Bu)2NH → enamine](../../figures/L10/enamine_pentanal.svg)
@@ -261,7 +276,12 @@ diisobutylamine으로 만든 enamine이 ethyl bromoacetate($\alpha$-haloester)�
 두 번째 예는 $\alpha$-H가 하나뿐인 2-ethylhexanal이다.
 
 $$
-\begin{aligned} &\mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \cr &\qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \cr &\qquad \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{CH_2{=}CH{-}CH_2Br}\ \mathstrut} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)} \end{aligned}
+\begin{aligned}
+& \mathrm{OHC{-}CH(Et)(\mathit{n}\text{-}Bu)} \\
+& \qquad \xrightarrow{\text{피롤리딘},\ \text{cat.}\ \mathrm{H^+}} \text{피롤리딘–}\mathrm{CH{=}C(Et)(\mathit{n}\text{-}Bu)} \\
+& \qquad \\
+& \xrightarrow[\text{reflux}\ \mathrm{MeCN};\ 2.\ \mathrm{H_2O}]{\ 1.\ \mathrm{CH_2{=}CH{-}CH_2Br}\ \mathstrut} \mathrm{OHC{-}C(Et)(\mathit{n}\text{-}Bu)(CH_2CH{=}CH_2)}
+\end{aligned}
 $$
 
 ![enamine을 이용한 aldehyde의 α-allylation (1/3)](../../figures/L10/stork_enamine_aldehyde_1.svg)
@@ -284,7 +304,10 @@ $$
 enamine을 화학양론적으로 만들어 쓰지 않고, amine을 촉매로 돌려 쓸 수는 없을까? 2000년 List, Lerner, Barbas가 그 답을 보였다.[15] amino acid L-proline이 enamine을 거쳐 직접 비대칭 aldol 반응을 촉매한 것이다. 이 업적은 2021년 노벨 화학상으로 이어졌다.[16]
 
 $$
-\begin{aligned} &\text{아세톤} + \text{4-나이트로벤즈알데하이드} \cr &\qquad \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온} \end{aligned}
+\begin{aligned}
+& \text{아세톤} + \text{4-나이트로벤즈알데하이드} \\
+& \qquad \xrightarrow[\mathrm{DMSO}]{\text{L-프롤린}} (\mathit{R})\text{-4-하이드록시-4-(4-나이트로페닐)뷰탄-2-온}
+\end{aligned}
 $$
 
 (아세톤 20 vol%; L-프롤린 30 mol%)
@@ -335,7 +358,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 ## 흔한 오해
 
-- keto형과 enol형을 공명 구조라고 생각하기 쉽지만 사실은 H의 위치가 다른 별개의 화합물(호변이성체)이다. 둘 사이는 평형(⇌)이고, 공명(↔)은 enolate의 두 구조처럼 전자만 움직인 경우다.
+- keto형과 enol형을 공명 구조라고 생각하기 쉽지만 사실은 H의 위치가 다른 별개의 화합물(호변이성체)이다. 둘 사이는 평형(⇌)이고, 공명($\leftrightarrow$)은 enolate의 두 구조처럼 전자만 움직인 경우다.
 - enol이 1 %도 없으니 반응에 중요하지 않다고 생각하기 쉽지만 사실은 산 조건 aldol과 halogenation의 실제 nucleophile이 바로 그 소량의 enol이다.
 - 1,3-dicarbonyl이면 무조건 enol이 많다고 생각하기 쉽지만 사실은 $\beta$-ketoester(K = 0.047–0.26)나 $\alpha$-alkyl 치환 diketone(K = 0.29–0.83)은 keto형이 우세하다.
 - 산 촉매 aldol이 $\beta$-hydroxy carbonyl에서 멈춘다고 생각하기 쉽지만 사실은 E1 탈수가 쉽게 일어나 enone까지 간다.
@@ -351,9 +374,9 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | enolate $\alpha$-alkylation | enolate + R'CH₂Br | R–CO–CH₂–CH₂R' | $\alpha$-탄소 | 해당 없음 | S_N2, 염기 조건 (p.2) |
-| enolate aldol | enolate + R'COR'' | $\beta$-hydroxy carbonyl → enone | $\alpha$-C와 carbonyl C 사이 결합 | 슬라이드에서 다루지 않음 | 가역 (p.2) |
+| enolate aldol | enolate + R'COR'' | $\beta\ \text{-hydroxy carbonyl} \longrightarrow \text{enone}$ | $\alpha$-C와 carbonyl C 사이 결합 | 슬라이드에서 다루지 않음 | 가역 (p.2) |
 | Claisen | enolate + ester(–OEt) | 1,3-dicarbonyl | $\alpha$-탄소 | 해당 없음 | EtO⁻ 이탈 (p.2) |
-| 산 촉매 aldol(cyclopentanone) | H⁺ | 2-(1-hydroxycyclopentyl)cyclopentanone → 2-cyclopentylidenecyclopentanone | $\alpha$-탄소 | 해당 없음 | enol이 nucleophile, E1 탈수 (p.3) |
+| 산 촉매 aldol(cyclopentanone) | H⁺ | $\begin{aligned} & \text{2-(1-hydroxycyclopentyl)cyclopentanone} \\ & \longrightarrow \text{2-cyclopentylidenecyclopentanone} \end{aligned}$ | $\alpha$-탄소 | 해당 없음 | enol이 nucleophile, E1 탈수 (p.3) |
 | 산 촉매 $\alpha$-bromination | Br₂, HOAc | bromoacetone | $\alpha$-탄소(enol 경유) | 해당 없음 | monobromination (p.9) |
 | 루이스산 $\alpha$-bromination | Br₂, 0.75 mol% AlCl₃, Et₂O | 2-bromo-1-phenylpentane-1-one (100 %) | $\alpha$-탄소, 고리 반응 없음 | 새 입체중심(슬라이드 언급 없음, 라세미) | acyl group으로 고리 불활성화 (p.9) |
 | silyl enol ether 경유 bromination | 1. LDA 2. Me₃SiCl 3. Br₂ | R–CH₂–CO–CH₂Br | 덜 가려진 $\alpha$-탄소 | 해당 없음 | silyl = "큰 수소", Me₃SiX 부생 (p.10) |
@@ -361,7 +384,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 | Stork enamine alkylation | 1. R–X 2. H₂O, H⁺ | 2-alkylcyclohexanone | $\alpha$-탄소 | 슬라이드에서 다루지 않음 | iminium intermediate (p.11) |
 | aldehyde enamine alkylation 1 | pentane알, (i-Bu)₂NH/H⁺; BrCH₂CO₂Et, MeCN 환류; H₂O | ethyl 3-formylhexanoate | $\alpha$-탄소 | 라세미 | 자기 축합 없음 (p.12) |
 | aldehyde enamine alkylation 2 | 2-ethylhexanal, pyrrolidine/H⁺; allyl bromide, MeCN 환류; H₂O | 2-allyl-2-ethylhexanal | $\alpha$-탄소(4차 탄소 형성) | 라세미 | (p.12) |
-| proline 촉매 비대칭 aldol | acetone + ArCHO/RCHO, L-proline 30 mol%, DMSO | CH₃COCH₂CH(OH)R | acetone $\alpha$-탄소 → aldehyde C | (R), 76 % ee (Ar = 4-NO₂C₆H₄); 지방족 최대 >99 % ee | enamine 촉매 순환 (p.13–14) |
+| proline 촉매 비대칭 aldol | acetone + ArCHO/RCHO, L-proline 30 mol%, DMSO | CH₃COCH₂CH(OH)R | $\text{acetone}\ \alpha\ \text{-탄소} \longrightarrow \text{aldehyde}\ \mathrm{C}$ | (R), 76 % ee (Ar = 4-NO₂C₆H₄); 지방족 최대 >99 % ee | enamine 촉매 순환 (p.13–14) |
 
 ## 연습 문제
 
@@ -379,7 +402,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 6. cyclohexanone을 (1) pyrrolidine, cat. H⁺, (2) allyl bromide, (3) H₂O, H⁺로 차례로 처리했다. 각 단계 생성물과 alkylation 메커니즘을 쓰고, 2차 amine을 쓰는 이유를 설명하라.
 
-7. pentane알을 NaOH로 처리한 뒤 ethyl bromoacetate를 넣는 대신, (i-Bu)₂NH/cat. H⁺ → BrCH₂CO₂Et(MeCN 환류) → H₂O 경로를 쓰는 이유는 무엇인가? 생성물 구조를 쓰라.
+7. pentane알을 NaOH로 처리한 뒤 ethyl bromoacetate를 넣는 대신, (i-Bu)₂NH/cat. $\begin{aligned} & \mathrm{H^+} \\ & \longrightarrow \mathrm{BrCH_2CO_2Et}(\mathrm{MeCN}\ \text{환류}) \\ & \longrightarrow \mathrm{H_2O}\ \text{경로를 쓰는 이유는 무엇인가? 생성물 구조를 쓰라} \end{aligned}$.
 
 8. L-proline(30 mol%, DMSO) 존재 하에 acetone과 isobutyraldehyde((CH₃)₂CHCHO)를 반응시켰다. (a) 생성물 구조와 슬라이드에 보고된 수율·ee를 쓰라. (b) 촉매 순환에서 enamine이 생기는 단계와 C–C 결합이 생기는 단계를 설명하고, carboxylic acid의 역할을 쓰라.
 
@@ -447,7 +470,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 
 [12] enamine 형성 메커니즘(표준 교재): 2차 amine N이 carbonyl 탄소를 공격하고 양성자가 이동해 carbinolamine이 된다. OH가 protonate되어 H₂O로 떨어지면 iminium 이온이 되고, $\alpha$-C–H가 deprotonate되어 enamine이 된다. 전 과정이 가역이므로 물을 제거하면 enamine 쪽으로 진행한다.
 
-[13] 슬라이드에 실제로 그려진 것은 "iminium ⇌ enamine"(양성자 이동에 의한 산-염기 평형)이다. 중성 "imine ⇌ enamine" 호변이성은 1차 amine 유래 화합물에 해당하므로 문구와 그림이 약간 어긋난다.
+$\begin{aligned} & \mathrm{[13]}\ \text{슬라이드에 실제로 그려진 것은 "iminium} \\ & \rightleftharpoons \text{enamine"}(\text{양성자 이동에 의한 산-염기 평형})\text{이다} \end{aligned}$. 중성 "imine ⇌ enamine" 호변이성은 1차 amine 유래 화합물에 해당하므로 문구와 그림이 약간 어긋난다.
 
 [14] enamine alkylation에는 allyl·benzyl halide, $\alpha$-halocarbonyl 화합물처럼 반응성이 큰 electrophile이 잘 맞는다. 보충: MeI 같은 단순 alkyl halide은 질소 쪽 alkylation이 상당히 경쟁해(4차 암모늄염이 생겨 가수분해 후 출발물로 돌아간다) 수율이 낮다. (보충 근거: Clayden p.592)
 

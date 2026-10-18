@@ -55,11 +55,11 @@ carbonyl 옆 $\alpha$-탄소의 수소를 염기로 떼어 내면 carbonyl 화�
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
 #### 2.2 실제 ketone alkylation은 어떻게 되나? (p.10–12)
-- 2-methylcyclohexanone + LDA; CH₃I → 2,6-이치환체 56%(2,2-이치환체 6%). polyalkylation 주의.
+- $\begin{aligned} & \text{2-methylcyclohexanone} + \mathrm{LDA};\ \mathrm{CH_3I} \\ & \longrightarrow \text{2,6-이치환체}\ \text{56\%}(\text{2,2-이치환체}\ 6\%) \end{aligned}$. polyalkylation 주의.
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md)
 
 #### 2.3 ester와 락톤도 될까? (p.13–14)
-- butanoic acid methyl + LDA; EtI → 96%. $\gamma$-뷰티로락톤 + LDA; MeI → 88%.
+- $\text{butanoic acid methyl} + \mathrm{LDA};\ \mathrm{EtI} \longrightarrow 96\%$. $\gamma$-뷰티로락톤 + LDA; MeI → 88%.
 - → [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md)
 
 ### III. 1,3-dicarbonyl 화합물
@@ -69,15 +69,15 @@ carbonyl 옆 $\alpha$-탄소의 수소를 염기로 떼어 내면 carbonyl 화�
 - → [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md), [alkoxide base](../wiki/시약/알콕사이드%20염기.md)
 
 #### 3.1 acetoacetic ester 합성: methyl ketone을 어떻게 만드나? (p.16–17)
-- NaOEt; R–X → 가수분해 → $\beta$-keto acid 가열(6원자 고리형 TS, −CO₂) → methyl ketone. R–X에 –CH₂COCH₃를 붙인 효과.
+- $\begin{aligned} & \mathrm{NaOEt};\ \mathrm{R{-}X} \\ & \longrightarrow \text{가수분해} \\ & \longrightarrow \beta\ \text{-keto acid}\ \text{가열}(\text{6원자 고리형}\ \mathrm{TS},\ \mathrm{{-}CO_2}) \\ & \longrightarrow \text{methyl ketone} \end{aligned}$. R–X에 –CH₂COCH₃를 붙인 효과.
 - → [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md), [decarboxylation](../wiki/반응/탈카복실화.md), [ester hydrolysis](../wiki/반응/에스터%20가수분해.md)
 
 #### 3.2 거꾸로 생각하기: 2-pentanone의 역합성 (p.18)
-- C=O 옆 CH₂와 R 사이를 끊는다. R = ethyl → EtBr.
+- C=O 옆 CH₂와 R 사이를 끊는다. $\mathrm{R}\ =\ \text{ethyl} \longrightarrow \mathrm{EtBr}$.
 - → [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md)
 
 #### 3.3 malonic ester 합성: carboxylic acid은? (p.19–20)
-- NaOEt; R–X → KOH → H₂SO₄ 환류(−CO₂) → RCH₂COOH. R–X에 –CH₂COOH를 붙인 효과.
+- $\begin{aligned} & \mathrm{NaOEt};\ \mathrm{R{-}X} \\ & \longrightarrow \mathrm{KOH} \\ & \longrightarrow \mathrm{H_2SO_4}\ \text{환류(−CO₂)} \\ & \longrightarrow \mathrm{RCH_2COOH} \end{aligned}$. R–X에 –CH₂COOH를 붙인 효과.
 - → [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [decarboxylation](../wiki/반응/탈카복실화.md)
 
 ### IV. 여러 작용기의 enolate
@@ -101,7 +101,7 @@ carbonyl 옆 $\alpha$-탄소의 수소를 염기로 떼어 내면 carbonyl 화�
 - → [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md), [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md)
 
 #### 5.2 무엇이 C냐 O냐를 가르나? (p.25)
-- soft(MeI) → C, hard(Me₂SO₄, MeOMs, Me₃O⁺) → O. 큰 cation(Cs > K > Na > Li)은 O 쪽.
+- $\begin{aligned} & \text{soft(MeI)} \\ & \longrightarrow \mathrm{C},\ \text{hard}(\mathrm{Me_2SO_4},\ \mathrm{MeOMs},\ \mathrm{Me_3O^+}) \\ & \longrightarrow \mathrm{O} \end{aligned}$. 큰 cation(Cs > K > Na > Li)은 O 쪽.
 - → [hard and soft acids and bases (HSAB)](../wiki/개념/하드-소프트%20산염기.md)
 
 ### VI. 비대칭 alkylation 반응
@@ -115,11 +115,11 @@ carbonyl 옆 $\alpha$-탄소의 수소를 염기로 떼어 내면 carbonyl 화�
 - → [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md)
 
 #### 6.3 보조기는 어떻게 떼어 내나? (p.28)
-- LiBH₄ → 키랄 1차 alcohol, LiOH/H₂O₂ → 키랄 carboxylic acid. $\alpha$-입체 중심 유지.
+- $\begin{aligned} & \mathrm{LiBH_4} \\ & \longrightarrow \text{키랄 1차 alcohol},\ \mathrm{LiOH/H_2O_2} \\ & \longrightarrow \text{키랄 carboxylic acid} \end{aligned}$. $\alpha$-입체 중심 유지.
 - → [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md), [LiBH4](../wiki/시약/LiBH4.md)
 
 ### 정리 (p.29)
-- 강염기로 $\alpha$-enolate, 부피 큰 염기로 kinetic enolate, SN2로 alkylation. acetoacetate → –CH₂COCH₃, malonate → –CH₂COOH. carbonyl 밖에서도 enolate류가 생긴다.
+- 강염기로 $\alpha$-enolate, 부피 큰 염기로 kinetic enolate, SN2로 alkylation. $\begin{aligned} & \text{acetoacetate} \\ & \longrightarrow \mathrm{{-}CH_2COCH_3},\ \text{malonate} \\ & \longrightarrow \mathrm{{-}CH_2COOH} \end{aligned}$. carbonyl 밖에서도 enolate류가 생긴다.
 - → [enolate chemistry (overview)](../wiki/개념/엔올레이트%20화학%20개관.md)
 
 ## 반응 요약표
@@ -129,13 +129,13 @@ carbonyl 옆 $\alpha$-탄소의 수소를 염기로 떼어 내면 carbonyl 화�
 | [LDA](../wiki/시약/LDA.md) 제조 | n-BuLi + HN(i-Pr)₂, THF | LiN(i-Pr)₂ + butane | – | 비가역 (p.6) |
 | enolate 형성 (정량) | LDA, THF, −78 °C | lithium enolate | 덜 치환된 $\alpha$-C (kinetic) | (p.5–8) |
 | enolate 형성 (소량, 평형) | NaOEt, EtOH | 소듐 enolate 소량 | – | [alpha-hydrogen acidity](../wiki/개념/α-수소의%20산도.md) (p.5) |
-| [kinetic vs thermodynamic](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md) | LDA, −78 °C | 2-methylcyclohexanone → C1=C6 enolate | 덜 가려진 C6 | (p.11–12) |
+| [kinetic vs thermodynamic](../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md) | LDA, −78 °C | $\text{2-methylcyclohexanone} \longrightarrow \mathrm{C_1{=}C_6}\ \text{enolate}$ | 덜 가려진 C6 | (p.11–12) |
 | ketone [$\alpha$-alkylation](../wiki/반응/엔올레이트%20알킬화.md) | 1. LDA 2. CH₃I (또는 BnBr) | 2,6-dimethylcyclohexanone 56% | 덜 치환된 $\alpha$-C, 라세미 | SN2 규칙 (p.10–11) |
 | ester $\alpha$-alkylation | 1. LDA, THF 2. EtI | 2-ethylbutanoic acid methyl 96% | $\alpha$-C | (p.13) |
 | 락톤 $\alpha$-alkylation | 1. LDA 2. MeI | $\alpha$-methyl-$\gamma$-뷰티로락톤 88% | $\alpha$-C | (p.14) |
 | [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. aq. NaOH 4. H₃O⁺, 가열 | CH₃COCH₂R | 두 C=O 사이 CH₂ | (p.16–18) |
 | [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. KOH 환류 4. H₂SO₄ 환류 | RCH₂COOH | 두 C=O 사이 CH₂ | (p.19–20) |
-| $\beta$-keto acid [decarboxylation](../wiki/반응/탈카복실화.md) | 가열 | enol → ketone + CO₂ | – | 6원자 고리형 TS (p.16) |
+| $\beta$-keto acid [decarboxylation](../wiki/반응/탈카복실화.md) | 가열 | $\text{enol} \longrightarrow \text{ketone} + \mathrm{CO_2}$ | – | 6원자 고리형 TS (p.16) |
 | acid chloride + Et₃N | Cl₂CHCOCl, Et₃N | 다이클로로[ketene](../wiki/개념/케텐.md) | – | (p.23) |
 | [C- vs O-alkylation](../wiki/개념/하드-소프트%20산염기.md) | soft: MeI / hard: MeOMs, Me₂SO₄, Me₃O⁺ | ketone (C) / enol ether (O) | C 또는 O | (p.24–25) |
 | [Evans asymmetric alkylation](../wiki/시약/에반스%20옥사졸리디논.md) | N-acyl oxazolidinone, LDA, −78 °C; BnBr | $\alpha$-benzyl 생성물 92% | 99 : 1 dr | (p.27) |

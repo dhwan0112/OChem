@@ -16,21 +16,21 @@
 ### 공식 풀이
 
 **(a)**
-1. `벤젠 --[HNO3, H2SO4]--> 나이트로벤젠 --[H2, Pd/C]--> 아닐린`
-2. `아닐린 --[CH3CH2CH2COCl (뷰타노일 클로라이드), base]--> N-페닐뷰탄아마이드 (PhNHCOPr)`
-3. `PhNHCOPr --[2,5-다이브로모헥세인 (CH3CHBrCH2CH2CHBrCH3), AlCl3]-->` amide의 para 위치가 alkylate된 intermediate [p-(PrCONH)C6H4–CH(CH3)CH2CH2CHBrCH3] `--[AlCl3]-->` 분자 내 두 번째 alkylation으로 고리가 닫힌 5,8-dimethyl테트랄린 amide
-4. `--[LiAlH4 또는 BH3]-->` amide C=O가 CH2로 환원되어 N-butyl amine(목표물)
+1. $\begin{aligned} & \text{벤젠} \\ & \xrightarrow{\mathrm{HNO_3},\ \mathrm{H_2SO_4}} \text{나이트로벤젠} \\ & \xrightarrow{\mathrm{H_2},\ \mathrm{Pd/C}} \text{아닐린} \end{aligned}$
+2. $\begin{aligned} & \text{아닐린} \\ & \xrightarrow{\substack{\mathrm{CH_3CH_2CH_2COCl}\ (\text{뷰타노일 클로라이드}),\  \\ \text{base}}} \text{N-페닐뷰탄아마이드}\ \mathrm{(PhNHCOPr)} \end{aligned}$
+3. $\mathrm{PhNHCOPr} \xrightarrow{\substack{2,\  \\ \text{5-다이브로모헥세인}\ \mathrm{(CH_3CHBrCH_2CH_2CHBrCH_3)},\  \\ \mathrm{AlCl_3}}}$ amide의 para 위치가 alkylate된 intermediate [p-(PrCONH)C6H4–CH(CH3)CH2CH2CHBrCH3] $\xrightarrow{\mathrm{AlCl_3}}$ 분자 내 두 번째 alkylation으로 고리가 닫힌 5,8-dimethyl테트랄린 amide
+4. $\xrightarrow{\mathrm{LiAlH_4}\ \text{또는}\ \mathrm{BH_3}}$ amide C=O가 CH2로 환원되어 N-butyl amine(목표물)
 
 **(b)**
-1. `벤젠 --[Br2, FeBr3]--> 브로모벤젠 --[Ac2O, AlCl3]--> 4-브로모아세토페논`
-2. `4-브로모아세토페논 --[MeMgBr, THF; then H⁺]--> 2-(4-브로모페닐)프로판-2-ol --[H⁺, heat, −H2O]--> 목표물`
-3. 또는 `4-브로모아세토페논 --[Ph3P=CH2 (Wittig)]--> 목표물`
+1. $\begin{aligned} & \text{벤젠} \\ & \xrightarrow{\mathrm{Br_2},\ \mathrm{FeBr_3}} \text{브로모벤젠} \\ & \xrightarrow{\mathrm{Ac_2O},\ \mathrm{AlCl_3}} \text{4-브로모아세토페논} \end{aligned}$
+2. $\begin{aligned} & \text{4-브로모아세토페논} \\ & \xrightarrow[\mathrm{THF}]{\mathrm{MeMgBr},\ \text{then}\ \mathrm{H^+}} \text{2-(4-브로모페닐)프로판-2-ol} \\ & \xrightarrow[\text{heat}]{\mathrm{H^+},\ \mathrm{{-}H_2O}} \text{목표물} \end{aligned}$
+3. 또는 $\text{4-브로모아세토페논} \xrightarrow{\mathrm{Ph_3P{=}CH_2}\ \text{(Wittig)}} \text{목표물}$
 
 **(c)**
-1. `페놀 --[EtI, base]--> phenetole`
-2. `에톡시벤젠 --[(CH3)3CCOCl (피발로일 클로라이드), AlCl3]--> 4-에톡시페닐 tert-뷰틸 케톤 (para)`
-3. `--[Br2, AlBr3]--> 3-브로모-4-에톡시페닐 tert-뷰틸 케톤` (OEt의 ortho에 Br)
-4. `--[NaBH4]--> 목표 알코올`
+1. $\text{페놀} \xrightarrow{\mathrm{EtI},\ \text{base}} \text{phenetole}$
+2. $\begin{aligned} & \text{에톡시벤젠} \\ & \xrightarrow{\mathrm{(CH_3)_3CCOCl}\ (\text{피발로일 클로라이드}),\ \mathrm{AlCl_3}} \text{4-에톡시페닐 tert-뷰틸 케톤 (para)} \end{aligned}$
+3. $\xrightarrow{\mathrm{Br_2},\ \mathrm{AlBr_3}} \text{3-브로모-4-에톡시페닐 tert-뷰틸 케톤}$ (OEt의 ortho에 Br)
+4. $\xrightarrow{\mathrm{NaBH_4}} \text{목표 알코올}$
 
 (출처: Tutorial_2_answers p.1)
 
@@ -52,7 +52,7 @@
 
 - 다치환 방향족 합성은 지향 효과를 기준으로 도입 순서를 정한다(o/p 지향기 먼저 → para 위치 확보).
 - aniline은 AlCl3와 착물을 만들어 Friedel–Crafts가 실패한다. 그래서 amide로 바꿔 보호와 위치 조절을 한다.
-- amide → amine(LiAlH4/BH3), ketone → alkene(Grignard + 탈수 또는 Wittig), ketone → alcohol(NaBH4).
+- $\begin{aligned} & \text{amide} \\ & \longrightarrow \text{amine(LiAlH4/BH3)},\ \text{ketone} \\ & \longrightarrow \text{alkene}(\text{Grignard}\ +\ \text{탈수 또는 Wittig}),\ \text{ketone} \\ & \longrightarrow \text{alcohol}(\mathrm{NaBH_4}) \end{aligned}$.
 
 ---
 
@@ -60,15 +60,28 @@
 
 aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여 나온다.
 
-`아닐린 --[HNO3, H2SO4]--> p-나이트로아닐린 + m-나이트로아닐린 (1:1)`
+
+$$
+\text{아닐린} \xrightarrow{\mathrm{HNO_3},\ \mathrm{H_2SO_4}} \text{p-나이트로아닐린} + \text{m-나이트로아닐린}\ \mathrm{(1:1)}
+$$
+
 
 (1) 두 생성물이 모두 생기는 이유를 설명하라.
 (2) meta 생성물 없이 aniline에서 para-nitroaniline을 얻는 경로를 제안하라.
 
 ### 공식 풀이
 
-- (1) 강산 속에서 aniline은 일부 protonate되어 평형을 이룬다: `PhNH2 + H⁺ ⇌ PhNH3⁺`. 자유 aniline(NH2)은 nitrate되어 para-nitroaniline을 주고, anilinium(NH3⁺)은 nitrate되어 meta-nitro anilinium을 준다. 이것이 deprotonation(−H⁺)되면 meta-nitroaniline이 된다.
-- (2) `아닐린 --[Ac2O 또는 AcCl, base]--> 아세트아닐라이드 --[HNO3, H2SO4]--> p-나이트로아세트아닐라이드 --[HCl, H2O, heat]--> p-나이트로아닐린`
+- (1) 강산 속에서 aniline은 일부 protonate되어 평형을 이룬다: $\mathrm{PhNH_2} + \mathrm{H^+} \rightleftharpoons \mathrm{PhNH_3^+}$. 자유 aniline(NH2)은 nitrate되어 para-nitroaniline을 주고, anilinium(NH3⁺)은 nitrate되어 meta-nitro anilinium을 준다. 이것이 deprotonation(−H⁺)되면 meta-nitroaniline이 된다.
+- (2)
+  $$
+\begin{aligned}
+& \text{아닐린} \\
+& \xrightarrow{\mathrm{Ac_2O}\ \text{또는}\ \mathrm{AcCl},\ \text{base}} \text{아세트아닐라이드} \\
+& \xrightarrow{\mathrm{HNO_3},\ \mathrm{H_2SO_4}} \text{p-나이트로아세트아닐라이드} \\
+& \xrightarrow[\text{heat}]{\mathrm{HCl},\ \mathrm{H_2O}} \text{p-나이트로아닐린}
+\end{aligned}
+$$
+
 
 (출처: Tutorial_2_answers p.2)
 
@@ -94,7 +107,18 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 출발물: 피라진이 융합된 pyrazine-fused benzonorbornadiene. 퀴녹살린형 방향족 고리에 CH2 다리를 가진 노보넨 이중결합이 붙어 있는 삼환 화합물이다.
 
-`출발물 --[cat. OsO4, NMO, 85%]--> [상자 1] --[NaIO4]--> [상자 2] --[상자 3: 시약]--> N-벤질 브릿지 아제핀(N-benzyl bridged azepine, 바레니클린의 N-Bn 전구체)`
+
+$$
+\begin{aligned}
+& \text{출발물} \\
+& \xrightarrow{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO},\ 85\%} \text{[상자}\ \mathrm{1]} \\
+& \xrightarrow{\mathrm{NaIO_4}} \text{[상자}\ \mathrm{2]} \\
+& \xrightarrow{\text{상자}\ \mathrm{3:}\ \text{시약}} \\
+& \text{N-벤질 브릿지}\ \text{아제핀}(\text{N-benzyl bridged azepine},\  \\
+& \text{바레니클린의}\ \mathrm{N{-}Bn}\ \text{전구체})
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
@@ -124,12 +148,12 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 반응 생성물을 예측하라.
 
-1. `메틸 4-옥소펜타노에이트 (CH3COCH2CH2CO2Me) --[NaBH4]--> ?`
-2. `CH3COCH2CH2CO2Me --[LiAlH4]--> ?`
-3. `N,N-다이메틸-4-옥소펜탄아마이드 (CH3COCH2CH2CONMe2) --[BH3]--> ?`
-4. `CH3COCH2CH2CONMe2 --[LiAlH4]--> ?`
-5. `숙신산 모노메틸 에스터 (HO2CCH2CH2CO2Me) --[LiBH4]--> ?`
-6. `HO2CCH2CH2CO2Me --[BH3]--> ?`
+1. $\text{메틸 4-옥소펜타노에이트}\ \mathrm{(CH_3COCH_2CH_2CO_2Me)} \xrightarrow{\mathrm{NaBH_4}} \mathrm{?}$
+2. $\mathrm{CH_3COCH_2CH_2CO_2Me} \xrightarrow{\mathrm{LiAlH_4}} \mathrm{?}$
+3. $\text{N,N-다이메틸-4-옥소펜탄아마이드}\ \mathrm{(CH_3COCH_2CH_2CONMe_2)} \xrightarrow{\mathrm{BH_3}} \mathrm{?}$
+4. $\mathrm{CH_3COCH_2CH_2CONMe_2} \xrightarrow{\mathrm{LiAlH_4}} \mathrm{?}$
+5. $\text{숙신산 모노메틸 에스터}\ \mathrm{(HO_2CCH_2CH_2CO_2Me)} \xrightarrow{\mathrm{LiBH_4}} \mathrm{?}$
+6. $\mathrm{HO_2CCH_2CH_2CO_2Me} \xrightarrow{\mathrm{BH_3}} \mathrm{?}$
 
 ### 공식 풀이
 
@@ -156,7 +180,7 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 핵심 개념
 
-- 친핵성 수소화물: NaBH4(aldehyde·ketone) < LiBH4(+ ester, 산은 제외) < LiAlH4(거의 전부, amide → amine).
+- 친핵성 수소화물: $\begin{aligned} & \text{NaBH4(aldehyde·ketone)}\ \mathrm{<}\ \mathrm{LiBH_4}(+\ \text{ester},\ \text{산은 제외})\ \mathrm{<}\  \\ & \mathrm{LiAlH_4}(\text{거의 전부},\ \text{amide}) \\ & \longrightarrow \text{amine)} \end{aligned}$.
 - 친전자성 BH3: 전자가 풍부한 carbonyl(carboxylic acid, amide)을 우선 환원한다. ester는 느리다.
 - LiBH4와 BH3는 산/ester에 대해 상보적인 선택성을 보인다.
 
@@ -166,17 +190,26 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 강의에서 다룬 반응 유형을 이용해 다음 변환의 합성 경로를 제안하라.
 
-`사이클로헥산올 --[여러 단계]--> 에틸 (E)-3-사이클로헥실뷰트-2-에노에이트 (cyclohexyl–C(CH3)=CH–CO2Et)`
+
+$$
+\begin{aligned}
+& \text{사이클로헥산올} \\
+& \xrightarrow{\text{여러 단계}} \\
+& \text{에틸}\ (\mathit{E})\text{-3-사이클로헥실뷰트-2-에노에이트}\  \\
+& \text{(cyclohexyl–C}(\mathrm{CH_3){=}CH{-}CO_2Et})
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
 - 역합성: 목표 $\alpha,\beta$-unsaturated ester의 C=C를 끊으면 Ph3P=CH–CO2Et(안정화 ylide) 또는 (EtO)2P(O)–CH⁻–CO2Et(HWE reagent)와 cyclohexyl methyl ketone이 된다. ketone은 1-cyclohexylethanol에서, 그 alcohol은 ethylylidenecyclohexane에서, 그 alkene은 cyclohexanone에서 온다.
 - 정방향:
-  1. `사이클로헥산올 --[DMP]--> 사이클로헥산온`
-  2. `사이클로헥산온 --[Ph3P=CHCH3 (Wittig)]--> 에틸리덴사이클로헥세인`
-  3. `--[BH3, THF]-->` alkyl보레인(B가 곁사슬 CH에 붙음) `--[H2O2]--> 1-사이클로헥실에탄올`
-  4. `--[DMP]--> 사이클로헥실 메틸 케톤`
-  5. `--[Ph3P=CHCO2Et 또는 (EtO)2P(O)CH⁻CO2Et]--> 목표물`
+  1. $\text{사이클로헥산올} \xrightarrow{\mathrm{DMP}} \text{사이클로헥산온}$
+  2. $\text{사이클로헥산온} \xrightarrow{\mathrm{Ph_3P{=}CHCH_3}\ \text{(Wittig)}} \text{에틸리덴사이클로헥세인}$
+  3. $\xrightarrow[\mathrm{THF}]{\mathrm{BH_3}}$ alkyl보레인(B가 곁사슬 CH에 붙음) $\xrightarrow{\mathrm{H_2O_2}} \text{1-사이클로헥실에탄올}$
+  4. $\xrightarrow{\mathrm{DMP}} \text{사이클로헥실 메틸 케톤}$
+  5. $\xrightarrow{\mathrm{Ph_3P{=}CHCO_2Et}\ \text{또는}\ \mathrm{(EtO)_2P(O)CH^-CO_2Et}} \text{목표물}$
 
 (출처: Tutorial_2_answers p.4)
 
@@ -190,6 +223,6 @@ aniline을 nitrate하면 para-nitroaniline과 meta-nitroaniline이 1:1로 섞여
 
 ### 핵심 개념
 
-- DMP: alcohol → aldehyde/ketone(온화한 산화).
+- DMP: $\text{alcohol} \longrightarrow \text{aldehyde/ketone}(\text{온화한 산화})$.
 - 비안정화 ylide Wittig로 C=C를 만들고, 수소붕소화-산화(반-Markovnikov)로 곁사슬에 OH를 도입한다.
 - 안정화 ylide/HWE: $\alpha,\beta$-unsaturated ester, E 선택적. ketone에는 HWE가 더 효과적이다.

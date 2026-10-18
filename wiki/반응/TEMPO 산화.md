@@ -7,7 +7,7 @@ tags: [분류/반응, 범위/Test1, 단원/산화-알켄-합성, 강의/L06, 유
 ---
 # TEMPO 산화
 
-> 1차 alcohol --[TEMPO(촉매), NaOCl, KBr, NaHCO₃]--> aldehyde. 실제 산화제는 TEMPO가 산화되어 생긴 **nitrosonium(oxoammonium) cation N⁺=O**이고, 표백제나 공기가 terminal oxidant다.
+> $\text{1차 alcohol} \xrightarrow{\mathrm{TEMPO(}\text{촉매)},\ \mathrm{NaOCl},\ \mathrm{KBr},\ \mathrm{NaHCO_3}} \text{aldehyde}$. 실제 산화제는 TEMPO가 산화되어 생긴 **nitrosonium(oxoammonium) cation N⁺=O**이고, 표백제나 공기가 terminal oxidant다.
 
 ## 개요
 
@@ -51,7 +51,7 @@ $$
 슬라이드의 촉매 순환은 두 반쪽으로 나뉜다.
 
 1. catalyst oxidation(촉매 산화): (bpy)Cu^I–NMI + TEMPO-H + ½ O₂ → (bpy)Cu^II(OH)–NMI + TEMPO•
-2. substrate oxidation(기질 산화): Cu^II–OH + TEMPO• + RCH₂OH → RCHO + H₂O + Cu^I + TEMPO-H
+2. substrate oxidation(기질 산화): $\mathrm{Cu^II{-}OH} + \mathrm{TEMPO•} + \mathrm{RCH_2OH} \longrightarrow \mathrm{RCHO} + \mathrm{H_2O} + \mathrm{Cu^I} + \mathrm{TEMPO{-}H}$
 
 결국 O₂가 물이 되면서 그만큼 alcohol이 산화된다. (출처: L6c p.13)
 

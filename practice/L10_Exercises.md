@@ -18,7 +18,7 @@
 
 6. cyclohexanone을 (1) pyrrolidine, cat. H⁺, (2) allyl bromide, (3) H₂O, H⁺로 차례로 처리했다. 각 단계 생성물과 alkylation 메커니즘을 쓰고, 2차 amine을 쓰는 이유를 설명하라.
 
-7. pentane알을 NaOH로 처리한 뒤 ethyl bromoacetate를 넣는 대신, (i-Bu)₂NH/cat. H⁺ → BrCH₂CO₂Et(MeCN 환류) → H₂O 경로를 쓰는 이유는 무엇인가? 생성물 구조를 쓰라.
+7. pentane알을 NaOH로 처리한 뒤 ethyl bromoacetate를 넣는 대신, (i-Bu)₂NH/cat. $\begin{aligned} & \mathrm{H^+} \\ & \longrightarrow \mathrm{BrCH_2CO_2Et}(\mathrm{MeCN}\ \text{환류}) \\ & \longrightarrow \mathrm{H_2O}\ \text{경로를 쓰는 이유는 무엇인가? 생성물 구조를 쓰라} \end{aligned}$.
 
 8. L-proline(30 mol%, DMSO) 존재 하에 acetone과 isobutyraldehyde((CH₃)₂CHCHO)를 반응시켰다. (a) 생성물 구조와 슬라이드에 보고된 수율·ee를 쓰라. (b) 촉매 순환에서 enamine이 생기는 단계와 C–C 결합이 생기는 단계를 설명하고, carboxylic acid의 역할을 쓰라.
 

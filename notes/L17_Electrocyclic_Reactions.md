@@ -31,7 +31,7 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 - → [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md), [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md)
 
 ### 3. conrotatory과 disrotatory (Clayden p.924–925)
-- 열적 $6\pi$(octatriene → cis-dimethyl)는 disrotatory, 열적 $4\pi$(cis-dimethylcyclobutene → (*E*,*Z*)-diene)는 conrotatory. 회전 방향(시계/반시계)으로 센다.
+- $\begin{aligned} & \text{열적}\ 6\pi\ (\text{octatriene}) \\ & \longrightarrow \text{cis-dimethyl)는 disrotatory},\ \text{열적}\ 4\pi\ (\text{cis-dimethylcyclobutene}) \\ & \longrightarrow (\mathit{E}\ ,\ \mathit{Z})\text{-diene)는}\ \text{conrotatory} \end{aligned}$. 회전 방향(시계/반시계)으로 센다.
 - → [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md)
 
 ### 4. HOMO 대칭으로 다시 보기 (보충: Wade p.671–672, p.694–698)
@@ -51,7 +51,7 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 - → [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md), [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md)
 
 ### 8. 작은 고리는 전자고리화로 열린다 (Clayden p.928–929)
-- cyclopropyl cation → allyl cation($2\pi$ dis 고리 열림). ester 치환 aziridine → azomethine ylide($4\pi$ con), [3+2]로 포획해 cis → 2,5-trans 확인.
+- $\text{cyclopropyl cation} \longrightarrow \text{allyl}\ \text{cation}(2\pi\ \text{dis 고리 열림})$. ester 치환 aziridine → azomethine ylide($4\pi$ con), [3+2]로 포획해 cis → 2,5-trans 확인.
 - → [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md), [allyl cation](../wiki/개념/알릴%20양이온.md), [1,3-dipolar cycloaddition](../wiki/반응/1,3-쌍극자%20고리화%20첨가.md)
 
 ### 9. 페리고리 반응만으로 만든 페로몬: 페리플라논 B (Clayden p.929–930)
@@ -66,17 +66,17 @@ pericyclic reaction 세 갈래 가운데 마지막인 electrocyclic reaction을 
 
 | 반응 | 출발물 → 생성물 | 조건 | $\pi$ 전자 | 회전 | 문서 |
 |---|---|---|---|---|---|
-| hexatriene 고리 닫힘 | → cyclohexa-1,3-diene | 500 °C | 6 | dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
-| cyclobutene 고리 열림 | → buta-1,3-diene | 200 °C | 4 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
-| octatriene | (2*E*,4*Z*,6*E*)-octatriene → 5,6-dimethylcyclohexadiene | 열 / $h\nu$ | 6 | dis(cis) / con(trans) | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
-| dimethylcyclobutene 열림 | cis-3,4-dimethylcyclobutene → (*E*,*Z*)-hexa-2,4-diene | 가열 | 4 | con | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
+| hexatriene 고리 닫힘 | $\longrightarrow \text{cyclohexa-1,3-diene}$ | 500 °C | 6 | dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| cyclobutene 고리 열림 | $\longrightarrow \text{buta-1,3-diene}$ | 200 °C | 4 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| octatriene | $(2\ \mathit{E}\ \mathrm{,4}\ \mathit{Z}\ \mathrm{,6}\ \mathit{E})\text{-octatriene} \longrightarrow \text{5,6-dimethylcyclohexadiene}$ | 열 / $h\nu$ | 6 | dis(cis) / con(trans) | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
+| dimethylcyclobutene 열림 | $\text{cis-3,4-dimethylcyclobutene} \longrightarrow (\mathit{E}\ ,\ \mathit{Z})\text{-hexa-2,4-diene}$ | 가열 | 4 | con | [conrotatory and disrotatory](../wiki/개념/콘로테이션과%20디스로테이션.md) |
 | 비타민 D (1단계) | ergosterol → 프로비타민 D2 | 햇빛 | 6 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 | endiandric acid | polyene → D/E → A | 열 | 8 → 6 | con → dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
-| Nazarov | divinyl ketone → cyclopentenone | H3PO4, AcOH / $h\nu$ | 4 | con(trans) / dis(cis) | [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md) |
-| dienyl anion | cyclooctadiene → cis-bicyclo[3.3.0]octene | BuLi; 0 °C; H⁺ | 6 | dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
-| cyclopropyl cation | cyclopropyl chloride → allyl acetate | KOAc, AcOH | 2 | dis(열림) | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| Nazarov | $\text{divinyl ketone} \longrightarrow \text{cyclopentenone}$ | H3PO4, AcOH / $h\nu$ | 4 | con(trans) / dis(cis) | [Nazarov cyclization](../wiki/반응/나자로프%20고리화.md) |
+| dienyl anion | $\text{cyclooctadiene} \longrightarrow \text{cis-bicyclo[3.3.0]octene}$ | BuLi; 0 °C; H⁺ | 6 | dis | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| cyclopropyl cation | $\text{cyclopropyl chloride} \longrightarrow \text{allyl acetate}$ | KOAc, AcOH | 2 | dis(열림) | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 | aziridine 열림 + [3+2] | aziridine → azomethine ylide → dihydropyrrole | 가열, dipolarophile | 4 | con | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
-| periplanone B 고리 열림 | cyclobutene 융합 10원 고리 → 12원 고리 diene | 175 °C; $h\nu$ | 4 | con(구별 불가) | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
+| periplanone B 고리 열림 | $\text{cyclobutene 융합 10원 고리} \longrightarrow \text{12원 고리 diene}$ | 175 °C; $h\nu$ | 4 | con(구별 불가) | [electrocyclic reaction](../wiki/반응/전자고리화%20반응.md) |
 
 (출처: Clayden p.922–930)
 

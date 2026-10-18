@@ -15,8 +15,8 @@ tags: [분류/시약, 범위/Test1, 단원/환원, 강의/L05, 시약유형/촉�
 
 ## 무엇을 하나
 
-- **alkene hydrogenation(syn):** 1,2-dimethylcyclohexene --[H₂, PtO₂, AcOH]--> *cis*-1,2-dimethylcyclohexane (82%) + *trans* (18%). (출처: L5 p.31)
-- **aromatic ring hydrogenation:** phenylacetic acid PhCH₂CO₂H --[H₂, PtO₂, AcOH, 25 °C]--> cyclohexylacetic acid. 같은 변환을 Ni로 하려면 50 °C, 100 atm이 필요하다(ethyl benzoate 예). (출처: L5 p.31)
+- **alkene hydrogenation(syn):** $\begin{aligned} & \text{1,2-dimethylcyclohexene} \\ & \xrightarrow[\mathrm{AcOH}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{*cis*-1,2-dimethylcyclohexane}\ (82\%) + \text{*trans*}\ (18\%) \end{aligned}$. (출처: L5 p.31)
+- **aromatic ring hydrogenation:** $\begin{aligned} & \text{phenylacetic acid}\ \mathrm{PhCH_2CO_2H} \\ & \xrightarrow[\mathrm{AcOH},\ 25\,{}^\circ\mathrm{C}]{\mathrm{H_2},\ \mathrm{PtO_2}} \text{cyclohexylacetic acid} \end{aligned}$. 같은 변환을 Ni로 하려면 50 °C, 100 atm이 필요하다(ethyl benzoate 예). (출처: L5 p.31)
 
 그런데 syn 첨가라면서 왜 *trans*가 18%나 나올까? 보충: 촉매 표면에서 이중결합이 자리를 isomerization 일이 일어나고, 옮겨진 alkene이 수소화되면 *trans*가 생길 수 있기 때문이라고 설명한다. 슬라이드는 82:18이라는 결과와 "*cis*가 우세하다"는 점만 제시한다. (보충 근거: Clayden p.536) 표면 메커니즘 전체는 [catalytic hydrogenation](../반응/촉매%20수소화.md)에 있다.
 

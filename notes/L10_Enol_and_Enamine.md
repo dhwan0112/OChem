@@ -24,7 +24,7 @@
 - → [Claisen condensation](../wiki/반응/클라이젠%20축합.md) (enolate의 네 가지 상대), [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 ### 2. 산 조건의 aldol reaction: enol이 nucleophile이 되다 (슬라이드 p.3)
-- cyclopentanone: 산 촉매 enolization → enol이 protonate된 ketone을 공격 → E1 탈수로 2-cyclopentylidenecyclopentanone(enone)까지 간다.
+- cyclopentanone: $\begin{aligned} & \text{산 촉매 enolization} \\ & \longrightarrow \text{enol이 protonate된 ketone을 공격} \\ & \longrightarrow \mathrm{E_1}\ \text{탈수로 2-cyclopentylidenecyclopentanone(enone)까지 간다} \end{aligned}$.
 - → [keto-enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md) (enolization), [aldol reaction](../wiki/반응/알돌%20반응.md) (산 촉매 aldol), [carbocation](../wiki/개념/탄소%20양이온.md)
 
 ### 3. Keto-enol tautomer (슬라이드 p.4)
@@ -48,15 +48,15 @@
 - → [keto-enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md)
 
 ### 8. 산 조건 halogenation (슬라이드 p.9)
-- acetone --[Br₂, HOAc]--> bromoacetone. enol의 C=C가 Br₂를 공격한다. AlCl₃ 촉매에서도 acyl group으로 불활성화된 benzene 고리는 반응하지 않는다. 산 조건은 대개 mono.
+- $\text{acetone} \xrightarrow[\mathrm{HOAc}]{\mathrm{Br_2}} \text{bromoacetone}$. enol의 C=C가 Br₂를 공격한다. AlCl₃ 촉매에서도 acyl group으로 불활성화된 benzene 고리는 반응하지 않는다. 산 조건은 대개 mono.
 - → [$\alpha$-halogenation](../wiki/반응/α-할로젠화.md), [haloform reaction](../wiki/반응/할로폼%20반응.md) (염기 조건과의 대비), [substituent effect](../wiki/개념/치환기%20효과.md)
 
 ### 9. Silyl enol ether를 경유한 halogenation (슬라이드 p.10)
-- LDA → Me₃SiCl → Br₂로 덜 치환된 $\alpha$-탄소에 Br. silyl group은 "큰 수소".
+- $\begin{aligned} & \mathrm{LDA} \\ & \longrightarrow \mathrm{Me_3SiCl} \\ & \longrightarrow \text{Br₂로 덜 치환된}\ \alpha\ \text{-탄소에}\ \mathrm{Br} \end{aligned}$. silyl group은 "큰 수소".
 - → [$\alpha$-halogenation](../wiki/반응/α-할로젠화.md), [silyl enol ether](../wiki/시약/실릴%20엔올%20에터.md), [LDA](../wiki/시약/LDA.md)
 
 ### 10. Enamine: 질소가 밀어주는 enol (슬라이드 p.11)
-- 2차 amine(pyrrolidine 등) + ketone → enamine. Stork alkylation: $\alpha$-탄소가 R–X를 S<sub>N</sub>2로 공격 → iminium → 가수분해. enol보다 nucleophilic, 다중 alkylation 억제.
+- $\text{2차}\ \text{amine}(\text{pyrrolidine 등}) + \text{ketone} \longrightarrow \text{enamine}$. Stork alkylation: $\alpha$-탄소가 R–X를 S<sub>N</sub>2로 공격 → iminium → 가수분해. enol보다 nucleophilic, 다중 alkylation 억제.
 - → [enamine](../wiki/개념/엔아민.md), [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md), [iminium ion](../wiki/개념/이미늄%20이온.md), [imine](../wiki/개념/이민.md), [pyrrolidine](../wiki/시약/피롤리딘.md), [reductive amination](../wiki/반응/환원성%20아미노화.md)
 
 ### 11. Enamine으로 aldehyde를 alkylate하기 (슬라이드 p.12)
@@ -64,11 +64,11 @@
 - → [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md)
 
 ### 12. Enamine과 aldol: proline이라는 작은 촉매 (슬라이드 p.13)
-- List–Lerner–Barbas(2000): acetone + ArCHO, L-proline 30 mol% → 68 %, 76 % ee. 지방족 $\alpha$-가지 aldehyde는 >99 % ee.
+- List–Lerner–Barbas(2000): $\text{acetone} + \mathrm{ArCHO},\ \text{L-proline}\ 30\ \text{mol}\% \longrightarrow 68\ \mathrm{\%},\ 76\ \mathrm{\%}\ \text{ee}$. 지방족 $\alpha$-가지 aldehyde는 >99 % ee.
 - → [proline-catalyzed aldol reaction](../wiki/반응/프롤린%20촉매%20알돌%20반응.md)
 
 ### 13. 비대칭 aldol의 촉매 순환 (슬라이드 p.14)
-- carbinolamine → iminium → enamine → (carboxylic acid가 aldehyde를 수소결합으로 붙잡은 TS) C–C 형성 → 가수분해, proline 재생.
+- $\begin{aligned} & \text{carbinolamine} \\ & \longrightarrow \text{iminium} \\ & \longrightarrow \text{enamine} \\ & \longrightarrow (\text{carboxylic acid가 aldehyde를 수소결합으로 붙잡은}\ \mathrm{TS})\ \mathrm{C{-}C}\ \text{형성} \\ & \longrightarrow \text{가수분해},\ \text{proline 재생} \end{aligned}$.
 - → [proline-catalyzed aldol reaction](../wiki/반응/프롤린%20촉매%20알돌%20반응.md), [enamine](../wiki/개념/엔아민.md)
 
 ### 14. 정리 (슬라이드 p.15)
@@ -79,7 +79,7 @@
 | 반응 | 시약/조건 | 생성물 | 비고 |
 |---|---|---|---|
 | [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md) | enolate + R'CH₂Br | R–CO–CH₂–CH₂R' | S<sub>N</sub>2, 염기 조건 (p.2) |
-| [aldol reaction](../wiki/반응/알돌%20반응.md) (enolate) | enolate + R'COR'' | $\beta$-hydroxy carbonyl → enone | 가역 (p.2) |
+| [aldol reaction](../wiki/반응/알돌%20반응.md) (enolate) | enolate + R'COR'' | $\beta\ \text{-hydroxy carbonyl} \longrightarrow \text{enone}$ | 가역 (p.2) |
 | [Claisen condensation](../wiki/반응/클라이젠%20축합.md) | enolate + ester(–OEt) | 1,3-dicarbonyl | EtO⁻ 이탈 (p.2) |
 | [aldol reaction](../wiki/반응/알돌%20반응.md) (산 촉매) | cyclopentanone, H⁺ | 2-cyclopentylidenecyclopentanone | enol이 nucleophile, E1 탈수 (p.3) |
 | [$\alpha$-halogenation](../wiki/반응/α-할로젠화.md) (산 촉매) | Br₂, HOAc | bromoacetone | mono (p.9) |

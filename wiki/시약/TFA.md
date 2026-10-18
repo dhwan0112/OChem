@@ -29,8 +29,8 @@ TFA는 acetic acid의 CH₃를 CF₃로 바꾼 산이다. 보충: fluorine 세 �
 1. TFA가 alkene을 protonate해($\delta^{+}$인 H) 더 안정한 [carbocation](../개념/탄소%20양이온.md)을 만들고, 짝염기가 그 cation을 붙잡아($\delta^{-}$인 O) trifluoroacetate ester가 된다.
 2. ester를 염기성 수용액으로 가수분해하면 alcohol과 trifluoroacetate anion이 나온다.
 
-- 예: cyclohexene --[TFA]--> cyclohexyl trifluoroacetate --[염기, H₂O]--> cyclohexane올 (출처: L2 p.20)
-- 예: 카바졸 골격의 isopropenyl group **12** --[TFA, DCM]--> 3차 TFA ester **13** --[NH₄OH, MeOH]--> 3차 alcohol **5** (85%, >99.5% ee) (출처: L2 p.21)
+- 예: $\begin{aligned} & \text{cyclohexene} \\ & \xrightarrow{\mathrm{TFA}} \text{cyclohexyl trifluoroacetate} \\ & \xrightarrow{\text{염기},\ \mathrm{H_2O}} \text{cyclohexane올} \end{aligned}$ (출처: L2 p.20)
+- 예: $\begin{aligned} & \text{카바졸 골격의 isopropenyl group}\ 12 \\ & \xrightarrow[\mathrm{DCM}]{\mathrm{TFA}} \text{3차}\ \mathrm{TFA}\ \text{ester}\ 13 \\ & \xrightarrow[\mathrm{MeOH}]{\mathrm{NH_4OH}} \text{3차 alcohol}\ 5\ (85\%,\ \mathrm{>99.5\%}\ \text{ee}) \end{aligned}$ (출처: L2 p.21)
 
 ## Boc 제거
 

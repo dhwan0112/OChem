@@ -68,7 +68,7 @@ ester는 [tetrahedral intermediate](../개념/사면체%20중간체.md)에서 OR
 ## 이웃 시약과 비교
 
 - **[LiBH4](LiBH4.md):** ester는 환원하지만 산·amide·nitrile은 남긴다. LiAlH₄로는 이런 구분이 안 된다. (출처: L5 p.22)
-- **[borane](보레인.md):** 산과 amide를 빠르게, ester·ketone은 느리게 환원한다. amide → amine은 둘 다 되지만 BH₃는 ester를 남긴다. (출처: L5 p.27)
+- **[borane](보레인.md):** 산과 amide를 빠르게, ester·ketone은 느리게 환원한다. $\text{amide} \longrightarrow \text{amine은 둘 다 되지만}\ \mathrm{BH_3}\text{는}\ \text{ester를 남긴다}$. (출처: L5 p.27)
 - **[DIBAL-H](DIBAL-H.md):** LiAlH₄는 ester를 alcohol까지 보내지만, DIBAL-H는 −70 °C에서 aldehyde에서 멈춘다. 대안으로 LiAlH₄로 alcohol까지 환원한 뒤 [DMP](DMP.md) 같은 순한 산화제로 aldehyde까지 되돌리는 우회로도 있다(→ [partial reduction of esters](../반응/에스터%20부분%20환원.md)). (출처: L5 p.29, L6c p.2)
 
 ![2,2-dimethylpropanoic acid → neopentyl alcohol](../../figures/L05/lialh4_pivalic.svg)

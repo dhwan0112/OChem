@@ -66,11 +66,11 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 
 ## 예
 
-- cyclopentadiene + maleic anhydride --[열]--> endo adduct만 (L13) (출처: L13 p.21)
-- cyclopentadiene 2분자 --[상온]--> endo-dicyclopentadiene (L13) (출처: L13 p.18, p.29)
-- cyclopentadiene + acrolein --[20 °C, 68 h]--> 5-norbornene-2-carbaldehyde (92%, endo로 그려짐) (L13) (출처: L13 p.16)
-- (E,E)-hexa-2,4-diene + acrolein --[열]--> **all-cis** 2,5-dimethylcyclohex-3-ene-1-carbaldehyde. 두 Me는 "out"이라 서로 cis(stereospecificity)이고, endo라 CHO도 Me들과 cis다. (L13) (출처: L13 p.23–24)
-- (E)-1-methoxybuta-1,3-diene + acrolein --[열]--> *cis*-2-methoxycyclohex-3-ene-1-carbaldehyde(racemic) (L14) (출처: L14 p.16–17)
+- $\text{cyclopentadiene} + \text{maleic anhydride} \xrightarrow{\text{열}} \text{endo adduct만}$ (L13) (출처: L13 p.21)
+- $\text{cyclopentadiene 2분자} \xrightarrow{\text{상온}} \text{endo-dicyclopentadiene}$ (L13) (출처: L13 p.18, p.29)
+- $\begin{aligned} & \text{cyclopentadiene} + \text{acrolein} \\ & \xrightarrow[68\ \text{h}]{20\,{}^\circ\mathrm{C}} \text{5-norbornene-2-carbaldehyde}\ (92\%,\ \text{endo로 그려짐}) \end{aligned}$ (L13) (출처: L13 p.16)
+- $\begin{aligned} & \text{(E,E)-hexa-2,4-diene} + \text{acrolein} \\ & \xrightarrow{\text{열}} \mathrm{all{-}cis}\ \text{2,5-dimethylcyclohex-3-ene-1-carbaldehyde} \end{aligned}$. 두 Me는 "out"이라 서로 cis(stereospecificity)이고, endo라 CHO도 Me들과 cis다. (L13) (출처: L13 p.23–24)
+- $\begin{aligned} & (\mathit{E})\text{-1-methoxybuta-1,3-diene} + \text{acrolein} \\ & \xrightarrow{\text{열}} \text{*cis*-2-methoxycyclohex-3-ene-1-carbaldehyde(racemic)} \end{aligned}$ (L14) (출처: L14 p.16–17)
 - (E)-1-acetoxybuta-1,3-diene + (E)-crotonaldehyde: OAc("out")와 CHO가 endo로 cis (L14, L15, → [Diels–Alder regioselectivity](딜스-알더%20위치선택성.md)) (출처: L14 p.18–19; L15 p.3)
 - **합성에서의 쓰임:** [cubane](큐베인.md) 합성에서 2-bromocyclopentadienone의 endo dimer는 두 C=C가 가까이 마주 보고 있어 다음 단계의 intramolecular photochemical [2+2]가 가능했다. (L14) (출처: L14 p.30)
 

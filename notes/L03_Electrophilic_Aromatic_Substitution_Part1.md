@@ -32,7 +32,7 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 - → [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md), [arenium ion](../wiki/개념/아레늄%20이온.md)
 
 ### 3. nitration (슬라이드 p.12–13)
-- 진한 HNO₃/H₂SO₄에서 직선형 NO₂⁺가 생기고, 고리가 N을 공격할 때 N=O 하나가 끊어진다. 3.1: nitro → aniline → diazonium salt → phenol.
+- 진한 HNO₃/H₂SO₄에서 직선형 NO₂⁺가 생기고, 고리가 N을 공격할 때 N=O 하나가 끊어진다. 3.1: $\begin{aligned} & \text{nitro} \\ & \longrightarrow \text{aniline} \\ & \longrightarrow \text{diazonium salt} \\ & \longrightarrow \text{phenol} \end{aligned}$.
 - → [nitration](../wiki/반응/나이트로화.md), [nitronium ion](../wiki/개념/나이트로늄%20이온.md), [mixed acid](../wiki/시약/혼산.md), [diazonium salt reactions](../wiki/반응/다이아조늄%20염%20반응.md), [Pd/C](../wiki/시약/Pd-C.md)
 
 ### 4. sulfonation (슬라이드 p.14)
@@ -63,9 +63,9 @@ L1–L2의 alkene은 Br₂나 peracid와 바로 반응했지만, C=C가 세 개 
 | [Clemmensen](../wiki/반응/클레멘센%20환원.md) | Zn/Hg, HCl | (환원) | ArCH₂R (ketone만) |
 | 분자내 acylation | H₃PO₄ | acylium | $\alpha$-테트랄론 |
 | nitro 환원 | H₂, Pd/C 또는 Sn, 묽은 HCl | | ArNH₂ |
-| [diazotization](../wiki/반응/다이아조늄%20염%20반응.md) → phenol | NaNO₂, HCl, 0 °C → H₂O, 가열 | aryl cation | ArOH |
+| [diazotization](../wiki/반응/다이아조늄%20염%20반응.md) → phenol | $\mathrm{NaNO_2},\ \mathrm{HCl},\ 0\,{}^\circ\mathrm{C} \longrightarrow \mathrm{H_2O},\ \text{가열}$ | aryl cation | ArOH |
 | phenol bromination | Br₂, EtOH/H₂O | Br₂ | 2,4,6-tribromophenol |
-| [Kolbe–Schmitt](../wiki/반응/콜베-슈미트%20반응.md) | NaOH → CO₂ → H₃O⁺ | CO₂ | salicylic acid |
+| [Kolbe–Schmitt](../wiki/반응/콜베-슈미트%20반응.md) | $\begin{aligned} & \mathrm{NaOH} \\ & \longrightarrow \mathrm{CO_2} \\ & \longrightarrow \mathrm{H_3O^+} \end{aligned}$ | CO₂ | salicylic acid |
 
 자세한 표(비고 포함)는 [electrophilic aromatic substitution](../wiki/반응/친전자성%20방향족%20치환.md)에 있다.
 

@@ -42,7 +42,7 @@ L6에서 미뤄 둔 메커니즘은 L16(예습판, Clayden 기반)에서 나온�
 
 ## 이웃 시약과 비교
 
-- **[KMnO4](KMnO4.md):** benzyl CH₃ → CO₂H. SeO₂는 allyl CH₃ → CHO. (출처: L6c p.18)
+- **[KMnO4](KMnO4.md):** $\text{benzyl}\ \mathrm{CH_3} \longrightarrow \mathrm{CO_2H}$. SeO₂는 allyl CH₃ → CHO. (출처: L6c p.18)
 - **[MnO2](MnO2.md):** 이미 있는 allyl **OH**를 C=O로 바꾼다. SeO₂는 산소가 없는 allyl **CH₃**에서 출발한다. (출처: L6c p.10, p.18)
 
 ## 흔한 오해

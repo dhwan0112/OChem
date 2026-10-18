@@ -20,7 +20,7 @@ L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방
 ## 강의 흐름
 
 ### 0. 복습: 테트랄론 합성 메커니즘 (슬라이드 p.3)
-- L3 p.22 빈칸의 답: anhydride에서 acylium ion → Clemmensen reduction → H₃PO₄로 분자내 acylation.
+- L3 p.22 빈칸의 답: $\begin{aligned} & \text{anhydride에서 acylium ion} \\ & \longrightarrow \text{Clemmensen reduction} \\ & \longrightarrow \mathrm{H_3PO_4}\text{로}\ \text{분자내 acylation} \end{aligned}$.
 - → [Friedel–Crafts acylation](../wiki/반응/프리델-크래프츠%20아실화.md), [Clemmensen reduction](../wiki/반응/클레멘센%20환원.md), [acylium ion](../wiki/개념/아실륨%20이온.md)
 
 ### 1. aniline: 질소 비공유 전자쌍은 고리를 훨씬 더 강하게 활성화한다 (슬라이드 p.4–6)
@@ -36,7 +36,7 @@ L3에서는 benzene 자체의 S<sub>E</sub>Ar을 보았다. 실제 합성의 방
 - → [substituent effect](../wiki/개념/치환기%20효과.md), [nitration](../wiki/반응/나이트로화.md)
 
 ### 4. 할로젠: 전자를 끌면서 동시에 주는 기 (슬라이드 p.15)
-- halobenzene nitration 표: 모두 benzene보다 느리지만 o/p. 반응성은 inductive effect, 배향은 conjugation이 정한다. F → I로 ortho 증가.
+- halobenzene nitration 표: 모두 benzene보다 느리지만 o/p. 반응성은 inductive effect, 배향은 conjugation이 정한다. $\mathrm{F} \longrightarrow \text{I로 ortho 증가}$.
 - → [substituent effect](../wiki/개념/치환기%20효과.md)
 
 ### 5. 전자 효과 요약 (슬라이드 p.16, p.24)

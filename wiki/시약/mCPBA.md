@@ -18,7 +18,7 @@ peracid는 carboxylic acid의 C(=O)와 산성 H 사이에 산소가 하나 더 �
 | 기질 | 생성물 | 비고 |
 |---|---|---|
 | alkene | epoxide | stereospecific syn 산소 전달 ([epoxidation](../반응/에폭시화.md)) |
-| alkene → epoxide → H₂O/H⁺ | *trans*-1,2-diol | anti diol ([epoxide ring opening](../반응/에폭사이드%20고리%20열기.md), [dihydroxylation](../반응/다이하이드록실화.md)) |
+| $\begin{aligned} & \text{alkene} \\ & \longrightarrow \text{epoxide} \\ & \longrightarrow \mathrm{H_2O/H^+} \end{aligned}$ | *trans*-1,2-diol | anti diol ([epoxide ring opening](../반응/에폭사이드%20고리%20열기.md), [dihydroxylation](../반응/다이하이드록실화.md)) |
 
 예:
 

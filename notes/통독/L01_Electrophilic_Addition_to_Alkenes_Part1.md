@@ -30,8 +30,8 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 포화 화합물(saturated)에서 무언가를 떼어내면 이중결합이 생기고(제거 반응, elimination), 이중결합에 무언가를 붙이면 다시 포화된다(첨가 반응, addition).
 
-- 제거의 예: 2-bromobutane --[NaOEt]--> 2-butene. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다.
-- 첨가의 예: alkyne --[H₂, 린들라 촉매(Lindlar's catalyst = Pd, CaCO₃, Pb(OAc)₂)]--> *Z*-alkene. 슬라이드 예시에서는 수율 79%, 전부 *Z*였다.
+- 제거의 예: $\text{2-bromobutane} \xrightarrow{\mathrm{NaOEt}} \text{2-butene}$. 이때 *E*-alkene이 주생성물, *Z*-alkene이 부생성물이다.
+- 첨가의 예: $\begin{aligned} & \text{alkyne} \\ & \xrightarrow{\substack{\mathrm{H_2},\  \\ \text{린들라}\ \text{촉매}(\text{Lindlar's catalyst}\ =\ \mathrm{Pd},\ \mathrm{CaCO_3},\ \mathrm{Pb(OAc)_2})}} \mathit{Z}\ \text{-alkene} \end{aligned}$. 슬라이드 예시에서는 수율 79%, 전부 *Z*였다.
 
 ![2-bromobutane의 E2 제거: E-2-butene(주)과 Z-2-butene(부)](../../figures/L01/e2_2_bromobutane.svg)
 
@@ -138,7 +138,7 @@ epoxide는 bromonium 이온의 $\mathrm{Br}^+$ 자리에 O가 들어간 3원 고
 
 그림: 네 개의 화살표가 한 번에 움직인다. (1) $\pi$ 결합이 친전자성 산소(빨강)를 공격하고, (2) 약한 O–O 결합이 끊어지며 그 전자가 새 C=O를 만들고, (3) 원래의 C=O가 H를 받아 가며, (4) O–H 결합 전자가 두 번째 C–O 결합이 된다. 그림에서는 과산의 R을 CH₃로 단순화했다(mCPBA는 R = *m*-ClC₆H₄). 두 methyl이 같은 쪽에 있던 alkene은 두 methyl이 같은 쪽에 있는 epoxide가 stereospecificity.
 
-가장 흔히 쓰는 과산은 **mCPBA(*meta*-chloroperoxybenzoic acid)** 다. 결정성 고체라서 비교적 안전하게 다룰 수 있다. 예를 들어 cyclohexene --[mCPBA]--> cyclohexene oxide의 수율은 95%이고, 부산물로 *m*-chlorobenzoic acid이 나온다. (출처: L1 p.14)
+가장 흔히 쓰는 과산은 **mCPBA(*meta*-chloroperoxybenzoic acid)** 다. 결정성 고체라서 비교적 안전하게 다룰 수 있다. 예를 들어 $\begin{aligned} & \text{cyclohexene} \\ & \xrightarrow{\mathrm{mCPBA}} \\ & \text{cyclohexene oxide의 수율은 95\%이고},\ \text{부산물로}\ \mathit{m}\  \\ & \text{-chlorobenzoic acid이 나온다} \end{aligned}$. (출처: L1 p.14)
 
 ![cyclohexene + mCPBA → cyclohexene oxide](../../figures/L01/cyclohexene_mcpba.svg)
 
@@ -249,7 +249,7 @@ bromonium 이온이 생긴 뒤 $\mathrm{Br}^-$ 가 가까운 탄소를 바로 �
 
 bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 어떻게 될까? 용매 분자가 $\mathrm{Br}^-$ 와 경쟁해 bromonium 이온을 연다. 용매는 $\mathrm{Br}^-$ 보다 압도적으로 농도가 높아서 대부분 용매가 먼저 반응한다.
 
-- 2-methyl프로펜 --[Br₂, H₂O]--> bromohydrin. OH는 3차 탄소에, Br은 CH₂에 붙는다.
+- $\text{2-methyl프로펜} \xrightarrow{\mathrm{Br_2},\ \mathrm{H_2O}} \text{bromohydrin}$. OH는 3차 탄소에, Br은 CH₂에 붙는다.
 - 이 bromohydrin을 염기($\mathrm{HO}^-$)로 처리하면 alkoxide($\mathrm{O}^-$)가 생긴다. 이 alkoxide가 분자 안에서 S<sub>N</sub>2로 옆 탄소의 Br을 밀어내면 **epoxide**가 된다. 즉 bromohydrin은 epoxide의 전구체다.
 
 ![2-methylpropene + Br2/H2O → bromohydrin](../../figures/L01/isobutene_bromohydrin.svg)
@@ -268,7 +268,7 @@ bromination을 물이나 methanol 같은 **친핵성 용매** 속에서 하면 �
 
 그림: isobutene에서 생긴 bromonium 이온에서 C–Br 결합이 늘어나면 부분 양전하( $\delta^{+}$ )가 3차 탄소에 쌓인다. 그래서 MeOH의 산소(파랑)가 그 3차 탄소를 뒤쪽에서 공격한다. 이어서 양성자를 잃으면(−$\mathrm{H}^+$) ether가 된다.
 
-대칭 bromonium 이온(ethylene에서 생긴 것)이라면 어느 탄소를 공격하든 결과가 같다. 그런데 2-methyl프로펜 --[Br₂, MeOH]--> 반응에서는 methanol이 **더 치환된 쪽(3차 탄소)** 을 공격해 ether를 만든다. (출처: L1 p.22)
+대칭 bromonium 이온(ethylene에서 생긴 것)이라면 어느 탄소를 공격하든 결과가 같다. 그런데 $\text{2-methyl프로펜} \xrightarrow[\mathrm{MeOH}]{\mathrm{Br_2}}$ 반응에서는 methanol이 **더 치환된 쪽(3차 탄소)** 을 공격해 ether를 만든다. (출처: L1 p.22)
 
 S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 바로 이 강의의 핵심 포인트다.
 
@@ -307,11 +307,11 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| halogenation | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti 첨가 | bromonium 이온 → S<sub>N</sub>2 |
+| halogenation | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti 첨가 | $\text{bromonium 이온} \longrightarrow \mathrm{S<sub>N</sub>2}$ |
 | halohydrin | Br₂, H₂O | $\beta$-bromoalcohol | OH는 더 치환된 C에 | anti | 느슨한 S<sub>N</sub>2 |
 | haloether | Br₂, MeOH | $\beta$-bromoether | OMe는 더 치환된 C에 | anti | 용매가 $\mathrm{Br}^-$ 를 이김 |
 | 에폭시화 | mCPBA (과산) | epoxide | 해당 없음 | syn, 입체특이적 | 협동, 고리 TS |
-| bromohydrin → epoxide | 염기 ($\mathrm{HO}^-$) | epoxide | 해당 없음 | 분자내 S<sub>N</sub>2 | |
+| $\text{bromohydrin} \longrightarrow \text{epoxide}$ | 염기 ($\mathrm{HO}^-$) | epoxide | 해당 없음 | 분자내 S<sub>N</sub>2 | |
 | HBr addition | HBr | alkyl bromide | Markovnikov | (이번 강의 범위 아님) | carbocation intermediate |
 | diene + HBr | HBr | 1,4-첨가 생성물 | H와 Br은 diene 양 끝에 | | allyl cation |
 | diene + Br₂ | Br₂ 1 당량 | 0 °C: 1,2-첨가 / 가열: 1,4-첨가 | | 1,4 생성물은 *E* | kinetic/thermodynamic 지배 |

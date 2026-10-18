@@ -78,7 +78,12 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 그렇다면 해결책은 무엇일까? 답은 단순하다. FG1과 FG2가 있는 분자에서 FG2를 반응시키고 싶은데 FG1이 방해한다면, FG1을 보호하고 → FG2에서 반응시키고 → FG1을 탈보호하면 된다.
 
 $$
-\begin{aligned} &\mathrm{FG_1{\sim}FG_2} \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \cr &\qquad \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE} \end{aligned}
+\begin{aligned}
+& \mathrm{FG_1{\sim}FG_2} \\
+& \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \\
+& \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \\
+& \qquad \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE}
+\end{aligned}
 $$
 
 ![보호–반응–탈보호 흐름](../../figures/L12/pg_strategy.svg)
@@ -157,7 +162,11 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 그래서 먼저 OH를 TBDMS 에테르로 바꾼다.
 
 $$
-\begin{aligned} &\mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \cr &\qquad \xrightarrow[\text{imidazole}]{\ \mathrm{\mathit{t}\text{-}BuMe_2SiCl}\ \mathstrut} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \cr &\qquad \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH} \end{aligned}
+\begin{aligned}
+& \mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \\
+& \qquad \xrightarrow[\text{imidazole}]{\ \mathrm{\mathit{t}\text{-}BuMe_2SiCl}\ \mathstrut} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \\
+& \qquad \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
+\end{aligned}
 $$
 
 ![TBS 보호 후 acetylide alkylation (1/2)](../../figures/L12/tbs_acetylide_1.svg)
@@ -345,7 +354,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 #### 8-1. 씌우기와 벗기기
 
-carbonyl은 ethylene 글라이콜과 p-TsOH로 고리형 acetal(1,3-다이옥솔레인)을 만들어 보호한다(→ acetal 형성 문서 참고).
+$\begin{aligned} & \text{carbonyl은 ethylene 글라이콜과}\ \mathit{p}\text{-}\ \mathrm{TsOH}\text{로}\  \\ & \text{고리형 acetal(1,3-다이옥솔레인)을 만들어}\ \text{보호한다}() \\ & \longrightarrow \text{acetal 형성 문서 참고)} \end{aligned}$.
 
 $$
 \mathrm{RC({=}O)R'} + \mathrm{HOCH_2CH_2OH} \overset{\mathrm{\mathit{p}\text{-}TsOH}}{\rightleftharpoons} \text{2,2-이치환 1,3-다이옥솔레인} + \mathrm{H_2O}
@@ -372,7 +381,11 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 **예제 1 (덜 반응성인 ester만 반응시키기).** ethyl acetoacetate의 ketone을 먼저 acetal로 가린다. 그러면 PhMgBr 2당량은 남은 ester를 공격할 수밖에 없다. 첫 번째 첨가 후 EtO-가 떨어져 ketone이 되고, 이 ketone에 두 번째 PhMgBr이 붙어 3차 alcohol이 된다. 마지막에 산성 수용액으로 처리하면 acetal이 벗겨진다.
 
 $$
-\begin{aligned} &\mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \mathstrut} \text{케톤만 아세탈화} \cr &\qquad \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \cr &\qquad \xrightarrow{\ \mathrm{H^+},\ \mathrm{H_2O}\ \mathstrut} \mathrm{CH_3COCH_2C(OH)Ph_2} \end{aligned}
+\begin{aligned}
+& \mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \mathstrut} \text{케톤만 아세탈화} \\
+& \qquad \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \\
+& \qquad \xrightarrow{\ \mathrm{H^+},\ \mathrm{H_2O}\ \mathstrut} \mathrm{CH_3COCH_2C(OH)Ph_2}
+\end{aligned}
 $$
 
 ![ketone만 acetal로 막고 ester에 Grignard 두 번 첨가 (1/3)](../../figures/L12/acetal_grignard_ketoester_1.svg)

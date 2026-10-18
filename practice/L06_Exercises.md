@@ -7,9 +7,9 @@
 1. (L6c p.2) RCO2Et를 RCHO로 바꾸는 두 가지 방법을 쓰고, 각 방법에서 과잉 환원이나 과잉 산화를 피하는 요점을 설명하라.
 2. (L6c p.5, p.7, p.10) menthol 합성 경로의 "geraniol → geranial" 단계에 쓸 수 있는 시약 두 가지를 쓰고, Jones 시약이 부적합한 이유를 말하라.
 3. (L6c p.25) H2/Lindlar 촉매로 12(HO–CH(Me)–CH=CH(Z)–CH=CH(E)–piperidine)를 100% 수율로 준 출발물 11의 구조를 제시하라.
-4. (L6c p.30) 빈칸: `[?] + OHC–(epoxide)… → OHC–CH=CH–(epoxide)…(E-선택적)`. 빈칸 시약은 무엇이며 왜 E가 생기는가?
+4. (L6c p.30) 빈칸: $\mathrm{[?]} + \mathrm{OHC{-}}\text{(epoxide)}\mathrm{\ldots } \longrightarrow \text{OHC–CH=CH–(epoxide)…(E-선택적)}$. 빈칸 시약은 무엇이며 왜 E가 생기는가?
 5. (L6c p.32) 다음 표적 분자를 Wittig 반응으로 만들 때 필요한 기질(carbonyl + ylide)을 제안하라. (a) (CH3)2C=CH–CH2CH3 (2-methylpent-2-ene) (b) 3-methylenecyclohexene
-6. (L6c p.37) 빈칸을 채워라. (a) CH3C(=O)CH2CH2CH(OTBS)CH(OTBS)CH2OTBS + [?] --[KHMDS]--> CH3CH=C(CH3)–CH=CH–CH=C(CH3)–CH2CH2…(새 C=C는 ketone 탄소 자리). (b) $\beta$-lactam N–CH(P(O)(OEt)2)CO2t-Bu와 측쇄 CH2CH2C(=O)CH2OR을 가진 기질 --[NaH, THF, 85%]--> [?]
+6. (L6c p.37) 빈칸을 채워라. ${\small \begin{aligned} & \mathrm{(a)\,CH_3C({=}O)CH_2CH_2CH(OTBS)CH(OTBS)CH_2OTBS} + \mathrm{[?]} \\ & \xrightarrow{\mathrm{KHMDS}} \mathrm{CH_3CH{=}C(CH_3){-}CH{=}CH{-}CH{=}C(CH_3){-}CH_2CH_2\ldots }(\text{새}\ \mathrm{C{=}C}\text{는}\ \text{ketone 탄소 자리}) \end{aligned}}$. $\begin{aligned} & \mathrm{(b)}\ \beta\ \text{-lactam}\ \mathrm{N{-}CH(P(O)(OEt)_2)CO_2t{-}Bu}\text{와}\ \text{측쇄}\  \\ & \mathrm{CH_2CH_2C({=}O)CH_2OR}\text{을}\ \text{가진 기질} \\ & \xrightarrow[\mathrm{THF}]{\mathrm{NaH},\ 85\%} \mathrm{[?]} \end{aligned}$
 7. (L6c p.15) Pinnick 산화에 2-methyl-2-butene을 넣는 이유와, 이것이 HOCl과 반응해 생기는 생성물(regioselectivity 포함)을 쓰라.
 8. (L6c p.23–24) 다음 두 반응의 생성물 stereochemistry를 쓰고, 두 번째 반응의 메커니즘을 4단계로 서술하라. (a) R1–C≡C–R2 + H2/Lindlar (b) R1–C≡C–R2 + Na, NH3(l), t-BuOH
 
@@ -27,6 +27,6 @@
 
 6. (a) 빈칸은 dienyl phosphonate (EtO)2P(O)–CH2–CH=CH–C(CH3)=CH–CH3((2E,4E)-4-methylhexa-2,4-dien-1-yl diethyl phosphonate)다. KHMDS가 P 옆 CH2를 deprotonate하고, 생긴 carbanion이 methyl ketone과 HWE 반응을 해 새 삼치환 C=C(그림의 빨간 결합)를 만든다. 슬라이드의 "dr = 7:1"은 새 C=C의 geometric isomer 비로 해석된다. (b) 분자 내 HWE다. P와 CO2t-Bu 사이의 C–H를 NaH가 떼어 carbanion을 만들고, 이것이 같은 분자의 ketone을 공격한다. 고리 원자는 N, $\beta$-lactam C4, CH2, CH2, ketone C, carbanion C이므로 6원 고리가 닫힌다. 생성물은 1-carbacephem(1-carbacephem) 골격이다: tert-butyl 7-phthalimido-3-(ROCH2)-8-oxo-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate. C2=C3 이중결합에서 C2에는 CO2t-Bu, C3에는 CH2OR이 붙고, $\beta$-lactam stereochemistry는 유지된다. 부산물은 (EtO)2PO2− Na+다. (L6c p.36–37)
 
-7. NaClO2가 aldehyde를 산화하면 HOCl이 부산물로 생기는데, 이것이 부반응을 일으키므로 제거해야 한다. 제거 반응은 `(CH3)2C=CHCH3 + HOCl → (CH3)2C(OH)–CHCl–CH3`이다. Cl이 electrophile로 C=C에 붙고, 물(OH)이 더 치환된 3차 탄소를 공격한다(Markovnikov형). 대신 DMSO를 써도 된다. (L6c p.15)
+7. NaClO2가 aldehyde를 산화하면 HOCl이 부산물로 생기는데, 이것이 부반응을 일으키므로 제거해야 한다. 제거 반응은 $\mathrm{(CH_3)_2C{=}CHCH_3} + \mathrm{HOCl} \longrightarrow \mathrm{(CH_3)_2C(OH){-}CHCl{-}CH_3}$이다. Cl이 electrophile로 C=C에 붙고, 물(OH)이 더 치환된 3차 탄소를 공격한다(Markovnikov형). 대신 DMSO를 써도 된다. (L6c p.15)
 
 8. (a) Z(cis)-alkene. 촉매 표면에서 일어나는 syn 첨가 때문이다. (b) E(trans)-alkene. 메커니즘: ① Na가 전자 1개를 줌 → radical anion. ② t-BuOH가 protonation → vinyl radical. ③ Na가 두 번째 전자를 줌 → vinyl anion, R1/R2가 trans 배치를 취함. ④ t-BuOH가 protonation → E-alkene. (L6c p.23–24)

@@ -115,8 +115,8 @@ epoxide도 bromonium 이온처럼 고리 ring strain이 큰 3원 고리다.
 
 epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inversion** 이 일어난다. 따라서 **입체특이적**이다.
 
-- cyclopentene oxide --[Me₂NH]--> *trans*-2-(dimethyl아미노)cyclopentanol(라세미, ±).
-- cyclohexene --[Br₂]--> *trans*-1,2-dibromocyclohexane(±). **이 부분입체이성질체 하나만** 생긴다.
+- $\begin{aligned} & \text{cyclopentene oxide} \\ & \xrightarrow{\mathrm{Me_2NH}} \text{*trans*-2-(dimethyl아미노)cyclopentanol}(\text{라세미},\ \mathrm{\pm }) \end{aligned}$.
+- $\text{cyclohexene} \xrightarrow{\mathrm{Br_2}} \text{*trans*-1,2-dibromocyclohexane(±)}$. **이 부분입체이성질체 하나만** 생긴다.
   - 1단계에서 $\mathrm{Br}^+$ 가 한쪽 면에 bromonium 이온을 만든다.
   - 2단계에서 $\mathrm{Br}^-$ 가 **반대쪽 면**에서 S<sub>N</sub>2로 공격한다(반전).
   - 처음 생기는 형태는 두 Br이 모두 **축 diaxial** 에 있는 의자 형태다. 이것이 빠르게 고리 ring inversion을 거쳐 **이중 적도 diequatorial** 형태로 바뀐다.
@@ -135,7 +135,8 @@ epoxide 고리 열기는 S<sub>N</sub>2이므로 공격받는 탄소에서 **inv
 
 (출처: L2 p.10)
 
-보충: cyclohexene은 고리 안의 이중결합이 *Z*일 수밖에 없어서 "출발 alkene의 기하가 생성물을 결정한다"는 stereospecificity을 직접 보여 주지 못한다. 이것은 2-butene으로 확인한다. *Z*-2-butene에 Br₂를 첨가하면 (2*R*,3*R*)/(2*S*,3*S*)-2,3-dibromobutane **라세미체**만, *E*-2-butene에서는 **메소**-2,3-dibromobutane만 생긴다. 두 경우 모두 anti 첨가이며, 기하 이성질체마다 서로 다른 부분입체이성질체가 하나씩 나온다는 사실 자체가 bromonium 이온 intermediate의 증거다. OsO₄(syn 첨가)와 결과가 정반대라는 점(연습 문제 4번)과 비교해 두면 좋다. (보충 근거: Clayden p.439–440)
+보충: cyclohexene은 고리 안의 이중결합이 *Z*일 수밖에 없어서 "출발 alkene의 기하가 생성물을 결정한다"는 stereospecificity을 직접 보여 주지 못한다. 이것은 2-butene으로 확인한다. *Z*-2-butene에 Br₂를 첨가하면 (2*R*,3*R*)/(2*S*,3*S*)-2,3-dibromobutane **라세미체**만, *E*-2-butene에서는 **메소**-2,3-dibromobutane만 생긴다. 두 경우 모두 anti 첨가이며, 기하 이성질체마다 서로 다른 부분입체이성질체가 하나씩 나온다는 사실 자체가 bromonium 이온 intermediate의 증거다. OsO₄(syn 첨가
+4. 생긴 alkoxide가 MeOH에서 양성)와 결과가 정반대라는 점(연습 문제 4번)과 비교해 두면 좋다. (보충 근거: Clayden p.439–440)
 
 > 왜 diaxial로 먼저 생길까? S<sub>N</sub>2의 nucleophile과 leaving group은 일직선(180°)이어야 한다. 그래서 고리 위에서 새로 생기는 C-Br 결합과 남아 있는 C-Br 결합이 서로 반대 방향인 축 방향 배치가 되는 것이다.[1]
 
@@ -155,7 +156,7 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 그래서 **처음에 아주 소량의 HBr만 있으면** 반응이 계속 굴러간다. (출처: L2 p.11)
 
-- 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> bromohydrin(±, anti). 물이 bromonium 이온의 반대쪽에서 공격하므로 **stereoselective** 이다. (출처: L2 p.11)
+- 예: *$\text{trans*-스틸벤} \xrightarrow[\mathrm{H_2O/DMSO}]{\mathrm{NBS},\ \mathrm{HBr(}\text{촉매)}} \text{bromohydrin}(\mathrm{\pm },\ \text{anti})$. 물이 bromonium 이온의 반대쪽에서 공격하므로 **stereoselective** 이다. (출처: L2 p.11)
 
 ![trans-stilbene + NBS, H2O/DMSO → bromohydrin](../../figures/L02/stilbene_nbs_bromohydrin.svg)
 
@@ -165,8 +166,8 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 > 개념 문서: [halohydrin formation](../../wiki/반응/할로하이드린%20형성.md)
 
-- cyclohexene --[1. NBS, HBr; 2. propargyl alcohol(HC≡CCH₂OH)]--> *trans*-1-bromo-2-(propargyloxy)cyclohexane(±).
-- 1-methylcyclohexene --[1. NBS, HBr; 2. alcohol]--> Br은 2차 탄소(CH)에, OR은 **methyl이 붙은 3차 탄소**에 anti로 붙는다. **입체선택적이면서 위치선택적**이다.
+- $\begin{aligned} & \text{cyclohexene} \\ & \xrightarrow{\substack{1.\ \mathrm{NBS},\ \mathrm{HBr};\  \\ 2.\ \text{propargyl}\ \text{alcohol}(\mathrm{HC{\equiv}CCH_2OH})}} \\ & \text{*trans*-1-bromo-2-(propargyloxy)cyclohexane(±)} \end{aligned}$.
+- $\begin{aligned} & \text{1-methylcyclohexene} \\ & \xrightarrow{1.\ \mathrm{NBS},\ \mathrm{HBr};\ 2.\ \text{alcohol}} \\ & \text{Br은 2차 탄소(CH)에},\ \mathrm{OR}\text{은}\  \\ & \text{methyl이 붙은 3차 탄소에 anti로 붙는다} \end{aligned}$. **입체선택적이면서 위치선택적**이다.
 
 ![cyclohexene + NBS, HBr; propargyl alcohol → trans-1-bromo-2-(propargyloxy)cyclohexane](../../figures/L02/cyclohexene_nbs_propargyl.svg)
 
@@ -192,7 +193,15 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 ### 4.1 *anti* (*trans*) diol: 에폭시화 → 산성 가수분해
 
-cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanediol(anti diol).
+
+$$
+\begin{aligned}
+& \text{cyclohexene} \\
+& \xrightarrow{\mathrm{mCPBA}} \text{epoxide} \\
+& \xrightarrow{\mathrm{H_2O},\ \mathrm{HClO_4}} \text{*trans*-1,2-cyclohexanediol}(\text{anti diol})
+\end{aligned}
+$$
+.
 - 산이 epoxide 산소를 protonation한다.
 - 물이 반대쪽 면에서 S<sub>N</sub>2로 공격한다(반전).
 - 그래서 두 OH가 서로 반대 면에 놓인다.
@@ -218,7 +227,7 @@ cyclohexene --[mCPBA]--> epoxide --[H₂O, HClO₄]--> *trans*-1,2-cyclohexanedi
 
 그림: 화살표 셋이 한 번에 움직인다(슬라이드 p.14와 같은 배치). (1) 위쪽 Os=O의 $\pi$ 전자가 위쪽 alkene 탄소와 새 C–O 결합을 만들고, (2) C=C $\pi$ 전자(파랑)가 아래쪽 산소로 가서 두 번째 C–O 결합을 만들며, (3) 아래쪽 Os=O의 $\pi$ 전자가 Os로 돌아간다. 그 결과 Os는 전자 두 개를 얻어 Os(VIII)에서 Os(VI)로 환원된다. 두 C–O 결합(초록 쐐기)이 같은 면에 생기므로, 가수분해(H₂O) 뒤에도 두 OH는 같은 쪽(syn)에 있다. 점선 쐐기의 H는 반대쪽 면을 향한다.
 
-OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 **촉매량의 OsO₄**와 **NMO(N-methylmorpholine-N-oxide)** 를 함께 쓴다. NMO가 반응 후 생긴 Os(VI)를 다시 Os(VIII)로 산화해 촉매를 재생한다. 예: R-CH₂-CH=C(CH₃)₂ --[cat. OsO₄, NMO, H₂O/*t*-BuOH]--> R-CH₂-CH(OH)-C(OH)(CH₃)₂. (출처: L2 p.14)
+OsO₄는 비싸고 독성이 강하다. 그래서 실제로는 **촉매량의 OsO₄**와 **NMO(N-methylmorpholine-N-oxide)** 를 함께 쓴다. NMO가 반응 후 생긴 Os(VI)를 다시 Os(VIII)로 산화해 촉매를 재생한다. 예: $\begin{aligned} & \mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \\ & \xrightarrow{\text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO},\ \mathrm{H_2O/}\ \mathit{t}\ \mathrm{{-}BuOH}} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2} \end{aligned}$. (출처: L2 p.14)
 
 ### 4.3 *E*-alkene과 *Z*-alkene (빈칸 문제)
 
@@ -228,7 +237,9 @@ OsO₄는 syn 첨가이므로 생성물의 입체화학은 출발 alkene의 기�
 
 ## 5. 이중결합 완전히 끊기
 
-### 5.1 OsO₄ → NaIO₄ (periodic acid염 절단)
+$$
+\mathrm{\#\#\#}\ 5.1\ \mathrm{OsO_4} \longrightarrow \mathrm{NaIO_4}\ (\text{periodic acid염 절단})
+$$
 
 > 개념 문서: [periodate cleavage](../../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../../wiki/시약/NaIO4.md)
 
@@ -271,10 +282,10 @@ ozone(O₃)은 불안정해서 **사용 직전에** ozone ozonizer로 O₂에서
 
 ### 6.1 산 촉매 수화
 
-alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이 hydration이다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
+$\text{alcohol} \xrightarrow{\text{산}} \text{alkene은}\ \mathrm{E_1}\ \text{제거}(\text{탈수},\ \text{dehydration})\text{다}$. 그 역반응이 hydration이다. 하지만 수화는 **alkene이 protonate되어 안정한 3차 cation을 만들 수 있을 때만** 잘 된다. 그 cation을 물(용매)이 붙잡는다.
 
-- methylylenecyclohexane --[H₂O, $H^+$]--> 1-methylcyclohexanol. Markovnikov regioselectivity을 따른다. $\delta^+$인 H가 CH₂에, $\delta^-$인 OH가 3차 탄소에 붙는다.
-- 이 반응은 **평형**이다. 같은 조건에서 *t*-BuOH --[H₂SO₄]--> isobutene(E1)의 역반응도 일어난다. 이때 $\mathrm{HSO}_{4}^-$ 가 염기로 작용해 $\beta$-H를 떼어낸다.
+- $\text{methylylenecyclohexane} \xrightarrow{\mathrm{H_2O},\ H^+} \text{1-methylcyclohexanol}$. Markovnikov regioselectivity을 따른다. $\delta^+$인 H가 CH₂에, $\delta^-$인 OH가 3차 탄소에 붙는다.
+- 이 반응은 **평형**이다. $\text{같은 조건에서}\ \mathit{t}\ \mathrm{{-}BuOH} \xrightarrow{\mathrm{H_2SO_4}} \text{isobutene}(\mathrm{E_1})\text{의}\ \text{역반응도 일어난다}$. 이때 $\mathrm{HSO}_{4}^-$ 가 염기로 작용해 $\beta$-H를 떼어낸다.
 
 ![methylenecyclohexane + H2O, $H^+$ → 1-methylcyclohexanol](../../figures/L02/methylenecyclohexane_hydration.svg)
 
@@ -297,8 +308,8 @@ alcohol --[산]--> alkene은 E1 제거(탈수, dehydration)다. 그 역반응이
 ### 6.2 TFA를 이용한 단계적 수화
 
 평형 문제를 피하는 방법으로 **trifluoroacetic acid(TFA, CF₃CO₂H)** 을 쓴다.
-1. cyclohexene + TFA → cyclohexyl trifluoroacetate. TFA는 강산이라 alkene을 protonate하고($\delta^+$인 H), 그 짝염기가 cation을 붙잡는다($\delta^-$인 O).
-2. ester --[염기, H₂O]--> cyclohexanol + trifluoroacetate anion.
+1. $\text{cyclohexene} + \mathrm{TFA} \longrightarrow \text{cyclohexyl trifluoroacetate}$. TFA는 강산이라 alkene을 protonate하고($\delta^+$인 H), 그 짝염기가 cation을 붙잡는다($\delta^-$인 O).
+2. $\text{ester} \xrightarrow{\text{염기},\ \mathrm{H_2O}} \text{cyclohexanol} + \text{trifluoroacetate anion}$.
 
 ![cyclohexene + TFA → cyclohexyl trifluoroacetate](../../figures/L02/cyclohexene_tfa_1.svg)
 
@@ -356,7 +367,7 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 2. 약한 O-O 결합이 끊어져 $\mathrm{HO}^-$ 가 떨어지는 동시에, 보론에 붙어 있던 **alkyl group이 B에서 O로 이동**한다.
 3. $\mathrm{HO}^-$ 가 B를 공격해 붕소 ester를 가수분해한다. 이어서 protonation이 일어나 alcohol이 된다.
 
-예: Ph-C(CH₃)=CH₂ --[1. HBR₂; 2. H₂O₂, NaOH]--> Ph-CH(CH₃)-CH₂OH. OH가 **덜 치환된 탄소**에 붙는다. (출처: L2 p.25)
+예: $\mathrm{Ph{-}C(CH_3){=}CH_2} \xrightarrow{1.\ \mathrm{HBR_2};\ 2.\ \mathrm{H_2O_2},\ \mathrm{NaOH}} \mathrm{Ph{-}CH(CH_3){-}CH_2OH}$. OH가 **덜 치환된 탄소**에 붙는다. (출처: L2 p.25)
 
 ![Ph-C(CH3)=CH2 → Ph-CH(CH3)-CH2OH (hydroboration–oxidation)](../../figures/L02/alpha_methylstyrene_hydroboration.svg)
 
@@ -375,8 +386,8 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 **9-BBN(9-borabicyclo[3.3.1]nonane)** 은 1,5-cyclooctadiene에 BH₃·SMe₂를 두 번 수소붕소화시켜 만든다. 9-BBN도 B-H-B 다리를 가진 이량체로 존재한다. (출처: L2 p.26)
 
 9-BBN은 부피가 크기 때문에 **입체 효과까지 더해져** regioselectivity이 더 높아진다.
-- R-CH=CH₂ --[1. BH₃, THF; 2. H₂O₂, NaOH]--> 1차 alcohol 94%. 전자 효과에 의한 선택성이다.
-- R-CH=CH₂ --[1. 9-BBN, THF; 2. H₂O₂, NaOH]--> 1차 alcohol 99.9%. 전자 효과와 입체 효과가 함께 작용한다.
+- $\mathrm{R{-}CH{=}CH_2} \xrightarrow{1.\ \mathrm{BH_3},\ \mathrm{THF};\ 2.\ \mathrm{H_2O_2},\ \mathrm{NaOH}} \text{1차 alcohol}\ 94\%$. 전자 효과에 의한 선택성이다.
+- $\mathrm{R{-}CH{=}CH_2} \xrightarrow{1.\ \mathrm{9{-}BBN},\ \mathrm{THF};\ 2.\ \mathrm{H_2O_2},\ \mathrm{NaOH}} \text{1차 alcohol}\ 99.9\%$. 전자 효과와 입체 효과가 함께 작용한다.
 - 내부 alkene(4-ethyl-2-hexene)에서도 9-BBN은 덜 붐비는 쪽 탄소에 99%의 선택성으로 붙는다.
 
 (출처: L2 p.26-27)

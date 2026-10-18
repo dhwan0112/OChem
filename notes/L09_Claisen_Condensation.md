@@ -20,7 +20,7 @@ enolate의 세 번째 짝, "enolate + ester"를 다룬다. $\alpha$-alkylation�
 ## 강의 흐름
 
 ### 1. Enolate가 할 수 있는 네 가지 일 (슬라이드 p.2, p.14)
-- enolate + alkyl halide → $\alpha$-alkylation, + aldehyde/ketone → aldol, + ester → 1,3-dicarbonyl(Claisen), + enone → Michael. Claisen의 C–C 형성은 가역(⇌)이다.
+- $\begin{aligned} & \text{enolate} + \text{alkyl halide} \\ & \longrightarrow \alpha\ \text{-alkylation}, + \text{aldehyde/ketone} \\ & \longrightarrow \text{aldol}, + \text{ester} \\ & \longrightarrow \text{1,3-dicarbonyl(Claisen)}, + \text{enone} \\ & \longrightarrow \text{Michael} \end{aligned}$. Claisen의 C–C 형성은 가역(⇌)이다.
 - → [Claisen condensation](../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../wiki/반응/알돌%20반응.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 2. Claisen 반응은 결국 친핵성 acyl 치환이다 (슬라이드 p.3)
@@ -39,7 +39,7 @@ enolate의 세 번째 짝, "enolate + ester"를 다룬다. $\alpha$-alkylation�
 - → [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md), [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md), [retro-aldol reaction](../wiki/반응/역알돌%20반응.md)
 
 ### 5. 분자 내 Claisen: Dieckmann condensation (슬라이드 p.12)
-- diester → 고리형 $\beta$-keto ester. 고리 크기 = carbonyl 사이 CH₂ 수 + 1(1,6-diester → 5원, 1,7-diester → 6원).
+- $\text{diester} \longrightarrow \text{고리형}\ \beta\ \text{-keto ester}$. 고리 크기 = carbonyl 사이 CH₂ 수 + 1(1,6-diester → 5원, 1,7-diester → 6원).
 - → [Dieckmann condensation](../wiki/반응/디크만%20축합.md)
 
 ### 6. 연습: Claisen으로 합성 설계하기 (슬라이드 p.13)

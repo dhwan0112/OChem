@@ -21,7 +21,17 @@ tags: [분류/시약, 범위/Test1, 단원/방향족-치환, 단원/산화-알�
 
 ## 예: 사카린 합성
 
-toluene --[ClSO₂OH]--> *o*-toluenesulfonyl chloride --[(NH₄)₂CO₃]--> *o*-toluenesulfonamide(89%) --[KMnO₄]--> 2-sulfamoylbenzoic acid(분리 안 함) --[HCl]--> 사카린(58%)
+
+$$
+\begin{aligned}
+& \text{toluene} \\
+& \xrightarrow{\mathrm{ClSO_2OH}} \mathit{o}\ \text{-toluenesulfonyl chloride} \\
+& \xrightarrow{\mathrm{(NH_4)_2CO_3}} \mathit{o}\ \text{-toluenesulfonamide(89\%)} \\
+& \xrightarrow{\mathrm{KMnO_4}} \text{2-sulfamoylbenzoic}\ \text{acid}(\text{분리 안 함}) \\
+& \xrightarrow{\mathrm{HCl}} \text{사카린(58\%)}
+\end{aligned}
+$$
+
 
 KMnO₄가 benzyl CH₃를 CO₂H로 바꾸고, 마지막 HCl 단계에서 CO₂H와 SO₂NH₂가 분자 내에서 고리를 닫아 imide가 된다. 첫 단계는 [sulfonation](../반응/설폰화.md) 계열의 electrophilic aromatic substitution이다. (출처: L6c p.18)
 

@@ -9,11 +9,15 @@
 
 1-hexene(1-hexene, CH2=CH-CH2CH2CH2CH3)을 NaCl 수용액 속에서 Br2와 반응시키면 세 가지 생성물의 혼합물이 얻어진다. 세 생성물의 구조를 쓰고 regioselectivity을 설명하라.
 
-`CH2=CH-(CH2)3CH3 --[Br2, NaCl in water]--> 세 생성물의 혼합물`
+
+$$
+\mathrm{CH_2{=}CH{-}(CH_2)_3CH_3} \xrightarrow{\mathrm{Br_2},\ \mathrm{NaCl}\ \text{in water}} \text{세 생성물의 혼합물}
+$$
+
 
 ### 공식 풀이
 
-- 1단계: alkene + Br2 → 고리형 bromonium bromonium ion + Br⁻.
+- 1단계: $\text{alkene} + \mathrm{Br_2} \longrightarrow \text{고리형 bromonium bromonium ion} + \mathrm{Br^-}$.
 - 2단계: nucleophile(Nu⁻)가 bromonium 고리의 **더 많이 치환된 탄소(C2)**를 공격하여 고리를 연다. Br은 말단 탄소(C1)에 남는다.
 - 세 생성물:
   1. Nu = Br: 1,2-dibromohexane(1,2-dibromohexane), BrCH2-CHBr-C4H9
@@ -45,7 +49,17 @@
 
 출발물: (E)-2-cyclopentyl뷰트-2-엔((E)-2-cyclopentylbut-2-ene, cyclopentyl–C(CH3)=CH–CH3; 그림상 두 methyl이 같은 쪽에 있다)
 
-`알켄 --[9-BBN, THF]--> ? --[H2O2]--> ? --[TsCl, base]--> ? --[KCN (SN2)]--> ?`
+
+$$
+\begin{aligned}
+& \text{알켄} \\
+& \xrightarrow[\mathrm{THF}]{\mathrm{9{-}BBN}} \mathrm{?} \\
+& \xrightarrow{\mathrm{H_2O_2}} \mathrm{?} \\
+& \xrightarrow{\mathrm{TsCl},\ \text{base}} \mathrm{?} \\
+& \xrightarrow{\mathrm{KCN\,(S_{\mathrm{N}}2)}} \mathrm{?}
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
@@ -80,7 +94,16 @@
 
 출발물: 1-ethylcyclohexene(1-ethylcyclohexene)
 
-`1-에틸사이클로헥센 --[Br2, EtOH]--> ? --[tBuOK (E2)]--> ? --[O3, then Me2S]--> ?`
+
+$$
+\begin{aligned}
+& \text{1-에틸사이클로헥센} \\
+& \xrightarrow[\mathrm{EtOH}]{\mathrm{Br_2}} \mathrm{?} \\
+& \xrightarrow{\mathrm{tBuOK\,(E_2)}} \mathrm{?} \\
+& \xrightarrow{\mathrm{O_3},\ \text{then}\ \mathrm{Me_2S}} \mathrm{?}
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
@@ -102,7 +125,7 @@
 
 - Br2/ROH: bromoether 형성(Markovnikov, anti 첨가).
 - E2의 regioselectivity은 "anti-periplanar $\beta$-H가 어디 있는가"가 결정한다. 사차 탄소 쪽으로는 제거가 불가능하다.
-- O3 후 Me2S(환원적 후처리): C=C → 두 개의 C=O. 고리 alkene이면 고리가 열린다.
+- O3 후 Me2S(환원적 후처리): $\mathrm{C{=}C} \longrightarrow \text{두 개의}\ \mathrm{C{=}O}$. 고리 alkene이면 고리가 열린다.
 
 ---
 
@@ -113,7 +136,15 @@
 - 시약 A: cis-2-butene(cis-2-butene) → 2,3-butanediol(그림: HO와 OH, 두 H가 같은 쪽, 두 Me가 같은 쪽 → meso 형)
 - 시약 B: trans-2-butene(trans-2-butene) → 같은 diol
 
-`cis-2-butene --[reagents A]--> meso-2,3-butanediol <--[reagents B]-- trans-2-butene`
+
+$$
+\begin{aligned}
+& \text{cis-2-butene} \\
+& \xrightarrow{\text{reagents}\ \mathrm{A}} \text{meso-2,3-butanediol} \\
+& \xleftarrow{\text{reagents}\ \mathrm{B}} \text{trans-2-butene}
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
@@ -180,15 +211,22 @@
 
 반응 생성물을 예측하고 메커니즘을 제시하라. 생성물은 5원자 고리를 포함한다.
 
-`벤젠 + (브로모메틸)사이클로뷰테인(BrCH2–C4H7) --[AlBr3]--> 5원자 고리를 가진 생성물`
+
+$$
+\begin{aligned}
+& \text{벤젠} + \text{(브로모메틸)사이클로뷰테인}(\mathrm{BrCH_2{-}C_4H_7}) \\
+& \xrightarrow{\mathrm{AlBr_3}} \text{5원자 고리를 가진 생성물}
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
 - 생성물: cyclopentylbenzene.
 - 메커니즘:
-  1. BrCH2–cyclobutyl + AlBr3 → ⁺CH2–cyclobutyl(일차 carbocation) + AlBr4⁻
-  2. 고리의 C–C 결합이 cation 중심으로 1,2-이동하며 고리가 확장된다 → cyclopentyl cation.
-  3. benzene이 cyclopentyl cation을 공격 → arenium 이온 → H⁺ 손실 → cyclopentylbenzene.
+  1. $\begin{aligned} & \text{BrCH2–cyclobutyl} + \mathrm{AlBr_3} \\ & \longrightarrow \text{⁺CH2–cyclobutyl}(\text{일차 carbocation}) + \mathrm{AlBr_4^-} \end{aligned}$
+  2. $\begin{aligned} & \text{고리의}\ \mathrm{C{-}C}\  \\ & \text{결합이 cation 중심으로 1,2-이동하며 고리가 확장된다} \\ & \longrightarrow \text{cyclopentyl cation} \end{aligned}$.
+  3. $\begin{aligned} & \text{benzene이 cyclopentyl cation을 공격} \\ & \longrightarrow \text{arenium 이온} \\ & \longrightarrow \mathrm{H^+}\ \text{손실} \\ & \longrightarrow \text{cyclopentylbenzene} \end{aligned}$.
 
 (출처: Tutorial_1_solution p.3)
 
@@ -203,7 +241,7 @@
 ### 핵심 개념
 
 - Friedel–Crafts alkylation은 carbocation 재배열을 동반한다.
-- 고리 ring expansion: cyclobutyl카비닐 cation → cyclopentyl cation(전하 안정화 + 변형 해소).
+- 고리 ring expansion: $\begin{aligned} & \text{cyclobutyl카비닐 cation} \\ & \longrightarrow \text{cyclopentyl}\ \text{cation}(\text{전하 안정화}\ +\ \text{변형 해소}) \end{aligned}$.
 - 일차 halogenationalkyl로는 원하는 일차 alkylbenzene을 직접 얻기 어렵다.
 
 ---
@@ -212,13 +250,17 @@
 
 benzene에서 (cyclobutylmethyl)benzene((cyclobutylmethyl)benzene, Ph–CH2–C4H7)을 합성하는 계획을 제시하라.
 
-`벤젠 --[여러 단계]--> Ph–CH2–사이클로뷰틸`
+
+$$
+\text{벤젠} \xrightarrow{\text{여러 단계}} \mathrm{Ph{-}CH_2{-}}\text{사이클로뷰틸}
+$$
+
 
 ### 공식 풀이
 
-1. `사이클로뷰테인카복실산 --[SOCl2, DMF]--> 사이클로뷰테인카보닐 클로라이드`
-2. `벤젠 + 사이클로뷰테인카보닐 클로라이드 --[AlCl3]--> 사이클로뷰틸 페닐 케톤 (Ph–CO–C4H7)` (Friedel–Crafts acylation)
-3. `Ph–CO–C4H7 --[Zn/Hg, HCl]--> Ph–CH2–C4H7` (Clemmensen reduction)
+1. $\begin{aligned} & \text{사이클로뷰테인카복실산} \\ & \xrightarrow[\mathrm{DMF}]{\mathrm{SOCl_2}} \text{사이클로뷰테인카보닐 클로라이드} \end{aligned}$
+2. $\begin{aligned} & \text{벤젠} + \text{사이클로뷰테인카보닐 클로라이드} \\ & \xrightarrow{\mathrm{AlCl_3}} \text{사이클로뷰틸 페닐 케톤}\ \mathrm{(Ph{-}CO{-}C_4H_7)} \end{aligned}$ (Friedel–Crafts acylation)
+3. $\mathrm{Ph{-}CO{-}C_4H_7} \xrightarrow{\mathrm{Zn/Hg},\ \mathrm{HCl}} \mathrm{Ph{-}CH_2{-}C_4H_7}$ (Clemmensen reduction)
 
 (출처: Tutorial_1_solution p.3)
 
@@ -234,4 +276,4 @@ benzene에서 (cyclobutylmethyl)benzene((cyclobutylmethyl)benzene, Ph–CH2–C4
 
 - acylium 이온은 재배열하지 않는다. 그래서 acylation + 환원으로 재배열 없는 alkylbenzene을 얻는다.
 - acylation 생성물은 비활성화되어 다중 치환이 억제된다.
-- C=O → CH2: Clemmensen(Zn/Hg, HCl) 또는 Wolff–Kishner(N2H4, KOH).
+- $\mathrm{C{=}O} \longrightarrow \mathrm{CH_2:}\ \text{Clemmensen}(\mathrm{Zn/Hg},\ \mathrm{HCl})\ \text{또는}\ \text{Wolff–Kishner}(\mathrm{N_2H_4},\ \mathrm{KOH})$.

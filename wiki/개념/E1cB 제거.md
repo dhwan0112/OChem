@@ -21,7 +21,11 @@ E2는 H와 leaving group이 한 번에 떨어지고, E1은 leaving group이 먼�
 2. enolate의 전자쌍이 내려오며 C$\alpha$=C$\beta$ 이중결합을 만들고, $\beta$-탄소의 HO⁻를 밀어낸다.
 
 $$
-\begin{aligned} &\mathrm{CH_3CH(OH)CH_2CHO} \cr &\qquad \longrightarrow \mathrm{CH_3CH{=}CHCHO}\ (\text{2-butenal},\ \text{enal}) \cr &\qquad + \mathrm{H_2O}\ (\mathrm{HO^-}\ \text{재생}) \end{aligned}
+\begin{aligned}
+& \mathrm{CH_3CH(OH)CH_2CHO} \\
+& \qquad \longrightarrow \mathrm{CH_3CH{=}CHCHO}\ (\text{2-butenal},\ \text{enal}) \\
+& \qquad + \mathrm{H_2O}\ (\mathrm{HO^-}\ \text{재생})
+\end{aligned}
 $$
 
 이 반응이 앞으로 가는 원동력은 생성물의 **conjugation**이다. alkene과 carbonyl이 이어져 전자가 넓게 퍼지므로 $\alpha,\beta$-unsaturated carbonyl 화합물이 안정하다. 더 강한 염기, 더 높은 온도, 더 긴 반응 시간일수록 탈수 생성물이 나오기 쉽다. (출처: L8 p.10, p.11)
@@ -32,7 +36,7 @@ $$
 
 ## 예
 
-- **aldol condensation:** PhCHO + PhCOCH₃ --[HO⁻, 20 °C]--> (*E*)-chalcone(85%). [Knoevenagel](../반응/크뇌베나겔%20축합.md) 생성물과 intramolecular aldol의 2-acetylcyclopentan-1-ol → 1-acetylcyclopentene도 같은 단계다(→ [aldol reaction](../반응/알돌%20반응.md), [intramolecular aldol reaction](../반응/분자내%20알돌%20반응.md)). (출처: L8 p.28, p.29, p.31)
+- **aldol condensation:** $\mathrm{PhCHO} + \mathrm{PhCOCH_3} \xrightarrow[20\,{}^\circ\mathrm{C}]{\mathrm{HO^-}} (\mathit{E})\text{-chalcone(85\%)}$. [Knoevenagel](../반응/크뇌베나겔%20축합.md) 생성물과 intramolecular aldol의 2-acetylcyclopentan-1-ol → 1-acetylcyclopentene도 같은 단계다(→ [aldol reaction](../반응/알돌%20반응.md), [intramolecular aldol reaction](../반응/분자내%20알돌%20반응.md)). (출처: L8 p.28, p.29, p.31)
 - **[Fmoc protecting group](../시약/Fmoc%20보호기.md) 제거:** amine 염기가 fluorene 9번 C–H(pKa 약 25)를 떼면 14전자 aromatic anion이 생기고, 이것이 CH₂–O 결합을 밀어내 dibenzofulvene과 carbamate anion이 된다. carbamate는 CO₂를 잃고 amine이 된다. (출처: L12 p.11)
 
 ![amine 염기에 의한 Fmoc의 E1cB 제거](../../figures/L12/fmoc_removal.svg)

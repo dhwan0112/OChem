@@ -31,17 +31,17 @@ L2는 L1의 원리($\pi$ 전자가 electrophile을 공격)와 두 intermediate�
 
 ### 3. stereoselectivity: anti 첨가와 반전 (슬라이드 p.10–12)
 - epoxide 열기와 Br₂ 첨가는 SN2 inversion이라 stereospecific anti다. cyclohexene + Br₂ → *trans*-dibromide 하나만(diaxial → diequatorial)(p.10). → [epoxide ring opening](../wiki/반응/에폭사이드%20고리%20열기.md), [halogen addition](../wiki/반응/할로젠%20첨가.md)
-- 3.1 NBS는 cat. HBr로 Br₂를 조금씩 내놓는 공급원이다. NBS/H₂O → anti bromohydrin(p.11). → [NBS](../wiki/시약/NBS.md), [halohydrin formation](../wiki/반응/할로하이드린%20형성.md)
+- 3.1 NBS는 cat. HBr로 Br₂를 조금씩 내놓는 공급원이다. $\mathrm{NBS/H_2O} \longrightarrow \text{anti bromohydrin(p.11)}$. → [NBS](../wiki/시약/NBS.md), [halohydrin formation](../wiki/반응/할로하이드린%20형성.md)
 - 3.2 NBS + alcohol: OR은 더 치환된 탄소에 anti(regio + stereo)(p.12). → [halohydrin formation](../wiki/반응/할로하이드린%20형성.md)
 
 ### 4. 1,2-diol 만들기: *trans*와 *cis*를 골라서 (슬라이드 p.13–15)
 - 4.1 anti(*trans*) diol: mCPBA → H₂O/HClO₄(p.13).
-- 4.2 syn(*cis*) diol: OsO₄ → osmate ester, 실제로는 cat. OsO₄ + NMO(p.14).
+- 4.2 syn(*cis*) diol: $\mathrm{OsO_4} \longrightarrow \text{osmate ester},\ \text{실제로는 cat}$. OsO₄ + NMO(p.14).
 - 4.3 *E*/*Z*-alkene의 OsO₄ 생성물은 stereospecific(빈칸 문제)(p.15).
 - → [dihydroxylation](../wiki/반응/다이하이드록실화.md), [OsO4](../wiki/시약/OsO4.md), [NMO](../wiki/시약/NMO.md), [mCPBA](../wiki/시약/mCPBA.md)
 
 ### 5. 이중결합 완전히 끊기 (슬라이드 p.16–18)
-- 5.1 OsO₄로 diol → NaIO₄가 고리형 periodate ester를 거쳐 C–C $\sigma$를 끊는다(p.16). → [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../wiki/시약/NaIO4.md)
+- $\begin{aligned} & 5.1\ \mathrm{OsO_4}\text{로}\ \text{diol} \\ & \longrightarrow \mathrm{NaIO_4}\text{가}\ \text{고리형 periodate ester를 거쳐}\ \mathrm{C{-}C}\ \sigma\ \text{를 끊는다(p.16)} \end{aligned}$. → [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md), [NaIO4](../wiki/시약/NaIO4.md)
 - 5.2 ozonolysis: O₃ 첨가 → 붕괴(carbonyl + carbonyl oxide) → 후처리. Me₂S는 aldehyde, H₂O₂는 acid, NaBH₄는 alcohol(p.17–18). → [ozonolysis](../wiki/반응/오존%20분해.md), [ozone](../wiki/시약/오존.md)
 
 ### 6. OH 하나 붙이기: 물을 이중결합에 더하는 법 (슬라이드 p.19–21)

@@ -87,9 +87,12 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 
 앞에서 butadiene + ethylene이 900 atm까지 필요했던 이유는 무엇일까? 답은 dienophile의 전자적 성질에 있다. 실제로 쓰이는 dienophile에는 대개 전자 끄는 기(EWG)가 붙어 있다. 슬라이드에 나온 예는 NO2, CN, SO2R, COOR, COR, Cl, Ph이고,[5] 대체로 dienophile의 전자가 부족할수록 반응이 빠르다. 숫자로 비교하면 차이가 확연하다.
 
-- butadiene + ethylene --[165 °C, 17 h, 900 atm]--> cyclohexene (78%)
-- butadiene + acrolein --[150 °C, 0.5 h]--> cyclohex-3-ene-1-carbaldehyde
-- butadiene + CH2=C(COOMe)2 --[25 °C, 24 h]--> dimethyl cyclohex-3-ene-1,1-dicarboxylate (80%)
+- $\text{butadiene} + \text{ethylene} \xrightarrow[165\,{}^\circ\mathrm{C},\ 17\ \text{h}]{900\ \text{atm}} \text{cyclohexene}\ (78\%)$
+
+- $\begin{aligned} & \text{butadiene} + \text{acrolein} \\ & \xrightarrow[0.5\ \text{h}]{150\,{}^\circ\mathrm{C}} \text{cyclohex-3-ene-1-carbaldehyde} \end{aligned}$
+
+- $\begin{aligned} & \text{butadiene} + \mathrm{CH_2{=}C(COOMe)_2} \\ & \xrightarrow[24\ \text{h}]{25\,{}^\circ\mathrm{C}} \text{dimethyl cyclohex-3-ene-1,1-dicarboxylate}\ (80\%) \end{aligned}$
+
 
 ![butadiene + ethylene → cyclohexene](../../figures/L13/da_butadiene_ethylene.svg)
 
@@ -151,8 +154,8 @@ cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로
 
 butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응시키면 결과가 어떻게 다를까? 답은 "원래 배열 그대로"다. cis-dienophile은 cis 생성물을, trans-dienophile은 trans 생성물을 준다.
 
-- butadiene + dimethyl maleate(Z) → cis-dimethyl cyclohex-4-ene-1,2-dicarboxylate(두 CO2Me가 같은 쪽, syn)
-- butadiene + dimethyl fumarate(E) → trans-diester(두 CO2Me가 반대쪽, anti, 라셈체)
+- $\begin{aligned} & \text{butadiene} + \text{dimethyl maleate(Z)} \\ & \longrightarrow \text{cis-dimethyl}\ \text{cyclohex-4-ene-1,2-dicarboxylate}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{같은 쪽},\ \text{syn}) \end{aligned}$
+- $\begin{aligned} & \text{butadiene} + \text{dimethyl fumarate(E)} \\ & \longrightarrow \text{trans-diester}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{반대쪽},\ \text{anti},\ \text{라셈체}) \end{aligned}$
 
 왜 그럴까? 반응이 협동적이고 초면으로 일어나기 때문이다. dienophile의 두 탄소는 같은 면에서 동시에 결합을 만들고, 그 사이에 C5–C6 결합이 회전할 수 있는 intermediate가 없다. 그래서 alkene의 cis/trans 정보가 고리에 그대로 찍힌다. 반응물의 입체화학이 생성물의 입체화학을 결정하므로 이것을 stereospecificity이라고 한다. (출처: L13 p.19)
 

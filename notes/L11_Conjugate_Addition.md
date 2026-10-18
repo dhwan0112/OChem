@@ -28,7 +28,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [conjugate addition](../wiki/반응/공액%20첨가.md)
 
 #### 2.1 amine의 첨가 (슬라이드 p.5)
-- 1차·2차 amine → $\beta$-아미노 carbonyl. zwitterion → 양성자 이동 → tautomerization의 네 단계, 모두 가역.
+- $\text{1차·2차 amine} \longrightarrow \beta\ \text{-아미노 carbonyl}$. zwitterion → 양성자 이동 → tautomerization의 네 단계, 모두 가역.
 - → [conjugate addition](../wiki/반응/공액%20첨가.md)의 "메커니즘", [keto–enol tautomerization](../wiki/반응/케토-엔올%20토토머화.md)
 
 #### 2.2 organocuprate의 첨가 (슬라이드 p.6–7)
@@ -59,7 +59,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 #### 4.1 기본형 (슬라이드 p.14)
-- enolate $\alpha$-탄소가 Michael acceptor의 $\beta$-탄소를 쳐서 새 enolate → protonate하면 1,5-dicarbonyl. acrylonitrile도 좋은 받개다.
+- $\begin{aligned} & \text{enolate}\ \alpha\ \text{-탄소가 Michael acceptor의}\ \beta\  \\ & \text{-탄소를 쳐서 새 enolate} \\ & \longrightarrow \text{protonate하면 1,5-dicarbonyl} \end{aligned}$. acrylonitrile도 좋은 받개다.
 - → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "메커니즘", [enol and enolate](../wiki/개념/엔올과%20엔올레이트.md)
 
 #### 4.2 경쟁 반응: conjugate addition vs aldol (슬라이드 p.15)
@@ -77,7 +77,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 ### 5. enamine: 중성이면서 soft한 nucleophile (슬라이드 p.18–20)
 
 #### 5.1 enamine 복습 (슬라이드 p.18)
-- ketone + 2차 amine → enamine, R–X로 $\alpha$-alkylation 후 가수분해. iminium과 enamine은 양성자 하나 차이.
+- $\text{ketone} + \text{2차 amine} \longrightarrow \text{enamine},\ \mathrm{R{-}X}\text{로}\ \alpha\ \text{-alkylation 후 가수분해}$. iminium과 enamine은 양성자 하나 차이.
 - → [enamine](../wiki/개념/엔아민.md), [Stork enamine reaction](../wiki/반응/스토크%20엔아민%20반응.md), [iminium ion](../wiki/개념/이미늄%20이온.md), [reductive amination](../wiki/반응/환원성%20아미노화.md)
 
 #### 5.2 enamine의 conjugate addition (슬라이드 p.19)
@@ -85,7 +85,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "enamine" 절, [연습 문제](../practice/L11_Exercises.md) 문제 6
 
 #### 5.3 합성 응용: dopamine antagonist (슬라이드 p.20)
-- ester enolate + acrylonitrile(Triton B) → H₂/Pd/C로 amine, lactam 고리화 → alkylation과 환원.
+- $\begin{aligned} & \text{ester enolate} + \text{acrylonitrile}(\text{Triton}\ \mathrm{B}) \\ & \longrightarrow \text{H₂/Pd/C로 amine},\ \text{lactam 고리화} \\ & \longrightarrow \text{alkylation과 환원} \end{aligned}$.
 - → [Michael reaction](../wiki/반응/마이클%20반응.md)의 "예", [연습 문제](../practice/L11_Exercises.md) 문제 7
 
 ### 6. iminium ion 촉매 (슬라이드 p.21)
@@ -99,7 +99,7 @@ L1~L2의 alkene은 electrophile을 받는 nucleophile이었다. 이 강의는 C=
 - → [addition-elimination](../wiki/반응/첨가-제거%20반응.md)
 
 #### 7.2 nucleophilic aromatic substitution(SNAr) (슬라이드 p.22–23)
-- 강한 EWG가 붙은 halobenzene에서 첨가(느림) → $\sigma$ complex → 제거. 규칙: F >> Cl ~ Br >> I, 강한 EWG(NO₂ 최강), leaving group은 EWG의 ortho/para.
+- $\begin{aligned} & \text{강한}\ \mathrm{EWG}\text{가}\ \text{붙은 halobenzene에서 첨가(느림)} \\ & \longrightarrow \sigma\ \text{complex} \\ & \longrightarrow \text{제거} \end{aligned}$. 규칙: F >> Cl ~ Br >> I, 강한 EWG(NO₂ 최강), leaving group은 EWG의 ortho/para.
 - → [SNAr](../wiki/반응/친핵성%20방향족%20치환.md), [Meisenheimer complex](../wiki/개념/마이젠하이머%20착물.md)
 
 ### 8. 요약 (슬라이드 p.24)

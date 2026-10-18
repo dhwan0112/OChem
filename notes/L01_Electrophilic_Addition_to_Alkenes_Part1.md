@@ -20,7 +20,7 @@ L1은 alkene의 C=C $\pi$ 결합이 electrophile을 공격한다는 **하나의 
 ## 강의 흐름
 
 ### 1. 출발점: 첨가와 제거는 서로 거울 관계 (슬라이드 p.4–6)
-- elimination(2-bromobutane + NaOEt → *E*-2-butene 주생성물)과 addition(alkyne + H₂/Lindlar → *Z*-alkene, syn)은 서로 거울 관계다. PVC 단량체 합성이 산업 예다.
+- $\begin{aligned} & \text{elimination}(\text{2-bromobutane}\ +\ \mathrm{NaOEt}) \\ & \longrightarrow \mathit{E}\ \text{-2-butene 주생성물)과}\ \text{addition}(\text{alkyne}) + \text{H₂/Lindlar} \\ & \longrightarrow \mathit{Z}\ \text{-alkene},\ \text{syn)은 서로 거울 관계다} \end{aligned}$. PVC 단량체 합성이 산업 예다.
 - → [overview](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md), [Lindlar reduction](../wiki/반응/린들라%20환원.md), [Lindlar catalyst](../wiki/시약/린들라%20촉매.md)
 
 ### 2. electrophilic addition 반응 한눈에 보기 (슬라이드 p.7)
@@ -42,7 +42,7 @@ L1은 alkene의 C=C $\pi$ 결합이 electrophile을 공격한다는 **하나의 
 ### 5. HBr addition: carbocation과 Markovnikov 규칙 (슬라이드 p.16–18)
 - 5.1 $\pi$가 H를 공격해 carbocation, 이어 Br⁻가 잡는 2단계 mechanism(p.16).
 - 5.2 styrene은 benzylic cation을 거쳐 1-bromo-1-phenylethane만 준다(p.17).
-- 5.3 2-methylpropene → *t*-BuBr. "더 안정한 carbocation을 거친다"가 Markovnikov 규칙의 원리다(p.18).
+- $5.3\ \text{2-methylpropene} \longrightarrow \mathit{t}\ \mathrm{{-}BuBr}$. "더 안정한 carbocation을 거친다"가 Markovnikov 규칙의 원리다(p.18).
 - → [hydrohalogenation](../wiki/반응/할로젠화수소%20첨가.md), [Markovnikov's rule](../wiki/개념/마르코프니코프%20규칙.md), [carbocation](../wiki/개념/탄소%20양이온.md)
 
 ### 6. diene의 electrophilic addition (1,4-첨가) (슬라이드 p.19–20)
@@ -51,7 +51,7 @@ L1은 alkene의 C=C $\pi$ 결합이 electrophile을 공격한다는 **하나의 
 - → [electrophilic addition to dienes](../wiki/반응/다이엔의%20친전자성%20첨가.md), [allyl cation](../wiki/개념/알릴%20양이온.md), [kinetic vs thermodynamic control](../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
 ### 7. 비대칭 bromonium 이온의 regioselectivity (슬라이드 p.21–23)
-- 7.1 H₂O/MeOH 용매가 Br⁻를 이겨 bromohydrin·bromoether가 되고, bromohydrin + 염기 → epoxide(p.21).
+- $\begin{aligned} & 7.1\ \mathrm{H_2O/MeOH}\  \\ & \text{용매가 Br⁻를 이겨 bromohydrin·bromoether가 되고},\  \\ & \text{bromohydrin} + \text{염기} \\ & \longrightarrow \text{epoxide(p.21)} \end{aligned}$.
 - 7.2 nucleophile은 **더 치환된 탄소**를 공격한다(loose SN2 TS, 전자 효과). Br₂/MeOH 상대 속도표(p.22–23).
 - → [halohydrin formation](../wiki/반응/할로하이드린%20형성.md), [loose SN2 transition state](../wiki/개념/느슨한%20SN2%20전이%20상태.md), [halogen addition](../wiki/반응/할로젠%20첨가.md)
 
@@ -59,11 +59,11 @@ L1은 alkene의 C=C $\pi$ 결합이 electrophile을 공격한다는 **하나의 
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | stereochemistry | 비고 |
 |---|---|---|---|---|---|
-| [halogenation](../wiki/반응/할로젠%20첨가.md) | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti | bromonium ion → SN2 |
+| [halogenation](../wiki/반응/할로젠%20첨가.md) | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti | $\text{bromonium ion} \longrightarrow \mathrm{S_{\mathrm{N}}2}$ |
 | [halohydrin](../wiki/반응/할로하이드린%20형성.md) | Br₂, H₂O | $\beta$-bromo alcohol | OH는 더 치환된 C에 | anti | loose SN2 |
 | haloether | Br₂, MeOH | $\beta$-bromo ether | OMe는 더 치환된 C에 | anti | 용매가 Br⁻를 이김 |
 | [epoxidation](../wiki/반응/에폭시화.md) | mCPBA (peracid) | epoxide | 해당 없음 | syn, stereospecific | concerted, 고리형 TS |
-| bromohydrin → epoxide | 염기 (HO⁻) | epoxide | 해당 없음 | 분자내 SN2 | |
+| $\text{bromohydrin} \longrightarrow \text{epoxide}$ | 염기 (HO⁻) | epoxide | 해당 없음 | 분자내 SN2 | |
 | [hydrohalogenation](../wiki/반응/할로젠화수소%20첨가.md) | HBr | alkyl bromide | Markovnikov | (이번 강의 범위 아님) | carbocation |
 | [diene + HBr](../wiki/반응/다이엔의%20친전자성%20첨가.md) | HBr | 1,4-첨가 생성물 | H와 Br은 diene 양 끝에 | | allyl cation |
 | diene + Br₂ | Br₂ 1 당량 | 0 °C: 1,2-첨가 / 가열: 1,4-첨가 | | 1,4 생성물은 *E* | kinetic/thermodynamic control |

@@ -8,15 +8,19 @@
 
 다음 반응의 intermediate와 생성물을 제시하라.
 
-`화합물 1 --[PPh3, NEt3, THF, reflux, 2시간]--> 2`
+
+$$
+\text{화합물}\ 1 \xrightarrow[\mathrm{THF},\ \text{reflux}]{\mathrm{PPh_3},\ \mathrm{NEt_3},\ \text{2시간}} 2
+$$
+
 
 - 화합물 1: 2-(4-methoxyphenyl)-2-oxoethyl 2-bromoacetate, 즉 4-MeO-C6H4-CO-CH2-O-CO-CH2Br (펜아실 bromoacetate, phenacyl bromoacetate).
 
 ### 공식 풀이
 
-1. `1 --[PPh3]--> 4-MeO-C6H4-CO-CH2-O-CO-CH2-P⁺Ph3 Br⁻` (phosphonium 염, phosphonium salt)
-2. `--[NEt3, -HBr]--> 4-MeO-C6H4-CO-CH2-O-CO-CH⁻-P⁺Ph3` (ylide, ylide)
-3. `--[비티히 반응(Wittig reaction)]--> 2`
+1. $1 \xrightarrow{\mathrm{PPh_3}} \mathrm{4{-}MeO{-}C_6H_4{-}CO{-}CH_2{-}O{-}CO{-}CH_2{-}P^+Ph_3\,Br^-}$ (phosphonium 염, phosphonium salt)
+2. $\xrightarrow{\mathrm{NEt_3},\ \mathrm{{-}HBr}} \mathrm{4{-}MeO{-}C_6H_4{-}CO{-}CH_2{-}O{-}CO{-}CH^-{-}P^+Ph_3}$ (ylide, ylide)
+3. $\xrightarrow{\text{비티히}\ \text{반응}(\text{Wittig reaction})} 2$
 - 2: 4-(4-methoxyphenyl)퓨란-2(5H)-온, 즉 5원 락톤 고리 O-CH2-C(Ar)=CH-C(=O) (butenolide, butenolide).
 
 (출처: Tutorial_3_answers p.1)
@@ -31,7 +35,7 @@
 
 ### 핵심 개념
 
-$\alpha$-할로 ester + PPh3 → phosphonium 염 → (약염기) 안정화 ylide → 분자 내 비티히로 butenolide 형성.
+$\begin{aligned} & \alpha\ \text{-할로 ester} + \mathrm{PPh_3} \\ & \longrightarrow \text{phosphonium 염} \\ & \longrightarrow (\text{약염기})\ \text{안정화 ylide} \\ & \longrightarrow \text{분자 내 비티히로 butenolide 형성} \end{aligned}$.
 
 ---
 
@@ -39,15 +43,15 @@ $\alpha$-할로 ester + PPh3 → phosphonium 염 → (약염기) 안정화 ylide
 
 다음 화합물로부터 해당하는 enolate를 제시하라. enolate가 형성되지 않으면 NA라고 답하라.
 
-- (3) `PhCO-CH=CH-CH3` (크로토노페논, (E)-1-phenyl뷰트-2-ene-1-one) `--[LDA]-->`
-- (4) `PhCO-CH=CH2` (1-phenyl프로프-2-ene-1-one, phenyl 비닐 ketone) `--[LDA]-->`
-- (5) methyl 2-(시아노메틸)benzoate, 즉 benzene 고리 오르토 위치에 CO2Me와 CH2CN `--[LDA]-->`
+- (3) `PhCO-CH=CH-CH3` (크로토노페논, (E)-1-phenyl뷰트-2-ene-1-one) $\xrightarrow{\mathrm{LDA}}$
+- (4) `PhCO-CH=CH2` (1-phenyl프로프-2-ene-1-one, phenyl 비닐 ketone) $\xrightarrow{\mathrm{LDA}}$
+- (5) methyl 2-(시아노메틸)benzoate, 즉 benzene 고리 오르토 위치에 CO2Me와 CH2CN $\xrightarrow{\mathrm{LDA}}$
 
 ### 공식 풀이
 
 - 3: $\gamma$-methyl의 H를 떼어 낸 확장 enolate(dienolate). 세 공명 구조를 표시: $\gamma$-탄소 anion PhCO-CH=CH-CH2⁻ ↔ $\alpha$-탄소 anion PhCO-CH⁻-CH=CH2 ↔ 산소 anion PhC(O⁻)=CH-CH=CH2.
 - 4: NA. $\alpha$-수소가 sp2 탄소(비닐 C-H)에 있다고 표시.
-- 5: CH2CN의 H를 떼어 낸 탄소 anion Ar-CH⁻-CN ↔ keteneimine anion(ketenimine anion) Ar-CH=C=N⁻.
+- 5: CH2CN의 H를 떼어 낸 탄소 anion $\mathrm{Ar{-}CH^-{-}CN}\ \leftrightarrow\ \text{keteneimine}\ \text{anion}(\text{ketenimine anion})\ \mathrm{Ar{-}CH{=}C{=}N^-}$.
 
 (출처: Tutorial_3_answers p.1)
 
@@ -73,16 +77,29 @@ enolate(또는 안정화 탄소 anion)가 되려면 떼어 낼 H가 sp3 탄소�
 
 a. (R)-(+)-2-methyl-1-phenylbutane-1-온(PhCO-CH(CH3)CH2CH3, 화합물 6)의 수용성 ethanol 용액을 염기로 처리하면 용액이 점차 광학 활성을 잃는다. ketone을 분리해 보면 racemization되어 있다. 이 변환의 메커니즘을 제안하라.
 
-`6 (R) --[NaOH, EtOH]--> 6 (R) + 6 (S) (50:50)`
+
+$$
+6\ (\mathit{R}) \xrightarrow[\mathrm{EtOH}]{\mathrm{NaOH}} 6\ (\mathit{R}) + 6\ (\mathit{S})\ \mathrm{(50:50)}
+$$
+
 
 b. a의 결과를 바탕으로 다음 반응의 생성물을 예측하라.
 
-`화합물 7 (cis-1-데칼론, cis-octahydronaphthalen-1(2H)-one, C10H16O; 두 고리 접합 H가 같은 쪽 쐐기) --[NaOH, EtOH]--> 8 (C10H16O)`
+
+$$
+\begin{aligned}
+& \text{화합물}\ 7\ (\text{cis-1-데칼론},\  \\
+& \text{cis-octahydronaphthalen-1(2H)-one},\ \mathrm{C_{10}H_{16}O};\  \\
+& \text{두 고리 접합 H가 같은 쪽 쐐기}) \\
+& \xrightarrow[\mathrm{EtOH}]{\mathrm{NaOH}} 8\ \mathrm{(C_{10}H_{16}O)}
+\end{aligned}
+$$
+
 
 ### 공식 풀이
 
 - a: OH⁻가 sp3 $\alpha$-탄소의 H를 떼어 내어 평면 sp2 enolate 형성. enolate가 EtOH(HOEt)로부터 앞면에서 양성자를 받으면 6 (R), 뒷면에서 받으면 6 (S). 위쪽에 enolate + EtOH ⇌ ketone + EtO⁻ 평형을 별도로 표시.
-- b: OH⁻가 carbonyl에 이웃한 고리 접합 H를 떼어 enolate 형성 → HOEt로 protonation → 8 = trans-1-데칼론 (carbonyl 옆 접합 H가 hash, 다른 접합 H는 쐐기). "trans- is more stable"이라고 표기.
+- b: $\begin{aligned} & \mathrm{OH^-}\text{가}\ \text{carbonyl에 이웃한 고리 접합 H를 떼어 enolate 형성} \\ & \longrightarrow \mathrm{HOEt}\text{로}\ \text{protonation} \\ & \longrightarrow 8\ =\ \text{trans-1-데칼론}\ (\text{carbonyl 옆 접합 H가 hash},\ \text{다른 접합 H는 쐐기}) \end{aligned}$. "trans- is more stable"이라고 표기.
 
 (출처: Tutorial_3_answers p.2)
 
@@ -104,7 +121,14 @@ $\alpha$-입체중심은 염기 조건에서 평면 enolate를 거쳐 라세미�
 
 a. geraniol(9)을 geranylacetone(10)으로 어떻게 바꿀 수 있는가? 한 단계 이상이 필요할 수 있다.
 
-`(CH3)2C=CH-CH2CH2-C(CH3)=CH-CH2OH --[여러 단계]--> (CH3)2C=CH-CH2CH2-C(CH3)=CH-CH2-CH2-CO-CH3`
+
+$$
+\begin{aligned}
+& \mathrm{(CH_3)_2C{=}CH{-}CH_2CH_2{-}C(CH_3){=}CH{-}CH_2OH} \\
+& \xrightarrow{\text{여러 단계}} \mathrm{(CH_3)_2C{=}CH{-}CH_2CH_2{-}C(CH_3){=}CH{-}CH_2{-}CH_2{-}CO{-}CH_3}
+\end{aligned}
+$$
+
 
 b. ketone 11로부터 천연물 sativene, 12의 합성을 제안하라.
 
@@ -114,17 +138,17 @@ b. ketone 11로부터 천연물 sativene, 12의 합성을 제안하라.
 ### 공식 풀이
 
 a:
-1. `제라니올 --[PBr3]--> 제라닐 브로마이드 (…C(CH3)=CH-CH2Br)`
-2. `CH3COCH2CO2Et --[NaOEt]--> 아세토아세테이트 엔올레이트`
+1. $\text{제라니올} \xrightarrow{\mathrm{PBr_3}} \text{제라닐 브로마이드}\ \mathrm{(\ldots C(CH_3){=}CH{-}CH_2Br)}$
+2. $\mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\mathrm{NaOEt}} \text{아세토아세테이트 엔올레이트}$
 3. enolate + 제라닐 bromide → `EtO2C-CH(CH2-geranyl쇄)-CO-CH3` (ethyl 2-제라닐아세토아세테이트)
-4. `--[NaOH, H2O]--> 카복실레이트(⁻O2C-CH(R)-COCH3)`
-5. `--[HCl]--> β-케토산 HO2C-CH(R)-COCH3`
-6. `--[Δ, -CO2]--> 제라닐아세톤 10`
+4. $\xrightarrow{\mathrm{NaOH},\ \mathrm{H_2O}} \text{카복실레이트(⁻O2C-CH}(\mathrm{R){-}COCH_3})$
+5. $\xrightarrow{\mathrm{HCl}} \beta\ \text{-케토산}\ \mathrm{HO_2C{-}CH(R){-}COCH_3}$
+6. $\xrightarrow{\Delta,\ \mathrm{{-}CO_2}} \text{제라닐아세톤}\ 10$
 
 b:
-1. `11 --[TsCl, 염기]--> 2차 알코올의 토실레이트(OTs)`
-2. `--[NaOEt]--> 케톤의 엔올레이트(각 메틸 반대쪽 α-CH2에서 형성)` → enolate 탄소가 C-OTs 탄소를 분자 내 SN2 공격(곡선 화살표로 표시) → 삼환 ketone
-3. `삼환 케톤 --[Ph3P⁺-CH2⁻ (비티히 시약)]--> 사티벤 12`
+1. $11 \xrightarrow{\mathrm{TsCl},\ \text{염기}} \text{2차 알코올의 토실레이트(OTs)}$
+2. $\xrightarrow{\mathrm{NaOEt}} \text{케톤의}\ \text{엔올레이트}(\text{각 메틸 반대쪽}\ \alpha\ \mathrm{{-}CH_2}\text{에서}\ \text{형성})$ → enolate 탄소가 C-OTs 탄소를 분자 내 SN2 공격(곡선 화살표로 표시) → 삼환 ketone
+3. $\text{삼환 케톤} \xrightarrow{\mathrm{Ph_3P^+{-}CH_2^-}\ (\text{비티히 시약})} \text{사티벤}\ 12$
 
 (출처: Tutorial_3_answers p.2 (a), p.3 (b))
 
@@ -148,28 +172,28 @@ a: acetoacetic ester 합성 = 안정화 enolate alkylation + 비누화 + decarbo
 
 다음 변환의 시약 또는 생성물을 제시하라.
 
-a. `화합물 13 --[1. LDA; 2. 아크롤레인(acrolein, CH2=CH-CHO); 3. HCl 수용액]--> 14`
+a. $\begin{aligned} & \text{화합물}\ 13 \\ & \xrightarrow{\substack{1.\ \mathrm{LDA};\  \\ 2.\ \text{아크롤레인}(\text{acrolein},\ \mathrm{CH_2{=}CH{-}CHO});\  \\ 3.\ \mathrm{HCl}\ \text{수용액}}} 14 \end{aligned}$
 
 - 13: (S)-헵트-6-ene-2-일 acetate, 즉 CH3CO-O-CH(CH3)-CH2CH2CH2-CH=CH2 (그림의 쐐기 표기 기준으로 S 배열).
 
-b. `사이클로헥산온(15) --[?]--> 16`
+b. $\text{사이클로헥산온(15)} \xrightarrow{?} 16$
 
 - 16: 2-(1-hydroxy-3-phenylpropyl)-2-methylcyclohexane-1-one, 즉 C2가 CH3와 CH(OH)-CH2CH2-Ph를 가진 4급 탄소.
 
 ### 공식 풀이
 
 a:
-1. `13 --[LDA]--> 아세테이트 에스터 엔올레이트 (⁻CH2-CO-OR ↔ CH2=C(O⁻)-OR)`
-2. `--[아크롤레인, Aldol]--> CH2=CH-CH(O⁻)-CH2-CO-OR` (alkoxide)
-3. `--[HCl]--> CH2=CH-CH(OH)-CH2-CO-OR` ($\beta$-hydroxy ester)
-4. `--[H⁺]--> 14 = CH2=CH-CH=CH-CO-OR` (펜타-2,4-dienoic acid ester, 탈수 생성물)
+1. $\begin{aligned} & 13 \\ & \xrightarrow{\mathrm{LDA}} \text{아세테이트 에스터 엔올레이트}\ (\mathrm{{}^-CH_2{-}CO{-}OR}\ \\ & \leftrightarrow \ \mathrm{CH_2{=}C(O^-){-}OR}) \end{aligned}$
+2. $\xrightarrow{\text{아크롤레인},\ \text{Aldol}} \mathrm{CH_2{=}CH{-}CH(O^-){-}CH_2{-}CO{-}OR}$ (alkoxide)
+3. $\xrightarrow{\mathrm{HCl}} \mathrm{CH_2{=}CH{-}CH(OH){-}CH_2{-}CO{-}OR}$ ($\beta$-hydroxy ester)
+4. $\xrightarrow{\mathrm{H^+}} 14\ =\ \mathrm{CH_2{=}CH{-}CH{=}CH{-}CO{-}OR}$ (펜타-2,4-dienoic acid ester, 탈수 생성물)
 (R = (S)-헵트-6-ene-2-일, 입체중심 유지)
 
 b:
-1. `15 --[LDA]--> 사이클로헥산온 엔올레이트`
-2. `--[MeI]--> 2-methyl사이클로헥산온`
-3. `--[Me3SiCl, Et3N]--> 1-트리메틸실릴옥시-2-methyl사이클로헥센` (더 치환된 C1=C2 silyl enol 에테르, silyl enol ether)
-4. `--[i) PhCH2CH2CHO, TiCl4; ii) H2O]--> 16`
+1. $15 \xrightarrow{\mathrm{LDA}} \text{사이클로헥산온 엔올레이트}$
+2. $\xrightarrow{\mathrm{MeI}} \text{2-methyl사이클로헥산온}$
+3. $\xrightarrow{\mathrm{Me_3SiCl},\ \mathrm{Et_3N}} \text{1-트리메틸실릴옥시-2-methyl사이클로헥센}$ (더 치환된 C1=C2 silyl enol 에테르, silyl enol ether)
+4. $\xrightarrow{\mathrm{i)\,PhCH_2CH_2CHO},\ \mathrm{TiCl_4};\ \text{ii)}\ \mathrm{H_2O}} 16$
 
 (출처: Tutorial_3_answers p.3)
 
@@ -185,4 +209,4 @@ b의 출발점은 역합성이다. 16은 C2가 4급 탄소이고 그 위에 CH3�
 
 ### 핵심 개념
 
-a: LDA로 ester enolate → aldehyde에 1,2-aldol(공식 답은 이후 탈수까지). b: alkylation 후 thermodynamic silyl enol 에테르로 더 치환된 위치를 고정 → TiCl4 Mukaiyama aldol로 4급 탄소 형성.
+a: $\begin{aligned} & \mathrm{LDA}\text{로}\ \text{ester enolate} \\ & \longrightarrow \text{aldehyde에}\ \text{1,2-aldol}(\text{공식 답은 이후 탈수까지}) \end{aligned}$. b: alkylation 후 thermodynamic silyl enol 에테르로 더 치환된 위치를 고정 → TiCl4 Mukaiyama aldol로 4급 탄소 형성.

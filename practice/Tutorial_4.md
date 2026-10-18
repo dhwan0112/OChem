@@ -9,7 +9,18 @@
 
 cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, 해당되면 regioselectivity과 stereoselectivity을 설명하라.
 
-`Danishefsky 다이엔 ((E)-1-메톡시-3-(트라이메틸실릴옥시)-1,3-뷰타다이엔, MeO–CH=CH–C(OSiMe3)=CH2) + 메틸 사이클로헥사-1,4-다이엔-1-카복실레이트 (methyl cyclohexa-1,4-diene-1-carboxylate) --> ?`
+
+$$
+\begin{aligned}
+& \text{Danishefsky 다이엔}\  \\
+& ((\mathit{E})\text{-1-메톡시-3-(트라이메틸실릴옥시)-1,3-뷰타다이엔},\  \\
+& \mathrm{MeO{-}CH{=}CH{-}C(OSiMe_3){=}CH_2}) \\
+&  + \text{메틸 사이클로헥사-1,4-다이엔-1-카복실레이트}\  \\
+& (\text{methyl cyclohexa-1,4-diene-1-carboxylate}) \\
+& \longrightarrow \mathrm{?}
+\end{aligned}
+$$
+
 
 (출처: Tutorial_Questions_4 p.1)
 
@@ -43,7 +54,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 ### 핵심 개념
 
 - 전자가 풍부한 diene(Danishefsky) + 전자 부족 dienophile: 콘쥬게이션된 C=C만 선택적으로 반응한다.
-- regioselectivity: 1-치환 diene → "ortho", 2-치환 diene → "para". 두 효과가 일치하면 선택성이 높다.
+- regioselectivity: $\begin{aligned} & \text{1-치환 diene} \\ & \longrightarrow \text{"ortho"},\ \text{2-치환 diene} \\ & \longrightarrow \text{"para"} \end{aligned}$. 두 효과가 일치하면 선택성이 높다.
 - 고리형 dienophile은 suprafacial 첨가로 cis-융합 이환 생성물을 준다. 고리 밖 입체중심은 endo 규칙으로 예측한다.
 - Danishefsky diene cycloaddition물은 산 처리로 cyclohexenone이 된다(L15 p.26).
 
@@ -53,7 +64,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 표적 분자 합성에 필요한 반응물과 시약을 제안하고, 해당되면 위치·stereoselectivity을 설명하라.
 
-**(a)** `[A] + [B] --> [C] --> 표적 1`
+**(a)** $\begin{aligned} & \mathrm{[A]} + \mathrm{[B]} \\ & \longrightarrow \mathrm{[C]} \\ & \longrightarrow \text{표적}\ 1 \end{aligned}$
 
 표적 1: 삼환 $\gamma$-락톤. 두 개의 cyclobutane이 맞붙은 bicyclo[2.2.0]hexane 핵에 cyclohexane이 융합되어 있다.
 - 왼쪽 cyclobutane: CH2–CH2와 두 사차 탄소(하나는 CO2Me, 다른 하나는 락톤 C=O를 가짐)
@@ -62,7 +73,7 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 - 락톤: 사차 탄소–C(=O)–O–CH(cyclohexane)–C(H)–사차 탄소 (5원자 고리)
 - 입체: CO2Me와 락톤 C=O는 wedge(같은 쪽), CH3와 고리 융합 H는 hash(반대쪽), CH–O 결합은 wedge
 
-**(b)** `[A] + [B] --> [C] --[in situ DA]--> 표적 2`
+**(b)** $\begin{aligned} & \mathrm{[A]} + \mathrm{[B]} \\ & \longrightarrow \mathrm{[C]} \\ & \xrightarrow{\text{in situ}\ \mathrm{DA}} \text{표적}\ 2 \end{aligned}$
 
 표적 2: cis-3,4,4a,5,8,8a-hexahydronaphthalene-1(2H)-온(cis-3,4,4a,5,8,8a-hexahydronaphthalen-1(2H)-one). C1=O, 두 고리 융합 H는 cis(둘 다 hash), C5=C6 이중결합은 고리 융합 탄소 C4a에 인접한다.
 
@@ -73,14 +84,14 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 **(a)**
 - A = dimethyl 사이클로뷰트-1-ene-1,2-다이카복실레이트(dimethyl cyclobut-1-ene-1,2-dicarboxylate)
 - B = 3-methylcyclohex-2-ene-1-온(3-methylcyclohex-2-en-1-one)
-- `A + B --[hν (광화학 [2+2])]--> C`
+- $\mathrm{A} + \mathrm{B} \xrightarrow{h\nu\ (\text{광화학}\ \mathrm{[2^+2]})} \mathrm{C}$
 - C = 광화학 cycloaddition물(cis-anti-cis 삼환 keto diester). L14 p.28 슬라이드의 예시와 **동일한 반응**이다.
-- `C --[NaBH4 (케톤 환원); 이어서 분자 내 락톤화(필요시 산 촉매 또는 가열)]--> 표적 1`
+- $\begin{aligned} & \mathrm{C} \\ & \xrightarrow[\text{이어서 분자 내}\ \text{락톤화}(\text{필요시 산 촉매 또는 가열})]{\mathrm{NaBH_4}\ (\text{케톤 환원})} \text{표적}\ 1 \end{aligned}$
 
 **(b)**
 - C = (E)-데카-1,7,9-triene-3-온((E)-deca-1,7,9-trien-3-one, CH2=CH–CO–CH2CH2CH2–CH=CH–CH=CH2). 이 화합물이 분자 내 Diels–Alder(intramolecular Diels–Alder, IMDA)를 일으켜 표적 2가 된다.
 - 제안 1(권장): A = (E)-N-methoxy-N-methyl옥타-5,7-dieneamide(Weinreb amide, CH2=CH–CH=CH–(CH2)3–CON(OMe)Me), B = 바이닐마그네슘 bromide(CH2=CHMgBr) → C(바이닐 ketone)가 생기자마자 실온 부근에서 IMDA.
-- 제안 2(대안): A = (E)-옥타-5,7-diene알, B = CH2=CHMgBr → allyl alcohol → DMP 산화로 바이닐 ketone을 만들고 in situ IMDA. 이 경우 실제로는 산화 단계가 하나 더 필요하다.
+- 제안 2(대안): $\begin{aligned} & \mathrm{A}\ =\ (\mathit{E})\text{-옥타-5,7-diene알},\ \mathrm{B}\ =\ \mathrm{CH_2{=}CHMgBr} \\ & \longrightarrow \text{allyl alcohol} \\ & \longrightarrow \mathrm{DMP}\ \text{산화로 바이닐 ketone을 만들고 in situ}\ \mathrm{IMDA} \end{aligned}$. 이 경우 실제로는 산화 단계가 하나 더 필요하다.
 - [불확실] 문제의 상자 배치(A + B → C, C → 표적 사이 화살표에 시약 상자 없음)로 보아 C가 곧 trienone이라고 해석했다. A + B 단계가 출제자가 의도한 반응인지는 확인할 수 없다. 핵심인 "C = trienone, (E)-diene, endo IMDA → cis-융합"은 비교적 확실하다.
 
 ### 해설
@@ -99,10 +110,10 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 ### 핵심 개념
 
-- 4원자 고리 → [2+2] 역합성. alkene + alkene [2+2]는 광화학적으로만 허용되며, endo 선택성 없이 입체 장애 최소 cis-anti-cis을 취한다.
+- $\text{4원자 고리} \longrightarrow \mathrm{[2^+2]}\ \text{역합성}$. alkene + alkene [2+2]는 광화학적으로만 허용되며, endo 선택성 없이 입체 장애 최소 cis-anti-cis을 취한다.
 - ketone 환원 후 인접 ester와 분자 내 락톤화하여 $\gamma$-락톤을 만든다.
 - 새 C=C의 위치로 DA 결합을 역추적한다. 고리 융합 결합이 DA 결합이면 IMDA다.
-- IMDA 입체: (E)-diene + endo → cis-융합, (E)-diene + exo → trans-융합.
+- IMDA 입체: $\begin{aligned} & (\mathit{E})\text{-diene} + \text{endo} \\ & \longrightarrow \text{cis-융합},\ (\mathit{E})\text{-diene} + \text{exo} \\ & \longrightarrow \text{trans-융합} \end{aligned}$.
 
 ---
 
@@ -110,7 +121,18 @@ cycloaddition 반응(pericyclic reaction) 생성물의 구조를 제안하고, �
 
 다음 반응의 메커니즘을 제안하라(힌트: 핵심 단계는 cycloaddition). regioselectivity을 설명하고, 이 반응이 Woodward–Hoffmann 규칙에 따라 허용되는지 답하라.
 
-`2-브로모-2-methyl-N-R-프로판아마이드 (Me2CBr–CO–NHR) + 트로폰 (tropone, 사이클로헵타-2,4,6-트라이엔-1-one) --[Na2CO3, solvent]--> 2,2-다이메틸-4-R-사이클로헵타[b][1,4]옥사진-3-one 유형 이환 생성물`
+
+$$
+\begin{aligned}
+& \text{2-브로모-2-methyl-N-R-프로판아마이드}\  \\
+& \mathrm{(Me_2CBr{-}CO{-}NHR)} + \text{트로폰}\ (\text{tropone},\  \\
+& \text{사이클로헵타-2,4,6-트라이엔-1-one}) \\
+& \xrightarrow{\mathrm{Na_2CO_3},\ \text{solvent}} \\
+& \begin{gathered}\text{2,2-다이메틸-4-R-사이클로헵타[b][1,4]옥사진-3-one 유형 이환 } \\  \\
+& \text{생성물}\end{gathered}
+\end{aligned}
+$$
+
 
 생성물 구조: 6원자 1,4-oxazine-3-one 고리(O–CMe2–C(=O)–N(R)–CH–C)가 cycloheptatriene에 융합되어 있다. tropone의 산소가 CMe2에 결합하고, tropone의 C2($\alpha$-탄소)가 N에 결합하며 sp3 CH가 된다. 원래 C=O 탄소는 enol ether 탄소(C=C–O)가 된다.
 
@@ -145,6 +167,6 @@ regioselectivity은 "친핵 말단과 친전자 말단의 짝맞춤"으로 설�
 ### 핵심 개념
 
 - $\alpha$-할로아마이드 + 염기 → 아자-옥시알릴 cation(3원자 $2\pi$, 옥시알릴 cation의 질소 유사체).
-- tropone은 carbonyl 산소를 포함한 $8\pi$ 성분으로 참여할 수 있다 → [8+3] cycloaddition.
+- $\begin{aligned} & \text{tropone은 carbonyl 산소를 포함한}\ 8\pi\ \text{성분으로 참여할 수 있다} \\ & \longrightarrow \mathrm{[8^+3]}\ \text{cycloaddition} \end{aligned}$.
 - regioselectivity: 친전자 CMe2–친핵 tropone O, 친핵 말단(N)–친전자 tropone C2의 짝맞춤.
 - WH: [$\pi8\mathrm{s}$ + $\pi2\mathrm{s}$], 10전자 = 4n+2 → 열적으로 허용된다.

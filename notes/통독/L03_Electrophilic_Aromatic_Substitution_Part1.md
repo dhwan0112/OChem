@@ -43,10 +43,12 @@ benzene은 평면 정육각형이다. 탄소 여섯 개가 모두 sp² 혼성이
 
 benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함수가 겹쳐 만든 **분자 궤도함수 세 개에 $\pi$ 전자 여섯 개**가 들어 있는 데서 나온다. 즉 benzene의 $\pi$ 전자는 특정 C=C 결합에 묶여 있지 않고 고리 전체에 퍼져 있다. 그래서 "평범한 C=C 결합"이 아니다. (출처: L3 p.9)
 
-- cyclohexene --[RCO₃H]--> epoxide(cis 첨가)
-- cyclohexene --[Br₂]--> *trans*-1,2-dibromide(trans 첨가)
-- benzene --[RCO₃H]--> **반응 없음**
-- benzene --[Br₂]--> **반응 없음**
+- $\text{cyclohexene} \xrightarrow{\mathrm{RCO_3H}} \text{epoxide}(\text{cis 첨가})$
+
+- $\text{cyclohexene} \xrightarrow{\mathrm{Br_2}} \text{*trans*-1,2-dibromide}(\text{trans 첨가})$
+
+- $\text{benzene} \xrightarrow{\mathrm{RCO_3H}} \text{반응 없음}$**
+- $\text{benzene} \xrightarrow{\mathrm{Br_2}} \text{반응 없음}$**
 
 ![cyclohexene + RCO3H → epoxide](../../figures/L01/cyclohexene_mcpba.svg)
 
@@ -126,8 +128,8 @@ benzene이 양전하를 띤 질소를 공격한다. 이때 질소가 5가가 되
 
 ### 3.1 nitro group의 활용
 
-- **환원해서 아미노기로**: nitrobenzene --[H₂, Pd/C 또는 Sn, 묽은 HCl]--> aniline
-- **diazonium 화학**: aniline --[NaNO₂, HCl, 0 °C]--> 아릴 diazonium 염(ArN₂⁺ Cl⁻) --[H₂O, 가열]--> phenol
+- **환원해서 아미노기로**: $\text{nitrobenzene} \xrightarrow{\mathrm{H_2},\ \mathrm{Pd/C}\ \text{또는}\ \mathrm{Sn},\ \text{묽은}\ \mathrm{HCl}} \text{aniline}$
+- **diazonium 화학**: $\begin{aligned} & \text{aniline} \\ & \xrightarrow[0\,{}^\circ\mathrm{C}]{\mathrm{NaNO_2},\ \mathrm{HCl}} \text{아릴 diazonium}\ \text{염}(\mathrm{ArN_2^+\,Cl^-}) \\ & \xrightarrow[\text{가열}]{\mathrm{H_2O}} \text{phenol} \end{aligned}$
   - 메커니즘: N₂는 매우 좋은 leaving group이다. 그래서 가열하면 N₂가 떠나며 **아릴 cation(aryl cation)** 이 남는다. 이 cation을 nucleophile(여기서는 물)가 붙잡아 phenol이 된다.
 
 ![nitrobenzene → aniline](../../figures/L03/nitrobenzene_reduction.svg)
@@ -240,9 +242,9 @@ alkylation의 두 가지 문제가 acylation에서는 생기지 않는다.
 
 acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방법은 **먼저 acylate하고 carbonyl을 methylene(-CH₂-)으로 환원**하는 것이다.
 - **클레멘센 Clemmensen reduction**: 아연 아말감(Zn/Hg, 아연과 수은의 합금)과 HCl을 쓴다. 아릴-alkyl ketone을 환원하는 데 특히 효과적이다.
-  - 예: 프로피오페논(PhCOCH₂CH₃) --[Zn/Hg, HCl]--> *n*-propylbenzene. 이렇게 하면 직접 alkylation에서 생기는 자리 cumene 문제를 피할 수 있다.
+  - 예: $\text{프로피오페논}(\mathrm{PhCOCH_2CH_3}) \xrightarrow{\mathrm{Zn/Hg},\ \mathrm{HCl}} \mathit{n}\ \text{-propylbenzene}$. 이렇게 하면 직접 alkylation에서 생기는 자리 cumene 문제를 피할 수 있다.
 - **chemoselectivity**: ketone만 환원되고 carboxylic acid은 반응하지 않는다.
-  - 예: 3-benzoylpropanoic acid --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
+  - 예: $\text{3-benzoylpropanoic acid} \xrightarrow{\mathrm{Zn/Hg},\ \mathrm{HCl}} \text{4-phenylbutanoic acid}$
 
 ![propiophenone → n-propylbenzene (Clemmensen)](../../figures/L03/propiophenone_clemmensen.svg)
 
@@ -252,9 +254,12 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 
 ### 6.4 응용: 테트랄론 합성 (빈칸 메커니즘 문제)
 
-1. succinic acid 무수물 + benzene --[AlCl₃ 2.2 당량]--> 3-benzoylpropanoic acid
-2. --[Zn/Hg, HCl]--> 4-phenylbutanoic acid
-3. --[H₃PO₄]--> $\alpha$-테트랄론(1-테트랄론, 3,4-dihydronaphthalene-1(2*H*)-온)
+1. $\begin{aligned} & \text{succinic acid 무수물} + \text{benzene} \\ & \xrightarrow{\mathrm{AlCl_3}\ 2.2\ \text{당량}} \text{3-benzoylpropanoic acid} \end{aligned}$
+
+2. $\xrightarrow{\mathrm{Zn/Hg},\ \mathrm{HCl}} \text{4-phenylbutanoic acid}$
+
+3. $\xrightarrow{\mathrm{H_3PO_4}} \alpha\ \text{-테트랄론}(\text{1-테트랄론},\ \text{3,4-dihydronaphthalene-1(2*H*)-온})$
+
 
 ![α-tetralone 합성 3단계 (1/3)](../../figures/L03/tetralone_synthesis_1.svg)
 
@@ -285,7 +290,7 @@ acylation이 훨씬 믿을 만하기 때문에, alkyl group을 넣는 흔한 방
 benzene은 Lewis acid 촉매 없이는 bromine과 반응하지 않는다. 그런데 phenol은 완전히 다르게 반응한다.
 - **Lewis acid이 필요 없다.**
 - 반응이 **매우 빠르다**.
-- 생성물에는 **특정 위치에 bromine 원자 세 개**가 붙는다. phenol --[Br₂, EtOH/H₂O]--> 2,4,6-tribromophenol. 두 오르토 위치와 파라 위치다.
+- 생성물에는 **특정 위치에 bromine 원자 세 개**가 붙는다. $\text{phenol} \xrightarrow[\mathrm{EtOH/H_2O}]{\mathrm{Br_2}} \text{2,4,6-tribromophenol}$. 두 오르토 위치와 파라 위치다.
 
 ![phenol + Br2 → 2,4,6-tribromophenol](../../figures/L03/phenol_tribromination.svg)
 
@@ -313,15 +318,15 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 (이 단계의 메커니즘 그림은 위 7.1절의 종합 그림에 합쳤다. 화살표 넷의 의미는 그 그림 설명을 본다.)
 
 화살표는 **OH의 비공유 전자쌍에서 출발**해 고리를 통과한 뒤 Br-Br을 공격하도록 그린다. benzene 고리가 **conductor** 처럼 OH의 전자를 bromine 분자까지 흘려보내는 셈이다.
-1. 파라 위치 공격 → oxonium cation intermediate → HBr이 빠짐 → *p*-bromophenol
-2. 같은 방식으로 오르토 위치 공격 → 2,4-dibromophenol → 한 번 더 → 2,4,6-tribromophenol
+1. $\begin{aligned} & \text{파라 위치 공격} \\ & \longrightarrow \text{oxonium cation intermediate} \\ & \longrightarrow \mathrm{HBr}\text{이}\ \text{빠짐} \\ & \longrightarrow \mathit{p}\ \text{-bromophenol} \end{aligned}$
+2. $\begin{aligned} & \text{같은 방식으로 오르토 위치 공격} \\ & \longrightarrow \text{2,4-dibromophenol} \\ & \longrightarrow \text{한 번 더} \\ & \longrightarrow \text{2,4,6-tribromophenol} \end{aligned}$
 
 이처럼 OH기는 electrophile에 대해 **오르토, 파라 ortho, para-directing** 이라고 한다. (출처: L3 p.25)
 
 ### 7.4 응용
 
 - **phenoxyacetic acid의 염소화**: 첫 번째 염소화는 입체 장애 때문에 파라 위치에서 일어나 4-chlorophenoxyacetic acid이 된다. 두 번째는 오르토 위치에서 일어나 제초제 **2,4-D(2,4-dichlorophenoxyacetic acid)** 가 된다. (출처: L3 p.26)
-- **콜베-슈미트 Kolbe–Schmitt process**: phenol(pK<sub>a</sub> 10) --[NaOH]--> 나트륨 phenoxide --[CO₂]--> 나트륨 salicylate --[H₃O⁺]--> salicylic acid --[Ac₂O]--> **아스피린**
+- **콜베-슈미트 Kolbe–Schmitt process**: $\begin{aligned} & \text{phenol}(\mathrm{pK<sub>a</sub>}\ 10) \\ & \xrightarrow{\mathrm{NaOH}} \text{나트륨 phenoxide} \\ & \xrightarrow{\mathrm{CO_2}} \text{나트륨 salicylate} \\ & \xrightarrow{\mathrm{H_3O^+}} \text{salicylic acid} \\ & \xrightarrow{\mathrm{Ac_2O}} \text{아스피린} \end{aligned}$**
   - phenoxide 이온은 phenol보다 더 반응성이 크다. 산소의 음전하가 고리로 더 강하게 밀려 들어가기 때문이다. 그래서 CO₂ 같은 **약한 electrophile**와도 반응한다.
   - 메커니즘 그림에서 Na⁺는 phenoxide O⁻와 CO₂의 O 사이에 걸쳐 있다. 이 배위 때문에 CO₂가 **오르토 위치**로 안내된다. 오르토 탄소가 CO₂의 탄소를 공격한 뒤 tautomerization(±H⁺)로 방향족성이 회복된다.[5]
 
@@ -363,7 +368,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 | 클레멘센 환원 | Zn/Hg, HCl | (환원) | ArCH₂R | ketone만 환원 (산은 그대로) |
 | 분자내 acylation | H₃PO₄ | acylium | 테트랄론 | 6원 고리 형성 |
 | nitro 환원 | H₂, Pd/C 또는 Sn, 묽은 HCl | | ArNH₂ | |
-| diazonium화 → phenol | 1. NaNO₂, HCl, 0 °C 2. H₂O, 가열 | 아릴 cation | ArOH | N₂가 leaving group |
+| $\text{diazonium화} \longrightarrow \text{phenol}$ | 1. NaNO₂, HCl, 0 °C 2. H₂O, 가열 | 아릴 cation | ArOH | N₂가 leaving group |
 | phenol bromination | Br₂, EtOH/H₂O (촉매 없음) | Br₂ | 2,4,6-tribromophenol | o,p-배향, 매우 빠름 |
 | 콜베-슈미트 | 1. NaOH 2. CO₂ 3. H₃O⁺ | CO₂ | salicylic acid (오르토) | phenoxide는 매우 활성 |
 
@@ -389,7 +394,7 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 5. (i) AlCl₃가 무수물 carbonyl O에 배위해 고리가 열리면서 acylium 이온이 생긴다. benzene이 이를 공격하고 H⁺가 빠지면 아릴 ketone(carboxylate-AlCl₃)이 되며, 후처리하면 3-benzoylpropanoic acid이 된다. (ii) Zn/Hg, HCl로 ketone만 CH₂로 환원해 4-phenylbutanoic acid을 얻는다. (iii) H₃PO₄가 COOH를 protonate하고 물이 빠져 acylium 이온이 생긴다. 같은 분자의 benzene 고리가 분자내 공격해 6원 고리가 닫히고, H⁺가 빠지면 $\alpha$-테트랄론이 된다. (L4 p.3)
 6. nitro group이 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
 7. phenol에서는 산소 비공유 전자쌍이 고리와 공액되어 HOMO 에너지가 크게 올라간다. 그래서 친핵성이 훨씬 커진다. 공명 구조를 그리면 O의 전자가 오르토와 파라 위치로 밀려 들어가 그 위치의 전자 밀도가 높아진다. 그래서 세 위치(2,4,6)에서 촉매 없이 빠르게 치환된다. (L3 p.23-25)
-8. benzene --[HNO₃/H₂SO₄]--> nitrobenzene --[H₂, Pd/C 또는 Sn/HCl]--> aniline --[NaNO₂, HCl, 0 °C]--> diazonium 염 --[H₂O, 가열]--> phenol. (L3 p.12-13)
+8. $\begin{aligned} & \text{benzene} \\ & \xrightarrow{\mathrm{HNO_3/H_2SO_4}} \text{nitrobenzene} \\ & \xrightarrow{\mathrm{H_2},\ \mathrm{Pd/C}\ \text{또는}\ \mathrm{Sn/HCl}} \text{aniline} \\ & \xrightarrow[0\,{}^\circ\mathrm{C}]{\mathrm{NaNO_2},\ \mathrm{HCl}} \text{diazonium 염} \\ & \xrightarrow[\text{가열}]{\mathrm{H_2O}} \text{phenol} \end{aligned}$. (L3 p.12-13)
 
 ![benzene → nitrobenzene](../../figures/L04/benzene_nitration.svg)
 

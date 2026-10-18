@@ -57,7 +57,15 @@ Claisen은 여기서 Nu⁻ = enolate, X = OEt인 경우에 불과하다. aldehyd
 
 ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자가 enolate가 되어 다른 한 분자를 공격하므로, 한쪽은 acyl group을, 다른 쪽은 $\alpha$-탄소를 내놓는다.
 
-2 CH3CO2Et --[NaOEt]--> 소듐 acetoacetate [CH3CO–CH⁻–CO2Et] Na⁺ + EtOH --[HCl]--> ethyl acetoacetate(acetoacetic ester) CH3COCH2CO2Et, 76%
+
+$$
+\begin{aligned}
+& 2\ \mathrm{CH_3CO_2Et} \\
+& \xrightarrow{\mathrm{NaOEt}} \text{소듐 acetoacetate}\ \mathrm{[CH_3CO{-}CH^-{-}CO_2Et]\,Na^+} + \mathrm{EtOH} \\
+& \xrightarrow{\mathrm{HCl}} \text{ethyl}\ \text{acetoacetate}(\text{acetoacetic ester})\ \mathrm{CH_3COCH_2CO_2Et},\ 76\%
+\end{aligned}
+$$
+
 
 ![ethyl acetate의 Claisen condensation 단계 (1/5)](../../figures/L09/claisen_steps_1.svg)
 
@@ -86,7 +94,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 2. 친핵성 첨가. 그 소량의 enolate $\alpha$-탄소(nucleophile)가 다른 ester의 carbonyl electrophile을 공격해 새 C–C 결합과 사면체 alkoxide intermediate를 만든다. 가역이다.
 3. 제거. alkoxide가 C=O를 되살리며 EtO⁻를 내보내 중성 $\beta$-ketoester가 된다. 이것도 가역이다.
 4. 생성물의 deprotonation. 여기서 판이 뒤집힌다. 새로 생긴 $\beta$-ketoester는 두 carbonyl 사이에 낀 C–H를 갖는데, 이 수소는 슬라이드 표기로 pKa ~9(더 강한 산)다.[4] 반면 EtOH는 pKa 16(더 약한 산)이다. 그러니 EtO⁻(더 강한 염기)는 이 수소를 거의 완전히 떼어 내 비편재화된 $\beta$-ketoester anion(더 약한 염기)을 만든다. 이 산-염기 평형이 오른쪽으로 크게 치우쳐 있기 때문에, 앞의 불리한 평형 1~3이 모두 생성물 쪽으로 끌려간다.
-5. 후처리. H3O⁺를 넣으면 anion이 빠르게 protonate되어 keto형 $\beta$-ketoester가 되고, 이는 enol형과 호변이성 평형(keto ⇌ enol)을 이룬다.
+5. 후처리. $\begin{aligned} & \mathrm{H_3O^+}\text{를}\ \text{넣으면 anion이 빠르게 protonate되어 keto형}\ \beta\  \\ & \text{-ketoester가 되고},\ \text{이는 enol형과 호변이성}\ \text{평형}(\text{keto}) \\ & \rightleftharpoons \text{enol)을 이룬다} \end{aligned}$.
 
 ![ester enolate가 다른 ester의 carbonyl을 공격해 tetrahedral intermediate를 거쳐 β-ketoester와 EtO⁻가 되는 메커니즘](../../figures/L09/claisen_addition.svg)
 
@@ -106,7 +114,7 @@ ethyl acetate에 소듐 ethoxide를 넣으면 무엇이 Task 2? ester 한 분자
 
 #### 3.3 같은 anion, 다른 역할: Claisen vs acetoacetic ester alkylation
 
-슬라이드는 두 반응을 나란히 놓는다. Claisen 자기 축합 R–CH2–CO2Et --[EtO⁻, EtOH]--> R–CH2–CO–CH(R)–CO2Et, 그리고 ethyl acetoacetate --[EtO⁻, EtOH]--> enolate CH3–C(O⁻)=CH–CO2Et --[RBr]--> CH3–CO–CH(R)–CO2Et. 왜 이 둘을 비교할까?
+슬라이드는 두 반응을 나란히 놓는다. $\begin{aligned} & \text{Claisen 자기 축합}\ \mathrm{R{-}CH_2{-}CO_2Et} \\ & \xrightarrow[\mathrm{EtOH}]{\mathrm{EtO^-}} \mathrm{R{-}CH_2{-}CO{-}CH(R){-}CO_2Et},\ \text{그리고 ethyl acetoacetate} \\ & \xrightarrow[\mathrm{EtOH}]{\mathrm{EtO^-}} \text{enolate}\ \mathrm{CH_3{-}C(O^-){=}CH{-}CO_2Et} \\ & \xrightarrow{\mathrm{RBr}} \mathrm{CH_3{-}CO{-}CH(R){-}CO_2Et} \end{aligned}$. 왜 이 둘을 비교할까?
 
 ![ethyl acetoacetate → 안정한 enolate](../../figures/L09/eaa_enolate.svg)
 
@@ -182,7 +190,14 @@ oxalate를 쓰면 더 반응성이 좋다. ethyl heptanoate CH3(CH2)5–CO2Et와
 
 한 분자 안에 ester가 두 개 있으면 어떻게 될까? enolate가 자기 분자의 다른 쪽 ester를 공격해 고리가 생긴다. 이것이 Dieckmann condensation이다.
 
-RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarbonyl)cyclopentanone + ROH
+
+$$
+\begin{aligned}
+& \mathrm{RO_2C{-}(CH_2)_4{-}CO_2R}\ (\text{adipic acid diester}) \\
+& \xrightarrow{1.\ \text{base};\ 2.\ \mathrm{H^+}} \text{2-(alkoxycarbonyl)cyclopentanone} + \mathrm{ROH}
+\end{aligned}
+$$
+
 
 ![diethyl adipate → ethyl 2-oxocyclopentanecarboxylate (R = Et 예시)](../../figures/L09/dieckmann_adipate.svg)
 
@@ -229,7 +244,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 - 강한 염기라면 아무거나 써도 된다고 생각하기 쉽지만, 사실은 ester의 알콕시기와 같은 alkoxide(ethyl ester ↔ NaOEt)를 써야 한다.[6] (p.5, p.9)
 - ketone + ester 교차 Claisen에서 ester가 enolate가 된다고 생각하기 쉽지만, 사실은 더 산성인 ketone $\alpha$-H가 떨어지고, non-enolizable ester는 electrophile로만 쓰인다. (p.10, p.11)
 - ethyl 포메이트와의 생성물을 그냥 "2-formyl ketone(CHO)"으로 쓰기 쉽지만, 사실은 산 처리 후 분자 내 수소 결합을 가진 hydroxymethylene(enol)형으로 분리된다. (p.10)
-- Dieckmann 고리 크기를 diester 전체 탄소 수로 세기 쉽지만, 사실은 "carbonyl 사이 CH2 수 + 1"이다. 1,6-diester → 5원, 1,7-diester → 6원. (p.12)
+- Dieckmann 고리 크기를 diester 전체 탄소 수로 세기 쉽지만, 사실은 "carbonyl 사이 CH2 수 + 1"이다. $\begin{aligned} & \text{1,6-diester} \\ & \longrightarrow \text{5원},\ \text{1,7-diester} \\ & \longrightarrow \text{6원} \end{aligned}$. (p.12)
 - 자기 축합 생성물을 그릴 때 두 분자를 그냥 이어 붙이기 쉽지만, 사실은 한 분자에서 OEt를, 다른 분자의 $\alpha$-C에서 H를 떼고 그 둘을 연결해야 한다(pentanoate → 2-propyl-3-oxoheptanoate). (p.5)
 
 ## 반응 정리표
@@ -241,7 +256,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 | 교차: ester + carbonate | PhCH2CO2Et + (EtO)2CO, NaOEt, EtOH | PhCH(CO2Et)2 (86%) | carbonate는 electrophile로만 작용 | 해당 없음 | malonic ester 합성 (p.9) |
 | 교차: ester + oxalate | CH3(CH2)5CO2Et + (CO2Et)2, EtONa, EtOH | EtO2C–CO–CH(CO2Et)–C5H11 (83%) | oxalate가 electrophile | $\alpha$-C 입체중심 라세미 | oxalate가 가장 반응성 큼 (p.9) |
 | 교차: ketone + oxalate | cyclohexanone, NaOEt; (CO2Et)2; H3O⁺ | 2-(EtO2C–CO–)cyclohexanone (67%) | ketone이 enolate(더 산성) | 라세미 | (p.10) |
-| 교차: ketone + 포메이트 | cyclohexanone, HCO2Et, EtO⁻; HCl/H2O | 2-formylcyclohexanone → 분리형은 2-(hydroxymethylene)cyclohexanone | ketone $\alpha$-C에 CHO 도입 | enol형(분자 내 H-결합) | 1당량 염기 (p.10) |
+| 교차: ketone + 포메이트 | cyclohexanone, HCO2Et, EtO⁻; HCl/H2O | $\begin{aligned} & \text{2-formylcyclohexanone} \\ & \longrightarrow \text{분리형은 2-(hydroxymethylene)cyclohexanone} \end{aligned}$ | ketone $\alpha$-C에 CHO 도입 | enol형(분자 내 H-결합) | 1당량 염기 (p.10) |
 | 교차: ketone + benzoate | PhCO2Et + PhCOCH3, NaOEt; H3O⁺ | PhCOCH2COPh | acetophenone CH3가 nucleophile | 해당 없음 | aldol보다 Claisen 우세 (p.11) |
 | Dieckmann condensation | RO2C(CH2)4CO2R, 1. RO⁻; 2. H⁺ | 2-(RO2C)cyclopentanone + ROH | 분자 내, 5원 고리 | C2 라세미 | 6원 고리는 1,7-diester에서 (p.12) |
 
@@ -270,7 +285,7 @@ RO2C–(CH2)4–CO2R (adipic acid diester) --[1. base; 2. H⁺]--> 2-(alkoxycarb
 
 6. –CO–CH2–CO–CO2Et 부분은 "methyl ketone + diethyl oxalate" 교차 Claisen의 전형적 생성물이다(p.9, p.10과 같은 결합 형성). CH2–CO(CO2Et) 결합을 끊으면 methyl ketone Ph–C(CH3)(OH)–CO–CH3 (3-hydroxy-3-phenylbutane-2-one)과 electrophile EtO2C–CO2Et가 나온다. 조건은 NaOEt/EtOH, 이후 H3O⁺. ketone의 반대쪽 $\alpha$-탄소는 H가 없는 4차 탄소이므로 CH3만 enolization되고, oxalate는 enolization되지 않으므로 선택성이 깔끔하다. 보충: 자유 OH도 염기에 의해 일부 deprotonation될 수 있으므로 염기를 1당량보다 넉넉히 쓰는 것이 안전하다(슬라이드에 없는 추론; 보충 근거: Clayden p.646).
 
-7. 두 경로가 가능하다. (i) 교차 Claisen(권장): cyclooctanone + diethyl carbonate --[NaOEt(보충: 또는 NaH, 보충 근거: Clayden p.645), 이후 H3O⁺]--> ethyl 2-oxocyclooctanecarboxylate. p.9의 carbonate electrophile과 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 $\beta$-ketoester의 deprotonation이 원동력이다. (ii) Dieckmann condensation: EtO2C–(CH2)7–CO2Et (diethyl 노네인다이오에이트) --[1. NaOEt; 2. H⁺]--> 8원 고리 $\beta$-ketoester(CH2 7개 + 1 = 8). 다만 8원 고리 형성은 불리하므로[10] 실용적으로는 (i)이 낫다.
+7. 두 경로가 가능하다. (i) 교차 Claisen(권장): $\begin{aligned} & \text{cyclooctanone} + \text{diethyl carbonate} \\ & \xrightarrow{\substack{\mathrm{NaOEt}(\text{보충: 또는}\ \mathrm{NaH},\ \text{보충 근거: Clayden}\ \mathrm{p.645}),\  \\ \text{이후}\ \mathrm{H_3O^+}}} \\ & \text{ethyl 2-oxocyclooctanecarboxylate} \end{aligned}$. p.9의 carbonate electrophile과 p.10의 ketone + ester를 합친 것으로, carbonate는 enolization되지 않고 생성물 $\beta$-ketoester의 deprotonation이 원동력이다. (ii) Dieckmann condensation: $\begin{aligned} & \mathrm{EtO_2C{-}(CH_2)_7{-}CO_2Et}\ (\text{diethyl 노네인다이오에이트}) \\ & \xrightarrow{1.\ \mathrm{NaOEt};\ 2.\ \mathrm{H^+}} \text{8원 고리}\ \beta\ \text{-ketoester}(\mathrm{CH_2}\ \text{7개}\ +\ 1\ =\ 8) \end{aligned}$. 다만 8원 고리 형성은 불리하므로[10] 실용적으로는 (i)이 낫다.
 
 ![cyclooctanone + diethyl carbonate → ethyl 2-oxocyclooctanecarboxylate](../../figures/L09/cyclooctanone_carbonate.svg)
 

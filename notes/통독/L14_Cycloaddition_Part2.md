@@ -134,7 +134,9 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 (출처: L14 p.11)
 
-### 5.1 C2-치환 diene → "pseudo para"
+$$
+\mathrm{\#\#\#}\ 5.1\ \text{C2-치환 diene} \longrightarrow \text{"pseudo para"}
+$$
 
 슬라이드는 이 과정을 세 단계 사고 실험으로 보여준다.
 
@@ -148,7 +150,9 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 (출처: L14 p.12)
 
-### 5.2 C1-치환 diene → "pseudo ortho"
+$$
+\mathrm{\#\#\#}\ 5.2\ \text{C1-치환 diene} \longrightarrow \text{"pseudo ortho"}
+$$
 
 C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜타-1,3-diene(Me2C=CH–CH=CH2)과 아크릴산 methyl(CH2=CH–CO2Me)이다. 이 경우 diene에서 계수가 가장 큰 탄소는 치환기에서 *먼 쪽* 말단(CH2)이고, dienophile에서는 $\beta$-탄소(CH2)다. 이 두 탄소가 먼저 결합한다.
 
@@ -375,18 +379,26 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 그렇다면 이런 정육면체는 어떻게 만드는가? 이 합성의 핵심은 **[4+2]로 뼈대를 세우고, 광화학 [2+2]로 상자를 닫는 것**이다. 단계는 다음과 같다(슬라이드 표기 그대로).
 
-1. cyclopent-2-enone --[NBS]--> 4-bromocyclopent-2-enone (allyl bromination)
-2. --[Br2]--> 2,3,4-tribromocyclopentanone (alkene에 Br2 첨가)
-3. --[HNEt2]--> 2-bromocyclopentadienone (탈할로젠화수소. 반응성이 매우 커서 분리하지 않음)
+1. $\begin{aligned} & \text{cyclopent-2-enone} \\ & \xrightarrow{\mathrm{NBS}} \text{4-bromocyclopent-2-enone}\ (\text{allyl bromination}) \end{aligned}$
+
+2. $\xrightarrow{\mathrm{Br_2}} \text{2,3,4-tribromocyclopentanone}\ (\text{alkene에}\ \mathrm{Br_2}\ \text{첨가})$
+
+3. $\xrightarrow{\mathrm{HNEt_2}} \text{2-bromocyclopentadienone}\ (\text{탈할로젠화수소})$. 반응성이 매우 커서 분리하지 않음)
 4. **자발적 Diels–Alder [4+2] 이량화.** 한 분자가 diene, 다른 분자가 dienophile로 작용하여 엔도 이량체가 생긴다. 슬라이드에서 상자로 강조한 부분이다.
-5. --[(CH2OH)2, TsOH]--> 두 ketone을 모두 케탈로 보호
-6. --[HCl, H2O]--> enone 쪽 케탈만 다시 ketone으로 되돌림
-7. **--[$h\nu$]--> 분자 내 [2+2] cycloaddition**로 cage 구조가 완성된다. 엔도 이량체이기 때문에 두 C=C가 서로 가까이 마주 보고 있어서 이 반응이 가능하다[9].
-8. --[KOH]--> Favorskii 고리 축소 → carboxylic acid
-9. --[1. SOCl2, 2. tBuOOH, pyridine]--> tert-butyl perester
-10. --[$\Delta$, 152 °C, cumene]--> decarboxylation (CO2H 자리를 H로 교체)
-11. --[1. H2SO4, 2. KOH]--> 남은 케탈을 ketone으로 되돌린 뒤 두 번째 Favorskii 고리 축소 → cubanecarboxylic acid
-12. --[1. SOCl2, 2. tBuOOH, Py]--> perester --[$\Delta$, 150 °C, diisopropylbenzene]--> **cubane**
+5. $\xrightarrow{\mathrm{(CH_2OH)_2},\ \mathrm{TsOH}} \text{두 ketone을 모두 케탈로 보호}$
+
+6. $\xrightarrow{\mathrm{HCl},\ \mathrm{H_2O}} \text{enone 쪽 케탈만 다시 ketone으로 되돌림}$
+
+7. **$\xrightarrow{h\nu} \text{분자 내}\ \mathrm{[2^+2]}\ \text{cycloaddition로 cage 구조가 완성된다}$. 엔도 이량체이기 때문에 두 C=C가 서로 가까이 마주 보고 있어서 이 반응이 가능하다[9].
+8. $\begin{aligned} & \xrightarrow{\mathrm{KOH}} \text{Favorskii 고리 축소} \\ & \longrightarrow \text{carboxylic acid} \end{aligned}$
+
+9. $\xrightarrow{1.\ \mathrm{SOCl_2},\ 2.\ \mathrm{tBuOOH},\ \text{pyridine}} \text{tert-butyl perester}$
+
+10. $\xrightarrow[152\,{}^\circ\mathrm{C}]{\Delta,\ \text{cumene}} \text{decarboxylation}\ (\mathrm{CO_2H}\ \text{자리를 H로 교체})$
+
+11. $\begin{aligned} & \xrightarrow{1.\ \mathrm{H_2SO_4},\ 2.\ \mathrm{KOH}} \text{남은 케탈을 ketone으로 되돌린 뒤 두 번째 Favorskii 고리 축소} \\ & \longrightarrow \text{cubanecarboxylic acid} \end{aligned}$
+
+12. $\begin{aligned} & \xrightarrow{1.\ \mathrm{SOCl_2},\ 2.\ \mathrm{tBuOOH},\ \mathrm{Py}} \text{perester} \\ & \xrightarrow[150\,{}^\circ\mathrm{C},\ \text{diisopropylbenzene}]{\Delta} \text{cubane} \end{aligned}$**
 
 ![cyclopent-2-enone → 4-bromocyclopent-2-enone](../../figures/L14/cubane_1.svg)
 
@@ -434,7 +446,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 - **"ortho/para는 benzene 고리 이야기"라고 생각하기 쉽지만 사실은** cyclohexene 생성물에서 두 치환기가 1,2(pseudo ortho) 또는 1,4(pseudo para) 관계라는 것을 빌려 쓴 *기억법*이다.
 - **"1-치환 diene이면 치환기 붙은 탄소가 친핵성"이라고 생각하기 쉽지만 사실은** C1에 X가 있으면 HOMO 계수가 가장 큰 곳은 *반대편 말단 C4*다. 이 C4가 dienophile의 $\beta$-탄소와 결합하므로 결과적으로 X와 Z가 이웃한 ortho 생성물이 된다.
 - **"엔도 = 치환기끼리 cis"라고 외우기 쉽지만 사실은** 엔도 TS에서 cis가 되는 것은 diene의 **"out" 치환기**와 EWG다. "in" 치환기는 EWG와 trans가 된다. (E)-1-치환 diene에서는 치환기가 "out"이므로 엔도 생성물에서 치환기와 EWG가 cis다.
-- **"Lewis acid은 속도만 높인다"고 생각하기 쉽지만 사실은** $\pi$ 결합의 편극을 키워 regioselectivity도 높인다(71:29 → 93:7).
+- **$\begin{aligned} & \text{"Lewis acid은 속도만 높인다"고 생각하기 쉽지만 사실은}\ \pi\  \\ & \text{결합의 편극을 키워 regioselectivity도}\ \text{높인다}(\mathrm{71:29}) \\ & \longrightarrow \mathrm{93:7)} \end{aligned}$.
 - **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a에 해당하는 **성분의 개수**가 홀수여야 한다. [4+2]는 전자 6개(짝수)지만 세는 성분이 1개라 허용이다. (보충 근거: Clayden p.892)
 - **"Woodward–Hoffmann 규칙으로 엔도·regioselectivity도 예측할 수 있다"고 생각하기 쉽지만 사실은** 규칙은 허용/금지만 알려 준다. 엔도 선택성과 regioselectivity은 FMO(이차 오비탈 겹침, 계수 크기)로 따진다. (보충 근거: Clayden p.893)
 - **"광화학 [2+2]도 HOMO(alkene)–LUMO(enone)로 위치를 정한다"고 생각하기 쉽지만 사실은** 들뜬 상태에서는 LUMO/LUMO 겹침이 결정하므로 열적 직관과 반대 위치 이성질체가 나온다. (보충 근거: Clayden p.898)
@@ -461,7 +473,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 | ethylene + maleic anhydride | 가열 ✗ / $h\nu$ ✓ | cyclobutane-1,2-dicarboxylic acid 무수물 | – | 수프라–수프라 | 열적 금지, 광화학 허용 (p.24) |
 | 1,2-cyclobutenedicarboxylic acid dimethyl + 3-methylcyclohex-2-enone | $h\nu$ | 4-4-6 삼환 diester ketone | – | 각 성분 입체특이, anti (엔도 선택성 없음) | p.27 |
 | isobutylene + cyclohex-2-enone | $h\nu$ | 7,7-dimethylbicyclo로[4.2.0]옥탄-2-one | CMe2–C$\beta$ | 슬라이드는 cis 융합으로 그림 | LUMO/LUMO 큰 계수 일치 (p.28) |
-| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | 엔도 이량체 → 새장 diketone | – | 엔도 이량체 | [4+2] + 분자 내 [2+2] (p.30) |
+| cubane 합성 핵심 단계 | HNEt2 → 자발적 DA; $h\nu$ | $\text{엔도 이량체} \longrightarrow \text{새장 diketone}$ | – | 엔도 이량체 | [4+2] + 분자 내 [2+2] (p.30) |
 
 ---
 
@@ -471,7 +483,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 **문제 2.** (p.3, p.10) maleic anhydride이 butadiene과 빠르게 반응하는 이유를 FMO로 설명하라. diene C1에 OMe를 추가하면 반응 속도는 어떻게 되는가?
 
-**문제 3.** (p.18–19 빈칸) (E)-1-acetoxy부타-1,3-diene + (E)-crotonaldehyde → ? regioselectivity, stereoselectivity, stereospecificity 순서로 주생성물의 구조와 상대 입체화학을 예측하라.
+**$\begin{aligned} & \text{문제}\ 3.\ (\mathrm{p.18{-}19}\ \text{빈칸})\ (\mathit{E})\text{-1-acetoxy부타-1,3-diene} \\ &  + (\mathit{E})\text{-crotonaldehyde} \\ & \longrightarrow \\ & \mathrm{?}\ \text{regioselectivity},\ \text{stereoselectivity},\  \\ & \text{stereospecificity 순서로 주생성물의 구조와 상대 입체화학을 예측하라} \end{aligned}$.
 
 **문제 4.** (p.22–23) 1,3-dibromoacetone/Zn에서 생긴 allyl cation과 butadiene의 [4+3] cycloaddition에 대해 FMO를 그리고, 이 반응이 열적으로 허용되는지 판단하라. Woodward–Hoffmann 규칙으로도 확인하라.
 

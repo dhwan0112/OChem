@@ -19,14 +19,17 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/알켄-첨가, 강
 |---|---|---|
 | alkene + OsO₄, 그다음 H₂O | *cis*-1,2-diol | syn, stereospecific ([dihydroxylation](../반응/다이하이드록실화.md)) |
 | alkene + cat. OsO₄, NMO, H₂O/*t*-BuOH | *cis*-1,2-diol | NMO가 Os(VI) → Os(VIII) 재산화 |
-| alkene + OsO₄ → NaIO₄ | carbonyl 2개 | C=C 완전 절단 ([periodate cleavage](../반응/과아이오딘산%20절단.md)) |
+| $\text{alkene} + \mathrm{OsO_4} \longrightarrow \mathrm{NaIO_4}$ | carbonyl 2개 | C=C 완전 절단 ([periodate cleavage](../반응/과아이오딘산%20절단.md)) |
 
 (출처: L2 p.14–16)
 
 예:
 
 $$
-\begin{aligned} &\mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \cr &\qquad \xrightarrow[\mathrm{H_2O/\mathit{t}\text{-}BuOH}]{\ \text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO}\ \mathstrut} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2} \end{aligned}
+\begin{aligned}
+& \mathrm{R{-}CH_2{-}CH{=}C(CH_3)_2} \\
+& \qquad \xrightarrow[\mathrm{H_2O/\mathit{t}\text{-}BuOH}]{\ \text{cat.}\ \mathrm{OsO_4},\ \mathrm{NMO}\ \mathstrut} \mathrm{R{-}CH_2{-}CH(OH){-}C(OH)(CH_3)_2}
+\end{aligned}
 $$
 
 (출처: L2 p.14)

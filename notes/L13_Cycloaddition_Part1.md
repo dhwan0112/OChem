@@ -30,7 +30,7 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [Robinson annulation](../wiki/반응/로빈슨%20고리%20형성.md), [Michael reaction](../wiki/반응/마이클%20반응.md)
 
 ### 3. Diels–Alder 반응이란 무엇인가 (슬라이드 p.7–9)
-- conjugated diene + alkene(dienophile) → cyclohexene. butadiene + ethylene은 165 °C, 900 atm이 필요하다. C1–C6, C4–C5 새 $\sigma$ 결합과 C2=C3 새 $\pi$ 결합.
+- $\text{conjugated diene} + \text{alkene(dienophile)} \longrightarrow \text{cyclohexene}$. butadiene + ethylene은 165 °C, 900 atm이 필요하다. C1–C6, C4–C5 새 $\sigma$ 결합과 C2=C3 새 $\pi$ 결합.
 - cyclic diene은 bridged bicyclic(norbornene)을 준다. Diels–Alderase 효소도 있다.
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md)
 
@@ -40,7 +40,7 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 - → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md), [aromaticity](../wiki/개념/방향족성.md)
 
 ### 5. 무엇이 반응을 빠르게 하나 (슬라이드 p.14–18)
-- 5-1 dienophile은 EWG가 많을수록 빠르다(ethylene 900 atm → acrolein 150 °C → CH2=C(CO2Me)2 25 °C)(p.14). → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md)
+- $\begin{aligned} & 5\text{–}1\ \text{dienophile은}\ \mathrm{EWG}\text{가}\ \text{많을수록}\ \text{빠르다}(\text{ethylene}\ 900\  \\ & \text{atm}) \\ & \longrightarrow \text{acrolein}\ 150\,{}^\circ\mathrm{C} \\ & \longrightarrow \mathrm{CH_2{=}C(CO_2Me)_2\,25^\circ C)(p.14)} \end{aligned}$. → [Diels–Alder reaction](../wiki/반응/딜스-알더%20반응.md)
 - 5-2 diene은 EDG가 있을수록 빠르고, s-cis 형태여야 한다(butadiene 약 1%)(p.15). → [s-cis conformation](../wiki/개념/s-cis%20형태.md), [frontier molecular orbital](../wiki/개념/프런티어%20분자%20오비탈.md)
 - 5-3 s-cis 고정 diene(cyclopentadiene 등)은 매우 빠르고, s-trans 고정 diene은 반응하지 않는다(p.16). p.17 연습 문제는 연습 문제 1, 2. → [s-cis conformation](../wiki/개념/s-cis%20형태.md)
 - 5-4 cyclopentadiene은 상온에서 이량화하고, 가열·증류(retro-DA)로 단량체를 회수한다. hexachlorocyclopentadiene 부가물은 난연제(p.18). → [retro-Diels–Alder reaction](../wiki/반응/역%20딜스-알더%20반응.md)
@@ -63,7 +63,7 @@ L13은 polar 반응과 전혀 다른 방식으로 결합이 생기는 [pericycli
 - → [Woodward–Hoffmann rules](../wiki/개념/우드워드-호프만%20규칙.md), [suprafacial and antarafacial](../wiki/개념/초면과%20대면.md)
 
 ### 9. 보충: regioselectivity("ortho/para" 규칙)
-- 슬라이드에는 없다. 1-치환 diene → "ortho", 2-치환 diene → "para"(L14에서 다룸).
+- 슬라이드에는 없다. $\begin{aligned} & \text{1-치환 diene} \\ & \longrightarrow \text{"ortho"},\ \text{2-치환 diene} \\ & \longrightarrow \text{"para"} \end{aligned}$(L14에서 다룸).
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md)
 
 ## 반응 요약표

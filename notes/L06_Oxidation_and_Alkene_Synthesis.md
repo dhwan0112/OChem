@@ -28,14 +28,14 @@
 ### 1. alcohol 산화의 큰 그림 (L6c p.3–6)
 
 #### 1.1 왜 menthol 이야기부터 하나 (p.3–5)
-- geraniol → geranial(물음표 단계)은 allylic 1차 alcohol을 aldehyde에서 멈춰야 하므로 순한 산화제가 필요하다.
+- $\begin{aligned} & \text{geraniol} \\ & \longrightarrow \\ & \text{geranial}(\text{물음표 단계})\text{은}\  \\ & \begin{gathered}\text{allylic 1차 alcohol을 aldehyde에서 멈춰야 하므로 순한 } \\  \\ & \text{산화제가 필요하다}\end{gathered} \end{aligned}$.
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md), [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md)
 
 #### 1.2 3차 alcohol은 왜 산화되지 않나 (p.6)
-- 일반 메커니즘: O–LG 결합 형성 → 염기가 $\alpha$-H 제거(E2형). 3차 alcohol에는 $\alpha$-H가 없다.
+- 일반 메커니즘: $\mathrm{O{-}LG}\ \text{결합 형성} \longrightarrow \text{염기가}\ \alpha\ \mathrm{{-}H}\ \text{제거(E2형)}$. 3차 alcohol에는 $\alpha$-H가 없다.
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 
-### 2. alcohol → aldehyde/ketone: 순한 산화제들 (L6c p.7–14)
+$\mathrm{\#\#\#}\ 2.\ \text{alcohol} \longrightarrow \text{aldehyde/ketone: 순한 산화제들}$ (L6c p.7–14)
 
 #### 2.1 Dess–Martin periodinane (DMP): "I–O"가 산화제 (p.7)
 - geraniol → geranial 84%. 중성·실온, 민감한 작용기에 강함. I(V) → I(III).
@@ -50,7 +50,7 @@
 - → [TPAP](../wiki/시약/TPAP.md), [NMO](../wiki/시약/NMO.md)
 
 #### 2.4 manganese dioxide (MnO₂): "Mn–O"가 산화제 (p.10)
-- 매우 순해서 allylic·benzylic alcohol만 산화한다(retinol → retinal).
+- $\begin{aligned} & \text{매우 순해서 allylic·benzylic alcohol만}\  \\ & \text{산화한다}(\text{retinol}) \\ & \longrightarrow \text{retinal)} \end{aligned}$.
 - → [MnO2](../wiki/시약/MnO2.md)
 
 #### 2.5 TEMPO oxidation: "N–O"가 산화제 (p.11–12)
@@ -67,20 +67,30 @@
 
 ### 3. carboxylic acid까지 가는 산화 (L6c p.15–17)
 
-#### 3.1 aldehyde → carboxylic acid: Pinnick oxidation (1981) (p.15)
+$$
+\begin{aligned}
+& \mathrm{\#\#\#\#}\ 3.1\ \text{aldehyde} \\
+& \longrightarrow \text{carboxylic acid: Pinnick oxidation}\ (1981)\ \mathrm{(p.15)}
+\end{aligned}
+$$
 - NaClO₂, NaH₂PO₄. 2-methyl-2-butene은 HOCl scavenger(OH는 3차, Cl은 2차 탄소).
 - → [Pinnick oxidation](../wiki/반응/피닉%20산화.md), [NaClO2](../wiki/시약/NaClO2.md)
 
-#### 3.2 1차 alcohol → carboxylic acid: Jones 산화와 "3 = 1 + 2" (p.16–17)
-- Jones(CrO₃/H₂SO₄)는 강산성. 섬세한 기질은 DMP → NaClO₂ 두 단계.
+$$
+\begin{aligned}
+& \mathrm{\#\#\#\#}\ 3.2\ \text{1차 alcohol} \\
+& \longrightarrow \text{carboxylic acid: Jones 산화와}\ \mathrm{"3}\ =\ 1 + \mathrm{2"\,(p.16{-}17)}
+\end{aligned}
+$$
+- Jones(CrO₃/H₂SO₄)는 강산성. $\text{섬세한 기질은}\ \mathrm{DMP} \longrightarrow \mathrm{NaClO_2}\ \text{두 단계}$.
 - → [Jones oxidation](../wiki/반응/존스%20산화.md), [Jones reagent](../wiki/시약/존스%20시약.md), [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 
 #### 3.3 한눈에 정리 (요약 슬라이드) (p.17)
-- 순한 산화 a–f, aldehyde → 산 g, 1차 alcohol → 산 h, i.
+- $\begin{aligned} & \text{순한 산화}\ \mathrm{a{-}f},\ \text{aldehyde} \\ & \longrightarrow \text{산}\ \mathrm{g},\ \text{1차 alcohol} \\ & \longrightarrow \text{산 h},\ \mathrm{i} \end{aligned}$.
 - → [alcohol oxidation](../wiki/반응/알코올%20산화.md)
 
 ### 4. benzyl·allyl C–H 결합의 산화 (L6c p.18)
-- KMnO₄는 benzylic CH₃ → CO₂H(saccharin 합성), SeO₂는 allylic CH₃ → CHO(enal, sirenin 합성). SeO₂는 benzylic에는 안 듣는다.
+- $\begin{aligned} & \mathrm{KMnO_4}\text{는}\ \text{benzylic}\ \mathrm{CH_3} \\ & \longrightarrow \mathrm{CO_2H}(\text{saccharin 합성}),\ \mathrm{SeO_2}\text{는}\ \text{allylic}\ \mathrm{CH_3} \\ & \longrightarrow \mathrm{CHO}(\text{enal},\ \text{sirenin 합성}) \end{aligned}$. SeO₂는 benzylic에는 안 듣는다.
 - → [KMnO4](../wiki/시약/KMnO4.md), [SeO2](../wiki/시약/SeO2.md)
 
 ### 5. alkene의 합성: 왜 "한 가지 isomer"가 중요한가 (L6c p.19–22)
@@ -94,7 +104,7 @@
 - → [Lindlar reduction](../wiki/반응/린들라%20환원.md), [Lindlar catalyst](../wiki/시약/린들라%20촉매.md)
 
 #### 6.2 E-alkene: Na, NH₃(l), t-BuOH (p.23–24)
-- SET: radical anion → vinyl radical → trans vinyl anion → *E*-alkene.
+- SET: $\begin{aligned} & \text{radical anion} \\ & \longrightarrow \text{vinyl radical} \\ & \longrightarrow \text{trans vinyl anion} \\ & \longrightarrow \mathit{E}\ \text{-alkene} \end{aligned}$.
 - → [dissolving metal reduction](../wiki/반응/용해%20금속%20환원.md)
 
 #### 6.3 예: Lindlar의 선택성 (Org. Lett. 2001) (p.25)
@@ -104,11 +114,11 @@
 ### 7. Wittig reaction (L6c p.26–38)
 
 #### 7.1 ylide란 무엇이고 어떻게 만드나 (p.26)
-- PPh₃ + R–X (S<sub>N</sub>2) → phosphonium salt → 염기로 deprotonation.
+- $\begin{aligned} & \mathrm{PPh_3} + \mathrm{R{-}X\,(S<sub>N</sub>2)} \\ & \longrightarrow \text{phosphonium salt} \\ & \longrightarrow \text{염기로 deprotonation} \end{aligned}$.
 - → [phosphorus ylide](../wiki/시약/인%20일라이드.md), [SN2 reaction](../wiki/반응/SN2%20반응.md)
 
 #### 7.2 Wittig reaction: C=O를 C=C로 바꾼다 (p.27–28)
-- cyclohexanone + Ph₃P=CH₂ → methylenecyclohexane 86%. BASF vitamin A 합성.
+- $\text{cyclohexanone} + \mathrm{Ph_3P{=}CH_2} \longrightarrow \text{methylenecyclohexane}\ 86\%$. BASF vitamin A 합성.
 - → [Wittig reaction](../wiki/반응/위티그%20반응.md)
 
 #### 7.3 안정화 ylide와 비안정화 ylide (p.29)
@@ -119,7 +129,7 @@
 - → [Wittig reaction](../wiki/반응/위티그%20반응.md)
 
 #### 7.5 메커니즘: 4원 고리를 거쳐 P=O로 (p.33)
-- ylide 공격 → oxaphosphetane → C=C + P=O(구동력).
+- $\begin{aligned} & \text{ylide 공격} \\ & \longrightarrow \text{oxaphosphetane} \\ & \longrightarrow \mathrm{C{=}C} + \mathrm{P{=}O(}\text{구동력)} \end{aligned}$.
 - → [Wittig reaction](../wiki/반응/위티그%20반응.md), [oxaphosphetane](../wiki/개념/옥사포스페테인.md)
 
 #### 7.6 비안정화 ylide는 왜 Z를 주나 (p.34–35)
@@ -131,7 +141,7 @@
 - → [Horner–Wadsworth–Emmons reaction](../wiki/반응/HWE%20반응.md)
 
 #### 7.8 요약 (p.38)
-- alkyne → alkene: *Z*는 H₂ + Lindlar, *E*는 Na/NH₃. Wittig: *Z*는 unstabilized, *E*는 stabilized 또는 HWE.
+- $\text{alkyne} \longrightarrow \text{alkene:}\ \mathit{Z}\ \text{는}\ \mathrm{H_2} + \text{Lindlar},\ \mathit{E}\ \text{는}\ \mathrm{Na/NH_3}$. Wittig: *Z*는 unstabilized, *E*는 stabilized 또는 HWE.
 - → [stereoselective alkene synthesis](../wiki/개념/알켄의%20입체선택적%20합성.md)
 
 ## 반응 요약표
@@ -139,8 +149,8 @@
 | 반응 | 시약/조건 | 생성물 | 선택성·stereochemistry | 비고 |
 |---|---|---|---|---|
 | [partial reduction of esters](../wiki/반응/에스터%20부분%20환원.md) | DIBAL-H, hexane, −70 °C; H₃O⁺ | aldehyde | – | tetrahedral intermediate가 저온에서 안정 (p.2) |
-| [DMP](../wiki/시약/DMP.md) 산화 | Dess–Martin periodinane, CH₂Cl₂ | 1°→RCHO, 2°→ketone | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
-| [Swern oxidation](../wiki/반응/스원%20산화.md) | (COCl)₂, DMSO, DCM, −78 °C; NEt₃ | 1°→RCHO, 2°→ketone | 3° OH 영향 없음 | 부산물 Me₂S, CO, CO₂, HCl (p.8–9) |
+| [DMP](../wiki/시약/DMP.md) 산화 | Dess–Martin periodinane, CH₂Cl₂ | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
+| [Swern oxidation](../wiki/반응/스원%20산화.md) | (COCl)₂, DMSO, DCM, −78 °C; NEt₃ | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | 3° OH 영향 없음 | 부산물 Me₂S, CO, CO₂, HCl (p.8–9) |
 | Ley–Griffith ([TPAP](../wiki/시약/TPAP.md)) | TPAP(촉매), NMO(최종 산화제) | aldehyde/ketone | – | Ru(VII)/Ru(V) 순환 (p.10) |
 | [MnO2](../wiki/시약/MnO2.md) 산화 | MnO₂ | allyl/benzyl C=O | allyl·benzyl OH만, C=C 유지 | 일반 2° OH는 남음 (p.10) |
 | [TEMPO oxidation](../wiki/반응/TEMPO%20산화.md) | TEMPO (0.01 equiv), NaOCl, KBr (0.1 equiv), NaHCO₃, CH₂Cl₂–H₂O, 0 °C | RCHO | 1° alcohol | 활성종은 nitrosonium (p.11–12) |

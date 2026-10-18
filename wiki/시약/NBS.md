@@ -32,10 +32,10 @@ Br₂는 휘발성이 크고 다루기 까다롭다. NBS는 succinimide의 N에 
 
 (출처: L2 p.11–12, L14 p.30)
 
-- 예: *trans*-스틸벤 --[NBS, HBr(촉매), H₂O/DMSO]--> bromohydrin(±, anti). 물이 bromonium ion의 반대쪽에서 공격하므로 **stereoselective**이다. (출처: L2 p.11)
-- 예: 1-methylcyclohexene --[1. NBS, HBr; 2. alcohol]--> Br은 2차 탄소(CH)에, OR은 methyl이 붙은 3차 탄소에 anti. stereoselective이면서 regioselective이다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (출처: L2 p.12)
-- 예: 1-methylcyclohexene --[NBS(cat. HBr), H₂O]--> *trans*-2-bromo-1-methylcyclohexanol(±) (→ [L2 연습 문제](../../practice/L02_Exercises.md) 3번)
-- 예: cyclohexene --[1. NBS, HBr; 2. HC≡CCH₂OH]--> *trans*-1-bromo-2-(propargyloxy)cyclohexane(±) (출처: L2 p.12)
+- 예: *$\text{trans*-스틸벤} \xrightarrow[\mathrm{H_2O/DMSO}]{\mathrm{NBS},\ \mathrm{HBr(}\text{촉매)}} \text{bromohydrin}(\mathrm{\pm },\ \text{anti})$. 물이 bromonium ion의 반대쪽에서 공격하므로 **stereoselective**이다. (출처: L2 p.11)
+- 예: $\begin{aligned} & \text{1-methylcyclohexene} \\ & \xrightarrow{1.\ \mathrm{NBS},\ \mathrm{HBr};\ 2.\ \text{alcohol}} \text{Br은 2차 탄소(CH)에},\ \mathrm{OR}\text{은}\ \text{methyl이 붙은 3차 탄소에 anti} \end{aligned}$. stereoselective이면서 regioselective이다(→ [halohydrin formation](../반응/할로하이드린%20형성.md)). (출처: L2 p.12)
+- 예: $\begin{aligned} & \text{1-methylcyclohexene} \\ & \xrightarrow{\mathrm{NBS}(\text{cat.}\ \mathrm{HBr}),\ \mathrm{H_2O}} \text{*trans*-2-bromo-1-methylcyclohexanol(±)} \end{aligned}$ (→ [L2 연습 문제](../../practice/L02_Exercises.md) 3번)
+- 예: $\begin{aligned} & \text{cyclohexene} \\ & \xrightarrow{1.\ \mathrm{NBS},\ \mathrm{HBr};\ 2.\ \mathrm{HC{\equiv}CCH_2OH}} \\ & \text{*trans*-1-bromo-2-(propargyloxy)cyclohexane(±)} \end{aligned}$ (출처: L2 p.12)
 
 보충: allyl 위치 bromination은 bromonium 이온이 아니라 radical 연쇄 반응(Wohl–Ziegler reaction)으로 진행한다. 슬라이드에는 반응식만 있고 메커니즘은 나오지 않는다(표준 교재 내용). (보충 근거: Clayden p.573, Wade p.228)
 

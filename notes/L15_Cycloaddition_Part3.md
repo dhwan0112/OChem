@@ -22,7 +22,7 @@ cycloaddition 시리즈의 마지막 편이다. L13–L14에서 Diels–Alder, F
 ## 강의 흐름
 
 ### 0. 워밍업: Diels–Alder 생성물은 어떻게 한 번에 맞히나? (슬라이드 p.3)
-- (E)-1-acetoxybutadiene + (E)-crotonaldehyde를 regioselectivity("ortho") → endo(OAc/CHO cis) → stereospecificity(CHO/Me trans) 세 번의 결정으로 푼다.
+- $\begin{aligned} & (\mathit{E})\text{-1-acetoxybutadiene} + (\mathit{E})\text{-crotonaldehyde를}\  \\ & \text{regioselectivity("ortho")} \\ & \longrightarrow \text{endo}(\mathrm{OAc/CHO}\ \text{cis}) \\ & \longrightarrow \text{stereospecificity}(\mathrm{CHO/Me}\ \text{trans})\ \text{세 번의 결정으로 푼다} \end{aligned}$.
 - → [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../wiki/개념/endo%20규칙.md)
 
 ### 1. 치환기를 C, Z, X로 나누는 이유 (슬라이드 p.4–5)
@@ -39,10 +39,10 @@ cycloaddition 시리즈의 마지막 편이다. L13–L14에서 Diels–Alder, F
 ### 15. 1,3-쌍극자와 1,3-쌍극 cycloaddition (슬라이드 p.13–20)
 - 15.1 1,3-dipole 여덟 가지. 3원자 $4\pi$, 한 끝 electrophilic·한 끝 nucleophilic(p.13). → [1,3-dipole](../wiki/개념/1,3-쌍극자.md)
 - 15.2 [3+2]는 4+2 = 6전자라 열적 허용(p.14). → [1,3-dipolar cycloaddition](../wiki/반응/1,3-쌍극자%20고리화%20첨가.md)
-- 15.3 nitrone: EDG alkene → 5-치환, EWG alkene → 4-acyl isoxazolidine(p.15). → [nitrone cycloaddition](../wiki/반응/나이트론%20고리화%20첨가.md)
+- 15.3 nitrone: $\begin{aligned} & \mathrm{EDG}\ \text{alkene} \\ & \longrightarrow \text{5-치환},\ \mathrm{EWG}\ \text{alkene} \\ & \longrightarrow \text{4-acyl isoxazolidine(p.15)} \end{aligned}$. → [nitrone cycloaddition](../wiki/반응/나이트론%20고리화%20첨가.md)
 - 15.4 nitrone은 exo 선호, Zn/HOAc N–O 절단으로 1,3-amino alcohol. nitrone 제조(p.16). → [nitrone cycloaddition](../wiki/반응/나이트론%20고리화%20첨가.md)
-- 15.5 nitrile oxide 제조: aldehyde → oxime → hydroximoyl chloride → NEt3(p.17). → [nitrile oxide cycloaddition](../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md)
-- 15.6 Z → cis, E → trans isoxazoline; 말단 alkyne → 3,5-이치환 isoxazole(p.18–19). → [nitrile oxide cycloaddition](../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md)
+- 15.5 nitrile oxide 제조: $\begin{aligned} & \text{aldehyde} \\ & \longrightarrow \text{oxime} \\ & \longrightarrow \text{hydroximoyl chloride} \\ & \longrightarrow \mathrm{NEt_3(p.17)} \end{aligned}$. → [nitrile oxide cycloaddition](../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md)
+- $\begin{aligned} & 15.6\ \mathrm{Z} \\ & \longrightarrow \text{cis},\ \mathrm{E} \\ & \longrightarrow \text{trans isoxazoline};\ \text{말단 alkyne} \\ & \longrightarrow \text{3,5-이치환 isoxazole(p.18–19)} \end{aligned}$. → [nitrile oxide cycloaddition](../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md)
 - 15.7 isoxazoline --LiAlH4--> amino alcohol, --H2/Ni, H2O--> aldol(cis → syn, trans → anti)(p.20). → [nitrile oxide cycloaddition](../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md), [aldol reaction](../wiki/반응/알돌%20반응.md)
 
 ### 16. ozone 분해 (슬라이드 p.21–24)
@@ -72,8 +72,8 @@ cycloaddition 시리즈의 마지막 편이다. L13–L14에서 Diels–Alder, F
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | DA: 1-acetoxybutadiene + (E)-crotonaldehyde | 가열 | 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde | ortho | OAc/CHO cis, CHO/Me trans | 라세미 (p.3) |
-| ketene + alkene [2+2] | heat | cyclobutanone | alkene nucleophilic 탄소 → ketene C=O 탄소 | alkene 기하 보존 | [supra-antara](../wiki/반응/케텐%202+2%20고리화%20첨가.md) (p.6–7) |
-| Cl2CHCOCl → Cl2C=C=O, + cyclopentadiene | Et3N | 7,7-dichlorobicyclo[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
+| ketene + alkene [2+2] | heat | cyclobutanone | $\text{alkene nucleophilic 탄소} \longrightarrow \text{ketene}\ \mathrm{C{=}O}\ \text{탄소}$ | alkene 기하 보존 | [supra-antara](../wiki/반응/케텐%202+2%20고리화%20첨가.md) (p.6–7) |
+| $\mathrm{Cl_2CHCOCl} \longrightarrow \mathrm{Cl_2C{=}C{=}O}, + \text{cyclopentadiene}$ | Et3N | 7,7-dichlorobicyclo[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
 | ketene + imine | PhOCH2COCl, Et3N | 3-phenoxy $\beta$-lactam (92%) | imine N → ketene C=O 탄소 | 그림상 3,4-trans | [Staudinger](../wiki/반응/스타우딩거%20β-락탐%20합성.md) (p.12) |
 | CSI + CH2=C(Me)CH2Cl | 이후 NaHCO3, H2O | 4-(chloromethyl)-4-methylazetidin-2-one | 3차 탄소가 N과 결합 | – | [CSI](../wiki/개념/이소시아네이트.md) (p.12) |
 | nitrone + R-CH=CH2 (EDG) | 열 | 5-치환 isoxazolidine | nitrone C–CH2, O–CHR | exo TS | [dipole LUMO](../wiki/반응/나이트론%20고리화%20첨가.md) (p.15–16) |
@@ -85,7 +85,7 @@ cycloaddition 시리즈의 마지막 편이다. L13–L14에서 Diels–Alder, F
 | nitrile oxide + 말단 alkyne | – | 3,5-이치환 isoxazole | R이 C5 | – | (p.19) |
 | isoxazoline 환원 | LiAlH4 | 1,3-amino alcohol | – | – | (p.20) |
 | isoxazoline 환원/가수분해 | H2/Ni, H2O | $\beta$-hydroxy ketone | – | cis → syn, trans → anti | aldol 등가체 (p.20) |
-| ozonolysis | 1. O3 2. Me2S / H2O2 / NaBH4 | aldehyde·ketone / acid / alcohol | – | norbornene → cis-1,3-dialdehyde | [ozonolysis](../wiki/반응/오존%20분해.md) (p.21, 23) |
+| ozonolysis | 1. O3 2. Me2S / H2O2 / NaBH4 | aldehyde·ketone / acid / alcohol | – | $\text{norbornene} \longrightarrow \text{cis-1,3-dialdehyde}$ | [ozonolysis](../wiki/반응/오존%20분해.md) (p.21, 23) |
 | Danishefsky diene DA | DA 후 H⁺ | cyclohexenone | OMe/OSiR3 협력 | – | [Danishefsky diene](../wiki/시약/대니셰프스키%20다이엔.md) (p.26) |
 | Rawal형 diene + enal | Cr-salen 3 (5 mol%), 4Å MS, CH2Cl2 | 작용기화 cyclohexene | N과 CHO ortho | 거울상선택적 | [asymmetric Diels–Alder reaction](../wiki/반응/비대칭%20딜스-알더%20반응.md) (p.27, 29) |
 | Rawal형 diene + 2-치환 acrolein | TADDOL 7, toluene, −80 °C; LiAlH4; HF | 4,4-이치환 cyclohexenone | – | 73–92% ee | H-결합 촉매 (p.28) |

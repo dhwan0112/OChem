@@ -42,9 +42,9 @@ Clayden의 정의는 한 줄이다. **콘쥬게이션 폴리엔의 양 끝을 �
 
 Woodward–Hoffmann 규칙은 반응이 **허용되는지만** 알려 주고 어느 방향으로 가는지는 알려 주지 않는다([L16](L16_Sigmatropic_Rearrangements.md) 5절과 같은 이야기다). 방향은 열역학이 정한다. (출처: Clayden p.922–923)
 
-- **hexatriene → cyclohexa-1,3-diene (500 °C):** 고리가 **닫힌다**. 잃는 $\pi$ 결합보다 새로 생기는 $\sigma$ 결합이 강하기 때문이다.
-- **cyclobutene → 뷰타-1,3-diene (200 °C):** 고리가 **열린다**. 4원 고리의 긴장이 $\sigma$ 결합 하나의 이득보다 크다.
-- **cycloheptatriene ⇌ norcaradiene:** 3원 고리 긴장 해소와 "$\pi$ 결합 대신 $\sigma$ 결합"의 이득이 거의 정확히 비긴다. 보통은 cycloheptatriene이 많지만 치환 양식에 따라 norcaradiene이 우세하기도 하다.
+- **$\text{hexatriene} \longrightarrow \text{cyclohexa-1,3-diene}\ \mathrm{(500^\circ C):}\ \text{고리가 닫힌다}$**. 잃는 $\pi$ 결합보다 새로 생기는 $\sigma$ 결합이 강하기 때문이다.
+- **$\text{cyclobutene} \longrightarrow \text{뷰타-1,3-diene}\ \mathrm{(200^\circ C):}\ \text{고리가 열린다}$**. 4원 고리의 긴장이 $\sigma$ 결합 하나의 이득보다 크다.
+- **$\begin{aligned} & \text{cycloheptatriene} \\ & \rightleftharpoons \text{norcaradiene: 3원 고리 긴장 해소와}\ \mathrm{"}\ \pi\ \text{결합 대신}\ \sigma\ \text{결합"의 이득이 거의 정확히 비긴다} \end{aligned}$. 보통은 cycloheptatriene이 많지만 치환 양식에 따라 norcaradiene이 우세하기도 하다.
 
 ![hexatriene의 6π electrocyclic 고리 닫힘](../../figures/L17/hexatriene_closure.svg)
 
@@ -190,7 +190,7 @@ cycloaddition과 시그마트로픽 반응에서 이미 봤듯이, 광화학 조
 
 출발물과 생성물을 비교하면 이 반응은 **conrotatory**이다. $6\pi$의 광화학 반응이니 5.1절 표와 맞는다. 그런데 이것은 표만이 아니라 구조로도 강제된다. 열적 $6\pi$ disrotatory으로 열리면 두 6원 고리 중 하나에 **불가능한 트랜스 이중결합**이 들어가야 한다. 그래서 이 고리 열림은 빛으로만 일어나고, 햇빛이 몇 달씩 부족한 지역에 비타민 D 결핍이 흔한 것도 결국 오비탈 대칭 때문이다. 그다음 단계인 프로비타민 D2 → 비타민 D2는 열적 대면 [1,7]H 이동이다. (출처: Clayden p.921–922, p.927)
 
-Wade는 같은 이야기를 7-dehydrocholesterol → 프로비타민 D3로 소개하고, 햇빛을 덜 받는 추운 지방 아이들이 구루병에 걸리기 쉽다고 덧붙인다. (출처: Wade p.693)
+$\begin{aligned} & \text{Wade는 같은 이야기를 7-dehydrocholesterol} \\ & \longrightarrow \\ & \text{프로비타민 D3로 소개하고},\  \\ & \text{햇빛을 덜 받는 추운 지방 아이들이 구루병에 걸리기 쉽다고 덧붙인다} \end{aligned}$. (출처: Wade p.693)
 
 ![7-dehydrocholesterol에서 vitamin D3까지 (1/2)](../../figures/L17/vitamin_d_pathway_1.svg)
 
@@ -237,8 +237,8 @@ endiandric acid 계열 천연물은 특이하게도 **라세미체**로 발견�
 
 다이(cyclohexene일) ketone으로 확인할 수 있다. (출처: Clayden p.927–928)
 
-- H3PO4, AcOH(열적, 산 촉매): **conrotatory($\pi4\mathrm{a}$)** → 고리 접합 두 H가 **trans**인 삼환 cyclopentenone
-- $h\nu$, benzene(광화학): **disrotatory($\pi4\mathrm{s}$)** → 두 H가 **cis**인 생성물
+- H3PO4, AcOH(열적, 산 촉매): **$\text{conrotatory}(\pi4\mathrm{a}) \longrightarrow \text{고리 접합 두 H가 trans인 삼환 cyclopentenone}$
+- $h\nu$, benzene(광화학): **$\text{disrotatory}(\pi4\mathrm{s}) \longrightarrow \text{두 H가 cis인 생성물}$
 
 같은 출발물에서 조건에 따라 입체화학이 뒤집힌다는 것이 이 반응이 전자고리화 반응이라는 강한 증거다.[^3]
 
@@ -254,7 +254,9 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [allyl cation](../../wiki/개념/알릴%20양이온.md), [1,3-dipolar cycloaddition](../../wiki/반응/1,3-쌍극자%20고리화%20첨가.md)
 
-### 8.1 cyclopropyl cation → allyl cation
+$$
+\mathrm{\#\#\#}\ 8.1\ \text{cyclopropyl cation} \longrightarrow \text{allyl cation}
+$$
 
 이 장의 내용만 안다면, $2\pi$ 전자를 가진 allyl cation([L14](L14_Cycloaddition_Part2.md) 9절의 [4+3]에서 본 그 cation)이 disrotatory으로 고리를 닫아 cyclopropyl cation이 될 것이라고 예상할지 모른다($2\pi$ = 4n+2, n = 0). 실제로는 **반대 방향**이 일어난다. cyclopropyl cation은 고리 긴장 때문에 생기자마자 전자고리화로 열려 allyl cation이 된다. cyclopropyl cation은 사실상 관찰되지 않는다. (출처: Clayden p.928)
 
@@ -264,7 +266,8 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 그래서 cyclopropane 고리에서 친핵성 치환을 시도하면 allyl 생성물이 나온다.
 
-- cyclopropyl chloride --[KOAc, AcOH]--> allyl acetate (cyclopropyl acetate는 생기지 않는다)
+- $\begin{aligned} & \text{cyclopropyl chloride} \\ & \xrightarrow[\mathrm{AcOH}]{\mathrm{KOAc}} \text{allyl acetate}\ (\text{cyclopropyl acetate는 생기지 않는다}) \end{aligned}$
+
 
 ![cyclopropyl chloride → allyl acetate](../../figures/L17/cyclopropyl_chloride_solvolysis.svg)
 
@@ -278,8 +281,10 @@ dienyl anion도 고리가 닫힌다. Clayden이 든 cyclooctadiene을 −78 °C�
 
 이 붙잡기로 고리 열림의 입체화학을 알아낼 수 있다. [3+2]는 양쪽 성분 모두 초면인 입체특이적 반응([$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$])이므로, 생성물의 입체화학이 곧 intermediate ylide의 기하를 알려 준다. 결과는 **conrotatory**이다. ylide는 $4\pi$ 전자계이므로 열적 conrotatory이 규칙과 맞는다. (출처: Clayden p.929)
 
-- cis-2,3-비스(methoxycarbonyl)-1-phenyl아지리딘 --[EtO2C–C≡C–CO2Et, 100 °C]--> 2,5-**trans**-dihydropyrrole
-- trans-아지리딘 --[같은 조건]--> 2,5-**cis**-dihydropyrrole
+- $\begin{aligned} & \text{cis-2,3-비스(methoxycarbonyl)-1-phenyl아지리딘} \\ & \xrightarrow[100\,{}^\circ\mathrm{C}]{\mathrm{EtO_2C{-}C{\equiv}C{-}CO_2Et}} \text{2,5-trans-dihydropyrrole} \end{aligned}$
+
+- $\text{trans-아지리딘} \xrightarrow{\text{같은 조건}} \text{2,5-cis-dihydropyrrole}$
+
 
 ![cis-aziridine + DEAD-alkyne → 2,5-trans-dihydropyrrole](../../figures/L17/aziridine_cis.svg)
 
@@ -335,20 +340,20 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 
 | 반응 | 출발물 → 생성물 | 조건 | $\pi$ 전자 | 회전 | 입체화학 결과 | 출처 |
 |---|---|---|---|---|---|---|
-| hexatriene 고리 닫힘 | 헥사-1,3,5-triene → cyclohexa-1,3-diene | 500 °C | 6 | 디스 | – | Clayden p.922 |
-| cyclobutene 고리 열림 | cyclobutene → 뷰타-1,3-diene | 200 °C | 4 | 콘 | – | p.922 |
-| norcaradiene 평형 | cycloheptatriene ⇌ norcaradiene | – | 6 | 디스 | 치환에 따라 평형 이동 | p.922 |
-| octatriene (열) | (2*E*,4*Z*,6*E*)-octatriene → 5,6-dimethylcyclohexa-1,3-diene | 가열 | 6 | 디스 ($\pi6\mathrm{s}$) | cis-dimethyl만 | p.924–925 |
+| hexatriene 고리 닫힘 | $\text{헥사-1,3,5-triene} \longrightarrow \text{cyclohexa-1,3-diene}$ | 500 °C | 6 | 디스 | – | Clayden p.922 |
+| cyclobutene 고리 열림 | $\text{cyclobutene} \longrightarrow \text{뷰타-1,3-diene}$ | 200 °C | 4 | 콘 | – | p.922 |
+| norcaradiene 평형 | $\text{cycloheptatriene} \rightleftharpoons \text{norcaradiene}$ | – | 6 | 디스 | 치환에 따라 평형 이동 | p.922 |
+| octatriene (열) | $(2\ \mathit{E}\ \mathrm{,4}\ \mathit{Z}\ \mathrm{,6}\ \mathit{E})\text{-octatriene} \longrightarrow \text{5,6-dimethylcyclohexa-1,3-diene}$ | 가열 | 6 | 디스 ($\pi6\mathrm{s}$) | cis-dimethyl만 | p.924–925 |
 | octatriene (빛) | 같은 triene → 같은 골격 | $h\nu$ | 6 | 콘 ($\pi6\mathrm{a}$) | trans-dimethyl | p.927 |
-| dimethylcyclobutene 열림 | cis-3,4-dimethylcyclobutene → (*E*,*Z*)-헥사-2,4-diene | 가열 | 4 | 콘 ($\pi4\mathrm{a}$) | 단일 이성질체 | p.925 |
+| dimethylcyclobutene 열림 | $\text{cis-3,4-dimethylcyclobutene} \longrightarrow (\mathit{E}\ ,\ \mathit{Z})\text{-헥사-2,4-diene}$ | 가열 | 4 | 콘 ($\pi4\mathrm{a}$) | 단일 이성질체 | p.925 |
 | 비타민 D (1단계) | ergosterol → 프로비타민 D2 | 햇빛 | 6 | 콘 | 열적 디스는 기하상 불가 | p.922, 927 |
-| endiandric acid | 폴리엔 → cyclooctatriene → endiandric acid D/E → A | 열 | 8 → 6 | 콘 → 디스 | 라세미 천연물 | p.925–926 |
-| Nazarov (산) | 다이바이닐 ketone → cyclopentenone | H3PO4, AcOH | 4 (5 오비탈) | 콘 ($\pi4\mathrm{a}$) | 고리 접합 H trans | p.927–928 |
+| endiandric acid | $\begin{aligned} & \text{폴리엔} \\ & \longrightarrow \text{cyclooctatriene} \\ & \longrightarrow \text{endiandric acid}\ \mathrm{D/E} \\ & \longrightarrow \mathrm{A} \end{aligned}$ | 열 | 8 → 6 | 콘 → 디스 | 라세미 천연물 | p.925–926 |
+| Nazarov (산) | $\text{다이바이닐 ketone} \longrightarrow \text{cyclopentenone}$ | H3PO4, AcOH | 4 (5 오비탈) | 콘 ($\pi4\mathrm{a}$) | 고리 접합 H trans | p.927–928 |
 | Nazarov (빛) | 같은 출발물 | $h\nu$, benzene | 4 | 디스 ($\pi4\mathrm{s}$) | 고리 접합 H cis | p.927–928 |
-| dienyl anion | cyclooctadiene → cis-이환[3.3.0]옥텐 | BuLi, −78 → 0 °C; H⁺ | 6 (5 오비탈) | 디스 ($\pi6\mathrm{s}$) | cis 융합 | p.928 |
-| cyclopropyl cation | cyclopropyl chloride → allyl acetate | KOAc, AcOH | 2 | 디스(고리 열림) | – | p.928 |
-| 아지리딘 열림 + [3+2] | ester 치환 아지리딘 → azomethine ylide → dihydropyrrole | 100–175 °C, 쌍극친화체 | 4 | 콘 | cis → 2,5-trans, trans → 2,5-cis | p.929 |
-| 페리플라논 B의 고리 열림 | cyclobutene 융합 10원 고리 → 12원 고리 diene | 175 °C; $h\nu$(이성질화) | 4 | 콘(구별 불가) | *Z*/*E* → *E* | p.930 |
+| dienyl anion | $\text{cyclooctadiene} \longrightarrow \text{cis-이환[3.3.0]옥텐}$ | BuLi, −78 → 0 °C; H⁺ | 6 (5 오비탈) | 디스 ($\pi6\mathrm{s}$) | cis 융합 | p.928 |
+| cyclopropyl cation | $\text{cyclopropyl chloride} \longrightarrow \text{allyl acetate}$ | KOAc, AcOH | 2 | 디스(고리 열림) | – | p.928 |
+| 아지리딘 열림 + [3+2] | $\begin{aligned} & \text{ester 치환 아지리딘} \\ & \longrightarrow \text{azomethine ylide} \\ & \longrightarrow \text{dihydropyrrole} \end{aligned}$ | 100–175 °C, 쌍극친화체 | 4 | 콘 | cis → 2,5-trans, trans → 2,5-cis | p.929 |
+| 페리플라논 B의 고리 열림 | $\text{cyclobutene 융합 10원 고리} \longrightarrow \text{12원 고리 diene}$ | 175 °C; $h\nu$(이성질화) | 4 | 콘(구별 불가) | *Z*/*E* → *E* | p.930 |
 
 ---
 
@@ -362,7 +367,7 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 
 4. 양 말단에 Me가 하나씩 있는 (*E*,*E*)-헵타-2,5-diene-4-one MeCH=CH–CO–CH=CHMe를 산으로 처리해 Nazarov 고리화를 시켰다. 고리 닫힘 단계에서 새 $\sigma$ 결합 양쪽 탄소(각각 Me를 가진 탄소)의 두 Me는 cis와 trans 중 어느 관계가 되는가? 근거를 쓰라. (tautomerization 단계에서 한쪽 입체중심이 없어질 수 있다는 점은 무시하고 고리 닫힘 직후만 생각하라.)
 
-5. cyclopropyl tosylate를 acetic acid 속에서 가용매 분해했더니 cyclopropyl acetate가 아니라 allyl acetate가 생겼다. 이 결과를 전자고리화 반응으로 설명하고, 반응 방향이 "allyl → cyclopropyl"이 아닌 이유를 쓰라.
+5. cyclopropyl tosylate를 acetic acid 속에서 가용매 분해했더니 cyclopropyl acetate가 아니라 allyl acetate가 생겼다. $\begin{aligned} & \text{이 결과를 전자고리화 반응으로 설명하고},\ \text{반응 방향이 "allyl} \\ & \longrightarrow \text{cyclopropyl"이 아닌 이유를 쓰라} \end{aligned}$.
 
 6. trans-2,3-비스(methoxycarbonyl)-1-phenyl아지리딘을 dimethyl acetylylenedicarboxylate(MeO2C–C≡C–CO2Me)와 가열했다. 생성 dihydropyrrole의 2,5-위치 두 ester는 cis와 trans 중 어느 쪽인가? 두 단계 각각의 입체화학 규칙을 쓰라.
 

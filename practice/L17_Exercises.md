@@ -12,7 +12,7 @@
 
 4. 양 말단에 Me가 하나씩 있는 (*E*,*E*)-헵타-2,5-diene-4-one MeCH=CH–CO–CH=CHMe를 산으로 처리해 Nazarov 고리화를 시켰다. 고리 닫힘 단계에서 새 $\sigma$ 결합 양쪽 탄소(각각 Me를 가진 탄소)의 두 Me는 cis와 trans 중 어느 관계가 되는가? 근거를 쓰라. (tautomerization 단계에서 한쪽 입체중심이 없어질 수 있다는 점은 무시하고 고리 닫힘 직후만 생각하라.)
 
-5. cyclopropyl tosylate를 acetic acid 속에서 가용매 분해했더니 cyclopropyl acetate가 아니라 allyl acetate가 생겼다. 이 결과를 전자고리화 반응으로 설명하고, 반응 방향이 "allyl → cyclopropyl"이 아닌 이유를 쓰라.
+5. cyclopropyl tosylate를 acetic acid 속에서 가용매 분해했더니 cyclopropyl acetate가 아니라 allyl acetate가 생겼다. $\begin{aligned} & \text{이 결과를 전자고리화 반응으로 설명하고},\ \text{반응 방향이 "allyl} \\ & \longrightarrow \text{cyclopropyl"이 아닌 이유를 쓰라} \end{aligned}$.
 
 6. trans-2,3-비스(methoxycarbonyl)-1-phenyl아지리딘을 dimethyl acetylylenedicarboxylate(MeO2C–C≡C–CO2Me)와 가열했다. 생성 dihydropyrrole의 2,5-위치 두 ester는 cis와 trans 중 어느 쪽인가? 두 단계 각각의 입체화학 규칙을 쓰라.
 

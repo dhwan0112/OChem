@@ -31,8 +31,8 @@ tags: [분류/시약, 범위/Test1, 기출/Test1-2025, 단원/엔올레이트, �
 
 ## 예
 
-- aldehyde + aldehyde: (CH₃)₂C=CH–OSiMe₃ --[PhCH₂CH₂CHO, TiCl₄]--> PhCH₂CH₂–CH(OH)–C(CH₃)₂–CHO (95%). (출처: L8 p.26)
-- ketone + aldehyde: CH₃CH=C(OSiMe₃)CH₂CH₃ --[CH₃CH₂CH(CH₃)CHO, TiCl₄]--> aldol 92% --[TsOH]--> manicone 83%. (출처: L8 p.26)
+- aldehyde + aldehyde: $\begin{aligned} & \mathrm{(CH_3)_2C{=}CH{-}OSiMe_3} \\ & \xrightarrow{\mathrm{PhCH_2CH_2CHO},\ \mathrm{TiCl_4}} \mathrm{PhCH_2CH_2{-}CH(OH){-}C(CH_3)_2{-}CHO}\ (95\%) \end{aligned}$. (출처: L8 p.26)
+- ketone + aldehyde: $\begin{aligned} & \mathrm{CH_3CH{=}C(OSiMe_3)CH_2CH_3} \\ & \xrightarrow{\mathrm{CH_3CH_2CH(CH_3)CHO},\ \mathrm{TiCl_4}} \text{aldol}\ 92\% \\ & \xrightarrow{\mathrm{TsOH}} \text{manicone}\ 83\% \end{aligned}$. (출처: L8 p.26)
 
 ## 흔한 오해
 

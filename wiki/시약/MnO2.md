@@ -26,7 +26,8 @@ MnO₂는 너무 순해서 아무 alcohol이나 산화하지 못한다. 그런�
 
 ## 예
 
-- retinol(vitamin A, polyene allyl 1차 alcohol) --[MnO₂]--> retinal(>95%)
+- $\begin{aligned} & \text{retinol}(\text{vitamin}\ \mathrm{A},\ \text{polyene allyl 1차 alcohol}) \\ & \xrightarrow{\mathrm{MnO_2}} \text{retinal(>95\%)} \end{aligned}$
+
 - steroid형 diol: C=C 옆 allyl 2차 OH만 산화되어 enone이 되고, allyl이 아닌 2차 OH는 그대로 남는다.
 - geraniol도 allyl 1차 alcohol이라 MnO₂로 geranial을 만들 수 있다.
 

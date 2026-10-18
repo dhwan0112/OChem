@@ -32,8 +32,8 @@ Lewis acid인 Al이 ester carbonyl O에 배위한 뒤 Al–H의 hydride가 분�
 ## 이웃 시약과 비교
 
 - **[NaBH4](NaBH4.md)·[LiBH4](LiBH4.md)·[LiAlH4](LiAlH4.md):** 모두 anion성(nucleophilic) hydride다. DIBAL-H는 중성이고 Al이 Lewis acid라 먼저 산소에 배위한다는 점에서 [borane](보레인.md)과 같은 "특수 시약"으로 분류된다(→ [metal hydride의 반응성](../개념/금속%20수소화물의%20반응성.md)). (출처: L5 p.18)
-- **우회로 1(alcohol 경유):** ester --[LiAlH₄]--> 1차 alcohol --[DMP, Swern 등]--> aldehyde. 마지막 단계에는 [DMP](DMP.md)나 [Swern oxidation](../반응/스원%20산화.md)처럼 aldehyde에서 멈추는 산화제를 쓴다. (출처: L6c p.2)
-- **우회로 2(acid chloride 경유):** ester → carboxylic acid → acid chloride → H₂, Pd/BaSO₄, quinoline([Rosenmund reduction](../반응/로젠문트%20환원.md)). (출처: L5 p.17, p.33)
+- **우회로 1(alcohol 경유):** $\begin{aligned} & \text{ester} \\ & \xrightarrow{\mathrm{LiAlH_4}} \text{1차 alcohol} \\ & \xrightarrow{\mathrm{DMP},\ \text{Swern 등}} \text{aldehyde} \end{aligned}$. 마지막 단계에는 [DMP](DMP.md)나 [Swern oxidation](../반응/스원%20산화.md)처럼 aldehyde에서 멈추는 산화제를 쓴다. (출처: L6c p.2)
+- **우회로 2(acid chloride 경유):** $\begin{aligned} & \text{ester} \\ & \longrightarrow \text{carboxylic acid} \\ & \longrightarrow \text{acid chloride} \\ & \longrightarrow \mathrm{H_2},\ \mathrm{Pd/BaSO_4},\ \text{quinoline} \end{aligned}$([Rosenmund reduction](../반응/로젠문트%20환원.md)). (출처: L5 p.17, p.33)
 
 ## 흔한 오해
 

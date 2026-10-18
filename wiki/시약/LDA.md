@@ -29,8 +29,8 @@ BuLi의 carbanion이 염기로서 N–H의 수소를 떼어 내고, 훨씬 약�
 
 산-염기 평형은 더 약한 산 쪽으로 기운다([alpha-hydrogen acidity](../개념/α-수소의%20산도.md)).
 
-- ketone(pKa 19) + EtONa ⇌ enolate + EtOH(pKa 16): 왼쪽으로 치우쳐 enolate가 소량뿐이다.
-- ketone(pKa 19) + LDA → enolate + HN(*i*-Pr)₂(pKa 36–38)[^1]: 사실상 완전히 오른쪽으로 간다.
+- $\begin{aligned} & \text{ketone}(\text{pKa}\ 19) + \mathrm{EtONa} \\ & \rightleftharpoons \text{enolate} + \mathrm{EtOH}(\text{pKa}\ 16)\text{:}\ \text{왼쪽으로 치우쳐 enolate가 소량뿐이다} \end{aligned}$.
+- $\text{ketone}(\text{pKa}\ 19) + \mathrm{LDA} \longrightarrow \text{enolate} + \mathrm{HN}(\mathit{i}\ \mathrm{{-}Pr})\mathrm{_2(pKa 36{-}38)}$[^1]: 사실상 완전히 오른쪽으로 간다.
 
 ester $\alpha$-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6, p.13)
 
@@ -51,12 +51,12 @@ ester $\alpha$-H(pKa ~25)도 LDA로 충분히 떼어진다. (출처: L7 p.4–6,
 
 | 용도 | 예 | 출처 |
 |---|---|---|
-| [enolate alkylation](../반응/엔올레이트%20알킬화.md) | 2-methylcyclohexanone --[LDA; CH₃I]--> 2,6-dimethylcyclohexanone 56% (2,2-이치환체 6%) | L7 p.10–11 |
-| ester alkylation | CH₃CH₂CH₂CO₂Me --[LDA, THF; EtI]--> (CH₃CH₂)₂CHCO₂Me 96% | L7 p.13 |
-| [directed aldol](../반응/교차%20알돌%20반응.md) | CH₃COCH₂CH₃ --[LDA, −78 °C; CH₃CHO; H₂O]--> CH₃CH₂COCH₂CH(OH)CH₃ 75% | L8 p.18 |
-| kinetic [silyl enol ether](실릴%20엔올%20에터.md) | 2-methylcyclohexanone --[LDA, −78 °C; Me₃SiCl]--> 덜 치환된 enol ether 99 : 1 | L8 p.24 |
-| 위치 지정 [$\alpha$-halogenation](../반응/α-할로젠화.md) | R–CH₂–CO–CH₃ --[LDA; Me₃SiCl; Br₂]--> R–CH₂–CO–CH₂Br | L10 p.10 |
-| [asymmetric alkylation](에반스%20옥사졸리디논.md) | N-acyl oxazolidinone --[LDA, −78 °C; BnBr]--> 92%, 99 : 1 dr | L7 p.27 |
+| [enolate alkylation](../반응/엔올레이트%20알킬화.md) | $\begin{aligned} & \text{2-methylcyclohexanone} \\ & \xrightarrow{\mathrm{LDA};\ \mathrm{CH_3I}} \text{2,6-dimethylcyclohexanone}\ 56\%\ (\text{2,2-이치환체}\ 6\%) \end{aligned}$ | L7 p.10–11 |
+| ester alkylation | $\mathrm{CH_3CH_2CH_2CO_2Me} \xrightarrow[\mathrm{THF}]{\mathrm{LDA},\ \mathrm{EtI}} \mathrm{(CH_3CH_2)_2CHCO_2Me}\ 96\%$ | L7 p.13 |
+| [directed aldol](../반응/교차%20알돌%20반응.md) | $\begin{aligned} & \mathrm{CH_3COCH_2CH_3} \\ & \xrightarrow[-78\,{}^\circ\mathrm{C}]{\mathrm{LDA},\ \mathrm{CH_3CHO};\ \mathrm{H_2O}} \mathrm{CH_3CH_2COCH_2CH(OH)CH_3}\ 75\% \end{aligned}$ | L8 p.18 |
+| kinetic [silyl enol ether](실릴%20엔올%20에터.md) | $\begin{aligned} & \text{2-methylcyclohexanone} \\ & \xrightarrow[-78\,{}^\circ\mathrm{C}]{\mathrm{LDA},\ \mathrm{Me_3SiCl}} \text{덜 치환된 enol ether}\ 99\ \mathrm{:}\ 1 \end{aligned}$ | L8 p.24 |
+| 위치 지정 [$\alpha$-halogenation](../반응/α-할로젠화.md) | $\mathrm{R{-}CH_2{-}CO{-}CH_3} \xrightarrow{\mathrm{LDA};\ \mathrm{Me_3SiCl};\ \mathrm{Br_2}} \mathrm{R{-}CH_2{-}CO{-}CH_2Br}$ | L10 p.10 |
+| [asymmetric alkylation](에반스%20옥사졸리디논.md) | $\text{N-acyl oxazolidinone} \xrightarrow[-78\,{}^\circ\mathrm{C}]{\mathrm{LDA},\ \mathrm{BnBr}} 92\%,\ 99\ \mathrm{:}\ 1\ \text{dr}$ | L7 p.27 |
 
 슬라이드는 2-methylpropanoic acid methyl과 cyclopentanecarbaldehyde의 LDA enolate를 직접 그려 보라고 한다(→ [L7 연습 문제](../../practice/L07_Exercises.md) 1). (출처: L7 p.7)
 

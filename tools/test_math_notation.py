@@ -29,6 +29,10 @@ class MathNotationTests(unittest.TestCase):
             result = wiki.short('a' * 30 + r' $\alpha,\beta$-unsaturated carbonyl', length)
             self.assertEqual(result.count('$') % 2, 0, result)
 
+    def test_long_reaction_summary_is_meaningful(self):
+        equation = r'$\mathrm{CH_3(CH_2)_6CH_2Br} + \mathrm{NH_3} \xrightarrow{\text{long reagent label}} \text{octylamine}$'
+        self.assertEqual(wiki.short(equation), '반응식은 본문 참고')
+
     def test_navigation_retains_backslashes_and_escaped_brackets(self):
         with tempfile.TemporaryDirectory() as folder:
             notes = Path(folder) / 'notes'

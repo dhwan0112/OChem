@@ -10,10 +10,10 @@ intermediate와 생성물의 구조를 제시하라 (Propose the structures of t
 
 출발물질: N-methyl 비스(3-propanoic acid ethyl) amine, 즉 EtO2C-CH2CH2-N(CH3)-CH2CH2-CO2Et
 
-1. `EtO2C-CH2CH2-N(CH3)-CH2CH2-CO2Et --[EtONa]--> (A)`
-2. `(A) --[EtONa, 그다음 알릴 allyl bromide CH2=CHCH2Br]--> (B)`
-3. `(B) --[NaOH, H2O, 그다음 NH4Cl로 quench]--> (C)`
-4. `(C) --[heat, -CO2]--> (D)`
+1. $\mathrm{EtO_2C{-}CH_2CH_2{-}N(CH_3){-}CH_2CH_2{-}CO_2Et} \xrightarrow{\mathrm{EtONa}} \mathrm{(A)}$
+2. $\mathrm{(A)} \xrightarrow[\mathrm{EtONa}]{\text{그다음 알릴 allyl bromide}\ \mathrm{CH_2{=}CHCH_2Br}} \mathrm{(B)}$
+3. $\mathrm{(B)} \xrightarrow{\mathrm{NaOH},\ \mathrm{H_2O},\ \text{그다음}\ \mathrm{NH_4Cl}\text{로}\ \text{quench}} \mathrm{(C)}$
+4. $\mathrm{(C)} \xrightarrow[\text{heat}]{\mathrm{{-}CO_2}} \mathrm{(D)}$
 
 ### 공식 풀이
 
@@ -38,7 +38,7 @@ intermediate와 생성물의 구조를 제시하라 (Propose the structures of t
 
 ### 핵심 개념
 
-Dieckmann condensation(6원 고리 $\beta$-ketoester) → 활성 메틴 alkylation → 비누화 → $\beta$-keto acid decarboxylation: acetoacetic ester 합성의 고리판.
+$\begin{aligned} & \text{Dieckmann}\ \text{condensation}(\text{6원 고리}\ \beta\ \text{-ketoester}) \\ & \longrightarrow \text{활성 메틴 alkylation} \\ & \longrightarrow \text{비누화} \\ & \longrightarrow \beta\ \text{-keto acid decarboxylation: acetoacetic ester 합성의 고리판} \end{aligned}$.
 
 ---
 
@@ -50,12 +50,12 @@ Dieckmann condensation(6원 고리 $\beta$-ketoester) → 활성 메틴 alkylati
 
 ### 공식 풀이
 
-1. `EtO2C-CH2CH2-Br + CH2(CO2Et)2 --[NaOEt]--> EtO2C-CH2CH2-CH(CO2Et)2` (새 C-C 결합 형성)
-2. `--[NaOH, 물; 그다음 HCl]--> HOOC-CH2CH2-CH(COOH)2`
-3. `--[가열, -CO2]--> HOOC-CH2CH2CH2-COOH` (glutaric acid, glutaric acid)
-4. `--[EtOH, H2SO4]--> EtO2C-CH2CH2CH2-CO2Et` (diethyl glutarate)
-5. `디에틸 글루타레이트 + 디에틸 EtO2C-CO2Et --[NaOEt]--> EtO2C-CH(CO-CO2Et)-CH2CH2-CO2Et`
-6. `--[NaOEt]--> 표적 화합물` (분자 내 고리화)
+1. $\begin{aligned} & \mathrm{EtO_2C{-}CH_2CH_2{-}Br} + \mathrm{CH_2(CO_2Et)_2} \\ & \xrightarrow{\mathrm{NaOEt}} \mathrm{EtO_2C{-}CH_2CH_2{-}CH(CO_2Et)_2} \end{aligned}$ (새 C-C 결합 형성)
+2. $\xrightarrow{\mathrm{NaOH},\ \text{물};\ \text{그다음}\ \mathrm{HCl}} \mathrm{HOOC{-}CH_2CH_2{-}CH(COOH)_2}$
+3. $\xrightarrow[\text{가열}]{\mathrm{{-}CO_2}} \mathrm{HOOC{-}CH_2CH_2CH_2{-}COOH}$ (glutaric acid, glutaric acid)
+4. $\xrightarrow[\mathrm{EtOH}]{\mathrm{H_2SO_4}} \mathrm{EtO_2C{-}CH_2CH_2CH_2{-}CO_2Et}$ (diethyl glutarate)
+5. $\begin{aligned} & \text{디에틸 글루타레이트} + \text{디에틸}\ \mathrm{EtO_2C{-}CO_2Et} \\ & \xrightarrow{\mathrm{NaOEt}} \\ & \mathrm{EtO_2C{-}CH(CO{-}CO_2Et){-}CH_2CH_2{-}CO_2Et} \end{aligned}$
+6. $\xrightarrow{\mathrm{NaOEt}} \text{표적 화합물}$ (분자 내 고리화)
 
 (출처: Practice_L10_solutions p.2)
 
@@ -79,18 +79,22 @@ malonic ester 합성으로 탄소 사슬을 늘리고(C3 + C3 - CO2 = C5), oxala
 
 다음 반응의 단계별 메커니즘을 제안하라. (힌트: 처음에 enamine이 형성된다.)
 
-`2-(2-옥소에틸)-6-(4-옥소펜틸)피페리딘 --[acid]--> 삼환 생성물`
+
+$$
+\text{2-(2-옥소에틸)-6-(4-옥소펜틸)피페리딘} \xrightarrow{\text{acid}} \text{삼환 생성물}
+$$
+
 
 - 출발물질: 2차 amine(NH) piperidine 고리. C2에 CH2-CHO, C6에 CH2CH2CH2-CO-CH3.
 - 생성물: N을 공유하는 tricyclic amine. 원래 piperidine 고리 + ketone 쪽에서 만들어진 새 6원 고리(N에 이웃한 C=C를 가진 enamine) + aldehyde 쪽에서 만들어진 새 6원 고리(OH를 가진 CH).
 
 ### 공식 풀이
 
-1. amine N이 ketone carbonyl을 분자 내 공격 → carbinolamine(carbinolamine, N-C(OH)(CH3)) 형성, 6원 고리 생성.
+1. $\begin{aligned} & \text{amine N이 ketone carbonyl을 분자 내 공격} \\ & \longrightarrow \text{carbinolamine}(\text{carbinolamine},\ \mathrm{N{-}C(OH)(CH_3)})\ \text{형성},\ \text{6원 고리 생성} \end{aligned}$.
 2. OH가 떨어져 나가며(OH⁻로 표시) iminium iminium ion 형성.
-3. OH⁻가 methyl group의 H를 떼어 냄 → 고리 바깥 C=CH2 enamine(exocyclic enamine).
-4. enamine의 CH2 말단이 aldehyde carbonyl을 공격 → 새 6원 고리, iminium 이온 + alkoxide(O⁻).
-5. alkoxide가 iminium 이웃 고리 C-H를 떼어 냄 → 고리 안 C=C enamine + OH, 최종 생성물.
+3. $\begin{aligned} & \mathrm{OH^-}\text{가}\ \text{methyl group의 H를 떼어 냄} \\ & \longrightarrow \text{고리 바깥}\ \mathrm{C{=}CH_2}\ \text{enamine}(\text{exocyclic enamine}) \end{aligned}$.
+4. $\begin{aligned} & \text{enamine의}\ \mathrm{CH_2}\ \text{말단이 aldehyde carbonyl을 공격} \\ & \longrightarrow \text{새 6원 고리},\ \text{iminium 이온} + \text{alkoxide(O⁻)} \end{aligned}$.
+5. $\begin{aligned} & \text{alkoxide가 iminium 이웃 고리}\ \mathrm{C{-}H}\text{를}\ \text{떼어 냄} \\ & \longrightarrow \text{고리 안}\ \mathrm{C{=}C}\ \text{enamine} + \mathrm{OH},\ \text{최종 생성물} \end{aligned}$.
 
 (출처: Practice_L10_solutions p.3)
 
@@ -108,4 +112,4 @@ malonic ester 합성으로 탄소 사슬을 늘리고(C3 + C3 - CO2 = C5), oxala
 
 ### 핵심 개념
 
-2차 amine + ketone → iminium → enamine(탄소 nucleophile) → 분자 내 aldehyde 공격(만니히/aldol형) → 다시 enamine. 고리 크기(6원)가 어느 $\alpha$-탄소가 반응할지를 결정한다.
+$\begin{aligned} & \text{2차 amine} + \text{ketone} \\ & \longrightarrow \text{iminium} \\ & \longrightarrow \text{enamine}(\text{탄소 nucleophile}) \\ & \longrightarrow \text{분자 내 aldehyde 공격(만니히/aldol형)} \\ & \longrightarrow \text{다시 enamine} \end{aligned}$. 고리 크기(6원)가 어느 $\alpha$-탄소가 반응할지를 결정한다.

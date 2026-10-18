@@ -56,11 +56,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 - → [peptide synthesis](../wiki/반응/펩타이드%20합성.md)의 "원리", [orthogonal protection](../wiki/개념/직교%20보호.md), [tetrahedral intermediate](../wiki/개념/사면체%20중간체.md)
 
 #### 7-3. N-Boc: 산으로 벗기는 protecting group (슬라이드 p.10)
-- Boc₂O로 도입(methionine → Boc-Met). 산에서 carbonyl O protonation → t-butyl cation(SN1) 이탈 → isobutene + carbamic acid → CO₂ + amine.
+- $\mathrm{Boc_2O}\text{로}\ \text{도입}(\text{methionine}) \longrightarrow \mathrm{Boc{-}Met)}$. 산에서 carbonyl O protonation → t-butyl cation(SN1) 이탈 → isobutene + carbamic acid → CO₂ + amine.
 - → [Boc](../wiki/시약/Boc%20보호기.md), [carbocation](../wiki/개념/탄소%20양이온.md), [TFA](../wiki/시약/TFA.md)
 
 #### 7-4. N-Fmoc: 염기로 벗기는 protecting group (슬라이드 p.11)
-- 1차 CH₂라 산에 강하다. fluorene 9번 C–H(pKa 약 25, 14전자 방향족 anion)가 amine 염기에 떨어지고 E1cB로 dibenzofulvene + carbamate anion → CO₂ + amine.
+- 1차 CH₂라 산에 강하다. $\begin{aligned} & \text{fluorene 9번}\ \mathrm{C{-}H}(\text{pKa 약}\ 25,\ \text{14전자 방향족 anion})\text{가}\  \\ & \text{amine 염기에 떨어지고}\ \mathrm{E_1cB}\text{로}\ \text{dibenzofulvene} \\ &  + \text{carbamate anion} \\ & \longrightarrow \mathrm{CO_2} + \text{amine} \end{aligned}$.
 - → [Fmoc](../wiki/시약/Fmoc%20보호기.md), [E1cB elimination](../wiki/개념/E1cB%20제거.md), [aromaticity](../wiki/개념/방향족성.md)
 
 #### 7-5. 고체상 peptide 합성(SPPS) (슬라이드 p.12)
@@ -74,7 +74,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 - → [acetal formation](../wiki/반응/아세탈%20형성.md)
 
 #### 8-2. 2절의 두 문제, 이렇게 푼다 (슬라이드 p.14, p.3)
-- 예제 1: ketone을 acetal로 가린 뒤 PhMgBr 2당량 → CH₃COCH₂C(OH)Ph₂. 예제 2: acetal 보호 → Grignard 생성 → HCO₂Et(2차 alcohol) → 탈보호로 6-hydroxyundecane-2,10-dione.
+- 예제 1: $\text{ketone을 acetal로 가린 뒤}\ \mathrm{PhMgBr}\ \text{2당량} \longrightarrow \mathrm{CH_3COCH_2C(OH)Ph_2}$. 예제 2: acetal 보호 → Grignard 생성 → HCO₂Et(2차 alcohol) → 탈보호로 6-hydroxyundecane-2,10-dione.
 - → [acetal formation](../wiki/반응/아세탈%20형성.md)의 "예", [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
 
 ### 9. 더 찾아보려면, 그리고 요약 (슬라이드 p.15–16)

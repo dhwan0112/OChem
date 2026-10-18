@@ -18,7 +18,7 @@ alkene을 carbonyl 두 개로 쪼개는 방법은 [ozonolysis](../반응/오존%
 | 기질 | 생성물 | 비고 |
 |---|---|---|
 | 1,2-diol | carbonyl 2개 | 고리형 periodic acid ester 경유 ([periodate cleavage](../반응/과아이오딘산%20절단.md)) |
-| alkene → (OsO₄) → diol → NaIO₄ | carbonyl 2개 | alkene의 이중결합 완전 절단 |
+| $\begin{aligned} & \text{alkene} \\ & \longrightarrow \mathrm{(OsO_4)} \\ & \longrightarrow \text{diol} \\ & \longrightarrow \mathrm{NaIO_4} \end{aligned}$ | carbonyl 2개 | alkene의 이중결합 완전 절단 |
 
 (출처: L2 p.16)
 

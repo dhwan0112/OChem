@@ -61,7 +61,7 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 최초의 시그마트로픽 자리옮김은 allyl 아릴 ether를 용매 없이 가열했을 때 *ortho*-allylphenol이 생긴 반응이다. 이것이 Claisen rearrangement이다.
 
-- 전체: PhO–CH2–CH=CH2 --[가열]--> 2-allylphenol
+- 전체: $\mathrm{PhO{-}CH_2{-}CH{=}CH_2} \xrightarrow{\text{가열}} \text{2-allylphenol}$
 
 ![allyl phenyl ether → 2-allylphenol](../../figures/L16/claisen_allyl_phenyl_ether.svg)
 
@@ -70,7 +70,7 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 반응은 두 단계다.
 
 1. **[3,3] 시그마트로픽 단계(페리고리):** O–CH2 $\sigma$ 결합이 끊어지면서 allyl group의 말단 탄소가 benzene 고리의 *ortho* 탄소와 결합한다. 이 단계의 생성물은 방향족성을 잃은 cyclohexadiene온이다.
-2. **양성자 이동(이온성):** *ortho* 탄소의 H가 떨어지고 산소가 양성자를 받아 방향족 phenol로 돌아온다(keto → enol tautomerization). 방향족성 회복이 이 단계의 추진력이다.
+2. **양성자 이동(이온성):** *$\begin{aligned} & \text{ortho* 탄소의 H가 떨어지고 산소가 양성자를 받아 방향족 phenol로}\  \\ & \text{돌아온다}(\text{keto}) \\ & \longrightarrow \text{enol tautomerization)} \end{aligned}$. 방향족성 회복이 이 단계의 추진력이다.
 
 (출처: Clayden p.909–910)
 
@@ -86,7 +86,8 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수**를 더하기로 �
 
 같은 반응은 방향족 고리 없이도 일어난다. 가장 단순한 예는 다음과 같다.
 
-- CH2=CH–O–CH2–CH=CH2 --[가열, [3,3]]--> OHC–CH2–CH2–CH=CH2 (펜트-4-enal)
+- $\begin{aligned} & \mathrm{CH_2{=}CH{-}O{-}CH_2{-}CH{=}CH_2} \\ & \xrightarrow[\text{가열}]{\mathrm{[3,3]}} \mathrm{OHC{-}CH_2{-}CH_2{-}CH{=}CH_2}\ \text{(펜트-4-enal)} \end{aligned}$
+
 
 ![allyl vinyl ether → pent-4-enal](../../figures/L16/claisen_allyl_vinyl_ether.svg)
 
@@ -139,7 +140,7 @@ propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높�
 
 즉 생성물의 트랜스 기하는 **출발물이 택한 형태와 TS에 이미 들어 있다**. intermediate가 없으니 그 사이에 바뀔 틈도 없다. (출처: Clayden p.910–911)
 
-예: MeCH(OMe)2 + CH2=CH–CH(OH)–R --[EtCO2H, 가열]--> OHC–CH2–CH2–CH=CH–R (*E*) (출처: Clayden p.911)
+예: $\begin{aligned} & \mathrm{MeCH(OMe)_2} + \mathrm{CH_2{=}CH{-}CH(OH){-}R} \\ & \xrightarrow[\text{가열}]{\mathrm{EtCO_2H}} \mathrm{OHC{-}CH_2{-}CH_2{-}CH{=}CH{-}R}\ (\mathit{E}) \end{aligned}$ (출처: Clayden p.911)
 
 ![Claisen rearrangement의 chair형 transition state: R이 equatorial 자리를 택해 새 C=C가 E가 된다](../../figures/L16/claisen_chair_e.svg)
 
@@ -163,7 +164,7 @@ cycloaddition은 두 분자가 공간을 사이에 두고 만나므로 한쪽 HO
 
 Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayden p.912–913)
 
-1. 메커니즘을 그린다(allyl 바이닐 ether → $\gamma,\delta$-unsaturated aldehyde).
+1. $\text{메커니즘을}\ \text{그린다}(\text{allyl 바이닐 ether}) \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde)}$.
 2. 성분을 고른다. 메커니즘에 참여하는 결합은 모두 넣고, 나머지는 넣지 않는다. → $\pi2$(C=C), $\sigma2$(O–C), $\pi2$(C=C)
 3. 의자형 TS 모양으로 3차원 그림을 그리고 **성분의 끝에만** 오비탈을 그린다.
 4. 새 결합이 생길 곳끼리 점선으로 잇는다.
@@ -198,7 +199,7 @@ $\pi$ 결합은 쉽다. 두 새 결합이 옛 $\pi$ 결합의 같은 면에서 �
 시그마트로픽 반응 문제를 풀 때는 두 질문을 따로 묻는다.
 
 1. **허용되는가?** → Woodward–Hoffmann(또는 FMO)
-2. **어느 쪽이 유리한가?** → 열역학(carbonyl 생성, 고리 긴장 해소, 더 치환된 alkene, 콘쥬게이션, anion 안정화 등)
+2. **$\begin{aligned} & \text{어느 쪽이 유리한가?} \\ & \longrightarrow \\ & \text{열역학}(\text{carbonyl 생성},\ \text{고리 긴장 해소},\ \text{더 치환된 alkene},\  \\ & \text{콘쥬게이션},\ \text{anion 안정화 등}) \end{aligned}$
 
 이 구분은 [L13](L13_Cycloaddition_Part1.md) 5-4절의 역 Diels–Alder처럼 cycloaddition에서도 이미 본 것이다. (출처: Clayden p.913, p.923)
 
@@ -214,7 +215,8 @@ $\pi$ 결합은 쉽다. 두 새 결합이 옛 $\pi$ 결합의 같은 면에서 �
 
 3번 탄소에 OH를 달면(헥사-1,5-diene-3-ol) [3,3] 생성물은 **enol**이 되고, enol은 곧바로 aldehyde로 tautomerization한다. 5.1절의 논리로 반응이 한쪽으로 간다.
 
-- CH2=CH–CH(OH)–CH2–CH=CH2 --[가열, [3,3]]--> HO–CH=CH–CH2–CH2–CH=CH2 → OHC–CH2–CH2–CH2–CH=CH2
+- $\begin{aligned} & \mathrm{CH_2{=}CH{-}CH(OH){-}CH_2{-}CH{=}CH_2} \\ & \xrightarrow[\text{가열}]{\mathrm{[3,3]}} \mathrm{HO{-}CH{=}CH{-}CH_2{-}CH_2{-}CH{=}CH_2} \\ & \longrightarrow \mathrm{OHC{-}CH_2{-}CH_2{-}CH_2{-}CH{=}CH_2} \end{aligned}$
+
 
 ![oxy-Cope rearrangement (1/2)](../../figures/L16/oxy_cope_1.svg)
 
@@ -289,7 +291,7 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 [3,3] 자리옮김은 탄소와 산소에만 한정되지 않는다. (출처: Clayden p.916–917)
 
 - **피셔 인돌 합성의 핵심 단계:** phenylhydrazine과 ketone이 약산성에서 phenylhydrazone을 만들고, 이것이 enamine tautomer와 평형을 이룬다. enamine은 [3,3] 자리옮김에 딱 맞게 놓여 있다. 끊어지는 $\sigma$ 결합은 **약한 N–N 결합**이고, $\pi$ 결합 하나는 benzene 고리의 것이다. 생성물인 불안정한 diimine은 방향족성을 회복하고, 양성자 이동과 C–N 결합 형성·절단(NH3 이탈)을 거쳐 인돌이 된다.
-- **크로뮴산 ester의 [3,3] (산화적 자리옮김):** 3차 allyl alcohol을 산성 CrO3로 산화하면 C–H가 없어 직접 산화가 안 된다. 대신 생긴 크로뮴산 ester가 [3,3] 자리옮김으로 allyl계 반대쪽 끝(H가 있는 탄소)으로 옮겨 가고, 거기서 보통의 Cr(VI) 산화가 일어난다. 결과는 enone이다. 예: cyclohexenone --[1. RLi; 2. CrO3, H⁺]--> 3-R-cyclohex-2-enone(carbonyl이 원래 자리에서 allyl계 반대쪽으로 옮겨진다). Cr은 주황색 Cr(VI)에서 Cr(IV)를 거쳐 녹색 Cr(III)로 내려간다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 산화 문서 참고).
+- **크로뮴산 ester의 [3,3] (산화적 자리옮김):** 3차 allyl alcohol을 산성 CrO3로 산화하면 C–H가 없어 직접 산화가 안 된다. 대신 생긴 크로뮴산 ester가 [3,3] 자리옮김으로 allyl계 반대쪽 끝(H가 있는 탄소)으로 옮겨 가고, 거기서 보통의 Cr(VI) 산화가 일어난다. 결과는 enone이다. 예: $\begin{aligned} & \text{cyclohexenone} \\ & \xrightarrow{1.\ \mathrm{RLi};\ 2.\ \mathrm{CrO_3},\ \mathrm{H^+}} \\ & \text{3-R-cyclohex-2-enone}(\text{carbonyl이 원래 자리에서 allyl계 반대쪽으로 옮겨진다}) \end{aligned}$. Cr은 주황색 Cr(VI)에서 Cr(IV)를 거쳐 녹색 Cr(III)로 내려간다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 산화 문서 참고).
 
 ![cyclohexenone → 3-methylcyclohex-2-enone (R = Me 예시)](../../figures/L16/chromate_33.svg)
 
@@ -307,7 +309,8 @@ R. E. Ireland가 1970년대에 개발해 아일랜드-Claisen 자리옮김이라
 
 benzyl allyl ether PhCH2–O–CH2–CH=CH2를 BuLi로 처리하면 benzyl 위치가 deprotonate되어 탄소 anion이 생긴다. 이 anion이 [2,3] 자리옮김을 한다.
 
-- PhCH2–O–CH2CH=CH2 --[1. BuLi; 2. H⁺]--> PhCH(OH)–CH2–CH=CH2
+- $\mathrm{PhCH_2{-}O{-}CH_2CH{=}CH_2} \xrightarrow{1.\ \mathrm{BuLi};\ 2.\ \mathrm{H^+}} \mathrm{PhCH(OH){-}CH_2{-}CH{=}CH_2}$
+
 
 ![benzyl allyl ether → PhCH(OH)CH2CH=CH2](../../figures/L16/wittig_rearrangement.svg)
 
@@ -323,7 +326,7 @@ C–O $\sigma$ 결합을 잃고 C–C $\sigma$ 결합을 얻는 것은 손해다
 
 5원자 고리라 완전한 의자는 아니지만, 새 $\pi$ 결합이 될 부분은 의자형에 가까운 배치를 할 수 있다. 치환된 allyl alcohol로 ether를 만들어 두면 치환기 R이 적도 자리를 택해 **새 C=C가 트랜스**가 된다. (출처: Clayden p.917)
 
-- CH2=CH–CH(OH)–R --[NaH, PhCH2Br]--> benzyl ether --[1. BuLi; 2. H⁺]--> PhCH(OH)–CH2–CH=CH–R (*E*)
+- $\mathrm{CH_2{=}CH{-}CH(OH){-}R} \xrightarrow{\mathrm{NaH},\ \mathrm{PhCH_2Br}} \text{benzyl ether}\ \mathrm{{-}{-}[1}$. BuLi; 2. H⁺]--> PhCH(OH)–CH2–CH=CH–R (*E*)
 
 ### 8.4 $\omega$ 성분: p 오비탈 하나를 어떻게 세나
 
@@ -335,7 +338,7 @@ benzyl allyl ether anion의 [2,3]은 **$\omega2\mathrm{a}$ + $\sigma2\mathrm{s}$
 
 S와 Se는 S(II), S(IV), S(VI)처럼 세 산화 상태를 오갈 수 있어서, 화살표가 그 원자에서 출발하고 끝나는 [2,3] 자리옮김을 잘 한다. (출처: Clayden p.918)
 
-1. allyl alcohol + PhSCl(pyridine) → 불안정한 **설펜산 ester** R–CH=CH–CH2–O–SPh
+1. $\begin{aligned} & \text{allyl alcohol} + \text{PhSCl(pyridine)} \\ & \longrightarrow \text{불안정한 설펜산 ester}\ \mathrm{R{-}CH{=}CH{-}CH_2{-}O{-}SPh} \end{aligned}$
 2. 가열하면 [2,3] 자리옮김으로 **allyl sulfoxide**(S=O)가 된다. 황은 S(II)에서 S(IV)로 바뀐다.
 3. allyl sulfoxide는 황이 안정화하는 anion을 만들 수 있어 염기 처리 후 RBr로 alkylation할 수 있다.
 4. alkylate된 sulfoxide를 methanol 속에서 (MeO)3P와 가열하면 [2,3]이 **거꾸로** 진행해 설펜산 ester가 다시 생긴다. 평형은 sulfoxide 쪽이지만, 황을 좋아하는 (MeO)3P가 설펜산 ester를 붙잡고 methanol이 alkoxide를 바로 protonate해 allyl alcohol로 끌어낸다(부산물 PhSMe, (MeO)3P=O).
@@ -422,8 +425,8 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 
 | 반응 | TS 고리 | Woodward–Hoffmann 기술 | 열적 | 입체화학의 열쇠 |
 |---|---|---|---|---|
-| [3,3] Claisen·Cope | 6원자(의자형) | $\pi2\mathrm{s}$ + $\sigma2\mathrm{a}$ + $\pi2\mathrm{a}$ (합 1) | 허용 | 적도 R → *E* alkene |
-| [2,3] (탄소 anion, S, Se) | 5원자 | $\omega2\mathrm{a}$ + $\sigma2\mathrm{s}$ + $\pi2\mathrm{a}$ (합 1) | 허용 | 의자형 부분 → *E* alkene |
+| [3,3] Claisen·Cope | 6원자(의자형) | $\pi2\mathrm{s}$ + $\sigma2\mathrm{a}$ + $\pi2\mathrm{a}$ (합 1) | 허용 | $\text{적도}\ \mathrm{R} \longrightarrow \mathit{E}\ \text{alkene}$ |
+| [2,3] (탄소 anion, S, Se) | 5원자 | $\omega2\mathrm{a}$ + $\sigma2\mathrm{s}$ + $\pi2\mathrm{a}$ (합 1) | 허용 | $\text{의자형 부분} \longrightarrow \mathit{E}\ \text{alkene}$ |
 | [1,5]H | 6원자 | $\pi4\mathrm{s}$ + $\sigma2\mathrm{s}$ (합 1) | 초면 허용 | H는 같은 면으로 |
 | [1,3]H | 4원자 | $\pi2\mathrm{a}$ + $\sigma2\mathrm{s}$ (합 1) | 대면만 허용, 기하상 불가 | – |
 | [1,7]H | 8원자 | $\pi6\mathrm{a}$ + $\sigma2\mathrm{s}$ (합 1) | 대면 허용, 가능 | 비타민 D |
@@ -445,23 +448,23 @@ Clayden의 요약표도 같다. [1,3]H 대면·불가능, [1,5]H 초면·쉬움,
 
 | 반응 | 출발물 → 생성물 | 조건 | 추진력 | 입체화학 | 출처 |
 |---|---|---|---|---|---|
-| 방향족 Claisen | allyl 아릴 ether → *o*-allylphenol | 가열 | 방향족성 tautomerization | allyl group inside-out | Clayden p.909–910 |
-| 지방족 Claisen | allyl 바이닐 ether → $\gamma,\delta$-unsaturated aldehyde | 가열 | C=O 생성 | 의자형 TS, *E* | p.910–911 |
-| acetal 교환 + Claisen | allyl alcohol + MeCH(OMe)2 → $\gamma,\delta$-unsaturated aldehyde | EtCO2H, 가열(MeOH 증류) | 위와 같음 | *E* | p.911 |
-| orthoester·orthoamide 변형 | allyl alcohol + RC(OMe)3 또는 DMF dimethyl acetal → $\gamma,\delta$-unsaturated ester·amide | 산, 가열 | 위와 같음 | – | p.912 |
-| Cope(모체) | 헥사-1,5-diene → 자기 자신 | 가열 | 없음(축퇴) | – | p.913 |
-| 옥시-Cope | 헥사-1,5-diene-3-ol → 헥스-5-enal | 가열(느림) | enol → C=O | – | p.913–914 |
-| anion 옥시-Cope | 같은 alcohol → 칼륨 enolate → aldehyde | KH, 가열; H⁺/H2O | enolate 안정화 | 빠름 | p.914 |
-| 아일랜드-Claisen | allyl ester → $\gamma,\delta$-unsaturated carboxylic acid | LDA(필요하면 Me3SiCl); H⁺/H2O | carboxylate 생성 | *E* | p.914 |
-| 긴장 해소 Cope | 3원 고리 포함 1,5-diene → 고리 확장 생성물 | 33 °C, 36 h (100%) | 고리 긴장 해소 | – | p.915 |
+| 방향족 Claisen | $\text{allyl 아릴 ether} \longrightarrow \mathit{o}\ \text{-allylphenol}$ | 가열 | 방향족성 tautomerization | allyl group inside-out | Clayden p.909–910 |
+| 지방족 Claisen | $\text{allyl 바이닐 ether} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$ | 가열 | C=O 생성 | 의자형 TS, *E* | p.910–911 |
+| acetal 교환 + Claisen | $\text{allyl alcohol} + \mathrm{MeCH(OMe)_2} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$ | EtCO2H, 가열(MeOH 증류) | 위와 같음 | *E* | p.911 |
+| orthoester·orthoamide 변형 | $\begin{aligned} & \text{allyl alcohol} + \mathrm{RC(OMe)_3}\ \text{또는}\ \mathrm{DMF}\ \text{dimethyl acetal} \\ & \longrightarrow \gamma,\delta\ \text{-unsaturated ester·amide} \end{aligned}$ | 산, 가열 | 위와 같음 | – | p.912 |
+| Cope(모체) | $\text{헥사-1,5-diene} \longrightarrow \text{자기 자신}$ | 가열 | 없음(축퇴) | – | p.913 |
+| 옥시-Cope | $\text{헥사-1,5-diene-3-ol} \longrightarrow \text{헥스-5-enal}$ | 가열(느림) | enol → C=O | – | p.913–914 |
+| anion 옥시-Cope | $\begin{aligned} & \text{같은 alcohol} \\ & \longrightarrow \text{칼륨 enolate} \\ & \longrightarrow \text{aldehyde} \end{aligned}$ | KH, 가열; H⁺/H2O | enolate 안정화 | 빠름 | p.914 |
+| 아일랜드-Claisen | $\text{allyl ester} \longrightarrow \gamma,\delta\ \text{-unsaturated carboxylic acid}$ | LDA(필요하면 Me3SiCl); H⁺/H2O | carboxylate 생성 | *E* | p.914 |
+| 긴장 해소 Cope | $\text{3원 고리 포함 1,5-diene} \longrightarrow \text{고리 확장 생성물}$ | 33 °C, 36 h (100%) | 고리 긴장 해소 | – | p.915 |
 | 시트랄 합성 | enol ether → (Claisen) → (Cope) → 시트랄 | 가열 | C=O, 콘쥬게이션, 삼치환 alkene | – | p.915 |
-| 피셔 인돌 | phenylhydrazone(enamine형) → diimine → 인돌 | 약산, 가열 | 약한 N–N 절단, 방향족화 | – | p.916 |
-| 크로뮴산 ester [3,3] | 3차 allyl alcohol → 자리 옮긴 enone | CrO3, H⁺ | Cr(VI) 산화 | – | p.916–917 |
-| [2,3] 탄소 anion | benzyl allyl ether → 호모알릴 alcohol | BuLi; H⁺ | 탄소 anion → alkoxide | *E* | p.917 |
-| [2,3] 황 | allyl alcohol → 설펜산 ester → allyl sulfoxide | PhSCl, pyridine | S=O 생성 | – | p.918 |
-| 역 [2,3] 황 | alkylate된 allyl sulfoxide → allyl alcohol | (MeO)3P, MeOH | 친황 포획 | – | p.918 |
-| SeO2 allyl 산화 | alkene → allyl alcohol / 엔알 | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | – | p.919 |
-| [1,5]H 이동 | 5-R-cyclopentadiene ⇌ 1-R, 2-R 이성질체 | 빠른 평형(DA보다 빠를 수 있음) | 더 치환된 diene | 초면 | p.919–921 |
+| 피셔 인돌 | $\begin{aligned} & \text{phenylhydrazone(enamine형)} \\ & \longrightarrow \text{diimine} \\ & \longrightarrow \text{인돌} \end{aligned}$ | 약산, 가열 | 약한 N–N 절단, 방향족화 | – | p.916 |
+| 크로뮴산 ester [3,3] | $\text{3차 allyl alcohol} \longrightarrow \text{자리 옮긴 enone}$ | CrO3, H⁺ | Cr(VI) 산화 | – | p.916–917 |
+| [2,3] 탄소 anion | $\text{benzyl allyl ether} \longrightarrow \text{호모알릴 alcohol}$ | BuLi; H⁺ | 탄소 anion → alkoxide | *E* | p.917 |
+| [2,3] 황 | $\begin{aligned} & \text{allyl alcohol} \\ & \longrightarrow \text{설펜산 ester} \\ & \longrightarrow \text{allyl sulfoxide} \end{aligned}$ | PhSCl, pyridine | S=O 생성 | – | p.918 |
+| 역 [2,3] 황 | $\text{alkylate된 allyl sulfoxide} \longrightarrow \text{allyl alcohol}$ | (MeO)3P, MeOH | 친황 포획 | – | p.918 |
+| SeO2 allyl 산화 | $\text{alkene} \longrightarrow \text{allyl alcohol}\ \mathrm{/}\ \text{엔알}$ | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | – | p.919 |
+| [1,5]H 이동 | $\text{5-R-cyclopentadiene} \rightleftharpoons \mathrm{1{-}R},\ \mathrm{2{-}R}\ \text{이성질체}$ | 빠른 평형(DA보다 빠를 수 있음) | 더 치환된 diene | 초면 | p.919–921 |
 | [1,7]H 이동 | 프로비타민 D2 → 비타민 D2 | 열(빛 불필요) | – | 대면 | p.921–922 |
 
 ---

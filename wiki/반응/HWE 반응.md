@@ -7,7 +7,7 @@ tags: [분류/반응, 범위/Test1, 기출/Test1-2025, 인명반응, 단원/산�
 ---
 # HWE 반응
 
-> phosphonate carbanion (EtO)₂P(O)CH⁻–EWG + aldehyde·ketone → **E-alkene** + 수용성 phosphate 염. [Wittig reaction](위티그%20반응.md)의 phosphonate 변형이다.
+> $\begin{aligned} & \text{phosphonate carbanion}\ \mathrm{(EtO)_2P(O)CH^-{-}EWG} \\ &  + \text{aldehyde·ketone} \\ & \longrightarrow \text{E-alkene} + \text{수용성 phosphate 염} \end{aligned}$. [Wittig reaction](위티그%20반응.md)의 phosphonate 변형이다.
 
 ## 개요
 
@@ -15,11 +15,20 @@ stabilized ylide로 *E*-alkene을 만들 수 있다면, 더 좋은 방법이 따
 
 ## 원리
 
-$(EtO)_2P(O)CH_2C(O)R$ --[염기: EtO− 또는 NaH]--> phosphonate carbanion (P=C, 탄소 anion, enolate로 쓰는 공명 구조)
+
+$$
+\begin{aligned}
+& (EtO)_2P(O)CH_2C(O)R \\
+& \xrightarrow{\text{염기:}\ \mathrm{EtO^-}\ \text{또는}\ \mathrm{NaH}} \\
+& \text{phosphonate carbanion}\ (\mathrm{P{=}C},\ \text{탄소 anion},\  \\
+& \text{enolate로 쓰는 공명 구조})
+\end{aligned}
+$$
+
 
 P와 C=O 사이의 CH₂는 양쪽 기가 음전하를 안정화하므로 산성이 크다. 생긴 carbanion은 enolate 공명 구조로도 그릴 수 있다(→ [enol and enolate](../개념/엔올과%20엔올레이트.md), [alpha-hydrogen acidity](../개념/α-수소의%20산도.md)). 이 carbanion이 carbonyl에 첨가한 뒤 Wittig과 같은 방식으로 4원 고리([oxaphosphetane](../개념/옥사포스페테인.md)형)를 거쳐 phosphate를 내보내며 C=C가 생긴다. (출처: L6c p.36, L8 p.6)
 
-L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide와 같은 부류로 묶는다. $(EtO)_2P(=O)CH_2C(=O)R$ --[EtO− 또는 NaH]-->로 생긴 anion은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[^2] (출처: L7 p.3)
+L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide와 같은 부류로 묶는다. $(EtO)_2P(=O)CH_2C(=O)R \xrightarrow{\mathrm{EtO^-}\ \text{또는}\ \mathrm{NaH}}$로 생긴 anion은 P=O 쪽과 C=O 쪽으로 동시에 비편재화된 세 공명 구조를 갖는다.[^2] (출처: L7 p.3)
 
 ### 메커니즘 단계와 aldol과의 관계
 
@@ -29,7 +38,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 3. alkoxide O⁻가 인을 공격해 4원 고리 intermediate([oxaphosphetane](../개념/옥사포스페테인.md)형)를 만든다.
 4. C–P, O–P 결합이 재배열되며 $(EtO)_2PO_2^-$가 떨어지고 C=C가 생겨 (*E*)-$EtO_2C$–CH=CH–Ph가 된다.
 
-일반식은 $R^1COR^2$ + $R^3O_2C$–$CH(R^4)$–$P(O)(OR^5)_2$ --[Base]--> $R^3O_2C$–$C(R^4)$=$CR^1R^2$이다. L8이 aldol에 앞서 HWE를 다시 꺼내는 이유가 2단계다. HWE에서는 alkoxide가 인에 붙잡혀 alkene으로 가지만, aldol에서는 alkoxide가 그냥 양성자를 받아 OH로 남는다(→ [aldol reaction](알돌%20반응.md)). (출처: L8 p.5, p.6)
+일반식은 $R^1COR^2 + R^3O_2C\ \mathrm{{-}}\ CH(R^4)\ \mathrm{{-}}\ P(O)(OR^5)_2 \xrightarrow{\mathrm{Base}} R^3O_2C\ \mathrm{{-}}\ C(R^4)\ =\ CR^1R^2\ \text{이다}$. L8이 aldol에 앞서 HWE를 다시 꺼내는 이유가 2단계다. HWE에서는 alkoxide가 인에 붙잡혀 alkene으로 가지만, aldol에서는 alkoxide가 그냥 양성자를 받아 OH로 남는다(→ [aldol reaction](알돌%20반응.md)). (출처: L8 p.5, p.6)
 
 생성물은 이치환 alkene에서 *E*-선택성이 높다. ketone과도 잘 반응한다.[^3] (출처: L6c p.36)
 
@@ -42,7 +51,7 @@ L7의 enolate 복습 슬라이드는 이 phosphonate anion을 stabilized ylide�
 
 ## 예
 
-- 2,2-dimethylcyclopentanone + $(EtO)_2P(O)CH_2CO_2Et$ --[NaH]--> ethyl (2,2-dimethylcyclopentylidene)acetate. 그림에서 CO₂Et는 gem-dimethyl 반대쪽으로 그려져 있다. (L6) (출처: L6c p.37)
+- $\begin{aligned} & \text{2,2-dimethylcyclopentanone} + (EtO)_2P(O)CH_2CO_2Et \\ & \xrightarrow{\mathrm{NaH}} \text{ethyl (2,2-dimethylcyclopentylidene)acetate} \end{aligned}$. 그림에서 CO₂Et는 gem-dimethyl 반대쪽으로 그려져 있다. (L6) (출처: L6c p.37)
 - 슬라이드에는 빈칸이 있는 HWE 예가 두 개 더 있다. 하나는 KHMDS를 쓴 분자 간 반응이고, 다른 하나는 NaH/THF를 쓴 분자 내 반응($\beta$-lactam 기질 → 6원 고리가 닫힌 1-carbacephem 골격, 85%)이다([L6 연습 문제](../../practice/L06_Exercises.md) 6번). (L6) (출처: L6c p.37)
 
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)

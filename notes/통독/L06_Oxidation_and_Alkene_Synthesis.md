@@ -55,7 +55,7 @@ $$
 - $\text{geraniol} \xrightarrow{?} \text{geranial}$
 - $\text{geranial} \xrightarrow[\text{(S,S)-Chiraphos}]{\ \mathrm{H_2},\ \mathrm{CO}\ \mathstrut} \text{(+)-citronellal}$ ($\mathrm{Rh(CO)_2acac}$ 촉매)
 - $\text{neral} \xrightarrow[\text{(R,R)-Chiraphos}]{\ \mathrm{H_2},\ \mathrm{CO}\ \mathstrut} \text{(+)-citronellal}$ ($\mathrm{Rh(CO)_2acac}$ 촉매)
-- $\text{(+)-citronellal} \xrightarrow{\mathrm{Al}\ \text{cat.}} \text{(−)-isopulegol} \xrightarrow{\ \mathrm{H_2},\ \mathrm{Ni}\ \text{cat.}\ \mathstrut} \text{(−)-menthol}$
+- $\begin{aligned} & \text{(+)-citronellal} \\ & \xrightarrow{\mathrm{Al}\ \text{cat.}} \text{(−)-isopulegol} \\ & \xrightarrow{\ \mathrm{H_2},\ \mathrm{Ni}\ \text{cat.}\ \mathstrut} \text{(−)-menthol} \end{aligned}$
 
 ![geranial (E) → (+)-citronellal](../../figures/L05/geranial_citronellal.svg)
 
@@ -81,7 +81,7 @@ $$
 
 슬라이드의 표를 보면 1차 alcohol은 aldehyde를 거쳐 carboxylic acid이 되고, 2차 alcohol은 ketone이 되며, 3차 alcohol은 "No reaction"이다.
 
-- $\mathrm{RCH_2OH} \xrightarrow{\mathrm{O}} \mathrm{RCHO} \xrightarrow{\mathrm{O}} \mathrm{RCO_2H}$
+- $\begin{aligned} & \mathrm{RCH_2OH} \\ & \xrightarrow{\mathrm{O}} \mathrm{RCHO} \\ & \xrightarrow{\mathrm{O}} \mathrm{RCO_2H} \end{aligned}$
 - $\mathrm{R_2CHOH} \xrightarrow{\mathrm{O}} \mathrm{R_2C{=}O}$
 - $\mathrm{R_3COH} \xrightarrow{\mathrm{O}} \text{반응 없음}$
 
@@ -99,7 +99,9 @@ $$
 
 (출처: L6c p.6)
 
-## 2. alcohol → aldehyde/ketone: 순한 산화제들
+$$
+\mathrm{\#\#}\ 2.\ \text{alcohol} \longrightarrow \text{aldehyde/ketone: 순한 산화제들}
+$$
 
 > 개념 문서: [DMP](../../wiki/시약/DMP.md), [Swern oxidation](../../wiki/반응/스원%20산화.md), [TPAP](../../wiki/시약/TPAP.md), [NMO](../../wiki/시약/NMO.md), [MnO2](../../wiki/시약/MnO2.md), [TEMPO oxidation](../../wiki/반응/TEMPO%20산화.md), [TEMPO](../../wiki/시약/TEMPO.md), [alcohol oxidation](../../wiki/반응/알코올%20산화.md)
 
@@ -139,14 +141,18 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 - $\mathrm{PhCH_2OH} \xrightarrow[(2)\ \mathrm{Et_3N}]{\ (1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온}\ \mathstrut} \mathrm{PhCHO}$
 
-  (1차 → aldehyde)
+$$
+(\text{1차}) \longrightarrow \text{aldehyde)}
+$$
 - $\text{cyclohexanol} \xrightarrow[(2)\ \mathrm{Et_3N}]{\ (1)\ \mathrm{DMSO},\ \mathrm{(COCl)_2},\ \text{저온}\ \mathstrut} \text{cyclohexanone}$
 
-  (2차 → ketone)
+$$
+(\text{2차}) \longrightarrow \text{ketone)}
+$$
 
 ![PhCH2OH → PhCHO (Swern)](../../figures/L06/swern_benzyl.svg)
 
-그림: 1차 alcohol → aldehyde.
+그림: $\text{1차 alcohol} \longrightarrow \text{aldehyde}$.
 
 ![PhCH2OH → PhCHO Swern 종합 메커니즘](../../figures/L06/swern_benzyl_mech.svg)
 
@@ -154,7 +160,7 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 
 ![cyclohexanol → cyclohexanone (Swern)](../../figures/L06/swern_cyclohexanol.svg)
 
-그림: 2차 alcohol → ketone.
+그림: $\text{2차 alcohol} \longrightarrow \text{ketone}$.
 
 ![cyclohexanol → cyclohexanone Swern 종합 메커니즘](../../figures/L06/swern_cyclohexanol_mech.svg)
 
@@ -165,7 +171,7 @@ DMP는 좋은 시약이지만 비싸다. 대량으로 반응시킬 때는 어떻
 그런데 "S–Cl"이라는 활성종은 어떻게 생길까? 슬라이드에는 메커니즘이 없으므로 교과서의 표준 설명으로 보충한다.[3]
 
 1. DMSO의 O가 (COCl)2를 공격한다. 이어서 CO, CO2, Cl−가 떨어져 나가면 chlorodimethylsulfonium 이온 Me2S+–Cl이 생긴다. 이것이 "S–Cl" 활성종이다.
-2. alcohol O가 S+를 공격하고 Cl−가 떠난다 → alkoxysulfonium 이온 R2CH–O–S+Me2.
+2. $\begin{aligned} & \text{alcohol O가 S+를 공격하고 Cl−가 떠난다} \\ & \longrightarrow \text{alkoxysulfonium 이온}\ \mathrm{R_2CH{-}O{-}S^+Me_2} \end{aligned}$.
 3. Et3N이 S-methyl의 H를 떼어 내 sulfonium 일리드를 만든다.
 4. 일리드의 CH2−가 5원 고리 transition state를 거쳐 분자 내에서 카비놀 $\alpha$-H를 떼어 낸다. 그러면 C=O와 Me2S가 생긴다.
 
@@ -215,7 +221,7 @@ $$
 
 (KBr 0.1 mol equiv, TEMPO 0.01 mol equiv)
 
-슬라이드의 예는 1-heptanol → heptanal, cinnamyl alcohol(PhCH=CHCH2OH) → cinnamaldehyde(PhCH=CHCHO)이며, 두 번째 예에서 C=C는 그대로 남는다.
+$\begin{aligned} & \text{슬라이드의 예는 1-heptanol} \\ & \longrightarrow \text{heptanal},\ \text{cinnamyl}\ \text{alcohol}(\mathrm{PhCH{=}CHCH_2OH}) \\ & \longrightarrow \text{cinnamaldehyde(PhCH=CHCHO)} \end{aligned}$이며, 두 번째 예에서 C=C는 그대로 남는다.
 
 그런데 TEMPO가 1 mol%만 있어도 반응이 끝까지 가는 이유는 무엇일까? 답은 촉매 순환에 있다. 일종의 산화 릴레이로 보면 된다.
 
@@ -247,7 +253,7 @@ $$
 슬라이드의 촉매 순환은 두 반쪽으로 나뉜다.
 
 1. 촉매 catalyst oxidation: (bpy)CuI–NMI + TEMPO-H + ½ O2 → (bpy)CuII(OH)–NMI + TEMPO•
-2. 기질 substrate oxidation: CuII–OH + TEMPO• + RCH2OH → RCHO + H2O + CuI + TEMPO-H
+2. 기질 substrate oxidation: $\mathrm{CuII{-}OH} + \mathrm{TEMPO•} + \mathrm{RCH_2OH} \longrightarrow \mathrm{RCHO} + \mathrm{H_2O} + \mathrm{CuI} + \mathrm{TEMPO{-}H}$
 
 결국 O2가 물이 되면서 그만큼 alcohol이 산화된다. 화학선택성 예로는 내부 C=C(E)를 가진 1차 alcohol이 [(bpy)CuI(NMI)]X(X− = Br−, OTf−, BF4−, PF6−), TEMPO, MeCN, 공기, 22 °C 조건에서 aldehyde가 되고 C=C는 손대지 않는 반응이 나온다.[6]
 
@@ -258,7 +264,10 @@ $$
 우리 몸도 alcohol을 같은 순서로 산화한다. 다만 시약 대신 효소와 NAD+를 쓴다.
 
 $$
-\begin{aligned} &\text{ethanol} \xrightarrow{\mathrm{ADH},\ \mathrm{NAD^+}\ \to\ \mathrm{NADH}\ +\ \mathrm{H^+}} \text{acetaldehyde} \cr &\qquad \xrightarrow[\mathrm{NAD^+}\ \to\ \mathrm{NADH}\ +\ \mathrm{H^+}]{\ \mathrm{ALDH_2}\ \mathstrut} \text{acetate} \end{aligned}
+\begin{aligned}
+& \text{ethanol} \xrightarrow{\mathrm{ADH},\ \mathrm{NAD^+}\ \to\ \mathrm{NADH}\ +\ \mathrm{H^+}} \text{acetaldehyde} \\
+& \qquad \xrightarrow[\mathrm{NAD^+}\ \to\ \mathrm{NADH}\ +\ \mathrm{H^+}]{\ \mathrm{ALDH_2}\ \mathstrut} \text{acetate}
+\end{aligned}
 $$
 
 ![ethanol → acetaldehyde (ADH)](../../figures/L06/ethanol_adh.svg)
@@ -277,12 +286,17 @@ $$
 
 > 개념 문서: [Pinnick oxidation](../../wiki/반응/피닉%20산화.md), [NaClO2](../../wiki/시약/NaClO2.md), [Jones oxidation](../../wiki/반응/존스%20산화.md), [Jones reagent](../../wiki/시약/존스%20시약.md), [alcohol oxidation](../../wiki/반응/알코올%20산화.md)
 
-### 3.1 aldehyde → carboxylic acid: Pinnick oxidation (1981)
+$$
+\mathrm{\#\#\#}\ 3.1\ \text{aldehyde} \longrightarrow \text{carboxylic acid: Pinnick oxidation}\ (1981)
+$$
 
 aldehyde를 이미 손에 넣었다면 산으로 가는 마지막 한 걸음은 무엇으로 할까? 슬라이드의 답은 Pinnick 산화다. NaClO2(sodium chlorite)와 약산성 완충제 NaH2PO4를 쓰며, 순하고 싸고 선택적이다.
 
 $$
-\begin{aligned} &\mathrm{TMS}\ \text{치환 thienothiophene 알데하이드} \xrightarrow[\mathrm{NaH_2PO_4}]{\ \mathrm{NaClO_2}\ \mathstrut} \text{카복실산} \cr &\qquad \xrightarrow[\text{IPA/water}]{\mathrm{KOH},\ \text{그 다음}\ \mathrm{HCl}} \mathrm{PF{-}07208254} \end{aligned}
+\begin{aligned}
+& \mathrm{TMS}\ \text{치환 thienothiophene 알데하이드} \xrightarrow[\mathrm{NaH_2PO_4}]{\ \mathrm{NaClO_2}\ \mathstrut} \text{카복실산} \\
+& \qquad \xrightarrow[\text{IPA/water}]{\mathrm{KOH},\ \text{그 다음}\ \mathrm{HCl}} \mathrm{PF{-}07208254}
+\end{aligned}
 $$
 
 (용매 $\mathrm{2{-}MeTHF/DMSO/H_2O}$, $\mathrm{NaHSO_3}$ quench)
@@ -309,12 +323,17 @@ $$
 
 (출처: L6c p.15)
 
-### 3.2 1차 alcohol → carboxylic acid: Jones 산화와 "3 = 1 + 2"
+$$
+\mathrm{\#\#\#}\ 3.2\ \text{1차 alcohol} \longrightarrow \text{carboxylic acid: Jones 산화와}\ \mathrm{"3}\ =\ 1 + \mathrm{2"}
+$$
 
 1차 alcohol을 한 번에 carboxylic acid까지 보내려면 강한 산화제가 필요하다. 대표가 Jones oxidation(1946)다. 크롬산 H2CrO4를 쓰는데, CrO3나 다이크로뮴산염(Cr2O7^2−)을 acetic acid이나 묽은 sulfuric acid에 녹여 만든다. 즉 강산성 조건이다.
 
 $$
-\begin{aligned} &\mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CH_2OH} \cr &\qquad \xrightarrow{\ \mathrm{CrO_3},\ \mathrm{H_2SO_4}\ \mathstrut} \mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CO_2H} \end{aligned}
+\begin{aligned}
+& \mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CH_2OH} \\
+& \qquad \xrightarrow{\ \mathrm{CrO_3},\ \mathrm{H_2SO_4}\ \mathstrut} \mathrm{N{-}Cbz}\ \text{피롤리딘-}\mathrm{CO_2H}
+\end{aligned}
 $$
 
 (수율 >86%)
@@ -328,20 +347,24 @@ $$
 그렇다면 섬세한 기질은 어떻게 할까? 슬라이드의 답은 "두 번에 나눠서 순하게"다. 먼저 순한 산화제로 aldehyde까지 산화하고, 그 다음 Pinnick으로 산까지 보낸다. Boger의 vancomycin 계열 합성(JACS 1999)이 예다.
 
 $$
-\mathrm{R}\ =\ \mathrm{CH_2OH} \xrightarrow{\text{Dess–Martin}} \mathrm{R}\ =\ \mathrm{CHO} \xrightarrow{\ \mathrm{NaClO_2}\ \mathstrut} \mathrm{R}\ =\ \mathrm{CO_2H}
+\begin{aligned}
+& \mathrm{R}\ =\ \mathrm{CH_2OH} \\
+& \xrightarrow{\text{Dess–Martin}} \mathrm{R}\ =\ \mathrm{CHO} \\
+& \xrightarrow{\ \mathrm{NaClO_2}\ \mathstrut} \mathrm{R}\ =\ \mathrm{CO_2H}
+\end{aligned}
 $$
 
 (2단계 합 77%)
 
-요약 슬라이드는 이것을 "3 = 1 + 2"라고 적는다. 즉 (1차 alcohol → 산) = (alcohol → aldehyde) + (aldehyde → 산)이다.[8]
+요약 슬라이드는 이것을 "3 = 1 + 2"라고 적는다. $\begin{aligned} & \text{즉}\ (\text{1차 alcohol}) \\ & \longrightarrow \text{산)}\ =\ (\text{alcohol}) \\ & \longrightarrow \text{aldehyde)}\ +\ (\text{aldehyde}) \\ & \longrightarrow \text{산)이다.[8]} \end{aligned}$
 
 (출처: L6c p.16–17)
 
 ### 3.3 한눈에 정리 (요약 슬라이드)
 
-1. 순한 산화(alcohol → aldehyde/ketone): a. DMP, b. Swern(대량 규모), c. TPAP/NMO, d. MnO2(allyl/benzyl alcohol), e. TEMPO, f. Cu(I)–TEMPO 호기성 산화
-2. aldehyde → carboxylic acid: g. Pinnick(NaClO2) + 2-methyl-2-butene(또는 DMSO)
-3. 1차 alcohol → carboxylic acid: h. Jones(CrO3/H3O+), i. 3 = 1 + 2
+1. $\text{순한}\ \text{산화}(\text{alcohol}) \longrightarrow \text{aldehyde/ketone):}\ \mathrm{a}$. DMP, b. Swern(대량 규모), c. TPAP/NMO, d. MnO2(allyl/benzyl alcohol), e. TEMPO, f. Cu(I)–TEMPO 호기성 산화
+2. $\text{aldehyde} \longrightarrow \text{carboxylic acid:}\ \mathrm{g}$. Pinnick(NaClO2) + 2-methyl-2-butene(또는 DMSO)
+3. $\text{1차 alcohol} \longrightarrow \text{carboxylic acid: h}$. Jones(CrO3/H3O+), i. 3 = 1 + 2
 
 (출처: L6c p.17)
 
@@ -354,7 +377,12 @@ $$
 먼저 KMnO4는 매우 강한 산화제로, benzyl methyl group(toluene 유도체 Ar–CH3)를 carboxylic acid Ar–CO2H까지 산화한다. 슬라이드는 이것을 사카린 합성으로 보여 준다.
 
 $$
-\begin{aligned} &\text{toluene} \xrightarrow{\ \mathrm{ClSO_2OH}\ \mathstrut} \text{o-toluenesulfonyl chloride} \cr &\qquad \xrightarrow{\ \mathrm{(NH_4)_2CO_3}\ \mathstrut} \text{o-toluenesulfonamide} \cr &\qquad \xrightarrow{\ \mathrm{KMnO_4}\ \mathstrut} \text{2-sulfamoylbenzoic acid}\ (\text{분리 안 함}) \cr &\qquad \xrightarrow{\mathrm{HCl}} \text{saccharin} \end{aligned}
+\begin{aligned}
+& \text{toluene} \xrightarrow{\ \mathrm{ClSO_2OH}\ \mathstrut} \text{o-toluenesulfonyl chloride} \\
+& \qquad \xrightarrow{\ \mathrm{(NH_4)_2CO_3}\ \mathstrut} \text{o-toluenesulfonamide} \\
+& \qquad \xrightarrow{\ \mathrm{KMnO_4}\ \mathstrut} \text{2-sulfamoylbenzoic acid}\ (\text{분리 안 함}) \\
+& \qquad \xrightarrow{\mathrm{HCl}} \text{saccharin}
+\end{aligned}
 $$
 
 (수율 o-toluenesulfonamide 89%, saccharin 58%)
@@ -400,7 +428,10 @@ alkene은 산업적으로는 석유에서 대량으로 얻는다. 탄화수소�
 익숙한 E2 반응도 이 점에서는 불만족스럽다.
 
 $$
-\begin{aligned} &\text{2-bromopentane} \xrightarrow{\mathrm{NaOEt}} (\mathit{E})\text{-pent-2-ene} + (\mathit{Z})\text{-pent-2-ene} \cr &\qquad + \text{pent-1-ene} \end{aligned}
+\begin{aligned}
+& \text{2-bromopentane} \xrightarrow{\mathrm{NaOEt}} (\mathit{E})\text{-pent-2-ene} + (\mathit{Z})\text{-pent-2-ene} \\
+& \qquad + \text{pent-1-ene}
+\end{aligned}
 $$
 
 ((E)-pent-2-ene 51%; (Z)-pent-2-ene 18%; pent-1-ene 31%)
@@ -426,7 +457,10 @@ E2가 일어나려면 H와 Br이 anti-periplanar로 놓여야 한다. E-alkene�
 alkyne에 H2를 두 번 붙이면 알케인이 되는데, 한 번만 붙이고 멈출 수는 없을까? Lindlar 촉매가 그 답이다. Pd를 CaCO3 지지체에 올리고 Pb(OAc)2로 "피독(poisoning)"해 활성을 일부러 낮춘 촉매다. alkyne을 이 촉매에서 H2와 반응시키면 cis(Z)-alkene에서 멈춘다.[10]
 
 $$
-\begin{aligned} &\mathrm{R{-}C{\equiv}C{-}}\text{(}\gamma\text{-lactone)} \cr &\qquad \xrightarrow{\ \mathrm{H_2},\ \text{Lindlar}\ \mathstrut} \text{Japanese beetle pheromone}\ (\mathrm{Z}\ \text{이성질체만}) \end{aligned}
+\begin{aligned}
+& \mathrm{R{-}C{\equiv}C{-}}\text{(}\gamma\text{-lactone)} \\
+& \qquad \xrightarrow{\ \mathrm{H_2},\ \text{Lindlar}\ \mathstrut} \text{Japanese beetle pheromone}\ (\mathrm{Z}\ \text{이성질체만})
+\end{aligned}
 $$
 
 (수율 80–90%)
@@ -453,10 +487,10 @@ $$
 
 메커니즘은 단일전자 single electron transfer, SET이고, radical이 intermediate로 나온다.
 
-1. Na가 전자 1개를 alkyne에 준다 → radical anion.
+1. $\text{Na가 전자 1개를 alkyne에 준다} \longrightarrow \text{radical anion}$.
 2. t-BuOH가 음전하를 띤 탄소를 protonation한다 → 비닐 vinyl radical.
-3. Na가 두 번째 전자를 준다 → 비닐 anion(vinyl anion). 이때 anion은 R1과 R2가 서로 멀어지는 trans 배치를 취한다.
-4. t-BuOH가 다시 protonation한다 → E-alkene.
+3. $\text{Na가 두 번째 전자를 준다} \longrightarrow \text{비닐}\ \text{anion}(\text{vinyl anion})$. 이때 anion은 R1과 R2가 서로 멀어지는 trans 배치를 취한다.
+4. $\mathit{t}\text{-}\ \mathrm{BuOH}\text{가}\ \text{다시 protonation한다} \longrightarrow \text{E-alkene}$.
 
 핵심은 3단계다. 두 H가 한꺼번에 들어오는 Lindlar와 달리, 여기서는 intermediate가 스스로 덜 붐비는 trans 모양을 고를 시간이 있다.
 
@@ -490,12 +524,16 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 1. SN2: PPh3(nucleophile)가 1차 또는 2차 halide을 공격해 phosphonium염이 된다. 예:
 
-   $\mathrm{PPh_3} + \mathrm{CH_3Br} \xrightarrow{\ \mathrm{S_{\mathrm{N}}2}\ \mathstrut} \mathrm{Ph_3P^+CH_3\thinspace Br^-}$
+   $$
+\mathrm{PPh_3} + \mathrm{CH_3Br} \xrightarrow{\ \mathrm{S_{\mathrm{N}}2}\ \mathstrut} \mathrm{Ph_3P^+CH_3\thinspace Br^-}
+$$
 
    (methyltriphenylphosphonium bromide)
 2. deprotonation: P+ 옆의 C–H는 P+ 때문에 산성이 커져 있으므로 염기로 뗄 수 있다. 예:
 
-   $\mathrm{Ph_3P^+CH_3\thinspace Br^-} \xrightarrow[\mathrm{THF}]{\mathrm{BuLi}} \mathrm{Ph_3P{=}CH_2}$
+   $$
+\mathrm{Ph_3P^+CH_3\thinspace Br^-} \xrightarrow[\mathrm{THF}]{\mathrm{BuLi}} \mathrm{Ph_3P{=}CH_2}
+$$
 
    (methylenetriphenylphosphorane)
 
@@ -503,7 +541,7 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 
 그림: 1단계(SN2). $PPh_3$ 의 P(파랑, nucleophile) 비공유 전자쌍이 $CH_3\text{–}Br$ 의 탄소(빨강, electrophile)를 Br 반대편에서 공격하고, C–Br 결합(빨강) 전자는 Br⁻로 떠난다. 새로 생긴 P–C 결합은 초록이다. 이어서 BuLi가 P⁺ 옆 C–H를 떼어 내면 일리드 $Ph_3P=CH_2$ 가 된다(2단계는 그림 아래 문구로만 적었다).
 
-일반화하면 $\mathrm{PPh_3} + \mathrm{X{-}CH_2R} \longrightarrow \mathrm{Ph_3P^+{-}CH_2R} \xrightarrow[\mathrm{\mathit{t}\text{-}BuOK}]{\mathrm{PhLi},\ \mathrm{\mathit{n}\text{-}BuLi}} \mathrm{Ph_3P{=}CHR}$이다. X는 I, Br, Cl, OTs이고, R은 alkyl뿐 아니라 Ar, vinyl, –C(=O)R1, –C(=O)OR1, –SO2R1, –CN일 수도 있다.
+일반화하면 $\begin{aligned} & \mathrm{PPh_3} + \mathrm{X{-}CH_2R} \\ & \longrightarrow \mathrm{Ph_3P^+{-}CH_2R} \\ & \xrightarrow[\mathrm{\mathit{t}\text{-}BuOK}]{\mathrm{PhLi},\ \mathrm{\mathit{n}\text{-}BuLi}} \mathrm{Ph_3P{=}CHR} \end{aligned}$이다. X는 I, Br, Cl, OTs이고, R은 alkyl뿐 아니라 Ar, vinyl, –C(=O)R1, –C(=O)OR1, –SO2R1, –CN일 수도 있다.
 
 (출처: L6c p.26)
 
@@ -512,7 +550,10 @@ Wittig 반응의 주인공은 인 phosphorus ylide다. 일리드는 이웃한 �
 Wittig 반응은 carbonyl 화합물(aldehyde 또는 ketone)과 인 phosphorane이 만나 C=C가 생기는 반응이다. 쉽게 말해 carbonyl의 =O 자리에 일리드의 =CHR이 들어가고, 산소는 Ph3P=O로 빠져나간다.
 
 $$
-\begin{aligned} &\text{cyclohexanone} + \mathrm{Ph_3P{=}CH_2} \longrightarrow \text{methylenecyclohexane} \cr &\qquad + \mathrm{Ph_3P{=}O} \end{aligned}
+\begin{aligned}
+& \text{cyclohexanone} + \mathrm{Ph_3P{=}CH_2} \longrightarrow \text{methylenecyclohexane} \\
+& \qquad + \mathrm{Ph_3P{=}O}
+\end{aligned}
 $$
 
 (수율 86%)
@@ -531,7 +572,11 @@ $$
 산업적 예로는 BASF의 비타민 A 합성이 있다.
 
 $$
-\begin{aligned} &\mathrm{C_{15}}\ \text{폴리엔 알릴}\ \text{포스포늄염}(\mathrm{{-}CH_2P^+Ph_3}) \cr &\qquad + \mathrm{OHC{-}C(CH_3){=}CH{-}CH_2OAc} \cr &\qquad \xrightarrow[\mathrm{MeOH}]{\mathrm{NaOMe}} \text{vitamin}\ \mathrm{A}\ \text{acetate} \end{aligned}
+\begin{aligned}
+& \mathrm{C_{15}}\ \text{폴리엔 알릴}\ \text{포스포늄염}(\mathrm{{-}CH_2P^+Ph_3}) \\
+& \qquad + \mathrm{OHC{-}C(CH_3){=}CH{-}CH_2OAc} \\
+& \qquad \xrightarrow[\mathrm{MeOH}]{\mathrm{NaOMe}} \text{vitamin}\ \mathrm{A}\ \text{acetate}
+\end{aligned}
 $$
 
 ![C15 phosphonium + C5 aldehyde → vitamin A acetate](../../figures/L06/wittig_vitamin_a.svg)
@@ -549,7 +594,10 @@ $$
 안정화 stabilized ylide는 음전하 옆에 C=O 같은 공액·anion 안정화 치환기가 있다. 음전하가 enolate처럼 산소로 퍼질 수 있으므로(R = H, OR, alkyl인 Ph3P=CH–C(O)R), 만들기 쉽다.
 
 $$
-\begin{aligned} &\mathrm{BrCH_2CO_2R} \xrightarrow{\ \mathrm{PPh_3}\ \mathstrut} \mathrm{Ph_3P^+CH_2CO_2R} \cr &\qquad \xrightarrow{\ \mathrm{Na_2CO_3}\ \mathstrut} \mathrm{Ph_3P{=}CHCO_2R} \end{aligned}
+\begin{aligned}
+& \mathrm{BrCH_2CO_2R} \xrightarrow{\ \mathrm{PPh_3}\ \mathstrut} \mathrm{Ph_3P^+CH_2CO_2R} \\
+& \qquad \xrightarrow{\ \mathrm{Na_2CO_3}\ \mathstrut} \mathrm{Ph_3P{=}CHCO_2R}
+\end{aligned}
 $$
 
 ![BrCH2CO2Et + PPh3 → phosphonium salt (R = Et 예시)](../../figures/L06/ylide_ester_1.svg)
@@ -567,7 +615,11 @@ $$
 비안정화 unstabilized ylide는 그런 치환기가 없다(R = alkyl). 음전하가 탄소에 그대로 몰려 있으므로 강염기가 필요하다.
 
 $$
-\begin{aligned} &\text{cyclopentyl bromide} + \mathrm{PPh_3} \cr &\qquad \xrightarrow{\ \mathrm{S_{\mathrm{N}}2}\ \mathstrut} \text{cyclopentyltriphenylphosphonium bromide} \cr &\qquad \xrightarrow{\mathrm{BuLi}} \text{cyclopentylidene–}\mathrm{PPh_3} \end{aligned}
+\begin{aligned}
+& \text{cyclopentyl bromide} + \mathrm{PPh_3} \\
+& \qquad \xrightarrow{\ \mathrm{S_{\mathrm{N}}2}\ \mathstrut} \text{cyclopentyltriphenylphosphonium bromide} \\
+& \qquad \xrightarrow{\mathrm{BuLi}} \text{cyclopentylidene–}\mathrm{PPh_3}
+\end{aligned}
 $$
 
 ![cyclopentyl bromide + PPh3 → phosphonium bromide](../../figures/L06/ylide_cyclopentyl_1.svg)
@@ -591,15 +643,17 @@ $$
 슬라이드가 주는 일반 규칙은 두 줄이다.
 
 - 안정화 일리드 → E-선택적
-  - $\mathrm{Ph_3P{=}CHCO_2Et} + \mathrm{OHC{-}CH{=}CH{-}}\text{(acetonide)} \longrightarrow \mathrm{EtO_2C{-}CH{=}CH{-}CH{=}CH{-}}\text{(acetonide)}\ (\text{모두}\ \mathrm{E})$ (수율 96%)
+  - $\begin{aligned} & \mathrm{Ph_3P{=}CHCO_2Et} + \mathrm{OHC{-}CH{=}CH{-}}\text{(acetonide)} \\ & \longrightarrow \mathrm{EtO_2C{-}CH{=}CH{-}CH{=}CH{-}}\text{(acetonide)}\ (\text{모두}\ \mathrm{E}) \end{aligned}$ (수율 96%)
   - 빈칸 예:
 
-    $[?] + \mathrm{OHC{-}}\text{(epoxide)}\mathrm{{-}THF}\ \text{유도체} \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots\ (\text{E-선택적})$
+    $$
+[?] + \mathrm{OHC{-}}\text{(epoxide)}\mathrm{{-}THF}\ \text{유도체} \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots\ (\text{E-선택적})
+$$
 
     (연습 문제 4)
 - 비안정화 일리드 → Z-선택적
-  - $\mathrm{(CH_3)_2CH(CH_2)_4{-}CH{=}PPh_3}\ \text{계열 알킬 일리드} + \mathrm{\mathit{n}\text{-}C_{13}H_{27}CHO} \longrightarrow \text{Z-알켄}\ (\text{모두}\ \mathrm{Z})$ (수율 91%)
-  - dihydropyran CH2–일리드 + acetonide로 보호된 당 aldehyde → Z만 생긴다.
+  - $\begin{aligned} & \mathrm{(CH_3)_2CH(CH_2)_4{-}CH{=}PPh_3}\ \text{계열 알킬 일리드} + \mathrm{\mathit{n}\text{-}C_{13}H_{27}CHO} \\ & \longrightarrow \text{Z-알켄}\ (\text{모두}\ \mathrm{Z}) \end{aligned}$ (수율 91%)
+  - $\begin{aligned} & \text{dihydropyran}\ \mathrm{CH_2{-}}\text{일리드} \\ &  + \text{acetonide로 보호된 당 aldehyde} \\ & \longrightarrow \text{Z만 생긴다} \end{aligned}$.
 
 (출처: L6c p.30–31)
 
@@ -612,7 +666,10 @@ $$
 3. oxaphosphetane이 제거 반응으로 분해되면서 C–P와 C–O 결합이 끊어지고, C=C와 P=O가 생긴다.
 
 $$
-\begin{aligned} &\text{cyclopentylidene–}\mathrm{PPh_3} + \mathrm{PhCHO} \cr &\qquad \longrightarrow \text{benzylidenecyclopentane} + \mathrm{Ph_3P{=}O} \end{aligned}
+\begin{aligned}
+& \text{cyclopentylidene–}\mathrm{PPh_3} + \mathrm{PhCHO} \\
+& \qquad \longrightarrow \text{benzylidenecyclopentane} + \mathrm{Ph_3P{=}O}
+\end{aligned}
 $$
 
 (수율 65%)
@@ -649,7 +706,10 @@ $$
 안정화 일리드로 E-alkene을 만들 수 있다면, 더 좋은 방법이 따로 필요할까? 슬라이드의 답은 HWE 반응이다. 1953년 Wittig이 phosphonium 일리드로 olefin 합성을 보고했고, 1958년 Horner가 phosphonium 대신 phosphonate로 안정화된 phosphonate-stabilized carbanion을 쓰는 변형을 발표했다. 이후 Wadsworth와 Emmons가 적용 범위를 넓혔다.[14]
 
 $$
-\begin{aligned} &\mathrm{(EtO)_2P(O)CH_2C(O)R} \cr &\qquad \xrightarrow{\text{염기:}\ \mathrm{EtO^-}\ \text{또는}\ \mathrm{NaH}} \text{포스포네이트 카바니온} \end{aligned}
+\begin{aligned}
+& \mathrm{(EtO)_2P(O)CH_2C(O)R} \\
+& \qquad \xrightarrow{\text{염기:}\ \mathrm{EtO^-}\ \text{또는}\ \mathrm{NaH}} \text{포스포네이트 카바니온}
+\end{aligned}
 $$
 
 (P=C, 탄소 anion, enolate로 쓰는 공명 구조)
@@ -659,7 +719,10 @@ $$
 보충: 그럼 안정화 Wittig 일리드는 왜 부족할까? 이름 그대로 너무 안정하기 때문이다. Ph<sub>3</sub>P=CHCHO 같은 일리드는 물에서 재결정할 수 있을 정도이고, 원료 phosphonium염보다도 안정하다. 안정한 만큼 반응성이 낮아 ketone처럼 덜 친전자적인 상대와는 잘 반응하지 않는다. 그래서 같은 E-선택적 olefination을 하되, 더 반응성 있는 phosphonate carbanion으로 바꾼 것이 HWE다. (보충 근거: Clayden p.692)
 
 $$
-\begin{aligned} &\text{2,2-dimethylcyclopentanone} + \mathrm{(EtO)_2P(O)CH_2CO_2Et} \cr &\qquad \xrightarrow{\mathrm{NaH}} \text{ethyl (2,2-dimethylcyclopentylidene)acetate} \end{aligned}
+\begin{aligned}
+& \text{2,2-dimethylcyclopentanone} + \mathrm{(EtO)_2P(O)CH_2CO_2Et} \\
+& \qquad \xrightarrow{\mathrm{NaH}} \text{ethyl (2,2-dimethylcyclopentylidene)acetate}
+\end{aligned}
 $$
 
 ![2,2-dimethylcyclopentanone + (EtO)2P(O)CH2CO2Et → ethyl (2,2-dimethylcyclopentylidene)acetate](../../figures/L06/hwe_dimethylcyclopentanone.svg)
@@ -676,7 +739,7 @@ $$
 
 ### 7.8 요약
 
-- alkyne → alkene: Z는 H2 + Lindlar catalyst, E는 Na/NH3.
+- $\text{alkyne} \longrightarrow \text{alkene: Z는}\ \mathrm{H_2} + \text{Lindlar catalyst},\ \text{E는}\ \mathrm{Na/NH_3}$.
 - Wittig: Z는 비안정화 일리드, E는 안정화 일리드 또는 HWE reaction.
 
 (출처: L6c p.38)
@@ -703,8 +766,8 @@ $$
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | ester 부분 환원 | DIBAL-H, hexane, −70 °C; H3O+ | aldehyde | – | – | tetrahedral intermediate가 저온에서 안정함 (p.2) |
-| DMP oxidation | Dess–Martin periodinane, CH2Cl2 | 1°→RCHO, 2°→ketone | – | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
-| Swern oxidation | (COCl)2, DMSO, DCM, −78 °C; NEt3 | 1°→RCHO, 2°→ketone | 3° OH 영향 없음 | – | 부산물 Me2S, CO, CO2, HCl (p.8–9) |
+| DMP oxidation | Dess–Martin periodinane, CH2Cl2 | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | – | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
+| Swern oxidation | (COCl)2, DMSO, DCM, −78 °C; NEt3 | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | 3° OH 영향 없음 | – | 부산물 Me2S, CO, CO2, HCl (p.8–9) |
 | Ley–Griffith | TPAP(촉매), NMO(최종 산화제) | aldehyde/ketone | – | – | Ru(VII)/Ru(V) 순환 (p.10) |
 | MnO2 산화 | MnO2 | allyl/benzyl C=O | allyl·benzyl OH만 산화 | C=C 유지 | 일반 2° OH는 남음 (p.10) |
 | TEMPO oxidation | TEMPO (0.01 equiv), NaOCl, KBr (0.1 equiv), NaHCO3, CH2Cl2–H2O, 0 °C | RCHO | 1° alcohol | – | 활성종은 nitro소늄 (p.11–12) |
@@ -733,11 +796,13 @@ $$
 3. (L6c p.25) H2/Lindlar 촉매로 12(HO–CH(Me)–CH=CH(Z)–CH=CH(E)–piperidine)를 100% 수율로 준 출발물 11의 구조를 제시하라.
 4. (L6c p.30) 빈칸:
 
-   $[?] + \mathrm{OHC{-}}\text{(epoxide)}\ldots \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots(\text{E-선택적})$
+   $$
+[?] + \mathrm{OHC{-}}\text{(epoxide)}\ldots \longrightarrow \mathrm{OHC{-}CH{=}CH{-}}\text{(epoxide)}\ldots(\text{E-선택적})
+$$
 
    빈칸 시약은 무엇이며 왜 E가 생기는가?
 5. (L6c p.32) 다음 표적 분자를 Wittig 반응으로 만들 때 필요한 기질(carbonyl + 일리드)을 제안하라. (a) (CH3)2C=CH–CH2CH3 (2-methylpent-2-ene) (b) 3-methylenecyclohexene
-6. (L6c p.37) 빈칸을 채워라. (a) CH3C(=O)CH2CH2CH(OTBS)CH(OTBS)CH2OTBS + [?] --[KHMDS]--> CH3CH=C(CH3)–CH=CH–CH=C(CH3)–CH2CH2…(새 C=C는 ketone 탄소 자리). (b) $\beta$-락탐 N–CH(P(O)(OEt)2)CO2t-Bu와 측쇄 CH2CH2C(=O)CH2OR을 가진 기질 --[NaH, THF, 85%]--> [?]
+6. (L6c p.37) 빈칸을 채워라. ${\small \begin{aligned} & \mathrm{(a)\,CH_3C({=}O)CH_2CH_2CH(OTBS)CH(OTBS)CH_2OTBS} + \mathrm{[?]} \\ & \xrightarrow{\mathrm{KHMDS}} \mathrm{CH_3CH{=}C(CH_3){-}CH{=}CH{-}CH{=}C(CH_3){-}CH_2CH_2\ldots }(\text{새}\ \mathrm{C{=}C}\text{는}\ \text{ketone 탄소 자리}) \end{aligned}}$. $\begin{aligned} & \mathrm{(b)}\ \beta\ \text{-락탐}\ \mathrm{N{-}CH(P(O)(OEt)_2)CO_2t{-}Bu}\text{와}\ \text{측쇄}\  \\ & \mathrm{CH_2CH_2C({=}O)CH_2OR}\text{을}\ \text{가진 기질} \\ & \xrightarrow[\mathrm{THF}]{\mathrm{NaH},\ 85\%} \mathrm{[?]} \end{aligned}$
 7. (L6c p.15) Pinnick 산화에 2-methyl-2-butene을 넣는 이유와, 이것이 HOCl과 반응해 생기는 생성물(regioselectivity 포함)을 쓰라.
 8. (L6c p.23–24) 다음 두 반응의 생성물 입체화학을 쓰고, 두 번째 반응의 메커니즘을 4단계로 서술하라. (a) R1–C≡C–R2 + H2/Lindlar (b) R1–C≡C–R2 + Na, NH3(l), t-BuOH
 

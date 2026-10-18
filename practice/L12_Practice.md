@@ -8,9 +8,9 @@
 
 짝첨가 반응(conjugate addition reactions). 다음 변환을 완성하라.
 
-1. `2-methyl사이클로헥산-1,3-디온 + 메틸 비닐 케톤(methyl vinyl ketone, MVK, CH2=CH-CO-CH3) --[10% NaOH]--> (A)`
-2. `(A) --[피페리딘(piperidine, 촉매), 가열, -H2O]--> (B) (이환 분자, bicyclic molecule)`
-3. 또는 출발물질로부터 `--[EtONa, 가열]--> (B)` (한 용기 반응, one-pot reactions)
+1. $\begin{aligned} & \text{2-methyl사이클로헥산-1,3-디온} + \text{메틸 비닐}\  \\ & \text{케톤}(\text{methyl vinyl ketone},\ \mathrm{MVK},\ \mathrm{CH_2{=}CH{-}CO{-}CH_3}) \\ & \xrightarrow{10\%\ \mathrm{NaOH}} \mathrm{(A)} \end{aligned}$
+2. $\begin{aligned} & \mathrm{(A)} \\ & \xrightarrow[\text{가열}]{\text{피페리딘}(\text{piperidine},\ \text{촉매}),\ \mathrm{{-}H_2O}} \mathrm{(B)}\ (\text{이환 분자},\ \text{bicyclic molecule}) \end{aligned}$
+3. 또는 출발물질로부터 $\xrightarrow[\text{가열}]{\mathrm{EtONa}} \mathrm{(B)}$ (한 용기 반응, one-pot reactions)
 
 ### 공식 풀이
 
@@ -42,8 +42,8 @@ Robinson cyclization = Michael addition(1,5-dicarbonyl 생성) + intramolecular 
 
 다음 변환을 완성하라.
 
-1. `사이클로헵트-2-ene-1-one --[MeLi, CuCl (촉매)]--> (A)` (물이나 산으로 퀜칭하지 않음, without quenching by water or acid)
-2. `(A) --[3-페닐프로판알(PhCH2CH2CHO), 그다음 NH4Cl로 퀜칭]--> (B)`
+1. $\text{사이클로헵트-2-ene-1-one} \xrightarrow{\mathrm{MeLi},\ \mathrm{CuCl}\ (\text{촉매})} \mathrm{(A)}$ (물이나 산으로 퀜칭하지 않음, without quenching by water or acid)
+2. $\mathrm{(A)} \xrightarrow{\substack{\text{3-페닐프로판알}(\mathrm{PhCH_2CH_2CHO}),\  \\ \text{그다음}\ \mathrm{NH_4Cl}\text{로}\ \text{퀜칭}}} \mathrm{(B)}$
 
 ### 공식 풀이
 
@@ -64,7 +64,7 @@ MeLi 같은 유기리튬은 "단단한(hard)" nucleophile여서 enone에 쓰면 
 
 ### 핵심 개념
 
-촉매 Cu(I) + MeLi → 유기구리 종의 1,4-짝첨가 → 위치가 정해진 enolate → aldehyde로 aldol. 두 개의 C-C 결합을 연속 형성.
+$\begin{aligned} & \text{촉매}\ \mathrm{Cu(I)} + \mathrm{MeLi} \\ & \longrightarrow \text{유기구리 종의 1,4-짝첨가} \\ & \longrightarrow \text{위치가 정해진 enolate} \\ & \longrightarrow \text{aldehyde로 aldol} \end{aligned}$. 두 개의 C-C 결합을 연속 형성.
 
 ---
 
@@ -72,17 +72,24 @@ MeLi 같은 유기리튬은 "단단한(hard)" nucleophile여서 enone에 쓰면 
 
 protecting group(protecting groups). 두 amino acid으로부터 dipeptide의 합성을 제안하라. amine과 carboxylic acid을 amide로 바꾸는 데 DCC(N, N'-디사이클로헥실카보디이미드, N'-dicyclohexylcarbodiimide)를 사용할 수 있다.
 
-`L-페닐알라닌 + L-알라닌 --[여러 단계]--> L-페닐알라닐-L-알라닌 (Phe-Ala)`
+
+$$
+\begin{aligned}
+& \text{L-페닐알라닌} + \text{L-알라닌} \\
+& \xrightarrow{\text{여러 단계}} \text{L-페닐알라닐-L-알라닌}\ \mathrm{(Phe{-}Ala)}
+\end{aligned}
+$$
+
 
 (Phe의 carboxyl group과 Ala의 아미노기가 amide 결합을 형성하고, Phe의 NH2와 Ala의 COOH는 자유 상태로 남는 구조)
 
 ### 공식 풀이
 
-1. `L-페닐알라닌 --[Boc2O]--> Boc-Phe-OH` (N을 tBuO-C(=O)-NH로 보호)
-2. `L-알라닌 --[H⁺, MeOH]--> H2N-CH(CH3)-CO2Me` (methyl ester로 보호)
-3. `Boc-Phe-OH + H-Ala-OMe --[DCC]--> Boc-Phe-Ala-OMe`
-4. `--[TFA]--> H2N-Phe-Ala-OMe` (Boc 제거)
-5. `--[NaOH, 물]--> L-페닐알라닐-L-알라닌` (methyl ester 가수분해)
+1. $\text{L-페닐알라닌} \xrightarrow{\mathrm{Boc_2O}} \mathrm{Boc{-}Phe{-}OH}$ (N을 tBuO-C(=O)-NH로 보호)
+2. $\text{L-알라닌} \xrightarrow[\mathrm{MeOH}]{\mathrm{H^+}} \mathrm{H_2N{-}CH(CH_3){-}CO_2Me}$ (methyl ester로 보호)
+3. $\mathrm{Boc{-}Phe{-}OH} + \mathrm{H{-}Ala{-}OMe} \xrightarrow{\mathrm{DCC}} \mathrm{Boc{-}Phe{-}Ala{-}OMe}$
+4. $\xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$ (Boc 제거)
+5. $\xrightarrow{\mathrm{NaOH},\ \text{물}} \text{L-페닐알라닐-L-알라닌}$ (methyl ester 가수분해)
 
 (출처: L12_Practice_solutions p.3)
 
@@ -98,4 +105,4 @@ protecting group 제거 순서도 이유가 있다. Boc는 산(TFA)에 약한데
 
 ### 핵심 개념
 
-amine은 Boc(산으로 제거), carboxylic acid은 methyl ester(염기로 제거)로 직교 보호 → DCC 커플링 → 순차 탈보호.
+$\begin{aligned} & \text{amine은}\ \mathrm{Boc}(\text{산으로 제거}),\ \text{carboxylic acid은 methyl}\  \\ & \text{ester}(\text{염기로 제거})\text{로}\ \text{직교 보호} \\ & \longrightarrow \mathrm{DCC}\ \text{커플링} \\ & \longrightarrow \text{순차 탈보호} \end{aligned}$.

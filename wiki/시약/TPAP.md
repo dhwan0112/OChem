@@ -20,7 +20,7 @@ ruthenium 산화물은 원래 강한 산화제다. 이것을 촉매로만 쓸 �
 | 1차 alcohol | aldehyde |
 | 2차 alcohol | ketone |
 
-예: $\alpha$-hydroxy ester(2차 alcohol) --[TPAP]--> $\alpha$-keto ester(93%). (출처: L6c p.10, p.17)
+예: $\alpha\ \text{-hydroxy}\ \text{ester}(\text{2차 alcohol}) \xrightarrow{\mathrm{TPAP}} \alpha\ \text{-keto ester(93\%)}$. (출처: L6c p.10, p.17)
 
 ## 원리: 촉매 순환
 

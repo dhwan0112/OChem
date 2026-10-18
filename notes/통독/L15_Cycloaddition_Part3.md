@@ -147,14 +147,14 @@ $\beta$-락탐을 합성하려면 어디를 잘라야 할까? 4원 고리를 [2+
 
 | 이름 | 공명 구조 |
 |---|---|
-| diazoalkane | ⁺N=N–C⁻R2 ↔ N≡N⁺–C⁻R2 |
-| azide* | ⁺N=N–N⁻R ↔ N≡N⁺–N⁻R |
-| 니트릴 ylide(nitrile ylide) | RC⁺=N–C⁻R2 ↔ RC≡N⁺–C⁻R2 |
-| 니트릴 imine(nitrile imine) | RC⁺=N–N⁻R ↔ RC≡N⁺–N⁻R |
-| 니트릴 oxide(nitrile oxide)* | RC⁺=N–O⁻ ↔ RC≡N⁺–O⁻ |
-| azomethine ylide | R2C⁺–NR–C⁻R2 ↔ R2C=N⁺R–C⁻R2 |
-| nitrone* | R2C⁺–NR–O⁻ ↔ R2C=N⁺R–O⁻ |
-| carbonyl oxide* | R2C⁺–O–O⁻ ↔ R2C=O⁺–O⁻ |
+| diazoalkane | ⁺$\mathrm{N{=}N{-}C^-R_2}\ \leftrightarrow\ \mathrm{N{\equiv}N^+{-}C^-R_2}$ |
+| azide* | ⁺$\mathrm{N{=}N{-}N^-R}\ \leftrightarrow\ \mathrm{N{\equiv}N^+{-}N^-R}$ |
+| 니트릴 ylide(nitrile ylide) | $\mathrm{RC^+{=}N{-}C^-R_2}\ \leftrightarrow\ \mathrm{RC{\equiv}N^+{-}C^-R_2}$ |
+| 니트릴 imine(nitrile imine) | $\mathrm{RC^+{=}N{-}N^-R}\ \leftrightarrow\ \mathrm{RC{\equiv}N^+{-}N^-R}$ |
+| 니트릴 oxide(nitrile oxide)* | $\mathrm{RC^+{=}N{-}O^-}\ \leftrightarrow\ \mathrm{RC{\equiv}N^+{-}O^-}$ |
+| azomethine ylide | $\mathrm{R_2C^+{-}NR{-}C^-R_2}\ \leftrightarrow\ \mathrm{R_2C{=}N^+R{-}C^-R_2}$ |
+| nitrone* | $\mathrm{R_2C^+{-}NR{-}O^-}\ \leftrightarrow\ \mathrm{R_2C{=}N^+R{-}O^-}$ |
+| carbonyl oxide* | $\mathrm{R_2C^+{-}O{-}O^-}\ \leftrightarrow\ \mathrm{R_2C{=}O^+{-}O^-}$ |
 
 (*: 이 강의에서 본격적으로 다루는 것. 슬라이드에서 박스 표시)
 
@@ -198,7 +198,7 @@ $\beta$-락탐을 합성하려면 어디를 잘라야 할까? 4원 고리를 [2+
 
 고리형 니트론(1-pyrrole린 N-oxide)과 R-CH=CH2를 반응시키면 R이 O 옆 탄소에 exo로 놓인 이환 isoxazolidine이 생긴다. 이것을 Zn/HOAc로 처리하면 약한 N–O 결합이 환원적으로 끊어져, 2-치환 pyrrolidine에 CH2-CH(OH)R가 붙은 1,3-amino alcohol이 된다. 분자 내 버전도 가능하다. 2-allyl-1-pyrrole린 N-oxide는 분자 내 1,3-쌍극 cycloaddition으로 bridged 삼환 isoxazolidine을 만들고, Zn/HOAc로 N–H와 OH를 가진 이환 amino alcohol이 된다. 즉 니트론 cycloaddition은 "1,3-amino alcohol을 입체선택적으로 만드는 도구"로 쓰인다. 보충: 1,3-쌍극 cycloaddition의 가치는 헤테로고리 그 자체보다 그다음 변환에 있다. cycloaddition에서 만든 C–C와 C–O 결합은 남기고, 원래 쌍극자에 있던 약한 N–O 결합만 LiAlH4, Zn/HOAc, H2/Ni 같은 환원제로 끊으면 나머지 골격과 입체화학은 그대로 NH와 OH가 1,3 관계로 드러난다. (보충 근거: Clayden p.902)
 
-니트론 자체는 간단히 만든다. aldehyde RCHO와 N-치환 hydroxylamine RNHOH를 축합시키면(imine 형성과 같은 원리, -H2O) R-CH=N⁺(R)-OH가 되고, 양성자가 빠지면 니트론 R-CH=N⁺(R)-O⁻가 된다(→ imine 형성 메커니즘 문서 참고).
+니트론 자체는 간단히 만든다. $\begin{aligned} & \text{aldehyde}\ \mathrm{RCHO}\text{와}\ \text{N-치환 hydroxylamine}\ \mathrm{RNHOH}\text{를}\  \\ & \text{축합시키면}(\text{imine 형성과 같은 원리},\ \mathrm{{-}H_2O})\  \\ & \mathrm{R{-}CH{=}N^+(R){-}OH}\text{가}\ \text{되고},\ \text{양성자가 빠지면 니트론}\  \\ & \mathrm{R{-}CH{=}N^+(R){-}O^-}\text{가}\ \text{된다}() \\ & \longrightarrow \text{imine 형성 메커니즘 문서 참고)} \end{aligned}$.
 
 (출처: L15 p.16)
 
@@ -206,11 +206,11 @@ $\beta$-락탐을 합성하려면 어디를 잘라야 할까? 4원 고리를 [2+
 
 > 개념 문서: [nitrile oxide cycloaddition](../../wiki/반응/나이트릴%20옥사이드%20고리화%20첨가.md)
 
-니트릴 oxide도 반응계 안에서 만든다.[7] acetaldehyde를 예로 들면 전체 반응은 MeCHO --[1. H2N-OH; 2. Cl2; 3. NEt3]--> Me-C≡N⁺-O⁻이며, 과정은 다음과 같다.
+니트릴 oxide도 반응계 안에서 만든다.[7] acetaldehyde를 예로 들면 전체 반응은 $\mathrm{MeCHO} \xrightarrow{1.\ \mathrm{H_2N{-}OH};\ 2.\ \mathrm{Cl_2};\ 3.\ \mathrm{NEt_3}} \mathrm{Me{-}C{\equiv}N^+{-}O^-}$이며, 과정은 다음과 같다.
 
 ![MeCHO → acetonitrile oxide](../../figures/L15/nitrile_oxide_from_acetaldehyde.svg)
 
-그림: oxime → hydroximoyl chloride → 염기로 HCl 제거.
+그림: $\begin{aligned} & \text{oxime} \\ & \longrightarrow \text{hydroximoyl chloride} \\ & \longrightarrow \text{염기로}\ \mathrm{HCl}\ \text{제거} \end{aligned}$.
 
 1. acetaldehyde와 hydroxylamine이 축합해 옥심 MeCH=N-OH가 된다.
 2. OH 산소의 비공유 전자쌍이 밀어주는 힘으로 C=N의 탄소가 Cl–Cl을 공격하고(Cl⁻ 이탈), Me-CH(Cl)-N=O⁺H가 된다.
@@ -278,7 +278,7 @@ ozone은 C=C를 완전히 끊어 carbonyl 화합물로 만든다. 그런데 같�
 
 > 개념 문서: [1,3-dipolar cycloaddition](../../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [ozonolysis](../../wiki/반응/오존%20분해.md)
 
-그렇다면 ozone은 어떻게 C=C를 끊을까? 핵심은 carbonyl oxide(R2C=O⁺–O⁻ ↔ R2C⁺–O–O⁻)가 1,3-쌍극자라는 것, 그리고 ozone 자체도 1,3-쌍극자라는 것이다.
+그렇다면 ozone은 어떻게 C=C를 끊을까? 핵심은 carbonyl oxide($\mathrm{R_2C{=}O^+{-}O^-}\ \leftrightarrow\ \mathrm{R_2C^+{-}O{-}O^-}$)가 1,3-쌍극자라는 것, 그리고 ozone 자체도 1,3-쌍극자라는 것이다.
 
 1. 1,3-쌍극 cycloaddition: O3가 alkene과 [3+2]로 반응해 1차 ozonide(primary ozonide, O–O–O가 연속된 1,2,3-trioxolane)를 만든다.
 2. 역 1,3-쌍극 cycloaddition(retro-[3+2]): 약한 O–O 결합과 C–C 결합이 끊어지며 aldehyde RCHO와 carbonyl oxide RCH=O⁺–O⁻로 쪼개진다.
@@ -286,7 +286,7 @@ ozone은 C=C를 완전히 끊어 carbonyl 화합물로 만든다. 그런데 같�
 4. 다시 1,3-쌍극 cycloaddition: carbonyl oxide가 aldehyde의 C=O와 반응해 1,2,4-trioxolane(2차 ozonide, 슬라이드 명칭 "trioxolane")을 만든다.
 5. 환원 후처리: Me2S의 황이 O–O 결합의 산소를 공격하면 고리가 무너지며 DMSO(Me2S⁺–O⁻)와 RCHO 두 분자가 생긴다.
 
-즉 정방향 → 역방향 → 정방향의 cycloaddition이 차례로 일어나는 셈이다.
+$\begin{aligned} & \text{즉 정방향} \\ & \longrightarrow \text{역방향} \\ & \longrightarrow \text{정방향의 cycloaddition이 차례로 일어나는 셈이다} \end{aligned}$.
 
 보충: 각 단계의 "왜?"는 결합 세기로 설명된다. O–O 단일 결합(약 140 kJ/mol)은 앞에서 "약하다"고 했던 N–O 결합(약 180 kJ/mol)보다도 훨씬 약하고, 1차 ozonide에는 이런 O–O 결합이 두 개나 있다. 그래서 만들어지자마자 역 cycloaddition으로 쪼개진다. carbonyl oxide는 왔던 방향 그대로 다시 붙을 수도 있지만, 친핵성 O⁻가 aldehyde의 친전자성 carbonyl 탄소를 공격하는 배향을 훨씬 선호하므로 aldehyde가 180° 돌아 1,2,4-trioxolane이 된다. 이 ozonide도 폭발성이라 분리하지 않고 Me2S나 Ph3P로 바로 분해한다. (보충 근거: Clayden p.906–907)
 
@@ -422,7 +422,7 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
 - 니트론은 항상 같은 방향으로 붙는다고 생각하기 쉽지만, 사실은 EDG alkene과는 5-치환, EWG alkene과는 4-치환 생성물을 준다(슬라이드 기준). 상대에 따라 HOMO/LUMO 역할이 바뀌기 때문이다.
 - isoxazole, isoxazoline, isoxazolidine을 같은 것으로 생각하기 쉽지만, 사실은 각각 방향족(니트릴 oxide + alkyne), 이중결합 하나(니트릴 oxide + alkene), 완전 포화(니트론 + alkene)로 다르다.
 - isoxazoline을 환원하면 항상 amino alcohol이 된다고 생각하기 쉽지만, 사실은 LiAlH4는 amino alcohol을, H2/Ni + H2O는 질소가 가수분해로 빠진 $\beta$-hydroxy ketone(aldol 생성물)을 준다. cis → syn, trans → anti다.
-- ozone 분해는 ozone이 한 번 붙고 끝나는 반응이라고 생각하기 쉽지만, 사실은 1,3-쌍극 cycloaddition → 역반응 → 재결합 cycloaddition의 세 단계를 거치며 최종 ozonide는 1,2,4-trioxolane이다.
+- $\begin{aligned} & \text{ozone 분해는 ozone이 한 번 붙고 끝나는 반응이라고 생각하기 쉽지만},\  \\ & \text{사실은 1,3-쌍극 cycloaddition} \\ & \longrightarrow \text{역반응} \\ & \longrightarrow \\ & \begin{gathered}\text{재결합 cycloaddition의 세 단계를 거치며 최종 ozonide는 } \\  \\ & \text{1,2,4-trioxolane이다}\end{gathered} \end{aligned}$.
 - H2O2 후처리는 모든 탄소를 carboxylic acid으로 만든다고 생각하기 쉽지만, 사실은 H를 가진(aldehyde가 될) 탄소만 산이 되고 ketone 쪽은 ketone으로 남는다.
 - 역전자요구 DA도 보통 DA처럼 diene이 전자 풍부하다고 생각하기 쉽지만, 사실은 diene(tetrazine)이 전자 부족하고 diene오필(TCO)이 전자 풍부/긴장된 쪽이다.
 
@@ -431,8 +431,8 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | DA: 1-acetoxybutadiene + (E)-crotonaldehyde | 가열 | 2-acetoxy-6-methylcyclohex-3-ene-1-carbaldehyde | ortho (OAc 옆에 CHO) | OAc/CHO cis(endo), CHO/Me trans(E 보존) | 라세미 (p.3) |
-| ketene + alkene [2+2] | heat | cyclobutanone | alkene 친핵성 탄소 → ketene C=O 탄소 | alkene 기하 보존 | supra-antara (p.6–7) |
-| Cl2CHCOCl → Cl2C=C=O, + cyclopentadiene | Et3N | 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소, CCl2가 allyl 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
+| ketene + alkene [2+2] | heat | cyclobutanone | $\text{alkene 친핵성 탄소} \longrightarrow \text{ketene}\ \mathrm{C{=}O}\ \text{탄소}$ | alkene 기하 보존 | supra-antara (p.6–7) |
+| $\mathrm{Cl_2CHCOCl} \longrightarrow \mathrm{Cl_2C{=}C{=}O}, + \text{cyclopentadiene}$ | Et3N | 7,7-dichlorobicyclo로[3.2.0]hept-2-en-6-one | C=O가 CH2 옆 접합 탄소, CCl2가 allyl 접합 탄소 | cis 융합 | [2+2] > [4+2] (p.8) |
 | ketene + imine (Staudinger) | PhOCH2COCl, Et3N | 3-페녹시 $\beta$-락탐 (92%) | imine N → ketene C=O 탄소 | 그림상 3,4-trans | p.12 |
 | CSI + CH2=C(Me)CH2Cl | 이후 NaHCO3, H2O | 4-(chloromethyl)-4-methyl아제티딘-2-one | 3차 탄소가 N과 결합 | – | SO3 이탈 (p.12) |
 | 니트론 + R-CH=CH2 (EDG) | 열 | 5-치환 isoxazolidine | 니트론 C–CH2, O–CHR | exo TS | 쌍극자 LUMO (p.15–16) |
@@ -444,7 +444,7 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
 | 니트릴 oxide + 말단 alkyne | – | 3,5-이치환 isoxazole | R이 C5(O 옆) | – | p.19 |
 | isoxazoline 환원 | LiAlH4 | 1,3-amino alcohol | – | – | p.20 |
 | isoxazoline 환원/가수분해 | H2/Ni, H2O | $\beta$-hydroxy ketone | – | cis → syn, trans → anti | aldol 등가체 (p.20) |
-| ozone 분해 | 1. O3 2. Me2S | aldehyde/ketone + DMSO | – | 노보넨 → cis-1,3-dialdehyde | p.21, 23 |
+| ozone 분해 | 1. O3 2. Me2S | aldehyde/ketone + DMSO | – | $\text{노보넨} \longrightarrow \text{cis-1,3-dialdehyde}$ | p.21, 23 |
 | ozone 분해 | 1. O3 2. H2O2 | carboxylic acid | – | – | p.21 |
 | ozone 분해 | 1. O3 2. NaBH4 | alcohol | – | – | p.21 |
 | Danishefsky diene DA | DA 후 H⁺ | cyclohexenone | OMe/OSiR3 협력 | – | p.26 |
@@ -490,7 +490,7 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
    (출처: L15 p.8)
 
 5. 정답: 1단계: 1-(chlorosulfonyl)-4-(chloromethyl)-4-methyl아제티딘-2-one. 2단계: 4-(chloromethyl)-4-methyl아제티딘-2-온(N-H $\beta$-락탐).
-   해설: alkene의 말단 CH2(친핵성)가 CSI carbonyl 탄소(친전자성)와 결합하고, 더 치환된 탄소(양전하를 더 잘 안정화)가 N과 결합 → N 옆 4차 탄소. NaHCO3/H2O로 S–Cl 가수분해 → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
+   해설: $\begin{aligned} & \text{alkene의 말단}\ \mathrm{CH_2(}\text{친핵성)가}\ \mathrm{CSI}\  \\ & \text{carbonyl 탄소(친전자성)와 결합하고},\ \text{더 치환된}\  \\ & \text{탄소}(\text{양전하를 더 잘 안정화})\text{가}\ \text{N과 결합} \\ & \longrightarrow \mathrm{N}\ \text{옆 4차 탄소} \end{aligned}$. NaHCO3/H2O로 S–Cl 가수분해 → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
 
 6. 정답: (a) 5-부틸-2-methylisoxazolidine (부틸이 O 옆 C5). alkene(HOMO)이 니트론(LUMO)과 상호작용; alkene 말단 CH2가 친전자성 니트론 탄소와 결합. (b) 4-acetyl-2-methylisoxazolidine (acetyl이 C4). 니트론(HOMO)의 O⁻가 친전자성 $\beta$-탄소(CH2)와 결합; alkene은 LUMO 사용.
    해설: 니트론은 친핵성·친전자성을 겸하므로 상대에 따라 역할이 바뀐다(슬라이드 규칙). (출처: L15 p.15)
@@ -513,7 +513,7 @@ cycloaddition은 다양한 크기의 고리를 만드는 pericyclic 반응이다
 
 [5] 보충: azide나 니트릴 oxide 같은 삼중결합형 쌍극자는 이와 직교하는 $\pi$ 결합을 하나 더 가지지만, cycloaddition에 참여하는 $\pi$계는 4전자다. (보충 근거: Clayden p.901–902)
 
-[6] 보충: isoxazolidine의 번호는 O1, N2, C3, C4, C5다. 실제 계에서는 치환기에 따라 regioselectivity이 섞여 나오기도 하지만, 시험에서는 슬라이드 규칙(EDG → 5-치환, EWG → 4-치환)을 따르면 된다.
+[6] 보충: isoxazolidine의 번호는 O1, N2, C3, C4, C5다. $\begin{aligned} & \text{실제 계에서는 치환기에 따라 regioselectivity이 섞여 나오기도 하지만},\  \\ & \text{시험에서는 슬라이드}\ \text{규칙}(\mathrm{EDG}) \\ & \longrightarrow \text{5-치환},\ \mathrm{EWG} \\ & \longrightarrow \text{4-치환)을 따르면 된다} \end{aligned}$.
 
 [7] 보충: 니트릴 oxide는 불안정해서 쉽게 이량체화하므로, 보통 반응계 내(in situ)에서 생성하여 곧바로 쌍극친화체와 반응시킨다.
 

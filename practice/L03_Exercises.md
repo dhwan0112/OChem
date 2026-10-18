@@ -22,4 +22,4 @@
 5. (i) AlCl₃가 무수물 carbonyl O에 배위해 고리가 열리면서 acylium 이온이 생긴다. benzene이 이를 공격하고 H⁺가 빠지면 아릴 ketone(carboxylate-AlCl₃)이 되며, 후처리하면 3-benzoylpropanoic acid이 된다. (ii) Zn/Hg, HCl로 ketone만 CH₂로 환원해 4-phenylbutanoic acid을 얻는다. (iii) H₃PO₄가 COOH를 protonate하고 물이 빠져 acylium 이온이 생긴다. 같은 분자의 benzene 고리가 분자내 공격해 6원 고리가 닫히고, H⁺가 빠지면 $\alpha$-테트랄론이 된다. (L4 p.3)
 6. nitro group이 고리를 강하게 비활성화해서 nitrobenzene 자체는 acylate되지 않는다. 그래서 반응에 참여하지 않는 용매로 쓸 수 있다. (L3 p.21)
 7. phenol에서는 산소 비공유 전자쌍이 고리와 공액되어 HOMO 에너지가 크게 올라간다. 그래서 친핵성이 훨씬 커진다. 공명 구조를 그리면 O의 전자가 오르토와 파라 위치로 밀려 들어가 그 위치의 전자 밀도가 높아진다. 그래서 세 위치(2,4,6)에서 촉매 없이 빠르게 치환된다. (L3 p.23-25)
-8. benzene --[HNO₃/H₂SO₄]--> nitrobenzene --[H₂, Pd/C 또는 Sn/HCl]--> aniline --[NaNO₂, HCl, 0 °C]--> diazonium 염 --[H₂O, 가열]--> phenol. (L3 p.12-13)
+8. $\begin{aligned} & \text{benzene} \\ & \xrightarrow{\mathrm{HNO_3/H_2SO_4}} \text{nitrobenzene} \\ & \xrightarrow{\mathrm{H_2},\ \mathrm{Pd/C}\ \text{또는}\ \mathrm{Sn/HCl}} \text{aniline} \\ & \xrightarrow[0\,{}^\circ\mathrm{C}]{\mathrm{NaNO_2},\ \mathrm{HCl}} \text{diazonium 염} \\ & \xrightarrow[\text{가열}]{\mathrm{H_2O}} \text{phenol} \end{aligned}$. (L3 p.12-13)

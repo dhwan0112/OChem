@@ -28,7 +28,7 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 2. Claisen rearrangement: 처음 발견된 [3,3] (Clayden p.909–912)
-- allyl aryl/vinyl ether → $\gamma,\delta$-unsaturated carbonyl. allyl group이 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
+- $\text{allyl aryl/vinyl ether} \longrightarrow \gamma,\delta\ \text{-unsaturated carbonyl}$. allyl group이 inside-out으로 붙는 것이 협동 메커니즘의 증거. allyl vinyl ether는 acetal 교환으로 그 자리에서 만든다.
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [acetal formation](../wiki/반응/아세탈%20형성.md)
 
 ### 3. chair형 transition state: 왜 *E* alkene이 생기나 (Clayden p.910–911)
@@ -44,11 +44,11 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 - → [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md), [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 6. Cope rearrangement (Clayden p.913–915)
-- 모체는 degenerate 반응이라 미는 힘이 필요하다: oxy-Cope(enol → C=O), anionic oxy-Cope(KH, 빠름), ring strain, 더 치환된 alkene. Ireland–Claisen과 citral 공업 합성(Claisen → Cope).
+- 모체는 degenerate 반응이라 미는 힘이 필요하다: $\begin{aligned} & \mathrm{oxy{-}Cope}(\text{enol}) \\ & \longrightarrow \mathrm{C{=}O)},\ \text{anionic}\ \mathrm{oxy{-}Cope}(\mathrm{KH},\ \text{빠름}),\ \text{ring strain},\ \text{더 치환된 alkene} \end{aligned}$. Ireland–Claisen과 citral 공업 합성(Claisen → Cope).
 - → [Cope rearrangement](../wiki/반응/코프%20자리옮김.md), [Ireland–Claisen](../wiki/반응/클라이젠%20자리옮김.md)
 
 ### 7. 다른 원소가 낀 [3,3] rearrangement (Clayden p.916–917)
-- Fischer indole synthesis(약한 N–N 결합이 끊어지는 [3,3]), chromate ester의 [3,3]으로 tertiary allylic alcohol → transposed enone.
+- $\begin{aligned} & \text{Fischer indole}\ \text{synthesis}(\text{약한}\ \mathrm{N{-}N}\ \text{결합이 끊어지는}\  \\ & \mathrm{[3,3]}),\  \\ & \text{chromate ester의 [3,3]으로 tertiary allylic alcohol} \\ & \longrightarrow \text{transposed enone} \end{aligned}$.
 - → [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md)
 
 ### 8. [2,3] sigmatropic rearrangement (Clayden p.917–919)
@@ -71,21 +71,21 @@ L13–L15에서 pericyclic reaction의 첫 갈래인 cycloaddition을 다뤘고,
 
 | 반응 | 출발물 → 생성물 | 조건 | 추진력 | 문서 |
 |---|---|---|---|---|
-| aromatic Claisen | allyl aryl ether → *o*-allylphenol | 가열 | aromaticity 회복 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| aliphatic Claisen | allyl vinyl ether → $\gamma,\delta$-unsaturated aldehyde (*E*) | 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| acetal 교환 + Claisen | allylic alcohol + MeCH(OMe)2 → $\gamma,\delta$-unsaturated aldehyde | EtCO2H, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| orthoester·orthoamide 변형 | → $\gamma,\delta$-unsaturated ester·amide | 산, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| Ireland–Claisen | allyl ester → $\gamma,\delta$-unsaturated carboxylic acid (*E*) | LDA(Me3SiCl); H⁺/H2O | carboxylate 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
-| Cope (모체) | hexa-1,5-diene → 자기 자신 | 가열 | degenerate | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
-| oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | enol·enolate → C=O | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
-| strain-release Cope | 3원 고리 포함 1,5-diene → 고리 확장 | 33 °C, 36 h | ring strain 해소 | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
+| aromatic Claisen | $\text{allyl aryl ether} \longrightarrow \mathit{o}\ \text{-allylphenol}$ | 가열 | aromaticity 회복 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| aliphatic Claisen | $\text{allyl vinyl ether} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}\ (\mathit{E})$ | 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| acetal 교환 + Claisen | $\text{allylic alcohol} + \mathrm{MeCH(OMe)_2} \longrightarrow \gamma,\delta\ \text{-unsaturated aldehyde}$ | EtCO2H, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| orthoester·orthoamide 변형 | $\longrightarrow \gamma,\delta\ \text{-unsaturated ester·amide}$ | 산, 가열 | C=O 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| Ireland–Claisen | $\text{allyl ester} \longrightarrow \gamma,\delta\ \text{-unsaturated carboxylic acid}\ (\mathit{E})$ | LDA(Me3SiCl); H⁺/H2O | carboxylate 생성 | [Claisen rearrangement](../wiki/반응/클라이젠%20자리옮김.md) |
+| Cope (모체) | $\text{hexa-1,5-diene} \longrightarrow \text{자기 자신}$ | 가열 | degenerate | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
+| oxy-Cope / anionic oxy-Cope | hexa-1,5-dien-3-ol → hex-5-enal | 가열(느림) / KH(빠름); H⁺ | $\text{enol·enolate} \longrightarrow \mathrm{C{=}O}$ | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
+| strain-release Cope | $\text{3원 고리 포함 1,5-diene} \longrightarrow \text{고리 확장}$ | 33 °C, 36 h | ring strain 해소 | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
 | citral 합성 | enol ether → (Claisen) → (Cope) → citral | 가열 | C=O, conjugation, 삼치환 alkene | [Cope rearrangement](../wiki/반응/코프%20자리옮김.md) |
-| Fischer indole | phenylhydrazone → indole | 약산, 가열 | N–N 절단, aromatization | [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md) |
-| chromate ester [3,3] | tertiary allylic alcohol → transposed enone | CrO3, H⁺ | Cr(VI) 산화 | [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md) |
-| [2,3] carbanion | benzyl allyl ether → homoallylic alcohol (*E*) | BuLi; H⁺ | carbanion → alkoxide | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
-| [2,3] 황 (정·역) | allylic alcohol ⇌ sulfenate ester ⇌ allyl sulfoxide | PhSCl, pyridine / (MeO)3P, MeOH | S=O 생성 / thiophilic 포획 | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
-| SeO2 allylic oxidation | alkene → allylic alcohol / enal | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
-| [1,5]H 이동 | 5-R-cyclopentadiene ⇌ 1-R, 2-R isomer | 빠른 평형 | 더 치환된 diene | [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md) |
+| Fischer indole | $\text{phenylhydrazone} \longrightarrow \text{indole}$ | 약산, 가열 | N–N 절단, aromatization | [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md) |
+| chromate ester [3,3] | $\text{tertiary allylic alcohol} \longrightarrow \text{transposed enone}$ | CrO3, H⁺ | Cr(VI) 산화 | [sigmatropic rearrangement](../wiki/반응/시그마트로픽%20자리옮김.md) |
+| [2,3] carbanion | $\text{benzyl allyl ether} \longrightarrow \text{homoallylic alcohol}\ (\mathit{E})$ | BuLi; H⁺ | $\text{carbanion} \longrightarrow \text{alkoxide}$ | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| [2,3] 황 (정·역) | $\begin{aligned} & \text{allylic alcohol} \\ & \rightleftharpoons \text{sulfenate ester} \\ & \rightleftharpoons \text{allyl sulfoxide} \end{aligned}$ | PhSCl, pyridine / (MeO)3P, MeOH | S=O 생성 / thiophilic 포획 | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| SeO2 allylic oxidation | $\text{alkene} \longrightarrow \text{allylic alcohol}\ \mathrm{/}\ \text{enal}$ | SeO2 (촉매 + t-BuOOH) | [4+2] 후 [2,3] | [\[2,3\]-sigmatropic rearrangement](../wiki/반응/2,3-시그마트로픽%20자리옮김.md) |
+| [1,5]H 이동 | $\text{5-R-cyclopentadiene} \rightleftharpoons \mathrm{1{-}R},\ \mathrm{2{-}R}\ \text{isomer}$ | 빠른 평형 | 더 치환된 diene | [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md) |
 | [1,7]H 이동 | provitamin D2 → vitamin D2 | 열(빛 불필요), antarafacial | – | [1,5-hydrogen shift](../wiki/반응/1,5-수소%20이동.md) |
 
 (출처: Clayden p.909–922)

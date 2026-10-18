@@ -27,7 +27,10 @@ NaBH₄는 ethyl acetate나 ethyl benzoate 같은 ester를 아주 느리게만 �
 ## 선택성
 
 $$
-\begin{aligned} &\mathrm{MeO_2C{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H} \cr &\qquad \xrightarrow[\mathrm{EtOH}]{\ \mathrm{LiBH_4}\ \mathstrut} \mathrm{HO{-}CH_2{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H} \end{aligned}
+\begin{aligned}
+& \mathrm{MeO_2C{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H} \\
+& \qquad \xrightarrow[\mathrm{EtOH}]{\ \mathrm{LiBH_4}\ \mathstrut} \mathrm{HO{-}CH_2{-}CH_2{-}CH(CH_3){-}CH_2{-}CO_2H}
+\end{aligned}
 $$
 
 ester 쪽만 CH₂OH가 되고 산은 그대로 남는다. 산이 살아남는 이유는 [carbonyl 반응성 서열](../개념/금속%20수소화물의%20반응성.md)(aldehyde > ketone > ester > amide > carboxylate)에서 찾을 수 있다. 산은 hydride 시약과 만나면 deprotonate되어 carboxylate가 되는데, carboxylate는 반응성 서열의 맨 끝이다. (출처: L5 p.18, p.22)

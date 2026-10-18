@@ -8,7 +8,7 @@
 
 **문제 2.** (p.3, p.10) maleic anhydride이 butadiene과 빠르게 반응하는 이유를 FMO로 설명하라. diene C1에 OMe를 추가하면 반응 속도는 어떻게 되는가?
 
-**문제 3.** (p.18–19 빈칸) (E)-1-acetoxy부타-1,3-diene + (E)-crotonaldehyde → ? regioselectivity, stereoselectivity, stereospecificity 순서로 주생성물의 구조와 상대 입체화학을 예측하라.
+**$\begin{aligned} & \text{문제}\ 3.\ (\mathrm{p.18{-}19}\ \text{빈칸})\ (\mathit{E})\text{-1-acetoxy부타-1,3-diene} \\ &  + (\mathit{E})\text{-crotonaldehyde} \\ & \longrightarrow \\ & \mathrm{?}\ \text{regioselectivity},\ \text{stereoselectivity},\  \\ & \text{stereospecificity 순서로 주생성물의 구조와 상대 입체화학을 예측하라} \end{aligned}$.
 
 **문제 4.** (p.22–23) 1,3-dibromoacetone/Zn에서 생긴 allyl cation과 butadiene의 [4+3] cycloaddition에 대해 FMO를 그리고, 이 반응이 열적으로 허용되는지 판단하라. Woodward–Hoffmann 규칙으로도 확인하라.
 

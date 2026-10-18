@@ -37,7 +37,7 @@
    (출처: L15 p.8)
 
 5. 정답: 1단계: 1-(chlorosulfonyl)-4-(chloromethyl)-4-methyl아제티딘-2-one. 2단계: 4-(chloromethyl)-4-methyl아제티딘-2-온(N-H $\beta$-락탐).
-   해설: alkene의 말단 CH2(친핵성)가 CSI carbonyl 탄소(친전자성)와 결합하고, 더 치환된 탄소(양전하를 더 잘 안정화)가 N과 결합 → N 옆 4차 탄소. NaHCO3/H2O로 S–Cl 가수분해 → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
+   해설: $\begin{aligned} & \text{alkene의 말단}\ \mathrm{CH_2(}\text{친핵성)가}\ \mathrm{CSI}\  \\ & \text{carbonyl 탄소(친전자성)와 결합하고},\ \text{더 치환된}\  \\ & \text{탄소}(\text{양전하를 더 잘 안정화})\text{가}\ \text{N과 결합} \\ & \longrightarrow \mathrm{N}\ \text{옆 4차 탄소} \end{aligned}$. NaHCO3/H2O로 S–Cl 가수분해 → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
 
 6. 정답: (a) 5-부틸-2-methylisoxazolidine (부틸이 O 옆 C5). alkene(HOMO)이 니트론(LUMO)과 상호작용; alkene 말단 CH2가 친전자성 니트론 탄소와 결합. (b) 4-acetyl-2-methylisoxazolidine (acetyl이 C4). 니트론(HOMO)의 O⁻가 친전자성 $\beta$-탄소(CH2)와 결합; alkene은 LUMO 사용.
    해설: 니트론은 친핵성·친전자성을 겸하므로 상대에 따라 역할이 바뀐다(슬라이드 규칙). (출처: L15 p.15)

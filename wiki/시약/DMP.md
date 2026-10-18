@@ -62,7 +62,13 @@ aldehyde에서 정확히 멈추고 C=C의 *E* 기하도 그대로 유지된다. 
   (L6) (출처: L6c p.7)
 - "3 = 1 + 2": Boger의 vancomycin 계열 합성
 
-  $\mathrm{R{-}CH_2OH} \xrightarrow{\text{Dess–Martin}} \mathrm{R{-}CHO} \xrightarrow{\ \mathrm{NaClO_2}\ \mathstrut} \mathrm{R{-}CO_2H}$
+  $$
+\begin{aligned}
+& \mathrm{R{-}CH_2OH} \\
+& \xrightarrow{\text{Dess–Martin}} \mathrm{R{-}CHO} \\
+& \xrightarrow{\ \mathrm{NaClO_2}\ \mathstrut} \mathrm{R{-}CO_2H}
+\end{aligned}
+$$
 
   (2단계 77%). 두 번째 단계는 [Pinnick oxidation](../반응/피닉%20산화.md)다(→ [alcohol oxidation](../반응/알코올%20산화.md)). (L6) (출처: L6c p.16–17)
 

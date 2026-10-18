@@ -264,6 +264,11 @@ def short(summary, n=70):
         if m.start() < end < m.end():
             end = m.start()
             break
+    if end == 0:
+        first = next(PROTECTED.finditer(s), None)
+        if first and re.search(r"\\(?:xrightarrow|longrightarrow|rightleftharpoons)", first[0]):
+            return "반응식은 본문 참고"
+        return (first[0] if first else "") + "…"
     return s[:end].rstrip() + "…"
 
 
