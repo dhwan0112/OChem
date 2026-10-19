@@ -74,12 +74,32 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 첫 번째 예에서는 2-methylcyclohexane-1,3-dione과 methyl vinyl ketone이 10% NaOH 조건에서 Michael 첨가를 해 1,5-diketone이 된다. 이것을 piperidine 촉매와 함께 가열하면 물이 빠지면서 이중 고리 enone이 닫힌다. EtONa로 가열하면 같은 일을 한 one-pot에서 끝낼 수도 있다.[2]
 
+
+
+![Robinson annulation의 Michael 단계: dione과 MVK에서 열린 사슬 부가물 형성](../../figures/L13/polar_robinson_michael.svg)
+
+그림: 먼저 dione의 반응 중심(파랑)과 MVK의 alkene(빨강)을 확인한다. 초록색 C–C 결합이 새로 생겼지만, 이 단계에서는 새 고리가 아직 없다. 생성물의 측쇄에는 ketone이 남아 다음 intramolecular aldol 단계에 참여한다. 직선 화살표는 deprotonation·첨가·proton transfer를 합친 순변환이다. (출처: L13 p.6)
+
+![Robinson annulation의 고리화 및 탈수: Michael 부가물에서 bicyclic enone 형성](../../figures/L13/polar_robinson_closure.svg)
+
+그림: 파란 CH₃ 탄소와 고리 carbonyl 탄소 사이에 연결이 생겨 새 6원 고리가 만들어진다. 이어지는 탈수 후 그 연결은 초록색 C=C가 된다. 그림의 화살표 하나가 단일 elementary step을 뜻하지는 않는다. Piperidine 촉매 경로의 세부 반응은 enamine 형성·고리화·촉매 재생을 포함한다. EtONa/가열의 one-pot 경로도 이 최종 골격을 주지만, 한 용기에서 진행한다는 것과 concerted라는 것은 다르다. (출처: L13 p.6; L12 연습 풀이 p.1)
+
+
 두 번째 예는 I-(CH2)4-CH=CH-CO2Me와 CH3NO2를 Cs2CO3/DMF, 20 °C에서 반응시키는 것이다. 메커니즘을 따라가 보면 다음과 같다.
 1. Cs2CO3가 CH3NO2의 $\alpha$ -H를 떼어 nitronate anion(nucleophile)을 만든다.
 2. nitronate가 $\alpha,\beta$-unsaturated ester의 $\beta$-탄소(electrophile)에 Michael 첨가해 I-(CH2)4-CH(CH2NO2)-CH2CO2Me가 된다.
 3. CH2NO2의 $\alpha$ -H가 다시 deprotonate된다. 이 탄소 anion이 같은 분자의 C–I 탄소를 SN2로 공격해 고리를 닫는다.
 
 결과물은 2-(2-nitrocyclohexyl)acetic acid methyl ester다(65%).
+
+![Nitromethane의 Michael 첨가로 고리화 전 열린 사슬 중간체 형성](../../figures/L13/polar_nitro_michael.svg)
+
+그림: 파란 CH₃에서 유래한 탄소가 ester의 $\beta$-carbon과 결합한다. 초록색 결합이 새 C–C 결합이며, 말단 C–I는 아직 남아 있다. 생성물의 CH₂NO₂는 다음 deprotonation에 필요한 H를 가진다. Nitro group의 N⁺/O⁻는 정상적인 formal charge 표기이며, 이 중성 부가물 전체가 nitronate anion이라는 뜻은 아니다. (출처: L13 p.6)
+
+![Michael 부가물의 분자 내 SN2 고리화로 nitrocyclohexane 골격 형성](../../figures/L13/polar_nitro_closure.svg)
+
+그림: 파란 CH₂NO₂ 탄소가 deprotonation된 뒤 빨간 C–I 탄소를 공격하고 iodide가 이탈한다. 초록색 C–C 결합이 고리를 닫는다. 두 반응 중심 사이의 기존 사슬을 따라 탄소 여섯 개를 세면 cyclohexane 골격임을 확인할 수 있다. 65%는 슬라이드에 적힌 전체 연속 반응의 수율이며, 고리화 단계만의 수율이 아니다. 입체배치는 원본처럼 지정하지 않았다. 이 그림은 deprotonation과 SN2를 합친 순변환이다. (출처: L13 p.6)
+
 
 즉 극성 방식으로 고리를 만들려면 deprotonation, 첨가, 고리 닫기를 차례로 거쳐야 하고 그때마다 ionic intermediate가 생긴다. 반면 DA 반응은 이 모든 일을 한 단계로 끝낸다. 이 대비가 이 슬라이드의 핵심이다. (출처: L13 p.6)
 

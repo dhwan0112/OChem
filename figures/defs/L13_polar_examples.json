@@ -1,0 +1,52 @@
+[
+  {
+    "reactants": [
+      "C[CH:1]1C(=O)CCCC1=O",
+      "[CH2:2]=[CH:2]C(=O)C"
+    ],
+    "products": [
+      "C[C:3]1([CH2:3]CC(=O)C)C(=O)CCCC1=O"
+    ],
+    "conditions": "10% NaOH",
+    "below": "Michael addition",
+    "out": "figures/L13/polar_robinson_michael.json",
+    "title": "L13 p.6: polar ring formation"
+  },
+  {
+    "reactants": [
+      "CC1(CCC(=O)[CH3:1])[C:2](=O)CCCC1=O"
+    ],
+    "products": [
+      "CC12CCC(=O)[CH:3]=[C:3]1CCCC2=O"
+    ],
+    "conditions": "piperidine (cat.)",
+    "below": "heat, -H2O",
+    "out": "figures/L13/polar_robinson_closure.json",
+    "title": "L13 p.6: polar ring formation"
+  },
+  {
+    "reactants": [
+      "ICCCC[CH:2]=[CH:2]C(=O)OC",
+      "[CH3:1][N+](=O)[O-]"
+    ],
+    "products": [
+      "ICCCC[CH:3]([CH2:3][N+](=O)[O-])CC(=O)OC"
+    ],
+    "conditions": "Cs2CO3, DMF",
+    "below": "20 °C",
+    "out": "figures/L13/polar_nitro_michael.json",
+    "title": "L13 p.6: polar ring formation"
+  },
+  {
+    "reactants": [
+      "I[CH2:2]CCC[CH]([CH2:1][N+](=O)[O-])CC(=O)OC"
+    ],
+    "products": [
+      "COC(=O)C[CH]1CCC[CH2:3][CH:3]1[N+](=O)[O-]"
+    ],
+    "conditions": "base",
+    "below": "65% overall",
+    "out": "figures/L13/polar_nitro_closure.json",
+    "title": "L13 p.6: polar ring formation"
+  }
+]
