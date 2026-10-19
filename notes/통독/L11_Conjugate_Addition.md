@@ -1,6 +1,6 @@
-# L11. 짝지음 첨가 (Conjugate Addition)
+# L11. Conjugate addition
 
-> **통독본:** 2026-10-18에 L11 전 범위의 원자·전자 이동, 선택성의 이유, 중간체와 후처리, 문제 적용 설명을 보강했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L11 뼈대](../L11_Conjugate_Addition.md) · [위키 대문](../../wiki/위키%20대문.md)
+> **통독본:** 2026-10-18에 L11 전 범위의 원자·전자 이동, 선택성의 이유, intermediate와 후처리, 문제 적용 설명을 보강했다. 교재 보충은 출처를 구별하며 상세 개념은 연결된 위키에서 함께 읽는다. 뼈대 노트: [L11 뼈대](../L11_Conjugate_Addition.md) · [위키 대문](../../wiki/위키%20대문.md)
 
 > **관련 위키 문서** ([위키 대문](../../wiki/위키%20대문.md))
 > - 반응: [SN2 reaction](../../wiki/반응/SN2%20반응.md), [conjugate addition](../../wiki/반응/공액%20첨가.md), [Michael reaction](../../wiki/반응/마이클%20반응.md), [addition-elimination](../../wiki/반응/첨가-제거%20반응.md), [nucleophilic aromatic substitution](../../wiki/반응/친핵성%20방향족%20치환.md), [nucleophilic acyl substitution](../../wiki/반응/친핵성%20아실%20치환.md), [reductive amination](../../wiki/반응/환원성%20아미노화.md)
@@ -11,7 +11,7 @@
 
 ## 읽는 순서와 이번 강의의 핵심 질문
 
-L11은 같은 반응식을 여러 이름으로 외우는 강의가 아니라, **전자 부족한 conjugated 계에 무엇이 어디로 붙고, 그 뒤 어떤 작용기가 회복되는가를** 따라가는 강의다. 1–2절에서 기본 전자 이동을 읽고, 3절에서 공격 위치를 고른 뒤, 4–6절에서 donor·acceptor를 만드는 방법을 비교한다. 마지막 7절에서는 leaving group 때문에 첨가가 치환으로 이어지는 경우를 본다. (출처: L11 p.2–24)
+L11은 같은 반응식을 여러 이름으로 외우는 강의가 아니라, **electron-deficient conjugated 계에 무엇이 어디로 붙고, 그 뒤 어떤 작용기가 회복되는가를** 따라가는 강의다. 1–2절에서 기본 전자 이동을 읽고, 3절에서 공격 위치를 고른 뒤, 4–6절에서 donor·acceptor를 만드는 방법을 비교한다. 마지막 7절에서는 leaving group 때문에 첨가가 치환으로 이어지는 경우를 본다. (출처: L11 p.2–24)
 
 | 읽을 부분 | 읽고 나서 설명할 질문 |
 |---|---|
@@ -22,29 +22,29 @@ L11은 같은 반응식을 여러 이름으로 외우는 강의가 아니라, **
 | 5절: enamine | N이 전자를 밀어 주는데 왜 새 결합은 C에서 생기는가? |
 | 6절: iminium catalysis | donor 활성화와 acceptor 활성화는 어떻게 다른가? |
 | 7절: addition–elimination·SNAr | Nu가 붙은 뒤 왜 H를 받지 않고 leaving group이 나가는가? |
-| 8절: 적용 순서 | 공격 원자·중간체·후처리를 나누어 답안을 검산할 수 있는가? |
+| 8절: 적용 순서 | 공격 원자·intermediate·후처리를 나누어 답안을 검산할 수 있는가? |
 
 아래의 그림과 반응식은 각 절의 설명에 맞춰 읽는다. 굽은 화살표는 전자쌍, 직선 화살표는 반응 단계, 공명 화살표는 같은 종의 기여 구조 사이 관계를 나타낸다. (출처: L11 p.3–24)
 
 ## 개요
 
 conjugate addition(1,4-첨가)는 $\alpha,\beta$-unsaturated carbonyl 화합물의 C=C 이중결합에 nucleophile이 붙는 반응이다.
-L1~L2에서 본 alkene은 전자가 풍부해서 electrophile(E+)을 받아들이는 쪽이었다.
+L1~L2에서 본 alkene은 electron-rich하므로 electrophile(E+)을 받아들이는 쪽이었다.
 <!-- comment: [완료 2026-10-17] 이미지 추가 바람 직후 내용에 알맞게 — enone_resonance.svg 삽입 -->
 C=C가 carbonyl 같은 electron-withdrawing group(EWG)과 conjugated system을 이루면, 전자 밀도가 낮아진 alkene의 탄소가 **electrophile로** 반응할 수 있다.
 
-![methyl vinyl ketone의 공명 구조: carbonyl 탄소와 beta 탄소의 electrophilic 성격](../../figures/L11/enone_resonance.svg)
+![methyl vinyl ketone의 resonance contributor: carbonyl 탄소와 beta 탄소의 electrophilic 성격](../../figures/L11/enone_resonance.svg)
 
-그림: methyl vinyl ketone의 공명 구조. C=O와 C=C의 $\pi$ 전자가 이동하면 양전하가 carbonyl 탄소뿐 아니라 $\beta$-탄소에도 놓일 수 있다. 이 때문에 conjugated alkene의 $\beta$-탄소가 nucleophile의 공격을 받는다. (출처: L11 p.3)
+그림: methyl vinyl ketone의 resonance contributor. C=O와 C=C의 $\pi$ 전자가 이동하면 양전하가 carbonyl 탄소뿐 아니라 $\beta$-탄소에도 놓일 수 있다. 이 때문에 conjugated alkene의 $\beta$-탄소가 nucleophile의 공격을 받는다. (출처: L11 p.3)
 
 이 강의는 이 "뒤집힌 alkene"이 amine, thiol, cyanide ion, 유기구리 시약, enolate, enamine 같은 nucleophile과 어떻게 반응하는지 다루고,
 nucleophile이 carbonyl 탄소를 공격할지(1,2) $\beta$-탄소를 공격할지(1,4)를 무엇이 정하는지 정리한다.
 뒤쪽에서는 L7(enolate alkylation), L8(aldol), L10(enol과 enamine)에서 만든 nucleophile들을 다시 꺼내 1,5-dicarbonyl 화합물을 만들고,
-키랄 amine 촉매가 만드는 iminium 이온과 nucleophilic aromatic substitution(SNAr)까지 이어간다. SNAr는 conjugate addition 뒤에 $\beta$ -leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
+chiral amine 촉매가 만드는 iminium ion과 nucleophilic aromatic substitution(SNAr)까지 이어간다. SNAr는 conjugate addition 뒤에 $\beta$ -leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
 
 ---
 
-## 1. 공액계(conjugated system)란 무엇이고, 왜 $\beta$-탄소가 양전하를 띠나?
+## 1. conjugated system란 무엇이고, 왜 $\beta$-탄소가 양전하를 띠나?
 
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
 
@@ -58,32 +58,29 @@ carbonyl 탄소 옆이 $\alpha$-탄소, 그 다음이 $\beta$-탄소다. 슬라�
 | $\alpha,\beta$-unsaturated 산 | propenoic acid | acrylic acid | CH2=CH-COOH |
 | $\alpha,\beta$-unsaturated ester | ethyl propenoate | ethyl acrylate | CH2=CH-CO2Et |
 
-이중결합이 carbonyl에서 한 칸 더 떨어진 $\beta,\gamma$-unsaturated ketone(예: CH3CO-CH2-CH=CH2)은 공액계가 아니라서 이 강의의 반응성을 보이지 않는다.
+이중결합이 carbonyl에서 한 칸 더 떨어진 $\beta,\gamma$-unsaturated ketone(예: CH3CO-CH2-CH=CH2)은 conjugated system이 아니라서 이 강의의 반응성을 보이지 않는다.
 
-그렇다면 왜 $\beta$-탄소가 nucleophile을 끌어당길까? 공명 구조를 그려보면 답이 나온다.
-중성 구조(A)에서 C=O의 $\pi$ 전자를 산소로 밀면 carbonyl 탄소에 양전하가 생기고(B),
-이어서 C=C의 $\pi$ 전자를 옮기면 **$\beta$-탄소에 양전하가** 생긴다(C).
-즉 $\beta$-탄소와 carbonyl 탄소 둘 다 $\delta^{+}$ 를 띤다.
+왜 $\beta$-탄소에도 nucleophile이 첨가할 수 있을까? C=O bond의 polarization이 conjugated system에 어떻게 반영되는지 resonance contributor로 살펴보면 된다. 중성 contributor A에서 전자쌍 배치를 바꾸어 그린 B에는 carbonyl 탄소의 formal charge가 +1이고, C에는 $\beta$-탄소의 formal charge가 +1이다. A, B, C는 차례로 생기는 intermediate가 아니라 **같은 분자를 나타내는 서로 다른 resonance contributor**다. 실제 분자에는 이 전자 분포가 함께 반영되어 carbonyl 탄소와 $\beta$-탄소 모두 electrophilic site가 될 수 있다. Contributor의 +1 formal charge를 실제 원자에 고정된 +1 전하와 혼동하지 않는다.
 
-그래서 일반 alkene은 E+를 공격하지만, 공액계 alkene은 Nu-에게 공격받는다.
+그래서 일반 alkene은 E+를 공격하지만, conjugated system alkene은 Nu-에게 공격받는다.
 
-![methyl vinyl ketone의 세 공명 구조 A, B, C: beta-탄소에 양전하가 생기는 과정](../../figures/L11/enone_resonance.svg)
+![methyl vinyl ketone의 세 resonance contributor A, B, C: beta-탄소에 양전하가 생기는 과정](../../figures/L11/enone_resonance.svg)
 
-그림: methyl vinyl ketone으로 그린 공명 구조 A ↔ B ↔ C. A의 주황 화살표는 C=O의 $\pi$ 전자가 산소로 가는 것을, B의 화살표는 C=C의 $\pi$ 전자가 옆의 C–C 자리로 옮겨 가는 것을 나타낸다. 파란 O⁻는 음전하를 받은 산소, 빨간 +는 양전하가 놓이는 탄소다. B에서는 carbonyl 탄소, C에서는 $\beta$-탄소가 양전하를 띤다. 그래서 nucleophile이 노릴 수 있는 $\delta^{+}$ 자리가 두 곳이 된다.
+그림: methyl vinyl ketone으로 그린 resonance contributor A ↔ B ↔ C. A의 주황 화살표는 C=O의 $\pi$ 전자가 산소로 가는 것을, B의 화살표는 C=C의 $\pi$ 전자가 옆의 C–C 자리로 옮겨 가는 것을 나타낸다. 파란 O⁻는 음전하를 받은 산소, 빨간 +는 양전하가 놓이는 탄소다. B에서는 carbonyl 탄소, C에서는 $\beta$-탄소가 양전하를 띤다. 그래서 nucleophile이 노릴 수 있는 $\delta^{+}$ 자리가 두 곳이 된다.
 
 이 분극은 분광학에서도 보인다.
-- IR: 단순 ketone C=O는 1715 cm-1인데 짝지음 C=O는 1675 cm-1다. 공명으로 C=O가 단일결합 성격을 일부 띠어 결합이 약해졌다는 뜻이다(비교: C-O 단일결합 1050 cm-1).
-- 13C NMR: $\beta$-탄소는 약 140 ppm에서 나타나 일반 C=C(약 120 ppm)보다 deshielded이다. $\beta$-탄소의 전자 밀도가 낮다는 증거다.
+- IR: 단순 ketone C=O는 1715 cm-1인데 conjugated C=O는 1675 cm-1다. 공명으로 C=O가 단일결합 성격을 일부 띠어 결합이 약해졌다는 뜻이다(비교: C-O 단일결합 1050 cm-1).
+- 13C NMR: $\beta$-탄소는 약 140 ppm에서 나타나 일반 C=C(약 120 ppm)보다 deshielded이다. 이 deshielding은 conjugated system의 polarization과 일치하지만, chemical shift가 해당 원자의 전하량을 직접 측정한 값은 아니다.
 
-보충: IR에서는 C=C 흡수도 함께 변한다. 고립된 C=C는 약 1650 cm-1에서 약하게 흡수하지만, 짝지음 계에서는 약 1615 cm-1로 내려가고 세기가 커진다. 진동수가 내려간 것은 C=C도 약해졌다는 뜻이고, 세기가 커진 것은 C=O와 짝지으면서 C=C의 쌍극자 모멘트가 커졌다는 뜻이다. 또 13C NMR에서 $\alpha$-탄소는 약 120 ppm 근처에 머문다. 전자가 빠지는 자리는 $\alpha$ 가 아니라 $\beta$ 라는 점이 숫자로도 보인다. (보충 근거: Clayden p.501)
+보충: IR에서는 C=C 흡수도 함께 변한다. 고립된 C=C는 약 1650 cm-1에서 약하게 흡수하지만, conjugated system에서는 약 1615 cm-1로 내려가고 세기가 커진다. 진동수가 내려간 것은 C=C도 약해졌다는 뜻이고, 세기가 커진 것은 C=O와 짝지으면서 C=C의 dipole 모멘트가 커졌다는 뜻이다. 또 13C NMR에서 $\alpha$-탄소는 약 120 ppm 근처에 머문다. 이 비교에서는 $\beta$-탄소의 deshielding이 더 뚜렷하다. NMR shift에는 결합 환경과 magnetic anisotropy 등도 기여하므로, 이 차이를 원자별 전하량의 직접 비교로 해석하지 않는다. (보충 근거: Clayden p.501)
 
-보충: 공명 구조는 "어디가 $\delta^{+}$ 인가"를 보여 줄 뿐이고, 실제 결합이 생기는 단계는 nucleophile의 HOMO에서 받개의 LUMO로 전자가 들어가는 과정이다. acrolein(propenal)의 LUMO는 $\beta$-탄소에서 계수가 가장 크고, carbonyl 탄소에서 두 번째로 크다. 그래서 $\beta$-탄소가 1순위 공격 자리이고, carbonyl 탄소도 경쟁 자리로 남는다. 3절의 1,2/1,4 경쟁은 이 "두 번째로 큰 계수"에서 나온다. (보충 근거: Clayden p.502)
+보충: resonance contributor는 "어디가 $\delta^{+}$ 인가"를 보여 줄 뿐이고, 실제 결합이 생기는 단계는 nucleophile의 HOMO에서 받개의 LUMO로 전자가 들어가는 과정이다. acrolein(propenal)의 LUMO는 $\beta$-탄소에서 계수가 가장 크고, carbonyl 탄소에서 두 번째로 크다. 그래서 $\beta$-탄소가 1순위 공격 자리이고, carbonyl 탄소도 경쟁 자리로 남는다. 3절의 1,2/1,4 경쟁은 이 "두 번째로 큰 계수"에서 나온다. (보충 근거: Clayden p.502)
 
 (출처: L11 p.3)
 
-#### 공명식에서 읽어야 할 것과 실제 반응에서 바뀌는 것
+#### resonance contributor에서 읽어야 할 것과 실제 반응에서 바뀌는 것
 
-공명식을 그릴 때에는 원자나 H를 움직이지 않고 전자만 옮긴다. 따라서 A, B, C는 차례로 생성되는 세 intermediate가 아니라 **같은 분자를 나타내는 기여 구조** 다. C에 $\beta$-탄소의 양전하를 그릴 수 있다는 것은 그 자리가 electrophilic하다는 뜻이지, 용액에 자유로운 $\beta$ -carbocation이 먼저 생긴다는 뜻은 아니다. 실제 nucleophilic addition에서는 Nu와 탄소 사이에 새 결합을 만들면서 conjugated 계의 전자를 O 쪽으로 밀어 octet을 유지한다. (출처: L11 p.3–5)
+resonance contributor를 그릴 때에는 원자나 H를 움직이지 않고 전자만 옮긴다. 따라서 A, B, C는 차례로 생성되는 세 intermediate가 아니라 **같은 분자를 나타내는 기여 구조** 다. C에 $\beta$-탄소의 양전하를 그릴 수 있다는 것은 그 자리가 electrophilic하다는 뜻이지, 용액에 자유로운 $\beta$ -carbocation이 먼저 생긴다는 뜻은 아니다. 실제 nucleophilic addition에서는 Nu와 탄소 사이에 새 결합을 만들면서 conjugated 계의 전자를 O 쪽으로 밀어 octet을 유지한다. (출처: L11 p.3–5)
 
 번호는 두 체계를 구분해서 읽는다. 분자 이름에서 carbonyl 탄소가 C1이면 이웃 탄소가 C2( $\alpha$ ), 다음이 C3( $\beta$ )다. 반면 **1,4-addition의 번호는 O–C–C–C를 세는 번호이므로** O가 1, carbonyl 탄소가 2, $\alpha$-탄소가 3, $\beta$-탄소가 4다. 따라서 “1,4라서 분자 이름의 C4에 붙는다”는 뜻이 아니다. 두 체계에서 실제 공격 원자는 똑같은 $\beta$-탄소다. (출처: L11 p.3,9)
 
@@ -150,13 +147,13 @@ $$
 
 (수율 75%)
 
-![MeNH2가 mesityl oxide의 beta-탄소를 공격해 쌍극성 이온 enolate가 되는 1단계](../../figures/L11/amine_addition.svg)
+![MeNH2가 mesityl oxide의 beta-탄소를 공격해 zwitterion enolate가 되는 1단계](../../figures/L11/amine_addition.svg)
 
-그림: 아래 1단계를 그린 것이다. 화살표는 셋이다. (1) $MeNH_2$ 질소(파랑, nucleophile)의 비공유 전자쌍이 $\delta^{+}$ 인 $\beta$-탄소(빨간 C=C 쪽)를 공격한다. (2) C=C의 $\pi$ 전자가 carbonyl 쪽 C–C 자리로 밀려 간다. (3) C=O의 $\pi$ 전자가 O에 비공유 전자쌍으로 남아 O⁻(파랑)가 된다. 초록 결합은 새로 생긴 C–N 결합이다. 생성물은 N⁺와 O⁻를 함께 가진 쌍극성 이온이며, 이어서 양성자 이동과 tautomerization이 일어난다(2–4단계).
+그림: 아래 1단계를 그린 것이다. 화살표는 셋이다. (1) $MeNH_2$ 질소(파랑, nucleophile)의 비공유 전자쌍이 $\delta^{+}$ 인 $\beta$-탄소(빨간 C=C 쪽)를 공격한다. (2) C=C의 $\pi$ 전자가 carbonyl 쪽 C–C 자리로 밀려 간다. (3) C=O의 $\pi$ 전자가 O에 비공유 전자쌍으로 남아 O⁻(파랑)가 된다. 초록 결합은 새로 생긴 C–N 결합이다. 생성물은 N⁺와 O⁻를 함께 가진 zwitterion이며, 이어서 proton transfer과 tautomerization이 일어난다(2–4단계).
 
 메커니즘은 네 단계로 나뉜다.
-1. **친핵성 공격** : MeNH2 질소의 비공유 전자쌍이 $\delta^{+}$ 인 $\beta$-탄소(electrophile)를 공격한다. 새 C-N 결합이 생기고, C=C의 $\pi$ 전자는 C=O 쪽으로 밀려 산소 anion이 된다. 이렇게 한 분자 안에 ammonium 부분(N⁺)과 enolate 부분(O⁻)이 함께 있는 zwitterion이 생긴다.
-2. **양성자 이동** : 암모늄 N-H의 양성자가 산소로 옮겨간다. 중성 amine과 enol이 된다.
+1. **nucleophilic attack** : MeNH2 질소의 비공유 전자쌍이 $\delta^{+}$ 인 $\beta$-탄소(electrophile)를 공격한다. 새 C-N 결합이 생기고, C=C의 $\pi$ 전자는 C=O 쪽으로 밀려 산소 anion이 된다. 이렇게 한 분자 안에 ammonium 부분(N⁺)과 enolate 부분(O⁻)이 함께 있는 zwitterion이 생긴다.
+2. **proton transfer** : ammonium N-H의 양성자가 산소로 옮겨간다. 중성 amine과 enol이 된다.
 3. **tautomerization** : enol이 keto형으로 바뀐다. $\alpha$-탄소에 H가 붙고 C=O가 다시 생긴다.
 4. 그 결과 $\beta$ -amino ketone이 남는다.
 
@@ -170,7 +167,7 @@ $$
 
 슬라이드에는 각 단계가 가역(⇌)으로 그려져 있다.[^1]
 
-보충: amine은 중성 nucleophile이므로 따로 산을 넣지 않아도 amine 자신(N–H)이 enolate에 줄 양성자를 공급한다. 이 절의 carbonyl 받개에 대한 conjugate addition은 enolate(또는 enol)를 거치므로, 이 양성자를 공급할 곳이 필요하다. 그래서 conjugate addition은 보통 물이나 alcohol 같은 양성자성 용매에서 하고, alcohol을 nucleophile로 쓸 때는 촉매량의 염기만 있으면 된다(enolate가 물에서 양성자를 받으며 OH-를 다시 내놓는다). 또 1차 amine 생성물은 아직 N–H가 남아 친핵성을 띠므로, 받개가 충분하면 **두 번째 conjugate addition이** 일어날 수 있다(예: MeNH2 + acrylonitrile 2분자). (보충 근거: Clayden p.503, p.510)
+보충: amine은 중성 nucleophile이므로 따로 산을 넣지 않아도 amine 자신(N–H)이 enolate에 줄 양성자를 공급한다. 이 절의 carbonyl 받개에 대한 conjugate addition은 enolate(또는 enol)를 거치므로, 이 양성자를 공급할 곳이 필요하다. 그래서 conjugate addition은 보통 물이나 alcohol 같은 protic solvent에서 하고, alcohol을 nucleophile로 쓸 때는 촉매량의 염기만 있으면 된다(enolate가 물에서 양성자를 받으며 OH-를 다시 내놓는다). 또 1차 amine 생성물은 아직 N–H가 남아 nucleophilicity를 띠므로, 받개가 충분하면 **두 번째 conjugate addition이** 일어날 수 있다(예: MeNH2 + acrylonitrile 2분자). (보충 근거: Clayden p.503, p.510)
 
 (출처: L11 p.5)
 
@@ -256,7 +253,7 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 
 (출처: L11 p.8)
 
-#### cuprate 역합성은 새 결합을 먼저 찾는다
+#### cuprate retrosynthesis은 새 결합을 먼저 찾는다
 
 예를 들어 2-heptanone을 만들려면 carbonyl 탄소를 C2로 두고 사슬의 C3를 $\alpha$ , C4를 $\beta$ 로 표시한다. C4–C5 결합을 새 결합으로 보고 끊으면, 받개는 methyl vinyl ketone이고 전달할 조각은 propyl이다. 이때 이중결합을 되살릴 자리는 **최종 생성물의 C3–C4** , 즉 carbonyl에 인접한 $\alpha{-}\beta$ 결합이다. 끊은 C4–C5 자체를 이중결합으로 바꾸는 것이 아니다. (출처: L11 p.8; 풀이 적용)
 
@@ -284,7 +281,7 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 | 원래 C=C | 남음 | 단일결합이 됨 |
 | 원래 C=O | C–OH가 됨 | 후처리 후 회복됨 |
 
-이 비교표의 alcohol/ketone 비교는 이 강의의 hydride 및 탄소 nucleophile이 enal·enone에 첨가하는 예에 적용한다. amine 같은 중성 nucleophile의 직접 첨가 중간체에는 N의 전하와 뒤따르는 반응도 따로 고려한다. acyl chloride처럼 leaving group이 있는 carbonyl에서는 1,2 공격 뒤 제거가 이어져 amide 같은 acyl 치환 생성물이 나오므로, “1,2면 최종적으로 무조건 alcohol”이라고 적용하지 않는다. 최종 생성물을 정하려면 **첫 공격 위치와 그 뒤 반응을 따로** 읽어야 한다. (출처: L11 p.9–11)
+이 비교표의 alcohol/ketone 비교는 이 강의의 hydride 및 탄소 nucleophile이 enal·enone에 첨가하는 예에 적용한다. amine 같은 중성 nucleophile의 직접 첨가 intermediate에는 N의 전하와 뒤따르는 반응도 따로 고려한다. acyl chloride처럼 leaving group이 있는 carbonyl에서는 1,2 공격 뒤 제거가 이어져 amide 같은 acyl 치환 생성물이 나오므로, “1,2면 최종적으로 무조건 alcohol”이라고 적용하지 않는다. 최종 생성물을 정하려면 **첫 공격 위치와 그 뒤 반응을 따로** 읽어야 한다. (출처: L11 p.9–11)
 
 ### 3.1 요인 1: $\alpha,\beta$-unsaturated 계의 작용기
 
@@ -350,19 +347,19 @@ $$
 
 그림: 먼저 1,4로 C=C가, 그다음 C=O가 환원된다.
 
-보충: 이 순서가 "왜" carbonyl의 반응성 순서인지는 L4~L5에서 본 carbonyl 반응성과 같다. ester의 OR, amide의 NR2는 비공유 전자쌍을 C=O로 밀어 넣어 carbonyl 탄소의 $\delta^{+}$ 를 줄인다. 그래서 nucleophile이 C=O로 직접 갈 이유가 약해지고 $\beta$-탄소가 상대적으로 유리해진다. 극단적으로 NaBH4는 ester·amide C=O를 아예 환원하지 못하므로, $\alpha,\beta$-unsaturated ester에는 짝지음 환원만 일어난다. 반대로 enone에서 C=O만 골라 환원하고 싶으면 NaBH4에 CeCl3을 넣는 Luche 환원을 쓴다. (보충 근거: Clayden p.506)
+보충: 이 순서가 "왜" carbonyl의 반응성 순서인지는 L4~L5에서 본 carbonyl 반응성과 같다. ester의 OR, amide의 NR2는 비공유 전자쌍을 C=O로 밀어 넣어 carbonyl 탄소의 $\delta^{+}$ 를 줄인다. 그래서 nucleophile이 C=O로 직접 갈 이유가 약해지고 $\beta$-탄소가 상대적으로 유리해진다. 극단적으로 NaBH4는 ester·amide C=O를 아예 환원하지 못하므로, $\alpha,\beta$-unsaturated ester에는 conjugate reduction만 일어난다. 반대로 enone에서 C=O만 골라 환원하고 싶으면 NaBH4에 CeCl3을 넣는 Luche 환원을 쓴다. (보충 근거: Clayden p.506)
 
-보충: 슬라이드의 세 요인 외에 Clayden은 **$\beta$-탄소의 입체 장애도** 요인으로 꼽는다. $\beta$-탄소가 붐비면 직접(1,2) 첨가 쪽으로, $\beta$-탄소가 드러나 있으면 conjugate addition 쪽으로 기운다. methyl vinyl ketone이나 exo-methylene ketone처럼 $\beta$ 가 CH2인 받개가 가장 반응성 좋은 Michael 받개인 이유다. (보충 근거: Clayden p.510, p.609)
+보충: 슬라이드의 세 요인 외에 Clayden은 **$\beta$-탄소의 steric hindrance도** 요인으로 꼽는다. $\beta$-탄소가 붐비면 직접(1,2) 첨가 쪽으로, $\beta$-탄소가 드러나 있으면 conjugate addition 쪽으로 기운다. methyl vinyl ketone이나 exo-methylene ketone처럼 $\beta$ 가 CH2인 받개가 가장 반응성 좋은 Michael 받개인 이유다. (보충 근거: Clayden p.510, p.609)
 
 (출처: L11 p.10)
 
 #### 작용기 예시를 비교할 때 고정해야 하는 것
 
-acryloyl chloride와 methyl acrylate는 같은 $\mathrm{CH_2{=}CH{-}CO{-}}$ 부분을 가지지만 carbonyl의 나머지 치환기가 다르다. 전자는 carbonyl이 반응성이 크고 Cl⁻가 떨어질 수 있어 ammonia로 acyl 치환을 한다. 후자는 OR의 전자 주개 효과 때문에 carbonyl 직접 공격의 경쟁이 약해져, 강의 조건에서는 ammonia의 $\beta$ 첨가가 관찰된다. 두 예의 차이는 ammonia 자체가 바뀌어서가 아니다. (출처: L11 p.10)
+acryloyl chloride와 methyl acrylate는 같은 $\mathrm{CH_2{=}CH{-}CO{-}}$ 부분을 가지지만 carbonyl의 나머지 치환기가 다르다. 전자는 carbonyl이 반응성이 크고 Cl⁻가 떨어질 수 있어 ammonia로 acyl 치환을 한다. 후자는 OR의 electron-donating effect 때문에 carbonyl 직접 공격의 경쟁이 약해져, 강의 조건에서는 ammonia의 $\beta$ 첨가가 관찰된다. 두 예의 차이는 ammonia 자체가 바뀌어서가 아니다. (출처: L11 p.10)
 
 환원에서는 **한 번의 hydride 전달과 최종 생성물을 구분한다**. cinnamaldehyde의 예는 C=O만 환원되어 C=C가 남는다. cyclopentenone의 예는 1,4 환원으로 ketone이 생긴 뒤 그 C=O가 다시 환원되어 포화 alcohol이 된다. 따라서 최종 cyclopentanol을 보고 “hydride가 한 단계에서 모든 결합을 환원했다”거나, 이 예를 모든 enone의 NaBH₄ 반응에 그대로 적용하면 안 된다. (출처: L11 p.10)
 
-### 3.2 요인 2: nucleophile, Grignard vs 유기구리
+### 3.2 요인 2: nucleophile, Grignard reagents vs organocuprates
 
 같은 2-cyclohexenone에 methyl group을 도입해도 시약에 따라 첨가 위치가 달라진다.
 
@@ -374,7 +371,7 @@ acryloyl chloride와 methyl acrylate는 같은 $\mathrm{CH_2{=}CH{-}CO{-}}$ 부�
 
 ![2-cyclohexenone + MeLi → 1-methylcyclohex-2-en-1-ol (1,2)](../../figures/L11/cyclohexenone_meli.svg)
 
-그림: 단단한 유기금속은 C=O(빨강)에 1,2-첨가한다.
+그림: hard organometallic nucleophile은 C=O(빨강)에 1,2-첨가한다.
 
 (출처: L11 p.11)
 
@@ -391,14 +388,14 @@ acryloyl chloride와 methyl acrylate는 같은 $\mathrm{CH_2{=}CH{-}CO{-}}$ 부�
 1,2 경로와 달리 methyl은 $\beta$-탄소에 붙는다. 후처리 뒤에는 C=O가 남고 원래 C=C가 단일결합이 된다. (출처: L11 p.11)
 
 왜 이렇게 갈릴까? hard/soft 개념으로 설명한다.
-- **hard nucleophile은** hard electrophile인 **carbonyl 탄소와** 반응하는 경향이 있다(1,2-첨가). 전하가 크고 작은 영역에 집중되어 있어 정전기적 인력이 큰 자리를 고른다고 보면 된다.
+- **hard nucleophile은** hard electrophile인 **carbonyl 탄소와** 반응하는 경향이 있다(1,2-첨가). Hard/soft 구분에서는 전자 분포의 공간적 집중도와 polarizability를 함께 본다. 이 유기금속 비교에서 hard nucleophile은 상대적으로 낮은 polarizability를 보이며, carbonyl 탄소와의 electrostatic interaction이 1,2-첨가 경향을 설명하는 데 유용하다. Hard를 strong nucleophile 또는 strong base와 같은 뜻으로 쓰지는 않는다.
 - **soft nucleophile은** soft electrophile인 **$\beta$-탄소와** 반응하는 경향이 있다(1,4-첨가).
 
 | hard nucleophile | borderline | soft nucleophile |
 |---|---|---|
 | F-, OH-, RO-, Cl- | N3-, CH-(원문 표기)[^3] | I-, RS-, RSe- |
 | H2O, ROH, ROR, RCOR' | RNH2, RR'NH | RSH, RSR', R3P |
-| RMgBr, RLi | Br- | alkene, 방향족 고리 |
+| RMgBr, RLi | Br- | alkene, aromatic 고리 |
 | | | R2CuLi |
 
 그래서 RMgBr/RLi는 1,2로, R2CuLi와 thiol(RS-, RSH)은 1,4로 간다고 기억하면 된다.
@@ -440,7 +437,7 @@ $$
 
 그림: 보충: 왼쪽: $CN^-$ (파랑)이 carbonyl C를 직접 공격하고 C=O $\pi$ 전자가 O로 간다(1,2-첨가, 빠르지만 가역). 오른쪽: $CN^-$ 이 $\beta$-탄소(빨강)를 공격하고 C=C $\pi$ 전자가 C–C로, C=O $\pi$ 전자가 O로 밀려 enolate가 된다(1,4-첨가, 더 안정한 생성물).
 
-왜 그럴까? 에너지 도표로 보면 1,2-첨가의 활성화 에너지(EA1, TS1)가 1,4-첨가(EA2, TS2)보다 낮다. 그래서 저온에서는 빨리 생기는 P1이 쌓인다. 그런데 P2가 에너지상 더 낮다. 두 경로 모두 C-C $\sigma$ 결합 하나를 얻지만, 1,2-첨가는 C=O $\pi$ 결합(약 369 kJ/mol)을 잃고 1,4-첨가는 C=C $\pi$ 결합(약 280 kJ/mol)을 잃는다. 즉 1,4는 더 약한 결합을 희생하고 강한 C=O를 보존하니 더 안정하다. 고온에서는 가역적인 1,2-첨가가 풀렸다가 다시 일어나기를 반복하면서 결국 안정한 P2로 모인다.
+왜 그럴까? 에너지 도표로 보면 1,2-첨가의 activation energy(EA1, TS1)가 1,4-첨가(EA2, TS2)보다 낮다. 그래서 저온에서는 빨리 생기는 P1이 쌓인다. 그런데 P2가 에너지상 더 낮다. 두 경로 모두 C-C $\sigma$ 결합 하나를 얻지만, 1,2-첨가는 C=O $\pi$ 결합(약 369 kJ/mol)을 잃고 1,4-첨가는 C=C $\pi$ 결합(약 280 kJ/mol)을 잃는다. 즉 1,4는 더 약한 결합을 희생하고 강한 C=O를 보존하니 더 안정하다. 고온에서는 가역적인 1,2-첨가가 풀렸다가 다시 일어나기를 반복하면서 결국 안정한 P2로 모인다.
 
 보충: 그렇다면 1,2가 "왜" 더 빠를까? $\beta$-탄소도 $\delta^{+}$ 를 띠지만 carbonyl 탄소가 더 큰 양전하를 띠므로, 음전하를 띤 CN-는 정전기적으로 carbonyl 탄소에 더 빨리 끌린다. 그리고 결정적인 차이는 **가역성이다**. cyanohydrin 형성은 가역이라 평형 속에 늘 출발 enone이 조금 남아 있고, 이 enone이 가끔 1,4-첨가를 하면 그 생성물은 (사실상) 되돌아오지 않는다. 그 결과 1,4 생성물이 조금씩 쌓이고, enone–cyanohydrin 평형이 이를 보충하느라 cyanohydrin이 점점 소모된다. 실온에서도 원리상 일어나지만 매우 느리고, 80 °C에서는 몇 시간이면 끝난다. 같은 논리로 더 높은 온도(예: 160 °C)를 쓰는 예도 있다. (보충 근거: Clayden p.504–505)
 
@@ -480,7 +477,7 @@ $$
 
 보충: nitrile 받개가 특히 깔끔한 이유는, nitrile 탄소는 친전자 자리로서 반응성이 낮아 nucleophile이 C≡N에 직접 붙는 경쟁(carbonyl의 1,2-첨가에 해당)이 거의 없기 때문이다. 그러면서도 음전하는 carbonyl처럼 잘 안정화한다. 그래서 acrylonitrile은 enolate에 대해 가장 좋은 Michael 받개 중 하나다. (보충 근거: Clayden p.510)
 
-보충: 역합성에서 거꾸로 쓰는 요령도 기억해 두자. Claisen 축합은 두 carbonyl 사이에 포화 탄소가 하나인 1,3-dicarbonyl을, Michael 첨가는 포화 탄소가 셋인 **1,5-dicarbonyl을** 준다. 표적에 1,5 관계가 보이면 한쪽 carbonyl 기준 $\beta,\gamma$ 결합을 끊어 보자. $\beta$ 쪽 조각은 $\alpha,\beta$-unsaturated 받개, 다른 조각은 enolate(필요하면 ester를 덧붙인 안정한 enolate) 공여체가 된다. (보충 근거: Wade p.1087–1088)
+보충: retrosynthesis에서 거꾸로 쓰는 요령도 기억해 두자. Claisen condensation은 두 carbonyl 사이에 포화 탄소가 하나인 1,3-dicarbonyl을, Michael 첨가는 포화 탄소가 셋인 **1,5-dicarbonyl을** 준다. 표적에 1,5 관계가 보이면 한쪽 carbonyl 기준 $\beta,\gamma$ 결합을 끊어 보자. $\beta$ 쪽 조각은 $\alpha,\beta$-unsaturated 받개, 다른 조각은 enolate(필요하면 ester를 덧붙인 안정한 enolate) 공여체가 된다. (보충 근거: Wade p.1087–1088)
 
 (출처: L11 p.14)
 
@@ -506,7 +503,7 @@ $$
 - **conjugate addition(촉진해야 할 것)** : 1,5-dicarbonyl로 간다.
 - **직접 첨가 = aldol(피해야 할 것)** : alkoxide를 거쳐 $\beta$ -hydroxy carbonyl이 된다(ketone 받개이면 OH 탄소가 3차, aldehyde 받개이면 2차). 이 단원의 경쟁 반응에서 aldol 단계는 **가역적이다**.
 
-aldol이 가역이라는 점이 중요하다. 이 조건에서 aldol이 되었다가 되돌아오면, 상대적으로 되돌아가기 어렵고 thermodynamic으로 유리한 conjugate addition 생성물이 축적될 수 있다(3.3절의 논리와 같다).
+aldol이 가역이라는 점이 중요하다. 이 조건에서 aldol이 되었다가 되돌아오면, 상대적으로 되돌아가기 어렵고 thermodynamically 유리한 conjugate addition 생성물이 축적될 수 있다(3.3절의 논리와 같다).
 
 보충: 따라서 conjugate addition을 돕는 전략은 모두 "aldol을 더 쉽게 되돌리는" 방향이다. (1) enolate를 더 안정하게 만들면(예: malonic ester처럼 EWG 두 개) aldol 생성물에서 그 안정한 anion이 다시 떨어져 나가기 쉬워지고, 덤으로 aldol 생성물이 더 붐벼서 불안정해진다. (2) 받개를 ester·amide처럼 carbonyl이 덜 electrophilic한 화합물로 고르면 aldol 자체가 덜 일어나고 더 잘 되돌려진다. 4.3절과 4.4절의 예들은 모두 이 두 전략의 응용이다. (보충 근거: Clayden p.605–606)
 
@@ -534,7 +531,7 @@ $$
 
 두 경로에서 donor의 공격 원자는 같은 $\alpha$-탄소다. **aldol에서는 acceptor의 carbonyl 탄소** , **Michael에서는 acceptor의 $\beta$-탄소가** 상대 원자다. aldol 후처리 생성물에서는 공격받은 acceptor C=O가 OH로 바뀌지만, Michael 후처리 생성물에서는 그 C=O가 남는다. 따라서 “enolate를 썼다”는 사실만으로 Michael이라고 이름 붙이지 않는다. (출처: L11 p.14–16)
 
-강의 p.15의 3차 amide 받개는 N의 전자 주개 효과로 carbonyl 직접 공격이 상대적으로 불리하다. 이때 **carbonyl이 덜 electrophilic하다는 것과 conjugated alkene이 반응하지 않는다는 것은 다르다** . 바로 그 차이가 carbonyl 직접 첨가를 억제하면서 $\beta$ 첨가를 이용하는 설계다. 다만 모든 Michael 반응이 절대 비가역적이라는 뜻은 아니며, 여기서는 경쟁하는 aldol이 되돌아갈 수 있는 조건에서 원하는 생성물이 축적되는 흐름을 읽는다. (출처: L11 p.15) (보충 근거: Clayden p.605–606,610)
+강의 p.15의 3차 amide 받개는 N의 electron-donating effect로 carbonyl 직접 공격이 상대적으로 불리하다. 이때 **carbonyl이 덜 electrophilic하다는 것과 conjugated alkene이 반응하지 않는다는 것은 다르다** . 바로 그 차이가 carbonyl 직접 첨가를 억제하면서 $\beta$ 첨가를 이용하는 설계다. 다만 모든 Michael 반응이 절대 비가역적이라는 뜻은 아니며, 여기서는 경쟁하는 aldol이 되돌아갈 수 있는 조건에서 원하는 생성물이 축적되는 흐름을 읽는다. (출처: L11 p.15) (보충 근거: Clayden p.605–606,610)
 
 ### 4.3 counterion과 enolate 종류가 결과를 바꾼다
 
@@ -548,7 +545,7 @@ $$
 
 ![ethyl isobutyrate enolate + 3-methylbut-2-enal → 1,2-adduct](../../figures/L11/isobutyrate_12.svg)
 
-그림: 입체 장애가 큰 $\beta$-탄소 대신 C=O에 1,2-첨가한다.
+그림: steric hindrance가 큰 $\beta$-탄소 대신 C=O에 1,2-첨가한다.
 
 이번에는 enal을 받개로 썼는데 conjugate addition이 아니라 **aldol(1,2) 생성물이** 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic transition state)를 만든다. 그래서 enolate 탄소가 바로 옆의 carbonyl 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
 
@@ -568,7 +565,7 @@ $$
 2. 평형에서는 더 치환된(C=C에 Me가 붙은) **thermodynamic enolate가** 우세하다(→ [L7](L07_Enolate_Alkylation.md) 문서의 kinetic/thermodynamic enolate 참고).
 3. 이 enolate의 Me가 붙은 $\alpha$-탄소가 methyl acrylate의 $\beta$-탄소를 공격해서 4차 탄소가 생긴다. 생긴 ester enolate가 protonate되면 반응이 끝난다.
 
-보충: 위의 두 예를 나란히 놓으면 counterion의 역할이 보인다. Li+는 산소에 강하게 결합해 aldol 생성물(lithium alkoxide)을 안정화하므로, lithium enolate는 열역학 지배가 필요한 conjugate addition에 불리하다. Na+나 K+ enolate는 더 해리되어 있어 aldol이 되돌아가기 쉽고, 그래서 conjugate addition이 유리하다. t-BuOK를 고른 데도 이유가 있다. 부피가 커서 methyl acrylate의 ester carbonyl을 공격하지 않으면서, ketone의 일부를 deprotonation하여 enolate 평형을 형성할 수 있다. 예외적으로 3차 amide 받개는 carbonyl 탄소의 electrophilicity가 낮아 lithium enolate로도 conjugate addition이 된다(4.2절의 LDA 예). (보충 근거: Clayden p.607, p.610)
+보충: 위의 두 예를 나란히 놓으면 counterion의 역할이 보인다. Li+는 산소에 강하게 결합해 aldol 생성물(lithium alkoxide)을 안정화하므로, lithium enolate는 thermodynamic control가 필요한 conjugate addition에 불리하다. Na+나 K+ enolate는 더 해리되어 있어 aldol이 되돌아가기 쉽고, 그래서 conjugate addition이 유리하다. t-BuOK를 고른 데도 이유가 있다. 부피가 커서 methyl acrylate의 ester carbonyl을 공격하지 않으면서, ketone의 일부를 deprotonation하여 enolate 평형을 형성할 수 있다. 예외적으로 3차 amide 받개는 carbonyl 탄소의 electrophilicity가 낮아 lithium enolate로도 conjugate addition이 된다(4.2절의 LDA 예). (보충 근거: Clayden p.607, p.610)
 
 (출처: L11 p.16)
 
@@ -629,7 +626,7 @@ $$
 
 그림: Michael 첨가 뒤 nitronate가 C–I를 SN2로 닫아 고리(초록).
 
-보충: nitro group은 pKa 기준으로 carbonyl 두 개에 맞먹는 EWG다(nitroalkane $\alpha$ -H의 pKa 약 10). 그래서 Al2O3, K2CO3, amine 같은 아주 약한 염기로도 nitronate가 생기고, ketone·ester 쪽의 자기 축합 같은 부반응을 피할 수 있다. 또 반응은 **염기 촉매로** 돈다. 첨가 직후 생긴 enolate(conjugate acid pKa 약 20–25)가 nitronate보다 훨씬 강한 염기라서, 다음 nitroalkane 분자에서 양성자를 떼어 새 nucleophile을 만들어 주기 때문이다. 위 고리화 예의 염기는 Cs₂CO₃다. 교재는 큰 Cs⁺가 carbonate ion과 강하게 배위하지 않아 carbonate가 염기로 작용하기 유리한 조건이라고 설명한다. (보충 근거: Clayden p.611–612)
+보충: nitro group은 pKa 기준으로 carbonyl 두 개에 맞먹는 EWG다(nitroalkane $\alpha$ -H의 pKa 약 10). 그래서 Al2O3, K2CO3, amine 같은 아주 약한 염기로도 nitronate가 생기고, ketone·ester 쪽의 자기 condensation 같은 부반응을 피할 수 있다. 또 반응은 **염기 촉매로** 돈다. 첨가 직후 생긴 enolate(conjugate acid pKa 약 20–25)가 nitronate보다 훨씬 강한 염기라서, 다음 nitroalkane 분자에서 양성자를 떼어 새 nucleophile을 만들어 주기 때문이다. 위 고리화 예의 염기는 Cs₂CO₃다. 교재는 큰 Cs⁺가 carbonate ion과 강하게 배위하지 않아 carbonate가 염기로 작용하기 유리한 조건이라고 설명한다. (보충 근거: Clayden p.611–612)
 
 (출처: L11 p.17)
 
@@ -659,11 +656,11 @@ $$
 
 ![cyclohexanone + pyrrolidine → enamine](../../figures/L10/enamine_cyclohexanone.svg)
 
-그림: 2차 amine N(파랑)이 C=O(빨강)와 축합해 enamine(초록)이 된다.
+그림: 2차 amine N(파랑)이 C=O(빨강)와 condensation해 enamine(초록)이 된다.
 
 1. 질소의 비공유 전자쌍이 C=C 쪽으로 밀려서 enamine의 $\beta$-탄소(carbonyl이었던 탄소의 이웃)가 nucleophile이 된다. 이 탄소가 R-X를 SN2로 공격한다.
 2. **iminium이** 생긴다. iminium은 $\alpha$ -H를 잃고 enamine과 평형을 이룰 수 있다.
-3. 물과 산으로 가수분해하면 ketone이 다시 나오고, $\alpha$-위치에 R이 붙어 있다.
+3. 물과 산으로 hydrolysis하면 ketone이 다시 나오고, $\alpha$-위치에 R이 붙어 있다.
 
 슬라이드는 "Imine and Enamine are tautomers"라고 정리하고[^4], 환원성 amine화(reductive amination)를 떠올려 보라고 한다.
 
@@ -673,11 +670,11 @@ $$
 
 enamine을 $\mathrm{R_2N{-}C{=}C}$ 로 적으면 N에서 먼 쪽의 C가 새 결합을 만드는 탄소다. 이 탄소는 **원래 carbonyl 화합물을 기준으로는 $\alpha$-탄소이고**, N을 기준으로 부르는 enamine의 위치 표현에서는 $\beta$-탄소다. 강의마다 부르는 번호가 달라도 같은 원자다. enamine donor의 이 탄소와 Michael acceptor의 $\beta$-탄소를 구분하여 표시한 뒤 새 결합을 잇는다. (출처: L11 p.18–19; L10 p.11)
 
-N의 전자쌍은 C=N⁺를 만들며 전자를 밀어 주고, 실제 새 C–C 결합은 enamine의 C=C 전자가 만든다. 따라서 최종 생성물에 acceptor를 N에 직접 연결하면 이 강의의 carbon addition과 다른 생성물이다. 가수분해에서는 C=N을 거쳐 C=O가 돌아오며 amine이 분리된다. C–C 결합 형성에 관여한 탄소는 가수분해 후에도 같은 자리에 남는다. (출처: L11 p.18–19)
+N의 전자쌍은 C=N⁺를 만들며 전자를 밀어 주고, 실제 새 C–C 결합은 enamine의 C=C 전자가 만든다. 따라서 최종 생성물에 acceptor를 N에 직접 연결하면 이 강의의 carbon addition과 다른 생성물이다. hydrolysis에서는 C=N을 거쳐 C=O가 돌아오며 amine이 분리된다. C–C 결합 형성에 관여한 탄소는 hydrolysis 후에도 같은 자리에 남는다. (출처: L11 p.18–19)
 
 ### 5.2 enamine의 conjugate addition
 
-enamine은 전하가 없는 **soft 탄소 nucleophile이다**. 따라서 conjugate addition의 탄소 nucleophile로 사용할 수 있다. 반응 뒤 H2O로 iminium/enamine을 가수분해하면 ketone이 돌아온다.
+enamine은 전하가 없는 **soft 탄소 nucleophile이다**. 따라서 conjugate addition의 탄소 nucleophile로 사용할 수 있다. 반응 뒤 H2O로 iminium/enamine을 hydrolysis하면 iminium hydrolysis로 donor의 carbonyl group이 재생된다.
 
 $$
 \begin{gathered}\text{pyrrolidine}\cr \text{enamine}\end{gathered}\xrightarrow[\mathrm{2.\ H_2O}]{\mathrm{1.\ CH_2{=}C(SMe)CO_2Me}}\begin{gathered}\text{2-}(\mathrm{CH_2CH(SMe)CO_2Me})\cr \text{cyclohexanone}\end{gathered}
@@ -697,27 +694,27 @@ cyclohexanone 유래 morpholine enamine을 사용한다. 조건: SiO₂/THF, 0�
 
 ![pyrrolidine enamine + CH2=C(SMe)CO2Me → Michael (95%)](../../figures/L11/enamine_michael_sme.svg)
 
-그림: enamine $\beta$ -C(파랑)가 acceptor $\beta$-탄소(빨강)에 첨가한 뒤 가수분해.
+그림: enamine $\beta$ -C(파랑)가 acceptor $\beta$-탄소(빨강)에 첨가한 뒤 hydrolysis.
 
 ![morpholine enamine + CH2=C(SO2Ph)COCH3 → Michael (75%)](../../figures/L11/enamine_michael_so2ph.svg)
 
-그림: morpholine enamine의 탄소가 acceptor의 말단 탄소와 결합하고, 가수분해 후 donor의 ketone이 회복된다.
+그림: morpholine enamine의 탄소가 acceptor의 말단 탄소와 결합하고, hydrolysis 후 donor의 ketone이 회복된다.
 
 두 경우 모두 enamine 탄소는 받개의 말단 CH2( $\beta$-탄소)에 붙는다. 생성물은 1,5-dicarbonyl 관계다. 세 번째 예(morpholine enamine + EtO2C-CH=CH-NO2)는 빈칸이라서 연습 문제로 옮겼다.
 
-보충: enamine이 enol보다 나은 이유는 두 가지다. 질소가 산소보다 전자를 더 잘 밀어 주어 친핵성이 크고, 미리 정량적으로 만들어 둘 수 있다. 첨가 직후에는 enolate–iminium 쌍극성 이온이 생기는데, 빠른 양성자 이동으로 더 안정한 "carbonyl + enamine" tautomer가 된다. 이 enamine은 반응이 끝날 때까지 그대로 있다가 산성 수용액 후처리에서 iminium을 거쳐 가수분해되고, 2차 amine은 염산염으로 씻겨 나간다. 그래서 가수분해는 별도 단계라기보다 후처리의 일부다. (보충 근거: Clayden p.608)
+보충: enamine이 enol보다 나은 이유는 두 가지다. 질소가 산소보다 전자를 더 잘 밀어 주어 nucleophilicity가 크고, 미리 정량적으로 만들어 둘 수 있다. 첨가 직후에는 enolate–iminium zwitterion이 생기는데, 빠른 proton transfer로 더 안정한 "carbonyl + enamine" tautomer가 된다. 이 enamine은 반응이 끝날 때까지 그대로 있다가 산성 수용액 후처리에서 iminium을 거쳐 hydrolysis되고, 2차 amine은 염산염으로 씻겨 나간다. 그래서 hydrolysis는 별도 단계라기보다 후처리의 일부다. (보충 근거: Clayden p.608)
 
 (출처: L11 p.19)
 
-![pyrrolidine enamine의 beta-탄소가 methyl 2-(methylthio)acrylate의 말단 CH2를 공격해 iminium–enolate 쌍극성 이온이 되는 단계](../../figures/L11/enamine_conjugate.svg)
+![pyrrolidine enamine의 beta-탄소가 methyl 2-(methylthio)acrylate의 말단 CH2를 공격해 iminium–enolate zwitterion이 되는 단계](../../figures/L11/enamine_conjugate.svg)
 
-그림: [enamine](../../wiki/개념/엔아민.md)의 conjugate addition(cyclohexanone의 pyrrolidine enamine + CH₂=C(SMe)CO₂Me). 질소의 비공유 전자쌍(파랑)이 N–C 결합 쪽으로 밀려 C=N⁺를 만들고, 파란 C=C의 $\pi$ 전자가 받개의 $\beta$-탄소(빨간 C=C의 말단 CH₂)를 공격한다. 받개 쪽에서는 C=C의 $\pi$ 전자가 C–C(O) 자리로, C=O의 $\pi$ 전자가 산소로 간다. 결과는 iminium과 ester enolate가 한 분자에 있는 쌍극성 이온이고(초록이 새 C–C 결합), H₂O 후처리로 1,5-dicarbonyl 화합물이 된다. 보충: 슬라이드는 반응식만 보여 주며, 쌍극성 이온 intermediate는 Clayden의 설명을 따랐다. (출처: L11 p.19) (보충 근거: Clayden p.608)
+그림: [enamine](../../wiki/개념/엔아민.md)의 conjugate addition(cyclohexanone의 pyrrolidine enamine + CH₂=C(SMe)CO₂Me). 질소의 비공유 전자쌍(파랑)이 N–C 결합 쪽으로 밀려 C=N⁺를 만들고, 파란 C=C의 $\pi$ 전자가 받개의 $\beta$-탄소(빨간 C=C의 말단 CH₂)를 공격한다. 받개 쪽에서는 C=C의 $\pi$ 전자가 C–C(O) 자리로, C=O의 $\pi$ 전자가 산소로 간다. 결과는 iminium과 ester enolate가 한 분자에 있는 zwitterion이고(초록이 새 C–C 결합), H₂O 후처리로 1,5-dicarbonyl 화합물이 된다. 보충: 슬라이드는 반응식만 보여 주며, zwitterion intermediate는 Clayden의 설명을 따랐다. (출처: L11 p.19) (보충 근거: Clayden p.608)
 
 #### enamine Michael을 끝까지 그리는 순서
 
 p.19의 첫 받개 $\mathrm{CH_2{=}C(SMe)CO_2Me}$ 에서는 CO₂Me에 바로 붙은 탄소가 $\alpha$ , 말단 CH₂가 $\beta$ 다. SMe가 달린 탄소를 새 결합의 위치로 고르는 것이 아니다. donor의 반응 탄소를 말단 CH₂에 붙인 뒤, acceptor 쪽의 원래 $\alpha$-탄소에 H가 들어가면 **donor–CH₂–CH(SMe)–CO₂Me** 연결이 된다. SMe와 ester는 원래 같은 탄소에 연결된 상태를 유지한다. (출처: L11 p.19)
 
-첨가 직후 iminium⁺와 enolate⁻를 그렸다면 아직 후처리 전이다. proton transfer로 받개의 carbonyl이 돌아오고, 가수분해로 donor의 carbonyl도 돌아온 뒤 최종 구조를 읽는다. 그러면 donor ketone–donor $\alpha$ –acceptor $\beta$ –acceptor $\alpha$ –acceptor ester의 1,5 관계를 확인할 수 있다. **물 처리는 새 C–C 결합을 만드는 단계가 아니라 가수분해로 C=O를 회복하는 단계** 다. (출처: L11 p.19) (보충 근거: Clayden p.608)
+첨가 직후 iminium⁺와 enolate⁻를 그렸다면 아직 후처리 전이다. proton transfer로 받개의 carbonyl이 돌아오고, hydrolysis로 donor의 carbonyl도 돌아온 뒤 최종 구조를 읽는다. 그러면 donor ketone–donor $\alpha$ –acceptor $\beta$ –acceptor $\alpha$ –acceptor ester의 1,5 관계를 확인할 수 있다. **물 처리는 새 C–C 결합을 만드는 단계가 아니라 hydrolysis로 C=O를 회복하는 단계** 다. (출처: L11 p.19) (보충 근거: Clayden p.608)
 
 ### 5.3 합성 응용: dopamine 길항제
 
@@ -731,7 +728,7 @@ $$
 
 Triton B는 수산화 benzyltrimethylammonium이고, ester $\alpha$ -H를 떼는 염기 역할을 한다. 빈칸은 연습 문제로 옮겼다.
 
-보충: Triton B 같은 4차 암모늄 수산화물을 쓰는 이유는, 유기 cation 덕분에 수산화 이온이 유기 용매에 녹기 때문이다. Clayden은 같은 경로를 "enolate의 acrylonitrile conjugate addition → nitrile의 1차 amine 환원 → (저절로 일어나는) lactam 고리화 → alkylation과 amide 환원"으로 소개한다. 즉 H2/Pd/C 단계 뒤의 lactam 형성은 따로 시약이 필요 없는 자발적 반응이다. (보충 근거: Clayden p.612)
+보충: Triton B 같은 4차 ammonium 수산화물을 쓰는 이유는, 유기 cation 덕분에 수산화 이온이 유기 용매에 녹기 때문이다. Clayden은 같은 경로를 "enolate의 acrylonitrile conjugate addition → nitrile의 1차 amine 환원 → (저절로 일어나는) lactam 고리화 → alkylation과 amide 환원"으로 소개한다. 즉 H2/Pd/C 단계 뒤의 lactam 형성은 따로 시약이 필요 없는 자발적 반응이다. (보충 근거: Clayden p.612)
 
 (출처: L11 p.20)
 
@@ -741,19 +738,19 @@ Triton B는 수산화 benzyltrimethylammonium이고, ester $\alpha$ -H를 떼는
 
 보충: 그 NH₂가 같은 분자의 ester carbonyl을 공격하면, N–CH₂–CH₂–CH₂–CH(Ar)–C(=O)의 여섯 원자로 lactam 고리가 닫히고 ester의 EtO 부분은 ethanol로 빠진다. 마지막 amide 환원은 고리의 C=O를 CH₂로 바꾸며, N-propyl alkylation은 고리 N의 치환기를 정한다. **고리 골격을 만드는 단계, N 치환기를 넣는 단계, carbonyl을 없애는 단계를 구분** 하면 긴 합성식도 한 번에 외울 필요가 없다. (출처: L11 p.20) (보충 근거: Clayden p.612)
 
-## 6. iminium 이온 촉매: 받개를 더 강한 electrophile로 바꾸기
+## 6. iminium ion 촉매: 받개를 더 강한 electrophile로 바꾸기
 
 > 개념 문서: [iminium-catalysed conjugate addition](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [iminium ion](../../wiki/개념/이미늄%20이온.md)
 
-지금까지는 nucleophile을 바꿔서 conjugate addition을 조절했다. 그러면 받개 쪽을 강화할 수는 없을까? enal을 2차 amine 촉매와 축합해 **iminium 이온으로** 바꾸면 된다. iminium 이온은 중성 carbonyl 화합물보다 더 친전자적이다. 양전하를 띤 C=N+가 C=O보다 전자를 더 세게 끌기 때문이다.
+지금까지는 nucleophile을 바꿔서 conjugate addition을 조절했다. 그러면 받개 쪽을 강화할 수는 없을까? enal을 2차 amine 촉매와 condensation해 **iminium ion으로** 바꾸면 된다. iminium ion은 중성 carbonyl 화합물보다 더 electrophilic이다. 양전하를 띤 C=N+가 C=O보다 전자를 더 세게 끌기 때문이다.
 
-슬라이드의 반응: enal H-CO-CH=CH-R1과 pyrrole 유도체(R2, R3 치환, N-P)에 키랄 imidazolidinone 촉매(5-benzyl-2,2,3-trimethylimidazolidin-4-one, 20 mol%)를 넣으면 $\beta$-위치에 pyrrole C2가 붙은 aldehyde가 생긴다. 수율 68–90%, 87–97% ee, 12개 예시. R1은 방향족/지방족, R2·R3는 지방족, P = H, Me, allyl이다.[^6]
+슬라이드의 반응: enal H-CO-CH=CH-R1과 pyrrole 유도체(R2, R3 치환, N-P)에 chiral imidazolidinone 촉매(5-benzyl-2,2,3-trimethylimidazolidin-4-one, 20 mol%)를 넣으면 $\beta$-위치에 pyrrole C2가 붙은 aldehyde가 생긴다. 수율 68–90%, 87–97% ee, 12개 예시. R1은 aromatic/지방족, R2·R3는 지방족, P = H, Me, allyl이다.[^6]
 
 crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음과 같다.
-1. **iminium 형성** : 촉매의 2차 amine(N-H)이 crotonaldehyde와 축합해서 $\alpha,\beta$-unsaturated iminium 이온이 된다.
-2. **입체선택적 conjugate addition** : N-methylpyrrole의 C2(nucleophile, 전자 공여성이 있는 방향족 $\pi$ 계)가 iminium의 $\beta$-탄소(electrophile)를 공격한다. 이때 촉매의 benzyl group이 한쪽 면을 가리고 있다. 그래서 pyrrole은 **benzyl group을 피해 반대쪽(아래쪽) 면에서** 접근한다. 생성물은 촉매 쪽 enamine과 pyrrolium cation(방향족성이 깨진 상태)이다.
-3. **재방향족화** : pyrrolium에서 H+가 빠지면서 pyrrole의 방향족성이 회복된다.
-4. **가수분해** : iminium/enamine 부분이 가수분해되어 (R)-3-(1-methylpyrrol-2-yl)butanal이 나오고, 촉매가 재생된다.
+1. **iminium 형성** : 촉매의 2차 amine(N-H)이 crotonaldehyde와 condensation해서 $\alpha,\beta$-unsaturated iminium ion이 된다.
+2. **stereoselective conjugate addition** : N-methylpyrrole의 C2(nucleophile, 전자 공여성이 있는 aromatic $\pi$ 계)가 iminium의 $\beta$-탄소(electrophile)를 공격한다. 이때 촉매의 benzyl group이 한쪽 면을 가리고 있다. 그래서 pyrrole은 **benzyl group을 피해 반대쪽(아래쪽) 면에서** 접근한다. 생성물은 촉매 쪽 enamine과 pyrrolium cation(aromaticity가 깨진 상태)이다.
+3. **rearomatization** : pyrrolium에서 H+가 빠지면서 pyrrole의 aromaticity가 회복된다.
+4. **hydrolysis** : iminium/enamine 부분이 hydrolysis되어 (R)-3-(1-methylpyrrol-2-yl)butanal이 나오고, 촉매가 재생된다.
 
 즉 촉매가 받개를 활성화하고 동시에 면 선택성까지 정한다.
 
@@ -761,7 +758,7 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 
 ![N-methylpyrrole의 C2가 iminium ion의 beta-탄소를 benzyl group 반대쪽 면에서 공격하는 단계](../../figures/L11/iminium_attack.svg)
 
-그림: 2단계(입체선택적 conjugate addition). 왼쪽 위는 촉매와 crotonaldehyde가 만든 iminium ion이다(빨간 C=N⁺와 C=C가 받개). 아래의 N-methylpyrrole(파랑)에서 질소 전자쌍이 고리로 밀려 들어가고, 고리 C=C 전자가 옮겨 가며, 파란 C2=C3의 $\pi$ 전자가 iminium의 $\beta$-탄소를 공격한다. 동시에 받개의 C=C 전자는 C–C(=N⁺) 자리로, C=N⁺의 $\pi$ 전자는 질소로 간다. 오른쪽 생성물은 촉매 쪽 enamine과 pyrrolium cation이며, 새 C–C 결합(초록 점선 쐐기)은 슬라이드처럼 benzyl group(굵은 쐐기)를 피한 아래쪽 면 공격의 결과다. 이후 H⁺가 빠져 재방향족화하고 가수분해되면 (R)-aldehyde가 나온다. (출처: L11 p.21)
+그림: 2단계(stereoselective conjugate addition). 왼쪽 위는 촉매와 crotonaldehyde가 만든 iminium ion이다(빨간 C=N⁺와 C=C가 받개). 아래의 N-methylpyrrole(파랑)에서 질소 전자쌍이 고리로 밀려 들어가고, 고리 C=C 전자가 옮겨 가며, 파란 C2=C3의 $\pi$ 전자가 iminium의 $\beta$-탄소를 공격한다. 동시에 받개의 C=C 전자는 C–C(=N⁺) 자리로, C=N⁺의 $\pi$ 전자는 질소로 간다. 오른쪽 생성물은 촉매 쪽 enamine과 pyrrolium cation이며, 새 C–C 결합(초록 점선 쐐기)은 슬라이드처럼 benzyl group(굵은 쐐기)를 피한 아래쪽 면 공격의 결과다. 이후 H⁺가 빠져 rearomatization하고 hydrolysis되면 (R)-aldehyde가 나온다. (출처: L11 p.21)
 
 [원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.21](../../figures/L11/source/L11_p21.png)
 
@@ -774,9 +771,9 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 | 새 결합을 만드는 탄소 | 원래 donor의 $\alpha$-탄소 | acceptor의 $\beta$-탄소가 공격받음 |
 | 후처리 | donor C=O 회복 | acceptor C=O 회복 및 촉매 재생 |
 
-p.21에서는 pyrrole의 **C2와** enal의 **$\beta$-탄소를** 연결한다. pyrrole의 N은 고리 전자를 밀어 주지만 새 결합이 생기는 원자는 고리 C2다. 첨가로 aromaticity가 잠시 깨진 뒤 C2의 H⁺가 빠지면서 pyrrole이 다시 aromatic해진다. 그 뒤 aldehyde를 회복해야 최종 생성물이므로, 촉매와의 C–N 결합이 남은 중간체에서 답안을 끝내지 않는다. (출처: L11 p.18–21)
+p.21에서는 pyrrole의 **C2와** enal의 **$\beta$-탄소를** 연결한다. pyrrole의 N은 고리 전자를 밀어 주지만 새 결합이 생기는 원자는 고리 C2다. 첨가로 aromaticity가 잠시 깨진 뒤 C2의 H⁺가 빠지면서 pyrrole이 다시 aromatic해진다. 그 뒤 aldehyde를 회복해야 최종 생성물이므로, 촉매와의 C–N 결합이 남은 intermediate에서 답안을 끝내지 않는다. (출처: L11 p.18–21)
 
-면 선택성과 regioselectivity도 나누어 읽는다. $\beta$ 공격은 **어느 원자를 고르느냐** , benzyl group 반대면의 접근은 **어느 면에서 접근하느냐의** 문제다. 그림의 “아래쪽”은 해당 배치에서의 표현이지 종이를 돌려도 아래에서 공격한다는 뜻이 아니다. 같은 촉매 그림을 기준으로 두 면을 구분하고, 제시된 crotonaldehyde 예의 (R) 배치를 확인한다. 다른 기질까지 (R)이라고 자동 지정하지 않는다. (출처: L11 p.21)
+면 선택성과 regioselectivity도 나누어 읽는다. $\beta$ 공격은 **어느 원자를 고르느냐** , benzyl group 반대 면의 접근은 **어느 면에서 접근하느냐의** 문제다. 그림의 “아래쪽”은 해당 배치에서의 표현이지 종이를 돌려도 아래에서 공격한다는 뜻이 아니다. 같은 촉매 그림을 기준으로 두 면을 구분하고, 제시된 crotonaldehyde 예의 (R) 배치를 확인한다. 다른 기질까지 (R)이라고 자동 지정하지 않는다. (출처: L11 p.21)
 
 수율과 ee는 다른 수치다. 수율 68–90%는 얻은 생성물의 양, ee 87–97%는 생성물 enantiomer 조성의 치우침을 나타낸다. ee를 major enantiomer의 백분율로 그대로 쓰지 않는다. (출처: L11 p.21; 수치 구분)
 
@@ -799,7 +796,7 @@ $$
 
 1. **addition** : R2NH의 질소가 F가 붙은 $\beta$-탄소를 공격한다. C=C의 $\pi$ 전자는 산소로 가서 enolate가 된다. 이때 $\beta$-탄소는 sp3가 되고 N과 F가 함께 붙어 있다.[^7]
 2. **elimination** : enolate 산소의 전자가 되돌아와 C=O를 다시 만든다. 동시에 $\alpha$ = $\beta$ 이중결합이 재생되면서 F-가 떨어진다.
-3. 결과는 $\beta$-아미노 enone이다. C=C가 다시 생겼다는 점이 단순 conjugate addition과 다르다.
+3. 결과는 $\beta$-amino enone이다. C=C가 다시 생겼다는 점이 단순 conjugate addition과 다르다.
 
 ![R2NH가 F가 붙은 beta-탄소에 첨가한 뒤 F⁻가 떨어지는 첨가-제거 메커니즘](../../figures/L11/addition_elimination.svg)
 
@@ -815,9 +812,9 @@ $$
 
 ### 7.2 nucleophilic aromatic substitution(SNAr)
 
-같은 논리를 benzene 고리에 적용하면 **nucleophilic aromatic substitution(SNAr)이** 된다. L3~L4의 electrophilic aromatic substitution(SEAr)에서는 방향족 고리가 nucleophile였다. 그런데 강한 EWG가 붙으면 고리가 전자 부족해져 반대로 nucleophile의 공격을 받는다.
+같은 논리를 benzene 고리에 적용하면 **nucleophilic aromatic substitution(SNAr)이** 된다. L3~L4의 electrophilic aromatic substitution(SEAr)에서는 aromatic 고리가 nucleophile이었다. 그런데 강한 EWG가 붙으면 고리가 electron-deficient해져 반대로 nucleophile의 공격을 받는다.
 
-보충: 그렇다면 보통의 bromobenzene은 왜 HO-와 치환하지 않을까? SN2는 nucleophile이 C–Br 결합 뒤쪽에서 일직선으로 들어와야 하는데, sp2 탄소의 C–Br 결합은 고리 평면 안에 있어서 뒤쪽이 곧 고리 안쪽이다. nucleophile이 고리 속으로 들어가 탄소를 뒤집을 수는 없으므로 **sp2 탄소에서는 SN2가 일어나지 않는다** . SN1도 불리하다. 생길 아릴 cation의 빈 오비탈이 p가 아니라 고리 밖을 향한 sp2 오비탈이라 안정화를 받지 못하기 때문이다. 그래서 halobenzene의 치환에는 첨가-제거라는 별도의 경로가 필요하고, 이 단원의 addition–elimination 경로는 첨가로 생긴 음전하를 받아 줄 EWG가 있을 때 유리해진다. (보충 근거: Clayden p.514–515)
+보충: 그렇다면 보통의 bromobenzene은 왜 HO-와 치환하지 않을까? SN2는 nucleophile이 C–Br 결합 뒤쪽에서 일직선으로 들어와야 하는데, sp2 탄소의 C–Br 결합은 고리 평면 안에 있어서 뒤쪽이 곧 고리 안쪽이다. nucleophile이 고리 속으로 들어가 탄소를 뒤집을 수는 없으므로 **sp2 탄소에서는 SN2가 일어나지 않는다** . SN1도 불리하다. 생길 aryl cation의 빈 orbital이 p가 아니라 고리 밖을 향한 sp2 orbital이라 안정화를 받지 못하기 때문이다. 그래서 halobenzene의 치환에는 첨가-제거라는 별도의 경로가 필요하고, 이 단원의 addition–elimination 경로는 첨가로 생긴 음전하를 받아 줄 EWG가 있을 때 유리해진다. (보충 근거: Clayden p.514–515)
 
 $$
 \begin{aligned}
@@ -827,15 +824,15 @@ $$
 \end{aligned}
 $$
 
-1. **첨가** : Nu-가 X가 붙은 ipso 탄소를 공격한다. 그 탄소는 sp3가 되고, 음전하는 고리 전체(그리고 EWG)로 퍼진 anion성 **$\sigma$ complex에** 놓인다.[^8]
-2. **제거** : X-가 떨어지면서 방향족성이 회복된다.
+1. **첨가** : Nu-가 X가 붙은 ipso 탄소를 공격한다. 그 탄소는 sp3가 되고, 음전하는 고리 전체(그리고 EWG)로 퍼진 anionic **$\sigma$ complex에** 놓인다.[^8]
+2. **제거** : X-가 떨어지면서 aromaticity가 회복된다.
 
 **SNAr의 세 가지 규칙은** 다음과 같다.
 1. **leaving group 순서는 F >> Cl ~ Br >> I다** (o-nitrohalobenzene 기준). 슬라이드는 "F가 가장 좋은 leaving group"라고 표현한다. SN2와 순서가 정반대인 점이 핵심이다.[^9]
 2. **강한 EWG가 필요하다** . 상대 속도(k_rel)는 NO2 = 1, SO2Me = 1/18, CN = 1/32, COMe = 1/80이다. nitro group이 가장 강하다.
 3. **leaving group은 EWG의 ortho 또는 para 위치에 있어야 한다** . 그래야 첨가 단계에서 생긴 음전하가 공명으로 EWG(C=O 산소나 NO2 산소)까지 퍼질 수 있다. meta 위치에서는 음전하가 EWG가 붙은 탄소로 가지 못한다.
 
-보충: 규칙 1의 크기를 숫자로 보면, 2-halonitrobenzene에서 F 화합물은 Cl·Br 화합물보다 약  $10^2$ – $10^3$ 배 빠르고 I 화합물은 더 느리다. 규칙 3의 근거도 실험으로 확인된다. cyclohexadienyl anion(SNAr intermediate의 모형)의 13C NMR에서 공격 자리 기준 ortho·para 탄소는 benzene(약 130 ppm)보다 훨씬 고장(약 76–78 ppm)으로, meta 탄소는 거의 그대로(약 132 ppm) 나타난다. 음전하가 사실상 ortho·para에만 놓인다는 뜻이다. 그래서 한 분자에 Cl이 둘 있어도 NO2의 ortho에 있는 Cl만 치환되고 meta의 Cl은 남는다. 참고로 규칙 1의 F 효과는 공명이 아니라 **유발 효과** (C–F 결합의 분극)이고, NO2의 효과는 주로 **공명이다**. (보충 근거: Clayden p.517–518)
+보충: 규칙 1의 크기를 숫자로 보면, 2-halonitrobenzene에서 F 화합물은 Cl·Br 화합물보다 약  $10^2$ – $10^3$ 배 빠르고 I 화합물은 더 느리다. 규칙 3의 근거도 실험으로 확인된다. cyclohexadienyl anion(SNAr intermediate의 모형)의 13C NMR에서 공격 자리 기준 ortho·para 탄소는 benzene(약 130 ppm)보다 훨씬 upfield(약 76–78 ppm)으로, meta 탄소는 거의 그대로(약 132 ppm) 나타난다. 이는 ortho·para 위치의 전자 분포 변화와 일치한다. Chemical shift만으로 각 원자의 전하량을 직접 정량하는 것은 아니다. 그래서 한 분자에 Cl이 둘 있어도 NO2의 ortho에 있는 Cl만 치환되고 meta의 Cl은 남는다. 참고로 규칙 1의 F 효과는 공명이 아니라 **유발 효과** (C–F 결합의 분극)이고, NO2의 효과는 주로 **공명이다**. (보충 근거: Clayden p.517–518)
 
 예시는 다음과 같다.
 
@@ -875,7 +872,7 @@ NO₂에 음전하를 표시한 그림에서는 원래 nitro group의 전하도 
 |---|---|---|
 | 고리의 역할 | nucleophile | electrophile |
 | 고리를 공격하는 종 | electrophile | nucleophile |
-| 첫 첨가 intermediate | cation성 | anion성 |
+| 첫 첨가 intermediate | cation성 | anionic |
 | aromaticity 회복 시 나가는 종 | 보통 H⁺ | X⁻ |
 | 이 강의에서 강조하는 활성화 | 전자를 주는 고리의 반응성 | ortho/para EWG의 음전하 안정화 |
 
@@ -885,10 +882,10 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
 
-- 친핵성 conjugate addition: 1,4 vs 1,2 첨가
+- nucleophilic conjugate addition: 1,4 vs 1,2 첨가
 - 유기구리 시약의 첨가: RMgBr + CuCl(촉매량)
 - enolate와 enamine의 첨가: 1,5-dicarbonyl 생성물
-- iminium 이온 촉매
+- iminium ion 촉매
 - $\beta$ -leaving group이 있을 때의 conjugate addition → SNAr
 
 공통 뼈대는 이렇다. Nu-가 $\beta$-탄소를 공격하면 enolate가 생긴다(공명으로 $\alpha$-탄소 anion과 같다). 이것이 H+를 받으면 enol이 되고, tautomerize하면 ketone이 된다.
@@ -899,14 +896,14 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 
 #### 처음 보는 반응식을 읽는 순서
 
-받개를 찾은 다음 carbonyl 또는 EWG를 기준으로 $\alpha$ 와 $\beta$ 를 먼저 표시한다. 이어 시약에서 **실제로 전달되는 원자 또는 탄소 조각을** 고른다. amine이면 N, organocuprate이면 R의 탄소, enolate/enamine이면 donor carbonyl의 $\alpha$-탄소다. 그다음 1,2/1,4와 첨가/치환을 고르고, 마지막으로 proton transfer·가수분해·추가 환원을 적용한다. (출처: L11 p.4–24)
+받개를 찾은 다음 carbonyl 또는 EWG를 기준으로 $\alpha$ 와 $\beta$ 를 먼저 표시한다. 이어 시약에서 **실제로 전달되는 원자 또는 탄소 조각을** 고른다. amine이면 N, organocuprate이면 R의 탄소, enolate/enamine이면 donor carbonyl의 $\alpha$-탄소다. 그다음 1,2/1,4와 첨가/치환을 고르고, 마지막으로 proton transfer·hydrolysis·추가 환원을 적용한다. (출처: L11 p.4–24)
 
 | 답안에서 확인할 질문 | 확인 이유 |
 |---|---|
 | donor와 acceptor의 어느 원자가 연결되었나? | 1,2/1,4 및 donor 위치 오류 방지 |
-| 중간체의 O와 N 전하가 맞나? | alkoxide·enolate·zwitterion·iminium 구분 |
+| intermediate의 O와 N 전하가 맞나? | alkoxide·enolate·zwitterion·iminium 구분 |
 | 최종 C=C와 C=O 중 무엇이 남았나? | 단순 첨가·conjugate addition·치환 구분 |
-| H₂O/H₃O⁺ 뒤 carbonyl이 회복되었나? | enamine/iminium 중간체를 최종 답으로 쓰는 오류 방지 |
+| H₂O/H₃O⁺ 뒤 carbonyl이 회복되었나? | enamine/iminium intermediate를 최종 답으로 쓰는 오류 방지 |
 | 탄소 수와 고리 원자 수가 맞나? | Michael 연결·nitrile 환원·연속 고리화 검산 |
 
 특히 **조건이 달라진 이유를 한 문장으로 설명** 해 본다. “Cu를 넣어 전달되는 탄소의 반응 성격이 달라졌다”, “가역적인 1,2 경로에서 출발물이 회복될 시간이 생겼다”, “donor enolate의 평형이 더 치환된 쪽을 선택했다”, “EWG가 addition intermediate의 음전하를 받아 준다”처럼 실제로 바뀐 대상을 말할 수 있어야 한다. 이 네 설명은 서로 다른 문제를 다루므로 하나의 “더 안정하다”로 뭉뚱그리지 않는다. (출처: L11 p.6–7,13,16,23)
@@ -918,11 +915,11 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - **"1,2 생성물은 덜 안정하니 아예 안 생긴다"고 생각하기 쉽지만, 사실은** cyanide ion 첨가에서는 저온에서 1,2(cyanohydrin)가 더 빨리 생기는 kinetic 생성물이다. 고온에서 가역 반응이 평형에 이르러야 1,4 생성물이 주로 남는다. (L11 p.13)
 - **"1,4-첨가는 Nu와 H가 1번과 4번 원자에 붙어 enol로 끝난다"고 생각하기 쉽지만, 사실은** enol은 intermediate일 뿐이고 곧 tautomerize해서 최종적으로는 C=C에 Nu와 H가 붙은 포화 ketone이 된다. (L11 p.9)
 - **"NaBH4는 enone의 C=O만 환원한다"고 생각하기 쉽지만, 사실은** cyclopentenone은 NaBH4/EtOH로 1,4 후 1,2가 일어나 cyclopentanol까지 간다. 반면 cinnamaldehyde는 1,2만 일어나 allyl alcohol에서 멈춘다. (L11 p.10)
-- **"lithium enolate + enal이면 Michael addition"라고 생각하기 쉽지만, 사실은** Li+가 aldehyde 산소에 배위해서 고리형 transition state를 만들기 때문에 aldol(1,2) 생성물이 나온다(72%). conjugate addition을 원하면 amide·ester처럼 덜 친전자적인 받개나 안정한 enolate, enamine을 쓴다. (L11 p.15, p.16)
+- **"lithium enolate + enal이면 Michael addition"라고 생각하기 쉽지만, 사실은** Li+가 aldehyde 산소에 배위해서 고리형 transition state를 만들기 때문에 aldol(1,2) 생성물이 나온다(72%). conjugate addition을 원하면 amide·ester처럼 덜 electrophilic인 받개나 안정한 enolate, enamine을 쓴다. (L11 p.15, p.16)
 - **"SNAr에서도 I가 가장 좋은 leaving group"라고 생각하기 쉽지만, 사실은** SNAr에서는 F >> Cl ~ Br >> I다. 속도를 결정하는 것은 C-X 결합이 끊기는 단계가 아니라 첨가 단계다. (L11 p.23)
 - **"EWG만 있으면 위치에 상관없이 SNAr가 된다"고 생각하기 쉽지만, 사실은** leaving group이 EWG의 ortho/para에 있어야 음전하가 EWG로 비편재화된다. (L11 p.23)
-- **"짝지음 alkene은 electrophile이 되었으니 Br2 같은 electrophile와는 반응하지 않는다"고 생각하기 쉽지만, 사실은** $\alpha,\beta$-unsaturated carbonyl 화합물도 Br2 첨가는 (더 느리게나마) 한다. EWG는 alkene의 친핵성을 줄일 뿐 없애지 않는다. alkene과 방향족 고리의 기본 성격은 여전히 nucleophile이고, 이 강의는 예외적으로 electrophile처럼 구는 경우를 다룬다. (보충 근거: Clayden p.499, p.526)
-- **"lithium enolate도 염기 조건이니 Michael 첨가에 그냥 쓰면 된다"고 생각하기 쉽지만, 사실은** Li+가 alkoxide 산소를 강하게 붙잡아 aldol 생성물을 안정화하므로 열역학 지배가 필요한 conjugate addition에는 불리하다. Na/K enolate(예: t-BuOK), 안정화된 enolate나 enamine을 사용하는 전략이 있다. 예외는 carbonyl 직접 첨가가 상대적으로 불리한 3차 amide 받개다. (보충 근거: Clayden p.607, p.610)
+- **"짝지음 alkene은 electrophile이 되었으니 Br2 같은 electrophile와는 반응하지 않는다"고 생각하기 쉽지만, 사실은** $\alpha,\beta$-unsaturated carbonyl 화합물도 Br2 첨가는 (더 느리게나마) 한다. EWG는 alkene의 nucleophilicity를 줄일 뿐 없애지 않는다. alkene과 aromatic 고리의 기본 성격은 여전히 nucleophile이고, 이 강의는 예외적으로 electrophile처럼 구는 경우를 다룬다. (보충 근거: Clayden p.499, p.526)
+- **"lithium enolate도 염기 조건이니 Michael 첨가에 그냥 쓰면 된다"고 생각하기 쉽지만, 사실은** Li+가 alkoxide 산소를 강하게 붙잡아 aldol 생성물을 안정화하므로 thermodynamic control가 필요한 conjugate addition에는 불리하다. Na/K enolate(예: t-BuOK), 안정화된 enolate나 enamine을 사용하는 전략이 있다. 예외는 carbonyl 직접 첨가가 상대적으로 불리한 3차 amide 받개다. (보충 근거: Clayden p.607, p.610)
 - **"amine은 borderline nucleophile이므로 1,4를 안 한다"고 생각하기 쉽지만, 사실은** 슬라이드 예시처럼 1차·2차 amine은 enone과 acrylate에 1,4로 첨가해서 $\beta$ -amino carbonyl을 준다. (L11 p.5, p.10)
 
 ---
@@ -936,7 +933,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: mesityl oxide + PhSH, 25 °C, 5 h
 - 생성물: (CH3)2C(SPh)CH2COCH3 (94%)
 - regioselectivity: 1,4
-- 입체화학: 해당 없음
+- stereochemistry: 해당 없음
 - 비고: soft nucleophile (p.4)
 
 ### 시안화 첨가
@@ -944,7 +941,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: chalcone + -CN, EtOH, HOAc
 - 생성물: PhCH(CN)CH2COPh (95%)
 - regioselectivity: 1,4
-- 입체화학: 새 입체중심, 라세미(보충)
+- stereochemistry: 새 입체중심, racemic(보충)
 - 비고: (p.4)
 
 ### amine 첨가
@@ -952,7 +949,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: mesityl oxide + MeNH2, H2O
 - 생성물: (CH3)2C(NHMe)CH2COCH3 (75%)
 - regioselectivity: 1,4
-- 입체화학: 해당 없음
+- stereochemistry: 해당 없음
 - 비고: zwitterion → enol → ketone (p.5)
 
 ### cuprate 제조
@@ -960,7 +957,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: CuBr + 2 RLi, Et2O, -78 °C
 - 생성물: R2CuLi + LiBr
 - regioselectivity: –
-- 입체화학: –
+- stereochemistry: –
 - 비고: 불안정, 즉시 사용 (p.6)
 
 ### Cu catalyst Grignard addition
@@ -968,7 +965,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: isophorone + MeMgBr, CuCl 0.01 eq, Et2O
 - 생성물: 3,3,5,5-tetramethylcyclohexanone (83%)
 - regioselectivity: 1,4
-- 입체화학: 해당 없음
+- stereochemistry: 해당 없음
 - 비고: 금속 교환, Cu 재순환. CuCl 없으면 1,2 (p.6–7)
 
 ### Grignard/organolithium
@@ -976,7 +973,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: 2-cyclohexenone + CH3MgBr 또는 CH3Li; H3O+
 - 생성물: 1-methylcyclohex-2-en-1-ol (95%)
 - regioselectivity: 1,2
-- 입체화학: –
+- stereochemistry: –
 - 비고: hard nucleophile (p.11)
 
 ### cuprate
@@ -984,7 +981,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: 2-cyclohexenone + (CH3)2CuLi; H3O+
 - 생성물: 3-methylcyclohexanone (97%)
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: soft nucleophile (p.11)
 
 ### acyl chloride + NH3
@@ -992,7 +989,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: CH2=CHCOCl + NH3
 - 생성물: CH2=CHCONH2
 - regioselectivity: 1,2(acyl 치환)
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.10)
 
 ### acrylate + NH3
@@ -1000,7 +997,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: CH2=CHCO2Me + NH3
 - 생성물: H2NCH2CH2CO2Me
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.10)
 
 ### enal 환원
@@ -1008,7 +1005,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: cinnamaldehyde + NaBH4, EtOH
 - 생성물: cinnamyl alcohol (97%)
 - regioselectivity: 1,2
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.10)
 
 ### 고리 enone 환원
@@ -1016,7 +1013,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: cyclopentenone + NaBH4, EtOH
 - 생성물: cyclopentanol (99%)
 - regioselectivity: 1,4 후 1,2
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.10)
 
 ### HCN addition(저온)
@@ -1024,7 +1021,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: MVK + NaCN, HCN, 5–10 °C
 - 생성물: cyanohydrin
 - regioselectivity: 1,2
-- 입체화학: –
+- stereochemistry: –
 - 비고: kinetic, 가역 (p.13)
 
 ### HCN addition(고온)
@@ -1032,7 +1029,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: MVK + NaCN, HCN, 80 °C
 - 생성물: NCCH2CH2COCH3
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: thermodynamic (p.13)
 
 ### enolate Michael
@@ -1040,7 +1037,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: cyclohexanone + LDA; (E)-CH3CH=CHCONMe2
 - 생성물: 1,5-ketoamide (60%)
 - regioselectivity: 1,4
-- 입체화학: 표시 없음
+- stereochemistry: 표시 없음
 - 비고: amide 받개 (p.15)
 
 ### lithium enolate + enal
@@ -1048,7 +1045,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: ethyl isobutyrate + LDA, -78 °C, THF; (CH3)2C=CHCHO
 - 생성물: $\beta$ -hydroxy ester (72%)
 - regioselectivity: 1,2(aldol)
-- 입체화학: –
+- stereochemistry: –
 - 비고: Li+ 배위, 고리형 TS (p.16)
 
 ### thermodynamic enolate Michael
@@ -1056,7 +1053,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: 2-methylcyclopentanone + methyl acrylate, t-BuOK
 - 생성물: 2-Me-2-(CH2CH2CO2Me)cyclopentanone (53%)
 - regioselectivity: 1,4
-- 입체화학: 4차 탄소
+- stereochemistry: 4차 탄소
 - 비고: 더 치환된 쪽에서 반응 (p.16)
 
 ### malonic ester Michael
@@ -1064,7 +1061,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: CH2(CO2Et)2 + ethyl crotonate, NaOEt, EtOH, reflux
 - 생성물: (EtO2C)2CHCH(CH3)CH2CO2Et
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: 안정한 enolate (p.17)
 
 ### nitroalkane Michael
@@ -1072,7 +1069,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: PhCH2NO2 + 2-cyclohexenone, Al2O3, neat
 - 생성물: 3-(CH(Ph)NO2)cyclohexanone (92%)
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.17)
 
 ### Michael-분자 내 alkylation
@@ -1080,7 +1077,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: I(CH2)4CH=CHCO2Me + CH3NO2, Cs2CO3, DMF
 - 생성물: methyl 2-(2-nitrocyclohexyl)acetate (65%)
 - regioselectivity: 1,4 후 SN2 고리화
-- 입체화학: 표시 없음
+- stereochemistry: 표시 없음
 - 비고: (p.17)
 
 ### enamine alkylation
@@ -1088,7 +1085,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: cyclohexanone + pyrrolidine(cat. H+); R-X; H2O, H+
 - 생성물: 2-R-cyclohexanone
 - regioselectivity: $\alpha$ -alkylation
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.18)
 
 ### enamine Michael
@@ -1096,7 +1093,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: pyrrolidine enamine + CH2=C(SMe)CO2Me, MeCN; H2O
 - 생성물: 1,5-dicarbonyl (95%)
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.19)
 
 ### enamine Michael
@@ -1104,23 +1101,23 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: morpholine enamine + CH2=C(SO2Ph)COCH3, SiO2, THF; H2O
 - 생성물: 1,5-diketone (75%)
 - regioselectivity: 1,4
-- 입체화학: –
+- stereochemistry: –
 - 비고: (p.19)
 
 ### iminium 촉매
 
 - 시약/조건: enal + pyrrole, imidazolidinone 20 mol%
-- 생성물: $\beta$ -pyrrole릴 aldehyde (68–90%)
+- 생성물: $\beta$ -pyrrolyl aldehyde (68–90%)
 - regioselectivity: 1,4
-- 입체화학: 87–97% ee, crotonaldehyde 예에서 (R)
-- 비고: benzyl group 반대면 공격 (p.21)
+- stereochemistry: 87–97% ee, crotonaldehyde 예에서 (R)
+- 비고: benzyl group 반대 면 공격 (p.21)
 
 ### $\beta$ -leaving group 치환
 
 - 시약/조건: 2-F-cyclohexenyl methyl ketone + R2NH
-- 생성물: $\beta$-아미노 enone
+- 생성물: $\beta$-amino enone
 - regioselectivity: $\beta$-위치 치환
-- 입체화학: –
+- stereochemistry: –
 - 비고: 첨가-제거 (p.22)
 
 ### SNAr
@@ -1128,7 +1125,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: o-F-acetophenone + R2NH
 - 생성물: o-NR2-acetophenone
 - regioselectivity: ipso 치환
-- 입체화학: –
+- stereochemistry: –
 - 비고: ortho EWG (p.23)
 
 ### SNAr
@@ -1136,7 +1133,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 - 시약/조건: p-Cl-nitrobenzene + HO-
 - 생성물: p-nitrophenol
 - regioselectivity: ipso 치환
-- 입체화학: –
+- stereochemistry: –
 - 비고: para EWG (p.23)
 
 ---
@@ -1170,15 +1167,15 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 **문제 1**
 - (a) **methyl vinyl ketone(CH2=CH-CO-CH3) + (CH3CH2CH2)2CuLi** . MVK의 $\beta$-탄소(말단 CH2)에 propyl이 붙으면 Pr-CH2-CH2-CO-CH3 = CH3(CH2)4COCH3가 된다. 거꾸로 CH3CH=CH-COCH3 + Et2CuLi로 하면 가지 달린 CH3CH(Et)CH2COCH3가 나오므로 틀린 답이다.
 - (b) **3-methyl-2-cyclohexenone + (CH3)2CuLi** . 이미 Me가 있는 $\beta$-탄소(C3)에 Me가 하나 더 붙어 gem-dimethyl이 된다(isophorone → 3,3,5,5-tetramethylcyclohexanone 예시와 같은 원리, p.6–7).
-- (c) **4-tert-butyl-2-cyclohexenone + (CH3CH2)2CuLi** . ethyl이 C3( $\beta$ )에 있으므로 ethyl이 nucleophile이어야 한다. tBu는 C4( $\gamma$ )에 있으니 출발물에 이미 있어야 한다. 3-ethylcyclohexenone + tBu2CuLi로는 tBu가 C3에 붙으므로 안 된다. 보충: 일반적으로 cuprate는 tBu 반대면으로 주로 들어가서 trans 이성질체가 우세하지만, 슬라이드는 입체화학을 묻지 않는다.
-- (d) **$\Delta^{1(8a)}$-옥탈론(4,4a,5,6,7,8-hexahydronaphthalen-2(3H)-one, 고리 접합 탄소가 $\beta$-탄소인 이고리 enone) + (CH2=CH)2CuLi** . vinyl기가 고리 접합 $\beta$-탄소에 붙어 4차 탄소가 생긴다. vinyl cuprate도 R2CuLi의 일종이다.
+- (c) **4-tert-butyl-2-cyclohexenone + (CH3CH2)2CuLi** . ethyl이 C3( $\beta$ )에 있으므로 ethyl이 nucleophile이어야 한다. tBu는 C4( $\gamma$ )에 있으니 출발물에 이미 있어야 한다. 3-ethylcyclohexenone + tBu2CuLi로는 tBu가 C3에 붙으므로 안 된다. 보충: 일반적으로 cuprate는 tBu 반대 면으로 주로 들어가서 trans 이성질체가 우세하지만, 슬라이드는 stereochemistry를 묻지 않는다.
+- (d) **$\Delta^{1(8a)}$-octalone(4,4a,5,6,7,8-hexahydronaphthalen-2(3H)-one, 고리 접합 탄소가 $\beta$-탄소인 이고리 enone) + (CH2=CH)2CuLi** . vinyl기가 고리 접합 $\beta$-탄소에 붙어 4차 탄소가 생긴다. vinyl cuprate도 R2CuLi의 일종이다.
 (근거: L11 p.6–8, p.11)
 
 **문제 2**
 (i) 1-methylcyclohex-2-en-1-ol(1,2-첨가, 95%). (ii) 3-methylcyclohexanone(1,4-첨가, 97%). C-Mg 결합은 분극이 커서 탄소가 hard nucleophile이 되고, hard electrophilic site인 carbonyl 탄소를 공격한다. Cu(1.9)는 Mg(1.3)보다 전기음성도가 커서 C-Cu 결합의 분극이 작다. 그래서 cuprate는 soft nucleophile로서 $\beta$-탄소를 공격한다. (근거: L11 p.6, p.11, p.12)
 
 **문제 3**
-5–10 °C에서는 cyanohydrin CH2=CH-C(OH)(CN)CH3(1,2, kinetic 생성물 P1, 가역)이 생긴다. 80 °C에서는 NC-CH2CH2-CO-CH3(1,4, thermodynamic 생성물 P2)이 생긴다. 1,2-첨가의 활성화 에너지가 더 낮아 저온에서 빨리 생긴다. 하지만 1,2는 C=O $\pi$ (약 369 kJ/mol)를 잃고 1,4는 더 약한 C=C $\pi$ (약 280 kJ/mol)를 잃으므로(둘 다 C-C $\sigma$ 를 얻음), 1,4 생성물이 더 안정하다. 고온에서는 1,2-첨가가 되돌려지므로 평형이 안정한 P2 쪽으로 이동한다. (근거: L11 p.13)
+5–10 °C에서는 cyanohydrin CH2=CH-C(OH)(CN)CH3(1,2, kinetic 생성물 P1, 가역)이 생긴다. 80 °C에서는 NC-CH2CH2-CO-CH3(1,4, thermodynamic 생성물 P2)이 생긴다. 1,2-첨가의 activation energy가 더 낮아 저온에서 빨리 생긴다. 하지만 1,2는 C=O $\pi$ (약 369 kJ/mol)를 잃고 1,4는 더 약한 C=C $\pi$ (약 280 kJ/mol)를 잃으므로(둘 다 C-C $\sigma$ 를 얻음), 1,4 생성물이 더 안정하다. 고온에서는 1,2-첨가가 되돌려지므로 평형이 안정한 P2 쪽으로 이동한다. (근거: L11 p.13)
 
 **문제 4**
 enolate의 $\alpha$-탄소가 받개의 $\beta$-탄소를 공격하면 새 enolate intermediate R1-CO-CH2-CH2-CH=C(O-)-R2가 생긴다. 이것이 protonation(그리고 tautomerization)되면 **1,5-dicarbonyl 화합물 R1-CO-CH2CH2CH2-CO-R2가** 된다. (근거: L11 p.14, p.24 요약 "1,5-dicarbonyl products")
@@ -1187,7 +1184,7 @@ enolate의 $\alpha$-탄소가 받개의 $\beta$-탄소를 공격하면 새 enola
 t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형을 이룬다. 평형에서는 C=C가 더 많이 치환된 thermodynamic enolate(C1=C2, C2에 Me)가 우세하다. 그래서 C2가 methyl acrylate의 $\beta$-탄소를 공격해 4차 탄소를 가진 methyl 3-(1-methyl-2-oxocyclopentyl)propanoate(53%)가 생긴다. (근거: L11 p.16)
 
 **문제 6**
-**ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate** , 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro group이 ester보다 훨씬 강한 EWG이므로 nitro group을 기준으로 한 $\beta$-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitronate로 안정화된다. 그 뒤 H2O 처리로 iminium이 가수분해되어 ketone이 돌아온다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity를 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.611). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)
+**ethyl 3-nitro-2-(2-oxocyclohexyl)propanoate** , 즉 (2-oxocyclohexyl)-CH(CO2Et)-CH2NO2다. 받개에는 EWG가 두 개 있다. nitro group이 ester보다 훨씬 강한 EWG이므로 nitro group을 기준으로 한 $\beta$-탄소, 즉 CO2Et가 붙은 탄소가 공격을 받는다. 그러면 음전하는 nitronate로 안정화된다. 그 뒤 H2O 처리로 iminium이 hydrolysis되어 iminium hydrolysis로 donor의 carbonyl group이 재생된다. 보충: 슬라이드에는 이 칸의 답이 없다. 위 답은 "더 강한 EWG가 regioselectivity를 정한다"는 원리(Clayden 2판 25장)에 따른 예측이다(보충 근거: Clayden p.611). (근거: L11 p.19, p.23의 EWG 세기 순서 NO2 > ... > COMe)
 **문제 7**
 - (i) ester $\alpha$ -H가 deprotonate되고, 그 enolate가 acrylonitrile의 $\beta$-탄소에 conjugate addition한다. 생성물은 **ethyl 4-cyano-2-(2,5-dimethoxyphenyl)butanoate** , Ar-CH(CO2Et)-CH2CH2-CN이다.
 - (ii) H2/Pd/C로 nitrile이 1차 amine으로 환원되어 Ar-CH(CO2Et)-CH2CH2CH2-NH2가 된다. 이 amine이 같은 분자의 ester를 분자 내에서 공격해서(EtOH가 빠짐) 6원자 lactam **3-(2,5-dimethoxyphenyl)piperidin-2-one이** 생긴다. 보충: 슬라이드 빈칸에 lactam까지 그려져 있는지는 확인할 수 없다. 하지만 최종 생성물의 고리가 N-CH2-CH2-CH2-CH(Ar)-CH2 구조이므로, lactam C=O 탄소가 최종 생성물에서 N 옆 CH2가 된다는 것과 일치한다. Clayden도 같은 경로에서 이 lactam 고리화가 저절로 일어난다고 설명한다(보충 근거: Clayden p.612).
@@ -1195,7 +1192,7 @@ t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형
 (근거: L11 p.20)
 
 **문제 8**
-4-chloronitrobenzene에서는 HO-가 C-Cl 탄소에 첨가할 때 생긴 음전하가 공명으로 NO2가 붙은 탄소, 나아가 nitro group 산소까지 퍼진다. 그래서 $\sigma$ 착물이 안정화된다. meta 이성질체에서는 음전하가 NO2가 붙은 탄소에 오지 않아 이런 안정화가 없다. 그래서 leaving group은 EWG의 ortho/para에 있어야 한다. leaving group 순서가 F >> Cl ~ Br >> I인 것은 SNAr의 속도 결정 단계가 C-X가 끊기는 단계가 아니라 첫 번째 첨가 단계이기 때문이다. 전기음성도가 가장 큰 F가 ipso 탄소를 가장 강하게 $\delta^{+}$ 로 만들고 anion성 intermediate를 안정화하므로 첨가가 가장 빠르다(보충, Clayden 22장) (보충 근거: Clayden p.518). (근거: L11 p.22, p.23)
+4-chloronitrobenzene에서는 HO-가 C-Cl 탄소에 첨가할 때 생긴 음전하가 공명으로 NO2가 붙은 탄소, 나아가 nitro group 산소까지 퍼진다. 그래서 $\sigma$ 착물이 안정화된다. meta 이성질체에서는 음전하가 NO2가 붙은 탄소에 오지 않아 이런 안정화가 없다. 그래서 leaving group은 EWG의 ortho/para에 있어야 한다. leaving group 순서가 F >> Cl ~ Br >> I인 것은 SNAr의 rate-determining step가 C-X가 끊기는 단계가 아니라 첫 번째 첨가 단계이기 때문이다. 전기음성도가 가장 큰 F가 ipso 탄소를 가장 강하게 $\delta^{+}$ 로 만들고 anionic intermediate를 안정화하므로 첨가가 가장 빠르다(보충, Clayden 22장) (보충 근거: Clayden p.518). (근거: L11 p.22, p.23)
 
 ---
 
@@ -1203,11 +1200,11 @@ t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형
 
 [^1]: 보충: amine의 conjugate addition은 가역적이다. amine은 carbonyl에 1,2로도 첨가할 수 있지만 그 생성물(hemiaminal)은 쉽게 되돌아간다. 그래서 결국 안정한 1,4 생성물이 쌓인다. 3.3절의 kinetic/thermodynamic 논리와 같은 구도다. (보충 근거: Clayden p.582)
 
-[^2]: 엄밀히 말하면 이 반응은 C=O에 1,2로 첨가한 뒤 Cl-가 떨어지는 친핵성 acyl 치환(첨가-제거)이다. 슬라이드는 첫 공격 위치를 기준으로 "1,2"라고 분류했다.
+[^2]: 엄밀히 말하면 이 반응은 C=O에 1,2로 첨가한 뒤 Cl-가 떨어지는 nucleophilic acyl substitution(첨가-제거)이다. 슬라이드는 첫 공격 위치를 기준으로 "1,2"라고 분류했다.
 
 [^3]: 슬라이드 표의 경계 칸에 "CH-"라고 적혀 있는데, 무엇을 뜻하는지 슬라이드만으로는 분명하지 않다. CN-의 오타일 가능성이 있다. 다만 일반적인 HSAB 표에서 CN-는 보통 soft base로 분류된다. 실제로 p.13에서 CN-는 조건에 따라 1,2와 1,4를 모두 보인다. 보충: 슬라이드 표는 Clayden 22장의 표와 칸 배치가 같은데, Clayden 표의 경계 칸에는 "N3–, CN–"가 적혀 있다. 따라서 "CH-"는 CN-의 오타로 보는 것이 자연스럽고, 이 강의의 맥락에서는 CN-를 경계 nucleophile로 읽으면 된다(p.13의 이중적 거동과도 맞는다). 또 Clayden 표는 hard 칸에 NH3와 SO4^2-를 더 싣고 있다. (보충 근거: Clayden p.507)
 
-[^4]: 엄밀하게는 슬라이드 그림에 있는 것은 2차 amine 유래의 **iminium 이온과** enamine이다. 둘은 양성자 하나를 주고받는 deprotonation/protonation 관계다. 중성 imine-enamine tautomer 관계는 1차 amine에서 생기는 N-H imine에 해당한다(→ [L10](L10_Enol_and_Enamine.md) 문서 참고).
+[^4]: 엄밀하게는 슬라이드 그림에 있는 것은 2차 amine 유래의 **iminium ion과** enamine이다. 둘은 양성자 하나를 주고받는 deprotonation/protonation 관계다. 중성 imine-enamine tautomer 관계는 1차 amine에서 생기는 N-H imine에 해당한다(→ [L10](L10_Enol_and_Enamine.md) 문서 참고).
 
 [^5]: 슬라이드에 따르면 dopamine 길항제는 조현병, 양극성 장애, 자극제 유발 정신병 치료에 쓰여 왔다.
 
@@ -1215,7 +1212,7 @@ t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형
 
 [^7]: 슬라이드 intermediate에는 질소가 "R2N"으로 그려져 있다. 하지만 중성 R2NH가 첨가한 직후의 질소는 R2NH+(양전하)이고, 이후 양성자를 잃어 R2N이 된다.
 
-[^8]: 보충: 이 anion성 sigma 착물은 흔히 마이젠하이머 Meisenheimer complex이라 부른다.
+[^8]: 보충: 이 anionic sigma 착물은 흔히 마이젠하이머 Meisenheimer complex이라 부른다.
 
 [^9]: 보충: F-가 이탈 능력 자체가 뛰어나서가 아니다. 느린 단계가 첨가이기 때문에 전기음성도가 큰 F가 ipso 탄소를 활성화하고 anion intermediate를 안정화해서 전체 속도를 높인다(Clayden 22장) (보충 근거: Clayden p.518). 슬라이드의 "F is the best leaving group"은 "SNAr 속도가 가장 빠른 할로젠"으로 읽는 것이 정확하다.
 

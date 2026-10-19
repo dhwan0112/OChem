@@ -31,16 +31,16 @@ $$
 
 1. carbamate의 carbonyl O가 H⁺에 의해 protonate된다.
 2. t-Bu–O 결합이 끊어지며 **t-butyl cation**이 떨어져 나간다. 이 cation은 3차 [carbocation](../개념/탄소%20양이온.md)이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
-3. t-butyl cation은 $\beta$-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
+3. t-butyl cation은  $\beta$ -H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid는 양성자가 옮겨 간 zwitterion(O⁻/NH2⁺) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
 ![Boc carbamate의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid가 되는 단계](../../figures/L12/boc_cleavage.svg)
 
-그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의 $\pi$ 전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.
+그림: 위 1–2단계. 왼쪽: carbonyl 산소(파랑)의 비공유 전자쌍이 H⁺(빨강)를 잡는다(가역). 가운데: t-Bu–O 결합(빨강)의 전자가 O–C 자리로 가서 새 C=O를 만들고, protonate된 C=O⁺H의  $\pi$  전자는 산소로 돌아가 OH가 된다. 오른쪽: carbamic acid(초록이 새 C=O)와 3차 t-butyl cation이 생긴다.
 
 ![carbamic acid가 zwitterion을 거쳐 CO2와 amine이 되고, t-butyl cation이 H⁺를 잃어 isobutene이 되는 단계](../../figures/L12/boc_decarboxylation.svg)
 
-그림: 위 3–4단계. 윗줄: carbamic acid가 proton transfer로 $O^-/N^+H_2$ zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서 $CO_2$ 와 $H_2N\text{–}R$ 이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.
+그림: 위 3–4단계. 윗줄: carbamic acid가 proton transfer로  $O^-/N^+H_2$  zwitterion이 된다. O⁻(파랑)의 전자쌍이 내려와 C=O를 만들고, C–N 결합(빨강) 전자가 질소로 가면서  $CO_2$  와  $H_2N\text{–}R$  이 떨어진다. 아랫줄: t-butyl cation의 methyl C–H 결합(파랑) 전자가 cation 탄소 쪽으로 가서 C=C(초록)가 되고 H⁺가 빠져 isobutene이 된다.
 
 즉 Boc가 산에 약한 진짜 이유는 "안정한 3차 carbocation을 내놓을 수 있다"는 데 있다. 부산물이 CO2와 isobutene이라는 기체라서 반응이 한 방향으로 깔끔하게 진행된다는 점도 장점이다.[^2] (출처: L12 p.10)
 
@@ -48,26 +48,26 @@ $$
 
 ## 선택성
 
-- 염기에는 안정하다. 그래서 염기로 벗기는 [Fmoc](Fmoc%20보호기.md)와 거울상처럼 짝을 이루어 [orthogonal protection](../개념/직교%20보호.md)의 토대가 된다. (출처: L12 p.11)
+- 염기에는 안정하다. 그래서 염기로 벗기는 [Fmoc](Fmoc%20보호기.md)와 산·염기 deprotection 조건이 상보적이어서 [orthogonal protection](../개념/직교%20보호.md)의 토대가 된다. (출처: L12 p.11)
 - 산에 약한 acetal, silyl ether, THP, t-Bu ester와는 산 조건에서 orthogonal하지 않는다. TFA로 Boc를 벗기면 이들도 손상될 위험이 있다. 반면 [Cbz](Cbz%20보호기.md)는 TFA에 견딘다. (출처: L12 p.5)
 - t-butyl ester(carboxylic acid protecting group)의 산 절단도 같은 원리(t-butyl cation 경유)다. (출처: L12 p.5)
 
 ## 예
 
-- $\text{methionine} \xrightarrow{\ \mathrm{Boc_2O},\ \text{base}\ \mathstrut} \mathrm{Boc{-}Met}$
+-  $\text{methionine} \xrightarrow{\ \mathrm{Boc_2O},\ \text{base}\ \mathstrut} \mathrm{Boc{-}Met}$
 
   (L12) (출처: L12 p.10)
-- $\mathrm{Boc{-}Phe{-}Ala{-}OMe} \xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$
+-  $\mathrm{Boc{-}Phe{-}Ala{-}OMe} \xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$
 
   methyl ester와 amide는 TFA에 견딘다. (L12 Practice) (출처: L12 연습 풀이 p.3)
 
 ![Boc₂O에 의한 amine 보호](../../figures/L12/boc2o_protection.svg)
 
-그림: 보충: amine N(파랑)의 전자쌍이 $Boc_2O$ 의 carbonyl C(빨강)를 공격하고 C=O $\pi$ 전자가 O로 가서 tetrahedral intermediate가 된다. 이어서 $tBuOCO_2^-$ 가 떨어지고, 이것이 $CO_2$ 와 $tBuO^-$ 로 분해되어 반응을 끌어당긴다.
+그림: 보충: amine N(파랑)의 전자쌍이  $Boc_2O$  의 carbonyl C(빨강)를 공격하고 C=O  $\pi$  전자가 O로 가서 tetrahedral intermediate가 된다. 이어서  $tBuOCO_2^-$  가 떨어지고, 이것이  $CO_2$  와  $tBuO^-$  로 분해되어 반응을 끌어당긴다.
 
 ![methionine + Boc2O → Boc-Met](../../figures/L12/boc_methionine.svg)
 
-그림: $NH_2$ (파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
+그림:  $NH_2$  (파랑)가 Boc의 C=O(빨강)를 공격해 carbamate(초록)가 된다.
 
 ## 흔한 오해
 
