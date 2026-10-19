@@ -737,6 +737,25 @@ N의 전자쌍은 C=N⁺를 만들며 전자를 밀어 주고, 실제 새 C–C 
 
 ### 5.2 enamine의 conjugate addition
 
+#### 일반형으로 보는 enamine conjugate addition의 세 단계
+
+아래는 enamine 형성부터 1,5-dicarbonyl 생성물까지를 연결한 일반형이다. **Donor carbonyl 화합물의 $\alpha$-탄소와 acceptor의 $\beta$-탄소 사이에 새 C–C 결합이 생긴다.** 각 그림의 직선 화살표는 해당 단계의 순변환이며, 모든 proton transfer를 개별 elementary step으로 그린 것은 아니다. (출처: L11 p.18–19; 보충 근거: Clayden p.608; 사용자 제공 일반형 재작성)
+
+![일반 carbonyl 화합물과 secondary amine으로부터 enamine 형성](../../figures/L11/enamine_general_formation.svg)
+
+그림 1: secondary amine과 carbonyl 화합물이 반응하여 iminium을 거친 뒤, 원래 carbonyl의 $\alpha$-위치에서 H를 잃으면 enamine이 된다. 파란 C=C의 N에서 먼 탄소가 다음 단계의 탄소 nucleophile이다. 그림의 NR₂에서 아래첨자 2는 N에 R이 두 개 붙었다는 뜻이며, 골격의 치환기 R²와 구별한다. (출처: L11 p.18)
+
+![Enamine의 탄소가 Michael acceptor를 공격하여 iminium-enolate zwitterion 형성](../../figures/L11/enamine_general_addition.svg)
+
+그림 2: 파란 N의 점 두 개는 lone pair다. N의 전자쌍이 C=N⁺를 만들고, enamine의 C=C 전자쌍은 acceptor의 $\beta$-탄소에 새 결합을 만든다. 받개의 C=C와 C=O 전자쌍도 이어서 재배치되어 O⁻를 가진 enolate가 된다. **오른쪽은 N⁺와 O⁻를 함께 가진 zwitterion이며 전체 전하는 0이다.** 초록색이 새 C–C 결합이다. N이 직접 acceptor와 결합하는 반응으로 그리지 않는다. (출처: L11 p.19; 보충 근거: Clayden p.608)
+
+![Iminium-enolate의 수용액 후처리와 1,5-dicarbonyl 생성물의 탄소 번호](../../figures/L11/enamine_general_workup.svg)
+
+그림 3: proton transfer로 acceptor 쪽 carbonyl이 회복되고, iminium hydrolysis로 donor 쪽 carbonyl도 재생된다. 새 C–C 결합은 유지된다. 최종 그림에서 **carbonyl 탄소를 포함하여 1–2–3–4–5**를 세므로 1,5-dicarbonyl 관계이며, 새 결합은 이 번호의 2번과 3번 사이에 있다. 이 번호는 관계를 설명하기 위한 번호이고 최종 화합물 이름의 IUPAC locant는 아니다. (출처: L11 p.14,19; 보충 근거: Clayden p.608)
+
+일반형의 Z는 H, R 또는 OR일 수 있어 acceptor의 carbonyl은 aldehyde·ketone·ester에 대응한다. 따라서 생성물을 항상 “diketone”이라고 부르기보다는 **1,5-dicarbonyl compound**라고 쓰는 것이 이 그림의 범위에 맞다. R¹과 R²가 사슬로 연결된 경우에는 cyclohexanone enamine 같은 고리형 donor가 된다. Hydrolysis 뒤 amine은 방출되지만, 산성 수용액에서는 ammonium 형태로 존재할 수 있으므로 그림의 R₂NH를 중성 amine이 그대로 분리되었다는 뜻으로 읽지 않는다. (출처: L11 p.18–19; 보충 근거: Clayden p.608)
+
+
 enamine은 전하가 없는 **soft 탄소 nucleophile이다**. 따라서 conjugate addition의 탄소 nucleophile로 사용할 수 있다. 반응 뒤 H2O로 iminium/enamine을 hydrolysis하면 iminium hydrolysis로 donor의 carbonyl group이 재생된다.
 
 $$
