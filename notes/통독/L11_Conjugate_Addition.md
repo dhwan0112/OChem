@@ -838,9 +838,26 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 
 (출처: L11 p.21)
 
-![N-methylpyrrole의 C2가 iminium ion의 beta-탄소를 benzyl group 반대쪽 면에서 공격하는 단계](../../figures/L11/iminium_attack.svg)
+#### 촉매 순환을 네 단계로 읽기
 
-그림: 2단계(stereoselective conjugate addition). 왼쪽 위는 촉매와 crotonaldehyde가 만든 iminium ion이다(빨간 C=N⁺와 C=C가 받개). 아래의 N-methylpyrrole(파랑)에서 질소 전자쌍이 고리로 밀려 들어가고, 고리 C=C 전자가 옮겨 가며, 파란 C2=C3의 $\pi$ 전자가 iminium의 $\beta$-탄소를 공격한다. 동시에 받개의 C=C 전자는 C–C(=N⁺) 자리로, C=N⁺의 $\pi$ 전자는 질소로 간다. 오른쪽 생성물은 촉매 쪽 enamine과 pyrrolium cation이며, 새 C–C 결합(초록 점선 쐐기)은 슬라이드처럼 benzyl group(굵은 쐐기)를 피한 아래쪽 면 공격의 결과다. 이후 H⁺가 빠져 rearomatization하고 hydrolysis되면 (R)-aldehyde가 나온다. (출처: L11 p.21)
+![Secondary amine 촉매와 crotonaldehyde의 condensation 및 iminium 형성](../../figures/L11/iminium_cycle_formation.svg)
+
+**1. Iminium 형성.** 촉매의 secondary amine이 crotonaldehyde의 carbonyl carbon과 결합하고, 물이 제거되어 conjugated iminium ion이 된다. 촉매 고리에 원래 있던 amide C=O는 그대로 유지된다. 여기서 활성화되는 것은 enal에서 유래한 acceptor다. 그림은 condensation의 전체 변화를 요약하며 proton transfer와 counterion은 생략했다. (출처: L11 p.21; 제공된 cycle을 단계별 재구성)
+
+![Pyrrole C2의 beta 공격과 enamine 및 pyrrolium intermediate 형성](../../figures/L11/iminium_cycle_addition.svg)
+
+**2. 새 C–C 결합 형성.** N-methylpyrrole의 C2가 iminium의 $\beta$-탄소에 결합한다. 주황 화살표는 pyrrole의 전자쌍 이동과 받개 쪽 conjugated 결합의 재배치를 나타낸다. C=N의 $\pi$ 전자쌍이 촉매 질소로 이동하므로 촉매 쪽은 중성 enamine이 되고, 양전하는 pyrrolium 부분에 남는다. 오른쪽은 두 부분이 새 C–C 결합으로 연결된 **하나의 cationic intermediate**다. 초록 점선 쐐기는 benzyl group 반대 면에서의 접근을 표시한다. (출처: L11 p.21)
+
+![Pyrrole C2에서 proton이 제거되어 aromaticity가 회복되는 단계](../../figures/L11/iminium_cycle_rearomatization.svg)
+
+**3. Pyrrole의 rearomatization.** 새 결합이 생긴 pyrrole C2에서 $\mathrm{H^+}$가 제거되면서 고리의 aromaticity가 회복된다. 양전하가 사라져도 촉매와 기질 사이의 C–N 결합은 남아 있다. 따라서 이 구조는 최종 aldehyde가 아니라 촉매에 결합한 enamine intermediate다. 그림은 deprotonation과 고리 결합 재배치의 순변화를 나타낸다. (출처: L11 p.21; cycle 해설)
+
+![Enamine에서 saturated iminium을 거친 hydrolysis 및 aldehyde와 촉매 방출](../../figures/L11/iminium_cycle_hydrolysis.svg)
+
+**4. Aldehyde 방출과 촉매 재생.** Enamine이 protonation되어 saturated iminium을 형성한 뒤, 물에 의한 hydrolysis로 aldehyde C=O가 회복되고 촉매와의 C–N 결합이 끊어진다. 초록 C–H 결합은 enamine이었던 $\alpha$-탄소에 H가 추가된 것을 표시한다. 새로 만든 C–C 결합과 $\beta$-탄소의 입체배치는 유지된다. 재생된 secondary amine은 다음 enal과 다시 1단계에 들어가므로 촉매 순환이 완성된다. 그림의 중성 amine은 순환을 설명하기 위한 표기이며, 산성 용액의 protonation 평형은 생략했다. (출처: L11 p.21; cycle 해설)
+
+네 그림은 반응 순서를 펼쳐 놓은 것이다. 1·3·4단계의 proton transfer와 hydrolysis 세부 elementary step을 모두 그린 것은 아니다. 수율 68–90%, 87–97% ee는 슬라이드의 **12개 기질 예시 범위**이며, 이 crotonaldehyde 한 예에 각각의 범위 전체를 배정하지 않는다.
+
 
 [원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.21](../../figures/L11/source/L11_p21.png)
 
