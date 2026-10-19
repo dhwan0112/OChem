@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="624" height="314" viewBox="0 0 624 314" xmlns="http://www.w3.org/2000/svg" version="1.1"><title>wh_33_count; qualitative orbital/face diagram; Clayden 2e pp.913,920-921</title><style>svg{--ink:#1b1b1f;--arrow:#c2410c;--nu:#1d4ed8;--el:#b91c1c;--good:#15803d;--muted:#6b7280;--card:#ffffff}@media (prefers-color-scheme: dark){svg{--ink:#e6e6ea;--arrow:#ff9f5a;--nu:#8ab4ff;--el:#ff8a8a;--good:#6ee7a0;--muted:#9ca3af;--card:#1e1e1e}}</style><rect x="0.0" y="0.0" width="624.0" height="314.0" rx="8.7" style="fill:var(--card)"/>
+ 
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 314 
+L 624 314 
+L 624 0 
+L 0 0 
+L 0 314 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--ink)" x="22" y="25.767168" transform="rotate(-0 22 25.767168)">[3,3]: compare two consistent connection schemes</text>
+   </g>
+   <g id="text_2">
+    <!-- $\pi2\mathrm{s}$ -->
+    <g style="fill: var(--good)" transform="translate(91.072 96.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">π</tspan>
+      <tspan x="10.893356" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">2</tspan>
+      <tspan x="22.405151" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">s</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--good)" x="107" y="127.767168" transform="rotate(-0 107 127.767168)">1 counted</text>
+   </g>
+   <g id="text_4">
+    <!-- $\sigma2\mathrm{a}$ -->
+    <g style="fill: var(--ink)" transform="translate(254.8955 96.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">σ</tspan>
+      <tspan x="11.467621" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">2</tspan>
+      <tspan x="22.979416" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">a</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--muted)" x="272" y="127.767168" transform="rotate(-0 272 127.767168)">0 counted</text>
+   </g>
+   <g id="text_6">
+    <!-- $\pi2\mathrm{a}$ -->
+    <g style="fill: var(--ink)" transform="translate(420.167 96.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">π</tspan>
+      <tspan x="10.893356" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">2</tspan>
+      <tspan x="22.405151" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">a</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--muted)" x="437" y="127.767168" transform="rotate(-0 437 127.767168)">0 counted</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--good)" x="545" y="107.766602" transform="rotate(-0 545 107.766602)">sum = 1</text>
+   </g>
+   <g id="text_9">
+    <!-- $\pi2\mathrm{a}$ -->
+    <g style="fill: var(--ink)" transform="translate(90.167 216.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">π</tspan>
+      <tspan x="10.893356" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">2</tspan>
+      <tspan x="22.405151" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">a</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--muted)" x="107" y="247.767168" transform="rotate(-0 107 247.767168)">0 counted</text>
+   </g>
+   <g id="text_11">
+    <!-- $\sigma2\mathrm{s}$ -->
+    <g style="fill: var(--good)" transform="translate(255.71 216.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">σ</tspan>
+      <tspan x="11.467621" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">2</tspan>
+      <tspan x="22.979416" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--good)">s</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--good)" x="272" y="247.767168" transform="rotate(-0 272 247.767168)">1 counted</text>
+   </g>
+   <g id="text_13">
+    <!-- $\pi2\mathrm{a}$ -->
+    <g style="fill: var(--ink)" transform="translate(420.167 216.701758)">
+     <text>
+      <tspan x="0" y="-0.578125" style="font-style: oblique; font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">π</tspan>
+      <tspan x="10.893356" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">2</tspan>
+      <tspan x="22.405151" y="-0.578125" style="font-size: 18.1px; font-family: 'DejaVu Sans'; fill: var(--ink)">a</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--muted)" x="437" y="247.767168" transform="rotate(-0 437 247.767168)">0 counted</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--good)" x="545" y="227.766602" transform="rotate(-0 545 227.766602)">sum = 1</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 12.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--muted)" x="27" y="155.29952" transform="rotate(-0 27 155.29952)">Changing one connection changes TWO component labels.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--muted)" x="27" y="288.29952" transform="rotate(-0 27 288.29952)">Both descriptions: 6 electrons, odd count, thermally allowed.</text>
+   </g>
+  </g>
+ </g>
+</svg>

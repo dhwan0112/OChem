@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="604" height="344" viewBox="0 0 604 344" xmlns="http://www.w3.org/2000/svg" version="1.1"><title>wh_phase_not_face; qualitative orbital/face diagram; Clayden 2e pp.913,920-921</title><style>svg{--ink:#1b1b1f;--arrow:#c2410c;--nu:#1d4ed8;--el:#b91c1c;--good:#15803d;--muted:#6b7280;--card:#ffffff}@media (prefers-color-scheme: dark){svg{--ink:#e6e6ea;--arrow:#ff9f5a;--nu:#8ab4ff;--el:#ff8a8a;--good:#6ee7a0;--muted:#9ca3af;--card:#1e1e1e}}</style><rect x="0.0" y="0.0" width="604.0" height="344.0" rx="8.7" style="fill:var(--card)"/>
+ 
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 344 
+L 604 344 
+L 604 0 
+L 0 0 
+L 0 344 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 187 79 
+C 189.917234 79 192.715379 80.896594 194.778175 84.272078 
+C 196.840971 87.647562 198 92.226344 198 97 
+C 198 101.773656 196.840971 106.352438 194.778175 109.727922 
+C 192.715379 113.103406 189.917234 115 187 115 
+C 184.082766 115 181.284621 113.103406 179.221825 109.727922 
+C 177.159029 106.352438 176 101.773656 176 97 
+C 176 92.226344 177.159029 87.647562 179.221825 84.272078 
+C 181.284621 80.896594 184.082766 79 187 79 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--nu); stroke: var(--nu); stroke-width: 1.085; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 187 119 
+C 189.917234 119 192.715379 120.896594 194.778175 124.272078 
+C 196.840971 127.647562 198 132.226344 198 137 
+C 198 141.773656 196.840971 146.352438 194.778175 149.727922 
+C 192.715379 153.103406 189.917234 155 187 155 
+C 184.082766 155 181.284621 153.103406 179.221825 149.727922 
+C 177.159029 146.352438 176 141.773656 176 137 
+C 176 132.226344 177.159029 127.647562 179.221825 124.272078 
+C 181.284621 120.896594 184.082766 119 187 119 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--card); stroke: var(--nu); stroke-width: 1.085; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 187 115 
+C 187.530406 115 188.03916 115.210733 188.414214 115.585786 
+C 188.789267 115.96084 189 116.469594 189 117 
+C 189 117.530406 188.789267 118.03916 188.414214 118.414214 
+C 188.03916 118.789267 187.530406 119 187 119 
+C 186.469594 119 185.96084 118.789267 185.585786 118.414214 
+C 185.210733 118.03916 185 117.530406 185 117 
+C 185 116.469594 185.210733 115.96084 185.585786 115.585786 
+C 185.96084 115.210733 186.469594 115 187 115 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--ink)"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 187 58 
+C 187.795609 58 188.55874 58.316099 189.12132 58.87868 
+C 189.683901 59.44126 190 60.204391 190 61 
+C 190 61.795609 189.683901 62.55874 189.12132 63.12132 
+C 188.55874 63.683901 187.795609 64 187 64 
+C 186.204391 64 185.44126 63.683901 184.87868 63.12132 
+C 184.316099 62.55874 184 61.795609 184 61 
+C 184 60.204391 184.316099 59.44126 184.87868 58.87868 
+C 185.44126 58.316099 186.204391 58 187 58 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--good)"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 397 79 
+C 399.917234 79 402.715379 80.896594 404.778175 84.272078 
+C 406.840971 87.647562 408 92.226344 408 97 
+C 408 101.773656 406.840971 106.352438 404.778175 109.727922 
+C 402.715379 113.103406 399.917234 115 397 115 
+C 394.082766 115 391.284621 113.103406 389.221825 109.727922 
+C 387.159029 106.352438 386 101.773656 386 97 
+C 386 92.226344 387.159029 87.647562 389.221825 84.272078 
+C 391.284621 80.896594 394.082766 79 397 79 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--card); stroke: var(--nu); stroke-width: 1.085; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 397 119 
+C 399.917234 119 402.715379 120.896594 404.778175 124.272078 
+C 406.840971 127.647562 408 132.226344 408 137 
+C 408 141.773656 406.840971 146.352438 404.778175 149.727922 
+C 402.715379 153.103406 399.917234 155 397 155 
+C 394.082766 155 391.284621 153.103406 389.221825 149.727922 
+C 387.159029 146.352438 386 141.773656 386 137 
+C 386 132.226344 387.159029 127.647562 389.221825 124.272078 
+C 391.284621 120.896594 394.082766 119 397 119 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--nu); stroke: var(--nu); stroke-width: 1.085; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 397 115 
+C 397.530406 115 398.03916 115.210733 398.414214 115.585786 
+C 398.789267 115.96084 399 116.469594 399 117 
+C 399 117.530406 398.789267 118.03916 398.414214 118.414214 
+C 398.03916 118.789267 397.530406 119 397 119 
+C 396.469594 119 395.96084 118.789267 395.585786 118.414214 
+C 395.210733 118.03916 395 117.530406 395 117 
+C 395 116.469594 395.210733 115.96084 395.585786 115.585786 
+C 395.96084 115.210733 396.469594 115 397 115 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--ink)"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 397 58 
+C 397.795609 58 398.55874 58.316099 399.12132 58.87868 
+C 399.683901 59.44126 400 60.204391 400 61 
+C 400 61.795609 399.683901 62.55874 399.12132 63.12132 
+C 398.55874 63.683901 397.795609 64 397 64 
+C 396.204391 64 395.44126 63.683901 394.87868 63.12132 
+C 394.316099 62.55874 394 61.795609 394 61 
+C 394 60.204391 394.316099 59.44126 394.87868 58.87868 
+C 395.44126 58.316099 396.204391 58 397 58 
+z
+" clip-path="url(#p4a05a95059)" style="fill: var(--good)"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 187 81 
+L 187 61 
+" clip-path="url(#p4a05a95059)" style="fill: none; stroke-dasharray: 4.34,3.255; stroke-dashoffset: 0; stroke: var(--good); stroke-width: 1.085"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 397 81 
+L 397 61 
+" clip-path="url(#p4a05a95059)" style="fill: none; stroke-dasharray: 4.34,3.255; stroke-dashoffset: 0; stroke: var(--good); stroke-width: 1.085"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 152 117 
+L 432 117 
+" clip-path="url(#p4a05a95059)" style="fill: none; stroke-dasharray: 4.34,3.255; stroke-dashoffset: 0; stroke: var(--muted); stroke-width: 1.085"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--ink)" x="22" y="26.767168" transform="rotate(-0 22 26.767168)">Face: where the two contacts occur</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--ink)" x="187" y="187.766602" transform="rotate(-0 187 187.766602)">C1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--ink)" x="397" y="187.766602" transform="rotate(-0 397 187.766602)">C2</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: var(--good)" x="292" y="218.767168" transform="rotate(-0 292 218.767168)">two upper contacts = suprafacial</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 14.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--nu)" x="27" y="260.767168" transform="rotate(-0 27 260.767168)">Phase: filled / open = opposite signs</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--muted)" x="27" y="288.29952" transform="rotate(-0 27 288.29952)">Example shown: alkene antibonding MO; same face, opposite phase.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: var(--muted)" x="27" y="314.29952" transform="rotate(-0 27 314.29952)">Lobe shading does not show electron occupancy.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4a05a95059">
+   <rect x="7" y="7" width="590" height="330"/>
+  </clipPath>
+ </defs>
+</svg>
