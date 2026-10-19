@@ -109,6 +109,24 @@ thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말�
 
 cycloaddition의 [4+2]는 두 성분 각각의 **원자 수를** 더하기로 쓴 것이고([L15](L15_Cycloaddition_Part3.md) 15.2절의 [3+2]처럼), 시그마트로픽의 [3,3]은 쉼표로 쓴 **위치 번호** 다. 어느 쪽이든 허용 여부는 대괄호 숫자가 아니라 **전자 수와 초면/대면으로** 판정한다(→ 4절). (출처: Clayden p.894, p.910)
 
+### 1.4 그림으로 읽는 [i,j]: 두 경로를 각각 1에서 시작한다
+
+보충: 아래 A/B는 끊어지는 결합의 양쪽 경로를 구별하기 위한 그림 라벨이다. 분자 전체의 IUPAC 번호도, sigmatropic 이름의 추가 기호도 아니다. **옛 결합 양 끝을 각각 1로 잡고, 새 결합의 양 끝 번호를 읽는다.** O 같은 heteroatom도 경로 위의 원자라면 번호에 포함한다. (보충 근거: Clayden p.910,917)
+
+![allyl vinyl ether의 sigmatropic 3,3 번호 매기기](../../figures/L16/notation_33_numbering.svg)
+
+그림: 빨간 옛 결합은 O(A1)–CH₂(B1), 초록 점선은 새로 생길 A3–B3 결합이다. A 경로는 O–CH=CH₂, B 경로는 CH₂–CH=CH₂다. 각 경로의 세 번째 원자를 연결하므로 [3,3]이며, 반응에 관여하는 원자는 O를 포함해 여섯 개다. 점선은 결합 연결을 표시하며 실제 TS의 3D 기하를 뜻하지 않는다. (보충 근거: Clayden p.910)
+
+![benzyl allyl ether anion의 sigmatropic 2,3 번호 매기기](../../figures/L16/notation_23_numbering.svg)
+
+그림: 옛 O(A1)–CH₂(B1) 결합에서 출발한다. A 경로에서는 O 다음의 carbanion이 A2, B 경로에서는 allyl 말단이 B3다. 새 결합이 A2–B3이므로 [2,3]이다. **전자쌍을 가진 탄소가 A1이 아니라 A2**라는 점을 확인한다. O도 원자로 세기 때문에 두 원자 경로가 된다. 전하는 출발 anion에 그대로 표시했고, 점선은 형성될 C–C 결합이다. (보충 근거: Clayden p.917–918)
+
+![cyclopentadiene의 sigmatropic 1,5 수소 이동 번호 매기기](../../figures/L16/notation_15_numbering.svg)
+
+그림: 이동하는 H가 A1이고, 그 H가 떠나는 탄소가 B1이다. 두 C=C를 따라 B1 → B2 → B3 → B4 → B5로 세면 새 H–B5 결합이 [1,5]가 된다. B1과 B5는 고리에서 이웃해 보여도, 번호는 **전자 이동에 참여하는 diene 경로**를 따라 센다. 고리의 가장 짧은 길로 세어 [1,2]라고 부르지 않는다. H 하나와 탄소 다섯 개가 참여하므로 TS의 고리 원자 수는 여섯이다. (보충 근거: Clayden p.919)
+
+세 그림에서 [i,j]의 합은 참여 경로의 원자 수를 알려 주지만, **그 합을 전자 수로 바꾸면 안 된다.** [2,3]의 5원자 경로에는 carbanion의 비공유 전자쌍에 있는 전자 두 개, 옛 sigma bond의 전자 두 개, alkene의 전자 두 개가 참여한다. 이 두 예는 [3,3]과 [2,3]으로 위치 표기는 다르지만, 모두 6전자 반응이다. (보충 근거: Clayden p.912,917–918)
+
 ## 2. Claisen rearrangement: 처음 발견된 [3,3]
 
 > 개념 문서: [Claisen rearrangement](../../wiki/반응/클라이젠%20자리옮김.md), [acetal formation](../../wiki/반응/아세탈%20형성.md)
@@ -249,6 +267,41 @@ Clayden이 cycloaddition에 쓴 절차를 그대로 적용한다. (출처: Clayd
 ### 4.4 점선을 다르게 이어도 결론은 같다
 
 4단계에서 점선 하나를 다르게 이으면 $\sigma$ 결합이 $\sigma2\mathrm{s}$ 로 바뀌는 대신 $\pi$ 결합 하나가 $\pi2\mathrm{a}$ 로 바뀐다. 그래도 (4q+2)s는 여전히 하나뿐이라 합은 1이고, 반응은 여전히 허용이다. 즉 **꼬리표 붙이는 방식은 여러 가지일 수 있지만 셈의 결과(홀짝)는 바뀌지 않는다** . 시험에서 "s/a를 내가 붙인 것과 다르게 붙였는데 틀렸나?"라고 걱정할 필요가 없는 이유다.[^4] (출처: Clayden p.913)
+
+### 4.5 표기의 세 부분: 성분 종류 → 전자 수 → 반응하는 면
+
+보충: 강의·교재의 $\pi4\mathrm{s}$는 **pi 성분 / 전자 4개 / suprafacial**로 읽는다. 숫자 4는 [i,j]의 위치 번호가 아니다. $\sigma2\mathrm{a}$는 **sigma 성분 / 전자 2개 / antarafacial**, $\omega2\mathrm{a}$는 **p orbital 하나 / 전자 2개 / 서로 다른 lobe로 연결**을 뜻한다. 이 노트는 기존 교재의 붙여 쓰는 표기를 유지한다. (보충 근거: Clayden p.912–913,918)
+
+![pi2 sigma2 omega2 성분의 orbital 수와 전자 수 구분](../../figures/L16/notation_components.svg)
+
+그림: alkene의 두 p orbital은 합쳐서 전자 두 개를 가진 pi2 성분이다. 끊어지는 sigma bond는 전자 두 개를 가진 sigma2 성분이고, carbanion의 p orbital 하나는 전자 두 개를 가진 omega2 성분이다. 같은 p orbital이 비어 있는 carbocation이면 omega0이다. 따라서 **orbital 한 개 = 전자 한 개**가 아니다. 채운 lobe와 빈 lobe는 위상 차이이며 전자가 찼는지 비었는지를 표시한 것이 아니다. pi4(diene)는 여기의 pi2 그림보다 p orbital이 두 개 더 많은 별도 성분이다. (보충 근거: Clayden p.912,918)
+
+![pi 성분 두 끝의 같은 면과 반대 면에 생기는 새 결합](../../figures/L16/notation_pi_faces.svg)
+
+그림: 초록 점선은 pi 성분의 양 끝에서 다른 성분과 생길 새 결합의 접촉 방향이다. 위에서는 두 접촉이 같은 면이라 s, 아래에서는 반대 면이라 a다. **분자 전체가 종이 위에 그려졌다는 사실로 s/a를 정하지 않고, 성분 양 끝의 접촉 면을 비교한다.** 이 그림은 면 구분용 도식이며 전자 이동 화살표가 아니다. (보충 근거: Clayden p.913)
+
+![sigma 성분의 retention과 inversion으로 정하는 s와 a](../../figures/L16/notation_sigma_faces.svg)
+
+그림: 옛 sigma bond를 만드는 sp³ orbital의 큰 lobe 쪽 반응은 retention(R), 작은 lobe 쪽 반응은 inversion(I)으로 표시했다. 양 끝이 R/R 또는 I/I면 sigma2s, R/I 또는 I/R면 sigma2a다. 따라서 **s는 무조건 retention이라는 뜻이 아니다.** 두 끝에서 같은 방식인지 다른 방식인지가 기준이다. 초록 점선은 새 접촉이고 orbital 모양은 정성적이다. (보충 근거: Clayden p.913)
+
+보충: H 이동의 H는 위 sp³ orbital 그림과 달리 **1s orbital**로 반응한다. 1s는 구대칭이고 node가 없으므로 H 쪽의 연결을 어느 방향으로 그려도 retention이다. [1,5]H의 같은 면 이동을 $\pi4\mathrm{s}+\sigma2\mathrm{s}$로 적을 때는, H의 1s와 탄소 쪽 orbital이 어떻게 연결되는지 함께 확인한다. H에 작은 sp³ lobe를 따로 그려 inversion을 주장하지 않는다. (보충 근거: Clayden p.921)
+
+### 4.6 전자 수와 판정 합을 따로 계산하기
+
+보충: 열적 Woodward–Hoffmann 판정에서 홀수여야 하는 것은 전자 수가 아니라 **(4q+2)s 성분 수 + (4r)a 성분 수**다. 2·6·10 전자 성분은 s일 때, 0·4·8 전자 성분은 a일 때 이 합에 들어간다. 아래는 이 노트에서 선택한 연결 방식에 대한 예이며, 모든 TS에 같은 꼬리표를 무조건 붙이라는 규칙이 아니다. (보충 근거: Clayden p.912–913,918,921)
+
+| 예 | 참여 성분 | 합에 들어가는 성분 | 합과 판정 |
+|---|---|---|---|
+| [3,3] Claisen | $\pi2\mathrm{s}+\sigma2\mathrm{a}+\pi2\mathrm{a}$ | pi2s 하나 | 1, 열적 허용 |
+| [2,3]-Wittig | $\omega2\mathrm{a}+\sigma2\mathrm{s}+\pi2\mathrm{a}$ | sigma2s 하나 | 1, 열적 허용 |
+| [1,5]H, 같은 면 | $\pi4\mathrm{s}+\sigma2\mathrm{s}$ | sigma2s 하나 | 1, 열적 허용 |
+| [1,3]H, 같은 면 | $\pi2\mathrm{s}+\sigma2\mathrm{s}$ | 두 성분 모두 | 2, 열적 금지 |
+| [1,3]H, 반대 면 | $\pi2\mathrm{a}+\sigma2\mathrm{s}$ | sigma2s 하나 | 1, 형식상 허용; 단순 allyl 경로에서는 기하상 불가 |
+| [1,7]H, 반대 면 | $\pi6\mathrm{a}+\sigma2\mathrm{s}$ | sigma2s 하나 | 1, 열적 허용 |
+
+표의 처음 세 예는 총전자 수가 모두 6이다. 반면 [1,3]H는 2 + 2 = 4전자, [1,7]H는 6 + 2 = 8전자다. 이 총전자 수와 마지막 열의 **성분 개수 합**을 구분한다.
+
+[1,5]의 pi4s는 전자 4개가 있지만 (4r)**s**이므로 합에서 제외한다. [2,3]의 omega2a도 (4q+2)**a**이므로 제외한다. 제외한다는 것은 그 전자가 반응하지 않는다는 뜻이 아니라, **이 홀짝 판정식에서 세는 종류에 해당하지 않는다**는 뜻이다. 또한 형식상 허용이라는 판정은 반응 속도·수율이나 실제 TS에 도달할 수 있는 기하를 보장하지 않는다. (보충 근거: Clayden p.913,918,921)
 
 ## 5. 방향: 규칙은 "허용"만 말하고 "어느 쪽"은 말하지 않는다
 

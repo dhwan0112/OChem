@@ -148,84 +148,39 @@ $$
 
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md), [THP protecting group](../../wiki/시약/THP%20보호기.md), [benzyl ether protecting group](../../wiki/시약/벤질%20에터%20보호기.md)
 
-슬라이드는 Clayden 23장의 표를 그대로 보여 주며, 그중 acetal, 트라이알킬실릴, Cbz, Boc, Fmoc를 박스로 강조한다. "무엇으로부터 From" 칸을 눈여겨보면 각 protecting group의 성격이 보인다.
+강의 표의 아홉 가지 protecting group을 **보호 대상·구조·안정성**과 **도입·제거 조건**으로 나누어 비교한다. 강의에서 박스로 강조한 항목은 acetal, trialkylsilyl, Cbz, Boc, Fmoc다.
 
-<!-- Wide source table reformatted as entries for reading; all cells retained. -->
+#### 보호 대상과 견디는 조건
 
-### acetal(다이옥솔레인)
+| Protecting group | 보호 대상 | 보호된 구조 | 무엇으로부터 보호하는가 |
+|---|---|---|---|
+| **Acetal (dioxolane)** | aldehyde, ketone | 1,3-dioxolane 고리 | nucleophile, 염기 |
+| **Trialkylsilyl** (예: TBS = TBDMS) | alcohol | $\mathrm{RO{-}SiMe_3}$ 또는 $\mathrm{RO{-}SiMe_2(t{-}Bu)}$ | nucleophile, 탄소·질소계 염기 |
+| THP (tetrahydropyranyl) | alcohol | 2-alkoxytetrahydropyran | 강염기 |
+| Benzyl ether (OBn) | alcohol | $\mathrm{RO{-}CH_2Ph}$ | 여러 반응 조건¹ |
+| Methyl ether (ArOMe) | phenol | $\mathrm{ArOMe}$ | 염기 |
+| tert-Butyl ester | carboxylic acid | $\mathrm{RCO_2C(CH_3)_3}$ | nucleophile |
+| **Cbz (Z)** | amine | $\mathrm{RNH{-}CO{-}OCH_2Ph}$ | electrophile |
+| **Boc** | amine | $\mathrm{RNH{-}CO{-}OC(CH_3)_3}$ | electrophile |
+| **Fmoc** | amine | 9-fluorenylmethyl carbamate | electrophile |
 
-- 구조: 1,3-다이옥솔레인 고리
-- 보호 대상: ketone, aldehyde
-- 무엇으로부터 보호: nucleophile, 염기
-- 도입: HOCH2CH2OH, H+ 촉매
-- 제거: H+, H2O
+¹ benzyl ether의 원문 표현은 “almost everything”이다. 이 칸은 강의의 일반적인 반응성 요약이며, 모든 시약·온도·반응 시간에 대해 안정하다는 보장은 아니다. silyl ether도 Si의 치환기에 따라 산·염기 조건에서의 안정성이 달라진다(5-5절 참고). (출처: L12 p.5,7)
 
-### 트라이알킬실릴 R3Si (예: TBDMS)
+#### 도입과 제거 조건
 
-- 구조: RO-SiMe3, RO-SiMe2t-Bu
-- 보호 대상: alcohol
-- 무엇으로부터 보호: nucleophile, C 또는 N 염기
-- 도입: R3SiCl, 염기
-- 제거: H+, H2O 또는 F-
+| Protecting group | 도입 조건 (protection) | 제거 조건 (deprotection) |
+|---|---|---|
+| **Acetal** | ethylene glycol $\mathrm{HOCH_2CH_2OH}$, $\mathrm{H^+}$ 촉매 | $\mathrm{H^+,\ H_2O}$ |
+| **Trialkylsilyl** | $\mathrm{R_3SiCl}$, 염기 | $\mathrm{F^-}$ 또는 $\mathrm{H^+,\ H_2O}$ |
+| THP | dihydropyran, 산 | $\mathrm{H^+,\ H_2O}$ |
+| Benzyl ether (OBn) | $\mathrm{NaH}$, $\mathrm{BnBr}$ | $\mathrm{H_2/Pd/C}$ 또는 $\mathrm{HBr}$ |
+| Methyl ether (ArOMe) | $\mathrm{NaH}$; $\mathrm{MeI}$ 또는 $\mathrm{(MeO)_2SO_2}$ | $\mathrm{BBr_3}$, $\mathrm{HBr}$, $\mathrm{HI}$ 또는 $\mathrm{Me_3SiI}$ |
+| tert-Butyl ester | isobutene, $\mathrm{H^+}$ | 강산 |
+| **Cbz (Z)** | $\mathrm{BnOCOCl}$, 염기 | $\mathrm{H_2/Pd}$ 또는 $\mathrm{HBr/AcOH}$ |
+| **Boc** | $\mathrm{(t{-}BuOCO)_2O}$, 염기 | $\mathrm{H^+,\ H_2O}$ |
+| **Fmoc** | Fmoc-Cl | 염기(예: amine) |
 
-### tetrahydropyranyl(THP)
-
-- 구조: 2-alkoxytetrahydropyran
-- 보호 대상: alcohol
-- 무엇으로부터 보호: 강염기
-- 도입: dihydropyran + 산
-- 제거: H+, H2O
-
-### benzyl 에테르(OBn)
-
-- 구조: RO-CH2Ph
-- 보호 대상: alcohol
-- 무엇으로부터 보호: 거의 모든 조건
-- 도입: NaH, BnBr
-- 제거: H2, Pd/C 또는 HBr
-
-### methyl ArOMe
-
-- 구조: ArOMe
-- 보호 대상: phenol
-- 무엇으로부터 보호: 염기
-- 도입: NaH, MeI 또는 (MeO)2SO2
-- 제거: BBr3, HBr, HI, Me3SiI
-
-### t-butyl ester(CO2t-Bu)
-
-- 구조: RCO2C(CH3)3
-- 보호 대상: carboxylic acid
-- 무엇으로부터 보호: nucleophile
-- 도입: isobutene, H+
-- 제거: 강산
-
-### Cbz (Z)
-
-- 구조: RNH-CO-OCH2Ph
-- 보호 대상: amine
-- 무엇으로부터 보호: electrophile
-- 도입: BnOCOCl, 염기
-- 제거: HBr/AcOH 또는 H2, Pd
-
-### t-Boc
-
-- 구조: RNH-CO-OC(CH3)3
-- 보호 대상: amine
-- 무엇으로부터 보호: electrophile
-- 도입: (t-BuOCO)2O, 염기
-- 제거: H+, H2O
-
-### Fmoc
-
-- 구조: 9-fluorenylmethyl 카바메이트
-- 보호 대상: amine
-- 무엇으로부터 보호: electrophile
-- 도입: Fmoc-Cl
-- 제거: 염기(예: amine)
-
-
-(출처: L12 p.5)
+Bn은 benzyl($\mathrm{CH_2Ph}$), Ar은 aryl, R은 나머지 유기 치환기를 뜻한다. Boc와 tert-butyl ester는 산, Fmoc는 염기, benzyl ether와 Cbz는 수소화분해, silyl ether는 fluoride를 대표 제거 조건으로 연결해서 읽는다. 표의 다른 제거법도 함께 남겨 두었다. (출처: L12 p.5–6,8)
 
 ### 5. alcohol의 protecting group: silyl 에테르
 
