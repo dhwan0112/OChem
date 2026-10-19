@@ -46,7 +46,8 @@ class MathNotationTests(unittest.TestCase):
             with patch.object(wiki, 'NOTES', str(notes)):
                 self.assertEqual(wiki.update_lecture_notes(docs), 1)
                 result = page.read_text()
-                self.assertIn(r'$\beta$', result)
+                self.assertIn('Staudinger beta-lactam synthesis', result)
+                self.assertNotIn(r'$\beta$', result)
                 self.assertIn(r'\[2+2\]', result)
                 self.assertNotIn(r'\\[2+2\\]', result)
                 self.assertFalse(any(ord(c) < 32 and c not in '\n\t\r' for c in result))

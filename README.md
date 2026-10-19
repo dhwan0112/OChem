@@ -39,6 +39,10 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 태그와 목록 문서는 `python3 tools/build_wiki_index.py`가 자동으로 만든다. 문서를 고친 뒤 다시 실행하면 되고, 깨진 링크도 함께 검사한다.
 
+통독본의 Markdown 문법은 `python3 tools/audit_markdown_render.py notes/통독 --min-lecture 11 --report /tmp/ochem-markdown-audit.md`로 검사한다. 수식 구분자, 블록 경계, PDF 전용 명령, Pandoc 첨자, 이미지 경로와 누락된 대체 텍스트 등을 찾는다. 제목과 그림의 의미상 대응 및 실제 화면은 별도로 확인해야 한다. [L11–L17 렌더링 검수 기록](reports/markdown-render-audit-20261019.md)에 검사 범위와 한계를 정리했다.
+
+인증된 GitHub CLI(`gh`)가 있으면 같은 명령에 `--github`를 추가해 실제 GitHub 파서가 수식·강조 문법을 원문으로 남기는지도 검사할 수 있다. 이 옵션은 검사할 문서 원문을 GitHub Markdown API에 전송하며 저장소 파일을 변경하거나 게시하지 않는다.
+
 ## 강의 노트 (`notes/`, 뼈대)
 
 강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 강의 흐름대로 길게 읽고 싶으면 **통독본**(`notes/통독/`)을 연다. 통독본은 2026-10-12 재구성 직전의 전체 강의 노트(교과서 보강 포함)를 보존한 사본이고, 소절마다 해당 개념 문서 링크가 붙어 있다. 2026-10-18 요청에 따라 Test 2(L11–L17) 통독본에는 공식 강의 확인·보강 절과 그림을 추가했다. 상세 개념의 기준은 연결된 위키 문서다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.

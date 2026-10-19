@@ -14,7 +14,7 @@ import re
 import urllib.parse
 import sys
 
-from math_notation import inline_greek, plain_greek_label, PROTECTED
+from math_notation import inline_greek, plain_greek_label, PROTECTED, GREEK
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WIKI = os.path.join(ROOT, "wiki")
@@ -280,7 +280,9 @@ def url(path):
 def mdlink(text, target, from_dir):
     """target(절대 경로)으로 가는 상대 경로 마크다운 링크. 글자 속 대괄호는 이스케이프한다."""
     rel = os.path.relpath(target, from_dir).replace(os.sep, "/")
-    text = inline_greek(text)
+    # GitHub does not typeset math in link labels; use English symbol names.
+    text = plain_greek_label(text)
+    text = "".join(GREEK.get(c, c) for c in text)
     text = re.sub(r"(?<!\\)([\[\]])", lambda m: "\\" + m[1], text)
     return f"[{text}]({url(rel)})"
 

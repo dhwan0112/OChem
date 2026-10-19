@@ -56,9 +56,9 @@ L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted�
 
 전자가 풍부한 diene과 전자가 부족한 dienophile을 섞으면 반응이 더 빠르다. 왜 그런가?
 
-DA 반응에서 새 결합은 한 성분의 HOMO에 있는 전자가 다른 성분의 LUMO로 흘러 들어가면서 생긴다. 이때 가능한 조합은 두 가지다. 하나는 HOMO(diene)–LUMO(dienophile) 조합이고, 다른 하나는 HOMO(dienophile)–LUMO(diene) 조합이다. 슬라이드의 예는 butadiene과 maleic anhydride이다. 무수물은 carbonyl 두 개 때문에 $\pi^{*}$(LUMO)가 아주 낮다. 그래서 diene HOMO($\psi_{2}$)와 무수물 LUMO($\pi^{*}$)의 에너지 차이는 작고 겹침이 좋다. 반대로 무수물 HOMO($\pi$)와 diene LUMO($\psi_{3}$)는 에너지 차이가 크고 겹침이 나쁘다. 즉 반응은 주로 **HOMO(diene)–LUMO(dienophile)** 상호작용으로 일어나고, 이 간격이 좁을수록 빠르다.
+DA 반응에서 새 결합은 한 성분의 HOMO에 있는 전자가 다른 성분의 LUMO로 흘러 들어가면서 생긴다. 이때 가능한 조합은 두 가지다. 하나는 HOMO(diene)–LUMO(dienophile) 조합이고, 다른 하나는 HOMO(dienophile)–LUMO(diene) 조합이다. 슬라이드의 예는 butadiene과 maleic anhydride이다. 무수물은 carbonyl 두 개 때문에 $\pi^{\ast}$ (LUMO)가 아주 낮다. 그래서 diene HOMO( $\psi_{2}$ )와 무수물 LUMO( $\pi^{\ast}$ )의 에너지 차이는 작고 겹침이 좋다. 반대로 무수물 HOMO( $\pi$ )와 diene LUMO( $\psi_{3}$ )는 에너지 차이가 크고 겹침이 나쁘다. 즉 반응은 주로 **HOMO(diene)–LUMO(dienophile)** 상호작용으로 일어나고, 이 간격이 좁을수록 빠르다.
 
-대칭도 확인해 둘 필요가 있다. diene $\psi_{2}$의 두 말단 로브는 위상이 서로 반대이고, dienophile $\pi^{*}$의 두 로브도 위상이 서로 반대다. 그래서 두 성분이 같은 면끼리 마주 보면 양 끝 모두에서 위상이 맞는(결합성) 겹침이 생긴다. 슬라이드에서 동그라미로 강조한 부분이 바로 이 말단 겹침이다.
+대칭도 확인해 둘 필요가 있다. diene $\psi_{2}$ 의 두 말단 로브는 위상이 서로 반대이고, dienophile $\pi^{\ast}$ 의 두 로브도 위상이 서로 반대다. 그래서 두 성분이 같은 면끼리 마주 보면 양 끝 모두에서 위상이 맞는(결합성) 겹침이 생긴다. 슬라이드에서 동그라미로 강조한 부분이 바로 이 말단 겹침이다.
 
 (출처: L14 p.3)
 
@@ -76,9 +76,9 @@ FMO 그림을 매번 그리지 않고도 "이 반응은 열적으로 허용되�
 
 - 전자 2, 6, 10개를 가진 **suprafacial, s** 성분의 개수
 - \+ 전자 0, 4, 8개를 가진 **antarafacial, a** 성분의 개수
-- \= **홀수**이면 열적으로 allowed
+- \= **홀수이면** 열적으로 allowed
 
-그렇다면 s와 a는 무엇인가? **수프라페이셜** 성분은 양 끝에서 *같은 면*으로 새 결합을 만든다. 예를 들어 위에서 위로 결합하는 경우다. **안타라페이셜** 성분은 양 끝에서 *반대 면*으로 결합한다. 한쪽 끝은 위, 다른 쪽 끝은 아래다. 안타라페이셜 성분은 $\pi$계가 비틀려야 하므로, 짧은 $\pi$계에서는 기하학적으로 거의 불가능하다.
+그렇다면 s와 a는 무엇인가? **수프라페이셜** 성분은 양 끝에서 *같은 면*으로 새 결합을 만든다. 예를 들어 위에서 위로 결합하는 경우다. **안타라페이셜** 성분은 양 끝에서 *반대 면*으로 결합한다. 한쪽 끝은 위, 다른 쪽 끝은 아래다. 안타라페이셜 성분은 $\pi$ 계가 비틀려야 하므로, 짧은 $\pi$ 계에서는 기하학적으로 거의 불가능하다.
 
 여기서 주의할 점이 있다. 슬라이드가 강조하듯 **"허용"은 반응이 반드시 일어난다는 뜻이 아니다. 이론적으로 가능하다는 뜻일 뿐이다.** 허용된 반응이라도 활성화 에너지, 입체 장애, 반응물의 형태 때문에 실제로는 일어나지 않을 수 있다.
 
@@ -88,24 +88,24 @@ FMO 그림을 매번 그리지 않고도 "이 반응은 열적으로 허용되�
 3. 성분들이 다가오는 모습을 입체로 그리고, 각 성분의 **양 끝에만** p 오비탈을 그린다. 이 오비탈은 색칠(위상 표시)하지 않은 그냥 p 오비탈이며 HOMO나 LUMO가 아니다.
 4. 새 결합이 생길 곳을 점선으로 잇는다.
 5. 각 성분에 s(양 끝에서 같은 면) 또는 a(반대 면)를 붙인다.
-6. (4q+2)s와 (4r)a 성분의 **개수**를 센다. (4q+2)a와 (4r)s는 몇 개가 있어도 세지 않는다. 합이 홀수면 열적으로 허용이다.
+6. (4q+2)s와 (4r)a 성분의 **개수를** 센다. (4q+2)a와 (4r)s는 몇 개가 있어도 세지 않는다. 합이 홀수면 열적으로 허용이다.
 (보충 근거: Clayden p.892–893)
 
 (출처: L14 p.4–5)
 
 ### 2.1 DA 반응에 적용하기
 
-DA 반응은 diene($\pi4\mathrm{s}$)과 alkene($\pi2\mathrm{s}$)이 suprafacial–suprafacial로 접근하는 반응이다. 성분을 세어 보면 다음과 같다.
+DA 반응은 diene( $\pi4\mathrm{s}$ )과 alkene( $\pi2\mathrm{s}$ )이 suprafacial–suprafacial로 접근하는 반응이다. 성분을 세어 보면 다음과 같다.
 
 - (4q+2)s 성분: alkene $\pi2\mathrm{s}$ **1개** (2 = 4×0+2)
-- (4r)a 성분: **0개**. diene은 $\pi4$ 성분이지만 s로 쓰이므로 세지 않는다.
+- (4r)a 성분: **0개** . diene은 $\pi4$ 성분이지만 s로 쓰이므로 세지 않는다.
 - 합계 = 1, 홀수이므로 **열적으로 허용된다.**
 
 (출처: L14 p.6)
 
 ### 2.2 그럼 [4+4]는?
 
-butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vinylcyclohexene)은 생기지만 [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 왜인가? 이것은 연습 문제 1에서 직접 풀어 본다. 짧게 말하면, $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$에는 세어 줄 성분이 하나도 없어서 합이 0(짝수)이 된다. 그래서 열적으로 forbidden된다.
+butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vinylcyclohexene)은 생기지만 [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 왜인가? 이것은 연습 문제 1에서 직접 풀어 본다. 짧게 말하면, $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ 에는 세어 줄 성분이 하나도 없어서 합이 0(짝수)이 된다. 그래서 열적으로 forbidden된다.
 
 보충: 금지는 "열적으로"라는 조건에서만이다. [4+4]도 광화학 조건에서는 허용되고(10.2절과 같은 원리), Ni(0) 같은 전이 금속 촉매를 쓰면 cycloocta-1,5-diene을 만들 수 있다. 또 Woodward–Hoffmann 규칙은 허용 여부만 알려 줄 뿐 엔도 선택성이나 regioselectivity은 설명하지 못한다. 그 둘은 4–7절의 FMO(오비탈 에너지와 계수)로 따진다. (보충 근거: Clayden p.887, 893; Wade p.695)
 
@@ -129,9 +129,9 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 그러면 이 치환기들은 오비탈 에너지를 어떻게 바꾸는가?
 
-- **C형(콘쥬게이션 확장)**: HOMO는 *올리고* LUMO는 *내린다*. $\pi$계가 길어지면 HOMO–LUMO 간격이 좁아지는 것과 같은 원리다.
-- **Z형(전자 끄는 기, EWG)**: HOMO는 *약간* 내리고, **LUMO는 크게 내린다.**
-- **X형(전자 주는 기, EDG)**: **HOMO는 크게 올리고**, LUMO는 *약간* 올린다.
+- **C형(콘쥬게이션 확장)** : HOMO는 *올리고* LUMO는 *내린다*. $\pi$ 계가 길어지면 HOMO–LUMO 간격이 좁아지는 것과 같은 원리다.
+- **Z형(전자 끄는 기, EWG)** : HOMO는 *약간* 내리고, **LUMO는 크게 내린다.**
+- **X형(전자 주는 기, EDG)** : **HOMO는 크게 올리고** , LUMO는 *약간* 올린다.
 
 (출처: L14 p.8–9)
 
@@ -143,9 +143,9 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 이제 1절의 질문에 정량적으로 답할 수 있다. 슬라이드는 FO(frontier orbital) 상호작용을 세 단계로 비교한다.
 
-1. **(a) butadiene + 치환기 없는 ethylene**: 두 HOMO–LUMO 조합의 간격이 모두 크다. 그래서 반응이 느리다. 실제로 ethylene은 아주 나쁜 dienophile다.
-2. **(b) butadiene + Z-dienophile**: Z가 dienophile LUMO를 크게 내린다. 그래서 HOMO(diene)–LUMO(dienophile) 간격이 좁아진다(굵은 화살표).
-3. **(c) X-diene + Z-dienophile**: 여기에 더해 X가 diene HOMO를 올린다. 그래서 간격이 가장 좁고 반응이 가장 빠르다.
+1. **(a) butadiene + 치환기 없는 ethylene** : 두 HOMO–LUMO 조합의 간격이 모두 크다. 그래서 반응이 느리다. 실제로 ethylene은 아주 나쁜 dienophile다.
+2. **(b) butadiene + Z-dienophile** : Z가 dienophile LUMO를 크게 내린다. 그래서 HOMO(diene)–LUMO(dienophile) 간격이 좁아진다(굵은 화살표).
+3. **(c) X-diene + Z-dienophile** : 여기에 더해 X가 diene HOMO를 올린다. 그래서 간격이 가장 좁고 반응이 가장 빠르다.
 
 정리하면 **LUMO(dienophile)–HOMO(diene) 간격이 작을수록 반응이 빠르다.** 이렇게 diene이 전자를 주고 dienophile이 전자를 받는 일반적인 경우를 "정상 전자 normal electron demand" DA라고 부른다[2].
 
@@ -161,7 +161,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 슬라이드의 답은 이렇다. **$\pi$ 전자의 polarization이 regioselectivity을 결정한다.** 구체적으로는 **dienophile의 "친전자성" 위치가 diene의 "친핵성" 위치와 결합한다.** DA 반응은 협동 반응이므로 진짜 이온 intermediate는 없다. 그래도 각 성분이 극성 반응에서 어디가 반응할지를 상상하면 답을 맞힐 수 있다.
 
-보충: 이 "극성 반응 상상"이 왜 FMO 계수와 같은 답을 주는가? dienophile 쪽은 L11의 Michael 받개 그 자체다. carbonyl과의 짝지음은 C=C의 LUMO($\pi^{*}$)를 낮출 뿐 아니라 $\beta$-탄소의 계수가 $\alpha$-탄소보다 커지도록 일그러뜨리고, 그래서 nucleophile은 늘 $\beta$-탄소를 공격한다. diene 쪽은 electrophile(예: H⁺)가 어느 말단에 붙어야 더 안정한 allyl cation이 생기는지를 보면 된다. 더 안정한 cation을 주는 말단이 곧 HOMO 계수가 큰 말단이다. 실험 결과로 계수를 거꾸로 추론하는 것처럼 보이지만, 계산으로 구한 HOMO 계수도 같은 결론을 준다. (보충 근거: Clayden p.889–890) (→ [L11](L11_Conjugate_Addition.md) conjugate addition 문서 참고)
+보충: 이 "극성 반응 상상"이 왜 FMO 계수와 같은 답을 주는가? dienophile 쪽은 L11의 Michael 받개 그 자체다. carbonyl과의 짝지음은 C=C의 LUMO( $\pi^{\ast}$ )를 낮출 뿐 아니라 $\beta$-탄소의 계수가 $\alpha$-탄소보다 커지도록 일그러뜨리고, 그래서 nucleophile은 늘 $\beta$-탄소를 공격한다. diene 쪽은 electrophile(예: H⁺)가 어느 말단에 붙어야 더 안정한 allyl cation이 생기는지를 보면 된다. 더 안정한 cation을 주는 말단이 곧 HOMO 계수가 큰 말단이다. 실험 결과로 계수를 거꾸로 추론하는 것처럼 보이지만, 계산으로 구한 HOMO 계수도 같은 결론을 준다. (보충 근거: Clayden p.889–890) (→ [L11](L11_Conjugate_Addition.md) conjugate addition 문서 참고)
 
 (출처: L14 p.11)
 
@@ -169,9 +169,9 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 슬라이드는 이 과정을 세 단계 사고 실험으로 보여준다.
 
-1. **diene이 electrophile(E+)와 반응한다고 상상한다.** OMe의 산소 비공유 전자쌍이 C2=C1 $\pi$ 결합 쪽으로 밀려 들어간다. 그러면 C1(CH2 말단)이 E+를 공격하고, 그 결과 산소에 의해 안정화된 oxocarbenium 이온이 생긴다. 즉 OMe에 인접한 말단 **C1이 diene의 친핵성 위치**다.
-2. **dienophile이 nucleophile(Nu−)와 반응한다고 상상한다.** acrylonitrile에서는 Nu−가 **$\beta$-탄소(CH2 말단)**를 공격하고 전자는 C≡N의 질소로 밀려난다(Michael형 첨가). 즉 $\beta$-탄소가 친전자성 위치다.
-3. **친핵성 C1과 친전자성 $\beta$-탄소를 연결한다.** 그러면 OMe가 붙은 탄소와 CN이 붙은 탄소가 고리에서 1,4 관계가 된다. 생성물은 enol ether를 가진 **4-methoxycyclohex-3-ene-1-carbonitrile**이고, 이를 **"pseudo para"** 생성물이라 부른다.
+1. **diene이 electrophile(E+)와 반응한다고 상상한다.** OMe의 산소 비공유 전자쌍이 C2=C1 $\pi$ 결합 쪽으로 밀려 들어간다. 그러면 C1(CH2 말단)이 E+를 공격하고, 그 결과 산소에 의해 안정화된 oxocarbenium 이온이 생긴다. 즉 OMe에 인접한 말단 **C1이 diene의 친핵성 위치** 다.
+2. **dienophile이 nucleophile(Nu−)와 반응한다고 상상한다.** acrylonitrile에서는 Nu−가 **$\beta$-탄소(CH2 말단)를** 공격하고 전자는 C≡N의 질소로 밀려난다(Michael형 첨가). 즉 $\beta$-탄소가 친전자성 위치다.
+3. **친핵성 C1과 친전자성 $\beta$-탄소를 연결한다.** 그러면 OMe가 붙은 탄소와 CN이 붙은 탄소가 고리에서 1,4 관계가 된다. 생성물은 enol ether를 가진 **4-methoxycyclohex-3-ene-1-carbonitrile이고**, 이를 **"pseudo para"** 생성물이라 부른다.
 
 ![2-methoxybutadiene + E⁺, acrylonitrile + Nu⁻ 상상 반응: diene의 nucleophilic 말단과 dienophile의 electrophilic 말단](../../figures/L14/regio_para_polar.svg)
 
@@ -183,7 +183,7 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜타-1,3-diene(Me2C=CH–CH=CH2)과 아크릴산 methyl(CH2=CH–CO2Me)이다. 이 경우 diene에서 계수가 가장 큰 탄소는 치환기에서 *먼 쪽* 말단(CH2)이고, dienophile에서는 $\beta$-탄소(CH2)다. 이 두 탄소가 먼저 결합한다.
 
-여기서 중요한 점은 이 반응이 **협동적이지만 비대칭인 transition state(concerted, but unsynchronous)**를 거친다는 것이다. transition state에서 큰 계수끼리의 결합은 거의 완성되어 있다. 반면 반대편, 즉 CMe2와 CH(CO2Me) 사이 결합은 아직 거의 형성되지 않았고, 그 자리에 부분 양전하(+)와 부분 음전하(−)가 생긴다. 결과물은 CMe2와 CH(CO2Me)가 이웃한 **methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate**, 즉 **"pseudo ortho"** 생성물이다.
+여기서 중요한 점은 이 반응이 **협동적이지만 비대칭인 transition state(concerted, but unsynchronous)를** 거친다는 것이다. transition state에서 큰 계수끼리의 결합은 거의 완성되어 있다. 반면 반대편, 즉 CMe2와 CH(CO2Me) 사이 결합은 아직 거의 형성되지 않았고, 그 자리에 부분 양전하(+)와 부분 음전하(−)가 생긴다. 결과물은 CMe2와 CH(CO2Me)가 이웃한 **methyl 2,2-dimethylcyclohex-3-ene-1-carboxylate** , 즉 **"pseudo ortho"** 생성물이다.
 
 보충: 왜 치환기에서 *먼* CH2 말단의 계수가 큰가? 이 diene에 HBr을 첨가한다고 상상하면 된다. H⁺가 CH2 말단에 붙으면 양전하가 2차 탄소와 3차 CMe2에 걸친 allyl cation이 되고, CMe2 쪽 말단에 붙으면 2차와 1차 탄소에 걸친 덜 안정한 allyl cation이 된다. 더 안정한 cation을 주는 CH2 말단이 친핵성 말단, 즉 HOMO 계수가 큰 말단이다. 교재도 정확히 이 1,1-dimethylbutadiene + 아크릴산 methyl 예로 같은 결론(ortho, 비대칭 TS)을 낸다. (보충 근거: Clayden p.889–890)
 
@@ -213,14 +213,14 @@ C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methyl펜�
 
 선택성이 100%는 아니다. 슬라이드의 실험값은 다음과 같다.
 
-**C1-치환 diene**: (E)-펜타-1,3-diene(CH3–CH=CH–CH=CH2) + CH2=CH–W
+**C1-치환 diene** : (E)-펜타-1,3-diene(CH3–CH=CH–CH=CH2) + CH2=CH–W
 
 | W | 조건 | "ortho"(1,2) : "meta"(1,3) |
 |---|---|---|
 | CN | 100 °C | 9 : 1 |
 | COOR | 200 °C | 6.8 : 1 |
 
-**C2-치환 diene**: CH2=C(X)–CH=CH2 + 아크릴산 methyl
+**C2-치환 diene** : CH2=C(X)–CH=CH2 + 아크릴산 methyl
 
 | X | "para"(1,4) : "meta"(1,3) |
 |---|---|
@@ -241,12 +241,12 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 
 **1단계 – regioselectivity.** C1-치환 diene이므로 "ortho" 생성물인 2-methoxycyclohex-3-ene-1-carbaldehyde가 나온다. "meta" 생성물(3-methoxy…)은 주생성물이 아니다. 그런데 이 단계만으로는 OMe와 CHO가 cis인지 trans인지 알 수 없다.
 
-**2단계 – stereoselectivity(endo).** 엔도 transition state에서는 dienophile의 EWG(CHO)가 diene *아래*에 놓인다. (→ [L13](L13_Cycloaddition_Part1.md) 엔도 규칙과 이차 오비탈 상호작용 문서 참고) 이제 diene C1의 두 치환기를 구분해야 한다. (E)-diene이 s-cis 형태를 취하면 C1의 H는 diene "안쪽"을 향하고(**"in" 치환기**), OMe는 "바깥쪽"을 향한다("out" 치환기).
+**2단계 – stereoselectivity(endo).** 엔도 transition state에서는 dienophile의 EWG(CHO)가 diene *아래*에 놓인다. (→ [L13](L13_Cycloaddition_Part1.md) 엔도 규칙과 이차 오비탈 상호작용 문서 참고) 이제 diene C1의 두 치환기를 구분해야 한다. (E)-diene이 s-cis 형태를 취하면 C1의 H는 diene "안쪽"을 향하고( **"in" 치환기** ), OMe는 "바깥쪽"을 향한다("out" 치환기).
 
-- **엔도 TS**: "in" 치환기(H)와 EWG(CHO)가 **trans**가 된다. 그러므로 **OMe와 CHO는 cis**다.
-- **엑소 TS**: "in" 치환기와 EWG가 **cis**가 된다. 그러므로 OMe와 CHO는 trans다.
+- **엔도 TS** : "in" 치환기(H)와 EWG(CHO)가 **trans가** 된다. 그러므로 **OMe와 CHO는 cis** 다.
+- **엑소 TS** : "in" 치환기와 EWG가 **cis가** 된다. 그러므로 OMe와 CHO는 trans다.
 
-결국 주생성물은 **cis-2-methoxycyclohex-3-ene-1-carbaldehyde**(라세미)다. 슬라이드 하단의 "Recall" 예시도 같은 이야기를 한다. (E,E)-헥사-2,4-diene과 acrolein에서도 엔도 생성물과 엑소 생성물은 CHO가 두 methyl에 대해 어느 쪽을 향하는지로 구분된다.
+결국 주생성물은 **cis-2-methoxycyclohex-3-ene-1-carbaldehyde** (라세미)다. 슬라이드 하단의 "Recall" 예시도 같은 이야기를 한다. (E,E)-헥사-2,4-diene과 acrolein에서도 엔도 생성물과 엑소 생성물은 CHO가 두 methyl에 대해 어느 쪽을 향하는지로 구분된다.
 
 ![(E)-1-methoxybutadiene + acrolein의 endo TS와 exo TS: in 치환기 H와 CHO의 관계로 OMe/CHO의 cis·trans가 정해진다](../../figures/L14/endo_exo_inout.svg)
 
@@ -268,8 +268,8 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 
 Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 두 가지를 짚는다.
 
-- **반응성(LUMO 에너지)**: Lewis acid이 carbonyl 산소에 배위하면 C=O가 사실상 양전하를 띤 형태(O+–SnCl4−)가 된다. 이것은 "더 강력한 전자 끄는 기"이므로 dienophile LUMO가 더 내려간다. 그래서 반응이 빨라지고 훨씬 낮은 온도에서도 진행된다.
-- **regioselectivity($\pi$ 결합의 편극)**: 같은 이유로 C=C의 편극도 커진다. $\beta$-탄소의 LUMO 계수가 더 커지는 것이다. 그래서 regioselectivity이 향상된다.
+- **반응성(LUMO 에너지)** : Lewis acid이 carbonyl 산소에 배위하면 C=O가 사실상 양전하를 띤 형태(O+–SnCl4−)가 된다. 이것은 "더 강력한 전자 끄는 기"이므로 dienophile LUMO가 더 내려간다. 그래서 반응이 빨라지고 훨씬 낮은 온도에서도 진행된다.
+- **regioselectivity( $\pi$ 결합의 편극)** : 같은 이유로 C=C의 편극도 커진다. $\beta$-탄소의 LUMO 계수가 더 커지는 것이다. 그래서 regioselectivity이 향상된다.
 
 슬라이드 예: isoprene + methyl vinyl ketone(CH2=CH–COCH3)
 
@@ -282,7 +282,7 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 
 ![SnCl4가 배위한 methyl vinyl ketone과 isoprene의 DA 반응으로 para 생성물이 생기는 과정](../../figures/L14/da_lewis_acid.svg)
 
-그림: $SnCl_4$ 가 carbonyl 산소에 배위해 $O^+\text{–}SnCl_4^-$ 가 되면(빨간 O) dienophile의 LUMO가 낮아지고 $\beta$-탄소($CH_2$)가 더 강하게 $\delta^{+}$가 된다. 파란색은 isoprene의 $\pi$ 결합, 빨간색은 dienophile C=C, 초록색은 새로 생긴 결합이다. 세 화살표는 모두 반시계 방향으로 돈다. methyl이 붙은 탄소 옆 $CH_2$ 말단(아래)이 dienophile의 $\beta$-$CH_2$ 와 결합하므로, methyl과 acetyl이 1,4 관계인 "para" 생성물이 된다. 생성물은 $SnCl_4$ 가 떨어진 ketone으로 그렸다. 보충: 슬라이드는 굽은 화살표를 촉매 없는 반응물에 그리고 $SnCl_4$ 착물을 옆에 따로 그렸는데, 그림은 두 가지를 합쳐 착물에 화살표를 그렸다.
+그림: $SnCl_4$ 가 carbonyl 산소에 배위해 $O^+\text{–}SnCl_4^-$ 가 되면(빨간 O) dienophile의 LUMO가 낮아지고 $\beta$-탄소( $CH_2$ )가 더 강하게 $\delta^{+}$ 가 된다. 파란색은 isoprene의 $\pi$ 결합, 빨간색은 dienophile C=C, 초록색은 새로 생긴 결합이다. 세 화살표는 모두 반시계 방향으로 돈다. methyl이 붙은 탄소 옆 $CH_2$ 말단(아래)이 dienophile의 $\beta$ - $CH_2$ 와 결합하므로, methyl과 acetyl이 1,4 관계인 "para" 생성물이 된다. 생성물은 $SnCl_4$ 가 떨어진 ketone으로 그렸다. 보충: 슬라이드는 굽은 화살표를 촉매 없는 반응물에 그리고 $SnCl_4$ 착물을 옆에 따로 그렸는데, 그림은 두 가지를 합쳐 착물에 화살표를 그렸다.
 
 (출처: L14 p.20)
 
@@ -294,15 +294,15 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 
 Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다면 $6\pi$ 성분과 $4\pi$ 성분이 만나는 [6+4]는 허용되는가?
 
-슬라이드는 수프라페이셜–수프라페이셜 조건에서의 규칙을 이렇게 다시 쓴다. *한 성분이 (4q+2)s이고 다른 성분이 (4r)s이면 허용된다.* $6\pi$는 4×1+2이고 $4\pi$는 4×1이므로 조건에 맞는다. 즉 **[6+4]는 열적으로 허용된다.** 슬라이드는 이것을 더 간단하게 요약한다. **수프라–수프라 열적 cycloaddition은 관여하는 전자의 총수가 4n+2일 때 허용된다.** [4+2]는 6개, [6+4]는 10개로 둘 다 4n+2이고, [4+4]와 [2+2]는 각각 8개와 4개로 4n이다.
+슬라이드는 수프라페이셜–수프라페이셜 조건에서의 규칙을 이렇게 다시 쓴다. *한 성분이 (4q+2)s이고 다른 성분이 (4r)s이면 허용된다.* $6\pi$ 는 4×1+2이고 $4\pi$ 는 4×1이므로 조건에 맞는다. 즉 **[6+4]는 열적으로 허용된다.** 슬라이드는 이것을 더 간단하게 요약한다. **수프라–수프라 열적 cycloaddition은 관여하는 전자의 총수가 4n+2일 때 허용된다.** [4+2]는 6개, [6+4]는 10개로 둘 다 4n+2이고, [4+4]와 [2+2]는 각각 8개와 4개로 4n이다.
 
 **예 1 – tropone + cyclopentadiene.** tropone(cyclohepta-2,4,6-trienone)의 triene $6\pi$ 부분이 cyclopentadiene의 diene $4\pi$ 부분과 [6+4]로 반응한다. 그 결과 CH2 다리와 C=O 다리를 가진 다리걸친 이환 생성물이 생긴다. 슬라이드는 이 생성물의 입체화학을 "endo"로 표시해 두었다[5].
 
-**예 2 – 풀벤 + 1-diethylaminodiene → 아줄렌 골격.** 6,6-dimethyl풀벤(6,6-dimethylfulvene)은 공명 구조로 쓰면 고리 쪽이 "방향족" cyclopentadienyl anion이 되고, 고리 밖 CMe2는 양전하를 띤다. 따라서 고리 밖 탄소가 친전자성 말단이다. 한편 1-(diethyl아미노)부타-1,3-diene은 X형 C1-치환 diene이므로 NEt2에서 먼 말단(C4)이 친핵성이다. 그래서 반응이 **regioselective**이다. CMe2는 diene의 C4와 결합하고, NEt2가 붙은 C1은 풀벤 고리 탄소와 결합한다. 생성된 [6+4] 부가물(5–7 융합 고리)에서 HNEt2가 제거되면(−HNEt2) 콘쥬게이션이 확장된 dimethyl 아줄렌형(bicyclo[5.3.0]) 골격이 얻어진다.
+**예 2 – 풀벤 + 1-diethylaminodiene → 아줄렌 골격.** 6,6-dimethyl풀벤(6,6-dimethylfulvene)은 공명 구조로 쓰면 고리 쪽이 "방향족" cyclopentadienyl anion이 되고, 고리 밖 CMe2는 양전하를 띤다. 따라서 고리 밖 탄소가 친전자성 말단이다. 한편 1-(diethyl아미노)부타-1,3-diene은 X형 C1-치환 diene이므로 NEt2에서 먼 말단(C4)이 친핵성이다. 그래서 반응이 **regioselective이다**. CMe2는 diene의 C4와 결합하고, NEt2가 붙은 C1은 풀벤 고리 탄소와 결합한다. 생성된 [6+4] 부가물(5–7 융합 고리)에서 HNEt2가 제거되면(−HNEt2) 콘쥬게이션이 확장된 dimethyl 아줄렌형(bicyclo[5.3.0]) 골격이 얻어진다.
 
 ![6,6-dimethyl풀벤과 1-(diethyl아미노)부타-1,3-diene의 위치선택적 \[6+4\] cycloaddition](../../figures/L14/fulvene_64.svg)
 
-그림: 6,6-dimethylfulvene(왼쪽, $6\pi$ 성분)과 1-(diethylamino)buta-1,3-diene(가운데, $4\pi$ 성분)의 [6+4] cycloaddition이다. 빨간색은 electrophilic한 고리 밖 $C=CMe_2$, 파란색은 전자를 내주는 $\pi$ 결합, 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 주황색 화살표 다섯 개(전자 10개, 4n+2)가 한 방향으로 돈다. diene에서 $NEt_2$ 와 먼 말단(C4)이 $CMe_2$ 와 결합하고, $NEt_2$ 가 붙은 C1은 fulvene 고리 탄소와 결합한다. 생성물은 5–7 융합 고리이고, 고리 접합 H와 $NEt_2$ 가 $HNEt_2$ 로 빠지면 azulene형 골격이 된다(제거 단계는 그리지 않았다).
+그림: 6,6-dimethylfulvene(왼쪽, $6\pi$ 성분)과 1-(diethylamino)buta-1,3-diene(가운데, $4\pi$ 성분)의 [6+4] cycloaddition이다. 빨간색은 electrophilic한 고리 밖 $C=CMe_2$ , 파란색은 전자를 내주는 $\pi$ 결합, 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 주황색 화살표 다섯 개(전자 10개, 4n+2)가 한 방향으로 돈다. diene에서 $NEt_2$ 와 먼 말단(C4)이 $CMe_2$ 와 결합하고, $NEt_2$ 가 붙은 C1은 fulvene 고리 탄소와 결합한다. 생성물은 5–7 융합 고리이고, 고리 접합 H와 $NEt_2$ 가 $HNEt_2$ 로 빠지면 azulene형 골격이 된다(제거 단계는 그리지 않았다).
 
 (출처: L14 p.21)
 
@@ -312,27 +312,27 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 
 > 개념 문서: [4+3 cycloaddition](../../wiki/반응/4+3%20고리화%20첨가.md), [allyl cation](../../wiki/개념/알릴%20양이온.md)
 
-3원자 성분으로도 cycloaddition이 가능할까? 가능하다. 핵심은 **allyl cation**이다.
+3원자 성분으로도 cycloaddition이 가능할까? 가능하다. 핵심은 **allyl cation이다**.
 
 **allyl cation 만들기 (1,3-dibromoacetone + Zn)**
 
 1. Zn이 C–Br 결합에 끼어들어 전자를 넣는다. 그러면 Br−가 떨어져 나가고 아연 enolate BrZn–O–C(=CH2)–CH2Br가 생긴다.
-2. 남은 C–Br에서 Br−가 이탈한다. 그 결과 **2-(BrZnO)-allyl cation**(옥시알릴 cation 계열)이 만들어진다.
+2. 남은 C–Br에서 Br−가 이탈한다. 그 결과 **2-(BrZnO)-allyl cation** (옥시알릴 cation 계열)이 만들어진다.
 
 보충: 왜 1단계 전에는 Br−가 그냥 떨어지지 않다가 1단계 뒤에야 떨어지는가? 처음에는 C–Br 탄소가 전자 끄는 carbonyl 바로 옆이라, 그 자리에 cation이 생기면 오히려 불안정해진다. 아연 enolate가 된 뒤에는 같은 탄소가 전자가 풍부한 enolate C=C 옆이 되어, 생기는 cation이 짝지음(allyl 공명)과 산소로 안정화된다. 이 반응은 옥시알릴 cation이라는 불안정한 intermediate가 실제로 존재한다는 증거로도 쓰인다. (보충 근거: Clayden p.894)
 
-슬라이드가 강조하듯 **이 allyl cation은 원자는 3개이지만 $\pi$ 전자는 2개뿐이다.** 보충: [4+3], [4+2] 같은 괄호 안의 숫자는 고리에 들어가는 **원자 수**이고, Woodward–Hoffmann의 (4q+2), (4r)는 **전자 수**다. 그래서 [4+3]도 규칙 언어로는 $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$이고, DA와 똑같이 허용된다. (보충 근거: Clayden p.894)
+슬라이드가 강조하듯 **이 allyl cation은 원자는 3개이지만 $\pi$ 전자는 2개뿐이다.** 보충: [4+3], [4+2] 같은 괄호 안의 숫자는 고리에 들어가는 **원자 수이고**, Woodward–Hoffmann의 (4q+2), (4r)는 **전자 수** 다. 그래서 [4+3]도 규칙 언어로는 $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ 이고, DA와 똑같이 허용된다. (보충 근거: Clayden p.894)
 
 **cycloaddition**
 
 3. allyl cation의 두 말단 탄소가 diene의 C1과 C4에 동시에 결합한다. 이것이 [4+3] cycloaddition이고, 그 결과 7원환 cation이 생긴다. 이 cation은 O–ZnBr에 인접해 있어서 산소가 안정화해 준다.
-4. O–ZnBr의 전자쌍이 C=O를 다시 만들면서 ZnBr이 떨어진다. 최종 생성물은 **cyclohept-4-en-1-one**이다.
+4. O–ZnBr의 전자쌍이 C=O를 다시 만들면서 ZnBr이 떨어진다. 최종 생성물은 **cyclohept-4-en-1-one이다**.
 
-그럼 이 반응은 허용되는가? 슬라이드의 질문인 "FMO를 그려라, 허용되는가?"의 답은 연습 문제 4에 정리했다. 요약하면 allyl cation LUMO($\psi_{2}$)와 diene HOMO($\psi_{2}$)의 말단 위상이 맞고, 전자는 총 6개(4n+2)다. 그러므로 **열적으로 허용된다.**
+그럼 이 반응은 허용되는가? 슬라이드의 질문인 "FMO를 그려라, 허용되는가?"의 답은 연습 문제 4에 정리했다. 요약하면 allyl cation LUMO( $\psi_{2}$ )와 diene HOMO( $\psi_{2}$ )의 말단 위상이 맞고, 전자는 총 6개(4n+2)다. 그러므로 **열적으로 허용된다.**
 
 ![2-(BrZnO)allyl cation과 diene의 [4+3] cycloaddition과 이어지는 ZnBr 이탈](../../figures/L14/cyclo43_oxyallyl.svg)
 
-그림: 빨간 +는 allyl cation의 양전하($\pi$ 전자 2개 성분), 파란색은 allyl cation의 C=C와 diene의 $\pi$ 결합($4\pi$ 성분)이다. 첫 단계의 화살표 셋은 모두 반시계 방향으로 돈다. (1) diene의 오른쪽 $\pi$ 전자가 cation 탄소와 새 $\sigma$ 결합을 만들고, (2) diene의 왼쪽 $\pi$ 전자가 가운데로 옮겨 새 C=C가 되며, (3) allyl cation의 C=C 전자가 diene 왼쪽 말단과 새 $\sigma$ 결합을 만든다. 그러면 양전하는 O–ZnBr이 붙은 탄소에 남는다(초록 결합이 새 $\sigma$ 결합). 둘째 단계에서는 O–Zn 결합 전자(파랑)가 C=O를 만들며 ZnBr⁺이 떨어져 cyclohept-4-enone이 된다.
+그림: 빨간 +는 allyl cation의 양전하( $\pi$ 전자 2개 성분), 파란색은 allyl cation의 C=C와 diene의 $\pi$ 결합( $4\pi$ 성분)이다. 첫 단계의 화살표 셋은 모두 반시계 방향으로 돈다. (1) diene의 오른쪽 $\pi$ 전자가 cation 탄소와 새 $\sigma$ 결합을 만들고, (2) diene의 왼쪽 $\pi$ 전자가 가운데로 옮겨 새 C=C가 되며, (3) allyl cation의 C=C 전자가 diene 왼쪽 말단과 새 $\sigma$ 결합을 만든다. 그러면 양전하는 O–ZnBr이 붙은 탄소에 남는다(초록 결합이 새 $\sigma$ 결합). 둘째 단계에서는 O–Zn 결합 전자(파랑)가 C=O를 만들며 ZnBr⁺이 떨어져 cyclohept-4-enone이 된다.
 
 (출처: L14 p.22–23)
 
@@ -346,24 +346,24 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 
 ethylene과 maleic anhydride을 가열하면 [2+2] 반응이 일어나지 않는다. 그런데 UV를 쪼이면 잘 일어나서 cyclobutane이 융합된 무수물(cyclobutane-1,2-dicarboxylic acid 무수물)이 생긴다. 왜 이런 차이가 생기는가?
 
-**FMO 관점.** alkene HOMO($\pi$)의 두 로브는 위상이 같고, 무수물 LUMO($\pi^{*}$)의 두 로브는 위상이 반대다. 수프라–수프라로 겹치면 한쪽 끝은 결합성이지만 다른 쪽 끝은 **반결합성**이 된다. 즉 HOMO/LUMO 상호작용의 위상이 맞지 않으므로 금지다.
+**FMO 관점.** alkene HOMO( $\pi$ )의 두 로브는 위상이 같고, 무수물 LUMO( $\pi^{\ast}$ )의 두 로브는 위상이 반대다. 수프라–수프라로 겹치면 한쪽 끝은 결합성이지만 다른 쪽 끝은 **반결합성이** 된다. 즉 HOMO/LUMO 상호작용의 위상이 맞지 않으므로 금지다.
 
-**Woodward–Hoffmann 관점.** $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$에서 (4q+2)s 성분은 2개, (4r)a 성분은 0개다. 합이 2(짝수)이므로 **열적 금지**다. $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$라면 합이 1이 되어 형식상 허용이다. 하지만 짧은 alkene이 비틀려 안타라페이셜로 결합하기는 기하학적으로 매우 어렵다. 이것이 바로 "허용 ≠ 실제로 일어남"의 예다.
+**Woodward–Hoffmann 관점.** $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$ 에서 (4q+2)s 성분은 2개, (4r)a 성분은 0개다. 합이 2(짝수)이므로 **열적 금지** 다. $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$ 라면 합이 1이 되어 형식상 허용이다. 하지만 짧은 alkene이 비틀려 안타라페이셜로 결합하기는 기하학적으로 매우 어렵다. 이것이 바로 "허용 ≠ 실제로 일어남"의 예다.
 
 ![ethylene과 maleic anhydride의 광화학 [2+2] cycloaddition](../../figures/L14/photo22_anhydride.svg)
 
-그림: 파란색은 ethylene의 $\pi$ 결합, 빨간색은 maleic anhydride의 C=C, 초록색은 새로 생긴 cyclobutane의 $\sigma$ 결합이다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 위쪽 화살표는 ethylene $\pi$ 전자가 무수물 탄소 쪽으로, 아래쪽 화살표는 무수물 $\pi$ 전자가 ethylene 탄소 쪽으로 가서 두 $\sigma$ 결합을 동시에 만드는 것을 나타낸다. 가열($\Delta$)로는 일어나지 않고 UV($h\nu$)를 쪼일 때만 수프라–수프라로 진행한다. 수프라페이셜이므로 무수물의 두 고리 접합 H는 cis로 남는다.
+그림: 파란색은 ethylene의 $\pi$ 결합, 빨간색은 maleic anhydride의 C=C, 초록색은 새로 생긴 cyclobutane의 $\sigma$ 결합이다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 위쪽 화살표는 ethylene $\pi$ 전자가 무수물 탄소 쪽으로, 아래쪽 화살표는 무수물 $\pi$ 전자가 ethylene 탄소 쪽으로 가서 두 $\sigma$ 결합을 동시에 만드는 것을 나타낸다. 가열( $\Delta$ )로는 일어나지 않고 UV( $h\nu$ )를 쪼일 때만 수프라–수프라로 진행한다. 수프라페이셜이므로 무수물의 두 고리 접합 H는 cis로 남는다.
 
 (출처: L14 p.24–25)
 
 ### 10.2 빛은 무엇을 바꾸나
 
-UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{*}$로 올라간다(들뜬 상태). 이제 들뜬 alkene과 바닥 상태 alkene 사이의 상호작용은 두 가지다.
+UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{\ast}$ 로 올라간다(들뜬 상태). 이제 들뜬 alkene과 바닥 상태 alkene 사이의 상호작용은 두 가지다.
 
-- **HOMO/HOMO 상호작용 ($\pi$/$\pi$)**: 전자 3개가 들어간다. 2개는 낮아진 결합성 조합에, 1개는 올라간 반결합성 조합에 들어가므로 알짜로는 안정화다.
-- **LUMO/LUMO 상호작용 ($\pi^{*}$/$\pi^{*}$)**: 전자 1개가 낮아진 조합에 들어가므로 역시 안정화다.
+- **HOMO/HOMO 상호작용 ( $\pi$ / $\pi$ )** : 전자 3개가 들어간다. 2개는 낮아진 결합성 조합에, 1개는 올라간 반결합성 조합에 들어가므로 알짜로는 안정화다.
+- **LUMO/LUMO 상호작용 ( $\pi^{\ast}$ / $\pi^{\ast}$ )** : 전자 1개가 낮아진 조합에 들어가므로 역시 안정화다.
 
-이렇게 두 상호작용 모두 알짜 결합성이 되므로 **광화학 [2+2]는 수프라–수프라로 허용된다**[6].
+이렇게 두 상호작용 모두 알짜 결합성이 되므로 **광화학 [2+2]는 수프라–수프라로 허용된다** [6].
 
 보충: 두 가지 "왜?"가 더 남는다. 첫째, 서로 다른 두 alkene 가운데 누가 들뜨는가? 짝지음이 있는 쪽(enone, maleic anhydride)만 보통의 UV를 흡수하므로 그 성분이 들뜨고, 단순 alkene은 바닥 상태로 남는다. 그래서 서로 다른 alkene끼리의 [2+2]가 선택적으로 일어난다. 둘째, 변형이 큰 cyclobutane이 왜 다시 두 alkene으로 돌아가지 않는가? 역반응도 같은 선택 규칙을 따르므로 빛을 흡수해야 하는데, 생성물은 $\pi$ 결합을 잃어서 빛을 흡수할 낮은 빈 오비탈이 없다. 그래서 생성물은 변형이 커도 쌓이는 kinetic 생성물이 된다. (보충 근거: Clayden p.897–898, 907)
 
@@ -371,7 +371,7 @@ UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{*}$로 올라간�
 
 ### 10.3 입체화학
 
-- **각 성분 안에서는 입체특이적**이다. 수프라페이셜 결합이므로 각 alkene의 cis/trans 관계가 고리에 그대로 남는다.
+- **각 성분 안에서는 입체특이적이다**. 수프라페이셜 결합이므로 각 alkene의 cis/trans 관계가 고리에 그대로 남는다.
 - **stereoselectivity은 입체 장애가 가장 적은 transition state를 따른다.** DA와 달리 **엔도 선택성이 없다.**
 
 슬라이드 예는 1,2-cyclobutenedicarboxylic acid dimethyl과 3-methylcyclohex-2-enone의 $h\nu$ 반응이다. 이 반응으로 4-4-6 tricyclic 화합물이 생긴다. cyclobutene의 두 CO2Me는 서로 cis로 남는다. enone 쪽의 융합 H와 Me도 서로 cis인데, 원래 같은 C=C에 붙어 있던 기들이기 때문이다. 그리고 두 바깥 고리(원래의 cyclobutane과 cyclohexanone)는 가운데 cyclobutane을 기준으로 서로 anti에 놓인다. 입체 장애가 가장 적은 배열이다.
@@ -380,13 +380,13 @@ UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{*}$로 올라간�
 
 ### 10.4 regioselectivity
 
-isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로 관찰되는 생성물은 **7,7-dimethylbicyclo로[4.2.0]옥탄-2-온**이다. 즉 CMe2가 enone의 $\beta$-탄소와 결합한다. (슬라이드는 융합 H 두 개를 cis로 그렸다[7].)
+isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$ 로 반응시키면 실제로 관찰되는 생성물은 **7,7-dimethylbicyclo로[4.2.0]옥탄-2-온이다**. 즉 CMe2가 enone의 $\beta$-탄소와 결합한다. (슬라이드는 융합 H 두 개를 cis로 그렸다[7].)
 
 ![isobutylene과 cyclohex-2-enone의 광화학 \[2+2\]: CMe2가 enone의 $\beta$-탄소와 결합한다](../../figures/L14/photo22_regio.svg)
 
-그림: isobutylene(파란 C=C)과 cyclohex-2-enone(빨간 C=C)의 광화학 [2+2]이다. 슬라이드처럼 두 화살표로 두 $\sigma$ 결합이 동시에 생기는 것을 형식적으로 나타냈다. $CH_2$ 말단은 enone의 $\alpha$-탄소와, $CMe_2$ 는 $\beta$-탄소와 결합한다(초록색: 새 $\sigma$ 결합). 이 배향은 HOMO/LUMO가 아니라 LUMO/LUMO의 큰 계수(isobutylene의 $CMe_2$, enone의 $\beta$-탄소)끼리 겹친다는 것으로 설명된다. 생성물의 두 융합 H는 슬라이드대로 cis(둘 다 굵은 쐐기)로 그렸다.
+그림: isobutylene(파란 C=C)과 cyclohex-2-enone(빨간 C=C)의 광화학 [2+2]이다. 슬라이드처럼 두 화살표로 두 $\sigma$ 결합이 동시에 생기는 것을 형식적으로 나타냈다. $CH_2$ 말단은 enone의 $\alpha$-탄소와, $CMe_2$ 는 $\beta$-탄소와 결합한다(초록색: 새 $\sigma$ 결합). 이 배향은 HOMO/LUMO가 아니라 LUMO/LUMO의 큰 계수(isobutylene의 $CMe_2$ , enone의 $\beta$-탄소)끼리 겹친다는 것으로 설명된다. 생성물의 두 융합 H는 슬라이드대로 cis(둘 다 굵은 쐐기)로 그렸다.
 
-왜 이쪽인가? 슬라이드는 광화학 조건에서 HOMO/HOMO와 LUMO/LUMO 상호작용을 따진다. isobutylene의 LUMO는 치환된 CMe2 쪽 계수가 크고, enone LUMO는 $\beta$-탄소 계수가 크다. **큰 계수끼리 겹치므로** CMe2–C$\beta$ 결합이 생긴다.
+왜 이쪽인가? 슬라이드는 광화학 조건에서 HOMO/HOMO와 LUMO/LUMO 상호작용을 따진다. isobutylene의 LUMO는 치환된 CMe2 쪽 계수가 크고, enone LUMO는 $\beta$-탄소 계수가 크다. **큰 계수끼리 겹치므로** $\mathrm{CMe_2}{-}C_{\beta}$ 결합이 생긴다.
 
 보충: 이것은 열적 반응의 직관과 정반대다. alkene HOMO와 enone LUMO가 반응한다면(열적 사고방식) 친핵성인 CH2 말단이 친전자성인 $\beta$-탄소와 결합해 반대 위치 이성질체가 나와야 한다. 그런데 들뜬 enone은 원래 LUMO에 전자 하나가 들어가 있고, alkene LUMO의 계수 크기는 HOMO와 반대(치환된 탄소 쪽이 큼)다. 그래서 LUMO/LUMO 겹침이 결정하는 광화학 생성물은 "보통의 굽은 화살표로 예상하는 생성물의 반대"라고 기억하면 빠르다. (보충 근거: Clayden p.898)
 
@@ -398,34 +398,38 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 > 개념 문서: [cubane](../../wiki/개념/큐베인.md)
 
-**cubane(C8H8)**은 탄소 8개가 정육면체의 꼭짓점에 놓인 분자다. 모든 C–C–C 결합각이 90°라서 결합이 극도로 **strained**되어 있다. 1964년 Philip Eaton과 Thomas Cole이 처음 합성했다. 모든 H를 NO2로 바꾼 **octanitrocubane(C8(NO2)8)**은 1999년 Eaton과 Mao-Xi Zhang이 합성했다. 분해되면 CO2와 N2만 생기며, 슬라이드는 이 화합물을 "가장 빠르고 효과적인 화학 폭약이면서 충격에 둔감하다"고 소개한다[8].
+**cubane(C8H8)은** 탄소 8개가 정육면체의 꼭짓점에 놓인 분자다. 모든 C–C–C 결합각이 90°라서 결합이 극도로 **strained** 되어 있다. 1964년 Philip Eaton과 Thomas Cole이 처음 합성했다. 모든 H를 NO2로 바꾼 **octanitrocubane(C8(NO2)8)은** 1999년 Eaton과 Mao-Xi Zhang이 합성했다. 분해되면 CO2와 N2만 생기며, 슬라이드는 이 화합물을 "가장 빠르고 효과적인 화학 폭약이면서 충격에 둔감하다"고 소개한다[8].
 
 (출처: L14 p.29)
 
 ### 11.1 cubane 합성 (Eaton & Cole, 1964)
 
-그렇다면 이런 정육면체는 어떻게 만드는가? 이 합성의 핵심은 **[4+2]로 뼈대를 세우고, 광화학 [2+2]로 상자를 닫는 것**이다. 단계는 다음과 같다(슬라이드 표기 그대로).
+그렇다면 이런 정육면체는 어떻게 만드는가? 이 합성의 핵심은 **[4+2]로 뼈대를 세우고, 광화학 [2+2]로 상자를 닫는 것이다**. 단계는 다음과 같다(슬라이드 표기 그대로).
 
-1. $\begin{aligned} & \text{cyclopent-2-enone} \\ & \xrightarrow{\mathrm{NBS}} \text{4-bromocyclopent-2-enone}\ (\text{allyl bromination}) \end{aligned}$
+1. 반응식
+
+$$
+\begin{aligned} & \text{cyclopent-2-enone} \cr  & \xrightarrow{\mathrm{NBS}} \text{4-bromocyclopent-2-enone}\ (\text{allyl bromination}) \end{aligned}
+$$
 
 2. $\xrightarrow{\mathrm{Br_2}} \text{2,3,4-tribromocyclopentanone}\ (\text{alkene에}\ \mathrm{Br_2}\ \text{첨가})$
 
-3. $\xrightarrow{\mathrm{HNEt_2}} \text{2-bromocyclopentadienone}\ (\text{탈할로젠화수소})$. 반응성이 매우 커서 분리하지 않음)
+3. $\xrightarrow{\mathrm{HNEt_2}} \text{2-bromocyclopentadienone}\ (\text{탈할로젠화수소})$ . 반응성이 매우 커서 분리하지 않음)
 4. **자발적 Diels–Alder [4+2] 이량화.** 한 분자가 diene, 다른 분자가 dienophile로 작용하여 엔도 이량체가 생긴다. 슬라이드에서 상자로 강조한 부분이다.
 5. $\xrightarrow{\mathrm{(CH_2OH)_2},\ \mathrm{TsOH}} \text{두 ketone을 모두 케탈로 보호}$
 
 6. $\xrightarrow{\mathrm{HCl},\ \mathrm{H_2O}} \text{enone 쪽 케탈만 다시 ketone으로 되돌림}$
 
-7. **$\xrightarrow{h\nu} \text{분자 내}\ \mathrm{[2^+2]}\ \text{cycloaddition로 cage 구조가 완성된다}$. 엔도 이량체이기 때문에 두 C=C가 서로 가까이 마주 보고 있어서 이 반응이 가능하다[9].
-8. $\begin{aligned} & \xrightarrow{\mathrm{KOH}} \text{Favorskii 고리 축소} \\ & \longrightarrow \text{carboxylic acid} \end{aligned}$
+7. 빛을 쬐면 분자 내 **[2+2] cycloaddition으로** cage 구조가 완성된다. endo 이량체에서는 두 C=C가 서로 가까이 마주 보고 있어서 이 반응이 가능하다[9].
+8. KOH로 Favorskii 고리 축소를 일으켜 carboxylic acid를 만든다.
 
 9. $\xrightarrow{1.\ \mathrm{SOCl_2},\ 2.\ \mathrm{tBuOOH},\ \text{pyridine}} \text{tert-butyl perester}$
 
 10. $\xrightarrow[152\,{}^\circ\mathrm{C}]{\Delta,\ \text{cumene}} \text{decarboxylation}\ (\mathrm{CO_2H}\ \text{자리를 H로 교체})$
 
-11. $\begin{aligned} & \xrightarrow{1.\ \mathrm{H_2SO_4},\ 2.\ \mathrm{KOH}} \text{남은 케탈을 ketone으로 되돌린 뒤 두 번째 Favorskii 고리 축소} \\ & \longrightarrow \text{cubanecarboxylic acid} \end{aligned}$
+11. H₂SO₄로 남은 ketal을 ketone으로 되돌린 뒤, KOH로 두 번째 Favorskii 고리 축소를 일으켜 cubanecarboxylic acid를 만든다.
 
-12. $\begin{aligned} & \xrightarrow{1.\ \mathrm{SOCl_2},\ 2.\ \mathrm{tBuOOH},\ \mathrm{Py}} \text{perester} \\ & \xrightarrow[150\,{}^\circ\mathrm{C},\ \text{diisopropylbenzene}]{\Delta} \text{cubane} \end{aligned}$**
+12. SOCl₂, tBuOOH, pyridine을 순서대로 사용해 perester를 만든 뒤, diisopropylbenzene에서 150 °C로 가열하여 cubane을 얻는다.
 
 ![cyclopent-2-enone → 4-bromocyclopent-2-enone](../../figures/L14/cubane_1.svg)
 
@@ -450,9 +454,9 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 **Diels–Alder reaction**
 
 - 전자 풍부 diene + 전자 부족 dienophile은 반응이 빠르다. HOMO(diene)–LUMO(dienophile) 간격이 좁기 때문이다.
-- **입체특이적**: 1,4-이치환 diene이나 1,2-이치환 dienophile의 기하가 생성물에 보존된다.
-- **입체선택적**: 치환된 diene과 치환된 dienophile의 조합에서 엔도 TS가 선호된다.
-- **위치선택적**: 전자 풍부 diene + 전자 부족 dienophile에서 "para"/"ortho" 생성물이 선호된다.
+- **입체특이적** : 1,4-이치환 diene이나 1,2-이치환 dienophile의 기하가 생성물에 보존된다.
+- **입체선택적** : 치환된 diene과 치환된 dienophile의 조합에서 엔도 TS가 선호된다.
+- **위치선택적** : 전자 풍부 diene + 전자 부족 dienophile에서 "para"/"ortho" 생성물이 선호된다.
 
 **다양한 cycloaddition**
 
@@ -466,15 +470,15 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 ## 흔한 오해
 
-- **"Woodward–Hoffmann에서 diene도 세야 한다"고 생각하기 쉽지만 사실은** DA에서 diene은 $\pi4\mathrm{s}$, 즉 (4r)*s* 성분이다. 규칙이 세는 것은 (4q+2)s와 (4r)**a**뿐이므로 diene은 세지 않는다. 합 1은 alkene($\pi2\mathrm{s}$) 하나에서 나온다.
-- **"허용된 반응이면 반드시 일어난다"고 생각하기 쉽지만 사실은** "허용"은 이론적으로 가능하다는 뜻일 뿐이다. 열적 $\pi2\mathrm{s}$+$\pi2\mathrm{a}$ [2+2]는 형식상 허용이지만 일반 alkene에서는 기하학적으로 거의 불가능하다.
+- **"Woodward–Hoffmann에서 diene도 세야 한다"고 생각하기 쉽지만 사실은** DA에서 diene은 $\pi4\mathrm{s}$ , 즉 (4r)*s* 성분이다. 규칙이 세는 것은 (4q+2)s와 (4r) **a** 뿐이므로 diene은 세지 않는다. 합 1은 alkene( $\pi2\mathrm{s}$ ) 하나에서 나온다.
+- **"허용된 반응이면 반드시 일어난다"고 생각하기 쉽지만 사실은** "허용"은 이론적으로 가능하다는 뜻일 뿐이다. 열적 $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$ [2+2]는 형식상 허용이지만 일반 alkene에서는 기하학적으로 거의 불가능하다.
 - **"[2+2]는 무조건 안 된다"고 생각하기 쉽지만 사실은** *열적* 수프라–수프라 [2+2]가 금지일 뿐이다. 광화학 [2+2]는 허용이고 실제로 잘 일어난다(cyclobutane 합성, cubane 합성).
 - **"광화학 [2+2]도 DA처럼 엔도 선택적이다"라고 생각하기 쉽지만 사실은** 엔도 선택성이 없다. 입체 장애가 가장 적은 TS를 따른다.
 - **"ortho/para는 benzene 고리 이야기"라고 생각하기 쉽지만 사실은** cyclohexene 생성물에서 두 치환기가 1,2(pseudo ortho) 또는 1,4(pseudo para) 관계라는 것을 빌려 쓴 *기억법*이다.
 - **"1-치환 diene이면 치환기 붙은 탄소가 친핵성"이라고 생각하기 쉽지만 사실은** C1에 X가 있으면 HOMO 계수가 가장 큰 곳은 *반대편 말단 C4*다. 이 C4가 dienophile의 $\beta$-탄소와 결합하므로 결과적으로 X와 Z가 이웃한 ortho 생성물이 된다.
-- **"엔도 = 치환기끼리 cis"라고 외우기 쉽지만 사실은** 엔도 TS에서 cis가 되는 것은 diene의 **"out" 치환기**와 EWG다. "in" 치환기는 EWG와 trans가 된다. (E)-1-치환 diene에서는 치환기가 "out"이므로 엔도 생성물에서 치환기와 EWG가 cis다.
-- **$\begin{aligned} & \text{"Lewis acid은 속도만 높인다"고 생각하기 쉽지만 사실은}\ \pi\  \\ & \text{결합의 편극을 키워 regioselectivity도}\ \text{높인다}(\mathrm{71:29}) \\ & \longrightarrow \mathrm{93:7)} \end{aligned}$.
-- **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a에 해당하는 **성분의 개수**가 홀수여야 한다. [4+2]는 전자 6개(짝수)지만 세는 성분이 1개라 허용이다. (보충 근거: Clayden p.892)
+- **"엔도 = 치환기끼리 cis"라고 외우기 쉽지만 사실은** 엔도 TS에서 cis가 되는 것은 diene의 **"out" 치환기와** EWG다. "in" 치환기는 EWG와 trans가 된다. (E)-1-치환 diene에서는 치환기가 "out"이므로 엔도 생성물에서 치환기와 EWG가 cis다.
+- **“Lewis acid는 속도만 높인다”는 오해:** Lewis acid는 $\pi$ 결합의 분극을 키워 regioselectivity도 높인다. 강의 예에서는 생성물 비가 71:29에서 93:7로 바뀐다.
+- **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a에 해당하는 **성분의 개수가** 홀수여야 한다. [4+2]는 전자 6개(짝수)지만 세는 성분이 1개라 허용이다. (보충 근거: Clayden p.892)
 - **"Woodward–Hoffmann 규칙으로 엔도·regioselectivity도 예측할 수 있다"고 생각하기 쉽지만 사실은** 규칙은 허용/금지만 알려 준다. 엔도 선택성과 regioselectivity은 FMO(이차 오비탈 겹침, 계수 크기)로 따진다. (보충 근거: Clayden p.893)
 - **"광화학 [2+2]도 HOMO(alkene)–LUMO(enone)로 위치를 정한다"고 생각하기 쉽지만 사실은** 들뜬 상태에서는 LUMO/LUMO 겹침이 결정하므로 열적 직관과 반대 위치 이성질체가 나온다. (보충 근거: Clayden p.898)
 - **"allyl cation은 3원자니까 전자도 3개짜리 성분"이라고 생각하기 쉽지만 사실은** allyl cation의 $\pi$ 전자는 2개다. 그래서 [4+3]의 전자 수는 4+2=6(4n+2)이고 열적으로 허용된다.
@@ -491,7 +495,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 - 생성물: 4-vinylcyclohexene
 - regioselectivity: –
 - 입체화학: –
-- 비고: $\pi4\mathrm{s}$+$\pi2\mathrm{s}$, 허용 (p.7)
+- 비고: $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ , 허용 (p.7)
 
 ### butadiene [4+4]
 
@@ -499,7 +503,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 - 생성물: (cycloocta-1,5-diene 생성 안 됨)
 - regioselectivity: –
 - 입체화학: –
-- 비고: $\pi4\mathrm{s}$+$\pi4\mathrm{s}$, 열적 금지 (p.7)
+- 비고: $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ , 열적 금지 (p.7)
 
 ### 2-methoxybutadiene + acrylonitrile
 
@@ -579,7 +583,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 - 생성물: cyclohept-4-ene-1-one
 - regioselectivity: –
 - 입체화학: –
-- 비고: 옥시알릴 cation ($2\pi$) + diene ($4\pi$), [4+3] (p.22–23)
+- 비고: 옥시알릴 cation ( $2\pi$ ) + diene ( $4\pi$ ), [4+3] (p.22–23)
 
 ### ethylene + maleic anhydride
 
@@ -601,7 +605,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 - 시약/조건: $h\nu$
 - 생성물: 7,7-dimethylbicyclo로[4.2.0]옥탄-2-one
-- regioselectivity: CMe2–C$\beta$
+- regioselectivity: $\mathrm{CMe_2}{-}C_{\beta}$
 - 입체화학: 슬라이드는 cis 융합으로 그림
 - 비고: LUMO/LUMO 큰 계수 일치 (p.28)
 
@@ -622,7 +626,7 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 
 **문제 2.** (p.3, p.10) maleic anhydride이 butadiene과 빠르게 반응하는 이유를 FMO로 설명하라. diene C1에 OMe를 추가하면 반응 속도는 어떻게 되는가?
 
-**$\begin{aligned} & \text{문제}\ 3.\ (\mathrm{p.18{-}19}\ \text{빈칸})\ (\mathit{E})\text{-1-acetoxy부타-1,3-diene} \\ &  + (\mathit{E})\text{-crotonaldehyde} \\ & \longrightarrow \\ & \mathrm{?}\ \text{regioselectivity},\ \text{stereoselectivity},\  \\ & \text{stereospecificity 순서로 주생성물의 구조와 상대 입체화학을 예측하라} \end{aligned}$.
+**문제 3.** (p.18–19 빈칸) (E)-1-acetoxybuta-1,3-diene과 (E)-crotonaldehyde의 반응에서 regioselectivity, stereoselectivity, stereospecificity를 차례로 적용해 주생성물의 구조와 상대 입체화학을 예측하라.
 
 **문제 4.** (p.22–23) 1,3-dibromoacetone/Zn에서 생긴 allyl cation과 butadiene의 [4+3] cycloaddition에 대해 FMO를 그리고, 이 반응이 열적으로 허용되는지 판단하라. Woodward–Hoffmann 규칙으로도 확인하라.
 
@@ -639,34 +643,34 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 ## 정답 및 해설
 
 **정답 1.**
-- [4+2]: $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$이다. (4q+2)s 성분은 alkene $\pi2\mathrm{s}$ 1개, (4r)a 성분은 0개이므로 합이 1(홀수)이다. 따라서 **열적으로 허용**된다. 생성물은 **4-vinylcyclohexene**이다. 한 분자는 diene으로, 다른 분자는 C=C 하나만 dienophile로 쓰기 때문에 남은 바이닐기가 치환기로 붙는다.
-- [4+4]: $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$이다. 4전자 성분은 s이므로 세지 않는다. (4q+2)s도 0개, (4r)a도 0개라서 합이 0(짝수)이다. 따라서 **열적으로 금지**된다. cycloocta-1,5-diene은 생기지 않는다. FMO로 보면 diene HOMO($\psi_{2}$)와 다른 diene LUMO($\psi_{3}$)의 말단 위상이 한쪽 끝에서만 맞는다. 전자 수로 보면 총 8개, 즉 4n이다.
+- [4+2]: $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ 이다. (4q+2)s 성분은 alkene $\pi2\mathrm{s}$ 1개, (4r)a 성분은 0개이므로 합이 1(홀수)이다. 따라서 **열적으로 허용** 된다. 생성물은 **4-vinylcyclohexene이다**. 한 분자는 diene으로, 다른 분자는 C=C 하나만 dienophile로 쓰기 때문에 남은 바이닐기가 치환기로 붙는다.
+- [4+4]: $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ 이다. 4전자 성분은 s이므로 세지 않는다. (4q+2)s도 0개, (4r)a도 0개라서 합이 0(짝수)이다. 따라서 **열적으로 금지** 된다. cycloocta-1,5-diene은 생기지 않는다. FMO로 보면 diene HOMO( $\psi_{2}$ )와 다른 diene LUMO( $\psi_{3}$ )의 말단 위상이 한쪽 끝에서만 맞는다. 전자 수로 보면 총 8개, 즉 4n이다.
 (출처: L14 p.6–7, p.21)
 
-**정답 2.** 반응을 지배하는 것은 HOMO(diene)–LUMO(dienophile) 상호작용이다. maleic anhydride은 Z형 carbonyl 두 개 때문에 LUMO($\pi^{*}$)가 크게 낮아져 있다. 그래서 diene $\psi_{2}$와의 간격이 작고 겹침이 좋아 반응이 빠르다. 여기에 OMe(X형)를 더하면 diene HOMO가 크게 올라간다. 간격이 더 좁아지므로 반응이 **더 빨라진다**. 슬라이드 그림 (c)의 상황이다.
+**정답 2.** 반응을 지배하는 것은 HOMO(diene)–LUMO(dienophile) 상호작용이다. maleic anhydride은 Z형 carbonyl 두 개 때문에 LUMO( $\pi^{\ast}$ )가 크게 낮아져 있다. 그래서 diene $\psi_{2}$ 와의 간격이 작고 겹침이 좋아 반응이 빠르다. 여기에 OMe(X형)를 더하면 diene HOMO가 크게 올라간다. 간격이 더 좁아지므로 반응이 **더 빨라진다** . 슬라이드 그림 (c)의 상황이다.
 (출처: L14 p.3, p.9–10)
 
 **정답 3.**
-- 1단계(위치): C1-OAc diene은 OAc에서 먼 C4가 친핵성이다. crotonaldehyde에서는 CHO의 $\beta$-탄소(CHMe)가 친전자성이다. CHO(Z)가 Me(약한 X)보다 지배적이기 때문이다. 그래서 C4–C$\beta$가 결합하고, 그 결과 OAc 탄소와 CHO 탄소가 ortho. 고리 번호로는 C1(OAc), C2=C3, C4(H2), C5(Me), C6(CHO)가 된다.
-- 2단계(엔도): (E)-diene의 OAc는 "out" 치환기다. 엔도 TS에서는 "in" H와 CHO가 trans가 되므로 **OAc와 CHO는 cis**다.
-- 3단계(stereospecificity): dienophile의 CHO와 Me는 trans였으므로 생성물에서도 **CHO와 Me는 trans**다.
-- 답: **6-폼일-5-methylcyclohex-2-ene-1-일 acetate**. 상대 입체화학은 C1-OAc/C6-CHO cis, C6-CHO/C5-Me trans이다. 슬라이드 그림에서는 OAc와 CHO가 쐐기, Me가 점선으로 그려져 있다. 라세미이므로 "or its enantiomer"이다.
+- 1단계(위치): C1-OAc diene은 OAc에서 먼 C4가 친핵성이다. crotonaldehyde에서는 CHO의 $\beta$-탄소(CHMe)가 친전자성이다. CHO(Z)가 Me(약한 X)보다 지배적이기 때문이다. 그래서 $\mathrm{C4}{-}C_{\beta}$ 가 결합하고, 그 결과 OAc 탄소와 CHO 탄소가 ortho. 고리 번호로는 C1(OAc), C2=C3, C4(H2), C5(Me), C6(CHO)가 된다.
+- 2단계(엔도): (E)-diene의 OAc는 "out" 치환기다. 엔도 TS에서는 "in" H와 CHO가 trans가 되므로 **OAc와 CHO는 cis** 다.
+- 3단계(stereospecificity): dienophile의 CHO와 Me는 trans였으므로 생성물에서도 **CHO와 Me는 trans** 다.
+- 답: **6-폼일-5-methylcyclohex-2-ene-1-일 acetate** . 상대 입체화학은 C1-OAc/C6-CHO cis, C6-CHO/C5-Me trans이다. 슬라이드 그림에서는 OAc와 CHO가 쐐기, Me가 점선으로 그려져 있다. 라세미이므로 "or its enantiomer"이다.
 (출처: L14 p.17–19)
 
-**정답 4.** allyl cation의 $\pi$ MO는 세 개다. $\psi_{1}$(HOMO, 전자 2개)은 세 로브의 위상이 모두 같다. $\psi_{2}$(LUMO)는 가운데 탄소에 마디가 있고 두 말단의 위상이 반대다. $\psi_{3}$는 계수가 0.50, 0.71, 0.50이고 위상이 교대한다.
-- allyl cation LUMO($\psi_{2}$, 말단 위상 반대)와 diene HOMO($\psi_{2}$, 말단 위상 반대)는 양 끝 모두에서 결합성 겹침을 이룬다.
-- 반대 조합인 allyl HOMO($\psi_{1}$, 말단 위상 같음)와 diene LUMO($\psi_{3}$, 말단 위상 같음)도 양 끝에서 위상이 맞는다.
-- Woodward–Hoffmann 규칙으로 보면 allyl cation은 2전자이므로 (4q+2)s 성분 1개, diene $\pi4\mathrm{s}$는 세지 않는다. 합이 1(홀수)이므로 **열적으로 허용**된다. 전자 총수 6 = 4n+2와도 일치한다.
+**정답 4.** allyl cation의 $\pi$ MO는 세 개다. $\psi_{1}$ (HOMO, 전자 2개)은 세 로브의 위상이 모두 같다. $\psi_{2}$ (LUMO)는 가운데 탄소에 마디가 있고 두 말단의 위상이 반대다. $\psi_{3}$ 는 계수가 0.50, 0.71, 0.50이고 위상이 교대한다.
+- allyl cation LUMO( $\psi_{2}$ , 말단 위상 반대)와 diene HOMO( $\psi_{2}$ , 말단 위상 반대)는 양 끝 모두에서 결합성 겹침을 이룬다.
+- 반대 조합인 allyl HOMO( $\psi_{1}$ , 말단 위상 같음)와 diene LUMO( $\psi_{3}$ , 말단 위상 같음)도 양 끝에서 위상이 맞는다.
+- Woodward–Hoffmann 규칙으로 보면 allyl cation은 2전자이므로 (4q+2)s 성분 1개, diene $\pi4\mathrm{s}$ 는 세지 않는다. 합이 1(홀수)이므로 **열적으로 허용** 된다. 전자 총수 6 = 4n+2와도 일치한다.
 (출처: L14 p.22–23)
 
 **정답 5.**
-- $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$: (4q+2)s 성분이 2개이므로 합이 2(짝수)다. **열적 금지.** FMO로 보면 alkene HOMO와 다른 alkene LUMO가 한쪽 끝에서 반결합성으로 겹친다.
-- $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$: 합이 1(홀수)이므로 형식상 **열적 허용**이다. 하지만 짧은 alkene이 비틀려 한 성분이 안타라페이셜로 결합하기는 기하학적으로 매우 어려워서 일반 alkene에서는 일어나지 않는다. 슬라이드의 "Allowed doesn't mean that it will happen"이 이 뜻이다.
-- 광화학: 들뜬 alkene은 $\pi$와 $\pi^{*}$에 전자가 하나씩 있다. 바닥 상태 alkene과의 $\pi$/$\pi$ 상호작용에는 전자 3개가 들어가 알짜 안정화가 되고, $\pi^{*}$/$\pi^{*}$ 상호작용에는 전자 1개가 낮은 조합에 들어가 역시 안정화가 된다. 그래서 수프라–수프라로 진행된다.
+- $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$ : (4q+2)s 성분이 2개이므로 합이 2(짝수)다. **열적 금지.** FMO로 보면 alkene HOMO와 다른 alkene LUMO가 한쪽 끝에서 반결합성으로 겹친다.
+- $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$ : 합이 1(홀수)이므로 형식상 **열적 허용이다**. 하지만 짧은 alkene이 비틀려 한 성분이 안타라페이셜로 결합하기는 기하학적으로 매우 어려워서 일반 alkene에서는 일어나지 않는다. 슬라이드의 "Allowed doesn't mean that it will happen"이 이 뜻이다.
+- 광화학: 들뜬 alkene은 $\pi$ 와 $\pi^{\ast}$ 에 전자가 하나씩 있다. 바닥 상태 alkene과의 $\pi$ / $\pi$ 상호작용에는 전자 3개가 들어가 알짜 안정화가 되고, $\pi^{\ast}$ / $\pi^{\ast}$ 상호작용에는 전자 1개가 낮은 조합에 들어가 역시 안정화가 된다. 그래서 수프라–수프라로 진행된다.
 (출처: L14 p.24–26)
 
 **정답 6.**
-- 2-methoxybutadiene은 C2-치환 diene이다. OMe 옆 C1이 친핵성이고 acrylonitrile의 $\beta$-탄소가 친전자성이다. 이 둘이 결합하여 **4-methoxycyclohex-3-ene-1-carbonitrile**(pseudo para, 1,4)이 생긴다.
+- 2-methoxybutadiene은 C2-치환 diene이다. OMe 옆 C1이 친핵성이고 acrylonitrile의 $\beta$-탄소가 친전자성이다. 이 둘이 결합하여 **4-methoxycyclohex-3-ene-1-carbonitrile** (pseudo para, 1,4)이 생긴다.
 - (E)-1-methoxybutadiene은 C1-치환 diene이므로 OMe와 CN이 이웃한 **1,2(pseudo ortho)** 생성물이 주로 생긴다. 엔도 규칙까지 고려하면 OMe와 CN은 cis다.
 (출처: L14 p.12–14, p.16–17)
 
@@ -676,8 +680,8 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$로 반응시키면 실제로
 (출처: L14 p.20)
 
 **정답 8.**
-- (a) tropone은 $6\pi$, cyclopentadiene은 $4\pi$이므로 합이 10 = 4×2+2이다. 수프라–수프라 열적 반응으로 **허용**된다. Woodward–Hoffmann 규칙으로 보면 $\pi6\mathrm{s}$가 (4q+2)s 성분 1개이고 $\pi4\mathrm{s}$는 세지 않으므로 합이 1이다.
-- (b) [4+2]: HNEt2로 생성된 2-bromocyclopentadienone이 자발적으로 DA 이량화하는 단계다. 엔도 이량체가 생긴다. [2+2]: 케탈 하나를 푼 뒤 $h\nu$로 분자 내 [2+2] cycloaddition을 일으켜 새장을 닫는 단계다. 수프라–수프라 [2+2]는 열적으로 금지(합 2, 짝수)이고 광화학적으로 허용되기 때문에 빛이 필요하다.
+- (a) tropone은 $6\pi$ , cyclopentadiene은 $4\pi$ 이므로 합이 10 = 4×2+2이다. 수프라–수프라 열적 반응으로 **허용** 된다. Woodward–Hoffmann 규칙으로 보면 $\pi6\mathrm{s}$ 가 (4q+2)s 성분 1개이고 $\pi4\mathrm{s}$ 는 세지 않으므로 합이 1이다.
+- (b) [4+2]: HNEt2로 생성된 2-bromocyclopentadienone이 자발적으로 DA 이량화하는 단계다. 엔도 이량체가 생긴다. [2+2]: 케탈 하나를 푼 뒤 $h\nu$ 로 분자 내 [2+2] cycloaddition을 일으켜 새장을 닫는 단계다. 수프라–수프라 [2+2]는 열적으로 금지(합 2, 짝수)이고 광화학적으로 허용되기 때문에 빛이 필요하다.
 (출처: L14 p.21, p.25, p.30)
 
 ---

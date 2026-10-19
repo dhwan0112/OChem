@@ -57,20 +57,20 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 ## 개요
 
-protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다. 
-지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다. 
-ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다. 
-그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다. 
+protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다.
+지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다.
+ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다.
+그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다.
 
 ![대표 protecting group 구조 (파랑: 보호되는 자리, 빨강: 탈보호 자리)](../../figures/L12/pg_types.svg)
 
-그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$ ), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 탈보호 때 공격·절단되는 자리(Si는 $F^-$, t-Bu C는 $H^+$, benzyl C는 $H_2/Pd$, acetal C는 $H_3O^+$ ).
+그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$ ), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 탈보호 때 공격·절단되는 자리(Si는 $F^-$ , t-Bu C는 $H^+$ , benzyl C는 $H_2/Pd$ , acetal C는 $H_3O^+$ ).
 
-이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로, 
-1) 각 protecting group을 어떻게 씌우고 벗기는지, 
-2) 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다. 
+이 강의는 alcohol(silyl 에테르), amine(카바메이트), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로,
+1) 각 protecting group을 어떻게 씌우고 벗기는지,
+2) 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다.
 
-앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고), 
+앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고),
 마지막에는 이 모든 것이 peptide 합성이라는 실전 무대에서 어떻게 조합되는지 본다.
 
 ## 본문
@@ -79,14 +79,14 @@ ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응�
 
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md)
 
-protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시작한다. 
+protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시작한다.
 팔리톡신은 탄소 사슬이 아주 긴 polyhydroxy 화합물로, 이중결합 8개, hydroxy group 40개, 키랄 중심 64개를 가진다. 키랄 중심과 이중결합의 cis/trans 가능성을 모두 따지면 가능한 입체이성질체가 10^21개를 넘는다. 그래서 "유기합성의 에베레스트"라고 불렸다.[1]
 
 ![palytoxin 구조 (1/3)](../../figures/L12/palytoxin_1.svg)
 ![palytoxin 구조 (2/3)](../../figures/L12/palytoxin_2.svg)
 ![palytoxin 구조 (3/3)](../../figures/L12/palytoxin_3.svg)
 
-그림: 보충: palytoxin의 구조( $C_{129}H_{223}N_3O_{54}$, PubChem CID 11105289의 SMILES로 그림). 너무 길어서 세 조각으로 나눴고, 점선 결합이 다음 조각으로 이어지는 자리다. 파랑은 모두 OH로, protecting group 없이는 이 중 하나만 골라 반응시킬 수 없다.
+그림: 보충: palytoxin의 구조( $C_{129}H_{223}N_3O_{54}$ , PubChem CID 11105289의 SMILES로 그림). 너무 길어서 세 조각으로 나눴고, 점선 결합이 다음 조각으로 이어지는 자리다. 파랑은 모두 OH로, protecting group 없이는 이 중 하나만 골라 반응시킬 수 없다.
 
 그런데 이 분자를 만들 때 진짜 골칫거리는 무엇일까? 바로 거의 똑같이 생긴 OH가 40개나 있다는 점이다. 그중 하나만 반응시키고 나머지는 그대로 두고 싶다면, 나머지 OH를 어떻게든 반응하지 못하게 막아야 한다. 즉 protecting group 없이는 이런 분자의 합성을 시도조차 할 수 없다.
 
@@ -99,15 +99,15 @@ protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시�
 protecting group이 필요한 상황은 크게 두 가지로 정리된다.
 
 **첫째, 덜 reactive한 작용기를 반응시켜야 할 때**
-electrophilicity은 ketone이 ester보다 훨씬 크다(ketone >> ester). 
-그런데 ethyl acetoacetate(CH3COCH2CO2Et)에서 ester 쪽에만 PhMgBr 2당량을 붙여 CH3COCH2C(OH)Ph2를 얻고 싶다면 어떻게 될까? 
-그냥 PhMgBr을 넣으면 시약은 당연히 더 반응성 큰 ketone을 공격하고, 
-결과물은 CH3C(OH)(Ph)CH2CO2Et가 된다(슬라이드상 52% 수율). 
+electrophilicity은 ketone이 ester보다 훨씬 크다(ketone >> ester).
+그런데 ethyl acetoacetate(CH3COCH2CO2Et)에서 ester 쪽에만 PhMgBr 2당량을 붙여 CH3COCH2C(OH)Ph2를 얻고 싶다면 어떻게 될까?
+그냥 PhMgBr을 넣으면 시약은 당연히 더 반응성 큰 ketone을 공격하고,
+결과물은 CH3C(OH)(Ph)CH2CO2Et가 된다(슬라이드상 52% 수율).
 원하는 것과 정반대다. 그래서 반응성이 큰 쪽을 먼저 가려 두는 수밖에 없다(→ 본문 6절 예제 1).
 
-**둘째, 한 분자 안에 incompatible한 작용기가 있을 때** 
-Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다. 
-또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 그 양성자에 의해 그냥 파괴된다. 슬라이드의 예가 바로 이것이다. 
+**둘째, 한 분자 안에 incompatible한 작용기가 있을 때**
+Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다.
+또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 그 양성자에 의해 그냥 파괴된다. 슬라이드의 예가 바로 이것이다.
 
 ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만들고 싶지만, 이 Grignard 시약은 자기 분자 안에 ketone을 품고 있으므로 만들어지는 순간 다른 분자의 ketone을 공격한다. 슬라이드는 이를 "impossible Grignard reagent"이라고 부른다.
 
@@ -121,9 +121,9 @@ ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만
 
 $$
 \begin{aligned}
-& \mathrm{FG_1{\sim}FG_2} \\
-& \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \\
-& \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \\
+& \mathrm{FG_1{\sim}FG_2} \cr
+& \xrightarrow{\text{보호}} \mathrm{PG{-}FG_1{\sim}FG_2} \cr
+& \xrightarrow{\text{FG2에서 반응}} \mathrm{PG{-}FG_1{\sim}EE} \cr
 & \qquad \xrightarrow{\text{탈보호}} \mathrm{FG_1{\sim}EE}
 \end{aligned}
 $$
@@ -135,7 +135,7 @@ $$
 
 말은 쉽지만 여기에는 두 가지 조건이 붙는다. 하나는 보호와 탈보호 반응 자체가 깔끔하게 일어나야 한다는 것이고, 다른 하나는 protecting group이 FG2에서 일어나는 반응 조건을 견딜 만큼 안정해야 한다는 것이다. 결국 protecting group 선택이란 "어떤 조건에서 버티고, 어떤 조건에서 벗겨지는가"를 맞추는 퍼즐이다.
 
-보충: 그러면 alcohol을 그냥 methyl 에테르로 막아 두면 안 될까? methyl 에테르는 만들기 쉽고 웬만한 반응을 다 견디지만, 문제는 **다시 벗기기가 너무 어렵다**는 것이다. 좋은 protecting group은 대부분의 조건에서 튼튼하되 특정 시약 하나에만 약한 "아킬레스건"을 가져야 한다. 이 관점으로 표를 다시 보면 각 protecting group의 약점이 분명하다. THP는 에테르처럼 보이지만 사실 acetal이라 두 번째 산소가 산에서 약점이 되고, benzyl 에테르와 Cbz는 benzyl C–O 결합이 수소화분해에 약하고, silyl 에테르는 Si가 F-를 유난히 좋아하며, Boc와 t-Bu ester는 안정한 t-butyl cation을 내놓을 수 있어 산에 약하다. 예외적으로 phenol의 methyl 에테르는 ArO-가 RO-보다 좋은 leaving group라서 BBr3나 HBr로 벗길 수 있어 protecting group으로 쓰인다. 
+보충: 그러면 alcohol을 그냥 methyl 에테르로 막아 두면 안 될까? methyl 에테르는 만들기 쉽고 웬만한 반응을 다 견디지만, 문제는 **다시 벗기기가 너무 어렵다는** 것이다. 좋은 protecting group은 대부분의 조건에서 튼튼하되 특정 시약 하나에만 약한 "아킬레스건"을 가져야 한다. 이 관점으로 표를 다시 보면 각 protecting group의 약점이 분명하다. THP는 에테르처럼 보이지만 사실 acetal이라 두 번째 산소가 산에서 약점이 되고, benzyl 에테르와 Cbz는 benzyl C–O 결합이 수소화분해에 약하고, silyl 에테르는 Si가 F-를 유난히 좋아하며, Boc와 t-Bu ester는 안정한 t-butyl cation을 내놓을 수 있어 산에 약하다. 예외적으로 phenol의 methyl 에테르는 ArO-가 RO-보다 좋은 leaving group라서 BBr3나 HBr로 벗길 수 있어 protecting group으로 쓰인다.
 (보충 근거: Clayden p.550–552, p.556)
 
 보충: protecting group은 공짜가 아니다. 씌우고 벗기는 두 단계가 더 들고, 각 단계 수율이 100%가 아니므로 시간과 물질을 모두 잃는다. 그래서 가능하면 protecting group 없이 가는 길도 먼저 검토한다. 예컨대 산성 양성자(OH, NH)가 몇 개 있는 ester에 값싼 Grignard 시약을 아주 과량 넣어, 양성자를 다 떼고도 남은 시약이 ester에 첨가하게 하는 방법이 실제로 쓰였다. 다만 이런 방법이 통할지는 해 보기 전에는 알 수 없다. (보충 근거: Clayden p.552)
@@ -268,8 +268,8 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 $$
 \begin{aligned}
-& \mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \\
-& \qquad \xrightarrow[\text{imidazole}]{\ \mathrm{\mathit{t}\text{-}BuMe_2SiCl}\ \mathstrut} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \\
+& \mathrm{CH_3CH(OH)CH_2CH_2CH_2Br} \cr
+& \qquad \xrightarrow[\text{imidazole}]{\ \mathrm{\mathit{t}\text{-}BuMe_2SiCl}\ \mathstrut} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2Br} \cr
 & \qquad \xrightarrow{\mathrm{HC{\equiv}C{-}Li}} \mathrm{CH_3CH(OTBDMS)CH_2CH_2CH_2C{\equiv}CH}
 \end{aligned}
 $$
@@ -285,10 +285,10 @@ $$
 
 #### 5-4. 어떻게 벗기나
 
-방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다. 
-fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다. 
-$F^-$가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4] 
-$F^-$는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
+방법은 두 가지다. 하나는 tetrabutylammonium TBAF, nBu4NF이고, 다른 하나는 산과 물이다.
+fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강하기 때문이다.
+ $F^-$ 가 Si를 공격하면 alkoxide가 밀려나고, 이것이 protonate되어 원래의 alcohol로 돌아온다.[4]
+ $F^-$ 는 탄소 화학에서는 그다지 좋은 nucleophile이 아니지만 Si에 대해서만큼은 특효약인 셈이라, 다른 작용기를 거의 건드리지 않고 silyl 에테르만 골라 벗길 수 있다.
 
 ![F⁻가 silyl ether의 Si를 공격하고 alkoxide가 떨어지는 TBAF 탈보호](../../figures/L12/silyl_tbaf.svg)
 
@@ -345,7 +345,7 @@ Boc는 산(예: TFA, trifluoroacetic acid)으로 벗긴다. Cbz는 H2/Pd hydroge
 
 그림: 보충(슬라이드에는 조건만 있다). H₂/Pd 조건에서 benzyl C–O 결합(빨강)이 끊기고, H₂의 수소(초록)가 양쪽 조각에 붙어 carbamic acid와 toluene이 된다. 금속 표면에서 일어나는 반응이라 굽은 화살표는 그리지 않았다. carbamic acid는 저절로 CO₂를 잃고 amine이 된다(이 단계의 화살표는 7-3절의 두 번째 그림 참고). (보충 근거: Clayden p.557)
 
-보충: 카바메이트는 ester와 amide의 "잡종"이지만 화학적 성질은 amide에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl group 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl group에 있다. 강산 HBr이 carbonyl 산소를 protonate하면, 친핵성이 좋은 Br-가 **benzyl 탄소를 SN2로 공격**해 BnBr을 떼어 내고 carbamic acid이 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 7-3절 Boc와 대비된다. Boc는 t-butyl group이 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br-처럼 좋은 nucleophile이 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
+보충: 카바메이트는 ester와 amide의 "잡종"이지만 화학적 성질은 amide에 가깝다. 그래서 Cbz 자체는 묽은 산 수용액과 염기 수용액을 모두 견디고, 약점은 benzyl group 하나뿐이다. HBr/AcOH 조건이 통하는 이유도 benzyl group에 있다. 강산 HBr이 carbonyl 산소를 protonate하면, 친핵성이 좋은 Br-가 **benzyl 탄소를 SN2로 공격** 해 BnBr을 떼어 내고 carbamic acid이 남는다. benzyl 자리는 SN2가 빠른 자리이기 때문이다. 이 점이 7-3절 Boc와 대비된다. Boc는 t-butyl group이 SN1으로 떨어지므로 친핵성 짝염기가 필요 없어 "아무 산"이나 되지만, Cbz는 Br-처럼 좋은 nucleophile이 있어야 산으로 벗겨진다. (보충 근거: Clayden p.556–558)
 
 ![protonate된 Cbz의 benzyl 탄소를 Br⁻가 SN2로 공격해 carbamic acid와 benzyl bromide가 되는 단계](../../figures/L12/cbz_hbr.svg)
 
@@ -393,7 +393,7 @@ $$
 
 1. 카바메이트의 carbonyl O가 H+에 의해 protonate된다.
 2. t-Bu–O 결합이 끊어지며 t-butyl cation이 떨어져 나간다. 이 cation은 3차 carbocation이라 비교적 안정하므로 이 SN1형 이탈이 쉽게 일어난다. 남는 것은 carbamic acid RNH-COOH다.
-3. t-butyl cation은 $\beta$-H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
+3. t-butyl cation은 $\beta$ -H를 잃고 isobutene(CH2=C(CH3)2)이 된다.
 4. carbamic acid은 양성자가 옮겨 간 zwitterion(O-/NH2+) 형태를 거쳐 CO2를 내놓고 H2N–R이 된다.
 
 ![Boc 카바메이트의 carbonyl 산소가 protonate되고 t-butyl cation이 떨어져 carbamic acid이 되는 단계](../../figures/L12/boc_cleavage.svg)
@@ -431,7 +431,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 그림: 윗줄 왼쪽: $NR_3$ (파랑)의 비공유 전자쌍이 fluorene 9번 탄소의 H(빨강, pKa 약 25)를 떼고, C–H 결합 전자는 탄소에 남는다(가역). 윗줄 오른쪽: 생긴 fluorenyl anion은 14전자 방향족계로 안정화된다. 이 anion의 전자쌍이 C9–CH2 사이에 C=C를 만들고, $CH_2\text{–}O$ 결합(빨강) 전자가 산소로 떨어져 E1cB. 아랫줄: dibenzofulvene(초록이 새 C=C)과 카바메이트 anion이 생기고, 카바메이트 anion의 O⁻가 C=O를 만들며 C–N 결합(빨강)이 끊어져 $CO_2$ 와 $H_2N\text{–}R$ 이 된다.
 
-보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 방향족 anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 방향족인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 $\pi$계를 이룬다). (보충 근거: Clayden p.559)
+보충: pKa 약 25짜리 C–H를 amine(conjugate acid pKa 약 10)이 뗀다는 것이 이상해 보일 수 있다. 실제로 평형에서 생기는 방향족 anion은 아주 적은 양뿐이다. 하지만 생기는 족족 곧바로 제거 반응으로 소모되므로, 평형이 계속 오른쪽으로 끌려가 결국 전부 벗겨진다. fluorenyl anion이 방향족인 이유는 cyclopentadienyl anion과 같다(가운데 5원 고리의 anion이 두 benzene 고리와 함께 14전자 $\pi$ 계를 이룬다). (보충 근거: Clayden p.559)
 
 실제 peptide 합성에서는 piperidine 같은 2차 amine을 주로 쓴다.[9] 결국 Boc(산에 약하고 염기에 강함)와 Fmoc(산에 강하고 염기에 약함)는 거울상처럼 서로 보완하는 관계이고, 이것이 직교 보호 전략의 토대가 된다.
 
@@ -447,7 +447,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 두 전략 모두에서 반복해서 벗기는 N-protecting group(Y), 끝까지 남겨야 하는 곁사슬 protecting group(PG), 수지와의 연결부가 각각 다른 시점에 끊어지도록 설계되어 있다는 점이 핵심이다. 직교 보호 개념이 없으면 성립할 수 없는 방법이다.
 
-보충: 고체상 합성의 진짜 장점은 **정제가 필요 없다**는 데 있다. 사슬이 수지에 붙어 있으므로, 각 단계 뒤에 남은 시약과 부산물을 용매로 씻어 내기만 하면 된다. 용액상 합성은 단계마다 정제해야 해서, 긴 peptide에서는 전체 수율이 쓸 수 없을 만큼 떨어지고 시간도 몇 달씩 걸린다. 이 방법을 개발한 메리필드(R. B. Merrifield)는 1984년 노벨 화학상을 받았다. 고전적인 메리필드 법에서 수지는 chloromethyl기가 붙은 폴리스타이렌이고, 첫 amino acid의 carboxylate가 이 benzyl chloride를 SN2로 공격해 **benzyl ester**로 붙는다. 즉 수지 자체가 C말단의 ester protecting group 역할을 한다. 마지막에는 무수 HF로 이 ester를 끊는데, ester가 amide보다 끊기 쉬워 peptide 결합은 남는다. (보충 근거: Wade p.1185–1188)
+보충: 고체상 합성의 진짜 장점은 **정제가 필요 없다는** 데 있다. 사슬이 수지에 붙어 있으므로, 각 단계 뒤에 남은 시약과 부산물을 용매로 씻어 내기만 하면 된다. 용액상 합성은 단계마다 정제해야 해서, 긴 peptide에서는 전체 수율이 쓸 수 없을 만큼 떨어지고 시간도 몇 달씩 걸린다. 이 방법을 개발한 메리필드(R. B. Merrifield)는 1984년 노벨 화학상을 받았다. 고전적인 메리필드 법에서 수지는 chloromethyl기가 붙은 폴리스타이렌이고, 첫 amino acid의 carboxylate가 이 benzyl chloride를 SN2로 공격해 **benzyl ester로** 붙는다. 즉 수지 자체가 C말단의 ester protecting group 역할을 한다. 마지막에는 무수 HF로 이 ester를 끊는데, ester가 amide보다 끊기 쉬워 peptide 결합은 남는다. (보충 근거: Wade p.1185–1188)
 
 보충: 슬라이드가 SPPS의 N-protecting group으로 Cbz가 아니라 Boc·Fmoc만 드는 데도 이유가 있다. Cbz는 고체 Pd catalyst 위에서 수소화분해로 벗기는데, 고분자 구슬에 붙은 peptide는 고체 촉매와 충분히 접촉할 수 없다. 또 용액상(고전적) 합성은 N말단에서 C말단 쪽으로 사슬을 늘리지만, 고체상 합성은 반대로 C말단 amino acid을 먼저 수지에 붙이고 N말단 쪽으로 늘린다. (보충 근거: Wade p.1183, p.1185–1186)
 
@@ -459,7 +459,7 @@ Fmoc의 개성은 Boc와 정반대라는 데 있다. 먼저 왜 산에 안정할
 
 #### 8-1. 씌우기와 벗기기
 
-$\begin{aligned} & \text{carbonyl은 ethylene 글라이콜과}\ \mathit{p}\text{-}\ \mathrm{TsOH}\text{로}\  \\ & \text{고리형 acetal(1,3-다이옥솔레인)을 만들어}\ \text{보호한다}() \\ & \longrightarrow \text{acetal 형성 문서 참고)} \end{aligned}$.
+carbonyl은 ethylene glycol과 $p$ -TsOH로 고리형 acetal(1,3-dioxolane)을 만들어 보호한다(→ [acetal 형성](../../wiki/반응/아세탈%20형성.md) 참고).
 
 $$
 \mathrm{RC({=}O)R'} + \mathrm{HOCH_2CH_2OH} \overset{\mathrm{\mathit{p}\text{-}TsOH}}{\rightleftharpoons} \text{2,2-이치환 1,3-다이옥솔레인} + \mathrm{H_2O}
@@ -487,8 +487,8 @@ acetal의 성격은 분명하다. 염기와 nucleophile에는 안정하지만, �
 
 $$
 \begin{aligned}
-& \mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \mathstrut} \text{케톤만 아세탈화} \\
-& \qquad \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \\
+& \mathrm{CH_3COCH_2CO_2Et} \xrightarrow{\ \mathrm{HOCH_2CH_2OH},\ \mathrm{H^+}\ \mathstrut} \text{케톤만 아세탈화} \cr
+& \qquad \xrightarrow{2\ \times\ \mathrm{PhMgBr}} \text{아세탈-}\mathrm{CH_2C(OH)Ph_2} \cr
 & \qquad \xrightarrow{\ \mathrm{H^+},\ \mathrm{H_2O}\ \mathstrut} \mathrm{CH_3COCH_2C(OH)Ph_2}
 \end{aligned}
 $$

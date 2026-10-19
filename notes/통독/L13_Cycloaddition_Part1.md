@@ -75,9 +75,9 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 첫 번째 예에서는 2-methylcyclohexane-1,3-dione과 methyl vinyl ketone이 10% NaOH 조건에서 Michael 첨가를 해 1,5-diketone이 된다. 이것을 piperidine 촉매와 함께 가열하면 물이 빠지면서 이중 고리 enone이 닫힌다. EtONa로 가열하면 같은 일을 한 one-pot에서 끝낼 수도 있다.[2]
 
 두 번째 예는 I-(CH2)4-CH=CH-CO2Me와 CH3NO2를 Cs2CO3/DMF, 20 °C에서 반응시키는 것이다. 메커니즘을 따라가 보면 다음과 같다.
-1. Cs2CO3가 CH3NO2의 $\alpha$-H를 떼어 nitronate anion(nucleophile)을 만든다.
+1. Cs2CO3가 CH3NO2의 $\alpha$ -H를 떼어 nitronate anion(nucleophile)을 만든다.
 2. nitronate가 $\alpha,\beta$-unsaturated ester의 $\beta$-탄소(electrophile)에 Michael 첨가해 I-(CH2)4-CH(CH2NO2)-CH2CO2Me가 된다.
-3. CH2NO2의 $\alpha$-H가 다시 deprotonate된다. 이 탄소 anion이 같은 분자의 C–I 탄소를 SN2로 공격해 고리를 닫는다.
+3. CH2NO2의 $\alpha$ -H가 다시 deprotonate된다. 이 탄소 anion이 같은 분자의 C–I 탄소를 SN2로 공격해 고리를 닫는다.
 
 결과물은 2-(2-nitrocyclohexyl)acetic acid methyl ester다(65%).
 
@@ -115,7 +115,7 @@ DA 반응에는 정말 intermediate가 없을까? 그렇다. DA는 pericyclic �
 
 dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + maleic anhydride는 $6\pi$ 비편재화 TS를 거쳐 cis-1,2,3,6-tetrahydrophthalic anhydride를 준다. 두 고리 접합 H가 cis다. 오비탈로 보면 두 반응물이 평행한 평면으로 포개지고, 각 성분이 양 끝에서 같은 면을 써서 결합을 만든다. 이것을 suprafacial–suprafacial 접근이라고 한다. 이 "같은 면" 성질이 뒤에 나올 stereospecificity의 뿌리다. (출처: L13 p.12)
 
-이 반응을 Woodward–Hoffmann 언어로 미리 표현하면 이렇다. diene은 4전자 $\pi$ 성분($\pi4$), dienophile은 2전자 $\pi$ 성분($\pi2$)이고, 둘 다 초면으로 반응하므로 [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]다. 여기서 component이란 반응에 한 단위로 참여하는 결합이나 오비탈을 말한다. diene과 dienophile은 각각 하나의 성분이다. 규칙 자체는 6절에서 다룬다(ChemTube3D 애니메이션 참고). (출처: L13 p.13)
+이 반응을 Woodward–Hoffmann 언어로 미리 표현하면 이렇다. diene은 4전자 $\pi$ 성분( $\pi4$ ), dienophile은 2전자 $\pi$ 성분( $\pi2$ )이고, 둘 다 초면으로 반응하므로 [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]다. 여기서 component이란 반응에 한 단위로 참여하는 결합이나 오비탈을 말한다. diene과 dienophile은 각각 하나의 성분이다. 규칙 자체는 6절에서 다룬다(ChemTube3D 애니메이션 참고). (출처: L13 p.13)
 
 ## 5. 무엇이 반응을 빠르게 하나
 
@@ -127,9 +127,17 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 
 - $\text{butadiene} + \text{ethylene} \xrightarrow[165\,{}^\circ\mathrm{C},\ 17\ \text{h}]{900\ \text{atm}} \text{cyclohexene}\ (78\%)$
 
-- $\begin{aligned} & \text{butadiene} + \text{acrolein} \\ & \xrightarrow[0.5\ \text{h}]{150\,{}^\circ\mathrm{C}} \text{cyclohex-3-ene-1-carbaldehyde} \end{aligned}$
+- 반응식
 
-- $\begin{aligned} & \text{butadiene} + \mathrm{CH_2{=}C(COOMe)_2} \\ & \xrightarrow[24\ \text{h}]{25\,{}^\circ\mathrm{C}} \text{dimethyl cyclohex-3-ene-1,1-dicarboxylate}\ (80\%) \end{aligned}$
+$$
+\begin{aligned} & \text{butadiene} + \text{acrolein} \cr  & \xrightarrow[0.5\ \text{h}]{150\thinspace {}^\circ\mathrm{C}} \text{cyclohex-3-ene-1-carbaldehyde} \end{aligned}
+$$
+
+- 반응식
+
+$$
+\begin{aligned} & \text{butadiene} + \mathrm{CH_2{=}C(COOMe)_2} \cr  & \xrightarrow[24\ \text{h}]{25\thinspace {}^\circ\mathrm{C}} \text{dimethyl cyclohex-3-ene-1,1-dicarboxylate}\ (80\text{ percent}) \end{aligned}
+$$
 
 
 ![butadiene + ethylene → cyclohexene](../../figures/L13/da_butadiene_ethylene.svg)
@@ -176,7 +184,7 @@ p.17의 연습 문제(생성물에서 diene과 dienophile 찾기)는 아래 연�
 
 cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로 자기 자신과 반응한다는 것이다. 한 분자는 diene, 다른 분자는 dienophile로 DA 반응을 해서, 상온에서는 dicyclopentadiene로 존재한다. 그럼 단량체는 어떻게 얻을까? 이량체를 가열해 "분해(crack)"하면 된다. DA 반응은 가역적일 수 있으므로, 가열하면 역 DA(retro-Diels–Alder) 반응이 일어난다. 이때 끓는점이 낮은 단량체(b.p. 42 °C)를 증류로 빼내면 평형이 계속 단량체 쪽으로 밀린다. 이렇게 얻은 단량체는 −20 °C에서 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 다시 이량화한다.
 
-보충: 왜 가열하면 거꾸로 갈까? DA는 두 분자가 한 분자가 되는 반응이라 엔트로피 면에서는 불리하다($\Delta$S < 0). 상온에서는 강한 $\sigma$ 결합 두 개를 얻는 엔탈피 이득이 이겨서 평형이 생성물 쪽에 있지만, 온도를 올리면 −T$\Delta$S 항의 비중이 커져 해리(역 DA) 쪽이 유리해진다. cycloaddition의 평형이 보통 생성물 쪽에 치우치는 이유가 "C–C $\sigma$ 결합이 C–C $\pi$ 결합보다 강하기 때문"이라는 점과 짝을 이루는 설명이다. (보충 근거: Clayden p.880, 907)
+보충: 왜 가열하면 거꾸로 갈까? DA는 두 분자가 한 분자가 되는 반응이라 엔트로피 면에서는 불리하다( $\Delta S$ < 0). 상온에서는 강한 $\sigma$ 결합 두 개를 얻는 엔탈피 이득이 이겨서 평형이 생성물 쪽에 있지만, 온도를 올리면 $-T\Delta S$ 항의 비중이 커져 해리(역 DA) 쪽이 유리해진다. cycloaddition의 평형이 보통 생성물 쪽에 치우치는 이유가 "C–C $\sigma$ 결합이 C–C $\pi$ 결합보다 강하기 때문"이라는 점과 짝을 이루는 설명이다. (보충 근거: Clayden p.880, 907)
 
 ![dicyclopentadiene의 역 Diels–Alder reaction: 가열하면 cyclopentadiene 두 분자로 갈라진다](../../figures/L13/retro_da_dcpd.svg)
 
@@ -192,8 +200,17 @@ cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로
 
 butadiene에 dimethyl maleate(cis)와 dimethyl fumarate(trans)를 각각 반응시키면 결과가 어떻게 다를까? 답은 "원래 배열 그대로"다. cis-dienophile은 cis 생성물을, trans-dienophile은 trans 생성물을 준다.
 
-- $\begin{aligned} & \text{butadiene} + \text{dimethyl maleate(Z)} \\ & \longrightarrow \text{cis-dimethyl}\ \text{cyclohex-4-ene-1,2-dicarboxylate}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{같은 쪽},\ \text{syn}) \end{aligned}$
-- $\begin{aligned} & \text{butadiene} + \text{dimethyl fumarate(E)} \\ & \longrightarrow \text{trans-diester}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{반대쪽},\ \text{anti},\ \text{라셈체}) \end{aligned}$
+- 반응식
+
+$$
+\begin{aligned} & \text{butadiene} + \text{dimethyl maleate(Z)} \cr  & \longrightarrow \text{cis-dimethyl}\ \text{cyclohex-4-ene-1,2-dicarboxylate}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{같은 쪽},\ \text{syn}) \end{aligned}
+$$
+
+- 반응식
+
+$$
+\begin{aligned} & \text{butadiene} + \text{dimethyl fumarate(E)} \cr  & \longrightarrow \text{trans-diester}(\text{두}\ \mathrm{CO_2Me}\text{가}\ \text{반대쪽},\ \text{anti},\ \text{라셈체}) \end{aligned}
+$$
 
 왜 그럴까? 반응이 협동적이고 초면으로 일어나기 때문이다. dienophile의 두 탄소는 같은 면에서 동시에 결합을 만들고, 그 사이에 C5–C6 결합이 회전할 수 있는 intermediate가 없다. 그래서 alkene의 cis/trans 정보가 고리에 그대로 찍힌다. 반응물의 입체화학이 생성물의 입체화학을 결정하므로 이것을 stereospecificity이라고 한다. (출처: L13 p.19)
 
@@ -247,23 +264,23 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
 
-앞에서 나온 "왜?"들에 답하려면 오비탈 그림이 필요하다. 먼저 ethylene을 보자. H–C–H 각은 117.8°, C–H는 108 pm, C=C는 133 pm이다. C–C $\sigma$ 결합은 sp2 오비탈끼리, $\pi$ 결합은 p 오비탈끼리 겹쳐 생긴다. 두 p 오비탈이 같은 위상으로 합쳐지면 결합성 $\pi$ 오비탈(전자 2개, HOMO)이 되고, 반대 위상으로 합쳐지면 마디 평면이 하나 있는 반결합성 $\pi^{*}$ 오비탈(LUMO)이 된다. (출처: L13 p.25)
+앞에서 나온 "왜?"들에 답하려면 오비탈 그림이 필요하다. 먼저 ethylene을 보자. H–C–H 각은 117.8°, C–H는 108 pm, C=C는 133 pm이다. C–C $\sigma$ 결합은 sp2 오비탈끼리, $\pi$ 결합은 p 오비탈끼리 겹쳐 생긴다. 두 p 오비탈이 같은 위상으로 합쳐지면 결합성 $\pi$ 오비탈(전자 2개, HOMO)이 되고, 반대 위상으로 합쳐지면 마디 평면이 하나 있는 반결합성 $\pi^{\ast}$ 오비탈(LUMO)이 된다. (출처: L13 p.25)
 
-butadiene은 이 alkene 두 개의 $\pi$와 $\pi^{*}$를 섞어 만든다고 생각하면 된다. 그러면 에너지 순서대로 $\psi_{1}$(마디 0개), $\psi_{2}$(마디 1개), $\psi_{3}$(마디 2개), $\psi_{4}$(마디 3개)의 네 MO가 생긴다. 전자 4개는 $\psi_{1}$과 $\psi_{2}$에 들어가므로 HOMO는 $\psi_{2}$, LUMO는 $\psi_{3}$다. $\psi_{2}$의 양 끝 로브는 위상이 반대이고, $\psi_{3}$의 양 끝 로브는 위상이 같다는 점을 기억해 두면 이후 설명이 쉬워진다. (출처: L13 p.26)
+butadiene은 이 alkene 두 개의 $\pi$ 와 $\pi^{\ast}$ 를 섞어 만든다고 생각하면 된다. 그러면 에너지 순서대로 $\psi_{1}$ (마디 0개), $\psi_{2}$ (마디 1개), $\psi_{3}$ (마디 2개), $\psi_{4}$ (마디 3개)의 네 MO가 생긴다. 전자 4개는 $\psi_{1}$ 과 $\psi_{2}$ 에 들어가므로 HOMO는 $\psi_{2}$ , LUMO는 $\psi_{3}$ 다. $\psi_{2}$ 의 양 끝 로브는 위상이 반대이고, $\psi_{3}$ 의 양 끝 로브는 위상이 같다는 점을 기억해 두면 이후 설명이 쉬워진다. (출처: L13 p.26)
 
 ### 7-2. 왜 전자 풍부 diene + 전자 부족 dienophile이 빠른가?
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
 
-FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전자가 흘러가는 상호작용으로 시작되고, 두 오비탈의 에너지가 가까울수록 상호작용이 강하다. DA에서 가능한 짝은 두 가지다. diene HOMO($\psi_{2}$)와 dienophile LUMO($\pi^{*}$)의 짝은 에너지 차이가 작아 겹침이 좋다. 반대로 diene LUMO($\psi_{3}$)와 dienophile HOMO($\pi$)의 짝은 에너지 차이가 커서 겹침이 나쁘다. 그래서 주된 상호작용은 앞의 짝이다.
+FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전자가 흘러가는 상호작용으로 시작되고, 두 오비탈의 에너지가 가까울수록 상호작용이 강하다. DA에서 가능한 짝은 두 가지다. diene HOMO( $\psi_{2}$ )와 dienophile LUMO( $\pi^{\ast}$ )의 짝은 에너지 차이가 작아 겹침이 좋다. 반대로 diene LUMO( $\psi_{3}$ )와 dienophile HOMO( $\pi$ )의 짝은 에너지 차이가 커서 겹침이 나쁘다. 그래서 주된 상호작용은 앞의 짝이다.
 
 이제 답이 나온다. diene에 EDG를 붙이면 HOMO가 올라가고, dienophile에 EWG를 붙이면 LUMO가 내려간다. 둘 다 HOMO(diene)–LUMO(dienophile) 사이 간격을 좁혀 TS를 안정화하므로 반응이 빨라진다. ethylene이 900 atm을 요구했던 것도, acrolein이나 maleic anhydride가 쉽게 반응하는 것도 같은 이유다.[8]
 
-보충: 여기서 헷갈리기 쉬운 점이 있다. 두 짝 가운데 하나를 고르는 기준은 **대칭이 아니라 에너지**다. diene $\psi_{2}$(가운데 마디 1개)와 dienophile $\pi^{*}$(마디 1개)도, diene $\psi_{3}$(마디 2개)와 dienophile $\pi$(마디 0개)도 양 끝의 위상 관계가 같아서 둘 다 대칭은 맞는다. 단지 앞의 짝이 에너지가 더 가까워 주도할 뿐이다. 반대로 alkene + alkene(예: alkene + maleic anhydride를 가열)에서는 HOMO/LUMO를 어느 쪽으로 짝지어도 한쪽 끝이 반결합성이라, 에너지를 아무리 맞춰도 열적으로는 반응하지 않는다(→ [L14](L14_Cycloaddition_Part2.md) 광화학 [2+2]). (보충 근거: Clayden p.886) (출처: L13 p.27)
+보충: 여기서 헷갈리기 쉬운 점이 있다. 두 짝 가운데 하나를 고르는 기준은 **대칭이 아니라 에너지** 다. diene $\psi_{2}$ (가운데 마디 1개)와 dienophile $\pi^{\ast}$ (마디 1개)도, diene $\psi_{3}$ (마디 2개)와 dienophile $\pi$ (마디 0개)도 양 끝의 위상 관계가 같아서 둘 다 대칭은 맞는다. 단지 앞의 짝이 에너지가 더 가까워 주도할 뿐이다. 반대로 alkene + alkene(예: alkene + maleic anhydride를 가열)에서는 HOMO/LUMO를 어느 쪽으로 짝지어도 한쪽 끝이 반결합성이라, 에너지를 아무리 맞춰도 열적으로는 반응하지 않는다(→ [L14](L14_Cycloaddition_Part2.md) 광화학 [2+2]). (보충 근거: Clayden p.886) (출처: L13 p.27)
 
 ![Diels–Alder 반응의 HOMO(diene)–LUMO(dienophile) 로브 겹침](../../figures/L13/da_fmo_lobes.svg)
 
-그림: 채운 로브는 + 위상, 빈 로브는 − 위상이다. diene HOMO($\psi_{2}$)의 아래쪽 로브와 dienophile LUMO($\pi^{*}$)의 위쪽 로브가 양 끝에서 모두 같은 위상이라, 두 $\sigma$ 결합이 같은 면(suprafacial)에서 동시에 생긴다. 끝 탄소의 로브가 더 큰 것은 $\psi_{2}$의 계수가 말단에서 크기 때문이다. 보충: 슬라이드의 FMO 그림을 단순화해 다시 그린 것이다.
+그림: 채운 로브는 + 위상, 빈 로브는 − 위상이다. diene HOMO( $\psi_{2}$ )의 아래쪽 로브와 dienophile LUMO( $\pi^{\ast}$ )의 위쪽 로브가 양 끝에서 모두 같은 위상이라, 두 $\sigma$ 결합이 같은 면(suprafacial)에서 동시에 생긴다. 끝 탄소의 로브가 더 큰 것은 $\psi_{2}$ 의 계수가 말단에서 크기 때문이다. 보충: 슬라이드의 FMO 그림을 단순화해 다시 그린 것이다.
 
 ### 7-3. 오비탈로 본 stereospecificity
 
@@ -275,13 +292,13 @@ stereospecificity도 오비탈 그림으로 바로 이해된다. diene HOMO의 �
 
 > 개념 문서: [endo rule](../../wiki/개념/endo%20규칙.md)
 
-endo 선호는 cyclopentadiene 이량화를 예로 설명한다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 $\sigma$ 결합을 만드는 1차 상호작용이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 $\pi$ 오비탈이 diene의 C2, C3 로브 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 2차 오비탈 겹침이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 $\pi$계를 diene 아래에 둘 수 있는 endo 경로가 선호된다.[9] (출처: L13 p.29)
+endo 선호는 cyclopentadiene 이량화를 예로 설명한다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 $\sigma$ 결합을 만드는 1차 상호작용이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 $\pi$ 오비탈이 diene의 C2, C3 로브 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 2차 오비탈 겹침이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 $\pi$ 계를 diene 아래에 둘 수 있는 endo 경로가 선호된다.[9] (출처: L13 p.29)
 
 ### 7-5. 그럼 diene 두 개는 왜 [4+4]를 하지 않을까?
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md)
 
-butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 생기지만, [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 같은 diene 두 개인데 왜 한쪽만 될까? 오비탈을 겹쳐 보면 답이 보인다. [4+2]에서는 한 분자의 HOMO($\psi_{2}$)와 다른 분자의 LUMO(dienophile 역할을 하는 C=C 부분)의 양 끝이 모두 위상이 맞아 결합성이다. 그런데 [4+4]에서는 HOMO($\psi_{2}$)와 다른 분자의 LUMO($\psi_{3}$)를 겹치면, 한쪽 끝은 결합성이지만 다른 끝은 위상이 어긋나 반결합성이다. 두 결합을 동시에 만들 수 없으므로 열적으로는 진행되지 않는다.
+butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 생기지만, [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 같은 diene 두 개인데 왜 한쪽만 될까? 오비탈을 겹쳐 보면 답이 보인다. [4+2]에서는 한 분자의 HOMO( $\psi_{2}$ )와 다른 분자의 LUMO(dienophile 역할을 하는 C=C 부분)의 양 끝이 모두 위상이 맞아 결합성이다. 그런데 [4+4]에서는 HOMO( $\psi_{2}$ )와 다른 분자의 LUMO( $\psi_{3}$ )를 겹치면, 한쪽 끝은 결합성이지만 다른 끝은 위상이 어긋나 반결합성이다. 두 결합을 동시에 만들 수 없으므로 열적으로는 진행되지 않는다.
 
 보충: "열적으로는"이라는 단서가 중요하다. 같은 [4+4]가 광화학 조건이나 Ni(0) 같은 전이 금속 촉매를 쓰면 가능하다. 광화학 조건에서 선택 규칙이 뒤집히는 이유는 [L14](L14_Cycloaddition_Part2.md)의 광화학 [2+2]와 같다. (보충 근거: Clayden p.887; Wade p.695) (출처: L13 p.30)
 
@@ -297,7 +314,7 @@ FMO 그림을 매번 그리지 않고도 반응이 허용되는지 판단할 방
 
 용어도 정리해 두자. suprafacial 성분은 양 끝에서 같은 면으로 새 결합을 만드는 성분이고, antarafacial 성분은 양 끝에서 서로 반대 면으로 새 결합을 만드는 성분이다. (출처: L13 p.34)
 
-이제 DA에 적용해 보자. DA는 [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]다. (4q+2)s에 해당하는 것은 alkene($\pi2\mathrm{s}$) 1개다. (4r)a에 해당하는 성분은 없다. diene $\pi4$는 초면이므로 (4r)s이고, 세는 대상이 아니다. 합이 1, 즉 홀수이므로 허용된 반응이다. 기하학적으로는 앞에서 본 초면-초면 접근 그대로다.
+이제 DA에 적용해 보자. DA는 [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]다. (4q+2)s에 해당하는 것은 alkene( $\pi2\mathrm{s}$ ) 1개다. (4r)a에 해당하는 성분은 없다. diene $\pi4$ 는 초면이므로 (4r)s이고, 세는 대상이 아니다. 합이 1, 즉 홀수이므로 허용된 반응이다. 기하학적으로는 앞에서 본 초면-초면 접근 그대로다.
 
 보충: Woodward–Hoffmann 규칙과 FMO는 역할이 다르다. 규칙은 "열적으로 허용되는가"만 답하고, endo 선택성이나 regioselectivity은 설명하지 못한다. 그것은 HOMO/LUMO의 크기와 계수를 보는 FMO의 몫이다. 또 규칙을 적용할 때 그리는 오비탈은 각 성분 양 끝의 "색칠하지 않은" p 오비탈일 뿐 HOMO나 LUMO가 아니므로, 두 방법의 그림을 한 그림에 섞지 않는 것이 좋다. (보충 근거: Clayden p.892–893) (출처: L13 p.35)
 
@@ -312,16 +329,16 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 ## 흔한 오해
 
 - **"butadiene은 그냥 diene이니 언제든 반응한다"고 생각하기 쉽지만 사실은** s-cis 형태일 때만 반응하고, 상온에서 s-cis인 분자는 약 1%뿐이다. s-trans로 고정된 diene(3-methylenecyclohexene 등)은 아예 반응하지 않고, s-cis로 고정된 cyclopentadiene은 상온에서도 잘 반응한다. (p.15–16)
-- **"EWG는 HOMO를 낮추니 dienophile의 HOMO가 중요하다"고 생각하기 쉽지만 사실은** 정상 DA의 핵심 짝은 diene HOMO($\psi_{2}$)와 dienophile LUMO($\pi^{*}$)다. EWG는 dienophile의 LUMO를 낮추고 EDG는 diene의 HOMO를 올려서 둘 사이 간격을 줄인다. (p.27)
+- **"EWG는 HOMO를 낮추니 dienophile의 HOMO가 중요하다"고 생각하기 쉽지만 사실은** 정상 DA의 핵심 짝은 diene HOMO( $\psi_{2}$ )와 dienophile LUMO( $\pi^{\ast}$ )다. EWG는 dienophile의 LUMO를 낮추고 EDG는 diene의 HOMO를 올려서 둘 사이 간격을 줄인다. (p.27)
 - **"stereospecificity과 stereoselectivity은 같은 말"이라고 생각하기 쉽지만 사실은** 한 반응물 안의 치환기 cis/trans, in/out는 입체특이적으로 100% 보존되고, 두 반응물 사이의 endo/exo는 입체선택적이라 혼합물이 생길 수 있다. (p.22, 31)
 - **"(E,E)-diene의 두 치환기는 E니까 생성물에서 trans일 것"이라고 생각하기 쉽지만 사실은** 두 치환기가 모두 "out"이라서 생성물에서는 1,4-cis다. trans가 되는 것은 (E,Z)-diene(in + out)이다. (p.20, 28)
-- **"endo는 치환기가 다리(CH2) 아래쪽, 안쪽에 있는 것"이라고 생각하기 쉽지만 사실은** endo는 dienophile의 $\pi$ 치환기가 diene $\pi$계 아래에 놓이는 배향이다. 그래서 norbornene 생성물에서는 치환기가 새 C=C 쪽, 즉 CH2 다리의 반대쪽에 있다. (p.21–22)
+- **"endo는 치환기가 다리(CH2) 아래쪽, 안쪽에 있는 것"이라고 생각하기 쉽지만 사실은** endo는 dienophile의 $\pi$ 치환기가 diene $\pi$ 계 아래에 놓이는 배향이다. 그래서 norbornene 생성물에서는 치환기가 새 C=C 쪽, 즉 CH2 다리의 반대쪽에 있다. (p.21–22)
 - **"2차 오비탈 겹침이 새 결합을 만든다"고 생각하기 쉽지만 사실은** 결합으로 이어지지 않고 endo TS만 안정화하는 kinetic 효과다. (p.21, 29)
-- **"$\pi4\mathrm{s}$도 Woodward–Hoffmann 계산에 넣는다"고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a만 센다. DA [$\pi4\mathrm{s}$+$\pi2\mathrm{s}$]의 합은 1(허용), [$\pi4\mathrm{s}$+$\pi4\mathrm{s}$]의 합은 0(금지)이다. 또 '허용'은 일어날 수 있다는 뜻이지 반드시 일어난다는 뜻이 아니다. (p.33–35)
+- **" $\pi4\mathrm{s}$ 도 Woodward–Hoffmann 계산에 넣는다"고 생각하기 쉽지만 사실은** (4q+2)s와 (4r)a만 센다. DA [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]의 합은 1(허용), [ $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ ]의 합은 0(금지)이다. 또 '허용'은 일어날 수 있다는 뜻이지 반드시 일어난다는 뜻이 아니다. (p.33–35)
 - **"DA로 생긴 고리는 영원하다"고 생각하기 쉽지만 사실은** DA는 가역적일 수 있다. dicyclopentadiene을 가열·증류하면 역 DA로 단량체가 나온다. (p.18)
 - **"DA 생성물은 언제나 cyclohexene"이라고 생각하기 쉽지만 사실은** alkyne dienophile(DMAD 등)을 쓰면 cyclohexa-1,4-diene이 생긴다. (p.20)
 - **역합성 요령:** 생성물 고리의 C=C를 C2=C3로 놓고, 그 양옆 탄소 C1, C4에서 다음 결합(C1–C6, C4–C5)을 끊으면 diene과 dienophile이 나온다. (p.17) 보충: DA 생성물인지 알아보는 세 가지 표지는 (1) 6원자 고리, (2) 고리 안의 C=C, (3) 그 C=C의 맞은편(고리 밖)에 붙은 짝지음 기(EWG)다. 세 가지가 다 보이면 DA 역합성을 먼저 시도한다. (보충 근거: Clayden p.881)
-- **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** 홀수여야 하는 것은 (4q+2)s와 (4r)a에 해당하는 **성분의 개수**다. DA의 전자 수 6은 짝수지만 세는 성분은 1개라 허용이다. (보충 근거: Clayden p.892)
+- **"Woodward–Hoffmann 규칙에서 홀수여야 하는 것은 전자 수"라고 생각하기 쉽지만 사실은** 홀수여야 하는 것은 (4q+2)s와 (4r)a에 해당하는 **성분의 개수** 다. DA의 전자 수 6은 짝수지만 세는 성분은 1개라 허용이다. (보충 근거: Clayden p.892)
 - **"endo는 언제나 thermodynamic으로도 유리하다"고 생각하기 쉽지만 사실은** endo는 대개 덜 안정한 kinetic 생성물이다. 가역 조건(furan + maleic anhydride)에서는 더 안정한 exo가 얻어진다. (보충 근거: Clayden p.884)
 
 ## 반응 정리표
@@ -470,7 +487,7 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 - 생성물: 4-vinylcyclohexene ([4+2]); cycloocta-1,5-diene([4+4])는 생기지 않음
 - regioselectivity: 해당 없음
 - 입체화학: 해당 없음
-- 비고: [$\pi4\mathrm{s}$+$\pi2\mathrm{s}$]는 허용, [$\pi4\mathrm{s}$+$\pi4\mathrm{s}$]는 금지 (p.30, 36)
+- 비고: [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]는 허용, [ $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ ]는 금지 (p.30, 36)
 
 ### (비교) 2-methylcyclohexane-1,3-dione + MVK
 
@@ -512,9 +529,9 @@ p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지�
 
 5. **(a) syn(cis-3,6-dimethyl). (b) anti(trans-3,6-dimethyl).** s-cis 형태에서 (E,E)-diene의 두 Me는 모두 "out"이고, out끼리는 생성물에서 1,4-cis다. (E,Z)-diene에서는 Me 하나가 "in", 하나가 "out"이므로 trans가 된다. DMAD는 alkyne이라 생성물은 cyclohexa-1,4-diene-1,2-dicarboxylate이다. (출처: L13 p.20, 28)
 
-6. **(a) butadiene + acrolein이 훨씬 빠르다**(150 °C, 0.5 h 대 165 °C, 17 h, 900 atm). CHO(EWG)가 dienophile의 LUMO를 낮춰 diene HOMO–dienophile LUMO 에너지 차이가 줄어들기 때문이다. **(b) cyclopentadiene 쪽이 빠르다.** s-cis로 고정되어 있어 반응 가능한 형태가 100%인 반면, butadiene은 상온에서 약 1%만 s-cis다. 보충: cyclopentadiene의 고리 CH2(alkyl)는 diene HOMO를 약간 올리는 효과도 있다(보충 근거: Clayden p.886, 890). **(c) 반응하지 않는다.** 3-methylenecyclohexene은 두 C=C가 s-trans로 고정되어 있어 C1과 C4가 가까워질 수 없다. (출처: L13 p.14–16, 27)
+6. **(a) butadiene + acrolein이 훨씬 빠르다** (150 °C, 0.5 h 대 165 °C, 17 h, 900 atm). CHO(EWG)가 dienophile의 LUMO를 낮춰 diene HOMO–dienophile LUMO 에너지 차이가 줄어들기 때문이다. **(b) cyclopentadiene 쪽이 빠르다.** s-cis로 고정되어 있어 반응 가능한 형태가 100%인 반면, butadiene은 상온에서 약 1%만 s-cis다. 보충: cyclopentadiene의 고리 CH2(alkyl)는 diene HOMO를 약간 올리는 효과도 있다(보충 근거: Clayden p.886, 890). **(c) 반응하지 않는다.** 3-methylenecyclohexene은 두 C=C가 s-trans로 고정되어 있어 C1과 C4가 가까워질 수 없다. (출처: L13 p.14–16, 27)
 
-7. **Woodward–Hoffmann:** [4+2]는 [$\pi4\mathrm{s}$ + $\pi2\mathrm{s}$]다. (4q+2)s 성분($\pi2\mathrm{s}$)이 1개, (4r)a 성분이 0개로 합이 1(홀수)이므로 열적으로 허용된다. [4+4]는 [$\pi4\mathrm{s}$ + $\pi4\mathrm{s}$]다. 두 성분 모두 (4r)s라서 세지 않으므로 (4q+2)s는 0개, (4r)a도 0개이고 합이 0(짝수)이다. 따라서 열적으로 금지된다. **FMO:** [4+2]에서는 한 butadiene의 HOMO($\psi_{2}$)와 다른 butadiene의 C=C 하나(dienophile 부분)의 LUMO가 겹치며 양 끝이 모두 결합성이므로, 4-vinylcyclohexene이 생긴다. [4+4]에서는 $\psi_{2}$(HOMO)와 다른 분자의 $\psi_{3}$(LUMO)의 양 끝 가운데 한쪽은 결합성이지만 다른 쪽은 위상이 맞지 않아 반결합성이다. 따라서 두 $\sigma$ 결합을 동시에 만들 수 없어 cycloocta-1,5-diene은 열적으로 생기지 않는다. (출처: L13 p.30, 33–36)
+7. **Woodward–Hoffmann:** [4+2]는 [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]다. (4q+2)s 성분( $\pi2\mathrm{s}$ )이 1개, (4r)a 성분이 0개로 합이 1(홀수)이므로 열적으로 허용된다. [4+4]는 [ $\pi4\mathrm{s}$ + $\pi4\mathrm{s}$ ]다. 두 성분 모두 (4r)s라서 세지 않으므로 (4q+2)s는 0개, (4r)a도 0개이고 합이 0(짝수)이다. 따라서 열적으로 금지된다. **FMO:** [4+2]에서는 한 butadiene의 HOMO( $\psi_{2}$ )와 다른 butadiene의 C=C 하나(dienophile 부분)의 LUMO가 겹치며 양 끝이 모두 결합성이므로, 4-vinylcyclohexene이 생긴다. [4+4]에서는 $\psi_{2}$ (HOMO)와 다른 분자의 $\psi_{3}$ (LUMO)의 양 끝 가운데 한쪽은 결합성이지만 다른 쪽은 위상이 맞지 않아 반결합성이다. 따라서 두 $\sigma$ 결합을 동시에 만들 수 없어 cycloocta-1,5-diene은 열적으로 생기지 않는다. (출처: L13 p.30, 33–36)
 
 8. **dicyclopentadiene을 가열해 crack하고 증류한다.** 가열하면 역 DA 반응이 일어나 단량체가 생긴다. 끓는점이 낮은 cyclopentadiene(b.p. 42 °C)이 끓는점이 높은 이량체에서 증류되어 빠져나가므로 평형이 단량체 쪽으로 이동한다. 단량체는 −20 °C에서는 며칠 보관할 수 있지만, 상온에서는 몇 시간 안에 DA endo로 다시 dicyclopentadiene이 된다. 그래서 사용 직전에 새로 분해해서 쓴다. (출처: L13 p.18)
 
