@@ -1023,7 +1023,7 @@ F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 a
 
 ---
 
-## 반응 정리표
+## 반응별 상세 목록
 
 <!-- Wide source table reformatted as entries for reading; all cells retained. -->
 
@@ -1292,6 +1292,59 @@ t-BuOK 조건에서는 deprotonation이 가역적이라서 두 enolate가 평형
 
 **문제 8**
 4-chloronitrobenzene에서는 HO-가 C-Cl 탄소에 첨가할 때 생긴 음전하가 공명으로 NO2가 붙은 탄소, 나아가 nitro group 산소까지 퍼진다. 그래서 $\sigma$ 착물이 안정화된다. meta 이성질체에서는 음전하가 NO2가 붙은 탄소에 오지 않아 이런 안정화가 없다. 그래서 leaving group은 EWG의 ortho/para에 있어야 한다. leaving group 순서가 F >> Cl ~ Br >> I인 것은 SNAr의 rate-determining step가 C-X가 끊기는 단계가 아니라 첫 번째 첨가 단계이기 때문이다. 전기음성도가 가장 큰 F가 ipso 탄소를 가장 강하게 $\delta^{+}$ 로 만들고 anionic intermediate를 안정화하므로 첨가가 가장 빠르다(보충, Clayden 22장) (보충 근거: Clayden p.518). (근거: L11 p.22, p.23)
+
+---
+
+## L11 반응 overview
+
+강의 마지막 복습용 비교표다. **공격 위치 → 반응 후 남는 작용기 → 필요한 후처리** 순서로 읽는다. 아래 결과는 본문에 나온 기질·조건에 해당하며, 시약 이름만으로 모든 기질의 선택성을 단정하지 않는다. 세부 구조·수율은 앞의 **반응별 상세 목록**과 각 절의 그림에서 확인한다.
+
+### 1. 1,2와 1,4: 무엇이 바뀌는가?
+
+| 반응·대표 조건 | 공격 위치 | 최종 생성물의 특징 | 구분할 점·출처 |
+|---|---|---|---|
+| Thiol: mesityl oxide + PhSH | $\beta$-탄소, **1,4** | C=C 소모; C=O 유지; C–S 결합 형성 | Proton transfer 후 ketone. p.4 |
+| Cyanide: chalcone + $\mathrm{CN^-}$ | $\beta$-탄소, **1,4** | $\beta$-cyano ketone | CN이 결합한 탄소를 확인. p.4 |
+| Amine: mesityl oxide + methylamine | $\beta$-탄소, **1,4** | $\beta$-amino ketone | 첨가 직후 ammonium/enolate의 zwitterion; proton transfer 필요. p.5 |
+| Grignard / organolithium + 2-cyclohexenone | Carbonyl carbon, **1,2** | Allylic alcohol; 원래 C=C 유지 | Alkoxide를 산 처리. p.11 |
+| Organocuprate + 2-cyclohexenone | $\beta$-탄소, **1,4** | $\beta$-alkyl ketone; C=O 유지 | Enolate를 protonation. p.11 |
+| MeMgBr + catalytic CuCl + isophorone | $\beta$-탄소, **1,4** | $\beta$-methyl ketone | Cu를 넣은 조건과 Grignard 단독 조건을 구별. p.6–7 |
+| Acryloyl chloride + ammonia | Carbonyl carbon, **1,2 공격 후 제거** | Acrylamide; C=C 유지 | 전체 반응은 **nucleophilic acyl substitution**. p.10 |
+| Methyl acrylate + ammonia | $\beta$-탄소, **1,4** | Methyl 3-aminopropanoate | 위 행과 nucleophile은 같아도 acceptor가 다름. p.10 |
+| Cinnamaldehyde + $\mathrm{NaBH_4}$ / EtOH | Carbonyl carbon, **1,2 환원** | Cinnamyl alcohol; C=C 유지 | 이 enal 예의 결과. p.10 |
+| Cyclopentenone + $\mathrm{NaBH_4}$ / EtOH | **1,4 후 1,2 환원** | Cyclopentanol; C=C와 C=O 모두 환원 | 모든 enone의 보편적 결과로 외우지 않기. p.10 |
+| MVK + NaCN/HCN, 5–10 °C | Carbonyl carbon, **1,2** | Cyanohydrin; C=C 유지 | 저온의 kinetic 생성물, 가역적 첨가. p.13 |
+| 같은 MVK 계, 80 °C | $\beta$-탄소, **1,4** | $\beta$-cyano ketone; C=O 유지 | 해당 평형에서 thermodynamic 생성물. p.13 |
+
+Cuprate 제조 자체는 첨가 반응이 아니다. p.6에서는 CuBr과 2당량의 RLi로 $\mathrm{R_2CuLi}$를 만든 뒤 사용한다. **Hard/soft는 선택성 경향을 설명하지만, hard = strong 또는 soft = weak라는 뜻은 아니다.** (출처: L11 p.4–13)
+
+### 2. C–C 결합 형성: donor와 acceptor를 구별하기
+
+| 반응·대표 조건 | 새 결합을 만드는 두 위치 | 생성물·후속 단계 | 구분할 점·출처 |
+|---|---|---|---|
+| Enolate Michael: ketone enolate + unsaturated amide | Donor $\alpha$ ↔ acceptor $\beta$ | Protonation 후 **1,5-ketoamide** | Carbonyl acceptor를 쓰는 Michael의 1,5 관계. p.14–15 |
+| Lithium ester enolate + enal | Donor $\alpha$ ↔ acceptor carbonyl carbon | **Aldol**: $\beta$-hydroxy ester | Enolate라고 항상 Michael을 하는 것은 아님. p.16 |
+| 2-Methylcyclopentanone + methyl acrylate / t-BuOK | 더 치환된 donor $\alpha$ ↔ acceptor $\beta$ | 4차 탄소를 포함한 Michael 생성물 | Donor의 enolate 선택과 acceptor의 1,4 선택은 별개. p.16 |
+| Malonate enolate + ethyl crotonate | Donor 중심 탄소 ↔ acceptor $\beta$ | Ester들을 유지한 Michael 생성물 | Resonance-stabilized carbon nucleophile. p.17 |
+| Nitroalkane 유래 nitronate + enone | Nitro group 옆 탄소 ↔ acceptor $\beta$ | Nitro group을 유지한 ketone | Nitronate를 enolate라고 부르지 않기. p.17 |
+| Nitroalkane Michael → intramolecular alkylation | 먼저 acceptor $\beta$, 다음 C–I 탄소 | Michael 후 intramolecular $S_\mathrm{N}2$로 6원자 고리 형성 | 고리화는 첫 첨가와 별도 단계. p.17 |
+| Enamine + alkyl halide | Enamine donor $\alpha$ ↔ C–X 탄소 | Hydrolysis 후 $\alpha$-alkyl ketone | Enamine **alkylation**; conjugate acceptor가 없음. p.18 |
+| Enamine + carbonyl Michael acceptor | Enamine donor $\alpha$ ↔ acceptor $\beta$ | Hydrolysis 후 **1,5-dicarbonyl** | p.19의 ester·ketone acceptor 두 예. Donor C=O를 회복해야 완성. p.19 |
+| Chiral iminium catalysis: enal + pyrrole | Pyrrole C2 ↔ enal $\beta$ | Rearomatization·hydrolysis 후 $\beta$-pyrrolyl aldehyde | **Acceptor activation**; 촉매 재생. 12개 예에서 87–97% ee. p.21 |
+
+**Enamine activation은 donor의 nucleophilicity를, iminium activation은 acceptor의 electrophilicity를 높인다.** 둘 다 amine이 관여하지만 새 결합에서 맡는 역할은 다르다. (출처: L11 p.14–21)
+
+### 3. 첨가로 끝나는가, leaving group이 제거되는가?
+
+| 반응·대표 기질 | 공격 위치 | 최종 변화 | 구분할 점·출처 |
+|---|---|---|---|
+| $\beta$-F enone + secondary amine | F가 붙은 $\beta$-탄소 | 첨가 후 F 제거; **C=C 회복**, $\beta$-amino enone | 단순 1,4 첨가 생성물과 달리 unsaturated 계가 남음. p.22 |
+| Activated aryl fluoride + amine | C–F의 ipso 탄소 | F가 amino group으로 치환; aromaticity 회복 | 본문 예는 ortho carbonyl EWG. p.23 |
+| 4-Chloronitrobenzene + hydroxide | C–Cl의 ipso 탄소 | Cl이 O nucleophile로 치환 | 염기성 조건에서는 phenoxide; 산 처리 후 phenol. p.23, 각주 10 |
+
+이 강의의 addition–elimination형 SNAr에서는 leaving group에 **ortho/para인 EWG**가 anionic intermediate를 안정화한다. 먼저 첨가로 aromaticity를 잃고, leaving group 제거로 회복한다. (출처: L11 p.22–23)
+
+**최종 점검:** 새 결합이 carbonyl carbon에 생겼으면 1,2 경로, $\beta$-탄소에 생겼으면 conjugate 경로부터 확인한다. 이어 **C=O 회복 여부, C=C 유지·회복 여부, leaving group 유무, 촉매 방출 여부**를 확인하면 서로 비슷한 반응을 구분할 수 있다. (출처: L11 p.10–24; 본문 종합)
 
 ---
 
