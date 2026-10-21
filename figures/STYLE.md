@@ -5,7 +5,7 @@
 ## 1. 도구와 작업 흐름
 
 1. 그림 하나는 `figures/L##/<이름>.json` 스펙 하나로 정의한다(형식은 `tools/chemfig.py` 맨 위 설명 참고).
-2. 이번 검수에 사용한 실행 파일은 `~/opt/reshiki/0.11.0-nightly.20261013/reshiki`다. `RESHIKI=<reshiki 실행 파일> python3 tools/chemfig.py figures/L##/<이름>.json`으로 SVG를 만든다.
+2. 사용하는 실행 파일은 `~/opt/reshiki/0.12.0/reshiki`(ReShiki 0.12.0 정식판, `~/.local/bin/reshiki`가 가리킴)다. `RESHIKI=<reshiki 실행 파일> python3 tools/chemfig.py figures/L##/<이름>.json`으로 SVG를 만든다.
 3. **반드시 렌더링 결과를 눈으로 확인한다.** 라이트와 다크 두 모드 모두, 2배에서 4배로 확대해서 본다. 겹치는 부분은 확대 크롭으로 다시 확인한다.
 4. 노트에는 `![설명](../figures/L##/<이름>.svg)`로 넣고, 그 아래 줄에 `그림: …` 형식(기울임 `*…*`으로 감싸지 않음. GitHub에서 인라인 LaTeX가 렌더되도록)으로 색과 화살표의 의미를 설명한다.
 

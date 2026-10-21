@@ -30,7 +30,7 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 | 태그 | 뜻 |
 |---|---|
 | `분류/반응`, `분류/시약`, `분류/개념` | 문서 종류 |
-| `범위/Test1`, `범위/Test2` | 시험 범위 (L1–L10 / L11–L15) |
+| `범위/Test1`, `범위/Test2` | 시험 범위 (L1–L10 / L11–L17) |
 | `기출/Test1-2025` | 2025 Test 1에 나온 주제 |
 | `인명반응`, `인명시약`, `인명규칙` | 사람 이름이 붙은 항목 |
 | `단원/...`, `강의/L##` | 단원과 강의 |
@@ -108,7 +108,7 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 - 색 규칙: 파랑은 친핵체(전자 주는 쪽), 빨강은 친전자체(전자 받는 쪽), 주황은 전자 이동 화살표, 회색은 설명이다.
 
 ```bash
-export RESHIKI=/path/to/reshiki        # ReShiki 실행 파일 (Linux x64 nightly에서 확인)
+export RESHIKI=/path/to/reshiki        # ReShiki 실행 파일 (ReShiki 0.12.0 Linux x64에서 확인)
 python3 tools/chemfig.py figures/L01/bromonium_step1.json
 ```
 

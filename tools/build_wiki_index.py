@@ -386,7 +386,7 @@ def build_hub_pages(docs):
     star = "★ 표시는 2025 Test 1에 출제된 주제다."
     units = list(dict.fromkeys(UNIT.values()))
     for scope, desc in (("Test1", "1–5주차, 강의 L1–L10"),
-                        ("Test2", "6–10주차, 강의 L11–L15 (라디칼 화학 제외; 시그마트로픽·전자고리화 반응은 자료가 나오면 추가)")):
+                        ("Test2", "6–10주차, 강의 L11–L17 (conjugate addition부터 electrocyclic reaction까지; 라디칼 화학 제외). 시험일 2026-10-30")):
         lines = ["---", f"tags: [모음, 범위/{scope}]", "---", f"# {scope[:-1]} {scope[-1]} 범위",
                  "", f"> {desc}. {note} {star}".rstrip(), ""]
         for u in units:
