@@ -16,6 +16,10 @@
 
 Danishefsky diene은 electron-rich diene으로 HOMO를, ester와 conjugated된 cyclic alkene은 dienophile로 LUMO를 사용한다. 새 C–C 결합 두 개를 만들어 cis-fused bicyclic cyclohexene을 만든다. 다른 고립된 C=C는 이 단계에서 그대로 남는다. 답안은 [4+2] **endo** 접근을 그리고 **OMe와 CO2Me가 syn**, 그리고 dienophile에서 유래한 고리 접합 관계가 **syn/stereospecific**이라고 구분해 표시한다. (출처: Tutorial 4_answers p.1)
 
+![Tutorial 4 Q1: Danishefsky diene과 methyl cyclohexa-1,4-diene-1-carboxylate의 endo DA로 OMe/CO2Me syn, CO2Me/H syn(cis-fused) 생성물이 된다](../figures/L14/t4_q1_danishefsky_da.svg)
+
+그림: 공식 답안의 cycloaddition 단계다. 파란색은 Danishefsky diene의 $\pi$ 결합(HOMO, EDG diene), 빨간색은 ester와 conjugated된 고리 C=C(LUMO, EWG dienophile), 초록색은 생성물에서 새로 생긴 결합과 새 C=C이다. 주황색 화살표 셋은 한 방향으로 돈다. OMe가 붙은 C1은 $CO_2Me$ 가 붙은 탄소와 결합하고(regioselectivity), endo 접근이므로 OMe와 $CO_2Me$ 는 syn(둘 다 점선)이며, dienophile의 고리 접합 H와 $CO_2Me$ 는 suprafacial 결합이라 syn(cis-fused)으로 남는다. 고립된 C=C는 그대로 남는다. 답안과 같이 한 거울상만 그렸고 diene의 수소는 모두, 고리의 수소는 접합 위치만 그렸다. (출처: Tutorial 4_answers p.1)
+
 ### 왜 두 가지 syn을 나누어 설명하나
 
 regioselectivity는 먼저 어느 말단끼리 연결되는지를 고른다. OMe/OSiMe3가 주는 polarization을 같은 방향으로 맞춘 뒤 그 결합 연결을 고정한다. endo는 그 상태에서 dienophile이 diene의 어느 쪽으로 접근하는지를 고르고, 고리 융합 관계는 dienophile에 대한 suprafacial 결합 형성으로 보존된다. 따라서 “cis이므로 endo”라고 둘을 같은 원리로 쓰지 않는다. (출처: L14 p.11–17; Tutorial 4_answers p.1)
@@ -36,6 +40,10 @@ regioselectivity는 먼저 어느 말단끼리 연결되는지를 고른다. OMe
 
 두 출발물은 cyclobutene-1,2-dicarboxylic acid의 dimethyl ester와 3-methylcyclohex-2-en-1-one이다. $h\nu$ 조건에서 [2+2]로 두 alkene을 연결해 공식 그림의 다환 keto diester를 만들고, NaBH4 처리 후 제시된 lactone을 얻는다. 중간체의 CO2Me 두 개와 접합 H/Me의 상대배치는 p.1의 쐐기·점선을 따른다. (출처: Tutorial 4_answers p.1)
 
+![Tutorial 4 Q2(a)의 광\[2+2\] 단계: cyclobutene diester + 3-methylcyclohexenone → 4-4-6 tricyclic keto diester](../figures/L14/photo22_stereo.svg)
+
+그림: Q2(a)의 첫 단계로, 강의 p.27의 예와 같은 반응이다. 파란색은 cyclobutene의 C=C, 빨간색은 enone의 C=C, 초록색은 새 cyclobutane의 $\sigma$ 결합 두 개이며, 주황색 화살표 두 개는 두 결합이 동시에 생기는 것을 형식적으로 나타낸다. 생성물에서 두 $CO_2Me$ 는 cis(쐐기), 접합 H와 Me는 cis(점선)이고 두 바깥 고리는 anti다. 공식 답안의 keto diester와 같은 상대배치이며, 이어지는 $NaBH_4$ 환원과 lactone 형성은 원본 답안에서 확인한다. (출처: L14 p.27; Tutorial 4_answers p.1)
+
 환원으로 생긴 alcohol이 가까운 ester와 고리형 ester를 형성하는 연결을 확인한다. NaBH4 단계에서 모든 ester가 alcohol로 바뀐다고 그려서는 표적의 lactone carbonyl과 남은 CO2Me를 보존할 수 없다. **검토 의견:** 답안은 이 단계의 자세한 proton transfer와 work-up을 생략하므로, 이를 독립된 추가 공식 조건처럼 만들어 적지 않는다. (출처: Tutorial 4_answers p.1)
 
 ## 문제 2(b) — allylic alcohol C를 거쳐 in situ DA
@@ -53,6 +61,10 @@ aldehyde와 vinylmagnesium bromide를 반응시키고 산성 후처리하면 **C
 ![공식 산화로 trienone 만들기](../figures/L15/tutorial4_oxidation_imda.svg)
 
 그림: MnO2 또는 Na2Cr2O7/H+가 allylic alcohol을 trienone으로 만든다. 그림은 산화까지만 보이며 뒤의 in situ DA는 원본 공식 답안에서 확인한다. (출처: Tutorial 4_answers p.1)
+
+![Tutorial 4 Q2(b)의 in situ 분자 내 DA: 접힌 trienone의 endo TS에서 cis-fused bicyclic enone이 생긴다](../figures/L14/t4_q2b_imda.svg)
+
+그림: 산화 뒤의 in situ intramolecular Diels–Alder 단계다. 왼쪽은 trienone을 접은 모양으로, 파란색은 diene의 $\pi$ 결합, 빨간색은 enone C=C(dienophile), 위쪽 사슬은 $C(=O)(CH_2)_3$ 연결 고리(tether)다. 주황색 화살표 셋은 한 방향으로 돈다. C=O가 diene 아래로 들어가는 endo 접근이므로 오른쪽 생성물의 두 고리 접합 H는 syn(둘 다 점선), 즉 cis-fused다. 초록색은 새로 생긴 결합과 새 C=C이다. 공식 답안의 cis-fused bicyclic ketone과 같은 상대배치이고 racemic이다. 사슬의 수소는 생략했다. (출처: Tutorial 4_answers p.1)
 
 **정정:** 이전 문서는 Weinreb amide + vinyl Grignard를 권장하고 C를 trienone으로 해석했다. 이는 공식 답안의 경로와 다르므로 공식 풀이에서 제외했다. aldehyde → allylic alcohol → 산화라는 대안의 큰 흐름은 맞았지만, 공식 산화제는 위에 적은 두 조건이며 DMP는 공식 답안에 없다. (출처: Tutorial 4_answers p.1)
 
@@ -77,6 +89,14 @@ aldehyde와 vinylmagnesium bromide를 반응시키고 산성 후처리하면 **C
 4. tropone O–CMe2와 tropone 탄소–N 사이의 새 결합이 생기고, 이어 공명 구조의 전자를 되돌려 carbonyl을 회복해 제시된 fused heterocycle이 된다.
 
 (출처: Tutorial 4_answers p.2)
+
+![Tutorial 4 Q3 단계 1–2: Na2CO3로 amide N–H를 떼고 Br⁻가 이탈해 aza-oxyallyl cation(3원자, 2π)이 생긴다](../figures/L14/t4_q3_azaoxyallyl.svg)
+
+그림: 공식 답안의 단계 1–2다. 왼쪽은 $\alpha$-bromo amide, 가운데는 $Na_2CO_3$ 가 N–H를 떼어 생긴 amide anion(파란 N⁻)이다. 주황색 화살표 셋은 N의 비공유 전자쌍이 C–N 결합으로 들어가 C=N을 만들고, C=O의 $\pi$ 전자가 산소로 밀려나며, C–Br 결합의 전자가 Br⁻(빨강)로 떨어지는 것을 나타낸다. 오른쪽이 aza-oxyallyl cation으로, O⁻–C(=N–R)–C⁺Me2의 3원자 성분이지만 $\pi$ 전자는 2개다(C⁺는 빈 p orbital). 답안이 두 공명 구조로 나누어 그린 amide anion은 한 구조에 화살표를 모아 그렸다. (출처: Tutorial 4_answers p.2)
+
+![Tutorial 4 Q3 핵심 단계: tropone의 8π(O1→C8) HOMO와 aza-oxyallyl cation의 2π LUMO가 \[8+3\] cycloaddition을 한다](../figures/L14/t4_q3_83_cycloadd.svg)
+
+그림: 공식 답안의 [8+3] cycloaddition이다. 파란색은 tropone의 C=O와 고리 $\pi$ 결합 세 개(O1에서 C8까지 $8\pi$ 성분, HOMO), 빨간 +는 aza-oxyallyl cation의 양전하( $2\pi$ 성분, LUMO)다. 주황색 화살표 다섯 개(전자 10개)가 한 방향으로 돈다. C=O의 $\pi$ 전자가 O1–CMe2 결합이 되고, 고리 $\pi$ 결합이 차례로 자리를 옮기며, C=N의 $\pi$ 전자가 N–C8 결합이 된다. 초록색은 새로 생기거나 자리를 옮긴 결합이다. 오른쪽은 답안의 zwitterion(C⁺–O⁻)이고, 이어서 O⁻의 전자가 C=O를 되돌려 제시된 fused heterocycle(amide)이 된다. regioselectivity는 electron-rich tropone O와 electrophilic CMe2 말단이 짝지어지는 것으로 설명된다. 수소는 반응에 관여하는 C8의 H만 그렸다. (출처: Tutorial 4_answers p.2)
 
 ### Woodward–Hoffmann과 regioselectivity
 

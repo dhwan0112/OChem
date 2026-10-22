@@ -1,0 +1,25 @@
+{
+ "title": "연습 문제 1의 목표 화합물 (a)–(d) (L11 p.8)",
+ "scheme": {
+  "width_pt": 520,
+  "columns": 2,
+  "molecules": [
+   {
+    "smiles": "CCCCCC(C)=O",
+    "label": "(a)"
+   },
+   {
+    "smiles": "O=C1CC(C)(C)CCC1",
+    "label": "(b)"
+   },
+   {
+    "smiles": "O=C1CC(CC)C(C(C)(C)C)CC1",
+    "label": "(c)"
+   },
+   {
+    "smiles": "C=CC12CCCCC1CCC(=O)C2",
+    "label": "(d)"
+   }
+  ]
+ }
+}

@@ -333,7 +333,7 @@ def decorate(doc, spec):
 # ---------------- 렌더링과 다크 모드 후처리 ----------------
 
 def fix_font(txt):
-    """기존 그림과 같은 글꼴(DejaVu Sans)로 고정한다. ReShiki nightly는 Arial을 Noto Sans CJK로 대체해 글자가 작고 가늘어 보인다."""
+    """기존 그림과 같은 글꼴(DejaVu Sans)로 고정한다. ReShiki 0.11 nightly와 0.12.0은 Arial을 Noto Sans CJK로 대체해 글자가 작고 가늘어 보인다."""
     return txt.replace('"family":"Arial"', '"family":"DejaVu Sans"').replace('"family": "Arial"', '"family": "DejaVu Sans"')
 
 

@@ -156,6 +156,10 @@ cycloaddition의 [4+2]는 두 성분 각각의 **원자 수를** 더하기로 �
 
 이 메커니즘이 맞다는 것을 어떻게 알까? allyl group이 비대칭이면 산소에 붙어 있던 탄소가 아니라 **반대쪽 끝 탄소가** 고리에 붙는다. Clayden은 prenyl(3-methylbut-2-enyl) ether PhO–CH2–CH=CMe2를 가열하면 2-(1,1-dimethylallyl)phenol, 즉 CMe2가 고리에 붙고 CH=CH2가 남은 생성물이 생긴다는 예를 든다. 즉 원래 O에 결합했던 allyl 말단의 C–O 결합이 끊어지고, 반대쪽 말단에서 새 C–C 결합이 생긴다. 이 atom mapping과 이중결합 위치의 변화를 함께 확인하면 [3,3] rearrangement를 읽을 수 있다. 제시된 regiochemistry는 6원자 cyclic transition state를 거치는 concerted 경로와 일치한다. 생성물의 연결 관계만으로 가능한 모든 stepwise 경로가 배제되었다고 단정하지는 않는다. (출처: Clayden p.910)
 
+![prenyl phenyl ether → 2-(1,1-dimethylallyl)phenol: O에 붙어 있던 CH2 끝이 아니라 CMe2 끝이 ortho 탄소에 붙는다](../../figures/L16/prenyl_claisen_regio.svg)
+
+그림: 슬라이드 p.4의 regioselectivity 예다. 빨간색은 끊어지는 O–CH2 $\sigma$ 결합, 초록색은 새로 생긴 ortho C–CMe2 $\sigma$ 결합이다. allyl 조각이 inside-out으로 뒤집혀 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝 CMe2가 고리에 결합하고, 말단에는 CH=CH2가 남는다. [3,3] 단계의 굽은 화살표는 2.1절의 allyl phenyl ether 그림과 같아서 여기서는 결합 변화만 표시했다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.4)
+
 ### 2.3 지방족 Claisen rearrangement
 
 같은 반응은 aromatic 고리 없이도 일어난다. 가장 단순한 예는 다음과 같다.
@@ -188,6 +192,18 @@ allyl 쪽은 쉽다. allyl alcohol은 안정하고 만들기 쉽다. 문제는 v
 3. **[3,3] rearrangement:** 가열하면 그 자리에서 Claisen rearrangement가 일어난다. allyl vinyl ether를 따로 분리할 필요가 없다. 조금만 생겨도 곧바로 rearrangement해 빠져나가기 때문이다.
 
 propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높은 온도에서 평형시킬 수 있기 때문이다.[^3] (출처: Clayden p.911)
+
+![protonated acetal에서 MeOH가 떨어져 oxocarbenium ion이 생기는 SN1형 acetal 교환 단계](../../figures/L16/acetal_exchange_oxocarbenium.svg)
+
+그림: 1단계(acetal 교환)의 앞부분이다. 빨간색은 끊어지는 C–O⁺(H)Me $\sigma$ 결합이고, 주황색 화살표는 (1) 남은 OMe 산소의 비공유 전자쌍이 C=O⁺ $\pi$ 결합을 만들고 (2) 빨간 $\sigma$ 전자가 떠나는 methanol의 산소로 가는 이동이다. SN2가 아니라 SN1형이며, 떨어진 methanol은 증류로 빠져나가 평형을 민다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.9)
+
+![oxocarbenium ion을 allyl alcohol의 산소가 공격해 mixed acetal이 된다](../../figures/L16/acetal_exchange_allyl_alcohol.svg)
+
+그림: 1단계의 뒷부분이다. 주황색 화살표는 allyl alcohol 산소의 비공유 전자쌍이 oxocarbenium 탄소를 공격하고 C=O⁺ $\pi$ 전자가 산소로 돌아가는 이동이다. protonate된 산소에서 H⁺가 떨어지는 단계는 그림에서 생략했고, 결과는 초록색 새 C–O 결합을 가진 mixed acetal(methyl, allyl)이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.9)
+
+![mixed acetal에서 MeOH가 떠난 oxocarbenium ion이 alpha-H를 잃고 allyl vinyl ether가 되는 E1형 제거](../../figures/L16/e1_allyl_vinyl_ether.svg)
+
+그림: 2단계(E1형 제거)다. 남은 OMe가 다시 protonate되어 methanol로 떨어지는 부분은 생략하고, 그 뒤의 oxocarbenium ion부터 그렸다. 빨간색 $\alpha$ C–H 결합의 전자가 C–C 사이로 옮겨 초록색 새 C=C $\pi$ 결합이 되고, C=O⁺ $\pi$ 전자는 산소로 돌아간다. 생성물 allyl vinyl ether는 분리하지 않고 그 자리에서 3단계의 Claisen [3,3]으로 넘어간다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.9)
 
 같은 전략은 다른 carbonyl 화합물에도 통한다. 출발물만 바꾸면 된다. (출처: Clayden p.911–912)
 
@@ -402,6 +418,10 @@ alcohol을 먼저 염기(KH가 가장 좋다)로 처리해 alkoxide로 만들면
 
 이 방법은 특이한 화합물도 만든다. 4원 고리가 붙은 allyl alcohol을 KH/THF로 처리하면 anion oxy-Cope로 4원 고리가 8원 고리로 넓어지면서, 원래라면 Bredt 규칙에 걸릴 **bridgehead 위치의 trans 이중결합을** 가진 bicyclic ketone이 생긴다. (출처: Clayden p.914)
 
+![spiro cyclobutanol의 potassium alkoxide가 anionic oxy-Cope로 8원 고리 enolate가 되는 ring expansion](../../figures/L16/anionic_oxy_cope_ring_expansion.svg)
+
+그림: 슬라이드 p.16–17의 ring expansion 예다. KH/THF로 만든 K⁺ alkoxide에서 빨간색은 끊어지는 cyclobutane C–C $\sigma$ 결합(O⁻가 달린 탄소와 spiro 탄소 사이)이고, 주황색 화살표 셋은 보통의 [3,3] 패턴이다. vinyl $\pi$ 전자가 cyclohexene 말단 탄소와 초록색 새 C–C $\sigma$ 결합을 만들고, cyclohexene $\pi$ 전자가 spiro 탄소 쪽으로 옮겨 bridgehead 자리의 초록색 새 C=C가 되며, 빨간 $\sigma$ 전자는 O⁻ 탄소의 C=C가 되어 enolate를 만든다. 4원 고리가 8원 고리로 넓어지고, H⁺ 후처리로 bicyclic ketone이 된다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.16–17)
+
 ### 6.4 Ireland–Claisen: ester enolate로 산을 만든다
 
 고리 안의 산소 하나와 고리 밖의 산소 하나를 함께 두면 [3,3] rearrangement가 아주 잘 일어난다. 이를 쉽게 만드는 방법이 **allyl alcohol의 ester를 enolate로 만드는 것이다**.
@@ -435,6 +455,10 @@ R. E. Ireland가 1970년대에 개발해 Ireland–Claisen rearrangement라고 �
 
 해조류의 pheromone 이야기도 같은 원리다. 갈조류 암배우자는 cyclopropane pheromone을 내놓는데, 이 분자는 상온에서 반감기 몇 분으로 [3,3] rearrangement를 해 cycloheptadiene인 ectocarpene이 되면서 스스로 활성을 잃는다. 3원 ring strain 해소가 추진력이다.[^5] (출처: Clayden p.915)
 
+![cis-1,2-divinylcyclopropane(pheromone 모형)의 Cope rearrangement로 cyclohepta-1,4-diene(ectocarpene 모형)이 된다](../../figures/L16/cope_divinylcyclopropane.svg)
+
+그림: 슬라이드 p.13의 pheromone 반응을 곁사슬 없는 cis-1,2-divinylcyclopropane 모형으로 단순화했다(실제 pheromone과 ectocarpene은 butenyl 곁사슬이 있다). 빨간색은 끊어지는 긴장된 cyclopropane C–C $\sigma$ 결합, 주황색 화살표 셋은 [3,3] 패턴, 초록색은 새 C–C $\sigma$ 결합과 자리를 옮긴 두 C=C다. 두 H가 점선 쐐기로 같은 면에 있어 vinyl 둘이 cis이며, 3원 ring strain 해소가 추진력이라 상온에서 반감기 몇 분으로 진행한다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.13)
+
 ### 6.6 Claisen 다음 Cope: 시트랄의 공업 합성
 
 비타민 A 합성의 핵심 intermediate인 citral은 [3,3] rearrangement를 **두 번 연달아** 써서 만든다. (출처: Clayden p.915)
@@ -444,6 +468,14 @@ R. E. Ireland가 1970년대에 개발해 Ireland–Claisen rearrangement라고 �
 3. **Cope rearrangement:이** 생성물은 다시 1,5-diene 구조를 가지므로 두 번째 [3,3]이 일어난다. 이번에는 C=O와의 conjugation, 그리고 말단 이중결합 둘이 삼치환 이중결합 둘로 바뀌는 것이 추진력이다.
 
 결과적으로 prenyl기가 분자 한쪽 끝에서 다른 쪽 끝으로 "걸어가며" 두 번 뒤집힌다(2.2절의 inside-out이 두 번 일어난 셈이다).
+
+![prenol과 3-methylbut-3-enal에서 만든 allyl vinyl ether의 Claisen rearrangement: citral 합성 1단계](../../figures/L16/citral_claisen.svg)
+
+그림: citral 합성의 첫 [3,3]이다. 왼쪽은 enal과 prenol이 물을 잃고 만든 allyl vinyl ether이고, 빨간색은 끊어지는 O–CH2 $\sigma$ 결합, 주황색 화살표 셋은 지방족 Claisen과 같다. 초록색은 새 C–C $\sigma$ 결합과 C=O이며, 생성물은 $\gamma,\delta$-unsaturated aldehyde이자 다음 Cope를 위한 1,5-diene이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.14–15)
+
+![Claisen 생성물(1,5-diene)의 Cope rearrangement로 citral이 된다: citral 합성 2단계](../../figures/L16/citral_cope.svg)
+
+그림: 두 번째 \[3,3\] (Cope)이다. 빨간색은 끊어지는 C–C $\sigma$ 결합(CHO가 달린 탄소와 CMe2 사이), 초록색은 새 C–C $\sigma$ 결합과 자리를 옮긴 두 C=C다. 생성물 citral은 C=O와 conjugation된 삼치환 C=C와 또 하나의 삼치환 C=C를 가지며, 말단 C=CH2 둘이 사라지는 것이 추진력이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.15)
 
 ## 7. 다른 원소가 낀 [3,3] rearrangement
 
@@ -521,6 +553,14 @@ $$
 
 이 순환의 쓸모는 **allyl alcohol을 보통은 alkylation할 수 없는 위치에서 alkylation** 한다는 데 있다. 동시에 sigmatropic 반응이 가역적이라는 직접적인 증거이기도 하다. (출처: Clayden p.918)
 
+![allyl alcohol의 산소가 PhSCl의 황을 공격해 sulfenate ester가 되는 단계](../../figures/L16/sulfenate_ester_formation.svg)
+
+그림: 1단계다. 주황색 화살표는 allyl alcohol 산소의 비공유 전자쌍이 황을 공격하고, 빨간색 S–Cl $\sigma$ 전자가 Cl⁻로 떠나는 이동이다. 생성된 O⁺–H는 pyridine이 H⁺를 떼어 가서 초록색 새 O–S 결합을 가진 sulfenate ester(S(II))가 된다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.19)
+
+![sulfenate ester의 2,3-sigmatropic rearrangement로 allylic sulfoxide가 된다](../../figures/L16/sulfenate_23_sulfoxide.svg)
+
+그림: 2단계의 [2,3]이다. 5원자 고리를 따라 도는 화살표 셋 가운데 하나가 황의 비공유 전자쌍에서 출발해 allyl 말단 탄소(R이 달린 탄소)와 초록색 새 C–S 결합을 만들고, C=C $\pi$ 전자가 옆으로 옮겨 가며, 빨간색 O–CH2 $\sigma$ 전자가 S–O 사이로 가서 초록색 S=O가 된다. 황은 S(II)에서 S(IV)로 바뀐다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.19)
+
 ### 8.6 selenium의 [2,3]: SeO2 allyl 산화
 
 [L6](L06_Oxidation_and_Alkene_Synthesis.md)에서 본 SeO2 allyl 산화도 사실은 페리고리 반응 두 번이다. (출처: Clayden p.919)
@@ -544,6 +584,10 @@ $$
 ![5-R-cyclopentadiene의 [1,5]H 이동: H가 이웃 탄소로 옮겨 가며 1-R 이성질체가 된다](../../figures/L16/h15_shift_cp.svg)
 
 그림: 빨간색은 끊어지는 C5–H $\sigma$ 결합, 초록색은 새로 생긴 C1–H 결합이다. (1) C5–H $\sigma$ 전자가 H를 이웃 탄소 C1로 데려가 새 C–H 결합이 되고, (2) C1=C2 $\pi$ 전자가 C2–C3 사이로, (3) C3=C4 $\pi$ 전자가 C4–C5 사이로 옮겨 간다. 고리를 긴 쪽으로 세면 H(1)에서 C5(1)–C4(2)–C3(3)–C2(4)–C1(5)이라 [1,5]다. 옛 C–H 결합과 새 C–H 결합의 변화가 고리의 같은 면에서 연결되므로 suprafacial이다. 생성물 1-R 이성질체는 치환기가 이중결합에 붙어 더 안정하고, 같은 이동이 한 번 더 일어나면 2-R 이성질체도 생긴다. Clayden p.919–920의 그림을 따랐다.
+
+![1-R-cyclopentadiene의 두 번째 1,5 수소 이동: CH2의 H가 이웃 탄소로 옮겨 2-R-cyclopentadiene이 된다](../../figures/L16/h15_cp_second_shift.svg)
+
+그림: 슬라이드 p.21 아래 줄의 둘째 평형이다. 1-R 이성질체의 sp³ CH2에서 빨간색 C–H 결합의 H가 diene 반대쪽 끝(고리에서는 이웃 탄소)으로 옮겨 가고(초록색 새 C–H), 두 $\pi$ 결합이 자리를 옮긴다(초록색). 결과는 2-R-cyclopentadiene이며, 5-R → 1-R → 2-R 세 이성질체가 모두 [1,5]H 평형으로 이어진다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.21)
 
 ### 9.2 왜 alkylation한 cyclopentadiene으로 DA를 하면 혼합물이 나오나
 
@@ -583,6 +627,10 @@ Dreiding(1983)의 분자 내 DA 예가 이를 잘 보여 준다. 단편화 반�
 ### 9.4 사슬형 diene에서도 일어난다
 
 [1,5]H 이동은 cyclopentadiene에만 있는 것이 아니다. (*E*,*Z*)-diene은 *Z* 쪽 말단의 C–H가 diene 반대쪽 끝에 닿을 수 있어 [1,5]H 이동을 꽤 쉽게 하고, 그 결과 diene의 기하와 위치가 바뀐 혼합물이 생긴다. Clayden은 이것을 (*E*,*Z*)-diene을 쓴 DA 예가 드문 이유 가운데 하나로 든다(→ [L13](L13_Cycloaddition_Part1.md) 6-2절 in/out 치환기). (출처: Clayden p.921)
+
+![접힌 (E,Z)-diene의 1,5 수소 이동: CH2R'의 H가 같은 면으로 R 쪽 말단 탄소에 옮겨 (Z,E)-diene이 된다](../../figures/L16/h15_acyclic_ez_diene.svg)
+
+그림: 슬라이드 p.22의 사슬형 [1,5]H다. (E,Z)-diene을 접힌 conformation으로 그리면 Z 쪽 말단의 CH2R' 수소가 diene 반대쪽 끝(R이 달린 탄소)에 닿는다. 빨간색은 끊어지는 C–H, 초록색은 새 C–H와 자리를 옮긴 두 C=C이며, H는 diene의 같은 면에서 떠나고 붙으므로 suprafacial이다. 생성물은 R 쪽이 Z, R' 쪽이 E인 diene이다. 보충: (E,E)-diene에서는 CH2R'가 diene 반대쪽을 향해 같은 접힌 배치를 만들 수 없으므로 규칙상 허용이어도 이동이 어렵다(슬라이드의 질문). (원본 대조: L16_Sigmatropic rearrangements.pdf p.22)
 
 ## 10. [1,3]H와 [1,7]H: 사슬 길이가 suprafacial/antarafacial을 바꾼다
 
@@ -851,6 +899,10 @@ allyl alcohol → sulfenate ester → allyl sulfoxide
 1. (a) [3,3], 6원자 고리 TS. 옛 O–CH2 결합 양 끝을 1로 두면 새 C–C 결합은 고리의 *ortho* 탄소(3)와 allyl 말단 탄소(3) 사이에 생긴다. (b) [2,3], 5원자 고리 TS. 탄소 anion(2번)과 allyl 말단(3번)이 이어진다. (c) [1,5]H, 6원자 고리 TS. 같은 H가 옛 결합과 새 결합의 한쪽 끝(1)이고, 고리를 긴 쪽으로 돌아 5번 탄소에 붙는다(여러 번 일어나면 2-methyl 이성질체도 생긴다). (d) [1,7]H, 8원자 고리 TS, 열적 antarafacial 이동. (출처: Clayden p.909–910, p.917, p.919, p.921)
 
 2. [3,3] 직후에는 aromaticity를 잃은 6-치환 cyclohexa-2,4-diene온이 생기고, tautomerization으로 2-(뷰트-3-ene-2-일)phenol *o*-C6H4(OH)–CH(CH3)–CH=CH2가 된다. allyl group이 inside-out으로 붙으므로 산소에 붙어 있던 CH2가 아니라 반대쪽 끝, 즉 CH3가 달린 탄소가 고리와 결합한다. 그래서 methyl은 고리에 붙은 탄소에 놓이고 말단 vinyl기가 남는다. (출처: Clayden p.909–910의 prenyl 예를 바꿈)
+
+   ![(E)-but-2-enyl phenyl ether의 aromatic Claisen: Me가 붙은 말단 탄소가 ortho 탄소와 결합한 dienone](../../figures/L16/crotyl_phenyl_ether_claisen.svg)
+
+   그림: 문제 2의 [3,3] 단계다. 빨간색은 끊어지는 O–CH2 $\sigma$ 결합, 주황색 화살표 셋은 2.1절의 aromatic Claisen과 같고, 초록색은 ortho 탄소와 Me가 달린 말단 탄소 사이의 새 C–C $\sigma$ 결합이다. intermediate는 aromaticity를 잃은 dienone이고, tautomerization으로 2-(but-3-en-2-yl)phenol이 된다. 보충: 슬라이드 p.4의 prenyl 예를 crotyl로 바꾼 그림이다.
 
 3. (a) acetal 교환으로 CH2=CH–O–CH(Et)–CH=CH2가 생기고, [3,3] rearrangement로 (*E*)-헵트-4-enal OHC–CH2–CH2–CH=CH–CH2CH3이 된다. (b) orthoester에서는 MeO–C(=CH2)–O–CH(Et)–CH=CH2(ketene acetal)를 거쳐 methyl (*E*)-헵트-4-엔오에이트 MeO2C–CH2–CH2–CH=CH–Et가 된다. 두 경우 모두 의자형 TS에서 Et가 적도 자리를 택하고 그 배치가 그대로 새 C=C로 넘어가므로 *E*가 우세하다. 추진력은 C=O 생성이다. (출처: Clayden p.910–912)
 

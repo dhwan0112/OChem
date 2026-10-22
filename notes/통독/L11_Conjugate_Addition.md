@@ -450,6 +450,10 @@ acryloyl chloride와 methyl acrylate는 같은 $\mathrm{CH_2{=}CH{-}CO{-}}$ 부�
 
 1,2 경로와 달리 methyl은 $\beta$-탄소에 붙는다. 후처리 뒤에는 C=O가 남고 원래 C=C가 단일결합이 된다. (출처: L11 p.11)
 
+![2-cyclohexenone + Me2CuLi → 3-methylcyclohexanone (1,4)](../../figures/L11/cyclohexenone_cuprate_14.svg)
+
+그림: 같은 2-cyclohexenone에 Me₂CuLi(ether)를 쓴 뒤 H₃O⁺로 후처리하면 methyl이 $\beta$-탄소(빨간 C=C의 끝)에 붙은 3-methylcyclohexanone(97%)이 된다. 초록은 새로 생긴 C–CH₃ 결합이다. 위 MeLi 그림과 나란히 두고, C=O가 회복되고 C=C가 사라진 점을 비교한다. (출처: L11 p.11)
+
 왜 이렇게 갈릴까? hard/soft 개념으로 설명한다.
 - **hard nucleophile은** hard electrophile인 **carbonyl 탄소와** 반응하는 경향이 있다(1,2-첨가). Hard/soft 구분에서는 전자 분포의 공간적 집중도와 polarizability를 함께 본다. 이 유기금속 비교에서 hard nucleophile은 상대적으로 낮은 polarizability를 보이며, carbonyl 탄소와의 electrostatic interaction이 1,2-첨가 경향을 설명하는 데 유용하다. Hard를 strong nucleophile 또는 strong base와 같은 뜻으로 쓰지는 않는다.
 - **soft nucleophile은** soft electrophile인 **$\beta$-탄소와** 반응하는 경향이 있다(1,4-첨가).
@@ -568,6 +572,10 @@ $$
 
 aldol이 가역이라는 점이 중요하다. 이 조건에서 aldol이 되었다가 되돌아오면, 상대적으로 되돌아가기 어렵고 thermodynamically 유리한 conjugate addition 생성물이 축적될 수 있다(3.3절의 논리와 같다).
 
+![enolate + enone: beta 공격(conjugate addition)과 carbonyl 직접 공격(aldol)의 두 갈래](../../figures/L11/enolate_conjugate_vs_aldol.svg)
+
+그림: 가운데 enone(빨간 C=C와 C=O)에 같은 enolate(파랑)가 두 방향으로 접근한다. 왼쪽 주황 화살표는 enolate의 C=C 전자가 $\beta$-탄소를 공격하고 enone의 C=C, C=O 전자가 차례로 산소로 밀리는 conjugate addition(촉진할 경로)이고, 오른쪽 회색 화살표는 enolate 탄소가 carbonyl 탄소를 직접 공격해 alkoxide가 되는 aldol(가역, 피할 경로)이다. 두 경로 모두 enolate의 O⁻ 전자쌍이 C=O를 되살린다. (출처: L11 p.15)
+
 보충: 따라서 conjugate addition을 돕는 전략은 모두 "aldol을 더 쉽게 되돌리는" 방향이다. (1) enolate를 더 안정하게 만들면(예: malonic ester처럼 EWG 두 개) aldol 생성물에서 그 안정한 anion이 다시 떨어져 나가기 쉬워지고, 덤으로 aldol 생성물이 더 붐벼서 불안정해진다. (2) 받개를 ester·amide처럼 carbonyl이 덜 electrophilic한 화합물로 고르면 aldol 자체가 덜 일어나고 더 잘 되돌려진다. 4.3절과 4.4절의 예들은 모두 이 두 전략의 응용이다. (보충 근거: Clayden p.605–606)
 
 받개의 carbonyl 치환기 R이 바뀌면 conjugate addition 경향은 다음 순서로 커진다.
@@ -612,6 +620,10 @@ $$
 
 이번에는 enal을 받개로 썼는데 conjugate addition이 아니라 **aldol(1,2) 생성물이** 나왔다. 왜일까? lithium 이온이 aldehyde 산소에 배위하면서 enolate 산소와 함께 고리형 transition state(cyclic transition state)를 만든다. 그래서 enolate 탄소가 바로 옆의 carbonyl 탄소를 공격하게 된다. 게다가 aldehyde는 원래 직접 첨가 비율이 높은 받개다(3.1절).
 
+![lithium ester enolate와 enal의 고리형 transition state: Li⁺가 두 산소를 묶어 carbonyl 탄소를 직접 공격](../../figures/L11/lithium_enolate_cyclic_ts.svg)
+
+그림: 슬라이드의 "cyclic mechanism for ester aldol reaction"을 옮긴 것이다. Li⁺가 enolate 산소(파랑)와 aldehyde 산소(빨강)를 동시에 붙잡아 6원자 고리형 transition state를 만든다. 주황 화살표는 enolate C=C 전자가 바로 옆 aldehyde 탄소로 가고(초록 점선이 생기는 C–C 결합), C=O 전자가 산소로 가는 흐름이다. 이 배치에서는 $\beta$-탄소가 멀리 있으므로 1,2(aldol)가 일어난다. 점선 쐐기는 지면 뒤쪽 치환기를 나타내는 표시이며 입체배치를 지정한 것은 아니다. (출처: L11 p.16)
+
 **thermodynamic enolate로 4차 탄소 만들기.**
 
 $$
@@ -627,6 +639,14 @@ $$
 1. t-BuOK는 2-methylcyclopentanone의 양쪽 $\alpha$ -H를 가역적으로 떼어낸다. 그래서 두 enolate가 평형을 이룬다.
 2. 평형에서는 더 치환된(C=C에 Me가 붙은) **thermodynamic enolate가** 우세하다(→ [L7](L07_Enolate_Alkylation.md) 문서의 kinetic/thermodynamic enolate 참고).
 3. 이 enolate의 Me가 붙은 $\alpha$-탄소가 methyl acrylate의 $\beta$-탄소를 공격해서 4차 탄소가 생긴다. 생긴 ester enolate가 protonate되면 반응이 끝난다.
+
+![2-methylcyclopentanone의 두 enolate가 t-BuOK 조건에서 ketone을 거쳐 평형을 이루는 모습](../../figures/L11/methylcyclopentanone_enolate_equilibrium.svg)
+
+그림: 위 1–2단계. t-BuOK는 두 $\alpha$-H를 가역적으로 떼므로 덜 치환된 kinetic enolate(왼쪽)와 더 치환된 thermodynamic enolate(오른쪽)가 가운데 ketone을 거쳐 평형을 이룬다. 파란 C=C–O⁻가 각 enolate의 공액계이며, 평형에서는 C=C에 methyl이 붙은 오른쪽이 우세하다. (출처: L11 p.16)
+
+![thermodynamic enolate의 Me가 붙은 alpha-탄소가 methyl acrylate의 beta-탄소를 공격해 4차 탄소와 ester enolate가 생기는 단계](../../figures/L11/thermodynamic_enolate_michael_arrows.svg)
+
+그림: 위 3단계. thermodynamic enolate(파랑)의 C=C 전자가 methyl acrylate의 $\beta$-탄소(빨간 C=C의 말단 CH₂)를 공격하고, 받개의 C=C 전자는 C–C(O) 자리로, C=O 전자는 산소로 밀려 ester enolate가 된다. 초록은 새 C–C 결합이며, 이 탄소(C2)는 methyl·고리 탄소 둘·새 사슬과 결합한 4차 탄소가 된다. 이어 H⁺를 받으면 53% 생성물이다. (출처: L11 p.16)
 
 보충: 위의 두 예를 나란히 놓으면 counterion의 역할이 보인다. Li+는 산소에 강하게 결합해 aldol 생성물(lithium alkoxide)을 안정화하므로, lithium enolate는 thermodynamic control가 필요한 conjugate addition에 불리하다. Na+나 K+ enolate는 더 해리되어 있어 aldol이 되돌아가기 쉽고, 그래서 conjugate addition이 유리하다. t-BuOK를 고른 데도 이유가 있다. 부피가 커서 methyl acrylate의 ester carbonyl을 공격하지 않으면서, ketone의 일부를 deprotonation하여 enolate 평형을 형성할 수 있다. 예외적으로 3차 amide 받개는 carbonyl 탄소의 electrophilicity가 낮아 lithium enolate로도 conjugate addition이 된다(4.2절의 LDA 예). (보충 근거: Clayden p.607, p.610)
 
@@ -940,6 +960,10 @@ $$
 $$
 
  acetyl group의 ortho 위치 F가 치환된다. 7.1절의 cyclohexene 예와 메커니즘이 같다. 음전하가 acetyl 산소로 가서 enolate가 된다.
+
+![2-fluoroacetophenone + R2NH의 SNAr: 첨가로 enolate형 sigma complex가 된 뒤 F⁻가 떨어지는 두 단계](../../figures/L11/snar_fluoroacetophenone.svg)
+
+그림: 왼쪽(addition): R₂NH 질소(파랑)의 비공유 전자쌍이 F가 붙은 ipso 탄소를 공격하고, 빨간 고리 C=C의 $\pi$ 전자는 acetyl 쪽 C–C 자리로, C=O의 $\pi$ 전자는 산소로 밀린다. 가운데 $\sigma$ complex는 음전하가 acetyl 산소에 놓인 enolate이며 ipso 탄소는 sp³로 N과 F를 함께 가진다(초록이 새 C–N 결합, 질소는 슬라이드처럼 양성자를 잃은 R₂N으로 그렸다[^7]). 오른쪽(elimination): O⁻ 전자쌍이 C=O를 되살리고 고리 C=C가 회복되면서 C–F 결합(빨강) 전자가 F⁻로 떨어져 2-(dialkylamino)acetophenone이 된다. (출처: L11 p.23)
 
 $$
 \text{4-chloronitrobenzene} + \mathrm{HO^-} \xrightarrow[\text{elimination}]{\text{addition}} \text{4-nitrophenol}

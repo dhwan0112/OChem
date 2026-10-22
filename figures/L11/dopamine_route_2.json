@@ -1,0 +1,38 @@
+{
+ "title": "dopamine antagonist 합성 2–3단계: nitrile 환원 → (보충) 자발적 lactam 고리화 → N-alkylation과 amide 환원 (L11 p.20; 보충 근거 Clayden p.612)",
+ "scheme": {
+  "width_pt": 520,
+  "reactions": [
+   {
+    "reactants": [
+     "CCOC(=O)C(CCC#N)c1cc(OC)ccc1OC"
+    ],
+    "products": [
+     "CCOC(=O)C(CCCN)c1cc(OC)ccc1OC"
+    ],
+    "conditions": "H2, Pd/C",
+    "title": "nitrile → primary amine"
+   },
+   {
+    "reactants": [
+     "CCOC(=O)C(CCCN)c1cc(OC)ccc1OC"
+    ],
+    "products": [
+     "O=C1NCCCC1c1cc(OC)ccc1OC"
+    ],
+    "conditions": "− EtOH",
+    "title": "spontaneous intramolecular amide formation (lactam)"
+   },
+   {
+    "reactants": [
+     "O=C1NCCCC1c1cc(OC)ccc1OC"
+    ],
+    "products": [
+     "CCCN1CCCC(C1)c1cc(OC)ccc1OC"
+    ],
+    "conditions": "Pr–X; [H]",
+    "title": "alkylation and reduction (N-propyl; C=O → CH₂)"
+   }
+  ]
+ }
+}

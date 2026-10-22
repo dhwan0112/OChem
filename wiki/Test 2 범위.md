@@ -3,7 +3,7 @@ tags: [모음, 범위/Test2]
 ---
 # Test 2 범위
 
-> 6–10주차, 강의 L11–L15 (라디칼 화학 제외; 시그마트로픽·전자고리화 반응은 자료가 나오면 추가). 이 문서는 `tools/build_wiki_index.py`가 태그를 바탕으로 자동으로 만든다. ★ 표시는 2025 Test 1에 출제된 주제다.
+> 6–10주차, 강의 L11–L17 (conjugate addition부터 electrocyclic reaction까지; 라디칼 화학 제외). 시험일 2026-10-30. 이 문서는 `tools/build_wiki_index.py`가 태그를 바탕으로 자동으로 만든다. ★ 표시는 2025 Test 1에 출제된 주제다.
 
 ## 공액 첨가 (L11)
 

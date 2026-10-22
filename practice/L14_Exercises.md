@@ -16,6 +16,10 @@ $$
 
 .
 
+![문제 3의 기질: (E)-1-acetoxybuta-1,3-diene과 (E)-crotonaldehyde](../figures/L14/ex3_substrates.svg)
+
+그림: 문제 3의 두 기질이다. 왼쪽은 (E)-1-acetoxybuta-1,3-diene(C1에 OAc, s-cis 형태로 그림), 오른쪽은 (E)-crotonaldehyde(CHO와 Me가 trans)이다. 수소는 모두 그렸다. (출처: L14 p.18)
+
 **문제 4.** (p.22–23) 1,3-dibromoacetone/Zn에서 생긴 allyl cation과 butadiene의 [4+3] cycloaddition에 대해 FMO를 그리고, 이 반응이 열적으로 허용되는지 판단하라. Woodward–Hoffmann 규칙으로도 확인하라.
 
 **문제 5.** (p.25) [2+2] 반응은 Woodward–Hoffmann 규칙에 따라 허용되는가? suprafacial–suprafacial과 suprafacial–antarafacial 두 경우를 모두 따지고, 광화학 조건에서는 왜 진행되는지 설명하라.
@@ -44,6 +48,10 @@ $$
 - 3단계(stereospecificity): dienophile의 CHO와 Me는 trans였으므로 생성물에서도 **CHO와 Me는 trans**다.
 - 답: **6-formyl-5-methylcyclohex-2-ene-1-yl acetate**. 상대 stereochemistry는 C1-OAc/C6-CHO cis, C6-CHO/C5-Me trans이다. 슬라이드 그림에서는 OAc와 CHO가 쐐기, Me가 점선으로 그려져 있다. racemic이므로 "or its enantiomer"이다.
 (출처: L14 p.17–19)
+
+![정답 3: ortho 배향 + endo 접근 + stereospecific으로 AcO/CHO cis, CHO/Me trans인 6-formyl-5-methylcyclohex-2-en-1-yl acetate가 생긴다](../figures/L14/ex3_product.svg)
+
+그림: 세 단계를 한 그림에 모았다. 왼쪽은 diene(파란 $\pi$ 결합)과 crotonaldehyde(빨간 C=C)를 "ortho" 배향으로 포갠 endo 배열이고, 주황색 화살표 셋은 한 방향으로 돈다. 1단계(regioselectivity): OAc에서 먼 C4가 CHO의 $\beta$-탄소(CHMe)와, OAc가 붙은 C1이 CHO가 붙은 $\alpha$-탄소와 결합한다. 2단계(endo): CHO가 diene 아래로 들어가므로 "out" 치환기 OAc와 CHO는 생성물에서 cis(둘 다 쐐기)다. 3단계(stereospecificity): dienophile의 trans CHO/Me는 생성물에서도 trans(CHO 쐐기, Me 점선)다. 초록색은 새로 생긴 결합과 새 C=C이며, 생성물은 슬라이드 p.19의 상대배치 그대로이고 racemic이다("or its enantiomer"). (출처: L14 p.18–19)
 
 **정답 4.** allyl cation의  $\pi$  MO는 세 개다.  $\psi_{1}$ (HOMO, 전자 2개)은 세 lobe의 위상이 모두 같다.  $\psi_{2}$ (LUMO)는 가운데 탄소에 node가 있고 두 말단의 위상이 반대다.  $\psi_{3}$ 는 계수가 0.50, 0.71, 0.50이고 위상이 교대한다.
 - allyl cation LUMO( $\psi_{2}$ , 말단 위상 반대)와 diene HOMO( $\psi_{2}$ , 말단 위상 반대)는 양 끝 모두에서 결합성 겹침을 이룬다.

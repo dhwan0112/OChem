@@ -117,6 +117,10 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 용어도 정리해 두자. diene은 C=C 두 개가 단일 결합 하나로 이어진 conjugated diene이어야 한다. diene과 반응하는 alkene(때로는 alkyne)은 dienophile라고 부르고, 생성물은 cyclohexene이다. 예를 들어 2,3-dimethyl-1,3-butadiene과 acrolein(CH2=CH-CHO)은 3,4-dimethylcyclohex-3-ene-1-carbaldehyde를 준다. diene이 고리형이면 어떻게 될까? cyclopentadiene + nitroethylene(CH2=CH-NO2)처럼 다리 걸친 이중 고리(bridged bicyclic)인 5-nitrobicyclo[2.2.1]hept-2-ene(5-nitronorbornene)이 생긴다. (출처: L13 p.8)
 
+![cyclopentadiene + nitroethylene의 Diels–Alder reaction: 굽은 화살표 세 개가 돌아 다리 걸친 이중 고리 5-nitronorbornene을 만든다](../../figures/L13/da_cpd_nitroethylene.svg)
+
+그림: 파란색은 cyclopentadiene의 두 $\pi$ 결합, 빨간색은 nitroethylene의 $\pi$ 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 개가 같은 방향으로 돈다), 초록색은 새로 생긴 $\sigma$ 결합 두 개다. diene이 고리형이라 diene의 $CH_2$ (오각형의 오른쪽 꼭짓점)가 생성물에서 다리가 되어 bridged bicyclic(norbornene) 골격이 생긴다. 슬라이드처럼 $NO_2$ 의 endo/exo 배향은 지정하지 않았다.
+
 이 반응은 실험실만의 것이 아니다. 자연계에는 DA 반응을 촉매하는 Diels–Alderase도 있다. 슬라이드의 예에서는 긴 사슬 끝의 diene과 tetronate 고리의 exo-methylene dienophile이 효소 주머니 안에서 분자 내 [4+2] cycloaddition을 해 spiro 구조의 cyclohexene을 만든다(J. Am. Chem. Soc. 2016, 138, 6095). (출처: L13 p.9)
 
 ## 4. 어떻게 반응하나: 메커니즘과 transition state
@@ -130,6 +134,10 @@ DA 반응에는 정말 intermediate가 없을까? 그렇다. DA는 pericyclic �
 4. 이 모든 변화가 하나의 고리형 TS에서 동시에 일어나 cyclohexene이 된다.
 
 그렇다면 이 반응은 왜 일어날까? 열역학과 속도론 두 측면에서 답할 수 있다. thermodynamically는 $\pi$ 결합 두 개를 잃는 대신 더 강한 C–C $\sigma$ 결합 두 개(C1–C6, C4–C5)를 얻으므로 이득이다.[4] kinetically는 TS에 6개의 $\pi$ 전자가 고리 모양으로 비편재화되어 있어, benzene처럼 aromaticity(4n+2)을 띠고 안정화된다. 이른바 "aromatic transition state"다. (출처: L13 p.10)
+
+![butadiene + ethylene → 6개 π 전자가 비편재화된 고리형 transition state → cyclohexene](../../figures/L13/da_aromatic_ts.svg)
+
+그림: 가운데 대괄호 안이 transition state다. 바깥 실선과 안쪽 점선은 단일·이중 결합의 중간 상태(부분 결합)를, 초록 점선은 생기는 중인 새 $\sigma$ 결합 C1–C6과 C4–C5를 뜻한다. 여섯 탄소에 $\pi$ 전자 6개가 고리 모양으로 퍼져 있어 benzene처럼 aromatic(4n+2)한 TS가 된다. 왼쪽의 파랑·빨강·주황은 그림 1과 같다.
 
 이 TS가 실제로 어떻게 생겼는지는 계산 연구로 볼 수 있다. butadiene + ethylene의 TS에서 새로 생기는 C···C 거리는 약 2.2 Å(2.217–2.273 Å)으로, 결합이 반쯤 생긴 상태다. 고리 안의 다른 C–C 거리는 약 1.38–1.43 Å로 단일 결합과 이중 결합의 중간이다. 즉 TS에서는 전자가 고르게 퍼져 있어, 말 그대로 "반쯤 benzene 같은" 고리 상태다. (출처: L13 p.11)
 
@@ -196,6 +204,10 @@ diene 쪽은 반대다. electron-donating group(EDG)가 붙은 electron-rich die
 
 보충: s-trans 고정 diene이 안 되는 이유는 "두 끝이 멀어서"만이 아니다. DA에서 diene 가운데의 $\sigma$ 결합(C2–C3)은 생성물의 새 $\pi$ 결합이 되고, 그 $\sigma$ 결합의 s-cis/s-trans가 그대로 새 C=C의 cis/trans이 된다. s-trans로 반응한다면 6원자 고리 안에 trans C=C가 생겨야 하는데, 이것은 불가능한 구조다. (보충 근거: Clayden p.880) (출처: L13 p.16)
 
+![s-cis로 고정된 diene 네 가지(cyclopentadiene, furan, exo-methylene diene, cyclohexa-1,3-diene)와 s-trans로 고정된 diene 두 가지(bicyclic transoid diene, 3-methylenecyclohexene)](../../figures/L13/dienes_locked.svg)
+
+그림: 파란색은 diene의 두 $\pi$ 결합, 초록색은 두 C=C를 잇는 가운데 단일 결합(C2–C3)이다. 위 줄은 고리 때문에 두 C=C가 같은 쪽을 향하도록(s-cis) 묶인 diene이고, 아래 줄은 고리 때문에 반대쪽을 향하도록(s-trans) 묶인 diene이다. 아래 줄은 아무리 가열해도 C1과 C4를 dienophile 양 끝에 동시에 댈 수 없다.
+
 p.17의 연습 문제(생성물에서 diene과 dienophile 찾기)는 아래 연습 문제 1, 2로 옮겼다. (출처: L13 p.17)
 
 ### 5-4. Cyclopentadiene 이야기: DA 반응은 되돌아갈 수도 있다
@@ -252,6 +264,10 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 그림: (E,E)-1,4-diphenylbuta-1,3-diene을 s-cis로 그리면 두 Ph는 "out", 두 H는 "in" 자리에 놓인다(파랑: diene의 $\pi$ 결합). DMAD(빨간 삼중 결합)와 Diels–Alder 반응을 하면 두 out 치환기(Ph)는 고리의 같은 쪽(둘 다 점선 쐐기)에, 두 in 치환기(H)는 반대쪽(둘 다 굵은 쐐기)에 놓인다. 즉 두 Ph는 1,4-cis다. 초록색은 새로 생긴 $\sigma$ 결합이며, alkyne 자리에 C=C가 남아 생성물은 cyclohexa-1,4-diene이다.
 
+![(E,Z)-hexa-2,4-diene + DMAD: in 치환기 Me와 out 치환기 Me가 생성물에서 trans가 된다](../../figures/L13/inout_ez_dmad.svg)
+
+그림: 같은 반응을 (E,Z)-hexa-2,4-diene으로 바꾼 것이다(슬라이드 p.20의 R를 p.28처럼 Me로 적었다). s-cis로 그리면 C1의 Me는 "out", C4의 Me는 "in" 자리에 놓인다. 생성물에서 out 치환기는 점선 쐐기, in 치환기는 굵은 쐐기가 되므로 두 Me는 서로 trans(anti)다. 색은 위 그림과 같다.
+
 보충: "trans,trans diene인데 왜 cis 생성물이 나오나?"가 헷갈린다면 대칭으로 확인하면 된다. (E,E)-diene + DMAD는 반응물 전체에 diene 가운데를 지나는 거울면이 하나 있다. 반응이 concerted이라 치환기가 도중에 자리를 옮길 수 없으므로, 생성물도 같은 거울면을 가져야 하고 그러려면 두 Ph가 같은 쪽(cis, meso형)이어야 한다. (E,Z)-diene은 처음부터 이 대칭이 없으므로 두 치환기가 반대쪽에 놓인다. 또 dienophile은 diene 평면 안이 아니라 아래에서 다가오므로 "in" 치환기가 있어도 반응 자체는 막히지 않는다(다만 s-cis를 방해해 느려진다, 5-2절 보충). (보충 근거: Clayden p.883) (출처: L13 p.20)
 
 ### 6-3. Endo 규칙: 두 반응물 사이의 stereoselectivity
@@ -272,6 +288,10 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)는 연습 문제 3으로 옮겼다. 슬라이드 p.24에 풀이가 있다. carbonyl이 diene 아래로 tucked under endo TS를 거치면 세 H가 한 면에 모이므로, CHO와 두 Me가 모두 cis인 all-cis 생성물이 생긴다.
 
+![(E,E)-hexa-2,4-diene + acrolein의 endo Diels–Alder reaction: Me, CHO, Me가 모두 점선 쐐기인 all-cis 생성물](../../figures/L13/endo_hexadiene_acrolein.svg)
+
+그림: 파란색은 diene의 $\pi$ 결합, 빨간색은 acrolein의 $\pi$ 결합, 주황색 화살표는 전자쌍 이동, 초록색은 새 $\sigma$ 결합이다. (E,E)-diene을 s-cis로 그리면 두 Me는 out, 두 H는 in이다. endo TS에서 C=O가 diene 아래로 들어가면 CHO 탄소의 H는 diene의 in H들과 같은 면에 모이므로, 생성물에서 세 H가 모두 굵은 쐐기(한 면), Me·CHO·Me가 모두 점선 쐐기(반대 면)인 all-cis 생성물이 된다. 평면 그림이라 "아래로 들어간" 모습 자체는 보이지 않으며 캡션으로만 적었다.
+
 보충: 교재는 이런 문제를 푸는 순서를 다음처럼 제시한다. (1) 먼저 평면 구조로 메커니즘과 후보 생성물을 그리고 이미 아는 stereochemistry(여기서는 out/out → 두 Me cis)을 표시한다. (2) diene을 위에, dienophile을 아래에 겹쳐 그리되 C=O가 diene 밑으로 tucked under 놓는다. (3) 새 입체중심이 될 탄소에 H를 모두 그려 넣는다. (4) 고리를 펴서 그리면 같은 방향을 향하던 H들이 모두 고리의 한 면에 모인다. (5) 나머지 치환기를 반대 면에 그린다. 이 순서를 따르면 슬라이드 p.24의 all-cis 답이 그대로 나온다. (보충 근거: Clayden p.885) (출처: L13 p.23–24)
 
 ![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
@@ -286,7 +306,15 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 
 앞에서 나온 "왜?"들에 답하려면 orbital 그림이 필요하다. 먼저 ethylene을 보자. H–C–H 각은 117.8°, C–H는 108 pm, C=C는 133 pm이다. C–C $\sigma$ 결합은 sp2 orbital끼리, $\pi$ 결합은 p orbital끼리 겹쳐 생긴다. 두 p orbital이 같은 위상으로 합쳐지면 결합성 $\pi$ orbital(전자 2개, HOMO)이 되고, 반대 위상으로 합쳐지면 node 평면이 하나 있는 반결합성 $\pi^{\ast}$ orbital(LUMO)이 된다. (출처: L13 p.25)
 
+![ethylene의 π orbital(두 lobe가 같은 위상, bonding, HOMO)과 π* orbital(위상이 반대, node 1개, antibonding, LUMO)](../../figures/L13/ethylene_pi_pistar.svg)
+
+그림: 채운 lobe는 + 위상, 빈 lobe는 − 위상이다. 왼쪽 $\pi$ 는 두 p orbital이 같은 위상으로 겹친 결합성 orbital로 전자 2개(↑↓)가 들어 있는 HOMO이고, 오른쪽 $\pi^{\ast}$ 는 반대 위상으로 겹쳐 가운데에 node 평면(회색 점선)이 하나 있는 반결합성 orbital로 비어 있는 LUMO다. 슬라이드 p.25의 단순화한 표기를 따랐다.
+
 butadiene은 이 alkene 두 개의 $\pi$ 와 $\pi^{\ast}$ 를 섞어 만든다고 생각하면 된다. 그러면 에너지 순서대로 $\psi_{1}$ (node 0개), $\psi_{2}$ (node 1개), $\psi_{3}$ (node 2개), $\psi_{4}$ (node 3개)의 네 MO가 생긴다. 전자 4개는 $\psi_{1}$ 과 $\psi_{2}$ 에 들어가므로 HOMO는 $\psi_{2}$ , LUMO는 $\psi_{3}$ 다. $\psi_{2}$ 의 양 끝 lobe는 위상이 반대이고, $\psi_{3}$ 의 양 끝 lobe는 위상이 같다는 점을 기억해 두면 이후 설명이 쉬워진다. (출처: L13 p.26)
+
+![butadiene의 네 π 분자 오비탈 ψ1–ψ4: 아래에서 위로 에너지가 올라가고 node가 0, 1, 2, 3개로 늘어난다. ψ2가 HOMO, ψ3가 LUMO](../../figures/L13/butadiene_mos.svg)
+
+그림: 채운 lobe는 + 위상, 빈 lobe는 − 위상이고 lobe의 크기는 그 탄소의 계수 크기를 나타낸다. 회색 점선은 위상이 바뀌는 node다. 전자 4개(↑↓)는 아래 두 orbital $\psi_{1}$ 과 $\psi_{2}$ 에 들어가므로 $\psi_{2}$ 가 HOMO(파랑), $\psi_{3}$ 가 LUMO(빨강)다. $\psi_{2}$ 는 양 끝 lobe의 위상이 반대이고 $\psi_{3}$ 는 양 끝의 위상이 같다는 점을 확인해 둔다. 왼쪽 화살표는 에너지가 올라가는 방향이며 수치는 없다.
 
 ### 7-2. 왜 electron-rich diene + electron-deficient dienophile이 빠른가?
 
@@ -319,6 +347,10 @@ endo 선호는 cyclopentadiene 이량화를 예로 설명한다. 두 cyclopentad
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md)
 
 butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 생기지만, [4+4] 생성물인 cycloocta-1,5-diene은 생기지 않는다. 같은 diene 두 개인데 왜 한쪽만 될까? orbital을 겹쳐 보면 답이 보인다. [4+2]에서는 한 분자의 HOMO( $\psi_{2}$ )와 다른 분자의 LUMO(dienophile 역할을 하는 C=C 부분)의 양 끝이 모두 위상이 맞아 결합성이다. 그런데 [4+4]에서는 HOMO( $\psi_{2}$ )와 다른 분자의 LUMO( $\psi_{3}$ )를 겹치면, 한쪽 끝은 결합성이지만 다른 끝은 위상이 어긋나 반결합성이다. 두 결합을 동시에 만들 수 없으므로 열적으로는 진행되지 않는다.
+
+![butadiene 2분자의 FMO: \[4+2\]에서는 HOMO ψ2와 LUMO의 양 끝이 모두 결합성이지만 \[4+4\]에서는 한쪽 끝이 반결합성이다](../../figures/L13/fmo_4plus2_vs_4plus4.svg)
+
+그림: 채운 lobe는 + 위상, 빈 lobe는 − 위상이다. 왼쪽 [4+2]: 한 butadiene의 HOMO( $\psi_{2}$ , 위)와 다른 butadiene의 반응하는 C=C 하나의 LUMO( $\pi^{\ast}$ , 아래)를 겹치면 양 끝에서 모두 같은 위상이 마주 보아 결합성(초록 점선)이다. 오른쪽 [4+4]: HOMO $\psi_{2}$ 와 다른 분자의 LUMO $\psi_{3}$ 의 양 끝을 겹치면 한쪽은 결합성(초록)이지만 다른 쪽은 위상이 어긋나 반결합성(빨간 점선)이므로 두 결합을 동시에 만들 수 없다. 보충: 슬라이드의 그림을 평면으로 단순화했고, [4+2]의 아래쪽은 두 번째 butadiene의 반응하는 C=C 부분만 그렸다.
 
 보충: "열적으로는"이라는 단서가 중요하다. 같은 [4+4]가 광화학 조건이나 Ni(0) 같은 전이 금속 촉매를 쓰면 가능하다. 광화학 조건에서 선택 규칙이 뒤집히는 이유는 [L14](L14_Cycloaddition_Part2.md)의 광화학 [2+2]와 같다. (보충 근거: Clayden p.887; Wade p.695) (출처: L13 p.30)
 
