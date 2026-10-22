@@ -105,11 +105,19 @@ electrophilicity는 ketone이 ester보다 훨씬 크다(ketone >> ester).
 결과물은 CH3C(OH)(Ph)CH2CO2Et가 된다(슬라이드상 52% 수율).
 원하는 것과 정반대다. 그래서 반응성이 큰 쪽을 먼저 가려 두는 수밖에 없다(→ 본문 6절 예제 1).
 
+![PhMgBr이 ethyl acetoacetate의 ketone을 직접 공격해 3차 alcohol이 되는 반응(52%)](../../figures/L12/phmgbr_ketone_p3.svg)
+
+그림: PhMgBr(파랑)이 보호 없이 ethyl acetoacetate를 만나면 더 electrophilic한 ketone 탄소(빨강)를 공격하고 C=O의 π 전자는 O로 밀린다. 산 처리 후 얻는 것은 ketone 쪽 3차 alcohol(초록이 새 C–Ph 결합)이고 ester는 그대로다(슬라이드상 52%). (출처: L12 p.3)
+
 **둘째, 한 분자 안에 incompatible한 작용기가 있을 때**
 Grignard 시약은 nucleophile이고 carbonyl은 electrophile이므로, 둘을 한 분자에 넣으면 스스로를 공격해 버린다.
 또 carboxylic acid(RCOOH)이나 alcohol(ROH) 같은 H+ 공급원이 있으면 Grignard 시약은 proton donor와의 acid–base reaction으로 소모된다. 슬라이드의 예가 바로 이것이다.
 
 ethyl HCO2Et에 CH3CO(CH2)3MgBr 2당량을 붙여 대칭 hydroxy diketone을 만들고 싶지만, 이 Grignard 시약은 자기 분자 안에 ketone을 품고 있으므로 만들어지는 순간 다른 분자의 ketone을 공격한다. 슬라이드는 이를 "impossible Grignard reagent"이라고 부른다.
+
+![4-oxopentyl Grignard 시약의 C–Mg 결합이 다른 분자의 ketone을 공격하는 자기 반응](../../figures/L12/impossible_grignard_p3.svg)
+
+그림: 보충(슬라이드는 구조와 물음표만 보여 준다): 4-oxopentylmagnesium bromide가 생기면 그 C–Mg 결합(파랑)이 다른 분자의 ketone 탄소(빨강)를 공격하고 C=O 전자는 O로 간다. 생성물(초록이 새 C–C 결합)에는 여전히 C–MgBr이 남아 있어 같은 반응이 되풀이된다. 그래서 ketone을 acetal로 가리지 않으면 이 Grignard 시약은 존재할 수 없다. (출처: L12 p.3)
 
 (출처: L12 p.3)
 
@@ -181,6 +189,10 @@ $$
 | **Fmoc** | Fmoc-Cl | 염기(예: amine) |
 
 Bn은 benzyl($\mathrm{CH_2Ph}$), Ar은 aryl, R은 나머지 유기 치환기를 뜻한다. Boc와 tert-butyl ester는 산, Fmoc는 염기, benzyl ether와 Cbz는 hydrogenolysis, silyl ether는 fluoride를 대표 제거 조건으로 연결해서 읽는다. 표의 다른 제거법도 함께 남겨 두었다. (출처: L12 p.5–6,8)
+
+![dihydropyran이 H⁺를 받아 oxocarbenium ion이 되고 alcohol이 첨가되어 THP ether가 되는 보호 메커니즘](../../figures/L12/thp_protection.svg)
+
+그림: 보충(슬라이드 표에는 "dihydropyran + 산"이라는 조건만 있다): dihydropyran은 enol ether라서 C=C(파랑)가 H⁺(빨강)를 β-탄소에서 받으면 O 옆 탄소에 oxocarbenium ion이 생긴다. 이 탄소(빨강)를 alcohol의 O(파랑)가 공격하고 H⁺를 잃으면 RO–THP(초록이 새 C–O 결합)이다. O–C–O를 가진 acetal이므로 염기에는 안정하고, H⁺/H2O에서는 같은 경로를 거꾸로 밟아 벗겨진다. (보충 근거: Clayden p.550–551)
 
 ### 5. alcohol의 protecting group: silyl ether
 
@@ -280,6 +292,10 @@ $$
 \mathrm{RR'NH} \xrightarrow{\mathrm{Cl{-}CO{-}OR''},\ \text{base}} \mathrm{R'RN{-}CO{-}OR''}
 $$
 
+![amine이 chloroformate의 carbonyl을 공격해 tetrahedral intermediate를 거쳐 carbamate가 되는 메커니즘](../../figures/L12/carbamate_chloroformate_p8.svg)
+
+그림: 보충(슬라이드는 반응식만 보여 준다): amine N(파랑)의 전자쌍이 chloroformate의 carbonyl 탄소(빨강)를 공격하고 C=O의 π 전자가 O로 가 tetrahedral intermediate가 된다. O⁻의 전자쌍이 내려와 C=O를 되살리며 C–Cl 결합(빨강)의 전자가 Cl⁻로 떨어지고, 염기가 N⁺–H를 떼면 carbamate(초록 C–N)가 된다. R''가 benzyl이면 Cbz-Cl, 9-fluorenylmethyl이면 Fmoc-Cl이다. 표준 nucleophilic acyl substitution이다. (보충 근거: Clayden p.557)
+
 $$
 \mathrm{RR'NH} \xrightarrow[\text{base}]{\mathrm{R''O{-}CO{-}O{-}CO{-}OR''}} \mathrm{R'RN{-}CO{-}OR''}
 $$
@@ -325,6 +341,10 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 #### 7-2. 해결 전략
 
 해결책은 이렇다. Leu는 N을 PG1으로 보호하고 CO2H를 C(=O)X로 N-protected amino acid. Gly는 CO2H를 PG2로 보호한다. 그러면 Gly의 NH2(nucleophile)가 Leu의 활성화된 carbonyl electrophile을 공격해 tetrahedral intermediate를 만들고, X-가 떨어져 나가며 PG1-NH-Leu-Gly-O-PG2가 생긴다.
+
+![N-보호 Leu의 활성화된 C(=O)X를 C-보호 Gly의 NH2가 공격해 보호된 dipeptide가 되는 커플링](../../figures/L12/peptide_coupling_p9.svg)
+
+그림: Leu의 활성화된 C(=O)X(빨강)를 Gly의 NH2(파랑)가 공격하고 C=O의 π 전자가 O로 가 tetrahedral intermediate를 거친 뒤, X⁻가 떨어지며(– HX) 보호된 dipeptide(초록이 새 amide 결합)가 된다. Leu의 N은 PG1, Gly의 CO2H는 PG2로 막혀 있어 이 조합만 생긴다. (출처: L12 p.9)
 
 다음은 어떻게 할까? 사슬을 N 쪽으로 늘리고 싶으면 PG1만 벗기고(N-deprotection, 슬라이드에서는 염기), C 쪽으로 늘리고 싶으면 PG2만 벗긴다(C-deprotection, 슬라이드에서는 산). 여기서 핵심은 PG1과 PG2가 서로 다른 조건에서 벗겨져야 한다는 것이다. 한쪽을 벗기는 조건에서 다른 쪽은 멀쩡히 버텨야 한다. 이렇게 서로 간섭하지 않고 각각 선택적으로 제거할 수 있는 protecting group 조합을 orthogonal protection라고 한다. 슬라이드는 N-보호 방식으로 N-Boc와 N-Fmoc 두 가지를 소개한다.
 

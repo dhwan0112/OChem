@@ -92,6 +92,10 @@ Woodward–Hoffmann 규칙에 따르면 총 4전자(4n)가 참여하는 [2+2]는
 
 두 시약의 공통점은 누적 cumulated double bonds이다. ketene의 중앙 탄소는 sp 혼성이라 C=C $\pi$ 결합과 C=O $\pi$ 결합이 서로 직각으로 놓여 있고, isocyanate의 N=C=O도 마찬가지다. 이 "직각으로 꺾인 두 $\pi$ 결합"이 수수께끼를 푸는 열쇠다.
 
+![cis-2-butene과 dimethylketene의 열적 [2+2] cycloaddition으로 cis-2,2,3,4-tetramethylcyclobutanone이 생기는 과정](../../figures/L15/ketene_22_cis_butene.svg)
+
+그림: 파란색은 cis-2-butene의 C=C(nucleophile 쪽), 빨간색은 ketene의 C=O이며 그 carbonyl 탄소가 electrophilic 자리다. 위쪽 화살표는 alkene의 $\pi$ 전자가 ketene carbonyl 탄소와 결합하는 것을, 아래쪽 화살표는 ketene C=C의 $\pi$ 전자가 alkene의 다른 탄소와 결합하는 것을 나타낸다. 초록 결합이 새로 생긴 두 $\sigma$ 결합이고, alkene에서 같은 쪽이던 두 Me는 생성물에서도 둘 다 쐐기(cis)로 남는다. ketene의 $CMe_2$ 탄소는 생성물에서 C=O 옆 고리 탄소(C2)가 된다.
+
 (출처: L15 p.6)
 
 ### 14.2 supra-antara라는 탈출구
@@ -101,6 +105,10 @@ Woodward–Hoffmann 규칙에 따르면 총 4전자(4n)가 참여하는 [2+2]는
 그렇다면 직교하는 $\pi$ 결합이 어떻게 금지를 피하게 해 줄까? 일반 alkene 두 분자가 같은 suprafacial–suprafacial, supra-supra 접근하면, 한쪽의 HOMO와 다른 쪽의 LUMO가 한쪽 끝에서는 같은 위상으로, 다른 쪽 끝에서는 반대 위상으로 만난다. 결합 하나는 생기는데 다른 하나는 반결합성이 되어 버리는 셈이다. 이론적으로는 한 성분이 반대 면을 쓰는 suprafacial–antarafacial(supra-antara) 배치면 대칭이 맞지만, 평범한 alkene이 그렇게 몸을 비틀어 접근하는 것은 기하적으로 거의 불가능하다. 슬라이드는 supra-supra, supra-antara, antara-antara 세 배치를 나란히 그리고, 이 중 supra-antara에 박스를 쳐 두었다.
 
 ketene은 바로 이 supra-antara를 해낼 수 있다. 삽화(p.7)를 보면 alkene의 HOMO(초록)가 ketene C=O의 LUMO( $\pi^{\ast}$ )와 결합하면서, 동시에 중앙 탄소의 직교하는 여분의 p 궤도와도 결합성 상호작용을 할 수 있다. 덕분에 새로 생기는 두 $\sigma$ 결합이 모두 결합성 겹침으로 만들어지고, ketene이 antarafacial 성분 역할을 하는 [ $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$ ] 경로가 열적으로 허용된다.[2] 요약 슬라이드가 "특수한 경우: 열적 [2+2] (suprafacial–antarafacial)"이라고 따로 적어 둔 것이 이 이야기다.
+
+![alkene HOMO가 ketene C=O의 LUMO 및 중앙 탄소의 직교 p orbital과 동시에 결합성으로 겹치는 모식도](../../figures/L15/ketene_supra_antara_fmo.svg)
+
+그림: 슬라이드 p.7 위쪽 삽화를 평면으로 단순화한 모식도다. 파란 lobe는 alkene HOMO( $\pi$ ), 빨간 가로 lobe는 ketene C=O $\pi^{\ast}$ (LUMO)의 탄소 쪽 lobe, 반투명한 빨간 세로 lobe는 중앙 탄소의 직교하는 여분의 p orbital이다. 채운 lobe가 + 위상, 빈 lobe가 − 위상이며, 초록 점선 두 개가 모두 같은 위상끼리의 결합성 겹침이다. 보충: ketene의 O는 보기 쉽게 비켜 그렸고 $CR_2$ 는 생략했으므로 실제 3D 배치가 아니라 "HOMO가 두 orbital에 동시에 결합성으로 닿는다"는 뜻만 담은 그림이다.
 
 보충: 교재는 이 그림을 겹침의 개수로 세어 설명한다. 먼저 한 alkene을 다른 alkene에 대해 90° 돌려 십자로 겹치면, HOMO의 두 lobe와 LUMO의 두 lobe가 만나는 네 모서리 가운데 두 곳은 결합성, 두 곳은 반결합성이라 알짜 이득이 없다. 여기에 ketene 중앙 탄소의 직교 p orbital(C=O $\pi$ 의 일부)을 더하면 alkene HOMO의 두 lobe가 모두 이 orbital과 결합성으로 겹쳐, 결합성 4곳 대 반결합성 2곳이 되어 반응이 가능해진다. alkene 두 개만으로는 이 여분의 orbital이 없다는 것이 일반 alkene과의 차이다. 게다가 ketene·isocyanate는 electrophilic하므로 LUMO가 낮아 alkene HOMO와 에너지도 잘 맞는다. (보충 근거: Clayden p.898–899) sigmatropic·electrocyclic reaction에서 같은 s/a 개념을 $\sigma$ 결합에 적용하는 방법은 → L16/L17 예습 노트에서 다룬다.
 
@@ -162,6 +170,10 @@ ring strain이 큰 4원 고리라서 보통의 amide보다 훨씬 쉽게 열린�
 1. NaHCO3/H2O로 S–Cl이 hydrolysis되어 N-SO3H가 된다.
 2. O–H 결합의 전자가 S=O 쪽으로 밀리고 N–S 결합이 끊어지면서 SO3가 떨어져 나가고, N은 양성자를 얻어 N-H lactam(4-(chloromethyl)-4-methylazetidin-2-one)이 된다.
 
+![CSI와 2-(chloromethyl)propene의 열적 [2+2]: N이 더 치환된 탄소에 붙는 regioselectivity](../../figures/L15/csi_beta_lactam_regio.svg)
+
+그림: 파란색은 alkene의 C=C(말단 $CH_2$ 가 nucleophilic), 빨간색은 CSI의 C=O로 그 carbonyl 탄소가 electrophilic 자리다. 위쪽 화살표는 alkene $\pi$ 전자가 carbonyl 탄소와 결합하는 것을, 아래쪽 화살표는 C=N의 $\pi$ 전자가 Me와 $CH_2Cl$ 을 가진 3차 탄소와 결합하는 것을 나타낸다. 초록 결합이 새로 생긴 C–C와 C–N이므로 N은 더 치환된 탄소 옆에 놓이고, 생성물은 N-SO₂Cl $\beta$-lactam이다.
+
 보충: 두 방법 모두 N에 치환기가 붙어 있는데, 그 이유는 서로 다르다. ketene + imine에서 N-aryl(4-methoxyphenyl)을 쓰는 것은 N-aryl imine이 N-H imine보다 안정해서 다루기 쉽기 때문이다. isocyanate + alkene에서 N-SO2Cl을 쓰는 것은 alkene이 그다지 친핵적이지 않으므로 isocyanate를 강한 electron-withdrawing group로 활성화해야 하고, 그 기를 반응 뒤 쉽게 떼어 낼 수 있어야 하기 때문이다. CSI는 시판되고 단순 alkene과도 반응한다. 다만 enol ether나 vinyl sulfide처럼 아주 electron-rich alkene과는 반응이 concerted이지 않고 자유 회전이 가능한 intermediate를 거치는 단계적 반응으로 바뀌어, alkene의 E/Z 혼합물에서도 trans 생성물만 나온다. 즉 이때는 stereospecific이 아니라 stereoselective이다. (보충 근거: Clayden p.900–901)
 
 ![phenoxyketene과 imine의 [2+2] cycloaddition으로 $\beta$-lactam이 생기는 과정](../../figures/L15/staudinger_beta_lactam.svg)
@@ -193,7 +205,19 @@ ring strain이 큰 4원 고리라서 보통의 amide보다 훨씬 쉽게 열린�
 
 nitrone을 예로 들어 보자. nitrone은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR–O⁻ 두 resonance contributor를 오간다. 원자 번호를 O(1), N(2), C(3)로 매기면, N(2)은 이미 4개의 결합을 가진 cation이라 nucleophile이 들어갈 자리가 없지만, C(3)는 두 번째 resonance contributor에서 양전하를 띠므로 nucleophile 공격을 받을 수 있다. 반대로 O(1)는 음전하를 가진 nucleophilic 말단이다.
 
+![nitrone의 두 공명 구조와 O(1), N(2), C(3) 번호: N(2)에는 nucleophile이 들어갈 자리가 없고 C(3)는 공격받을 수 있다](../../figures/L15/nitrone_resonance_numbering.svg)
+
+그림: 슬라이드의 번호 O(1), N(2), C(3)를 빨간 숫자로 적었다. 왼쪽 구조에서 주황 화살표는 C=N의 $\pi$ 전자가 N⁺로 돌아가는 공명 전자 이동이고, 그 결과 오른쪽 구조에서는 C(3)가 양전하를 띠어 nucleophile 공격을 받을 수 있다(초록 점선). N(2)은 어느 구조에서도 결합이 넷이라 공격 자리가 없고, 파란 O(1)는 음전하를 가진 nucleophilic 말단이다.
+
 슬라이드는 "각 화합물의 공액 $\pi$ 계 전자수를 세어 보라"고 묻는다. 답은 모두 4개다. 즉 1,3-dipole은 세 원자에 4개의 $\pi$ 전자가 퍼진, allyl anion과 등전자적인 계다.[5]
+
+![azide의 두 공명 구조: 말단 N이 electrophilic, NR 쪽 N⁻가 nucleophilic](../../figures/L15/azide_resonance.svg)
+
+그림: 슬라이드 표의 azide 줄이다. 주황 화살표는 가운데 N의 비공유 전자쌍이 N=N 사이로 들어가 N≡N⁺가 되는 공명 전자 이동이다. 빨간 글씨의 말단 N(왼쪽 구조에서 양전하)이 electrophilic 끝, 파란 N⁻가 nucleophilic 끝이며, 세 N 위에 $\pi$ 전자 4개가 퍼져 있다.
+
+![nitrile oxide의 두 공명 구조: C가 electrophilic, O⁻가 nucleophilic](../../figures/L15/nitrile_oxide_resonance.svg)
+
+그림: 슬라이드 표의 nitrile oxide 줄이다. 주황 화살표는 N의 비공유 전자쌍이 C=N 사이로 들어가 C≡N⁺가 되는 공명 전자 이동이다. 빨간 C⁺(왼쪽 구조)가 electrophilic 끝, 파란 O⁻가 nucleophilic 끝이며, C–N–O 위에 $\pi$ 전자 4개가 퍼져 있다. 15.6절의 regioselectivity(alkene 말단 탄소가 이 C와 결합)는 여기서 나온다.
 
 (출처: L15 p.13)
 
@@ -221,6 +245,10 @@ nitrone을 예로 들어 보자. nitrone은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR�
 
 그림: electron-rich alkene(파랑, HOMO)과 nitrone(빨간 C=N, LUMO)의 경우다. 세 화살표는 모두 같은 방향(시계 방향)으로 돈다. (1) nitrone O⁻의 비공유 전자쌍(파랑)이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene의 $\pi$ 전자가 말단 $CH_2$ 에서 nitrone의 electrophilic 탄소와 결합하며, (3) C=N의 $\pi$ 전자가 N⁺로 돌아가 N이 중성이 된다. 초록 결합이 새로 생긴 C–O와 C–C 결합이므로 R은 O 옆 탄소(C5)에 놓인다. electron-deficient alkene에서는 역할이 바뀌어 4-치환 생성물이 된다(본문 참고).
 
+![nitrone과 electron-deficient alkene의 1,3-dipolar cycloaddition으로 4-acyl isoxazolidine이 생기는 과정](../../figures/L15/nitrone_cycloaddition_ewg.svg)
+
+그림: electron-deficient alkene(빨강, LUMO)과 nitrone(파란 C=N과 O⁻, HOMO)의 경우로, 위 그림과 역할이 뒤바뀐다. 세 화살표는 같은 방향(시계 방향)으로 돈다. (1) nitrone O⁻의 비공유 전자쌍이 alkene의 electrophilic $\beta$-탄소(말단 $CH_2$ )와 결합하고, (2) alkene의 $\pi$ 전자가 $\alpha$-탄소에서 nitrone 탄소와 결합하며, (3) C=N의 $\pi$ 전자가 N⁺로 돌아간다. 초록 결합이 새로 생긴 C–O와 C–C 결합이므로 COR은 C4에 놓인다(4-acyl isoxazolidine).
+
 (출처: L15 p.15)
 
 ### 15.4 nitrone의 stereoselectivity와 amino alcohol 합성
@@ -230,6 +258,10 @@ nitrone을 예로 들어 보자. nitrone은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR�
 stereochemistry는 어떨까? 여기서 다루는 nitrone과 단순 alkene의 예에서는 steric hindrance가 작은 exo transition state가 선호된다. Diels–Alder의 endo 경향을 이 예에 그대로 적용하지 않는다. 이는 모든 nitrone cycloaddition에서 endo 경로가 없거나, exo 생성물이 항상 thermodynamically 더 안정하다는 일반 규칙은 아니다. 기질의 치환기와 transition state의 interaction을 각각 확인한다. (보충 근거: Clayden p.902)
 
 고리형 nitrone(1-pyrroline N-oxide)과 R-CH=CH2를 반응시키면 R이 O 옆 탄소에 exo로 놓인 bicyclic isoxazolidine이 생긴다. 이것을 Zn/HOAc로 처리하면 약한 N–O 결합이 환원적으로 끊어져, 2-치환 pyrrolidine에 CH2-CH(OH)R가 붙은 1,3-amino alcohol이 된다. 분자 내 버전도 가능하다. 2-allyl-1-pyrroline N-oxide는 분자 내 1,3-dipolar cycloaddition으로 bridged tricyclic isoxazolidine을 만들고, Zn/HOAc로 N–H와 OH를 가진 bicyclic amino alcohol이 된다. 즉 nitrone cycloaddition은 "1,3-amino alcohol을 stereoselective하게 만드는 도구"로 쓰인다. 보충: 1,3-dipolar cycloaddition의 가치는 heterocycle 그 자체보다 그다음 변환에 있다. cycloaddition에서 만든 C–C와 C–O 결합은 남기고, 원래 dipole에 있던 약한 N–O 결합만 LiAlH4, Zn/HOAc, H2/Ni 같은 환원제로 끊으면 나머지 골격과 stereochemistry는 그대로 NH와 OH가 1,3 관계로 드러난다. (보충 근거: Clayden p.902)
+
+![고리형 nitrone(1-pyrroline N-oxide)과 R-CH=CH2의 exo 1,3-dipolar cycloaddition으로 bicyclic isoxazolidine이 생기는 과정](../../figures/L15/cyclic_nitrone_exo_adduct.svg)
+
+그림: 빨간 C=N⁺(LUMO 쪽)을 가진 고리형 nitrone과 파란 C=C(HOMO)의 alkene이다. 세 화살표는 같은 방향(시계 방향)으로 돈다. (1) O⁻의 비공유 전자쌍이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene $\pi$ 전자가 말단 $CH_2$ 에서 nitrone 탄소와 결합하며, (3) C=N의 $\pi$ 전자가 N⁺로 돌아간다. 초록 결합이 새로 생긴 C–O와 C–C다. steric hindrance가 작은 exo transition state를 거치므로 R은 고리 반대쪽에 놓이고, 슬라이드처럼 고리 접합 H와 R을 둘 다 쐐기로 그렸다. 이어지는 Zn/HOAc 환원은 앞의 nitrone_no_reduction 그림 참고.
 
 nitrone은 aldehyde $\mathrm{RCHO}$ 와 N-substituted hydroxylamine $\mathrm{RNHOH}$ 의 condensation으로 만든다. imine 형성과 마찬가지로 물이 빠지면서 $\mathrm{R{-}CH{=}N^+(R){-}OH}$ 가 생기고, O에서 proton이 빠지면 nitrone $\mathrm{R{-}CH{=}N^+(R){-}O^-}$ 이 된다(→ [imine 형성](../../wiki/개념/이민.md) 참고).
 
@@ -283,6 +315,10 @@ nitrile oxide도 반응계 안에서 만든다.[7] acetaldehyde를 예로 들면
 
 이렇게 만든 isoxazoline은 그 자체보다 "다른 것으로 바뀌는 능력"이 더 쓸모 있다. LiAlH4로 환원하면 C=N이 환원되고 N–O가 끊어져 1,3-amino alcohol R-CH(NH2)-CH2-CH(OH)-R가 된다. 한편 H2/Ni와 물로 처리하면 N–O 결합이 수소화 분해되어 $\beta$ -hydroxy imine이 되고, 이것이 물에 hydrolysis되어 $\beta$ -hydroxy ketone, 즉 aldol 생성물이 된다. 여기서 놀라운 점은 입체정보의 전달이다. cis-isoxazoline은 syn-aldol을, trans-isoxazoline은 anti-aldol을 준다. 즉 alkene의 Z/E 기하가 고리의 cis/trans를 거쳐 aldol의 syn/anti로 이어진다(→ [L8](L08_Aldol_Reactions.md) aldol reaction 문서 참고).
 
+![cis-isoxazoline을 H2/Ni, H2O로 처리하면 syn-aldol(β-hydroxy ketone)이 되는 반응식](../../figures/L15/isoxazoline_to_aldol.svg)
+
+그림: 슬라이드 p.20 가운데 줄이다. 왼쪽 cis-isoxazoline에서 빨간 N–O 결합이 수소화 분해로 끊어지고 C=N이 hydrolysis되어, 오른쪽 zigzag로 다시 그린 $\beta$-hydroxy ketone(초록 C=O)이 된다. 고리에서 같은 쪽(둘 다 쐐기)이던 두 R의 관계가 사슬에서는 $\alpha$-R과 $\beta$-OH가 둘 다 쐐기인 syn-aldol로 나타난다. 중간체인 $\beta$-hydroxy imine과 입체 중심의 H는 생략했다.
+
 (출처: L15 p.20)
 
 ## 16. ozone 분해 (Ozonolysis)
@@ -335,6 +371,10 @@ ozone은 C=C를 완전히 끊어 carbonyl 화합물로 만든다. 그런데 같�
 
 그림: 3단계. 180° 돌아 반대 방향으로 정렬한 aldehyde(빨간 C=O)와 carbonyl oxide(파란 O⁻)의 1,3-dipolar cycloaddition이다. 세 화살표는 같은 방향(반시계 방향)으로 돈다. (1) O⁻의 전자쌍이 aldehyde의 electrophilic carbonyl 탄소와 결합하고, (2) aldehyde C=O의 $\pi$ 전자가 carbonyl oxide의 탄소와 결합하며, (3) C=O⁺의 $\pi$ 전자가 O⁺로 돌아가 중성이 된다. 초록 결합이 새로 생긴 두 C–O 결합이고, 결과는 O–O 결합이 하나뿐인 1,2,4-trioxolane(2차 ozonide)이다.
 
+![1,2,4-trioxolane(ozonide)을 Me2S로 환원해 aldehyde 두 분자와 DMSO가 되는 과정](../../figures/L15/ozonolysis_me2s.svg)
+
+그림: 4단계(후처리). 파란 S의 비공유 전자쌍이 빨간 O–O 결합의 산소 하나를 공격하고, O–O 결합 전자는 오른쪽 C=O를 만들며, 고리 아래 O의 C–O 결합 전자가 밀려 왼쪽 C=O를 만들고, 공격받은 O의 C–O 결합 전자는 그 O에 남아 S⁺–O⁻가 된다. 네 화살표가 고리를 따라 한 바퀴 돌며, 초록 C=O 두 개가 생성물 aldehyde이고 $Me_2S$ 는 DMSO($Me_2S^{+}{-}O^{-}$)로 산화된다.
+
 (출처: L15 p.23)
 
 ### 16.4 과산화물은 양날의 검
@@ -365,6 +405,10 @@ Diels–Alder를 빠르게 하려면 diene을 electron-rich하게 만들면 된�
 2. H⁺로 처리하면 silyl enol ether가 ketone으로 hydrolysis되고, ketone의 $\beta$-위치에 있는 OMe가 $\beta$ -elimination되어 cyclohexenone이 된다.
 
 C1의 OMe와 C3의 OSiR3가 같은 방향으로 regioselectivity를 밀어주므로 선택성도 높다.[11]
+
+![Danishefsky diene의 Diels–Alder 부가물을 H⁺로 처리해 cyclohexenone이 되는 과정](../../figures/L15/danishefsky_to_enone.svg)
+
+그림: 슬라이드 p.26 아래 박스의 둘째 단계다. 파란 silyl enol ether 산소의 비공유 전자쌍이 C=O를 만들면서(주황 화살표), 파란 C=C의 $\pi$ 전자가 옆 C–C로 옮겨 새 C=C를 만들고, 빨간 C–OMe 결합이 끊어져 OMe가 떨어져 나간다. 초록색이 생성물 cyclohexenone의 C=O와 C=C다. 보충: 슬라이드는 H⁺만 적었는데, 실제로는 산 수용액에서 Si–O가 끊어져 ketone이 된 뒤 $\beta$-OMe가 MeOH로 제거되는 두 단계이며, 그림은 이를 한 번에 그린 것이다.
 
 (출처: L15 p.26)
 

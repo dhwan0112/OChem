@@ -1,0 +1,48 @@
+{
+ "title": "연습 문제 1 풀이: enone + R2CuLi(이어 H3O+) → 목표 ketone (L11 p.8)",
+ "scheme": {
+  "width_pt": 520,
+  "reactions": [
+   {
+    "reactants": [
+     "C=CC(C)=O"
+    ],
+    "products": [
+     "CCCCCC(C)=O"
+    ],
+    "conditions": "",
+    "title": "(a)  1. Pr₂CuLi, Et₂O   2. H₃O⁺"
+   },
+   {
+    "reactants": [
+     "O=C1C=C(C)CCC1"
+    ],
+    "products": [
+     "O=C1CC(C)(C)CCC1"
+    ],
+    "conditions": "",
+    "title": "(b)  1. Me₂CuLi, Et₂O   2. H₃O⁺"
+   },
+   {
+    "reactants": [
+     "O=C1C=CC(C(C)(C)C)CC1"
+    ],
+    "products": [
+     "O=C1CC(CC)C(C(C)(C)C)CC1"
+    ],
+    "conditions": "",
+    "title": "(c)  1. Et₂CuLi, Et₂O   2. H₃O⁺"
+   },
+   {
+    "reactants": [
+     "O=C1CCC2CCCCC2=C1"
+    ],
+    "products": [
+     "C=CC12CCCCC1CCC(=O)C2"
+    ],
+    "conditions": "",
+    "title": "(d)  1. (CH₂=CH)₂CuLi, Et₂O   2. H₃O⁺"
+   }
+  ]
+ }
+}

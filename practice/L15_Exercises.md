@@ -33,6 +33,10 @@
 3. 정답: ketene은 누적 이중결합으로 C=C  $\pi$ 와 C=O  $\pi$ 가 서로 직교. alkene HOMO가 ketene C=O LUMO와 결합하면서 중앙 탄소의 직교 p 궤도와도 결합할 수 있어, ketene이 antarafacial 성분인 supra-antara [ $\pi2\mathrm{s}$  +  $\pi2\mathrm{a}$ ] 경로가 열적으로 허용된다. 일반 alkene의 supra-supra [2+2]는 4전자(4n)라 열적으로 금지이고, supra-antara는 기하적으로 불가능하다. 생성물은 2,2,3,4-tetramethylcyclobutanone으로, 3,4-dimethyl이 cis(alkene 기하 보존).
    (출처: L15 p.6–7, p.32)
 
+   ![dimethylketene + cis-2-butene의 열적 [2+2]: 두 Me가 cis로 보존된 cyclobutanone](../figures/L15/ketene_22_cis_butene.svg)
+
+   그림: 통독본 14.1절 그림이다. 파란 C=C가 alkene(HOMO), 빨간 C=O의 carbonyl 탄소가 electrophilic 자리이고, 초록 결합이 새 $\sigma$ 결합이다. 같은 쪽이던 두 Me가 생성물에서도 둘 다 쐐기(cis)다. 허용되는 이유(alkene HOMO가 C=O LUMO와 중앙 탄소의 직교 p orbital에 동시에 결합성으로 겹침)는 통독본 14.2절의 모식도(ketene_supra_antara_fmo.svg)를 본다.
+
 4. 정답: (a) dichloroketene Cl2C=C=O. Et3N이  $\alpha$ -H를 떼어 enolate를 만들고, enolate가 acyl Cl⁻을 내보내 ketene 생성. (b) 7,7-dichlorobicyclo[3.2.0]hept-2-en-6-one(cis 융합). electrophilic ketene carbonyl 탄소에 cyclopentadiene의 말단 탄소가 결합하고, CCl2 탄소가 그 이웃(남은 C=C에 allyl) 탄소와 결합한다. 이 계에서는 [2+2]가 [4+2]보다 빠르다.
    (출처: L15 p.8)
 
@@ -45,11 +49,27 @@ $$
 
 . NaHCO3/H2O로 S–Cl hydrolysis → N-SO3H → SO3 이탈 → N-H. (출처: L15 p.12)
 
+   ![CSI + 2-(chloromethyl)propene의 [2+2]: N이 더 치환된 탄소에 붙는다](../figures/L15/csi_beta_lactam_regio.svg)
+
+   그림: 1단계의 regioselectivity다. 파란 말단 $CH_2$ 가 빨간 C=O의 carbonyl 탄소와 결합하고(위 화살표), C=N의 $\pi$ 전자가 Me와 $CH_2Cl$ 을 가진 3차 탄소와 결합해(아래 화살표) N이 4차 탄소 옆에 놓인다. 초록 결합이 새 C–C와 C–N이다.
+
 6. 정답: (a) 5-부틸-2-methylisoxazolidine (부틸이 O 옆 C5). alkene(HOMO)이 nitrone(LUMO)과 상호작용; alkene 말단 CH2가 electrophilic nitrone 탄소와 결합. (b) 4-acetyl-2-methylisoxazolidine (acetyl이 C4). nitrone(HOMO)의 O⁻가 electrophilic  $\beta$ -탄소(CH2)와 결합; alkene은 LUMO 사용.
    해설: nitrone은 nucleophilic·electrophilicity를 겸하므로 상대에 따라 역할이 바뀐다(슬라이드 규칙). (출처: L15 p.15)
+
+   ![nitrone + electron-deficient alkene: O⁻가 β-탄소에 붙어 4-acyl isoxazolidine](../figures/L15/nitrone_cycloaddition_ewg.svg)
+
+   그림: (b)의 경우다. 파란 nitrone(HOMO)의 O⁻가 빨간 alkene(LUMO)의 $\beta$-탄소(말단 $CH_2$ )와, nitrone 탄소가 $\alpha$-탄소와 결합해 초록 결합이 생기고 acyl기는 C4에 놓인다. (a)의 electron-rich alkene 경우는 통독본 15.3절의 nitrone_cycloaddition.svg(치환기가 C5)와 비교한다.
 
 7. 정답: (a) 3-R'-4,5-cis-다이R-isoxazoline. (b) 3-R'-4,5-trans-다이R-isoxazoline. (c) 3-R'-5-R isoxazole(aromatic, R이 O 옆 C5). (a)를 H2/Ni, H2O로 처리하면 N–O 수소화 분해 →  $\beta$ -hydroxy imine → hydrolysis → R'-CO-CH(R)-CH(OH)-R, syn-aldol 생성물.
    해설: concerted supra-supra [3+2]이므로 alkene 기하가 stereospecificity, cis 고리 관계가 syn aldol로 전달된다. trans였다면 anti aldol. (출처: L15 p.18–20)
 
+   ![cis-isoxazoline → H2/Ni, H2O → syn-aldol](../figures/L15/isoxazoline_to_aldol.svg)
+
+   그림: (a) 생성물의 후속 반응이다. 빨간 N–O가 끊어지고 C=N이 hydrolysis되어 초록 C=O를 가진 $\beta$-hydroxy ketone이 되며, 고리에서 cis(둘 다 쐐기)이던 두 R의 관계가 zigzag에서 $\alpha$-R과 $\beta$-OH가 둘 다 쐐기인 syn-aldol로 나타난다.
+
 8. 정답: cis-cyclopentane-1,3-dicarbaldehyde(두 CHO가 같은 면). intermediate: O3 + alkene 1,3-dipolar cycloaddition → 1차 ozonide(1,2,3-trioxolane) → 역 1,3-dipolar cycloaddition으로 carbonyl + carbonyl oxide(1,3-dipole) → 재배향 후 1,3-dipolar cycloaddition → 1,2,4-trioxolane(2차 ozonide) → Me2S reduction → dialdehyde + DMSO. H2O2 후처리 시 cis-cyclopentane-1,3-dicarboxylic acid.
    해설: 노보넨의 C=C가 끊어지며 두 탄소가 모두 CHO가 되고, 남은 고리 골격(다리 CH2 포함)이 5원 고리가 된다. 원래 C=C 탄소들이 exo/endo 같은 면 관계를 유지하므로 cis. 노보넨처럼 같은 분자 안에서 두 carbonyl이 생기면 trioxolane도 분자 내에서 형성되지만 최종 결과는 같다. (출처: L15 p.21, 23)
+
+   ![1,2,4-trioxolane의 Me2S 환원: 2 RCHO + DMSO](../figures/L15/ozonolysis_me2s.svg)
+
+   그림: 마지막 단계(Me2S 후처리)의 일반 모형이다. 파란 S의 전자쌍이 빨간 O–O의 산소를 공격하고, 네 화살표가 고리를 따라 돌면서 초록 C=O 두 개(aldehyde)와 DMSO가 생긴다. norbornene에서는 두 aldehyde가 같은 분자(cis-cyclopentane-1,3-dicarbaldehyde)에 남는다. 앞 단계들은 통독본 16.3절 그림을 본다.

@@ -30,6 +30,18 @@ $$
 - (B): Wieland–Miescher ketone 골격. 8a-methyl-3,4,8,8a-tetrahydronaphthalene-1,6(2H,7H)-dione, 즉 각 methyl(angular methyl)과 포화 ketone(C1)을 가진 고리 + 고리 접합부 C=C와 짝을 이룬 enone(C6=O)을 가진 고리.
 - 메커니즘(손글씨): 염기가 C2-H를 떼어 enolate 형성 → MVK에 Michael addition → (A). piperidine이 측쇄 methyl ketone과 enamine(말단 C=CH2-N) 형성 → enamine이 고리 ketone 하나를 분자 내 공격 → OH와 iminium을 가진 bicyclic intermediate → 탈수 및 piperidine 재생으로 (B). 또는 (A)에서 EtONa로 직접 (B).
 
+![2-methylcyclohexane-1,3-dione의 C2 carbanion이 MVK의 β-탄소를 공격해 (A)가 되는 Michael addition](../figures/L12/prac_q1_michael.svg)
+
+그림: 공식 풀이 1단계. 염기(10% NaOH)가 떼어 낸 C2 carbanion(파랑, 전자쌍)이 MVK의 β-탄소(빨강)를 공격하고(주황 화살표), C=C의 π 전자는 C–C(=O) 쪽으로, C=O의 π 전자는 O로 밀려 enolate가 된다. 물에서 양성자를 받으면 1,5-dicarbonyl (A)가 된다(초록이 새 C–C 결합). (출처: L12_Practice_solutions p.1)
+
+![(A)의 piperidine enamine이 고리 ketone을 분자 내 공격해 bicyclic hydroxy iminium이 되는 단계](../figures/L12/prac_q1_enamine_cyclization.svg)
+
+그림: 공식 풀이 2단계. (A)의 측쇄 methyl ketone이 piperidine과 enamine(파랑)이 된 뒤, enamine의 말단 CH2가 고리 ketone 탄소(빨강)를 분자 내 공격한다. N의 전자쌍은 C=N⁺을 만들고 C=O의 π 전자는 O로 간다. 새 6원 고리가 닫힌(초록) bicyclic hydroxy iminium이 생긴다. 보충: 공식 손글씨는 O⁻ 단계를 생략하고 바로 OH로 적었으므로 그림도 양성자 이동 뒤의 구조로 그렸다. (출처: L12_Practice_solutions p.1)
+
+![bicyclic hydroxy iminium이 탈수와 iminium 가수분해로 Wieland–Miescher ketone (B)와 piperidine이 되는 단계](../figures/L12/prac_q1_dehydration.svg)
+
+그림: 공식 풀이 마지막 단계. OH(빨강)와 이웃한 C–H(빨강)가 물로 떨어져 나가며 C=C(초록)가 생기고, iminium이 가수분해되어 ketone으로 돌아가면서 piperidine이 재생된다. 생성물 (B)가 Wieland–Miescher ketone이다(각 methyl, 포화 ketone, 고리 접합부 C=C와 짝을 이룬 enone). 공식 손글씨처럼 탈수와 가수분해를 화살표 하나로 묶었다. (출처: L12_Practice_solutions p.1)
+
 (출처: L12_Practice_solutions p.1)
 
 ### 해설
@@ -63,6 +75,14 @@ Robinson cyclization = Michael addition(1,5-dicarbonyl 생성) + intramolecular 
 - (A): 3-methylcycloheptanone의 enolate, 즉 C1(-O⁻)=C2 이중결합을 가지고 C3에 methyl이 있는 금속 enolate.
 - (A)의 C2가 aldehyde carbonyl을 공격.
 - (B): 2-(1-hydroxy-3-phenylpropyl)-3-methylcycloheptan-1-one (C2에 CH(OH)-CH2CH2-Ph, C3에 CH3).
+
+![MeLi/CuCl에서 생긴 유기구리 종이 cyclohept-2-en-1-one의 β-탄소에 1,4-첨가해 enolate (A)가 되는 단계](../figures/L12/prac_q2_cuprate.svg)
+
+그림: 공식 풀이 1단계. MeLi와 촉매량 CuCl에서 생긴 유기구리 종('MeCu', 파랑)의 C–Cu 결합 전자가 enone의 β-탄소 C3(빨강)로 가고(1,4-첨가), C2=C3 π 전자는 C1–C2로, C1=O π 전자는 O로 밀려 lithium enolate (A)(초록이 C1=C2)가 된다. 물이나 산으로 퀜칭하지 않으므로 enolate가 그대로 남는다. (출처: L12_Practice_solutions p.2)
+
+![enolate (A)가 3-phenylpropanal에 aldol addition하고 NH4Cl 퀜칭으로 β-hydroxy ketone (B)가 되는 단계](../figures/L12/prac_q2_aldol.svg)
+
+그림: 공식 풀이 2단계. enolate (A)의 C1=C2 π 전자가 3-phenylpropanal의 carbonyl 탄소(빨강)를 공격하고 C=O 전자는 O로 가서 alkoxide가 된다(aldol addition). NH4Cl로 퀜칭하면 β-hydroxy ketone (B)(초록이 새 C–C 결합)가 된다. (출처: L12_Practice_solutions p.2)
 
 (출처: L12_Practice_solutions p.2)
 
@@ -108,6 +128,18 @@ $$
 3.  $\mathrm{Boc{-}Phe{-}OH} + \mathrm{H{-}Ala{-}OMe} \xrightarrow{\mathrm{DCC}} \mathrm{Boc{-}Phe{-}Ala{-}OMe}$
 4.  $\xrightarrow{\mathrm{TFA}} \mathrm{H_2N{-}Phe{-}Ala{-}OMe}$  (Boc 제거)
 5.  $\xrightarrow{\mathrm{NaOH},\ \text{물}} \text{L-phenylalanyl-L-alanine}$  (methyl ester hydrolysis)
+
+![L-phenylalanine을 Boc2O로 Boc-Phe-OH로, L-alanine을 H⁺/MeOH로 H-Ala-OMe로 보호하는 단계](../figures/L12/prac_q3_protection.svg)
+
+그림: 공식 풀이 1·2단계. L-phenylalanine의 NH2(파랑)를 Boc2O로 carbamate(초록 NH)로 막고, L-alanine의 CO2H(빨강)를 MeOH/H⁺로 methyl ester(초록)로 막는다. 쐐기는 두 α-탄소의 L 배열이다. (출처: L12_Practice_solutions p.3)
+
+![Boc-Phe-OH와 H-Ala-OMe를 DCC로 이어 Boc-Phe-Ala-OMe를 만드는 단계](../figures/L12/prac_q3_coupling.svg)
+
+그림: 공식 풀이 3단계. 남은 두 작용기, Boc-Phe-OH의 CO2H(빨강)와 H-Ala-OMe의 NH2(파랑)만 DCC로 이어져 amide 결합(초록)이 생긴다. 부산물은 DCU이다. (출처: L12_Practice_solutions p.3)
+
+![Boc-Phe-Ala-OMe를 TFA로 N-deprotection하고 NaOH 수용액으로 methyl ester를 가수분해해 Phe-Ala를 얻는 단계](../figures/L12/prac_q3_deprotection.svg)
+
+그림: 공식 풀이 4·5단계. TFA로 Boc(빨강)만 벗겨 유리 amine(초록)을 얻고, NaOH 수용액으로 methyl ester(빨강)를 가수분해해 carboxylic acid(초록)를 얻으면 L-phenylalanyl-L-alanine이다. 가운데 amide 결합은 두 조건을 모두 견딘다. (출처: L12_Practice_solutions p.3)
 
 (출처: L12_Practice_solutions p.3)
 

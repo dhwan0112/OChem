@@ -177,6 +177,10 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 그림: 슬라이드 Step 1·2의 상상 반응이다. 왼쪽: OMe 산소의 비공유 전자쌍이 C–O 결합 쪽으로 밀려 들어가고(작은 화살표), C1=C2 $\pi$ 결합(파랑)이 E⁺를 공격한다. 그래서 OMe 옆 말단 C1이 nucleophilic 위치다. 오른쪽: Nu⁻가 acrylonitrile의 $\beta$-탄소를 공격하면 C=C $\pi$ 전자(빨강)는 C–CN 쪽으로, C≡N $\pi$ 전자는 질소로 밀려난다(Michael형). 그래서 $\beta$-탄소가 electrophilic 위치다. 실제 DA 반응에서는 이 두 탄소가 결합해 OMe와 CN이 1,4 관계인 "pseudo para" 생성물이 된다. 이온 intermediate가 실제로 생긴다는 뜻이 아니라, 어느 말단끼리 결합할지 정하는 사고 실험이다.
 
+![슬라이드 Step 3: 2-methoxybutadiene의 nucleophilic C1과 acrylonitrile의 electrophilic β-탄소가 결합해 pseudo para 생성물이 된다](../../figures/L14/regio_para_step3.svg)
+
+그림: 슬라이드 Step 3이다. 파란색은 2-methoxybutadiene의 $\pi$ 결합(HOMO 쪽), 빨간색은 acrylonitrile의 C=C(LUMO 쪽), 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 주황색 화살표 셋은 모두 같은 방향으로 돈다. OMe 옆 말단 C1(nucleophilic end, 파란 설명)이 CN의 $\beta$-탄소(electrophilic end, 빨간 설명)와 결합하고, 나머지 diene 말단은 CN이 붙은 $\alpha$-탄소와 결합한다. 그 결과 OMe와 CN이 1,4 관계인 4-methoxycyclohex-3-ene-1-carbonitrile("pseudo para")이 된다. 수소는 모두 그렸다.
+
 (출처: L14 p.12)
 
 ### 5.2 C1-치환 diene → "pseudo ortho"
@@ -206,6 +210,10 @@ C1에 주개가 있으면 어떻게 될까? 슬라이드의 예는 4-methylpenta
 "meta"(1,3) 생성물은 *부생성물*일 뿐이다. 그래서 "ortho/para 규칙"이라는 이름이 붙었다[3].
 
 보충: 교재의 기억법은 "DA는 aromatic transition state를 거치는, ortho·para 지향성 cycloaddition"다. 여기서 "aromaticity"은 고리 모양 TS에 전자 6개가 있다는 뜻일 뿐이다. 단, 분자 내 DA에서 diene과 dienophile을 잇는 사슬이 아주 짧으면(탄소 3개 정도) 다른 배향을 취할 수 없어서 "meta" 생성물이 그대로 나오기도 한다. 규칙은 분자 간 반응에 대한 것이다. (보충 근거: Clayden p.891)
+
+![ortho/para 규칙: C1-X diene + Z-dienophile → pseudo ortho(1,2), C2-X diene + Z-dienophile → pseudo para(1,4)](../../figures/L14/regio_xz_rule.svg)
+
+그림: 슬라이드의 일반화 도식이다. 위 줄은 C1-치환 diene, 아래 줄은 C2-치환 diene이고, X(파랑)는 전자 주개, Z(빨강)는 electron-withdrawing group이다. 파란색은 diene의 $\pi$ 결합, 빨간색은 dienophile C=C, 초록색은 생성물에서 새로 생긴 결합과 새 C=C이며, 주황색 화살표 셋은 한 방향으로 돈다. 두 경우 모두 X에서 "먼" 쪽 말단(C1-X diene에서는 C4, C2-X diene에서는 C1)이 Z의 $\beta$-탄소와 결합하므로, X와 Z는 각각 1,2("pseudo ortho")와 1,4("pseudo para") 관계가 된다. 아래 두 줄은 슬라이드의 X·Z 예 목록이다(Z 목록에서 CO2H, 할로젠, alkenyl, aryl은 지면 관계로 생략했다).
 
 (출처: L14 p.14)
 
@@ -284,6 +292,10 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 
 그림: $SnCl_4$ 가 carbonyl 산소에 배위해 $O^+\text{–}SnCl_4^-$ 가 되면(빨간 O) dienophile의 LUMO가 낮아지고 $\beta$-탄소( $CH_2$ )가 더 강하게 $\delta^{+}$ 가 된다. 파란색은 isoprene의 $\pi$ 결합, 빨간색은 dienophile C=C, 초록색은 새로 생긴 결합이다. 세 화살표는 모두 반시계 방향으로 돈다. methyl이 붙은 탄소 옆 $CH_2$ 말단(아래)이 dienophile의 $\beta$ - $CH_2$ 와 결합하므로, methyl과 acetyl이 1,4 관계인 "para" 생성물이 된다. 생성물은 $SnCl_4$ 가 떨어진 ketone으로 그렸다. 보충: 슬라이드는 굽은 화살표를 촉매 없는 반응물에 그리고 $SnCl_4$ 착물을 옆에 따로 그렸는데, 그림은 두 가지를 합쳐 착물에 화살표를 그렸다.
 
+![SnCl4가 methyl vinyl ketone의 carbonyl 산소에 배위해 O⁺–SnCl4⁻ 착물이 되고, 공명으로 β-탄소에 양전하가 놓인다](../../figures/L14/lewis_acid_complex.svg)
+
+그림: 슬라이드 오른쪽 끝의 $O^+\text{–}SnCl_4^-$ 착물을 단계로 풀었다. 왼쪽: carbonyl 산소의 비공유 전자쌍(점 두 개)이 Lewis acid $SnCl_4$ 로 가는 주황색 화살표. 가운데: 산소가 양전하를 띤 착물이다. 빨간색은 dienophile의 C=C와 O⁺이며, 주황색 화살표 두 개는 C=C의 $\pi$ 전자가 C–C 쪽으로, C=O의 $\pi$ 전자가 산소로 옮겨 가는 공명을 나타낸다. 오른쪽: 그 결과 $\beta$-탄소( $CH_2$ 말단)에 양전하가 놓인 공명 기여체다. 설명 줄처럼 더 강한 electron-withdrawing group이 되어 LUMO가 낮아지고(반응성), $\beta$-탄소의 계수가 커진다(regioselectivity). 보충: 슬라이드는 착물 구조와 "more powerfully electron-withdrawing"이라는 말만 적었고, 공명 기여체와 화살표는 강의 설명(polarization of $\pi$ bond)을 그림으로 옮긴 것이다.
+
 (출처: L14 p.20)
 
 ---
@@ -297,6 +309,10 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 슬라이드는 suprafacial–suprafacial 조건에서의 규칙을 이렇게 다시 쓴다. *한 성분이 (4q+2)s이고 다른 성분이 (4r)s이면 허용된다.* $6\pi$ 는 4×1+2이고 $4\pi$ 는 4×1이므로 조건에 맞는다. 즉 **[6+4]는 열적으로 허용된다.** 슬라이드는 이것을 더 간단하게 요약한다. **suprafacial–suprafacial 열적 cycloaddition은 관여하는 전자의 총수가 4n+2일 때 허용된다.** [4+2]는 6개, [6+4]는 10개로 둘 다 4n+2이고, [4+4]와 [2+2]는 각각 8개와 4개로 4n이다.
 
 **예 1 – tropone + cyclopentadiene.** tropone(cyclohepta-2,4,6-trienone)의 triene $6\pi$ 부분이 cyclopentadiene의 diene $4\pi$ 부분과 [6+4]로 반응한다. 그 결과 CH2 다리와 C=O 다리를 가진 다리걸친 bicyclic 생성물이 생긴다. 슬라이드는 이 생성물의 stereochemistry를 "endo"로 표시해 두었다[5].
+
+![tropone(6π)과 cyclopentadiene(4π)의 \[6+4\] cycloaddition: 화살표 다섯 개가 한 방향으로 돌아 다리걸친 생성물이 된다](../../figures/L14/tropone_cp_64.svg)
+
+그림: 파란색은 tropone의 triene $\pi$ 결합 세 개( $6\pi$ 성분), 빨간색은 cyclopentadiene의 diene $\pi$ 결합 두 개( $4\pi$ 성분)이다. 주황색 화살표 다섯 개(전자 10개, 4n+2)가 모두 같은 방향으로 돌아 tropone의 두 말단 탄소와 cyclopentadiene의 C1·C4 사이에 새 $\sigma$ 결합 두 개가 생긴다. 초록색은 생성물에서 새로 생기거나 자리를 옮긴 결합이다. 생성물은 C=O를 가진 7원환과 $CH_2$ 다리를 가진 bicyclic 골격이 융합된 평면 도식이며, 슬라이드가 "endo"로 표시한 입체배치(각주 5)는 평면 그림에서 나타내지 않았다. 슬라이드처럼 수소는 생략했다.
 
 **예 2 – fulvene + 1-diethylaminodiene → azulene 골격.** 6,6-dimethylfulvene(6,6-dimethylfulvene)은 resonance contributor로 쓰면 고리 쪽이 "aromatic" cyclopentadienyl anion이 되고, 고리 밖 CMe2는 양전하를 띤다. 따라서 고리 밖 탄소가 electrophilic 말단이다. 한편 1-(diethylamino)buta-1,3-diene은 X형 C1-치환 diene이므로 NEt2에서 먼 말단(C4)이 nucleophilic하다. 그래서 반응이 **regioselective이다**. CMe2는 diene의 C4와 결합하고, NEt2가 붙은 C1은 fulvene 고리 탄소와 결합한다. 생성된 [6+4] 부가물(5–7 융합 고리)에서 HNEt2가 제거되면(−HNEt2) conjugation이 확장된 dimethyl azulene형(bicyclo[5.3.0]) 골격이 얻어진다.
 
@@ -348,6 +364,10 @@ ethylene과 maleic anhydride을 가열하면 [2+2] 반응이 일어나지 않는
 
 **FMO 관점.** alkene HOMO( $\pi$ )의 두 lobe는 위상이 같고, anhydride LUMO( $\pi^{\ast}$ )의 두 lobe는 위상이 반대다. suprafacial–suprafacial로 겹치면 한쪽 끝은 결합성이지만 다른 쪽 끝은 **반결합성이** 된다. 즉 HOMO/LUMO 상호작용의 위상이 맞지 않으므로 금지다.
 
+![열적 \[2+2\]: alkene HOMO(π)와 anhydride LUMO(π*)를 포개면 한쪽 끝은 결합성, 다른 쪽 끝은 반결합성이다](../../figures/L14/thermal22_lobes.svg)
+
+그림: 슬라이드 왼쪽의 orbital 그림이다. 위는 alkene HOMO( $\pi$ , 파랑)로 두 lobe의 위상이 같고, 아래는 maleic anhydride의 LUMO( $\pi^{\ast}$ , 빨강)로 두 lobe의 위상이 반대다. 채운 lobe가 + 위상, 빈 lobe가 − 위상이다. suprafacial–suprafacial로 포개면 오른쪽 끝(초록 점선)은 위상이 맞아 결합성이지만 왼쪽 끝(빨간 점선, ×)은 위상이 어긋나 반결합성이다. 그래서 열적 [2+2]는 금지다. anhydride의 나머지 고리는 생략했다.
+
 **Woodward–Hoffmann 관점.** $\pi2\mathrm{s}$ + $\pi2\mathrm{s}$ 에서 (4q+2)s 성분은 2개, (4r)a 성분은 0개다. 합이 2(짝수)이므로 **열적 금지** 다. $\pi2\mathrm{s}$ + $\pi2\mathrm{a}$ 라면 합이 1이 되어 형식상 허용이다. 하지만 짧은 alkene이 비틀려 antarafacial로 결합하기는 기하학적으로 매우 어렵다. 이것이 바로 "허용 ≠ 실제로 일어남"의 예다.
 
 ![ethylene과 maleic anhydride의 광화학 [2+2] cycloaddition](../../figures/L14/photo22_anhydride.svg)
@@ -365,6 +385,10 @@ UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{\ast}$ 로 올라
 
 이렇게 두 상호작용 모두 알짜 결합성이 되므로 **광화학 [2+2]는 suprafacial–suprafacial로 허용된다** [6].
 
+![광화학 \[2+2\]: 들뜬 alkene과 바닥 상태 alkene의 LUMO/LUMO 겹침과 HOMO/HOMO 겹침은 양 끝 모두 결합성이다](../../figures/L14/photo22_lumo_lumo.svg)
+
+그림: 슬라이드 아래쪽 도식을 lobe 그림으로 옮겼다. 각 패널에서 위(파랑)는 UV로 들뜬 alkene, 아래(빨강)는 바닥 상태 alkene이다. 왼쪽 패널은 LUMO/LUMO 상호작용( $\pi^{\ast}$ / $\pi^{\ast}$ )이고, 오른쪽 패널은 HOMO/HOMO 상호작용( $\pi$ / $\pi$ )이다. 채운 lobe가 + 위상, 빈 lobe가 − 위상이며, 같은 orbital끼리 포개므로 두 경우 모두 양 끝(초록 점선)에서 위상이 맞는다. 들뜬 alkene은 $\pi$ 와 $\pi^{\ast}$ 에 전자가 하나씩 있으므로 두 상호작용 모두 알짜 안정화이고, 광화학 [2+2]는 suprafacial–suprafacial로 허용된다. 에너지 준위 도표는 그리지 않았다.
+
 보충: 두 가지 "왜?"가 더 남는다. 첫째, 서로 다른 두 alkene 가운데 누가 들뜨는가? 짝지음이 있는 쪽(enone, maleic anhydride)만 보통의 UV를 흡수하므로 그 성분이 들뜨고, 단순 alkene은 ground state로 남는다. 그래서 서로 다른 alkene끼리의 [2+2]가 선택적으로 일어난다. 둘째, 변형이 큰 cyclobutane이 왜 다시 두 alkene으로 돌아가지 않는가? 역반응도 같은 선택 규칙을 따르므로 빛을 흡수해야 하는데, 생성물은 $\pi$ 결합을 잃어서 빛을 흡수할 낮은 빈 orbital이 없다. 그래서 생성물은 변형이 커도 쌓이는 kinetic 생성물이 된다. (보충 근거: Clayden p.897–898, 907)
 
 (출처: L14 p.26)
@@ -375,6 +399,10 @@ UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{\ast}$ 로 올라
 - **stereoselectivity는 steric hindrance가 가장 적은 transition state를 따른다.** DA와 달리 **endo 선택성이 없다.**
 
 슬라이드 예는 1,2-cyclobutenedicarboxylic acid dimethyl과 3-methylcyclohex-2-enone의 $h\nu$ 반응이다. 이 반응으로 4-4-6 tricyclic 화합물이 생긴다. cyclobutene의 두 CO2Me는 서로 cis로 남는다. enone 쪽의 융합 H와 Me도 서로 cis인데, 원래 같은 C=C에 붙어 있던 기들이기 때문이다. 그리고 두 바깥 고리(원래의 cyclobutane과 cyclohexanone)는 가운데 cyclobutane을 기준으로 서로 anti에 놓인다. steric hindrance가 가장 적은 배열이다.
+
+![dimethyl cyclobutene-1,2-dicarboxylate와 3-methylcyclohex-2-enone의 광화학 \[2+2\]: 각 성분 안에서 stereospecific이고 바깥 두 고리는 anti다](../../figures/L14/photo22_stereo.svg)
+
+그림: 슬라이드의 예다. 파란색은 cyclobutene의 C=C, 빨간색은 enone의 C=C, 초록색은 새로 생긴 cyclobutane의 $\sigma$ 결합 두 개다. 주황색 화살표 두 개는 슬라이드처럼 두 $\sigma$ 결합이 동시에 생기는 것을 형식적으로 나타낸다. 생성물(4-4-6 tricyclic)에서 cyclobutene에서 온 두 $CO_2Me$ 는 cis(둘 다 쐐기), enone에서 온 고리 접합 H와 Me도 cis(둘 다 점선)로 남는다(각 성분 안에서 stereospecific). 그리고 $CO_2Me$ 쪽(쐐기)과 H/Me 쪽(점선)이 가운데 cyclobutane의 반대 면에 있으므로 바깥 두 고리는 서로 anti다. 이는 endo 규칙이 아니라 steric hindrance가 가장 적은 transition state의 결과다. 반응물의 고리 수소는 슬라이드처럼 생략했다.
 
 (출처: L14 p.27)
 

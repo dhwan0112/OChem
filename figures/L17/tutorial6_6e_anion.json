@@ -1,40 +1,40 @@
 {
  "atoms": [
   [
+   "C",
+   0,
+   0,
+   0,
+   0,
+   "ink"
+  ],
+  [
    "N",
-   0.0,
-   0,
-   0,
-   0,
-   "ink"
-  ],
-  [
-   "C",
-   1.4,
-   0.8,
+   0.866,
+   -0.5,
    0,
    0,
    "ink"
   ],
   [
    "C",
-   2.8,
+   1.732,
    0,
    -1,
    0,
    "nu"
   ],
   [
-   "C",
-   4.2,
-   0.8,
-   0,
-   0,
-   "ink"
-  ],
-  [
    "N",
-   5.6,
+   2.598,
+   -0.5,
+   0,
+   0,
+   "ink"
+  ],
+  [
+   "C",
+   3.464,
    0,
    0,
    0,
@@ -42,40 +42,40 @@
   ],
   [
    "C",
-   0.0,
-   -1.2,
-   0,
-   0,
-   "ink"
-  ],
-  [
-   "C",
-   1.4,
-   2,
-   0,
-   0,
-   "ink"
-  ],
-  [
-   "C",
-   4.2,
-   2,
-   0,
-   0,
-   "ink"
-  ],
-  [
-   "C",
-   5.6,
-   -1.2,
+   -0.866,
+   0.5,
    0,
    0,
    "ink"
   ],
   [
    "H",
-   2.8,
-   1.2,
+   0,
+   -1.0,
+   0,
+   0,
+   "ink"
+  ],
+  [
+   "C",
+   1.732,
+   1.0,
+   0,
+   0,
+   "ink"
+  ],
+  [
+   "C",
+   4.33,
+   0.5,
+   0,
+   0,
+   "ink"
+  ],
+  [
+   "H",
+   3.464,
+   -1.0,
    0,
    0,
    "ink"
@@ -118,14 +118,14 @@
    "ink"
   ],
   [
-   1,
+   0,
    6,
    1,
    "plain",
    "ink"
   ],
   [
-   3,
+   2,
    7,
    1,
    "plain",
@@ -139,7 +139,7 @@
    "ink"
   ],
   [
-   2,
+   4,
    9,
    1,
    "plain",
@@ -151,17 +151,17 @@
  "captions": [
   [
    "2 pi bonds + 1 lone pair = 6 electrons",
-   -0.5,
-   3.8,
+   -1.3,
+   2.3,
    "muted",
    8
   ],
   [
-   "connectivity only; imine E/Z not assigned",
-   -0.5,
-   4.5,
+   "PhCH=N–C⁻(Ph)–N=CHPh after deprotonation; imine E/Z not assigned",
+   -1.3,
+   2.9,
    "muted",
-   8
+   7
   ]
  ],
  "lone_pairs": [
@@ -177,13 +177,6 @@
    5,
    [
     5
-   ]
-  ],
-  [
-   "Ph",
-   6,
-   [
-    6
    ]
   ],
   [
@@ -208,5 +201,5 @@
    ]
   ]
  ],
- "title": "Tutorial Questions 6 p.2 Q3: deprotonated connectivity and 6e count; not a stereochemical answer."
+ "title": "Tutorial Questions 6 p.2 Q3: deprotonated 1,3-diazapentadienyl anion PhCH=N–C⁻(Ph)–N=CHPh, connectivity and 6e count; not a stereochemical answer (corrected 2026-10-22: Ph on C, not on N)."
 }
