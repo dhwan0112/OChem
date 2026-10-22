@@ -11,17 +11,15 @@
 
 
 
-## 개요
-
-Claisen condensation은 ester의 enolate가 다른 ester(또는 carbonyl 화합물)의 carbonyl을 공격해 새 C–C 결합을 만드는 반응이다. 결과물은 $\beta$-ketoester($\beta$-keto ester)나 $\beta$-diketone($\beta$-diketone) 같은 1,3-dicarbonyl 화합물인데, 이들은 이후 alkylation·decarboxylation 등으로 온갖 골격을 만드는 출발물이 되므로 합성에서 매우 쓸모가 많다. 앞서 배운 enolate의 $\alpha$-alkylation과 aldol 반응에 이어, 이번에는 "enolate + ester"라는 세 번째 조합을 다룬다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation·aldol reaction 문서 참고). 이 강의의 핵심은 단 하나로 요약된다. Claisen 축합은 C–C 결합이 생겨서 진행되는 것이 아니라, 생성물이 염기에 의해 deprotonate되기 때문에 진행된다는 것이다. 이 원리 하나로 염기 1당량이 필요한 이유, 교차 Claisen과 Dieckmann 축합이 잘 되는 이유가 모두 설명된다.[1]
-
-(출처: L9 p.1, p.2, p.15)
-
 ## 본문
 
 ### 1. enolate가 할 수 있는 네 가지 일
 
 > 개념 문서: [Claisen condensation](../../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../../wiki/반응/알돌%20반응.md), [Michael reaction](../../wiki/반응/마이클%20반응.md)
+
+Claisen condensation은 ester의 enolate가 다른 ester(또는 carbonyl 화합물)의 carbonyl을 공격해 새 C–C 결합을 만드는 반응이다. 결과물은 $\beta$-ketoester($\beta$-keto ester)나 $\beta$-diketone($\beta$-diketone) 같은 1,3-dicarbonyl 화합물인데, 이들은 이후 alkylation·decarboxylation 등으로 온갖 골격을 만드는 출발물이 되므로 합성에서 매우 쓸모가 많다. 앞서 배운 enolate의 $\alpha$-alkylation과 aldol 반응에 이어, 이번에는 "enolate + ester"라는 세 번째 조합을 다룬다(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation·aldol reaction 문서 참고).
+
+(출처: L9 p.1, p.2, p.15)
 
 enolate는 탄소 nucleophile다. 그렇다면 이 nucleophile을 무엇과 만나게 하느냐에 따라 어떤 반응이 생길까? 슬라이드는 네 가지 상대를 정리한다.
 
@@ -87,6 +85,8 @@ $$
 (출처: L9 p.4, p.5, p.7)
 
 #### 3.2 메커니즘: 왜 끝까지 가는가
+
+이 강의의 핵심은 단 하나로 요약된다. Claisen 축합은 C–C 결합이 생겨서 진행되는 것이 아니라, 생성물이 염기에 의해 deprotonate되기 때문에 진행된다는 것이다. 이 원리 하나로 염기 1당량이 필요한 이유, 교차 Claisen과 Dieckmann 축합이 잘 되는 이유가 모두 설명된다.[1]
 
 이제 강의의 핵심 질문으로 돌아가자. 메커니즘을 단계별로 보면 답이 보인다.
 

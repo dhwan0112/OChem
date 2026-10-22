@@ -11,19 +11,6 @@
 
 
 
-## 개요
-
-alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 $\pi$ 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
-
-강의의 질문은 크게 세 가지다.
-1. alkene은 왜, 어떻게 electrophile과 반응하는가? (메커니즘)
-2. 비대칭 alkene이라면 어느 쪽 탄소에 무엇이 붙는가? (regioselectivity, regioselectivity)
-3. 이 반응들로 무엇을 만들 수 있는가? (합성 응용)
-
-이 강의에서 처음 나오는 **bromonium bromonium ion** 과 **carbocation** 이라는 두 intermediate는 L2, L3, L4까지 계속 다시 등장하니, 여기서 확실히 잡아두는 것이 좋다. (출처: L1 p.4)
-
----
-
 ## 1. 출발점: 첨가와 제거는 서로 거울 관계
 
 > 개념 문서: [개관](../../wiki/개념/알켄의%20친전자성%20첨가%20개관.md), [Lindlar reduction](../../wiki/반응/린들라%20환원.md), [Lindlar catalyst](../../wiki/시약/린들라%20촉매.md)
@@ -51,6 +38,10 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 
 > 개념 문서: [개관](../../wiki/개념/알켄의%20친전자성%20첨가%20개관.md)
 
+이 절을 읽고 답할 질문: 이 반응들로 무엇을 만들 수 있는가? (합성 응용)
+
+alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점" 중 하나다. 이중결합 하나에 무엇을 더하느냐에 따라 alkyl halide, epoxide, alcohol, ether가 만들어진다. 이 강의는 그 변환들이 모두 **하나의 원리**, 즉 "전자가 풍부한 $\pi$ 결합이 전자를 원하는 electrophile, electrophile을 공격한다"는 원리로 설명된다는 것을 보여준다.
+
 강의 p.8의 표는 이후 두 강의 전체의 "목차" 역할을 한다. R-CH=CH₂를 기준으로:
 
 | 반응                                     | 시약                 | 결과                          |
@@ -69,6 +60,10 @@ alkene의 C=C 이중결합은 유기화학에서 가장 쓸모 있는 "출발점
 ---
 
 ## 3. alkene과 bromine: bromonium 이온의 등장
+
+이 절을 읽고 답할 질문: alkene은 왜, 어떻게 electrophile과 반응하는가? (메커니즘)
+
+이 강의에서 처음 나오는 **bromonium ion** 과 **carbocation** 이라는 두 intermediate는 L2, L3, L4까지 계속 다시 등장하니, 여기서 확실히 잡아두는 것이 좋다. (출처: L1 p.4)
 
 ### 3.1 관찰: bromine water가 탈색된다
 
@@ -180,6 +175,8 @@ transition state는 고리 모양으로 그려진다. (출처: L1 p.14)
 ## 5. HBr addition: carbocation과 Markovnikov 규칙
 
 > 개념 문서: [hydrohalogenation](../../wiki/반응/할로젠화수소%20첨가.md), [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md), [carbocation](../../wiki/개념/탄소%20양이온.md)
+
+이 절을 읽고 답할 질문: 비대칭 alkene이라면 어느 쪽 탄소에 무엇이 붙는가? (regioselectivity)
 
 ### 5.1 메커니즘
 

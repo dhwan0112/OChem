@@ -14,13 +14,11 @@
 > CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 25장, McMurry 10판 22장.
 > 출처 표기의 p.는 PDF 페이지 번호다. 슬라이드 우측 하단에 인쇄된 번호는 PDF 페이지 번호보다 1 크다(예: PDF p.10 = 슬라이드 번호 11).
 
-## 개요
-
-지금까지 carbonyl 화합물은 주로 nucleophile에게 공격당하는 쪽, 즉 electrophile였다. 그런데 carbonyl 옆 탄소($\alpha$-탄소)의 수소를 염기로 떼어 내면 이야기가 뒤집힌다. 이렇게 생긴 enolate는 전자가 풍부한 탄소를 가진 훌륭한 nucleophile이 되어, alkyl halide과 SN2 반응을 하며 새 C-C 결합을 만든다. 이것이 $\alpha$-alkylation($\alpha$-alkylation)이고, 탄소 골격을 늘리는 가장 기본적인 도구 중 하나다. 이 강의는 어떤 염기로 어느 쪽 enolate를 kinetic vs thermodynamic, 1,3-dicarbonyl 화합물을 쓰는 고전적 합성법(acetoacetic ester·malonic ester 합성), enolate가 C와 O 중 어디로 반응하는지, 그리고 키랄 보조기로 한쪽 거울상만 골라 만드는 비대칭 alkylation까지 다룬다. 앞 강의의 Wittig/HWE 반응에서 본 안정화 ylide도 사실은 enolate의 친척이라는 점에서 출발한다.
-
 ## 0. 복습: 안정화 ylide는 왜 약염기로도 만들어지나?
 
 > 개념 문서: [이미 만나 본 enolate](../../wiki/개념/엔올과%20엔올레이트.md), [phosphorus ylide](../../wiki/시약/인%20일라이드.md), [HWE reaction](../../wiki/반응/HWE%20반응.md)
+
+이 강의는 앞 강의의 Wittig/HWE 반응에서 본 안정화 ylide도 사실은 enolate의 친척이라는 점에서 출발한다.
 
 앞 강의(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) Wittig/HWE reaction 문서 참고)에서 ylide는 보통 BuLi 같은 강염기로 만들었다. 그런데 bromoacetic acid ester에서 출발한 phosphonium 염은 Na2CO3 같은 약염기로도 ylide가 된다. 왜 그럴까?
 
@@ -139,6 +137,8 @@ BuLi의 carbanion이 염기로서 N-H의 수소를 떼어 내고, 훨씬 약한 
 > 개념 문서: [enolate alkylation](../../wiki/반응/엔올레이트%20알킬화.md), [SN2 reaction](../../wiki/반응/SN2%20반응.md)
 
 ### 2.1 enolate는 alkyl halide과 어떻게 반응하나?
+
+지금까지 carbonyl 화합물은 주로 nucleophile에게 공격당하는 쪽, 즉 electrophile였다. 그런데 carbonyl 옆 탄소($\alpha$-탄소)의 수소를 염기로 떼어 내면 이야기가 뒤집힌다. 이렇게 생긴 enolate는 전자가 풍부한 탄소를 가진 훌륭한 nucleophile이 되어, alkyl halide과 SN2 반응을 하며 새 C-C 결합을 만든다. 이것이 $\alpha$-alkylation($\alpha$-alkylation)이고, 탄소 골격을 늘리는 가장 기본적인 도구 중 하나다.
 
 carbonyl은 원래 electrophile였다. nucleophile은 C=O 탄소에 nucleophilic addition leaving group을 밀어낸다. 그런데 deprotonation으로 enolate가 되면, $\alpha$-탄소가 전자가 풍부해져 electrophile(E+)와 잘 반응하는 nucleophile로 변신한다.
 

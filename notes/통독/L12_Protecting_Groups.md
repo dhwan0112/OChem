@@ -15,69 +15,16 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## Protecting groups: 조건의 순서를 설계한다 — 강의 확인·보강
-
-보호가 필요한 이유는 둘이다. ketone과 ester 가운데 반응성이 더 낮은 쪽을 선택하려는 경우와, Grignard가 free OH나 carbonyl과 만나 원하는 반응 전에 소모되는 경우다. 보호 구조를 외우기 전에 원래 조건에서 일어날 실패 반응부터 그려야 선택 이유가 분명해진다. (출처: L12 p.3–4,13–14)
-
-protecting group의 평가는 protection, 원하는 transformation, deprotection 세 번에 걸쳐 한다. acetal은 염기와 nucleophile에 안정하고 산성 수용액에서 제거된다. silyl ether는 종류별로 산·염기 안정성 순위가 다르다. Boc/Cbz/Fmoc은 모두 N 보호에 쓰여도 제거 조건이 서로 달라 peptide 합성 순서를 결정한다. (출처: L12 p.6–11,13)
-
-orthogonal protection은 두 protecting group이 존재하는 상태가 아니라 한쪽을 제거할 때 다른 쪽을 유지할 수 있는 조건 관계다. 실제 분자에 있는 alkene 등 다른 작용기도 제거 조건을 견디는지 확인해야 한다. 반응이 끝난 답안에서 보호된 O/N이 모두 원래 작용기로 돌아왔는지도 검산한다. (출처: L12 p.3–4,8–11,16)
-
-더 읽기: [protecting group](../../wiki/개념/보호기.md), [orthogonal protection](../../wiki/개념/직교%20보호.md), [silyl ethers](../../wiki/시약/실릴%20에터%20보호기.md).
-
-![acetal grignard bromoketone 1](../../figures/L12/acetal_grignard_bromoketone_1.svg)
-
-![acetal grignard bromoketone 2](../../figures/L12/acetal_grignard_bromoketone_2.svg)
-
-![acetal grignard bromoketone 3](../../figures/L12/acetal_grignard_bromoketone_3.svg)
-
-![acetal grignard bromoketone 4](../../figures/L12/acetal_grignard_bromoketone_4.svg)
-
-그림: acetal 보호, Grignard 형성·첨가, deprotection를 단계별로 읽는다. 서로 다른 시약 처리 단계를 한 화살표로 합치지 않는다. (원본 대조: L12_Protecting groups.pdf p.14)
-
-[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.14](../../figures/L12/source/L12_p14.png)
-
-| 비교 조건 | 강의의 상대 안정성 순서 |
-| --- | --- |
-| Acidic media | TMS < TES < TBS < TIPS < TBDPS |
-| Basic media | TMS < TES < TBS ≈ TBDPS < TIPS |
-
-비교 조건이 달라지면 순서도 달라진다. 수치는 보편적 수명이 아니므로 원본 비교표에서 조건과 함께 읽는다. (출처: L12 p.7)
-
-![silyl tbaf](../../figures/L12/silyl_tbaf.svg)
-
-그림: fluoride가 Si에 접근하여 Si–O를 끊는 단계다. 탄소의 C–O 결합을 끊는 그림이 아니다. (원본 대조: L12_Protecting groups.pdf p.7)
-
-[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.7](../../figures/L12/source/L12_p07.png)
-
-![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/orthogonal_boc_benzyl.svg)
-
-그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
-
-
-## 개요
-
-protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다.
-지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다.
-ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다.
-그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다.
-
-![대표 protecting group 구조 (파랑: 보호되는 자리, 빨강: deprotection 자리)](../../figures/L12/pg_types.svg)
-
-그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$ ), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 deprotection 때 공격·절단되는 자리(Si는 $F^-$ , t-Bu C는 $H^+$ , benzyl C는 $H_2/Pd$ , acetal C는 $H_3O^+$ ).
-
-이 강의는 alcohol(silyl ether), amine(carbamate), aldehyde·ketone(acetal)이라는 세 가지 대표 protecting group을 중심으로,
-1) 각 protecting group을 어떻게 씌우고 벗기는지,
-2) 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다.
-
-앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고),
-마지막에는 이 모든 것이 peptide 합성이라는 실전 무대에서 어떻게 조합되는지 본다.
-
 ## 본문
 
 ### 1. 표적 분자: 왜 이런 게 필요할까
 
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md)
+
+protecting group은 분자 안의 어떤 작용기를 잠시 "가려 두는" 장치다.
+지금까지 배운 반응들은 대부분 시약이 반응할 자리가 하나뿐인 깔끔한 분자를 상정했지만, 실제 합성 표적은 그렇지 않다.
+ketone과 ester가 한 분자에 같이 있으면 Grignard 시약은 더 반응성이 큰 ketone으로 먼저 달려가고, OH가 하나라도 있으면 강염기는 엉뚱하게 그 양성자부터 떼어 버린다.
+그래서 합성화학자는 방해되는 작용기에 일시적인 마스크를 씌우고, 원하는 반응을 끝낸 뒤 마스크를 벗기는 방법을 쓴다.
 
 protecting group 이야기는 palytoxin이라는 괴물 같은 분자에서 시작한다.
 palytoxin은 탄소 사슬이 아주 긴 polyhydroxy 화합물로, 이중결합 8개, hydroxy group 40개, chiral 중심 64개를 가진다. chiral 중심과 이중결합의 cis/trans 가능성을 모두 따지면 가능한 stereoisomer가 10^21개를 넘는다. 그래서 "유기합성의 에베레스트"라고 불렸다.[1]
@@ -95,6 +42,8 @@ palytoxin은 탄소 사슬이 아주 긴 polyhydroxy 화합물로, 이중결합 
 ### 2. 언제 protecting group을 쓰는가
 
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md)
+
+보호가 필요한 이유는 둘이다. ketone과 ester 가운데 반응성이 더 낮은 쪽을 선택하려는 경우와, Grignard가 free OH나 carbonyl과 만나 원하는 반응 전에 소모되는 경우다. 보호 구조를 외우기 전에 원래 조건에서 일어날 실패 반응부터 그려야 선택 이유가 분명해진다. (출처: L12 p.3–4,13–14)
 
 protecting group이 필요한 상황은 크게 두 가지로 정리된다.
 
@@ -150,11 +99,24 @@ $$
 
 대표적인 조합은 다음과 같다. alcohol은 silyl ether나 benzyl ether, amine은 carbamate( RO-C(=O)-NR2), aldehyde·ketone은 acetal, carboxylic acid는 ester로 보호한다. 다만 슬라이드에서 benzyl ether와 ester는 회색으로 처리되어 있고, 마지막 요약에도 silyl ether·carbamate·acetal 세 가지만 나온다. 즉 이 강의의 주인공은 이 셋이다.
 
+![대표 protecting group 구조 (파랑: 보호되는 자리, 빨강: deprotection 자리)](../../figures/L12/pg_types.svg)
+
+그림: 보충: 이 강의의 세 주인공. alcohol의 silyl ether(TBS, $R-O-SiMe_2tBu$ ), amine의 carbamate(Boc, Cbz), aldehyde·ketone의 acetal(1,3-dioxolane). R은 나머지 분자. 파랑은 보호되는 heteroatom(nucleophile), 빨강은 deprotection 때 공격·절단되는 자리(Si는 $F^-$ , t-Bu C는 $H^+$ , benzyl C는 $H_2/Pd$ , acetal C는 $H_3O^+$ ).
+
+이 강의는 이 세 가지 대표 protecting group을 중심으로,
+1) 각 protecting group을 어떻게 씌우고 벗기는지,
+2) 그리고 왜 그 조건에서만 벗겨지는지를 메커니즘으로 설명한다(5·6·8절).
+
+앞에서 다룬 Grignard addition, acetal 형성, SN1/SN2, E1cB 제거가 모두 다시 등장하며(→ Grignard reaction 문서, acetal 형성 문서, E1cB 제거 문서 참고),
+마지막에는 이 모든 것이 peptide 합성이라는 실전 무대에서 어떻게 조합되는지 본다(7절).
+
 (출처: L12 p.4, p.16)
 
 ### 4. 한눈에 보는 protecting group 표
 
 > 개념 문서: [protecting group](../../wiki/개념/보호기.md), [THP protecting group](../../wiki/시약/THP%20보호기.md), [benzyl ether protecting group](../../wiki/시약/벤질%20에터%20보호기.md)
+
+protecting group의 평가는 protection, 원하는 transformation, deprotection 세 번에 걸쳐 한다. acetal은 염기와 nucleophile에 안정하고 산성 수용액에서 제거된다. silyl ether는 종류별로 산·염기 안정성 순위가 다르다. Boc/Cbz/Fmoc은 모두 N 보호에 쓰여도 제거 조건이 서로 달라 peptide 합성 순서를 결정한다. (출처: L12 p.6–11,13)
 
 강의 표의 아홉 가지 protecting group을 **보호 대상·구조·안정성**과 **도입·제거 조건**으로 나누어 비교한다. 강의에서 박스로 강조한 항목은 acetal, trialkylsilyl, Cbz, Boc, Fmoc다.
 
@@ -261,6 +223,10 @@ fluoride가 잘 듣는 이유는 Si–F 결합이 Si–O 결합보다 훨씬 강
 
 그림: 보충(슬라이드에는 조건만 있다). F⁻(파랑)의 전자쌍이 Si(빨강)를 공격하고, Si–O 결합(빨강)의 전자가 산소로 가서 alkoxide가 떨어진다. 실제로는 F⁻가 먼저 Si에 첨가해 다섯 배위 anion을 거친 뒤 분해되므로 단순한 SN2가 아니다. 새로 생기는 Si–F 결합(초록)이 강하다는 것이 추진력이고, alkoxide는 후처리에서 protonate되어 ROH가 된다. (보충 근거: Clayden p.550)
 
+그림: fluoride가 Si에 접근하여 Si–O를 끊는 단계다. 탄소의 C–O 결합을 끊는 그림이 아니다. (원본 대조: L12_Protecting groups.pdf p.7)
+
+[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.7](../../figures/L12/source/L12_p07.png)
+
 (출처: L12 p.5, p.6)
 
 #### 5-5. 어느 silyl group이 더 튼튼한가
@@ -275,6 +241,13 @@ silyl group이 이렇게 여러 종류인 이유는 무엇일까? 튼튼함이 �
 이 차이는 실전에서 무기가 된다. 한 분자에 TMS ether와 TBDPS ether가 같이 있다면, 약한 산 조건으로 TMS만 골라 벗길 수 있다.
 
 (출처: L12 p.7)
+
+| 비교 조건 | 강의의 상대 안정성 순서 |
+| --- | --- |
+| Acidic media | TMS < TES < TBS < TIPS < TBDPS |
+| Basic media | TMS < TES < TBS ≈ TBDPS < TIPS |
+
+비교 조건이 달라지면 순서도 달라진다. 수치는 보편적 수명이 아니므로 원본 비교표에서 조건과 함께 읽는다. (출처: L12 p.7)
 
 ### 6. amine의 protecting group: carbamate
 
@@ -351,6 +324,12 @@ Leu와 Gly를 이어 dipeptide LeuGly를 만든다고 하자. 필요한 것은 L
 보충: N-protecting group으로 그냥 acetyl 같은 amide를 쓰면 안 될까? 안 된다. 보호용 amide를 hydrolysis하는 조건에서는 지금 막 만든 peptide amide 결합도 함께 끊기기 때문이다. 그래서 N lone pair의 delocalization으로 nucleophilicity를 낮추면서도 peptide 결합을 건드리지 않는 온화한 조건으로 벗겨지는 carbamate를 쓴다. C-protecting group 후보인 t-butyl ester가 산 불안정 짝으로 잘 맞는 이유도 같은 맥락이다. t-Bu의 부피 때문에 carbonyl이 OH- 같은 nucleophile의 공격(염기 hydrolysis)을 받지 않고, 산에서는 carbonyl 공격이 아니라 t-butyl cation 이탈(SN1/E1)이라는 전혀 다른 경로로 끊긴다. (보충 근거: Clayden p.553, p.556)
 
 (출처: L12 p.9)
+
+orthogonal protection은 두 protecting group이 존재하는 상태가 아니라 한쪽을 제거할 때 다른 쪽을 유지할 수 있는 조건 관계다. 실제 분자에 있는 alkene 등 다른 작용기도 제거 조건을 견디는지 확인해야 한다. 반응이 끝난 답안에서 보호된 O/N이 모두 원래 작용기로 돌아왔는지도 검산한다. (출처: L12 p.3–4,8–11,16)
+
+![Protecting groups: 조건의 순서를 설계한다](../../figures/L12/orthogonal_boc_benzyl.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
 #### 7-3. N-Boc: 산으로 벗기는 protecting group
 
@@ -503,6 +482,10 @@ $$
 ![acetal 보호 후 Grignard 시약 제조와 formate 이중 첨가 (4/4)](../../figures/L12/acetal_grignard_bromoketone_4.svg)
 
 그림: 보충: 5-bromopentan-2-one의 ketone을 acetal로 막아야 같은 분자에서 Grignard 시약을 만들 수 있다. $HCO_2Et$ 에 Grignard 시약 두 분자가 첨가해 2차 alcohol이 되고, 마지막에 두 acetal을 함께 벗긴다.
+
+그림: acetal 보호, Grignard 형성·첨가, deprotection를 단계별로 읽는다. 서로 다른 시약 처리 단계를 한 화살표로 합치지 않는다. (원본 대조: L12_Protecting groups.pdf p.14)
+
+[원본 자료에서 세부 구조·입체배치 확인: L12_Protecting groups.pdf p.14](../../figures/L12/source/L12_p14.png)
 
 
 (출처: L12 p.14, p.3)

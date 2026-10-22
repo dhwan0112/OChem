@@ -9,79 +9,21 @@
 
 
 
-> **2026-10-18 강의 반영:** 앞의 강의 확인·보강 절과 그림은 공식 PDF를 근거로 추가했다. 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
+> **2026-10-18 강의 반영:** 본문 각 절에 넣은 강의 확인·보강 문단과 그림은 공식 PDF를 근거로 추가했다(2026-10-22에 앞머리 요약을 본문으로 옮김). 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
 
 CM3121 Advanced Organic Chemistry — 공식 강의 반영 및 교재 보충 (2026-10-18)
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## 공식 L16: TS, driving force, hydrogen shift — 강의 확인·보강
-
-공개된 강의는 [3,3] Claisen/Ireland–Claisen/Cope/oxy-Cope, C·S·Se의 [2,3], [1,5]/[1,7]H 이동 순서다. 아래의 교재 보충은 유지하되 강의 범위의 기준은 이제 PDF p.3–26이다. [i,j]의 숫자는 전자 수가 아니라 옛 결합과 새 결합 사이의 위치를 세는 수다. (출처: L16 p.3,26)
-
-Claisen의 chair orbital 그림은 겹침의 기하를 보여 주며 특정 HOMO/LUMO 그림 자체는 아니다. 큰 치환기의 equatorial 선호가 E 생성물을 설명하고, carbonyl 결합의 안정성이 진행 방향을 민다. acetal/orthoester/orthoamide를 바꾸어도 [3,3] 추적은 같지만 마지막 aldehyde/ketone/ester/amide는 달라진다. (출처: L16 p.4–12)
-
-Cope는 strain 해소와 conjugation 같은 추진력을 확인한다. oxy-Cope의 중성 경로와 anionic 경로는 enol과 enolate를 구별하고, KH와 H+ 후처리의 역할을 각각 그린다. SeO2는 ene → [2,3] → 분해/추가 산화로 이어지며 첫 단계를 보통의 [4+2] cycloaddition으로 분류하지 않는다. (출처: L16 p.13–20)
-
-thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말단 위상과 실제 사슬의 도달 가능성을 함께 확인해 설명한다. vitamin D의 마지막 thermal [1,7]과 앞의 광화학 ring opening은 서로 다른 단계다. (출처: L16 p.21–25; L17 p.17–18)
-
-더 읽기: [Claisen](../../wiki/반응/클라이젠%20자리옮김.md), [Cope](../../wiki/반응/코프%20자리옮김.md), [hydrogen shifts](../../wiki/반응/1,5-수소%20이동.md), [Tutorial 6](../../practice/Tutorial_6.md).
-
-![claisen chair e](../../figures/L16/claisen_chair_e.svg)
-
-그림: chair-like [3,3]의 배치와 R의 equatorial 선택을 보여 주는 모형이다. 이 배치도와 전체 HOMO/LUMO 그림은 서로 다른 설명 수준이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.6)
-
-[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.6](../../figures/L16/source/L16_p06.png)
-
-| 출발 전구체 | [3,3] 및 후처리로 읽을 carbonyl class |
-| --- | --- |
-| Aldehyde-derived allyl vinyl ether | Aldehyde |
-| Ketone-derived allyl vinyl ether | Ketone |
-| Orthoester-derived ketene acetal | Ester |
-| Amide acetal-derived 계 | Amide |
-
-원자 번호를 보존해 새 C–C 결합과 carbonyl 탄소를 추적한다. (출처: L16 p.11)
-
-![claisen aliphatic](../../figures/L16/claisen_aliphatic.svg)
-
-![ireland claisen arrows](../../figures/L16/ireland_claisen_arrows.svg)
-
-그림: allyl vinyl ether와 silyl ketene acetal을 별도 패널로 보여 준다. 원본의 acetal·orthoester·amide acetal 전체 구조는 원본 링크로 대조한다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.11)
-
-[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.11](../../figures/L16/source/L16_p11.png)
-
-![selenium ene](../../figures/L16/selenium_ene.svg)
-
-![selenium 23](../../figures/L16/selenium_23.svg)
-
-그림: propene 모형으로 ene와 뒤의 [2,3]을 나누었다. 주황은 전자쌍 이동, 초록은 새 결합이다. [2,3] 뒤 selenium ester의 hydrolysis가 allylic alcohol을 준다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.20)
-
-[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.20](../../figures/L16/source/L16_p20.png)
-
-![공식 L16: TS, driving force, hydrogen shift](../../figures/L16/hydrogen_shift_terminal_phases.svg)
-
-그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
-
-![photo 17 h shift](../../figures/L16/photo_17_h_shift.svg)
-
-그림: 보충: 원본의 치환기를 생략한 heptatriene 모형이다. 주황 H로 옮겨지는 수소를 표시하고 세 C=C의 위치 변화를 함께 추적한다. 광화학 [1,7]은 suprafacial이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.25)
-
-[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.25](../../figures/L16/source/L16_p25.png)
-
-
-## 개요
-
-[L13](L13_Cycloaddition_Part1.md)에서 pericyclic 반응을 세 갈래로 나눴다. cycloaddition, electrocyclic reaction, sigmatropic rearrangement다. L13–L15는 첫 번째 갈래만 다뤘고, 이 노트는 세 번째 갈래를 다룬다. 두 번째 갈래는 [L17](L17_Electrocyclic_Reactions.md)에서 다룬다.
-
-sigmatropic rearrangement는 이름 그대로 **$\sigma$ 결합 하나가 자리를 옮기는** 반응이다. 한쪽에서 $\sigma$ 결합이 끊어지는 동시에 다른 곳에서 새 $\sigma$ 결합이 생기고, $\pi$ 결합들은 그에 맞춰 위치를 바꾼다. cycloaddition처럼 전자가 고리를 따라 돌고, ionic intermediate가 없으며, 한 단계로 끝난다. 다른 점은 굽은 화살표 하나가 $\pi$ 결합이 아니라 **$\sigma$ 결합에서 출발한다는** 것이다.
-
-이 노트는 다음 질문을 차례로 따라간다. 이름의 숫자 [i,j]는 무엇을 세나? 가장 중요한 [3,3] Claisen, Cope은 왜 *E* alkene을 주나? Woodward–Hoffmann 규칙으로는 어떻게 "허용"을 판정하나? 규칙이 방향을 알려 주지 않는다면 반응은 왜 한쪽으로만 가나? 마지막으로 [2,3] rearrangement와 수소 이동([1,5]H 등)을 보고, 수소가 몇 칸 옮기느냐에 따라 suprafacial/antarafacial이 어떻게 바뀌는지 정리한다. (출처: Clayden p.909)
-
 ## 1. sigmatropic rearrangement란 무엇인가
 
 > 개념 문서: [sigmatropic rearrangement](../../wiki/반응/시그마트로픽%20자리옮김.md)
 
+sigmatropic rearrangement는 이름 그대로 **$\sigma$ 결합 하나가 자리를 옮기는** 반응이다. 한쪽에서 $\sigma$ 결합이 끊어지는 동시에 다른 곳에서 새 $\sigma$ 결합이 생기고, $\pi$ 결합들은 그에 맞춰 위치를 바꾼다. cycloaddition처럼 전자가 고리를 따라 돌고, ionic intermediate가 없으며, 한 단계로 끝난다. 다른 점은 굽은 화살표 하나가 $\pi$ 결합이 아니라 **$\sigma$ 결합에서 출발한다는** 것이다.
+
 ### 1.1 세 갈래를 $\sigma$ 결합 수로 가르기
+
+[L13](L13_Cycloaddition_Part1.md)에서 pericyclic 반응을 세 갈래로 나눴다. cycloaddition, electrocyclic reaction, sigmatropic rearrangement다. L13–L15는 첫 번째 갈래만 다뤘고, 이 노트는 세 번째 갈래를 다룬다. 두 번째 갈래는 [L17](L17_Electrocyclic_Reactions.md)에서 다룬다.
 
 세 갈래는 반응 전후 **$\sigma$ 결합 수의 변화( $\Delta\sigma$ )로** 깔끔하게 나뉜다.[^1]
 
@@ -95,6 +37,8 @@ sigmatropic rearrangement는 이름 그대로 **$\sigma$ 결합 하나가 자리
 
 ### 1.2 [i,j] 표기: 옛 결합과 새 결합 사이를 센다
 
+이 절을 읽고 답할 질문: 이름의 숫자 [i,j]는 무엇을 세나? (출처: Clayden p.909)
+
 [3,3], [2,3], [1,5] 같은 숫자는 원자 수도 전자 수도 아니고 **옛 $\sigma$ 결합과 새 $\sigma$ 결합의 위치 관계** 다. 세는 법은 다음과 같다. (출처: Clayden p.910)
 
 1. 끊어지는 옛 $\sigma$ 결합의 양 끝 원자에 각각 1번을 붙인다.
@@ -104,6 +48,8 @@ sigmatropic rearrangement는 이름 그대로 **$\sigma$ 결합 하나가 자리
 예를 들어 allyl vinyl ether CH2=CH–O–CH2–CH=CH2에서 끊어지는 것은 O–CH2 결합이다. O 쪽으로 O(1)–CH(2)=CH2(3), C 쪽으로 CH2(1)–CH(2)=CH2(3)이고, 새 결합은 두 3번 탄소 사이에 생기므로 [3,3]이다.
 
 이렇게 세면 **transition state(TS) 고리의 크기 = i + j** 라는 편리한 관계가 생긴다. [3,3]은 6원자 고리 TS, [2,3]은 5원자 고리 TS, [1,5]도 6원자 고리 TS를 거친다.[^2] (출처: Clayden p.917, p.919)
+
+공개된 강의는 [3,3] Claisen/Ireland–Claisen/Cope/oxy-Cope, C·S·Se의 [2,3], [1,5]/[1,7]H 이동 순서다. 이 노트의 교재 보충은 유지하되 강의 범위의 기준은 이제 PDF p.3–26이다. [i,j]의 숫자는 전자 수가 아니라 옛 결합과 새 결합 사이의 위치를 세는 수다. (출처: L16 p.3,26)
 
 ### 1.3 cycloaddition의 대괄호와 혼동하지 말 것
 
@@ -216,9 +162,26 @@ propanoic acid을 쓰는 이유는 끓는점이 높아 혼합물 전체를 높�
 
 (→ acetal 화학은 [L12](L12_Protecting_Groups.md) protecting group 문서의 acetal 부분 참고)
 
+| 출발 전구체 | [3,3] 및 후처리로 읽을 carbonyl class |
+| --- | --- |
+| Aldehyde-derived allyl vinyl ether | Aldehyde |
+| Ketone-derived allyl vinyl ether | Ketone |
+| Orthoester-derived ketene acetal | Ester |
+| Amide acetal-derived 계 | Amide |
+
+원자 번호를 보존해 새 C–C 결합과 carbonyl 탄소를 추적한다. (출처: L16 p.11)
+
+그림(2.3절·6.4절): allyl vinyl ether와 silyl ketene acetal을 별도 패널로 보여 준다. 원본의 acetal·orthoester·amide acetal 전체 구조는 원본 링크로 대조한다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.11)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.11](../../figures/L16/source/L16_p11.png)
+
 ## 3. 의자형 transition state: 왜 *E* alkene이 생기나
 
 > 개념 문서: [Claisen rearrangement](../../wiki/반응/클라이젠%20자리옮김.md)
+
+이 절을 읽고 답할 질문: 가장 중요한 [3,3] Claisen, Cope은 왜 *E* alkene을 주나? (출처: Clayden p.909)
+
+Claisen의 chair orbital 그림은 겹침의 기하를 보여 주며 특정 HOMO/LUMO 그림 자체는 아니다. 큰 치환기의 equatorial 선호가 E 생성물을 설명하고, carbonyl 결합의 안정성이 진행 방향을 민다. acetal/orthoester/orthoamide를 바꾸어도 [3,3] 추적은 같지만 마지막 aldehyde/ketone/ester/amide는 달라진다. (출처: L16 p.4–12)
 
 ### 3.1 6원자 고리 TS는 의자 모양이다
 
@@ -246,6 +209,10 @@ $$
 
 그림: Clayden처럼 출발물을 chair형 TS와 같은 모양으로 그렸다. 빨간색은 끊어지는 O–C $\sigma$ 결합, 파란색은 equatorial 자리의 R이고, 같은 탄소의 H는 axial 자리(아래쪽 세로선)에 있다. 주황색 화살표 셋은 지방족 Claisen과 같다. 오른쪽은 원자 배치를 그대로 둔 채 결합만 바꾼 생성물이며, 초록색은 새 C–C $\sigma$ 결합과 새 C=C다. equatorial R과 사슬의 나머지( $CH_2$ 쪽)가 새 C=C의 반대쪽에 놓이므로 *E* alkene이 된다. 보충: R이 axial이었다면 *Z*가 되었을 것이다. 그림을 단순하게 하려고 말단 $CH_2$ 두 개는 묶음 라벨( $H_2C$ , $CH_2$ )로 적었다. Clayden p.911의 그림을 따랐다.
 
+그림: chair-like [3,3]의 배치와 R의 equatorial 선택을 보여 주는 모형이다. 이 배치도와 전체 HOMO/LUMO 그림은 서로 다른 설명 수준이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.6)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.6](../../figures/L16/source/L16_p06.png)
+
 ![hexa-1,5-diene Cope rearrangement의 chair TS와 boat TS 3D 모델](../../figures/L16/cope_chair_boat_ts_3d.svg)
 
 그림: 두 allyl 조각(위/아래)이 2.00 Å(초록 점선)에서 결합을 주고받는다. chair TS는 두 allyl의 가운데 탄소가 서로 반대쪽으로 꺾이고, boat TS는 같은 쪽으로 꺾여 가려진(eclipsed) 상호작용이 생긴다. GFN2-xTB로 boat가 약 8 kcal/mol 높았다(실험값 약 6 kcal/mol). Claisen rearrangement도 같은 chair TS를 거친다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
@@ -253,6 +220,8 @@ $$
 ## 4. Woodward–Hoffmann 규칙으로 [3,3]을 판정하기
 
 > 개념 문서: [Claisen rearrangement](../../wiki/반응/클라이젠%20자리옮김.md), [sigmatropic rearrangement](../../wiki/반응/시그마트로픽%20자리옮김.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md)
+
+이 절을 읽고 답할 질문: Woodward–Hoffmann 규칙으로는 어떻게 "허용"을 판정하나? (출처: Clayden p.909)
 
 ### 4.1 왜 FMO보다 Woodward–Hoffmann인가
 
@@ -361,6 +330,8 @@ H의 1s orbital은 작은 뒤쪽 lobe가 따로 없고 구 전체의 위상이 �
 
 > 개념 문서: [Claisen rearrangement](../../wiki/반응/클라이젠%20자리옮김.md), [sigmatropic rearrangement](../../wiki/반응/시그마트로픽%20자리옮김.md)
 
+이 절을 읽고 답할 질문: 규칙이 방향을 알려 주지 않는다면 반응은 왜 한쪽으로만 가나? (출처: Clayden p.909)
+
 ### 5.1 Claisen은 왜 늘 carbonyl 쪽으로 가나
 
 orbital 대칭은 [3,3] rearrangement가 허용된다는 것만 알려 준다. 정반응이 허용이면 역반응도 허용이다. 그런데 Claisen rearrangement는 늘 carbonyl 화합물 쪽으로 간다. 왜일까?
@@ -379,6 +350,8 @@ sigmatropic 반응 문제를 풀 때는 두 질문을 따로 묻는다.
 ## 6. Cope rearrangement
 
 > 개념 문서: [Cope rearrangement](../../wiki/반응/코프%20자리옮김.md), [Ireland–Claisen](../../wiki/반응/클라이젠%20자리옮김.md)
+
+Cope는 strain 해소와 conjugation 같은 추진력을 확인한다. oxy-Cope의 중성 경로와 anionic 경로는 enol과 enolate를 구별하고, KH와 H+ 후처리의 역할을 각각 그린다. (출처: L16 p.13–20)
 
 ### 6.1 탄소만 있는 [3,3]
 
@@ -500,6 +473,8 @@ $$
 
 > 개념 문서: [2,3-sigmatropic rearrangement](../../wiki/반응/2,3-시그마트로픽%20자리옮김.md), [SeO2](../../wiki/시약/SeO2.md)
 
+이 절부터는 [2,3] rearrangement와 수소 이동([1,5]H 등)을 본다. (출처: Clayden p.909)
+
 ### 8.1 5원자 고리 TS에는 "원자에서 출발하는 화살표"가 필요하다
 
 [2,3] rearrangement는 5원자 고리 TS를 거친다(2 + 3 = 5). 그런데 5원자 고리를 따라 굽은 화살표 세 개를 돌리려면 하나는 **결합이 아니라 원자에서** 출발하거나 끝나야 한다. 그 원자가 탄소 anion이면 괜찮다. carbocation이거나, 산화수를 바꾸기 좋아하는 S, Se여도 된다. (출처: Clayden p.917)
@@ -571,6 +546,16 @@ $$
 
 결과적으로 allyl 위치의 CH3가 CH2OH나 CH=O로 바뀐다. NBS allyl bromination과 결과는 비슷하지만 메커니즘은 전혀 다르다. 촉매량 SeO2와 t-BuOOH(재산화제)를 함께 쓰면 독성 있고 냄새나는 selenium 부산물을 줄일 수 있다.
 
+SeO2는 ene → [2,3] → 분해/추가 산화로 이어지며 첫 단계를 보통의 [4+2] cycloaddition으로 분류하지 않는다. (출처: L16 p.13–20)
+
+![selenium ene](../../figures/L16/selenium_ene.svg)
+
+![selenium 23](../../figures/L16/selenium_23.svg)
+
+그림: propene 모형으로 ene와 뒤의 [2,3]을 나누었다. 주황은 전자쌍 이동, 초록은 새 결합이다. [2,3] 뒤 selenium ester의 hydrolysis가 allylic alcohol을 준다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.20)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.20](../../figures/L16/source/L16_p20.png)
+
 ## 9. [1,5] sigmatropic 수소 이동
 
 > 개념 문서: [1,5-hydrogen shift](../../wiki/반응/1,5-수소%20이동.md)
@@ -636,6 +621,10 @@ Dreiding(1983)의 분자 내 DA 예가 이를 잘 보여 준다. 단편화 반�
 
 > 개념 문서: [1,5-hydrogen shift](../../wiki/반응/1,5-수소%20이동.md), [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md)
 
+이 절을 읽고 답할 질문: 수소가 몇 칸 옮기느냐에 따라 suprafacial/antarafacial이 어떻게 바뀌나? (출처: Clayden p.909)
+
+thermal [1,5]H는 supra, thermal [1,7]H는 antara다. 그 차이는 orbital 말단 위상과 실제 사슬의 도달 가능성을 함께 확인해 설명한다. vitamin D의 마지막 thermal [1,7]과 앞의 광화학 ring opening은 서로 다른 단계다. (출처: L16 p.21–25; L17 p.17–18)
+
 ### 10.1 열적 수소 이동 정리
 
 [1,5]H만 suprafacial로 쉽게 일어나고 [1,3]H와 [1,7]H는 **antarafacial** 이어야 한다. Woodward–Hoffmann으로 확인하면 다음과 같다(H 쪽은 언제나 보존이므로 $\sigma2\mathrm{s}$ 로 둔다).
@@ -652,6 +641,10 @@ Clayden의 요약표도 같다. [1,3]H antarafacial·불가능, [1,5]H suprafaci
 - **[1,7]H가 가능한 이유:** triene 사슬은 충분히 길고 유연해서 H가 윗면에서 떠나 아랫면으로 돌아올 수 있다. orbital로 보면 hexatriene LUMO는 node가 셋이라 양 끝 lobe 위상이 반대이고, 그래서 antarafacial 이동에서 겹침이 맞는다.
 
 (출처: Clayden p.921)
+
+![diene과 triene LUMO 말단 위상](../../figures/L16/hydrogen_shift_terminal_phases.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
 
 #### [1,3]H: 규칙상 allowed여도 기하가 맞지 않는 예
 
@@ -683,6 +676,12 @@ Clayden의 요약표도 같다. [1,3]H antarafacial·불가능, [1,5]H suprafaci
 
 그림: [1,5]H는 thermal suprafacial과 photochemical antarafacial이 서로 대응하고, [1,7]H는 thermal antarafacial과 photochemical suprafacial이 대응한다. 각 작은 그림은 pi 성분의 두 말단만 표시했다. 같은 면인지 반대 면인지 직접 읽은 뒤 왼쪽의 이동 종류와 위의 조건을 확인한다. Vitamin D 경로의 마지막 [1,7]H 이동에는 thermal 조건으로 판정하며, 앞 단계에 빛이 필요했다는 이유로 마지막 H 이동을 photochemical로 바꾸지 않는다. (보충 근거: Clayden p.921–922)
 
+![photo 17 h shift](../../figures/L16/photo_17_h_shift.svg)
+
+그림: 보충: 원본의 치환기를 생략한 heptatriene 모형이다. 주황 H로 옮겨지는 수소를 표시하고 세 C=C의 위치 변화를 함께 추적한다. 광화학 [1,7]은 suprafacial이다. (원본 대조: L16_Sigmatropic rearrangements.pdf p.25)
+
+[원본 자료에서 세부 구조·입체배치 확인: L16_Sigmatropic rearrangements.pdf p.25](../../figures/L16/source/L16_p25.png)
+
 ### 10.3 비타민 D: [1,7]H 이동은 빛 없이 일어난다
 
 몸이 비타민 D를 만드는 마지막 단계가 [1,7]H sigmatropic 이동이다. 프로비타민 D2가 비타민 D2로 바뀌는 이 단계는 **빛 없이 저절로** 일어나므로 열적 반응이고, 따라서 antarafacial이어야 한다. triene이 충분히 유연하므로 문제없다. 그렇다면 몸은 왜 햇빛이 필요할까? 그 앞 단계, 즉 ergosterol에서 프로비타민 D2를 만드는 고리 열림이 빛으로만 일어나는 **electrocyclic reaction** 이기 때문이다. 이 이야기는 [L17](L17_Electrocyclic_Reactions.md) 5.2절에서 이어진다.[^6] (출처: Clayden p.921–922; Wade p.693)
@@ -700,6 +699,8 @@ Clayden의 요약표도 같다. [1,3]H antarafacial·불가능, [1,5]H suprafaci
 | [1,7]H | 8원자 | $\pi6\mathrm{a}$ + $\sigma2\mathrm{s}$ (합 1) | antarafacial 허용, 가능 | 비타민 D |
 
 광화학 조건에서는 suprafacial/antarafacial 결론이 뒤집힌다. (출처: Clayden p.912–913, p.918, p.921)
+
+더 읽기: [Claisen](../../wiki/반응/클라이젠%20자리옮김.md), [Cope](../../wiki/반응/코프%20자리옮김.md), [hydrogen shifts](../../wiki/반응/1,5-수소%20이동.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
 ## 흔한 오해
 

@@ -9,44 +9,21 @@
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## 읽는 순서와 이번 강의의 핵심 질문
+## 1. conjugated system란 무엇이고, 왜 $\beta$-탄소가 양전하를 띠나?
 
-L11은 같은 반응식을 여러 이름으로 외우는 강의가 아니라, **electron-deficient conjugated 계에 무엇이 어디로 붙고, 그 뒤 어떤 작용기가 회복되는가를** 따라가는 강의다. 1–2절에서 기본 전자 이동을 읽고, 3절에서 공격 위치를 고른 뒤, 4–6절에서 donor·acceptor를 만드는 방법을 비교한다. 마지막 7절에서는 leaving group 때문에 첨가가 치환으로 이어지는 경우를 본다. (출처: L11 p.2–24)
+이 절을 읽고 답할 질문: 왜 보통 alkene과 달리 $\beta$-탄소가 electrophile인가?
 
-| 읽을 부분 | 읽고 나서 설명할 질문 |
-|---|---|
-| 1절: conjugated system | 왜 보통 alkene과 달리 $\beta$-탄소가 electrophile인가? |
-| 2절: amine·organocuprate | 새 결합을 만드는 원자는 무엇이며 전하와 H는 어떻게 정리되는가? |
-| 3절: 1,2/1,4 | 작용기·nucleophile·조건을 바꾸면 무엇이 달라지는가? |
-| 4절: enolate Michael | 어떤 두 탄소가 연결되며 왜 1,5-dicarbonyl인가? |
-| 5절: enamine | N이 전자를 밀어 주는데 왜 새 결합은 C에서 생기는가? |
-| 6절: iminium catalysis | donor 활성화와 acceptor 활성화는 어떻게 다른가? |
-| 7절: addition–elimination·SNAr | Nu가 붙은 뒤 왜 H를 받지 않고 leaving group이 나가는가? |
-| 8절: 적용 순서 | 공격 원자·intermediate·후처리를 나누어 답안을 검산할 수 있는가? |
+> 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
+
+L11은 같은 반응식을 여러 이름으로 외우는 강의가 아니라, **electron-deficient conjugated 계에 무엇이 어디로 붙고, 그 뒤 어떤 작용기가 회복되는가를** 따라가는 강의다. (출처: L11 p.2–24)
 
 아래의 그림과 반응식은 각 절의 설명에 맞춰 읽는다. 굽은 화살표는 전자쌍, 직선 화살표는 반응 단계, 공명 화살표는 같은 종의 기여 구조 사이 관계를 나타낸다. (출처: L11 p.3–24)
-
-## 개요
 
 conjugate addition(1,4-첨가)는 $\alpha,\beta$-unsaturated carbonyl 화합물의 C=C 이중결합에 nucleophile이 붙는 반응이다.
 L1~L2에서 본 alkene은 electron-rich하므로 electrophile(E+)을 받아들이는 쪽이었다.
 <!-- comment: [완료 2026-10-17] 이미지 추가 바람 직후 내용에 알맞게 — enone_resonance.svg 삽입 -->
 C=C가 carbonyl 같은 electron-withdrawing group(EWG)과 conjugated system을 이루면, 전자 밀도가 낮아진 alkene의 탄소가 **electrophile로** 반응할 수 있다.
-
-![methyl vinyl ketone의 resonance contributor: carbonyl 탄소와 beta 탄소의 electrophilic 성격](../../figures/L11/enone_resonance.svg)
-
-그림: methyl vinyl ketone의 resonance contributor. C=O와 C=C의 $\pi$ 전자가 이동하면 양전하가 carbonyl 탄소뿐 아니라 $\beta$-탄소에도 놓일 수 있다. 이 때문에 conjugated alkene의 $\beta$-탄소가 nucleophile의 공격을 받는다. (출처: L11 p.3)
-
-이 강의는 이 "뒤집힌 alkene"이 amine, thiol, cyanide ion, 유기구리 시약, enolate, enamine 같은 nucleophile과 어떻게 반응하는지 다루고,
-nucleophile이 carbonyl 탄소를 공격할지(1,2) $\beta$-탄소를 공격할지(1,4)를 무엇이 정하는지 정리한다.
-뒤쪽에서는 L7(enolate alkylation), L8(aldol), L10(enol과 enamine)에서 만든 nucleophile들을 다시 꺼내 1,5-dicarbonyl 화합물을 만들고,
-chiral amine 촉매가 만드는 iminium ion과 nucleophilic aromatic substitution(SNAr)까지 이어간다. SNAr는 conjugate addition 뒤에 $\beta$ -leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
-
----
-
-## 1. conjugated system란 무엇이고, 왜 $\beta$-탄소가 양전하를 띠나?
-
-> 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
+methyl vinyl ketone의 resonance contributor에서 C=O와 C=C의 $\pi$ 전자가 이동하면 양전하가 carbonyl 탄소뿐 아니라 $\beta$-탄소에도 놓일 수 있다. 이 때문에 conjugated alkene의 $\beta$-탄소가 nucleophile의 공격을 받는다. (출처: L11 p.3)
 
  $\alpha,\beta$-unsaturated carbonyl 화합물은 C=C가 C=O와 바로 붙어있는 분자다.
 carbonyl 탄소 옆이 $\alpha$-탄소, 그 다음이 $\beta$-탄소다. 슬라이드에 나온 대표 예시는 다음과 같다.
@@ -86,7 +63,12 @@ resonance contributor를 그릴 때에는 원자나 H를 움직이지 않고 전
 
 ## 2. conjugate addition(Michael addition)의 일반형
 
+이 절을 읽고 답할 질문: 새 결합을 만드는 원자는 무엇이며 전하와 H는 어떻게 정리되는가?
+
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md), [keto-enol tautomerization](../../wiki/반응/케토-엔올%20토토머화.md), [organocuprate](../../wiki/시약/유기구리%20시약.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md)
+
+이 절부터는 이 "뒤집힌 alkene"이 amine, thiol, cyanide ion, 유기구리 시약, enolate, enamine 같은 nucleophile과 어떻게 반응하는지 다루고,
+nucleophile이 carbonyl 탄소를 공격할지(1,2) $\beta$-탄소를 공격할지(1,4)를 무엇이 정하는지 정리한다.
 
 conjugate addition은 **Michael addition** 이라고도 부른다. 일반식은 다음과 같다.
 
@@ -260,6 +242,8 @@ CuCl이 **없으면** MeMgBr이 C=O에 직접 첨가(1,2-첨가)한다.
 이 방법으로 고리형 ketone도 읽는다. 목표물의 $\beta$-탄소에 methyl 둘이 있으면 하나는 출발 enone의 치환기, 다른 하나는 cuprate에서 전달된 methyl로 나눌 수 있다. 반면 $\gamma$-탄소의 치환기를 cuprate에서 넣겠다고 계획하면 공격 위치가 맞지 않는다. 마지막에는 **받개의 탄소 수 + 전달되는 R 한 조각의 탄소 수 = 생성물 탄소 수를** 확인한다. $\mathrm{R_2CuLi}$ 에 R이 둘 적혀 있어도 한 번의 conjugate addition에 R 둘을 같은 탄소에 동시에 붙이지 않는다. (출처: L11 p.6–8)
 
 ## 3. 1,2-첨가와 1,4-첨가: nucleophile은 어디를 칠까?
+
+이 절을 읽고 답할 질문: 작용기·nucleophile·조건을 바꾸면 무엇이 달라지는가?
 
 > 개념 문서: [1,2-addition vs 1,4-addition](../../wiki/개념/1,2-첨가와%201,4-첨가.md), [NaBH4](../../wiki/시약/NaBH4.md), [addition-elimination](../../wiki/반응/첨가-제거%20반응.md), [hard and soft acids and bases (HSAB)](../../wiki/개념/하드-소프트%20산염기.md), [Grignard reagent](../../wiki/시약/그리냐르%20시약.md), [organocuprate](../../wiki/시약/유기구리%20시약.md), [kinetic vs thermodynamic control](../../wiki/개념/속도론적%20지배와%20열역학적%20지배.md)
 
@@ -522,7 +506,12 @@ kinetic product를 고를 때 비교하는 것은 **출발물에서 각 transiti
 
 ## 4. enolate의 conjugate addition: 1,5-dicarbonyl을 만드는 길
 
+이 절을 읽고 답할 질문: 어떤 두 탄소가 연결되며 왜 1,5-dicarbonyl인가?
+
 > 개념 문서: [Michael reaction](../../wiki/반응/마이클%20반응.md), [enol and enolate](../../wiki/개념/엔올과%20엔올레이트.md), [aldol reaction](../../wiki/반응/알돌%20반응.md), [kinetic vs thermodynamic enolate](../../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [alkoxide base](../../wiki/시약/알콕사이드%20염기.md), [malonic ester synthesis](../../wiki/반응/말론산%20에스터%20합성.md), [alpha-hydrogen acidity](../../wiki/개념/α-수소의%20산도.md)
+
+이 절부터는 L7(enolate alkylation), L8(aldol), L10(enol과 enamine)에서 만든 nucleophile들을 다시 꺼내 1,5-dicarbonyl 화합물을 만들고,
+chiral amine 촉매가 만드는 iminium ion과 nucleophilic aromatic substitution(SNAr)까지 이어간다.
 
 ### 4.1 기본형
 
@@ -723,6 +712,8 @@ nitromethane의 연속 반응에서는 먼저 분자 사이 Michael addition으�
 
 ## 5. enamine: 중성이면서 soft nucleophile
 
+이 절을 읽고 답할 질문: N이 전자를 밀어 주는데 왜 새 결합은 C에서 생기는가?
+
 > 개념 문서: [enamine](../../wiki/개념/엔아민.md), [Stork enamine reaction](../../wiki/반응/스토크%20엔아민%20반응.md), [iminium ion](../../wiki/개념/이미늄%20이온.md), [reductive amination](../../wiki/반응/환원성%20아미노화.md), [Michael reaction](../../wiki/반응/마이클%20반응.md)
 
 ### 5.1 enamine 복습
@@ -842,6 +833,8 @@ Triton B는 수산화 benzyltrimethylammonium이고, ester $\alpha$ -H를 떼는
 
 ## 6. iminium ion 촉매: 받개를 더 강한 electrophile로 바꾸기
 
+이 절을 읽고 답할 질문: donor 활성화와 acceptor 활성화는 어떻게 다른가?
+
 > 개념 문서: [iminium-catalysed conjugate addition](../../wiki/반응/이미늄%20촉매%20공액%20첨가.md), [iminium ion](../../wiki/개념/이미늄%20이온.md)
 
 지금까지는 nucleophile을 바꿔서 conjugate addition을 조절했다. 그러면 받개 쪽을 강화할 수는 없을까? enal을 2차 amine 촉매와 condensation해 **iminium ion으로** 바꾸면 된다. iminium ion은 중성 carbonyl 화합물보다 더 electrophilic이다. 양전하를 띤 C=N+가 C=O보다 전자를 더 세게 끌기 때문이다.
@@ -900,7 +893,11 @@ ee의 의미를 수치로 확인해 보면, 두 enantiomer만 있다고 할 때 
 
 ## 7. $\beta$ -leaving group이 있는 conjugate addition과 SNAr
 
+이 절을 읽고 답할 질문: Nu가 붙은 뒤 왜 H를 받지 않고 leaving group이 나가는가?
+
 > 개념 문서: [addition-elimination](../../wiki/반응/첨가-제거%20반응.md), [SNAr](../../wiki/반응/친핵성%20방향족%20치환.md), [Meisenheimer complex](../../wiki/개념/마이젠하이머%20착물.md)
+
+SNAr는 conjugate addition 뒤에 $\beta$ -leaving group이 떨어지는 반응으로 보면 이해가 쉽다.
 
 ### 7.1 첨가-제거 메커니즘
 
@@ -1002,6 +999,8 @@ NO₂에 음전하를 표시한 그림에서는 원래 nitro group의 전하도 
 F가 반응을 빠르게 한다는 설명은 이 활성화된 SNAr의 **느린 addition 단계에** 관한 것이다. “C–F 결합이 가장 약해서 F⁻가 쉽게 나간다”는 설명과는 반대다. 최종 치환 위치를 표시한 뒤에는 X가 Nu로 바뀌었는지, EWG는 그대로 남았는지, 고리가 다시 aromatic한지 확인한다. 염기성 조건의 nitrophenol/phenoxide 구분은 마지막 protonation 상태의 문제이며 새 C–O 결합이 생긴 위치를 바꾸지 않는다. (출처: L11 p.22–23)
 
 ## 8. 요약
+
+이 절을 읽고 답할 질문: 공격 원자·intermediate·후처리를 나누어 답안을 검산할 수 있는가?
 
 > 개념 문서: [conjugate addition](../../wiki/반응/공액%20첨가.md)
 

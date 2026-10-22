@@ -11,23 +11,11 @@
 
 
 
-## 개요
-
-L1–L2에서 alkene의 이중결합은 bromine이나 과산 같은 electrophile을 만나자마자 반응했다. benzene도 겉보기에는 이중결합이 세 개나 있다. 그러면 benzene도 alkene처럼 반응할까? **그렇지 않다.** benzene은 mCPBA와도, 그냥 Br₂와도 반응하지 않는다.
-
-이 강의의 출발 질문은 "benzene은 왜 alkene과 다르게 행동하는가, 그리고 어떻게 하면 반응시킬 수 있는가?"다. 답은 두 가지로 요약된다.
-1. benzene과 반응시키려면 **훨씬 강력한 electrophile**을 만들어야 한다. Lewis acid, 진한 sulfuric acid 등이 그 역할을 한다.
-2. 일단 반응하면 benzene은 **첨가가 아니라 치환**으로 끝난다. H 하나를 내주고 aromaticity을 되찾는 쪽을 택하기 때문이다.
-
-이 반응을 **electrophilic aromatic substitution(S<sub>E</sub>Ar)** 이라 한다. 이 강의에서는 halogenation, nitration, sulfonation, Friedel–Crafts alkylation과 acylation, 그리고 phenol의 반응을 다룬다. 고리에 이미 붙어 있는 치환기가 반응 위치를 어떻게 정하는지(배향 효과)는 L4에서 본격적으로 다룬다. (출처: L3 p.7)
-
-> 강의 첫 장에는 Ben Bradshaw(바르셀로나 대학)의 "Synthetic Map"이 실려 있다. 작용기들 사이의 변환 관계를 지하철 노선도처럼 그린 그림이다. 이 과목에서 배우는 반응들이 그 지도 위의 "노선"이라고 생각하면 큰 그림을 잡는 데 도움이 된다.[1] (출처: L3 p.1)
-
----
-
 ## 0. 복습: electrophile의 $\delta^{+}$와 alkene의 HOMO
 
 > 개념 문서: [electrophile and nucleophile](../../wiki/개념/친전자체와%20친핵체.md), [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md)
+
+> 강의 첫 장에는 Ben Bradshaw(바르셀로나 대학)의 "Synthetic Map"이 실려 있다. 작용기들 사이의 변환 관계를 지하철 노선도처럼 그린 그림이다. 이 과목에서 배우는 반응들이 그 지도 위의 "노선"이라고 생각하면 큰 그림을 잡는 데 도움이 된다.[1] (출처: L3 p.1)
 
 강의는 L1–L2의 반응 표를 다시 보여주면서 각 시약의 **$\delta^{+}$ 부분**(HX의 H, H₂O의 H, X₂/H₂O의 X, BH₃의 B)을 강조한다. 이 $\delta^{+}$ 부분이 electrophile다. (출처: L3 p.4)
 
@@ -38,6 +26,8 @@ isobutene의 HOMO 그림을 보면 전자 밀도가 **CH₂ 말단**에 높다. 
 ## 1. benzene은 왜 alkene처럼 반응하지 않는가
 
 > 개념 문서: [aromaticity](../../wiki/개념/방향족성.md), [electrophilic aromatic substitution](../../wiki/반응/친전자성%20방향족%20치환.md), [aromatic halogenation](../../wiki/반응/방향족%20할로젠화.md), [Lewis acid catalyst](../../wiki/시약/루이스%20산%20촉매.md)
+
+L1–L2에서 alkene의 이중결합은 bromine이나 과산 같은 electrophile을 만나자마자 반응했다. benzene도 겉보기에는 이중결합이 세 개나 있다. 그러면 benzene도 alkene처럼 반응할까? **그렇지 않다.** benzene은 mCPBA와도, 그냥 Br₂와도 반응하지 않는다.
 
 benzene은 평면 정육각형이다. 탄소 여섯 개가 모두 sp² 혼성이고, 각 탄소에 붙은 H는 고리 평면 위에 놓인다. 모든 C-C 결합 길이는 **1.39 Å**으로 같다. 이 값은 단일결합(C-C 1.47 Å)과 이중결합(C=C 1.33 Å)의 중간이다.
 
@@ -62,6 +52,10 @@ benzene의 특별한 안정성(방향족성)은 탄소 여섯 개의 p 궤도함
 
 ### 1.1 Lewis acid을 넣으면 반응한다
 
+이 강의의 출발 질문은 "benzene은 왜 alkene과 다르게 행동하는가, 그리고 어떻게 하면 반응시킬 수 있는가?"다. 답은 두 가지로 요약된다.
+1. benzene과 반응시키려면 **훨씬 강력한 electrophile**을 만들어야 한다. Lewis acid, 진한 sulfuric acid 등이 그 역할을 한다.
+2. 일단 반응하면 benzene은 **첨가가 아니라 치환**으로 끝난다. H 하나를 내주고 aromaticity을 되찾는 쪽을 택하기 때문이다.
+
 ![Lewis acid으로 활성화된 Br2를 benzene의 π 결합이 공격해 cyclohexadienyl cation이 되고, H+가 빠져 bromobenzene이 되는 메커니즘](../../figures/L03/bromination_lewis.svg)
 
 그림: 1단계(속도 결정): benzene의 $\pi$ 결합(파랑)이 AlCl₃와 착물을 이룬 Br–Br⁺의 바깥쪽 Br(빨강)을 공격한다. 두 번째 화살표는 Br–Br 결합 전자가 AlCl₃ 쪽 Br로 넘어가는 것을 나타낸다(AlCl₃Br⁻가 된다). 새로 생긴 C–Br 결합은 초록색이다. 2단계(빠름): sp³ 탄소의 C–H 결합 전자가 고리 안으로 들어가 양전하를 지우고(−H⁺), 방향족성이 회복된다. 그림 속 cation은 공명 구조 셋 중 하나(양전하가 오르토 탄소에 있는 것)만 그렸다.
@@ -78,6 +72,8 @@ bromine 원자가 수소 원자 하나를 대신했으니 치환 반응이다. �
 ## 2. S<sub>E</sub>Ar의 메커니즘: cyclohexadienyl cation
 
 > 개념 문서: [electrophilic aromatic substitution](../../wiki/반응/친전자성%20방향족%20치환.md), [arenium ion](../../wiki/개념/아레늄%20이온.md)
+
+이 반응을 **electrophilic aromatic substitution(S<sub>E</sub>Ar)** 이라 한다. 이 강의에서는 halogenation, nitration, sulfonation, Friedel–Crafts alkylation과 acylation, 그리고 phenol의 반응을 다룬다. 고리에 이미 붙어 있는 치환기가 반응 위치를 어떻게 정하는지(배향 효과)는 L4에서 본격적으로 다룬다. (출처: L3 p.7)
 
 모든 S<sub>E</sub>Ar은 같은 두 단계를 거친다.
 

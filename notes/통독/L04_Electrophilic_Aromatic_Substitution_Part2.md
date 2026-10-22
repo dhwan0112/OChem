@@ -11,19 +11,6 @@
 
 
 
-## 개요
-
-L3에서는 benzene 자체가 어떻게 electrophile과 반응하는지 배웠다. 그런데 실제 합성에서 다루는 방향족 고리에는 대부분 **이미 치환기가 붙어 있다**. 그러면 두 가지 질문이 생긴다.
-
-1. **반응성**: 이 치환기는 고리를 benzene보다 빠르게 반응하게 만드는가(활성화, activating), 느리게 만드는가(비활성화, deactivating)?
-2. **배향**: 새 electrophile은 ortho, 메타, para 중 어디로 들어가는가?
-
-L4의 답은 하나의 원리로 정리된다. **cyclohexadienyl cation intermediate를 더 안정하게 만드는 경로가 이긴다.** L3에서 본 것처럼 그 cation의 양전하는 공격 위치를 기준으로 ortho, para 탄소에만 놓인다. 그래서 원래 치환기가 전자를 주는 기(EDG)라면 양전하가 치환기 바로 옆 ipso에 놓이는 ortho/para 공격이 유리하다. 전자를 끄는 기(EWG)라면 그런 배치를 피할 수 있는 메타 공격이 상대적으로 유리하다.
-
-이 강의는 aniline, alkylbenzene, 전자 끄는 기, 할로젠을 차례로 보고, 치환기가 여러 개일 때의 경쟁과 NMR 데이터로 예측을 확인하는 방법까지 다룬다. (출처: L4 p.2, p.24)
-
----
-
 ## 0. 복습: 테트랄론 합성 메커니즘
 
 > 개념 문서: [Friedel–Crafts acylation](../../wiki/반응/프리델-크래프츠%20아실화.md), [Clemmensen reduction](../../wiki/반응/클레멘센%20환원.md), [acylium ion](../../wiki/개념/아실륨%20이온.md)
@@ -49,6 +36,13 @@ $\begin{aligned} & \mathrm{L_3}\ \text{p.22의 빈칸}\ \text{문제}(\text{succ
 ## 1. aniline: 질소 비공유 전자쌍은 고리를 훨씬 더 강하게 활성화한다
 
 > 개념 문서: [substituent effect](../../wiki/개념/치환기%20효과.md), [aromatic halogenation](../../wiki/반응/방향족%20할로젠화.md), [protecting group](../../wiki/개념/보호기.md)
+
+L3에서는 benzene 자체가 어떻게 electrophile과 반응하는지 배웠다. 그런데 실제 합성에서 다루는 방향족 고리에는 대부분 **이미 치환기가 붙어 있다**. 그러면 두 가지 질문이 생긴다.
+
+1. **반응성**: 이 치환기는 고리를 benzene보다 빠르게 반응하게 만드는가(활성화, activating), 느리게 만드는가(비활성화, deactivating)?
+2. **배향**: 새 electrophile은 ortho, 메타, para 중 어디로 들어가는가?
+
+이 강의는 aniline, alkylbenzene, 전자 끄는 기, 할로젠을 차례로 보고, 치환기가 여러 개일 때의 경쟁과 NMR 데이터로 예측을 확인하는 방법까지 다룬다. (출처: L4 p.2, p.24)
 
 ### 1.1 phenol보다 더 반응성이 크다
 
@@ -330,6 +324,8 @@ halobenzene의 nitration(진한 HNO₃/H₂SO₄, 25 °C) 데이터는 다음과
 ## 5. 전자 효과 요약
 
 > 개념 문서: [substituent effect](../../wiki/개념/치환기%20효과.md), [aromatic halogenation](../../wiki/반응/방향족%20할로젠화.md)
+
+L4의 답은 하나의 원리로 정리된다. **cyclohexadienyl cation intermediate를 더 안정하게 만드는 경로가 이긴다.** L3에서 본 것처럼 그 cation의 양전하는 공격 위치를 기준으로 ortho, para 탄소에만 놓인다. 그래서 원래 치환기가 전자를 주는 기(EDG)라면 양전하가 치환기 바로 옆 ipso에 놓이는 ortho/para 공격이 유리하다. 전자를 끄는 기(EWG)라면 그런 배치를 피할 수 있는 메타 공격이 상대적으로 유리하다.
 
 | 전자 효과 | 예 | 활성화 | 배향 |
 |---|---|---|---|

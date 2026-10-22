@@ -11,25 +11,13 @@
 
 
 
-## 개요
-
-L1에서는 "alkene의 $\pi$ 전자가 electrophile을 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. 
-L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
-
-L2는 다음 질문들에 답한다.
-- regioselectivity을 한 줄로 예측하는 요령이 있을까? ($\delta^+$/$\delta^-$ 규칙)
-- epoxide를 열 때 산성 조건과 염기성 조건에서 결과가 왜 정반대가 될까?
-- 1,2-diol을 *trans*로도, *cis*로도 만들 수 있을까?
-- 이중결합을 완전히 끊어 carbonyl 두 개로 쪼갤 수 있을까?
-- Markovnikov 규칙과 "반대로" OH를 붙이는 방법은 무엇일까?
-
-강의 끝의 요약 지도(p.28)는 *trans*-2-butene 하나에서 출발해 열 가지가 넘는 생성물로 가는 길을 보여준다. 이 문서를 다 읽은 뒤 그 지도를 보면서 각 화살표의 시약과 메커니즘을 말로 설명할 수 있다면 L1과 L2를 정복한 것이다. (출처: L2 p.28)
-
----
-
 ## 1. regioselectivity을 예측하는 한 줄 요령: $\delta^+$와 $\delta^-$
 
 > 개념 문서: [Markovnikov's rule](../../wiki/개념/마르코프니코프%20규칙.md)
+
+이 절을 읽고 답할 질문: regioselectivity을 한 줄로 예측하는 요령이 있을까? ($\delta^+$/$\delta^-$ 규칙)
+
+L1에서는 "alkene의 $\pi$ 전자가 electrophile을 공격한다"는 기본 원리와 함께 bromonium 이온과 carbocation이라는 두 intermediate를 배웠다. L2는 그 원리를 **stereochemistry** 과 **실제 합성 도구**로 확장한다.
 
 L1에서 본 반응들의 regioselectivity을 다시 보자.
 - HBr addition: H($\delta^+$)는 덜 치환된 탄소로, Br($\delta^-$)은 더 치환된 탄소로 간다. intermediate는 carbocation이다.
@@ -65,6 +53,8 @@ isoprene + HBr 반응에서는 regioselectivity 문제가 **두 번** 나온다(
 ## 2. epoxide 고리 열기: 조건이 위치를 결정한다
 
 > 개념 문서: [epoxide ring opening](../../wiki/반응/에폭사이드%20고리%20열기.md), [loose SN2 transition state](../../wiki/개념/느슨한%20SN2%20전이%20상태.md)
+
+이 절을 읽고 답할 질문: epoxide를 열 때 산성 조건과 염기성 조건에서 결과가 왜 정반대가 될까?
 
 ![epoxide(oxirane) 기본 고리 구조](../../figures/L02/epoxide_ring.svg)
 
@@ -189,6 +179,8 @@ Br₂ 대신 **N-bromosuccinimide(NBS)** 를 써도 bromonium 이온을 만들 �
 
 > 개념 문서: [dihydroxylation](../../wiki/반응/다이하이드록실화.md), [OsO4](../../wiki/시약/OsO4.md), [NMO](../../wiki/시약/NMO.md), [mCPBA](../../wiki/시약/mCPBA.md)
 
+이 절을 읽고 답할 질문: 1,2-diol을 *trans*로도, *cis*로도 만들 수 있을까?
+
 이중결합 양 끝에 OH를 하나씩 붙이면 1,2-diol(1,2-diol)이 된다. 두 OH의 상대 배치는 방법에 따라 고를 수 있다.
 
 ### 4.1 *anti* (*trans*) diol: 에폭시화 → 산성 가수분해
@@ -236,6 +228,8 @@ OsO₄는 syn 첨가이므로 생성물의 입체화학은 출발 alkene의 기�
 ---
 
 ## 5. 이중결합 완전히 끊기
+
+이 절을 읽고 답할 질문: 이중결합을 완전히 끊어 carbonyl 두 개로 쪼갤 수 있을까?
 
 ### 5.1 OsO₄ → NaIO₄ (periodic acid염 절단)
 
@@ -329,6 +323,8 @@ $\text{alcohol} \xrightarrow{\text{산}} \text{alkene은}\ \mathrm{E_1}\ \text{�
 
 ## 7. 수소붕소화: "반마르코프니코프" alcohol
 
+이 절을 읽고 답할 질문: Markovnikov 규칙과 "반대로" OH를 붙이는 방법은 무엇일까?
+
 ### 7.1 보레인의 정체
 
 > 개념 문서: [borane](../../wiki/시약/보레인.md)
@@ -405,6 +401,8 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 ---
 
 ## 반응 정리표
+
+강의 끝의 요약 지도(p.28)는 *trans*-2-butene 하나에서 출발해 열 가지가 넘는 생성물로 가는 길을 보여준다. 이 문서를 다 읽은 뒤 그 지도를 보면서 각 화살표의 시약과 메커니즘을 말로 설명할 수 있다면 L1과 L2를 정복한 것이다. (출처: L2 p.28)
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|

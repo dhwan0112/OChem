@@ -15,44 +15,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## Cycloaddition을 다음 합성 단계와 연결한다 — 강의 확인·보강
-
-세 원자로 된 반응 성분을 모두 같은 전자 수로 세지 않는다. allyl cation은 2e, nitrone이나 diazomethane 같은 1,3-dipole은 4e다. 그래서 전자는 diene과 [4+3], 후자는 alkene과 [3+2]를 열적 supra–supra 경로로 한다. Tutorial 5의 “왜 [4+3]이 아닌가”는 바로 이 차이를 묻는다. (출처: L14 p.22–23; L15 p.13–16; Tutorial Questions 5 p.1–2)
-
-ketene은 누적 이중결합의 두 $\pi$ 계가 직교해 일반 alkene과 다른 thermal [2+2] 접근이 가능하다. acid chloride/Et3N 조건을 보면 먼저 ketene 생성 여부를 찾는다. cyclobutanone의 carbonyl이 어느 출발물에서 왔는지 확인하고 enol ether의 O를 고리 원자로 집어넣지 않는다. (출처: L15 p.6–8; Tutorial Questions 5 p.3)
-
-nitrone adduct를 Zn/HOAc로 열면 amino alcohol이 드러나며, 남은 alkene 옆 OH는 다음 MnO2 산화의 단서가 된다. Danishefsky diene도 cycloaddition 직후의 silyl enol ether/OMe를 가진 생성물과 후처리로 얻는 enone을 구별한다. 후처리 reagent가 없는 문제에서 그 단계를 임의로 추가하지 않는다. (출처: L15 p.16,26; Tutorial 4_answers p.1; Tutorial Questions 5 p.2)
-
-더 읽기: [1,3-dipolar cycloaddition](../../wiki/반응/1,3-쌍극자%20고리화%20첨가.md), [ketene cycloaddition](../../wiki/반응/케텐%202+2%20고리화%20첨가.md), [Tutorial 5](../../practice/Tutorial_5.md).
-
-![Cycloaddition을 다음 합성 단계와 연결한다](../../figures/L15/diazomethane_resonance.svg)
-
-그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
-
-![nitrone no reduction](../../figures/L15/nitrone_no_reduction.svg)
-
-그림: N–O 결합의 환원으로 amino alcohol이 되는 일반 고리 모형이다. 원본의 치환·입체배치나 Tutorial 5의 bicyclic 정답을 확정한 그림은 아니다. (원본 대조: L15_cycloaddition part 3.pdf p.16)
-
-[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.16](../../figures/L15/source/L15_p16.png)
-
-![danishefsky diene](../../figures/L15/danishefsky_diene.svg)
-
-![brassard diene](../../figures/L15/brassard_diene.svg)
-
-![rawal diene](../../figures/L15/rawal_diene.svg)
-
-그림: Danishefsky·Brassard·Rawal diene을 각각 분리했다. 모든 diene 탄소의 H를 명시했다. 파랑은 electron-rich diene과 주개 heteroatom이며 R은 원본처럼 일반 치환기다. (원본 대조: L15_cycloaddition part 3.pdf p.26)
-
-[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.26](../../figures/L15/source/L15_p26.png)
-
-
-## 개요
-
-cycloaddition 시리즈의 마지막 편이다. 앞 강의들에서 Diels–Alder 반응과 frontier molecular orbital(FMO), Woodward–Hoffmann 규칙을 익혔다면(→ [L13](L13_Cycloaddition_Part1.md)·[L14](L14_Cycloaddition_Part2.md) cycloaddition 1·2부 문서 참고), 이번 강의는 그 규칙의 "예외처럼 보이는 경우"와 "다른 고리 크기"로 시야를 넓힌다. 먼저 원래는 열적으로 금지되어야 할 [2+2] cycloaddition이 ketene과 isocyanate에서는 왜 버젓이 일어나는지 살펴보고, 그 결과물인 $\beta$-lactam( $\beta$ -lactam)이 penicillin과 어떻게 연결되는지 본다. 이어서 1,3-dipole이 만드는 5원자 heterocycle, 그리고 사실은 1,3-dipolar cycloaddition이 세 번 연달아 일어나는 반응인 ozonolysis를 다룬다. 마지막으로 siloxydiene을 이용한 비대칭 합성과, 살아 있는 세포 안에서 cycloaddition을 일으키는 bioconjugation chemistry로 마무리한다.
-
 ## 0. 워밍업: Diels–Alder 생성물은 어떻게 한 번에 맞히나? (Practice)
 
 > 개념 문서: [Diels–Alder regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../../wiki/개념/endo%20규칙.md)
+
+cycloaddition 시리즈의 마지막 편이다. 앞 강의들에서 Diels–Alder 반응과 frontier molecular orbital(FMO), Woodward–Hoffmann 규칙을 익혔다면(→ [L13](L13_Cycloaddition_Part1.md)·[L14](L14_Cycloaddition_Part2.md) cycloaddition 1·2부 문서 참고), 이번 강의는 그 규칙의 "예외처럼 보이는 경우"와 "다른 고리 크기"로 시야를 넓힌다.
 
 강의는 복습 문제로 시작한다. 1-acetoxy-1,3-butadiene(AcO-CH=CH-CH=CH2, E)과 (E)-crotonaldehyde(OHC-CH=CH-CH3)를 반응시키면 어떤 cyclohexene이 생길까? 경우의 수가 많아 보이지만, 슬라이드는 이것을 세 번의 결정으로 쪼갠다.
 
@@ -83,6 +50,8 @@ cycloaddition 시리즈의 마지막 편이다. 앞 강의들에서 Diels–Alde
 (출처: L15 p.4–5)
 
 ## 14. 열적 [2+2] cycloaddition (Thermal [2+2] cycloadditions)
+
+먼저 원래는 열적으로 금지되어야 할 [2+2] cycloaddition이 ketene과 isocyanate에서는 왜 버젓이 일어나는지 살펴보고, 그 결과물인 $\beta$-lactam이 penicillin과 어떻게 연결되는지 본다.
 
 ### 14.1 금지된 반응이 왜 일어나나?
 
@@ -138,6 +107,8 @@ ketene은 불안정해서 병에 담아 두고 쓰기 어렵다. 그래서 보�
 그림: 파란색은 cyclopentadiene의 반응하는 C=C(nucleophile 쪽), 빨간색은 ketene의 C=O로, 그 carbonyl 탄소가 electrophilic 자리다. 두 화살표는 같은 방향(시계 방향)으로 돈다. 위쪽 화살표는 diene의 C=C 전자가 ketene의 carbonyl 탄소와 결합하는 것을, 아래쪽 화살표는 ketene의 C=C 전자가 diene의 이웃 탄소와 결합하는 것을 나타낸다. 생성물의 초록 결합이 새 $\sigma$ 결합이며, 쐐기로 그린 두 고리 접합 H는 cis다. C=O는 $CH_2$ 옆 접합 탄소에, $CCl_2$ 는 남은 C=C 옆 접합 탄소에 붙는다.
 
 (출처: L15 p.8)
+
+ketene은 누적 이중결합의 두 $\pi$ 계가 직교해 일반 alkene과 다른 thermal [2+2] 접근이 가능하다. acid chloride/Et3N 조건을 보면 먼저 ketene 생성 여부를 찾는다. cyclobutanone의 carbonyl이 어느 출발물에서 왔는지 확인하고 enol ether의 O를 고리 원자로 집어넣지 않는다. (출처: L15 p.6–8; Tutorial Questions 5 p.3)
 
 ### 14.4 $\beta$-lactam과 penicillin: 4원 고리가 왜 약이 되나?
 
@@ -219,6 +190,10 @@ nitrone을 예로 들어 보자. nitrone은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR�
 
 그림: 슬라이드 표의 nitrile oxide 줄이다. 주황 화살표는 N의 비공유 전자쌍이 C=N 사이로 들어가 C≡N⁺가 되는 공명 전자 이동이다. 빨간 C⁺(왼쪽 구조)가 electrophilic 끝, 파란 O⁻가 nucleophilic 끝이며, C–N–O 위에 $\pi$ 전자 4개가 퍼져 있다. 15.6절의 regioselectivity(alkene 말단 탄소가 이 C와 결합)는 여기서 나온다.
 
+![diazomethane의 두 공명 구조](../../figures/L15/diazomethane_resonance.svg)
+
+그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
+
 (출처: L15 p.13)
 
 ### 15.2 [3+2]는 왜 열적으로 잘 되나?
@@ -230,6 +205,10 @@ nitrone을 예로 들어 보자. nitrone은 R(N⁺)(=CH2)–O⁻와 ⁺CH2–NR�
 보충: diene과 1,3-dipole의 결정적인 차이는 반응 상대의 폭이다. Normal-electron-demand Diels–Alder 반응에서는 주로 diene HOMO와 dienophile LUMO의 interaction을 고려하므로, electron-rich diene과 electron-deficient dienophile의 조합이 유리하다. 이는 모든 diene의 성격을 정의하거나 EWG가 없는 dienophile의 반응을 배제하는 규칙은 아니다. 반면 1,3-dipole은 이름 그대로 nucleophilic 끝과 electrophilic 끝을 다 가져서, 상대가 electron-rich하면 LUMO를, electron-deficient하면 HOMO를 쓴다. 그래서 DA에서는 나쁜 dienophile인 단순 alkene도 좋은 dipolarophile이 된다. 또 DA의 diene은 s-cis여야 했지만, nitrile oxide·azide처럼 직선형인 dipole도 cycloaddition을 잘 한다. (보충 근거: Clayden p.901–902)
 
 (출처: L15 p.14)
+
+세 원자로 된 반응 성분을 모두 같은 전자 수로 세지 않는다. allyl cation은 2e, nitrone이나 diazomethane 같은 1,3-dipole은 4e다. 그래서 전자는 diene과 [4+3], 후자는 alkene과 [3+2]를 열적 supra–supra 경로로 한다. Tutorial 5의 “왜 [4+3]이 아닌가”는 바로 이 차이를 묻는다. (출처: L14 p.22–23; L15 p.13–16; Tutorial Questions 5 p.1–2)
+
+더 읽기: [Tutorial 5](../../practice/Tutorial_5.md).
 
 ### 15.3 nitrone의 regioselectivity: 누가 HOMO를 쓰나?
 
@@ -262,6 +241,14 @@ stereochemistry는 어떨까? 여기서 다루는 nitrone과 단순 alkene의 �
 ![고리형 nitrone(1-pyrroline N-oxide)과 R-CH=CH2의 exo 1,3-dipolar cycloaddition으로 bicyclic isoxazolidine이 생기는 과정](../../figures/L15/cyclic_nitrone_exo_adduct.svg)
 
 그림: 빨간 C=N⁺(LUMO 쪽)을 가진 고리형 nitrone과 파란 C=C(HOMO)의 alkene이다. 세 화살표는 같은 방향(시계 방향)으로 돈다. (1) O⁻의 비공유 전자쌍이 alkene의 치환된 탄소(CHR)와 결합하고, (2) alkene $\pi$ 전자가 말단 $CH_2$ 에서 nitrone 탄소와 결합하며, (3) C=N의 $\pi$ 전자가 N⁺로 돌아간다. 초록 결합이 새로 생긴 C–O와 C–C다. steric hindrance가 작은 exo transition state를 거치므로 R은 고리 반대쪽에 놓이고, 슬라이드처럼 고리 접합 H와 R을 둘 다 쐐기로 그렸다. 이어지는 Zn/HOAc 환원은 앞의 nitrone_no_reduction 그림 참고.
+
+nitrone adduct를 Zn/HOAc로 열면 amino alcohol이 드러나며, 남은 alkene 옆 OH는 다음 MnO2 산화의 단서가 된다. (출처: L15 p.16; Tutorial Questions 5 p.2)
+
+![nitrone no reduction](../../figures/L15/nitrone_no_reduction.svg)
+
+그림: N–O 결합의 환원으로 amino alcohol이 되는 일반 고리 모형이다. 원본의 치환·입체배치나 Tutorial 5의 bicyclic 정답을 확정한 그림은 아니다. (원본 대조: L15_cycloaddition part 3.pdf p.16)
+
+[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.16](../../figures/L15/source/L15_p16.png)
 
 nitrone은 aldehyde $\mathrm{RCHO}$ 와 N-substituted hydroxylamine $\mathrm{RNHOH}$ 의 condensation으로 만든다. imine 형성과 마찬가지로 물이 빠지면서 $\mathrm{R{-}CH{=}N^+(R){-}OH}$ 가 생기고, O에서 proton이 빠지면 nitrone $\mathrm{R{-}CH{=}N^+(R){-}O^-}$ 이 된다(→ [imine 형성](../../wiki/개념/이민.md) 참고).
 
@@ -399,6 +386,16 @@ trioxolane처럼 O–O 결합을 가진 과산화물은 폭발성일 수 있으�
 
 Diels–Alder를 빠르게 하려면 diene을 electron-rich하게 만들면 된다. 그래서 X형 치환기인 siloxy group(-OSiR3), 알콕시기, amino기를 붙인 diene들이 개발되었다. ketone 유래 2-siloxydiene CH2=C(OSiR3)-CH=CH2, 1-siloxydiene R3SiO-CH=CH-CH=CH2, Danishefsky diene CH2=C(OSiR3)-CH=CH-OR', Brassard diene CH2=C(OR')-CH=C(OR'')(OSiR3), Rawal diene CH2=C(OSiR3)-CH=CH-NR'2가 그것이다.
 
+![danishefsky diene](../../figures/L15/danishefsky_diene.svg)
+
+![brassard diene](../../figures/L15/brassard_diene.svg)
+
+![rawal diene](../../figures/L15/rawal_diene.svg)
+
+그림: Danishefsky·Brassard·Rawal diene을 각각 분리했다. 모든 diene 탄소의 H를 명시했다. 파랑은 electron-rich diene과 주개 heteroatom이며 R은 원본처럼 일반 치환기다. (원본 대조: L15_cycloaddition part 3.pdf p.26)
+
+[원본 자료에서 세부 구조·입체배치 확인: L15_cycloaddition part 3.pdf p.26](../../figures/L15/source/L15_p26.png)
+
 이 diene들의 진짜 장점은 생성물을 cyclohexenone으로 바꿀 수 있다는 데 있다. Danishefsky diene을 예로 들면 다음과 같다.
 
 1. Danishefsky diene과 dienophile이 Diels–Alder 반응을 하면 silyl enol ether와 OMe를 가진 cyclohexene이 생긴다.
@@ -411,6 +408,8 @@ C1의 OMe와 C3의 OSiR3가 같은 방향으로 regioselectivity를 밀어주므
 그림: 슬라이드 p.26 아래 박스의 둘째 단계다. 파란 silyl enol ether 산소의 비공유 전자쌍이 C=O를 만들면서(주황 화살표), 파란 C=C의 $\pi$ 전자가 옆 C–C로 옮겨 새 C=C를 만들고, 빨간 C–OMe 결합이 끊어져 OMe가 떨어져 나간다. 초록색이 생성물 cyclohexenone의 C=O와 C=C다. 보충: 슬라이드는 H⁺만 적었는데, 실제로는 산 수용액에서 Si–O가 끊어져 ketone이 된 뒤 $\beta$-OMe가 MeOH로 제거되는 두 단계이며, 그림은 이를 한 번에 그린 것이다.
 
 (출처: L15 p.26)
+
+Danishefsky diene은 cycloaddition 직후의 silyl enol ether/OMe를 가진 생성물과 후처리로 얻는 enone을 구별한다. 후처리 reagent가 없는 문제에서 그 단계를 임의로 추가하지 않는다. (출처: L15 p.26; Tutorial 4_answers p.1)
 
 ### 17.2 chiral Lewis 산으로 한쪽 거울상만 만들기
 

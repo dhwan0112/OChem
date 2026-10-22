@@ -10,96 +10,23 @@
 
 
 
-> **2026-10-18 강의 반영:** 앞의 강의 확인·보강 절과 그림은 공식 PDF를 근거로 추가했다. 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
+> **2026-10-18 강의 반영:** 본문 각 절에 넣은 강의 확인·보강 문단과 그림은 공식 PDF를 근거로 추가했다(2026-10-22에 앞머리 요약을 본문으로 옮김). 기존 Clayden/Wade 설명은 교재 보충으로 유지하며 쪽수를 구별한다.
 
 CM3121 Advanced Organic Chemistry — 공식 강의 반영 및 교재 보충 (2026-10-18)
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## 공식 L17: 한 $\pi$ 계에서 회전과 합성으로 — 강의 확인·보강
-
-강의 앞 p.1–2는 L16의 [1,7] 복습이고 제목은 p.3이다. electrocyclic 반응은 conjugated 계 끝을 잇거나 끊어 $\sigma$ 결합 수가 하나 변한다. thermal 4n은 con, 4n+2는 dis이고 빛에서는 반대다. 허용 여부와 반응 방향은 별개이며, ring strain 때문에 opening이 유리해도 역방향 closure로 회전을 판단할 수 있다. (출처: L17 p.1–13,16)
-
-endiandric acid에서는 8e conrotation 다음 6e disrotation을 매 단계 다시 센다. vitamin D의 광 6e opening과 뒤의 thermal [1,7]H를 구별한다. Nazarov의 pentadienyl cation은 다섯 orbital에 네 전자이므로 산 조건에서 conrotatory이고, cyclopropyl cation의 2e opening은 disrotatory다. 원자 수를 $\pi$ 전자 수로 잘못 세면 둘을 동시에 틀리게 된다. (출처: L17 p.14–23)
-
-aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]로 포획된다. 최종 ester의 cis/trans에서 출발 aziridine을 역산하는 문제는 회전과 cycloaddition의 stereospecificity를 모두 사용한다. (출처: L17 p.24–25)
-
-마지막 합성 예는 개별 선택 규칙을 연결하는 연습이다. Danheiser에서는 cyclobutenone opening, ketene [2+2], 재opening, $6\pi$ closure와 aromaticity 회복이 이어진다. periplanone B에서는 광[2+2], Grignard, anionic oxy-Cope, 175 °C opening, 광 이성질화를 서로 다른 단계로 적는다. (출처: L17 p.28–29)
-
-더 읽기: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [con/dis](../../wiki/개념/콘로테이션과%20디스로테이션.md), [Danheiser](../../wiki/반응/Danheiser%20benzannulation.md), [Tutorial 6](../../practice/Tutorial_6.md).
-
-![eight electron open chain](../../figures/L17/eight_electron_open_chain.svg)
-
-![octatriene disrotatory](../../figures/L17/octatriene_disrotatory.svg)
-
-그림: 보충: 첫 그림은 8e closure의 무치환 모형, 두 번째는 6e disrotation의 별도 예다. 원본 endiandric acid의 전체 치환 골격을 그린 것은 아니며, 8e con 다음 새 계를 6e dis로 다시 세는 데 쓴다. (원본 대조: L17_Electrocyclic reactions.pdf p.15)
-
-[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.15](../../figures/L17/source/L17_p15.png)
-
-![eight electron open chain](../../figures/L17/eight_electron_open_chain.svg)
-
-![con dis homo lobes](../../figures/L17/con_dis_homo_lobes.svg)
-
-그림: 8e thermal conrotation을 먼저 보고, 아래의 4e·6e HOMO 말단 위상 비교로 회전 원리를 확인한다. 원본의 8e excited-state 전체 MO 준위표는 원본 링크로 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.19)
-
-[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.19](../../figures/L17/source/L17_p19.png)
-
-| 역산 단계 | 확인할 항목 |
-| --- | --- |
-| Aziridine opening | N lone pair를 포함한 4e; thermal conrotatory |
-| Azomethine ylide 포획 | 4e dipole + alkyne 2e의 [3+2] |
-| 최종 배치 역산 | 출발 aziridine cis/trans와 최종 고리의 상대배치를 원자별로 추적 |
-
-원본 문제의 정답 쐐기·점선은 아래 공식 풀이를 기준으로 한다. 위 표는 그 구조를 대체하는 임의의 생성물 배정이 아니다. (출처: L17 p.24–25)
-
-[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.25](../../figures/L17/source/L17_p25.png)
-
-![공식 L17: 한 π계에서 회전과 합성으로](../../figures/L17/danheiser_vinylketene.svg)
-
-그림: ReShiki로 그린 개념 도식. 자세한 전자 이동과 출처는 연결된 개념 문서의 그림 설명에 있다.
-
-![danheiser vinylketene](../../figures/L17/danheiser_vinylketene.svg)
-
-![ketene 22 cyclopentadiene](../../figures/L15/ketene_22_cyclopentadiene.svg)
-
-그림: 첫 그림은 Danheiser의 cyclobutenone opening 핵심 골격이다. 두 번째는 ketene [2+2]의 별도 강의 예로, 전체 Danheiser intermediate를 그대로 그린 것은 아니다. 완전한 치환 골격과 뒤의 benzannulation은 원본에서 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.28)
-
-![Danheiser benzannulation 2단계: vinylketene + alkyne의 \[2+2\]](../../figures/L17/danheiser_ketene_alkyne_22.svg)
-
-그림: 1단계(위 그림)에서 생긴 vinylketene의 sp 탄소(C=O 탄소)에 heterosubstituted alkyne(X = NR2 또는 OR; 강의 예는 X = N(Me)Boc, R' = allyl, R = Bu)의 π 전자가 들어가고(주황 화살표), ketene C=C의 π 전자는 alkyne의 다른 탄소로 옮겨 가 4-vinylcyclobutenone이 된다. 슬라이드의 R1–R4 가운데 R1 = R3 = H, R2 = R, R4 = R'로 둔 모형이다. (출처: L17 p.28)
-
-![Danheiser benzannulation 3단계: 4-vinylcyclobutenone의 4π 고리 열림](../../figures/L17/danheiser_dienylketene_opening.svg)
-
-그림: 새 cyclobutenone이 다시 열적 4π electrocyclic 고리 열림(conrotatory)을 하여 dienylketene이 된다. 끊어지는 σ 결합의 전자가 C=C로, 원래 C=C의 전자가 ketene의 C=C로 옮겨 간다(주황 화살표). 생성물은 다음 단계의 고리 닫힘이 보이도록 s-cis로 그렸다. (출처: L17 p.28)
-
-![Danheiser benzannulation 4단계: dienylketene의 6π disrotatory 고리 닫힘과 tautomerization](../../figures/L17/danheiser_6pi_closure_phenol.svg)
-
-그림: dienylketene의 6π 계가 열적 disrotatory로 닫혀 cyclohexa-2,4-dienone이 되고(초록은 새 σ 결합), 이어서 α-H가 빠지고 O가 양성자를 받는 tautomerization으로 aromatic한 phenol이 된다. 마지막 단계의 추진력은 aromaticity다. (출처: L17 p.28)
-
-[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.28](../../figures/L17/source/L17_p28.png)
-
-![photo22 regio](../../figures/L14/photo22_regio.svg)
-
-![anionic oxy cope](../../figures/L16/anionic_oxy_cope.svg)
-
-그림: periplanone B 경로를 읽기 위한 광[2+2]와 anionic oxy-Cope의 별도 기본 예다. 복잡한 천연물 골격·입체배치는 원본에 남기며 모형의 생성물을 천연물 intermediate로 동일시하지 않는다. (원본 대조: L17_Electrocyclic reactions.pdf p.29)
-
-[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.29](../../figures/L17/source/L17_p29.png)
-
-
-## 개요
-
-페리고리 반응 세 갈래 가운데 마지막이 electrocyclic reaction이다. cycloaddition([L13](L13_Cycloaddition_Part1.md)–[L15](L15_Cycloaddition_Part3.md))는 두 $\pi$ 계가 만나 $\sigma$ 결합 둘을 만들고, sigmatropic rearrangement([L16](L16_Sigmatropic_Rearrangements.md))은 $\sigma$ 결합 하나를 옮긴다. electrocyclic reaction은 **하나의 conjugation $\pi$ 계 양 끝을 $\sigma$ 결합 하나로 잇거나, 그 반대로 끊는다** .
-
-이 갈래가 특별한 이유는 stereochemistry에 있다. 평면 polyene이 고리가 되려면 양 끝 탄소가 거의 90° 돌아야 하는데, 두 끝이 **같은 방향으로 conrotatory 반대 방향으로 disrotatory에** 따라 생성물의 stereoisomer가 달라진다. 그리고 어느 쪽으로 돌지는 전자 수(4n이냐 4n+2냐)와 조건(열이냐 빛이냐)이 정확히 정한다. 시험에서 가장 자주 묻는 것도 이 판정이다.
-
-이 노트는 다음 순서로 간다. electrocyclic reaction은 무엇이고 어느 방향이 유리한가? Woodward–Hoffmann 규칙으로 판정하면 왜 $4\pi$ 는 antarafacial, $6\pi$ 는 suprafacial인가? 그것이 왜 conrotatory/disrotatory이라는 말로 바뀌나? HOMO의 양 끝 위상으로도 같은 답이 나오나? 빛을 쬐면 왜 뒤집히나? 마지막으로 cation(Nazarov cyclization)과 anion, 작은 고리의 열림(cyclopropyl cation, aziridine), 천연물 합성의 예를 본다.[^1] (출처: Clayden p.922–923)
-
 ## 1. electrocyclic reaction이란 무엇인가
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md)
 
+이 절을 읽고 답할 질문: electrocyclic reaction은 무엇이고 어느 방향이 유리한가? (출처: Clayden p.922–923)
+
+강의 앞 p.1–2는 L16의 [1,7] 복습이고 제목은 p.3이다. electrocyclic 반응은 conjugated 계 끝을 잇거나 끊어 $\sigma$ 결합 수가 하나 변한다. thermal 4n은 con, 4n+2는 dis이고 빛에서는 반대다. 허용 여부와 반응 방향은 별개이며, ring strain 때문에 opening이 유리해도 역방향 closure로 회전을 판단할 수 있다. (출처: L17 p.1–13,16)
+
 ### 1.1 정의와 다른 두 갈래와의 차이
+
+페리고리 반응 세 갈래 가운데 마지막이 electrocyclic reaction이다. cycloaddition([L13](L13_Cycloaddition_Part1.md)–[L15](L15_Cycloaddition_Part3.md))는 두 $\pi$ 계가 만나 $\sigma$ 결합 둘을 만들고, sigmatropic rearrangement([L16](L16_Sigmatropic_Rearrangements.md))은 $\sigma$ 결합 하나를 옮긴다. electrocyclic reaction은 **하나의 conjugation $\pi$ 계 양 끝을 $\sigma$ 결합 하나로 잇거나, 그 반대로 끊는다** .
 
 Clayden의 정의는 한 줄이다. **conjugation polyene의 양 끝을 가로지르는 새 $\sigma$ 결합이 생기는 반응, 또는 그 역반응.** 고리가 늘 생기거나 깨진다. cycloaddition도 고리를 만들지만 $\sigma$ 결합이 **둘** 생기고, sigmatropic rearrangement는 하나가 생기면서 하나가 끊어진다. electrocyclic reaction은 $\sigma$ 결합이 **하나만** 생기거나 끊어진다( $\Delta\sigma$ = ±1). (출처: Clayden p.922–923)
 
@@ -128,6 +55,8 @@ Woodward–Hoffmann 규칙은 반응이 **허용되는지만** 알려 주고 어
 ## 2. Woodward–Hoffmann 규칙으로 판정하기
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md), [conrotatory and disrotatory](../../wiki/개념/콘로테이션과%20디스로테이션.md)
+
+이 절을 읽고 답할 질문: Woodward–Hoffmann 규칙으로 판정하면 왜 $4\pi$ 는 antarafacial, $6\pi$ 는 suprafacial인가? (출처: Clayden p.922–923)
 
 ### 2.1 왜 FMO가 아니라 Woodward–Hoffmann인가
 
@@ -164,6 +93,10 @@ cyclobutene의 고리 열림은 실제로 잘 일어난다. 역반응인 butadie
 ## 3. conrotatory과 disrotatory
 
 > 개념 문서: [conrotatory and disrotatory](../../wiki/개념/콘로테이션과%20디스로테이션.md)
+
+이 절을 읽고 답할 질문: 그것이 왜 conrotatory/disrotatory이라는 말로 바뀌나?[^1] (출처: Clayden p.922–923)
+
+이 갈래가 특별한 이유는 stereochemistry에 있다. 평면 polyene이 고리가 되려면 양 끝 탄소가 거의 90° 돌아야 하는데, 두 끝이 **같은 방향으로 conrotatory 반대 방향으로 disrotatory에** 따라 생성물의 stereoisomer가 달라진다. 그리고 어느 쪽으로 돌지는 전자 수(4n이냐 4n+2냐)와 조건(열이냐 빛이냐)이 정확히 정한다. 시험에서 가장 자주 묻는 것도 이 판정이다.
 
 ### 3.1 octatriene: $6\pi$ 열적 반응은 disrotatory
 
@@ -217,6 +150,8 @@ cycloaddition과 sigmatropic 반응에서도 결합각이 109°와 120° 사이�
 
 > 개념 문서: [conrotatory and disrotatory](../../wiki/개념/콘로테이션과%20디스로테이션.md), [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
 
+이 절을 읽고 답할 질문: HOMO의 양 끝 위상으로도 같은 답이 나오나? (출처: Clayden p.922–923)
+
 > 보충: Clayden은 electrocyclic reaction을 Woodward–Hoffmann 셈으로만 다루고, HOMO 하나의 양 끝 위상으로 판정하는 방법은 쓰지 않는다. 아래는 Wade가 그린 butadiene·hexatriene $\pi$ molecular orbital의 위상 배열과 Clayden의 결론(3.4절, 5절)을 맞대어 본 것이다. 결론은 두 교과서의 규칙과 같다. (보충 근거: Wade p.671–672, p.698; Clayden p.925–927)
 
 ### 4.1 생각의 틀: 고리를 닫는 것은 HOMO의 양 끝이다
@@ -268,9 +203,15 @@ HOMO가 한 단계 위의 orbital로 바뀌면 양 끝 위상 관계가 뒤집�
 
 그림: 위는 ground state의 HOMO ψ4(마디 3개, 빨강 점선). 양 끝 윗면 lobe의 위상(채움 +, 빈 것 −)이 반대라 antarafacial(π8a), 즉 열적 conrotatory다. 아래는 빛을 받아 전자가 올라간 ψ5(마디 4개)로, 양 끝 위상이 같아 suprafacial(π8s), 즉 광화학 disrotatory다. 끝 lobe는 크게, 가운데 lobe는 흐리게 그렸다. endiandric acid의 첫 단계(8e conrotatory, 6절)가 이 경우다. (출처: L17 p.19)
 
+그림: 8e thermal conrotation을 먼저 보고, 위(4.2절)의 4e·6e HOMO 말단 위상 비교로 회전 원리를 확인한다. 원본의 8e excited-state 전체 MO 준위표는 원본 링크로 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.19)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.19](../../figures/L17/source/L17_p19.png)
+
 ## 5. 광화학 electrocyclic reaction: 규칙이 뒤집힌다
 
 > 개념 문서: [conrotatory and disrotatory](../../wiki/개념/콘로테이션과%20디스로테이션.md), [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [1,5-hydrogen shift](../../wiki/반응/1,5-수소%20이동.md)
+
+이 절을 읽고 답할 질문: 빛을 쬐면 왜 뒤집히나? (출처: Clayden p.922–923)
 
 ### 5.1 한 장 판정표
 
@@ -306,6 +247,8 @@ Wade는 같은 반응을 7-dehydrocholesterol → previtamin D₃로 소개하�
 그림: 보충: 핵심 $6\pi$ 부분만 남기고 나머지 고리는 R, R'로 줄였다. C9–C10 $\sigma$ 결합(빨강)이 끊어지며 세 화살표가 고리를 돌아 (Z)-hexatriene 골격의 previtamin $D_3$ 가 된다. 빛( $h\nu$ ) 조건의 $6\pi$ electrocyclic reaction이므로 conrotatory다.
 
 
+vitamin D의 광 6e opening과 뒤의 thermal [1,7]H를 구별한다. (출처: L17 p.14–23)
+
 ## 6. 자연 속 electrocyclic reaction: endiandric acid
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md)
@@ -322,9 +265,19 @@ endiandric acid 계열 천연물은 특이하게도 **racemate로** 발견된다
 
 그림: 1단계 8e conrotatory로 생긴 cyclooctatriene(두 치환기 trans; R = CH2CO2H, R' = dienyl 사슬로 줄인 모형)에서 남은 6π 계가 열적 disrotatory(π6s)로 닫혀 bicyclo[4.2.0]octadiene이 된다. 주황 화살표 세 개가 고리를 돌고, 초록은 새 σ 결합과 옮겨 간 두 π 결합이다. disrotatory라 고리 접합의 두 H는 cis(둘 다 쐐기)가 되며, 반대 방향의 disrotatory는 두 H가 모두 점선인 부분입체이성질체를 준다(endiandric acid D와 E). 천연물의 전체 골격은 아니다. (출처: L17 p.15)
 
+endiandric acid에서는 8e conrotation 다음 6e disrotation을 매 단계 다시 센다. (출처: L17 p.14–23)
+
+![eight electron open chain](../../figures/L17/eight_electron_open_chain.svg)
+
+그림: 보충: 이 그림은 8e closure의 무치환 모형이고, 6e disrotation의 별도 예는 3.1절 그림이다. 원본 endiandric acid의 전체 치환 골격을 그린 것은 아니며, 8e con 다음 새 계를 6e dis로 다시 세는 데 쓴다. (원본 대조: L17_Electrocyclic reactions.pdf p.15)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.15](../../figures/L17/source/L17_p15.png)
+
 ## 7. cation과 anion의 electrocyclic reaction
 
 > 개념 문서: [Nazarov cyclization](../../wiki/반응/나자로프%20고리화.md), [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md)
+
+이 절부터는 cation(Nazarov cyclization)과 anion, 작은 고리의 열림(cyclopropyl cation, aziridine), 천연물 합성의 예를 본다. (출처: Clayden p.922–923)
 
 ### 7.1 Nazarov cyclization: pentadienyl cation의 $4\pi$ 반응
 
@@ -339,6 +292,8 @@ endiandric acid 계열 천연물은 특이하게도 **racemate로** 발견된다
 ![Nazarov cyclization의 4π conrotatory 고리 닫힘](../../figures/L17/nazarov_conrotatory.svg)
 
 그림: protonate된 divinyl ketone의 resonance contributor 가운데 양전하(빨강 +)가 OH 탄소에 있는 형태로 그렸다(Clayden과 같은 그림). 왼쪽 주황 화살표는 C=C $\pi$ 전자가 양 끝 탄소 사이에 새 $\sigma$ 결합(초록)을 만드는 것, 오른쪽 화살표는 다른 C=C $\pi$ 전자가 OH 탄소 쪽으로 옮겨 가 양전하를 채우는 것이다. 결과는 OH가 가운데 붙은 고리 속 allyl cation이다. p orbital 5개에 $\pi$ 전자 4개이므로 열적 반응은 conrotatory( $\pi4\mathrm{a}$ )다. 보충: R을 바깥쪽에 둔 (E,E)-출발물이 conrotatory로 닫히면 두 R은 trans(하나는 쐐기, 하나는 점선)가 된다. Clayden의 이 그림은 R의 stereochemistry를 표시하지 않으며, trans는 같은 쪽 고리 접합 H 예(산 촉매 → trans)와 같은 논리로 그린 것이다. 이후 양성자가 빠지고 tautomerize하여 cyclopentenone이 된다. (근거: Clayden p.927–928)
+
+Nazarov의 pentadienyl cation은 다섯 orbital에 네 전자이므로 산 조건에서 conrotatory이고, cyclopropyl cation의 2e opening은 disrotatory다. 원자 수를 $\pi$ 전자 수로 잘못 세면 둘을 동시에 틀리게 된다. (출처: L17 p.14–23)
 
 ### 7.2 열과 빛이 반대 stereochemistry를 준다
 
@@ -417,9 +372,43 @@ $$
 
 cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문이다. (출처: Clayden p.929)
 
+aziridine은 lone pair까지 포함한 4e opening 뒤 azomethine ylide가 [3+2]로 포획된다. 최종 ester의 cis/trans에서 출발 aziridine을 역산하는 문제는 회전과 cycloaddition의 stereospecificity를 모두 사용한다. (출처: L17 p.24–25)
+
+| 역산 단계 | 확인할 항목 |
+| --- | --- |
+| Aziridine opening | N lone pair를 포함한 4e; thermal conrotatory |
+| Azomethine ylide 포획 | 4e dipole + alkyne 2e의 [3+2] |
+| 최종 배치 역산 | 출발 aziridine cis/trans와 최종 고리의 상대배치를 원자별로 추적 |
+
+원본 문제의 정답 쐐기·점선은 위 공식 풀이를 기준으로 한다. 위 표는 그 구조를 대체하는 임의의 생성물 배정이 아니다. (출처: L17 p.24–25)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.25](../../figures/L17/source/L17_p25.png)
+
 ## 9. 페리고리 반응만으로 만든 pheromone: periplanone B
 
 > 개념 문서: [electrocyclic reaction](../../wiki/반응/전자고리화%20반응.md), [photochemical \[2+2\] cycloaddition](../../wiki/반응/광화학%202+2%20고리화%20첨가.md), [Cope rearrangement](../../wiki/반응/코프%20자리옮김.md)
+
+마지막 합성 예는 개별 선택 규칙을 연결하는 연습이다. Danheiser에서는 cyclobutenone opening, ketene [2+2], 재opening, $6\pi$ closure와 aromaticity 회복이 이어진다. periplanone B에서는 광[2+2], Grignard, anionic oxy-Cope, 175 °C opening, 광 이성질화를 서로 다른 단계로 적는다. (출처: L17 p.28–29)
+
+![danheiser vinylketene](../../figures/L17/danheiser_vinylketene.svg)
+
+![ketene 22 cyclopentadiene](../../figures/L15/ketene_22_cyclopentadiene.svg)
+
+그림: 첫 그림은 Danheiser의 cyclobutenone opening 핵심 골격이다. 두 번째는 ketene [2+2]의 별도 강의 예로, 전체 Danheiser intermediate를 그대로 그린 것은 아니다. 완전한 치환 골격과 뒤의 benzannulation은 원본에서 대조한다. (원본 대조: L17_Electrocyclic reactions.pdf p.28)
+
+![Danheiser benzannulation 2단계: vinylketene + alkyne의 \[2+2\]](../../figures/L17/danheiser_ketene_alkyne_22.svg)
+
+그림: 1단계(위 그림)에서 생긴 vinylketene의 sp 탄소(C=O 탄소)에 heterosubstituted alkyne(X = NR2 또는 OR; 강의 예는 X = N(Me)Boc, R' = allyl, R = Bu)의 π 전자가 들어가고(주황 화살표), ketene C=C의 π 전자는 alkyne의 다른 탄소로 옮겨 가 4-vinylcyclobutenone이 된다. 슬라이드의 R1–R4 가운데 R1 = R3 = H, R2 = R, R4 = R'로 둔 모형이다. (출처: L17 p.28)
+
+![Danheiser benzannulation 3단계: 4-vinylcyclobutenone의 4π 고리 열림](../../figures/L17/danheiser_dienylketene_opening.svg)
+
+그림: 새 cyclobutenone이 다시 열적 4π electrocyclic 고리 열림(conrotatory)을 하여 dienylketene이 된다. 끊어지는 σ 결합의 전자가 C=C로, 원래 C=C의 전자가 ketene의 C=C로 옮겨 간다(주황 화살표). 생성물은 다음 단계의 고리 닫힘이 보이도록 s-cis로 그렸다. (출처: L17 p.28)
+
+![Danheiser benzannulation 4단계: dienylketene의 6π disrotatory 고리 닫힘과 tautomerization](../../figures/L17/danheiser_6pi_closure_phenol.svg)
+
+그림: dienylketene의 6π 계가 열적 disrotatory로 닫혀 cyclohexa-2,4-dienone이 되고(초록은 새 σ 결합), 이어서 α-H가 빠지고 O가 양성자를 받는 tautomerization으로 aromatic한 phenol이 된다. 마지막 단계의 추진력은 aromaticity다. (출처: L17 p.28)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.28](../../figures/L17/source/L17_p28.png)
 
 미국 바퀴벌레의 성 pheromone인 periplanone B(periplanone B)를 Schreiber는 1984년에 대부분 페리고리 반응으로 합성했다. 지금까지 배운 반응이 한 합성 안에 모두 나온다. (출처: Clayden p.929–930)
 
@@ -430,6 +419,16 @@ cis가 trans를, trans가 cis를 준다는 "뒤집힘"이 conrotatory의 지문�
 5. 이후 *Z* alkene 하나와 epoxide 둘을 더 넣어 periplanone B를 완성한다.
 
 4단계에서 주의할 점이 있다. 이 고리 열림은 $4\pi$ 이므로 반드시 conrotatory이지만, **생성된 diene의 다른 쪽 끝에 치환기가 없어** conrotatory인지를 생성물로 구별할 수 없다. 그러니 이중결합이 *Z*/*E* 혼합물로 나온 것은 콘/디스와 무관하다. 또 12원 고리에서는 trans 이중결합이 가능할 뿐 아니라 오히려 선호된다. (출처: Clayden p.930)
+
+![photo22 regio](../../figures/L14/photo22_regio.svg)
+
+![anionic oxy cope](../../figures/L16/anionic_oxy_cope.svg)
+
+그림: periplanone B 경로를 읽기 위한 광[2+2]와 anionic oxy-Cope의 별도 기본 예다. 복잡한 천연물 골격·입체배치는 원본에 남기며 모형의 생성물을 천연물 intermediate로 동일시하지 않는다. (원본 대조: L17_Electrocyclic reactions.pdf p.29)
+
+[원본 자료에서 세부 구조·입체배치 확인: L17_Electrocyclic reactions.pdf p.29](../../figures/L17/source/L17_p29.png)
+
+더 읽기: [con/dis](../../wiki/개념/콘로테이션과%20디스로테이션.md), [Danheiser](../../wiki/반응/Danheiser%20benzannulation.md), [Tutorial 6](../../practice/Tutorial_6.md).
 
 ## 10. 세 갈래 총정리
 

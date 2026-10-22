@@ -13,13 +13,11 @@
 
 > CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 출처 표기의 p.는 PDF 페이지 번호다.
 
-## 개요
-
-이 강의는 "분자에 수소를 붙이는 법", 즉 reduction을 다룬다. 출발점은 amine이다. 세로토닌, 니코틴, diazepam처럼 몸과 약에서 중요한 분자 상당수가 질소를 품고 있는데, 정작 amine을 깔끔하게 만드는 일은 생각보다 까다롭다. 그래서 강의는 amine 합성 문제를 실마리 삼아 azide·nitrile·amide·imine을 환원하는 방법으로 넘어가고, 거기서 NaBH<sub>4</sub>, LiBH<sub>4</sub>, LiAlH<sub>4</sub>, BH<sub>3</sub>, DIBAL-H라는 금속 metal hydride 시약 세트를 정리한 뒤, 마지막으로 H<sub>2</sub>와 금속 촉매를 쓰는 촉매 catalytic hydrogenation으로 마무리한다. 핵심 질문은 하나다. "분자 안에 환원될 수 있는 자리가 여러 개일 때, 원하는 곳만 환원하려면 어떤 시약을 골라야 하나?" L1에서 alkene의 hydroboration으로 만났던 BH<sub>3</sub>가 여기서는 carbonyl 환원제로 다시 등장하고, 이후 L7(enolate), L10(enamine/iminium), L12(protecting group)에서도 이 강의의 시약들이 계속 쓰인다.
-
 ## 1. amine이란 무엇이고, 왜 만들기 어려운가
 
 > 개념 문서: [amine synthesis (overview)](../../wiki/개념/아민%20합성%20개관.md), [pyrrolidine](../../wiki/시약/피롤리딘.md), [SN2 reaction](../../wiki/반응/SN2%20반응.md), [amine synthesis via azide and nitrile](../../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md), [Staudinger reduction](../../wiki/반응/스타우딩거%20환원.md), [amide reduction](../../wiki/반응/아마이드%20환원.md), [reductive amination](../../wiki/반응/환원성%20아미노화.md), [imine](../../wiki/개념/이민.md), [iminium ion](../../wiki/개념/이미늄%20이온.md), [NaBH3CN](../../wiki/시약/NaBH3CN.md), [Eschweiler–Clarke reaction](../../wiki/반응/에슈바일러-클라크%20반응.md)
+
+이 강의는 "분자에 수소를 붙이는 법", 즉 reduction을 다룬다. 출발점은 amine이다. 세로토닌, 니코틴, diazepam처럼 몸과 약에서 중요한 분자 상당수가 질소를 품고 있는데, 정작 amine을 깔끔하게 만드는 일은 생각보다 까다롭다.
 
 ### 1-0. 일상 속 질소 화합물
 
@@ -332,6 +330,8 @@ $$
 
 > 개념 문서: [metal hydride reactivity](../../wiki/개념/금속%20수소화물의%20반응성.md), [NaBH4](../../wiki/시약/NaBH4.md), [LiBH4](../../wiki/시약/LiBH4.md), [LiAlH4](../../wiki/시약/LiAlH4.md), [borane](../../wiki/시약/보레인.md), [amide reduction](../../wiki/반응/아마이드%20환원.md), [tetrahedral intermediate](../../wiki/개념/사면체%20중간체.md), [partial reduction of esters](../../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../../wiki/시약/DIBAL-H.md)
 
+이 절을 읽고 답할 질문: "분자 안에 환원될 수 있는 자리가 여러 개일 때, 원하는 곳만 환원하려면 어떤 시약을 골라야 하나?"
+
 ### 2-0. 개요: 어떤 시약이 무엇을 환원하나
 
 분자에 carbonyl이 여럿 있으면 어느 것이 먼저 환원될까? 이 질문에 답하려면 두 가지 서열을 함께 봐야 한다. 하나는 시약의 세기, 다른 하나는 carbonyl의 반응성이다.
@@ -495,6 +495,8 @@ LiAlH<sub>4</sub>는 carbonyl뿐 아니라 alkyl halide도 환원해 할로젠�
 (출처: L5 p.25-26)
 
 ### 2-4. Borane (BH<sub>3</sub>): 서열을 거스르는 시약
+
+L1에서 alkene의 hydroboration으로 만났던 BH<sub>3</sub>가 여기서는 carbonyl 환원제로 다시 등장한다.
 
 #### 왜 산은 빠르고 ester는 느릴까
 
@@ -727,6 +729,8 @@ $$
 슬라이드의 요약은 네 줄이다. (1) amine의 합성, (2) 환원성 아미노화, (3) 금속 수소화물 환원(일반 시약과 특수 시약 Borane, DIBAL-H), (4) 촉매 수소화.
 
 (출처: L5 p.34)
+
+이후 L7(enolate), L10(enamine/iminium), L12(protecting group)에서도 이 강의의 시약들이 계속 쓰인다.
 
 ## 흔한 오해
 

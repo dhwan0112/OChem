@@ -11,22 +11,13 @@
 
 
 
-## 개요
-
-aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 
-$\beta$-hydroxy carbonyl($\beta$-hydroxy carbonyl) 화합물을 만드는 반응이다. 
-
-앞 강의에서 enolate를 alkyl halide과 만나게 했다면(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고), 이번에는 그 상대를 carbonyl 화합물로 바꾼 셈이다. 
-생성물을 탈수하면 $\alpha,\beta$-unsaturated carbonyl($\alpha,\beta$-unsaturated carbonyl) 화합물이 되므로, aldol 하나로 "C–C 결합 + 산소 작용기 + (필요하면) alkene"을 한꺼번에 얻을 수 있다.
-에리트로마이신 같은 polyketide 천연물에 1,3-산소 패턴이 반복되는 것도 이 반응이 합성에서 중요한 이유다. 다만 아무 carbonyl 두 개를 염기와 섞으면 생성물이 뒤죽박죽이 되기 때문에, 강의의 절반은 "원하는 교차 aldol 생성물 하나만 얻는 법"에 할애된다.[1]
-
-(출처: L8 p.1, p.2, p.7, p.34)
-
 ## 본문
 
 ### 0. 도입: 천연물, polyketide, 그리고 HWE 복습
 
 > 개념 문서: [천연물과 polyketide, HWE와의 관계](../../wiki/반응/알돌%20반응.md), [HWE reaction](../../wiki/반응/HWE%20반응.md), [oxaphosphetane](../../wiki/개념/옥사포스페테인.md)
+
+erythromycin 같은 polyketide 천연물에 1,3-산소 패턴이 반복되는 것도 이 반응이 합성에서 중요한 이유다.
 
 왜 aldol을 배우기 전에 천연물부터 보여 줄까? 슬라이드가 고른 분자들이 모두 aldol로 만들기 좋은 구조를 갖고 있기 때문이다. erythromycin은 여러 세균 감염 치료에 쓰는 항생제이고, (+)-discodermolide((+)-discodermolide)는 여러 다제내성(MDR) 암세포주에서 종양세포 성장을 강하게 억제한다. roflamycoin은 1981년 *Streptomyces roseoflavus*에서 분리된 항진균제로, 폴리엔 macrolide 항생제 가운데 유일하게 잘 정의된 이온 채널을 형성하는 oxopolyene macrolide다. 세 분자 모두 탄소 사슬에 OH와 methyl이 하나 걸러 하나씩 붙은 패턴을 보인다.
 
@@ -59,6 +50,10 @@ HWE 메커니즘(예: (EtO)2P(O)CH2CO2Et + PhCHO)은 다음과 같다.
 ### 1. aldol 반응이란: 정의와 강의의 지도
 
 > 개념 문서: [aldol reaction](../../wiki/반응/알돌%20반응.md)
+
+aldol reaction은 enolate 또는 enol이 aldehyde나 ketone의 carbonyl 탄소를 공격해 $\beta$-hydroxy carbonyl($\beta$-hydroxy carbonyl) 화합물을 만드는 반응이다. 앞 강의에서 enolate를 alkyl halide과 만나게 했다면(→ [L7](L07_Enolate_Alkylation.md) enolate alkylation 문서 참고), 이번에는 그 상대를 carbonyl 화합물로 바꾼 셈이다. 생성물을 탈수하면 $\alpha,\beta$-unsaturated carbonyl($\alpha,\beta$-unsaturated carbonyl) 화합물이 되므로, aldol 하나로 "C–C 결합 + 산소 작용기 + (필요하면) alkene"을 한꺼번에 얻을 수 있다.
+
+(출처: L8 p.1, p.2, p.7, p.34)
 
 aldol 반응은 한 문장으로 "enolate(또는 enol)와 carbonyl 화합물(aldehyde 또는 ketone) 사이의 반응"이다.
 
@@ -237,6 +232,8 @@ cinnamaldehyde는 aldol "축합" 생성물이라 OH가 없다. 그러면 어떻�
 > 개념 문서: [교차 aldol reaction](../../wiki/반응/교차%20알돌%20반응.md), [directed aldol](../../wiki/반응/교차%20알돌%20반응.md), [LDA](../../wiki/시약/LDA.md), [kinetic vs thermodynamic enolate](../../wiki/개념/속도론적%20엔올레이트와%20열역학적%20엔올레이트.md), [silyl enol ether](../../wiki/시약/실릴%20엔올%20에터.md), [Mukaiyama aldol reaction](../../wiki/반응/무카이야마%20알돌%20반응.md), [TiCl4](../../wiki/시약/TiCl4.md), [Knoevenagel condensation](../../wiki/반응/크뇌베나겔%20축합.md), [Henry reaction](../../wiki/반응/헨리%20반응.md), [alpha-hydrogen acidity](../../wiki/개념/α-수소의%20산도.md)
 
 #### 5.1 무엇이 문제인가
+
+아무 carbonyl 두 개를 염기와 섞으면 생성물이 뒤죽박죽이 되기 때문에, 강의의 절반은 "원하는 교차 aldol 생성물 하나만 얻는 법"에 할애된다.[1]
 
 서로 다른 두 carbonyl 화합물 사이의 aldol 축합을 교차 aldol(crossed aldol)이라 한다. ethanal과 propanal을 HO⁻/H2O로 섞으면 무엇이 생길까? 두 분자 모두 enolate가 될 수 있고, 두 분자 모두 공격받을 수 있다. 그래서 2 × 2 = 4가지 생성물이 섞여 나온다.
 

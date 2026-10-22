@@ -14,49 +14,11 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## Diels–Alder: 연결·기하·endo를 분리한다 — 강의 확인·보강
-
-한 번의 concerted [4+2]에서 새 $\sigma$ 결합 두 개와 남는 C=C 하나를 함께 그린다. diene의 가운데 결합은 생성물의 C=C가 되고, diene은 실제로 s-cis 배치를 만들 수 있어야 한다. 평면 종이에 s-trans로 그려져 있다는 사실과 s-cis로 회전할 수 없다는 사실은 다르다. (출처: L13 p.10–18)
-
-stereochemistry는 두 층이다. 각 성분이 suprafacial로 반응하므로 dienophile의 cis/trans는 보존된다. 그 위에서 diene과의 상대 접근을 endo/exo로 고른다. cis를 유지했다는 말만으로 endo가 증명되거나, endo라는 말만으로 모든 쐐기를 결정할 수는 없다. FMO의 위상은 허용성, 에너지 간격은 반응성, 큰 orbital 계수의 짝은 regioselectivity에 각각 답한다. (출처: L13 p.13–24; L14 p.3,10–17)
-
-WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. [4+2]의 여섯 전자가 열적으로 허용이라는 결론은 supra–supra 성분이라는 맥락에서 쓴다. 다른 pericyclic 반응에 숫자 6만 그대로 옮기지 않는다. (출처: L13 p.33–35)
-
-더 읽기: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md), [endo rule](../../wiki/개념/endo%20규칙.md), [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md).
-
-![maleate cis](../../figures/L13/maleate_cis.svg)
-
-![fumarate trans](../../figures/L13/fumarate_trans.svg)
-
-그림: dienophile의 cis/trans 관계가 생성물에 보존되는 두 예를 나누었다. 쐐기와 점선의 상대배치를 비교한다. (원본 대조: L13_cycloaddition part 1.pdf p.19)
-
-[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.19](../../figures/L13/source/L13_p19.png)
-
-![da endo exo ts 3d](../../figures/L13/da_endo_exo_ts_3d.svg)
-
-![endo exo](../../figures/L13/endo_exo.svg)
-
-그림: 보충: 첫 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 이어지는 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
-
-[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../../figures/L13/source/L13_p22.png)
-
-| 조건 | 허용 판정에 쓰는 합 |
-| --- | --- |
-| Thermal | $(4q+2)_s$ 성분 수 + $(4r)_a$ 성분 수가 홀수 |
-| Photochemical | 같은 합이 짝수 |
-
-허용은 실제 반응·속도·수율을 보장하지 않는다. 가능한 orbital symmetry를 판정한 다음 기하와 energetics를 따로 확인한다. (출처: L13 p.33; 광화학 비교: L14 p.24–28)
-
-[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.33](../../figures/L13/source/L13_p33.png)
-
-
-## 개요
-
-지금까지 다룬 반응은 대부분 nucleophile이 electrophile을 공격하는 극성 반응이었다. enolate가 붙고, leaving group이 떨어지고, ionic intermediate가 생겼다가 사라지는 식이다(→ 앞선 enolate·Michael addition 강의 참고). 이 강의에서는 전혀 다른 방식으로 결합이 생기는 반응군인 pericyclic reaction을 처음 다룬다. 그 대표가 Diels–Alder(DA) 반응이다. diene과 alkene을 한 단계로 이어 붙여 6원자 고리를 만들고, 두 탄소–탄소 결합과 최대 네 개의 입체중심을 한 번에 정해 준다. 그래서 합성에서 가장 강력한 고리 형성 반응 가운데 하나로 꼽힌다. 강의는 "무엇이 반응하나 → 어떻게 반응하나 → 무엇이 빠르게 하나 → stereochemistry는 어떻게 정해지나 → 왜 FMO, Woodward–Hoffmann" 순서로 진행된다.
-
 ## 1. 반응은 어떻게 분류되나: 극성, radical, 그리고 pericyclic
 
 > 개념 문서: [pericyclic reaction](../../wiki/개념/페리고리%20반응.md)
+
+지금까지 다룬 반응은 대부분 nucleophile이 electrophile을 공격하는 극성 반응이었다. enolate가 붙고, leaving group이 떨어지고, ionic intermediate가 생겼다가 사라지는 식이다(→ 앞선 enolate·Michael addition 강의 참고). 이 강의에서는 전혀 다른 방식으로 결합이 생기는 반응군인 pericyclic reaction을 처음 다룬다. 강의는 "무엇이 반응하나 → 어떻게 반응하나 → 무엇이 빠르게 하나 → stereochemistry는 어떻게 정해지나 → 왜 FMO, Woodward–Hoffmann" 순서로 진행된다.
 
 결합이 끊어지고 생기는 방식은 몇 가지나 될까? 슬라이드는 세 가지로 나눈다.
 
@@ -107,6 +69,8 @@ Pericyclic 반응은 다시 세 갈래로 나뉜다. 두 조각이 양 끝에서
 
 > 개념 문서: [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md)
 
+pericyclic 반응의 대표가 Diels–Alder(DA) 반응이다. diene과 alkene을 한 단계로 이어 붙여 6원자 고리를 만들고, 두 탄소–탄소 결합과 최대 네 개의 입체중심을 한 번에 정해 준다. 그래서 합성에서 가장 강력한 고리 형성 반응 가운데 하나로 꼽힌다.
+
 정의 자체는 간단하다. conjugated diene과 alkene이 반응해 cyclohexene을 만드는 반응이다. 가장 단순한 예는 1,3-butadiene + ethylene → cyclohexene이다. 그런데 조건을 보면 165 °C, 17 h, 900 atm이 필요하다(수율 78%). "가장 단순한 DA"가 결코 "가장 쉬운 DA"는 아니라는 뜻이다. 왜 이렇게 어려운지는 뒤의 속도 부분에서 다룬다.[3] (출처: L13 p.7)
 
 반응을 그릴 때는 번호를 붙이면 편하다. diene 탄소를 C1–C4, alkene 탄소를 C5–C6으로 두면 굽은 화살표 세 개가 고리를 따라 돈다. 화살표 방향은 시계 방향이든 반시계 방향이든 상관없다. 결과는 같아서, 새 $\sigma$ 결합 C1–C6과 C4–C5가 생기고 diene 가운데에 새 $\pi$ 결합 C2=C3가 남는다. (출처: L13 p.7)
@@ -144,6 +108,8 @@ DA 반응에는 정말 intermediate가 없을까? 그렇다. DA는 pericyclic �
 dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + maleic anhydride는 $6\pi$ 비편재화 TS를 거쳐 cis-1,2,3,6-tetrahydrophthalic anhydride를 준다. 두 고리 접합 H가 cis다. orbital로 보면 두 반응물이 평행한 평면으로 포개지고, 각 성분이 양 끝에서 같은 면을 써서 결합을 만든다. 이것을 suprafacial–suprafacial 접근이라고 한다. 이 "같은 면" 성질이 뒤에 나올 stereospecificity의 뿌리다. (출처: L13 p.12)
 
 이 반응을 Woodward–Hoffmann 언어로 미리 표현하면 이렇다. diene은 4전자 $\pi$ 성분( $\pi4$ ), dienophile은 2전자 $\pi$ 성분( $\pi2$ )이고, 둘 다 suprafacial로 반응하므로 [ $\pi4\mathrm{s}$ + $\pi2\mathrm{s}$ ]다. 여기서 component이란 반응에 한 단위로 참여하는 결합이나 orbital을 말한다. diene과 dienophile은 각각 하나의 성분이다. 규칙 자체는 6절에서 다룬다(ChemTube3D 애니메이션 참고). (출처: L13 p.13)
+
+한 번의 concerted \[4+2\]에서 새 $\sigma$ 결합 두 개와 남는 C=C 하나를 함께 그린다. diene의 가운데 결합은 생성물의 C=C가 되고, diene은 실제로 s-cis 배치를 만들 수 있어야 한다. 평면 종이에 s-trans로 그려져 있다는 사실과 s-cis로 회전할 수 없다는 사실은 다르다. (출처: L13 p.10–18)
 
 ## 5. 무엇이 반응을 빠르게 하나
 
@@ -226,6 +192,8 @@ cyclopentadiene은 반응성이 너무 커서 생기는 문제가 있다. 바로
 
 ## 6. stereochemistry: 반응물의 모양이 생성물에 어떻게 새겨지나
 
+stereochemistry는 두 층이다. 각 성분이 suprafacial로 반응하므로 dienophile의 cis/trans는 보존된다. 그 위에서 diene과의 상대 접근을 endo/exo로 고른다. cis를 유지했다는 말만으로 endo가 증명되거나, endo라는 말만으로 모든 쐐기를 결정할 수는 없다. FMO의 위상은 허용성, 에너지 간격은 반응성, 큰 orbital 계수의 짝은 regioselectivity에 각각 답한다. (출처: L13 p.13–24; L14 p.3,10–17)
+
 ### 6-1. 이치환 dienophile: cis는 cis로, trans는 trans로
 
 > 개념 문서: [Diels–Alder reaction](../../wiki/반응/딜스-알더%20반응.md), [stereospecificity and stereoselectivity](../../wiki/개념/입체특이성과%20입체선택성.md)
@@ -251,6 +219,10 @@ $$
 ![butadiene + dimethyl fumarate(trans): 두 CO2Me가 trans인 생성물](../../figures/L13/fumarate_trans.svg)
 
 그림: 위는 cis-dienophile(dimethyl maleate), 아래는 trans-dienophile(dimethyl fumarate)이다. 파란색은 diene의 $\pi$ 결합, 빨간색은 dienophile의 $\pi$ 결합, 주황색 굽은 화살표는 전자쌍의 이동(세 화살표가 같은 방향으로 돈다), 초록색은 새 $\sigma$ 결합이다. 생성물에서 wedge는 지면 앞, 점선 hash는 지면 뒤를 뜻한다. 같은 쪽에 있던 두 $CO_2Me$ 는 둘 다 쐐기(cis)가 되고, 반대쪽에 있던 두 $CO_2Me$ 는 쐐기 하나와 점선 하나(trans, 라셈체)가 된다.
+
+그림: dienophile의 cis/trans 관계가 생성물에 보존되는 두 예를 나누었다. 쐐기와 점선의 상대배치를 비교한다. (원본 대조: L13_cycloaddition part 1.pdf p.19)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.19](../../figures/L13/source/L13_p19.png)
 
 ### 6-2. 이치환 diene: "in"과 "out"
 
@@ -297,6 +269,10 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 ![cyclopentadiene + maleic anhydride의 endo TS와 exo TS 3D 모델](../../figures/L13/da_endo_exo_ts_3d.svg)
 
 그림: 위가 cyclopentadiene( $CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene $\pi$ 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
+
+그림: 보충: 바로 위의 3D TS 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 앞의 endo/exo 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../../figures/L13/source/L13_p22.png)
 
 ## 7. 왜 그런가: molecular orbital로 다시 보기
 
@@ -371,6 +347,17 @@ FMO 그림을 매번 그리지 않고도 반응이 허용되는지 판단할 방
 보충: Woodward–Hoffmann 규칙과 FMO는 역할이 다르다. 규칙은 "열적으로 허용되는가"만 답하고, endo 선택성이나 regioselectivity는 설명하지 못한다. 그것은 HOMO/LUMO의 크기와 계수를 보는 FMO의 몫이다. 또 규칙을 적용할 때 그리는 orbital은 각 성분 양 끝의 "색칠하지 않은" p orbital일 뿐 HOMO나 LUMO가 아니므로, 두 방법의 그림을 한 그림에 섞지 않는 것이 좋다. (보충 근거: Clayden p.892–893) (출처: L13 p.35)
 
 p.36의 연습 문제(같은 규칙으로 [4+2]는 허용되고 [4+4]는 금지됨을 보이기)는 연습 문제 7로 옮겼다. (출처: L13 p.36)
+
+WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. \[4+2\]의 여섯 전자가 열적으로 허용이라는 결론은 supra–supra 성분이라는 맥락에서 쓴다. 다른 pericyclic 반응에 숫자 6만 그대로 옮기지 않는다. (출처: L13 p.33–35)
+
+| 조건 | 허용 판정에 쓰는 합 |
+| --- | --- |
+| Thermal | $(4q+2)_s$ 성분 수 + $(4r)_a$ 성분 수가 홀수 |
+| Photochemical | 같은 합이 짝수 |
+
+허용은 실제 반응·속도·수율을 보장하지 않는다. 가능한 orbital symmetry를 판정한 다음 기하와 energetics를 따로 확인한다. (출처: L13 p.33; 광화학 비교: L14 p.24–28)
+
+[원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.33](../../figures/L13/source/L13_p33.png)
 
 ## 9. 보충: regioselectivity("ortho/para" 규칙)
 

@@ -11,22 +11,13 @@
 
 
 
-## 개요
-
-carbonyl 화합물의 $\alpha$-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 
-이 강의는 그 이야기의 "중성 버전"을 다룬다. 
-acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile이 된다. 
-
-그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 
-이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 앞부분의 주제다. 
-
-뒷부분에서는 halogenation으로 enol의 반응성을 확인하고, enamine이 강염기 없이 aldehyde를 alkylate하는 방법과 2021년 노벨 화학상으로 이어진 proline 촉매 비대칭 aldol 반응까지 살펴본다.
-
 ## 본문
 
 ### 출발점: 염기 조건의 enolate 반응
 
 > 개념 문서: [Claisen condensation](../../wiki/반응/클라이젠%20축합.md), [enolate alkylation](../../wiki/반응/엔올레이트%20알킬화.md), [aldol reaction](../../wiki/반응/알돌%20반응.md)
+
+carbonyl 화합물의 $\alpha$-탄소에서 새 결합을 만드는 방법은 앞에서 주로 염기로 만든 enolate를 통해 배웠다. 이 강의는 그 이야기의 "중성 버전"을 다룬다. acidic condition에서는 enolate 대신 enol이, amine을 쓰면 enamine이 nucleophile이 된다.
 
 산 조건 이야기를 하기 전에, 염기 조건에서 이미 아는 세 반응을 다시 떠올려 보자. 공통점은 무엇일까? 세 반응 모두 enolate(R–C(O⁻)=CH₂)가 nucleophile이고, 새 C–C 결합이 carbonyl의 $\alpha$-탄소에서 생긴다는 것이다. 슬라이드는 이 결합을 점선 박스로 강조한다. (→ [L7](L07_Enolate_Alkylation.md) enolate 반응 강의 문서 참고)
 
@@ -87,6 +78,8 @@ enolate를 보면 이 관계가 더 잘 보인다. enolate의 음전하는 산�
 ### 단순 carbonyl 화합물에서 enol이 이렇게 적은 이유
 
 > 개념 문서: [keto-enol tautomerization](../../wiki/반응/케토-엔올%20토토머화.md)
+
+그런데 단순한 ketone의 enol은 평형에서 1 %도 안 될 만큼 적다. 이렇게 적은 enol이 어떻게 반응을 이끌고, 어떤 화합물에서는 왜 enol이 오히려 주인공이 되는지가 이 절과 다음 절들의 주제다.
 
 그렇다면 평형에서 enol은 얼마나 있을까? 단순한 monocarbonyl 화합물에서는 매우 적다.
 

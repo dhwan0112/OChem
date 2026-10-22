@@ -13,12 +13,6 @@
 
 > 근거 자료: 수정본 슬라이드(L6_CM3121_Oxidation_and_Alkene_synthesis_corrected, 38쪽). "L6c p.N"은 수정본 PDF의 페이지 번호다.[1]
 
-## 개요
-
-이 강의는 두 부분으로 되어 있다. 앞부분은 oxidation이다. alcohol을 aldehyde, ketone, carboxylic acid으로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 1차 alcohol은 aldehyde에서 멈추게 할 수도 있고 carboxylic acid까지 보낼 수도 있다. 그래서 DMP, Swern, TPAP, MnO2, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분해서 기억해야 한다. 뒷부분은 alkene의 합성이다. 같은 alkene이라도 E와 Z는 성질이 다른 별개의 화합물이므로, 한 가지 이성질체만 골라 만드는 법(Lindlar, Na/NH3, Wittig, HWE)을 배운다. 이전 강의에서 C=C를 산화해 끊거나(ozone분해) 작용기를 붙였다면(에폭시화, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다(→ [L6](L06_Oxidation_and_Alkene_Synthesis.md) 이전 강의의 C=C oxidation 문서 참고). 강의 도입부에는 이전 강의의 DIBAL-H 환원도 다시 나온다.
-
----
-
 ## 0. 도입: DIBAL-H는 왜 aldehyde에서 멈추나 (복습)
 
 > 개념 문서: [partial reduction of esters](../../wiki/반응/에스터%20부분%20환원.md), [DIBAL-H](../../wiki/시약/DIBAL-H.md)
@@ -45,6 +39,8 @@ $$
 ## 1. alcohol 산화의 큰 그림
 
 > 개념 문서: [alcohol oxidation](../../wiki/반응/알코올%20산화.md), [catalytic hydrogenation](../../wiki/반응/촉매%20수소화.md)
+
+이 강의는 두 부분으로 되어 있고, 앞부분은 oxidation이다. alcohol을 aldehyde, ketone, carboxylic acid으로 바꾸는 시약들을 다루는데, 핵심은 "얼마나 세게 산화할 것인가"를 고르는 일이다. 1차 alcohol은 aldehyde에서 멈추게 할 수도 있고 carboxylic acid까지 보낼 수도 있다. 그래서 DMP, Swern, TPAP, MnO2, TEMPO처럼 aldehyde에서 멈추는 순한 산화제와, Jones 시약처럼 끝까지 밀어붙이는 강한 산화제를 구분해서 기억해야 한다.
 
 ### 1.1 왜 멘톨 이야기부터 하나
 
@@ -414,6 +410,8 @@ $$
 ## 5. alkene의 합성: 왜 "한 가지 이성질체"가 중요한가
 
 > 개념 문서: [stereoselective alkene synthesis](../../wiki/개념/알켄의%20입체선택적%20합성.md), [stereospecificity and stereoselectivity](../../wiki/개념/입체특이성과%20입체선택성.md)
+
+강의의 뒷부분은 alkene의 합성이다. 같은 alkene이라도 E와 Z는 성질이 다른 별개의 화합물이므로, 한 가지 이성질체만 골라 만드는 법(Lindlar, Na/NH3, Wittig, HWE)을 배운다. 이전 강의에서 C=C를 산화해 끊거나(ozone분해) 작용기를 붙였다면(에폭시화, dihydroxylation), 이번에는 거꾸로 C=C를 원하는 기하로 만드는 쪽을 다룬다(→ [L2](L02_Electrophilic_Addition_to_Alkenes_Part2.md)의 C=C oxidation 참고).
 
 alkene은 산업적으로는 석유에서 대량으로 얻는다. 탄화수소를 cracking하면 작은 알케인과 alkene(예: 프로펜)이 생기고, butane을 촉매 dehydrogenation하면 1-butene, (E)-2-butene, (Z)-2-butene, 1,3-butadiene이 한꺼번에 나온다. ethylene은 중합해 polyethylene이 된다(L6c p.20). 그런데 이 방법들은 모두 혼합물을 준다. 혼합물이면 무엇이 문제일까?
 

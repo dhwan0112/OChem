@@ -13,46 +13,11 @@
 
 > [Test 2 반응 판정·검산 순서](../../wiki/개념/Test%202%20반응%20판정과%20답안%20검산.md)로 각 단원의 질문을 연결할 수 있다.
 
-## Regioselectivity에서 광화학까지 — 강의 확인·보강
-
-문제를 풀 때 diene을 고정하고 dienophile의 두 방향을 먼저 비교한다. 유리한 결합 연결을 고른 뒤 그 연결을 고정해 endo/exo와 출발 E/Z를 적용한다. regio와 stereo를 동시에 뒤집으며 비교하면 어떤 효과가 답을 정했는지 알 수 없다. 강의 p.16–19가 이 두 단계 절차를 명시한다. (출처: L14 p.11–19)
-
-C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 외운 생성물 이름보다 polarization으로 읽는 편이 낫다. donor가 둘이면 각각 어느 말단을 강화하는지 표시한다. Tutorial 4 Q1의 공식 답안은 Danishefsky diene의 연결 방향, endo에서 오는 OMe/CO2Me syn, ring fusion의 stereospecificity를 나눠 보여 준다. (출처: L14 p.11–17; Tutorial 4_answers p.1)
-
-광화학 [2+2]는 열적 alkene [2+2]와 점유 상태가 다르다. 각 alkene 안의 기하는 보존되지만 어느 면에서 만나는지와 어떤 말단이 연결되는지는 따로 고른다. nitrone의 exo 선호까지 무조건 DA endo 규칙으로 해결하려 해서는 안 된다. (출처: L14 p.24–28; L15 p.16)
-
-더 읽기: [DA regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo](../../wiki/개념/endo%20규칙.md), [Tutorial 4 공식 풀이](../../practice/Tutorial_4.md).
-
-![regio para polar](../../figures/L14/regio_para_polar.svg)
-
-그림: 원본의 가상 E+·Nu− 첨가로 주개·받개 말단을 찾는 단계다. 파랑과 빨강으로 찾은 연결 방향을 고정한 뒤 stereo를 판정한다. (원본 대조: L14_cycloaddition part 2.pdf p.12)
-
-[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.12](../../figures/L14/source/L14_p12.png)
-
-![endo exo inout](../../figures/L14/endo_exo_inout.svg)
-
-그림: 동일 기질의 endo/exo 접근을 두 행으로 분리했다. OMe/CHO 관계와 in 치환기를 함께 추적한다. (원본 대조: L14_cycloaddition part 2.pdf p.17)
-
-[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.17](../../figures/L14/source/L14_p17.png)
-
-![photo22 regio](../../figures/L14/photo22_regio.svg)
-
-그림: 보충 비교 예: isobutylene과 cyclohexenone의 광[2+2]다. 원본의 fused-ring 예와 기질이 다르므로 원본 생성물을 그대로 옮긴 답안으로 사용하지 않는다. 두 경우 모두 참여 alkene의 상대배치를 따로 추적한다. (원본 대조: L14_cycloaddition part 2.pdf p.27)
-
-[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.27](../../figures/L14/source/L14_p27.png)
-
-
-## 개요
-
-L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted이고 stereospecific이며 endo 생성물을 선호한다는 것을 봤다. 그런데 몇 가지 질문이 남는다. 왜 어떤 [4+2]는 잘 되는데 [4+4]나 열적 [2+2]는 안 되는가? 왜 electron-rich diene과 electron-deficient dienophile의 조합이 빠른가? 비대칭 diene과 dienophile이 만나면 두 가지 위치 이성질체 중 어느 쪽이 나오는가? 이 강의는 이 질문들을 Woodward–Hoffmann 규칙과 frontier molecular orbital(FMO) 이론 두 가지로 답한다. 그 다음 같은 논리를 6원환 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2] cycloaddition을 다루고, 마지막에는 [4+2]와 [2+2]를 모두 써서 cubane이라는 정육면체 분자를 만드는 합성으로 마무리한다. 이 강의의 핵심 질문은 결국 "반응이 *허용되는가*, 얼마나 *빠른가*, 그리고 *어느 방향으로* 일어나는가"이다. (→ [L13](L13_Cycloaddition_Part1.md) cycloaddition 1부 문서 참고)
-
-(출처: L14 p.1–2)
-
----
-
 ## 1. DA 반응의 최전선 orbital 다시 보기
 
 > 개념 문서: [frontier molecular orbital](../../wiki/개념/프런티어%20분자%20오비탈.md)
+
+L13(cycloaddition 1부)에서 Diels–Alder reaction(DA reaction)이 concerted이고 stereospecific이며 endo 생성물을 선호한다는 것을 봤다. 그런데 몇 가지 질문이 남는다. 이 강의는 그 질문들을 Woodward–Hoffmann 규칙과 frontier molecular orbital(FMO) 이론 두 가지로 답한다. 이 강의의 핵심 질문은 결국 "반응이 *허용되는가*, 얼마나 *빠른가*, 그리고 *어느 방향으로* 일어나는가"이다. (→ [L13](L13_Cycloaddition_Part1.md) cycloaddition 1부 문서 참고) (출처: L14 p.1–2)
 
 electron-rich diene과 electron-deficient dienophile을 섞으면 반응이 더 빠르다. 왜 그런가?
 
@@ -67,6 +32,8 @@ DA 반응에서 새 결합은 한 성분의 HOMO에 있는 전자가 다른 성�
 ## 2. Woodward–Hoffmann 규칙 (Woodward–Hoffmann rules)
 
 > 개념 문서: [Woodward–Hoffmann rules](../../wiki/개념/우드워드-호프만%20규칙.md), [suprafacial and antarafacial](../../wiki/개념/초면과%20대면.md)
+
+이 절을 읽고 답할 질문: 왜 어떤 [4+2]는 잘 되는데 [4+4]나 열적 [2+2]는 안 되는가?
 
 FMO 그림을 매번 그리지 않고도 "이 반응은 열적으로 허용되는가?"를 판단할 수 없을까? 그 도구가 Woodward–Hoffmann 규칙이다[1].
 
@@ -157,6 +124,8 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 
 > 개념 문서: [Diels–Alder regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md)
 
+이 절을 읽고 답할 질문: 비대칭 diene과 dienophile이 만나면 두 가지 위치 이성질체 중 어느 쪽이 나오는가?
+
 2-methoxybuta-1,3-diene(CH2=C(OMe)–CH=CH2)과 acrylonitrile(CH2=CH–CN)이 반응하면 두 생성물이 가능하다. 하나는 4-methoxycyclohex-3-ene-1-carbonitrile("1,4")이고, 다른 하나는 3-methoxycyclohex-3-ene-1-carbonitrile("1,3")이다. 어느 쪽이 나오는가?
 
 슬라이드의 답은 이렇다. **$\pi$ 전자의 polarization이 regioselectivity를 결정한다.** 구체적으로는 **dienophile의 "electrophilic" 위치가 diene의 "nucleophilic" 위치와 결합한다.** DA 반응은 협동 반응이므로 진짜 이온 intermediate는 없다. 그래도 각 성분이 극성 반응에서 어디가 반응할지를 상상하면 답을 맞힐 수 있다.
@@ -176,6 +145,8 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 ![2-methoxybutadiene + E⁺, acrylonitrile + Nu⁻ 상상 반응: diene의 nucleophilic 말단과 dienophile의 electrophilic 말단](../../figures/L14/regio_para_polar.svg)
 
 그림: 슬라이드 Step 1·2의 상상 반응이다. 왼쪽: OMe 산소의 비공유 전자쌍이 C–O 결합 쪽으로 밀려 들어가고(작은 화살표), C1=C2 $\pi$ 결합(파랑)이 E⁺를 공격한다. 그래서 OMe 옆 말단 C1이 nucleophilic 위치다. 오른쪽: Nu⁻가 acrylonitrile의 $\beta$-탄소를 공격하면 C=C $\pi$ 전자(빨강)는 C–CN 쪽으로, C≡N $\pi$ 전자는 질소로 밀려난다(Michael형). 그래서 $\beta$-탄소가 electrophilic 위치다. 실제 DA 반응에서는 이 두 탄소가 결합해 OMe와 CN이 1,4 관계인 "pseudo para" 생성물이 된다. 이온 intermediate가 실제로 생긴다는 뜻이 아니라, 어느 말단끼리 결합할지 정하는 사고 실험이다.
+
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.12](../../figures/L14/source/L14_p12.png)
 
 ![슬라이드 Step 3: 2-methoxybutadiene의 nucleophilic C1과 acrylonitrile의 electrophilic β-탄소가 결합해 pseudo para 생성물이 된다](../../figures/L14/regio_para_step3.svg)
 
@@ -245,6 +216,8 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 
 > 개념 문서: [Diels–Alder regioselectivity](../../wiki/개념/딜스-알더%20위치선택성.md), [endo rule](../../wiki/개념/endo%20규칙.md)
 
+문제를 풀 때 diene을 고정하고 dienophile의 두 방향을 먼저 비교한다. 유리한 결합 연결을 고른 뒤 그 연결을 고정해 endo/exo와 출발 E/Z를 적용한다. regio와 stereo를 동시에 뒤집으며 비교하면 어떤 효과가 답을 정했는지 알 수 없다. 강의 p.16–19가 이 두 단계 절차를 명시한다. (출처: L14 p.11–19)
+
 (E)-1-methoxybuta-1,3-diene(MeO–CH=CH–CH=CH2)과 acrolein(CH2=CH–CHO)의 생성물 stereochemistry는 어떻게 예측하는가? 슬라이드의 전략은 두 단계다.
 
 **1단계 – regioselectivity.** C1-치환 diene이므로 "ortho" 생성물인 2-methoxycyclohex-3-ene-1-carbaldehyde가 나온다. "meta" 생성물(3-methoxy…)은 주생성물이 아니다. 그런데 이 단계만으로는 OMe와 CHO가 cis인지 trans인지 알 수 없다.
@@ -260,6 +233,8 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 
 그림: 위는 endo TS, 아래는 exo TS다. 파란색은 diene의 $\pi$ 결합, 빨간색은 acrolein의 C=C, 초록 점선은 생기고 있는 두 $\sigma$ 결합이다(OMe가 붙은 C1이 CHO가 붙은 탄소와 결합하는 "ortho" 배향). endo TS에서는 CHO가 diene 아래(C2–C3 쪽)로 들어가고, exo TS에서는 바깥을 향한다. endo TS에서는 C1의 "in" 치환기 H가 CHO와 trans가 되므로 "out" 치환기 OMe는 CHO와 cis가 된다(오른쪽 위, 주생성물). exo TS에서는 반대로 OMe와 CHO가 trans다(오른쪽 아래). 생성물은 racemic이며 한 거울상만 그렸다. TS에서는 결합 형성에 관여하는 $CH_2$ 말단의 수소를 생략했다.
 
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.17](../../figures/L14/source/L14_p17.png)
+
 (출처: L14 p.16–17)
 
 ### 6.1 세 단계로 늘리기: stereospecificity까지
@@ -267,6 +242,10 @@ X가 강한 주개(OMe)일수록 편극이 커져서 선택성도 높아지는 �
 슬라이드의 빈칸 연습 문제는 (E)-1-acetoxybuta-1,3-diene(AcO–CH=CH–CH=CH2)과 (E)-crotonaldehyde(trans-CH3–CH=CH–CHO)의 반응이다. 여기에 stereospecificity라는 3단계가 추가된다. dienophile의 trans CHO/Me가 생성물에 그대로 남기 때문이다. 풀이는 연습 문제 3에서 한다.
 
 (출처: L14 p.18–19)
+
+C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 외운 생성물 이름보다 polarization으로 읽는 편이 낫다. donor가 둘이면 각각 어느 말단을 강화하는지 표시한다. Tutorial 4 Q1의 공식 답안은 Danishefsky diene의 연결 방향, endo에서 오는 OMe/CO2Me syn, ring fusion의 stereospecificity를 나눠 보여 준다. (출처: L14 p.11–17; Tutorial 4_answers p.1)
+
+더 읽기: [Tutorial 4 공식 풀이](../../practice/Tutorial_4.md).
 
 ---
 
@@ -303,6 +282,8 @@ Lewis acid을 넣으면 DA 반응은 무엇이 달라지는가? 슬라이드는 
 ## 8. 6원환을 넘어서: [6+4] cycloaddition
 
 > 개념 문서: [6+4 cycloaddition](../../wiki/반응/6+4%20고리화%20첨가.md)
+
+같은 논리를 6원환 밖으로 넓혀 [6+4], [4+3], 광화학 [2+2] cycloaddition을 다루고, 마지막에는 [4+2]와 [2+2]를 모두 써서 cubane이라는 정육면체 분자를 만드는 합성으로 마무리한다.
 
 Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다면 $6\pi$ 성분과 $4\pi$ 성분이 만나는 [6+4]는 허용되는가?
 
@@ -357,6 +338,8 @@ Woodward–Hoffmann 규칙이 [4+2]만을 위한 규칙은 아니다. 그렇다�
 ## 10. 광화학 [2+2] cycloaddition (Photochemical [2+2] cycloadditions)
 
 > 개념 문서: [photochemical \[2+2\] cycloaddition](../../wiki/반응/광화학%202+2%20고리화%20첨가.md)
+
+광화학 [2+2]는 열적 alkene [2+2]와 점유 상태가 다르다. 각 alkene 안의 기하는 보존되지만 어느 면에서 만나는지와 어떤 말단이 연결되는지는 따로 고른다. nitrone의 exo 선호까지 무조건 DA endo 규칙으로 해결하려 해서는 안 된다. (출처: L14 p.24–28; L15 p.16)
 
 ### 10.1 왜 열적으로는 안 되나
 
@@ -413,6 +396,10 @@ isobutylene(CH2=CMe2)과 cyclohex-2-enone을 $h\nu$ 로 반응시키면 실제�
 ![isobutylene과 cyclohex-2-enone의 광화학 \[2+2\]: CMe2가 enone의 $\beta$-탄소와 결합한다](../../figures/L14/photo22_regio.svg)
 
 그림: isobutylene(파란 C=C)과 cyclohex-2-enone(빨간 C=C)의 광화학 [2+2]이다. 슬라이드처럼 두 화살표로 두 $\sigma$ 결합이 동시에 생기는 것을 형식적으로 나타냈다. $CH_2$ 말단은 enone의 $\alpha$-탄소와, $CMe_2$ 는 $\beta$-탄소와 결합한다(초록색: 새 $\sigma$ 결합). 이 배향은 HOMO/LUMO가 아니라 LUMO/LUMO의 큰 계수(isobutylene의 $CMe_2$ , enone의 $\beta$-탄소)끼리 겹친다는 것으로 설명된다. 생성물의 두 융합 H는 슬라이드대로 cis(둘 다 굵은 쐐기)로 그렸다.
+
+그림: 보충 비교 예: isobutylene과 cyclohexenone의 광[2+2]다. 원본의 fused-ring 예와 기질이 다르므로 원본 생성물을 그대로 옮긴 답안으로 사용하지 않는다. 두 경우 모두 참여 alkene의 상대배치를 따로 추적한다. (원본 대조: L14_cycloaddition part 2.pdf p.27)
+
+[원본 자료에서 세부 구조·입체배치 확인: L14_cycloaddition part 2.pdf p.27](../../figures/L14/source/L14_p27.png)
 
 왜 이쪽인가? 슬라이드는 광화학 조건에서 HOMO/HOMO와 LUMO/LUMO 상호작용을 따진다. isobutylene의 LUMO는 치환된 CMe2 쪽 계수가 크고, enone LUMO는 $\beta$-탄소 계수가 크다. **큰 계수끼리 겹치므로** $\mathrm{CMe_2}{-}C_{\beta}$ 결합이 생긴다.
 
