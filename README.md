@@ -87,7 +87,7 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 | L13–L15 고리화 첨가 | 34장 Pericyclic reactions 1 (p.877) | 15장 Conjugated Systems, Orbital Symmetry (p.667) |
 | Test 2: 시그마트로픽·전자고리화 | 35장 Pericyclic reactions 2 (p.909) | 15장 |
 
-교과서 PDF(`Clayden-...pdf`, `Wade ...pdf`)는 저장소 루트에 있다.
+교과서 PDF(`Clayden-...pdf`, `Wade ...pdf`)는 저장소 루트에 있다. 공식 강의 슬라이드(L1–L17), Tutorial 1–6 문제와 답안, L10·L12 practice, Test 1 2025 문제와 답안, 수정된 일정표는 `materials/`에 있다. 노트의 `(출처: L# p.N)`은 이 PDF의 쪽수다.
 
 ## 연습 문제와 기출 (`practice/`)
 
