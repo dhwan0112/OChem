@@ -23,5 +23,5 @@ NUS CM3121(고급 유기화학) 한국어 학습 노트 저장소다. 학습자�
 
 ## 메커니즘 그림
 - **그림을 그리기 전에 반드시 [`figures/STYLE.md`](figures/STYLE.md)를 읽고 따른다.** 수소 명시, 색 규칙, 화살표와 전자쌍 겹침 금지, 반대 곡률 등이 정해져 있다.
-- 도구는 `tools/chemfig.py`(ReShiki 기반)다. ReShiki 실행 파일은 저장소에 없으므로, 학습자가 올려 준 `reshiki-*-linux-x64.tar.gz`를 스크래치 디렉터리에 풀어 `RESHIKI` 환경변수로 지정한다. reshiki.com은 이 클라우드 환경에서 접속이 막혀 있다.
+- 도구는 `tools/chemfig.py`(ReShiki 기반)다. ReShiki 실행 파일은 저장소에 없으므로, 학습자가 올려 준 `reshiki-*-linux-x64.tar.gz`를 스크래치 디렉터리에 풀어 `RESHIKI` 환경변수로 지정한다. reshiki.com은 이 클라우드 환경에서 접속이 막혀 있다. 학습자의 로컬 PC에서는 `~/.local/bin/reshiki`(0.12.0)가 있으므로 `RESHIKI=/home/kim/.local/bin/reshiki`로 바로 쓴다. 공식 슬라이드·튜토리얼 PDF는 `materials/`에 있다.
 - 렌더링 결과는 `NODE_PATH=$(npm root -g) node tools/preview.js 그림.svg 출력.png 3 dark` (그리고 `light`)로 확인한다.

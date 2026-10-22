@@ -23,15 +23,15 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 ### 1. 표적 분자: 왜 이런 게 필요할까 (슬라이드 p.2)
 - palytoxin: OH 40개, 키랄 중심 64개. 거의 같은 OH 중 하나만 반응시키려면 나머지를 막아야 한다.
-- → [protecting group](../wiki/개념/보호기.md)의 "개요"
+- → [protecting group](../wiki/개념/보호기.md)의 "1. 정의"
 
 ### 2. 언제 protecting group을 쓰는가 (슬라이드 p.3)
 - (1) 덜 반응적인 ester만 반응시킬 때(ethyl acetoacetate + PhMgBr은 ketone을 침, 52%), (2) 공존할 수 없는 작용기가 있을 때("impossible Grignard reagent", 산성 H).
-- → [protecting group](../wiki/개념/보호기.md)의 "언제 쓰나", [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
+- → [protecting group](../wiki/개념/보호기.md)의 "1.2 언제 쓰나", [Grignard reagent](../wiki/시약/그리냐르%20시약.md)
 
 ### 3. protecting group은 어떻게 쓰는가 (슬라이드 p.4)
 - FG1 보호 → FG2에서 반응 → FG1 탈보호. 조건: 깔끔한 보호·탈보호, 반응 조건에서의 안정성. 강의의 주인공은 silyl ether, carbamate, acetal.
-- → [protecting group](../wiki/개념/보호기.md)의 "원리"
+- → [protecting group](../wiki/개념/보호기.md)의 "2. 반응 순서"
 
 ### 4. 한눈에 보는 protecting group 표 (슬라이드 p.5)
 - Clayden 23장 표: acetal, trialkylsilyl, THP, benzyl ether, methyl ether, t-Bu ester, Cbz, Boc, Fmoc의 보호 대상·"무엇으로부터"·도입·제거.
@@ -43,7 +43,7 @@ CM3121 Advanced Organic Chemistry, Dr. Zhu Ye. 참고 교재: Clayden 2판 23장
 
 ### 6. amine의 protecting group: carbamate (슬라이드 p.8)
 - 6-1 질소 전자쌍이 C=O로 비편재화되어 nucleophile·염기 성질이 약해진다. 6-2 chloroformate(Cbz) 또는 dicarbonate(Boc₂O)와 염기로 씌운다. 6-3 Boc는 산(TFA), Cbz는 H₂/Pd(또는 HBr/AcOH)로 벗긴다. 마지막은 carbamic acid → CO₂ + amine.
-- → [protecting group](../wiki/개념/보호기.md)의 "왜 carbamate인가", [Cbz](../wiki/시약/Cbz%20보호기.md), [Boc](../wiki/시약/Boc%20보호기.md), [hydrogenolysis](../wiki/반응/수소화분해.md)
+- → [protecting group](../wiki/개념/보호기.md)의 "3.2 amine: carbamate", [Cbz](../wiki/시약/Cbz%20보호기.md), [Boc](../wiki/시약/Boc%20보호기.md), [hydrogenolysis](../wiki/반응/수소화분해.md)
 
 ### 7. peptide 합성: protecting group의 실전 무대 (슬라이드 p.9–12)
 
