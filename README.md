@@ -1,8 +1,8 @@
 # CM3121 고급 유기화학 학습 노트
 
-NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 만든 한국어 학습 노트다. **설명은 반응·시약·개념별 문서(`wiki/`)에 모여 있고**, 강의 노트(`notes/`)는 강의 순서와 슬라이드 위치를 따라 그 문서들로 안내하는 뼈대다. 나무위키처럼 읽히도록 서술형으로 썼고, 주요 용어는 영어로 적었다. 모든 내용에는 근거 슬라이드가 `(출처: L# p.N)` 형식으로 표기되어 있다. 여기서 p.N은 PDF 페이지 번호이며, 슬라이드에 인쇄된 번호와 1쪽 차이가 날 수 있다.
+NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 만든 한국어 학습 노트다. **설명은 반응·시약·개념별 문서(`wiki/`)에 모여 있고**, 강의 노트(`notes/`)는 강의 순서대로 슬라이드 내용을 서술하면서 그 문서들로 안내한다. 나무위키처럼 읽히도록 서술형으로 썼고, 주요 용어는 영어로 적었다. 모든 내용에는 근거 슬라이드가 `(출처: L# p.N)` 형식으로 표기되어 있다. 여기서 p.N은 PDF 페이지 번호이며, 슬라이드에 인쇄된 번호와 1쪽 차이가 날 수 있다.
 
-**어디서부터 읽나**: [위키 대문](wiki/위키%20대문.md)의 "단원별 시작점" 표에서 단원 개관이나 핵심 문서를 연다. 시험 직전에는 [Test 2 범위](wiki/Test%202%20범위.md)를, 강의 순서대로 훑고 싶으면 아래 강의 노트(뼈대)를 본다.
+**어디서부터 읽나**: [위키 대문](wiki/위키%20대문.md)의 "단원별 시작점" 표에서 단원 개관이나 핵심 문서를 연다. 시험 직전에는 [Test 2 범위](wiki/Test%202%20범위.md)를, 강의 순서대로 읽고 싶으면 아래 강의 노트를 본다.
 
 ## 옵시디언으로 보기
 
@@ -39,33 +39,33 @@ NUS CM3121 Advanced Organic Chemistry(Dr. Zhu Ye) 강의 자료를 바탕으로 
 
 태그와 목록 문서는 `python3 tools/build_wiki_index.py`가 자동으로 만든다. 문서를 고친 뒤 다시 실행하면 되고, 깨진 링크도 함께 검사한다.
 
-통독본의 Markdown 문법은 `python3 tools/audit_markdown_render.py notes/통독 --min-lecture 11 --report /tmp/ochem-markdown-audit.md`로 검사한다. 수식 구분자, 블록 경계, PDF 전용 명령, Pandoc 첨자, 이미지 경로와 누락된 대체 텍스트 등을 찾는다. 제목과 그림의 의미상 대응 및 실제 화면은 별도로 확인해야 한다. [L11–L17 렌더링 검수 기록](reports/markdown-render-audit-20261019.md)에 검사 범위와 한계를 정리했다.
+강의 노트의 Markdown 문법은 `python3 tools/audit_markdown_render.py notes --min-lecture 11 --report /tmp/ochem-markdown-audit.md`로 검사한다. 수식 구분자, 블록 경계, PDF 전용 명령, Pandoc 첨자, 이미지 경로와 누락된 대체 텍스트 등을 찾는다. 제목과 그림의 의미상 대응 및 실제 화면은 별도로 확인해야 한다. [L11–L17 렌더링 검수 기록](reports/markdown-render-audit-20261019.md)에 검사 범위와 한계를 정리했다.
 
 인증된 GitHub CLI(`gh`)가 있으면 같은 명령에 `--github`를 추가해 실제 GitHub 파서가 수식·강조 문법을 원문으로 남기는지도 검사할 수 있다. 이 옵션은 검사할 문서 원문을 GitHub Markdown API에 전송하며 저장소 파일을 변경하거나 게시하지 않는다.
 
-## 강의 노트 (`notes/`, 뼈대)
+## 강의 노트 (`notes/`)
 
-강의 순서대로 소절 제목, 핵심 한두 줄, 슬라이드 쪽수, 개념 문서 링크만 담았다. 강의 흐름대로 길게 읽고 싶으면 **통독본**(`notes/통독/`)을 연다. 통독본은 2026-10-12 재구성 직전의 전체 강의 노트(교과서 보강 포함)를 보존한 사본이고, 소절마다 해당 개념 문서 링크가 붙어 있다. 2026-10-18 요청에 따라 Test 2(L11–L17) 통독본에는 공식 강의 확인·보강 절과 그림을 추가했다. 상세 개념의 기준은 연결된 위키 문서다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
+강의 하나에 문서 하나다. 강의 순서대로 슬라이드 내용을 서술하고, 소절마다 해당 개념 문서 링크와 `(출처: L# p.N)`을 달았다. 각 노트 맨 위의 "관련 위키 문서" 블록은 `tools/build_wiki_index.py`가 만든다. 2026-10-23에 강의 순서·링크만 담았던 뼈대 노트를 없애고 통독본을 이 자리로 올렸다. 상세 개념의 기준은 연결된 위키 문서다. 각 강의의 연습 문제와 해설은 `practice/L##_Exercises.md`에 있다.
 
-| 강의 (뼈대) | 주제 | 통독본 | 시험 범위 |
+| 강의 | 주제 | 시험 범위 |
 |---|---|---|---|
-| [L1](notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | 알켄의 친전자성 첨가 1 (브로모늄, 에폭시화, HBr, 다이엔) | [통독](notes/통독/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | Test 1 |
-| [L2](notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | 알켄의 친전자성 첨가 2 (에폭사이드 열기, 다이올, 오존 분해, 수소붕소화) | [통독](notes/통독/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | Test 1 |
-| [L3](notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) | 친전자성 방향족 치환 1 (나이트로화, 설폰화, 프리델-크래프츠, 페놀) | [통독](notes/통독/L03_Electrophilic_Aromatic_Substitution_Part1.md) | Test 1 |
-| [L4](notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) | 친전자성 방향족 치환 2 (배향 효과, 치환기 경쟁, NMR) | [통독](notes/통독/L04_Electrophilic_Aromatic_Substitution_Part2.md) | Test 1 |
-| [L5](notes/L05_Reduction.md) | 환원 (아민 합성, 금속 수소화물, 촉매 수소화) | [통독](notes/통독/L05_Reduction.md) | Test 1 |
-| [L6](notes/L06_Oxidation_and_Alkene_Synthesis.md) | 산화와 알켄 합성 (알코올 산화, 위티그, HWE), 정정판 슬라이드 기준 | [통독](notes/통독/L06_Oxidation_and_Alkene_Synthesis.md) | Test 1 |
-| [L7](notes/L07_Enolate_Alkylation.md) | 엔올레이트 알킬화 | [통독](notes/통독/L07_Enolate_Alkylation.md) | Test 1 |
-| [L8](notes/L08_Aldol_Reactions.md) | 알돌 반응 | [통독](notes/통독/L08_Aldol_Reactions.md) | Test 1 |
-| [L9](notes/L09_Claisen_Condensation.md) | 클라이젠 축합 | [통독](notes/통독/L09_Claisen_Condensation.md) | Test 1 |
-| [L10](notes/L10_Enol_and_Enamine.md) | 엔올과 엔아민 | [통독](notes/통독/L10_Enol_and_Enamine.md) | Test 1 |
-| [L11](notes/L11_Conjugate_Addition.md) | 공액 첨가 | [통독](notes/통독/L11_Conjugate_Addition.md) | Test 2 |
-| [L12](notes/L12_Protecting_Groups.md) | 보호기 | [통독](notes/통독/L12_Protecting_Groups.md) | Test 2 |
-| [L13](notes/L13_Cycloaddition_Part1.md) | 고리화 첨가 1 (딜스-알더 기초, FMO) | [통독](notes/통독/L13_Cycloaddition_Part1.md) | Test 2 |
-| [L14](notes/L14_Cycloaddition_Part2.md) | 고리화 첨가 2 (위치선택성, 루이스 산 촉매, [2+2] 등) | [통독](notes/통독/L14_Cycloaddition_Part2.md) | Test 2 |
-| [L15](notes/L15_Cycloaddition_Part3.md) | 고리화 첨가 3 (케텐 [2+2], 1,3-쌍극자 고리화 첨가) | [통독](notes/통독/L15_Cycloaddition_Part3.md) | Test 2 |
-| [L16](notes/L16_Sigmatropic_Rearrangements.md) | sigmatropic rearrangements (공식 L16 PDF 반영) | [통독](notes/통독/L16_Sigmatropic_Rearrangements.md) | Test 2 |
-| [L17](notes/L17_Electrocyclic_Reactions.md) | electrocyclic reactions (공식 L17 PDF 반영) | [통독](notes/통독/L17_Electrocyclic_Reactions.md) | Test 2 |
+| [L1](notes/L01_Electrophilic_Addition_to_Alkenes_Part1.md) | 알켄의 친전자성 첨가 1 (브로모늄, 에폭시화, HBr, 다이엔)  | Test 1 |
+| [L2](notes/L02_Electrophilic_Addition_to_Alkenes_Part2.md) | 알켄의 친전자성 첨가 2 (에폭사이드 열기, 다이올, 오존 분해, 수소붕소화)  | Test 1 |
+| [L3](notes/L03_Electrophilic_Aromatic_Substitution_Part1.md) | 친전자성 방향족 치환 1 (나이트로화, 설폰화, 프리델-크래프츠, 페놀)  | Test 1 |
+| [L4](notes/L04_Electrophilic_Aromatic_Substitution_Part2.md) | 친전자성 방향족 치환 2 (배향 효과, 치환기 경쟁, NMR)  | Test 1 |
+| [L5](notes/L05_Reduction.md) | 환원 (아민 합성, 금속 수소화물, 촉매 수소화)  | Test 1 |
+| [L6](notes/L06_Oxidation_and_Alkene_Synthesis.md) | 산화와 알켄 합성 (알코올 산화, 위티그, HWE), 정정판 슬라이드 기준  | Test 1 |
+| [L7](notes/L07_Enolate_Alkylation.md) | 엔올레이트 알킬화  | Test 1 |
+| [L8](notes/L08_Aldol_Reactions.md) | 알돌 반응  | Test 1 |
+| [L9](notes/L09_Claisen_Condensation.md) | 클라이젠 축합  | Test 1 |
+| [L10](notes/L10_Enol_and_Enamine.md) | 엔올과 엔아민  | Test 1 |
+| [L11](notes/L11_Conjugate_Addition.md) | 공액 첨가  | Test 2 |
+| [L12](notes/L12_Protecting_Groups.md) | 보호기  | Test 2 |
+| [L13](notes/L13_Cycloaddition_Part1.md) | 고리화 첨가 1 (딜스-알더 기초, FMO)  | Test 2 |
+| [L14](notes/L14_Cycloaddition_Part2.md) | 고리화 첨가 2 (위치선택성, 루이스 산 촉매, [2+2] 등)  | Test 2 |
+| [L15](notes/L15_Cycloaddition_Part3.md) | 고리화 첨가 3 (케텐 [2+2], 1,3-쌍극자 고리화 첨가)  | Test 2 |
+| [L16](notes/L16_Sigmatropic_Rearrangements.md) | sigmatropic rearrangements (공식 L16 PDF 반영)  | Test 2 |
+| [L17](notes/L17_Electrocyclic_Reactions.md) | electrocyclic reactions (공식 L17 PDF 반영)  | Test 2 |
 
 시험 범위는 수정된 일정표(Revised schedule) 기준이다. Test 1은 1–5주차, Test 2는 6–10주차를 다루며 라디칼 화학은 Test 2에서 제외된다.
 

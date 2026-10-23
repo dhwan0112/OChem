@@ -70,4 +70,4 @@ L6에서 미뤄 둔 메커니즘은 L16(교재 보충, Clayden 기반)에서 나
 ## 출처
 
 - [L6 산화와 alkene 합성](../../notes/L06_Oxidation_and_Alkene_Synthesis.md) 4절
-- [L16 sigmatropic rearrangement](../../notes/통독/L16_Sigmatropic_Rearrangements.md) (교재 보충, Clayden p.919 기반)
+- [L16 sigmatropic rearrangement](../../notes/L16_Sigmatropic_Rearrangements.md) (교재 보충, Clayden p.919 기반)
