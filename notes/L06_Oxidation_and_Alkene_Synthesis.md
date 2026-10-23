@@ -757,7 +757,7 @@ $$
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| [ester 부분 환원](../wiki/반응/에스터%20부분%20환원.md) | DIBAL-H, hexane, −70 °C; H3O+ | aldehyde | – | – | tetrahedral intermediate가 저온에서 안정함 (p.2) |
+| [partial reduction of esters](../wiki/반응/에스터%20부분%20환원.md) | DIBAL-H, hexane, −70 °C; H3O+ | aldehyde | – | – | tetrahedral intermediate가 저온에서 안정함 (p.2) |
 | [DMP](../wiki/시약/DMP.md) oxidation | Dess–Martin periodinane, CH2Cl2 | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | – | C=C 기하 유지 | I(V)→I(III), 중성·온화 (p.7) |
 | [Swern oxidation](../wiki/반응/스원%20산화.md) | (COCl)2, DMSO, DCM, −78 °C; NEt3 | $\begin{aligned} & \mathrm{1^\circ } \\ & \longrightarrow \mathrm{RCHO},\ \mathrm{2^\circ } \\ & \longrightarrow \text{ketone} \end{aligned}$ | 3° OH 영향 없음 | – | 부산물 Me2S, CO, CO2, HCl (p.8–9) |
 | Ley–Griffith ([TPAP](../wiki/시약/TPAP.md)) | TPAP(촉매), NMO(최종 산화제) | aldehyde/ketone | – | – | Ru(VII)/Ru(V) 순환 (p.10) |
@@ -770,8 +770,8 @@ $$
 | 2단계 산화 ([alcohol oxidation](../wiki/반응/알코올%20산화.md)) | DMP → NaClO2 | RCO2H | – | – | "3 = 1 + 2" (p.16–17) |
 | benzyl 산화 ([KMnO4](../wiki/시약/KMnO4.md)) | KMnO4 | ArCO2H | benzyl CH3 | – | 사카린 합성 (p.18) |
 | allyl 산화 ([SeO2](../wiki/시약/SeO2.md)) | SeO2 | R–CH=C(CH3)–CHO | allyl CH3 | 그림상 R과 trans인 CH3가 산화됨 | benzyl CH3에는 안 됨 (p.18) |
-| [Lindlar 수소화](../wiki/반응/린들라%20환원.md) | H2, Pd/CaCO3/Pb(OAc)2 | Z-alkene | – | syn 첨가 → Z | 과잉 환원 없음 (p.23) |
-| [용해 금속 환원](../wiki/반응/용해%20금속%20환원.md) | Na, NH3(l), t-BuOH | E-alkene | – | trans 비닐 anion → E | SET (p.23–24) |
+| [Lindlar reduction](../wiki/반응/린들라%20환원.md) | H2, Pd/CaCO3/Pb(OAc)2 | Z-alkene | – | syn 첨가 → Z | 과잉 환원 없음 (p.23) |
+| [dissolving metal reduction](../wiki/반응/용해%20금속%20환원.md) | Na, NH3(l), t-BuOH | E-alkene | – | trans 비닐 anion → E | SET (p.23–24) |
 | 일리드 생성 ([phosphorus ylide](../wiki/시약/인%20일라이드.md)) | PPh3 + RCH2X (SN2); BuLi/PhLi/t-BuOK (안정화형은 Na2CO3) | Ph3P=CHR | 1°/2° halide | – | (p.26, 29) |
 | [Wittig](../wiki/반응/위티그%20반응.md) (비안정화) | Ph3P=CHR (R = alkyl) + R'CHO | R–CH=CH–R' | C=O 자리에 C=C | Z-선택적 | syn oxaphosphetane (p.31, 34) |
 | [Wittig](../wiki/반응/위티그%20반응.md) (안정화) | Ph3P=CHCO2Et, Ph3P=CHCHO 등 + RCHO | $\alpha,\beta$-unsaturated carbonyl | C=O 자리에 C=C | E-선택적 | (p.30) |

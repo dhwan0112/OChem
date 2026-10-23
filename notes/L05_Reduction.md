@@ -751,18 +751,18 @@ $$
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
 | amine 직접 alkylation ([amine synthesis (overview)](../wiki/개념/아민%20합성%20개관.md)) | NH<sub>3</sub>(대과량) + RX | RNH<sub>2</sub> (+ overalkylation 생성물) | X가 붙은 탄소에 N | S<sub>N</sub>2 (반전) | NH<sub>3</sub> 2 eq이면 1차/2차 혼합 (p.6) |
-| [azide 경로](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaN<sub>3</sub>, EtOH 2) LiAlH<sub>4</sub>; H<sub>2</sub>O (또는 H<sub>2</sub>/Pd, PPh<sub>3</sub>) | RNH<sub>2</sub> | X 탄소 | S<sub>N</sub>2 (반전) | 1차 amine만 (p.7) |
-| [nitrile 경로](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaCN 2) LiAlH<sub>4</sub>; H<sub>2</sub>O (또는 H<sub>2</sub>/Pd) | RCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> | - | S<sub>N</sub>2 (반전) | 탄소 1개 증가 (p.8) |
-| [amide 환원](../wiki/반응/아마이드%20환원.md) | LiAlH<sub>4</sub> 또는 BH<sub>3</sub>; H<sub>2</sub>O | RCH<sub>2</sub>NR'<sub>2</sub> | C=O → CH<sub>2</sub> | - | 1차/2차/3차 amine 모두 (p.9) |
-| [환원성 아미노화](../wiki/반응/환원성%20아미노화.md) | amine + R<sub>2</sub>C=O, NaBH<sub>3</sub>CN (pH 3-4, EtOH) 또는 H<sub>2</sub>/Ni, H<sub>2</sub>/Pd-C | 한 단계 더 치환된 amine | carbonyl 탄소에 N | 슬라이드에 지정 없음 | imine/iminium 경유 (p.10–12) |
+| [amine synthesis via azide](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaN<sub>3</sub>, EtOH 2) LiAlH<sub>4</sub>; H<sub>2</sub>O (또는 H<sub>2</sub>/Pd, PPh<sub>3</sub>) | RNH<sub>2</sub> | X 탄소 | S<sub>N</sub>2 (반전) | 1차 amine만 (p.7) |
+| [amine synthesis via nitrile](../wiki/반응/아자이드·나이트릴을%20거친%20아민%20합성.md) | 1) NaCN 2) LiAlH<sub>4</sub>; H<sub>2</sub>O (또는 H<sub>2</sub>/Pd) | RCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> | - | S<sub>N</sub>2 (반전) | 탄소 1개 증가 (p.8) |
+| [amide reduction](../wiki/반응/아마이드%20환원.md) | LiAlH<sub>4</sub> 또는 BH<sub>3</sub>; H<sub>2</sub>O | RCH<sub>2</sub>NR'<sub>2</sub> | C=O → CH<sub>2</sub> | - | 1차/2차/3차 amine 모두 (p.9) |
+| [reductive amination](../wiki/반응/환원성%20아미노화.md) | amine + R<sub>2</sub>C=O, NaBH<sub>3</sub>CN (pH 3-4, EtOH) 또는 H<sub>2</sub>/Ni, H<sub>2</sub>/Pd-C | 한 단계 더 치환된 amine | carbonyl 탄소에 N | 슬라이드에 지정 없음 | imine/iminium 경유 (p.10–12) |
 | [Eschweiler–Clarke](../wiki/반응/에슈바일러-클라크%20반응.md) | HCHO, HCOOH | RN(CH<sub>3</sub>)<sub>2</sub> | - | - | HCOOH = 수소화물원, -CO<sub>2</sub>; 4차 염 없음 (p.15) |
 | [NaBH<sub>4</sub>](../wiki/시약/NaBH4.md) 환원 | NaBH<sub>4</sub>, EtOH/MeOH | $\begin{aligned} & \text{aldehyde} \\ & \longrightarrow \text{1차},\ \text{ketone} \\ & \longrightarrow \text{2차 alcohol} \end{aligned}$ | aldehyde > ketone (약 400배) | $\mathrm{4^-}\ \mathit{t}\text{-}\ \text{Bu-cyclohexanone} \longrightarrow \text{주로 trans}\ (\text{각주}\ 12)$ | 다이글라임에선 aldehyde만 (p.19–21) |
 | [LiBH<sub>4</sub>](../wiki/시약/LiBH4.md) 환원 | LiBH<sub>4</sub>, EtOH | $\text{ester/락톤} \longrightarrow \text{alcohol}$ | 산, amide, nitrile 유지 | - | NaBH<sub>4</sub>보다 강함 (p.22) |
 | [LiAlH<sub>4</sub>](../wiki/시약/LiAlH4.md) 환원 | 1) LiAlH<sub>4</sub>, Et<sub>2</sub>O/THF 2) H<sub>2</sub>O/H<sub>2</sub>SO<sub>4</sub> | $\begin{aligned} & \text{산/ester/aldehyde} \\ & \longrightarrow \text{1차},\ \text{ketone} \\ & \longrightarrow \text{2차 alcohol};\ \text{amide} \\ & \longrightarrow \text{amine} \end{aligned}$ | 거의 비선택적 | - | 물과 격렬 반응 (p.23) |
 | alkyl halide 환원 ([LiAlH<sub>4</sub>](../wiki/시약/LiAlH4.md)) | LiAlH<sub>4</sub> (또는 LiAlD<sub>4</sub>), ether | R-H (R-D) | 할로젠 자리 | - | D 표지로 위치 확인 (p.24) |
-| [보레인](../wiki/시약/보레인.md) 환원 | BH<sub>3</sub>·THF/Et<sub>2</sub>O/Me<sub>2</sub>S | $\begin{aligned} & \text{산} \\ & \longrightarrow \text{1차 alcohol},\ \text{amide} \\ & \longrightarrow \text{amine} \end{aligned}$ | ester, ketone 유지 | - | LiBH<sub>4</sub>와 상보적 (p.27–28) |
+| [borane](../wiki/시약/보레인.md) 환원 | BH<sub>3</sub>·THF/Et<sub>2</sub>O/Me<sub>2</sub>S | $\begin{aligned} & \text{산} \\ & \longrightarrow \text{1차 alcohol},\ \text{amide} \\ & \longrightarrow \text{amine} \end{aligned}$ | ester, ketone 유지 | - | LiBH<sub>4</sub>와 상보적 (p.27–28) |
 | [DIBAL-H](../wiki/반응/에스터%20부분%20환원.md) | DIBAL, hexane, -70 °C; H<sub>3</sub>O<sup>+</sup> | $\text{ester} \longrightarrow \text{aldehyde}$ | - | - | 저온에서 tetrahedral intermediate 안정 (p.29) |
-| alkene [수소화](../wiki/반응/촉매%20수소화.md) | H<sub>2</sub>, Pd/C 또는 PtO<sub>2</sub> | 알케인 | - | syn 첨가 (cis 우세) | ketone 유지 (p.30–31) |
+| alkene [catalytic hydrogenation](../wiki/반응/촉매%20수소화.md) | H<sub>2</sub>, Pd/C 또는 PtO<sub>2</sub> | 알케인 | - | syn 첨가 (cis 우세) | ketone 유지 (p.30–31) |
 | 방향족 수소화 ([catalytic hydrogenation](../wiki/반응/촉매%20수소화.md)) | H<sub>2</sub>, Ni (50 °C, 100 atm) 또는 PtO<sub>2</sub>/AcOH | cyclohexane 고리 | - | - | 가장 어려운 수소화 (p.31) |
 | 비대칭 수소화 ([catalytic hydrogenation](../wiki/반응/촉매%20수소화.md)) | H<sub>2</sub>, CO, Rh(CO)<sub>2</sub>acac, Chiraphos | (+)-시트로넬랄 | 공액 C=C만 | E는 (S,S), Z는 (R,R) 리간드 | BASF 멘톨 공정 (p.32) |
 | [Rosenmund reduction](../wiki/반응/로젠문트%20환원.md) | H<sub>2</sub>, Pd/BaSO<sub>4</sub>, quinoline | RCHO | C-Cl만 | - | aldehyde, 방향족 유지 (p.33) |

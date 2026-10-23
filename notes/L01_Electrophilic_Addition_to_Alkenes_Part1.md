@@ -307,12 +307,12 @@ S<sub>N</sub>2라면 보통 덜 붐비는 쪽을 공격하지 않나? 여기가 
 | [halogenation](../wiki/반응/할로젠%20첨가.md) | Br₂ (또는 Cl₂) | 1,2-dihalide | 해당 없음 (대칭) | anti 첨가 | $\text{bromonium 이온} \longrightarrow \mathrm{S<sub>N</sub>2}$ |
 | [halohydrin](../wiki/반응/할로하이드린%20형성.md) | Br₂, H₂O | $\beta$-bromoalcohol | OH는 더 치환된 C에 | anti | 느슨한 S<sub>N</sub>2 |
 | haloether | Br₂, MeOH | $\beta$-bromoether | OMe는 더 치환된 C에 | anti | 용매가 $\mathrm{Br}^-$ 를 이김 |
-| [에폭시화](../wiki/반응/에폭시화.md) | mCPBA (과산) | epoxide | 해당 없음 | syn, 입체특이적 | 협동, 고리 TS |
+| [epoxidation](../wiki/반응/에폭시화.md) | mCPBA (과산) | epoxide | 해당 없음 | syn, 입체특이적 | 협동, 고리 TS |
 | $\text{bromohydrin} \longrightarrow \text{epoxide}$ | 염기 ($\mathrm{HO}^-$) | epoxide | 해당 없음 | 분자내 S<sub>N</sub>2 | |
 | [HBr addition](../wiki/반응/할로젠화수소%20첨가.md) | HBr | alkyl bromide | Markovnikov | (이번 강의 범위 아님) | carbocation intermediate |
 | [diene + HBr](../wiki/반응/다이엔의%20친전자성%20첨가.md) | HBr | 1,4-첨가 생성물 | H와 Br은 diene 양 끝에 | | allyl cation |
 | diene + Br₂ | Br₂ 1 당량 | 0 °C: 1,2-첨가 / 가열: 1,4-첨가 | | 1,4 생성물은 *E* | kinetic/thermodynamic 지배 |
-| [린들라 환원](../wiki/반응/린들라%20환원.md) | H₂, Pd/CaCO₃/Pb(OAc)₂ | *Z*-alkene | | syn | 촉매 표면 |
+| [Lindlar reduction](../wiki/반응/린들라%20환원.md) | H₂, Pd/CaCO₃/Pb(OAc)₂ | *Z*-alkene | | syn | 촉매 표면 |
 
 ---
 

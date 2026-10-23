@@ -402,13 +402,13 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 
 ## 반응 정리표
 
-> 개념 문서: [개관](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md) (요약 지도 p.28의 설명)
+> 개념 문서: [electrophilic addition to alkenes (overview)](../wiki/개념/알켄의%20친전자성%20첨가%20개관.md) (요약 지도 p.28의 설명)
 
 강의 끝의 요약 지도(p.28)는 *trans*-2-butene 하나에서 출발해 열 가지가 넘는 생성물로 가는 길을 보여준다. 이 문서를 다 읽은 뒤 그 지도를 보면서 각 화살표의 시약과 메커니즘을 말로 설명할 수 있다면 L1과 L2를 정복한 것이다. (출처: L2 p.28)
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| [epoxide 열기](../wiki/반응/에폭사이드%20고리%20열기.md) (산) | ROH, $H^+$ | $\beta$-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
+| [epoxide ring opening](../wiki/반응/에폭사이드%20고리%20열기.md) (산) | ROH, $H^+$ | $\beta$-알콕시 alcohol | Nu는 더 치환된 C에 | 반전 (anti) | 느슨한 S<sub>N</sub>2, 전자 효과 |
 | epoxide 열기 (염기) | $\mathrm{RO}^-$ (강한 Nu) | $\beta$-알콕시 alcohol | Nu는 덜 치환된 C에 | 반전 (anti) | 순수 S<sub>N</sub>2, 입체 효과 |
 | epoxide + amine | R₂NH | $\beta$-아미노 alcohol | (대칭 기질) | 반전, *trans* | |
 | [cyclohexene bromination](../wiki/반응/할로젠%20첨가.md) | Br₂ | *trans*-1,2-dibromide | | anti; diaxial → diequatorial | 부분입체이성질체 하나만 |
@@ -416,11 +416,11 @@ H. C. Brown은 순수한 olefin과 다이보레인의 반응이 매우 느리다
 | bromoether | NBS, HBr, 그다음 ROH | $\beta$-bromoether | OR은 더 치환된 C에 | anti | |
 | anti diol | 1. mCPBA 2. H₂O, HClO₄ | *trans*-1,2-diol | | anti | |
 | [syn diol](../wiki/반응/다이하이드록실화.md) | OsO₄ (또는 cat. OsO₄, NMO) | *cis*-1,2-diol | | syn, 입체특이적 | 오스메이트 ester |
-| [diol 절단](../wiki/반응/과아이오딘산%20절단.md) | NaIO₄ | carbonyl 2개 | | | 고리형 periodic acid ester |
-| [ozone 분해](../wiki/반응/오존%20분해.md) | 1. O₃ 2. Me₂S / H₂O₂ / NaBH₄ | aldehyde / carboxylic acid / alcohol | | | 1,3-쌍극자 cycloaddition |
-| [산 촉매 수화](../wiki/반응/산%20촉매%20수화.md) | H₂O, $H^+$ | alcohol | Markovnikov | | 평형, 3차 cation 필요 |
+| [periodate cleavage](../wiki/반응/과아이오딘산%20절단.md) | NaIO₄ | carbonyl 2개 | | | 고리형 periodic acid ester |
+| [ozonolysis](../wiki/반응/오존%20분해.md) | 1. O₃ 2. Me₂S / H₂O₂ / NaBH₄ | aldehyde / carboxylic acid / alcohol | | | 1,3-쌍극자 cycloaddition |
+| [acid-catalyzed hydration](../wiki/반응/산%20촉매%20수화.md) | H₂O, $H^+$ | alcohol | Markovnikov | | 평형, 3차 cation 필요 |
 | TFA 경유 수화 | 1. TFA 2. 염기, H₂O | alcohol | Markovnikov | | ester 경유 |
-| [수소붕소화-산화](../wiki/반응/수소붕소화-산화.md) | 1. BH₃·THF (또는 9-BBN) 2. H₂O₂, NaOH | alcohol | "반마르코프니코프" (B는 덜 치환된 C에) | syn | 9-BBN이 더 선택적 |
+| [hydroboration-oxidation](../wiki/반응/수소붕소화-산화.md) | 1. BH₃·THF (또는 9-BBN) 2. H₂O₂, NaOH | alcohol | "반마르코프니코프" (B는 덜 치환된 C에) | syn | 9-BBN이 더 선택적 |
 
 ---
 

@@ -377,7 +377,7 @@ proline은 어떻게 촉매로 돌아올까? 슬라이드의 촉매 순환을 �
 | [Stork enamine alkylation](../wiki/반응/스토크%20엔아민%20반응.md) | 1. R–X 2. H₂O, H⁺ | 2-alkylcyclohexanone | $\alpha$-탄소 | 슬라이드에서 다루지 않음 | iminium intermediate (p.11) |
 | aldehyde [enamine alkylation](../wiki/반응/스토크%20엔아민%20반응.md) 1 | pentane알, (i-Bu)₂NH/H⁺; BrCH₂CO₂Et, MeCN 환류; H₂O | ethyl 3-formylhexanoate | $\alpha$-탄소 | 라세미 | 자기 축합 없음 (p.12) |
 | aldehyde [enamine alkylation](../wiki/반응/스토크%20엔아민%20반응.md) 2 | 2-ethylhexanal, pyrrolidine/H⁺; allyl bromide, MeCN 환류; H₂O | 2-allyl-2-ethylhexanal | $\alpha$-탄소(4차 탄소 형성) | 라세미 | (p.12) |
-| [proline 촉매 비대칭 aldol](../wiki/반응/프롤린%20촉매%20알돌%20반응.md) | acetone + ArCHO/RCHO, L-proline 30 mol%, DMSO | CH₃COCH₂CH(OH)R | $\text{acetone}\ \alpha\ \text{-탄소} \longrightarrow \text{aldehyde}\ \mathrm{C}$ | (R), 76 % ee (Ar = 4-NO₂C₆H₄); 지방족 최대 >99 % ee | enamine 촉매 순환 (p.13–14) |
+| [proline-catalyzed aldol reaction](../wiki/반응/프롤린%20촉매%20알돌%20반응.md) | acetone + ArCHO/RCHO, L-proline 30 mol%, DMSO | CH₃COCH₂CH(OH)R | $\text{acetone}\ \alpha\ \text{-탄소} \longrightarrow \text{aldehyde}\ \mathrm{C}$ | (R), 76 % ee (Ar = 4-NO₂C₆H₄); 지방족 최대 >99 % ee | enamine 촉매 순환 (p.13–14) |
 
 ## 연습 문제
 

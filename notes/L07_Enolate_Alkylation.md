@@ -367,12 +367,12 @@ enolate는 평면이라 electrophile이 위에서 오든 아래에서 오든 확
 | ketone $\alpha$-[alkylation](../wiki/반응/엔올레이트%20알킬화.md) | 1. LDA, DME/THF 2. CH3I (또는 BnBr) | 2,6-dimethylcyclohexanone 56% (2,2-이치환체 6%) | 덜 치환된 $\alpha$-C | 새 입체중심은 라세미 | SN2: methyl·1차·allyl·benzyl 좋음, 3차는 제거 (p.10–11) |
 | ester $\alpha$-alkylation | 1. LDA, THF 2. EtI | 2-ethylbutanoic acid methyl 96% | $\alpha$-C | – | ester $\alpha$-H pKa ~25 (p.13) |
 | 락톤 $\alpha$-alkylation | 1. LDA 2. MeI | $\alpha$-methyl-$\gamma$-뷰티로락톤 88% | $\alpha$-C | – | (p.14) |
-| [acetoacetic ester 합성](../wiki/반응/아세토아세트산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. aq. NaOH, 가열 4. H3O⁺, 가열(−CO2) | methyl ketone CH3COCH2R | 두 C=O 사이 CH2 | – | R–X에 −CH2COCH3를 붙이는 효과 (p.16–18) |
-| [malonic ester 합성](../wiki/반응/말론산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. KOH 환류 4. H2SO4 환류(−CO2) | carboxylic acid RCH2COOH | 두 C=O 사이 CH2 | – | R–X에 −CH2COOH를 붙이는 효과 (p.19–20) |
+| [acetoacetic ester synthesis](../wiki/반응/아세토아세트산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. aq. NaOH, 가열 4. H3O⁺, 가열(−CO2) | methyl ketone CH3COCH2R | 두 C=O 사이 CH2 | – | R–X에 −CH2COCH3를 붙이는 효과 (p.16–18) |
+| [malonic ester synthesis](../wiki/반응/말론산%20에스터%20합성.md) | 1. NaOEt 2. R–X 3. KOH 환류 4. H2SO4 환류(−CO2) | carboxylic acid RCH2COOH | 두 C=O 사이 CH2 | – | R–X에 −CH2COOH를 붙이는 효과 (p.19–20) |
 | $\beta$-keto acid [decarboxylation](../wiki/반응/탈카복실화.md) | 가열 | $\text{enol} \longrightarrow \text{ketone} + \mathrm{CO_2}$ | – | – | 6원자 고리형 transition state (p.16) |
 | acid chloride + Et3N | Cl2CHCOCl, Et3N | [dichloroketene](../wiki/개념/케텐.md) Cl2C=C=O | – | – | enolate가 Cl⁻을 잃음 (p.23) |
 | [C-alkylation vs O-alkylation](../wiki/개념/하드-소프트%20산염기.md) | soft: MeI, MeBr / hard: MeOMs, Me2SO4, Me3O⁺ | $\begin{aligned} & \text{soft} \\ & \longrightarrow \text{ketone}\ \mathrm{(C)},\ \text{hard} \\ & \longrightarrow \text{enol ether}\ \mathrm{(O)} \end{aligned}$ | C 또는 O | – | 큰 cation(Cs⁺, K⁺)은 O reaction 경향 (p.24–25) |
-| [Evans 비대칭 alkylation](../wiki/시약/에반스%20옥사졸리디논.md) | N-acyl oxazolidinone, LDA, −78 °C; BnBr | $\alpha$-benzyl 생성물 92% | $\alpha$-C | 99:1 dr | Li chelate Z-enolate, 보조기가 한 면을 가림 (p.27) |
+| [Evans oxazolidinone](../wiki/시약/에반스%20옥사졸리디논.md) | N-acyl oxazolidinone, LDA, −78 °C; BnBr | $\alpha$-benzyl 생성물 92% | $\alpha$-C | 99:1 dr | Li chelate Z-enolate, 보조기가 한 면을 가림 (p.27) |
 | 보조기 제거 | LiBH4 / LiOH, H2O2 | 키랄 1차 alcohol / 키랄 carboxylic acid | – | $\alpha$-입체중심 유지 | (p.28) |
 
 ## 연습 문제

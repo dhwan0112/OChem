@@ -251,13 +251,13 @@ $$
 
 | 반응 | 시약/조건 | 생성물 | regioselectivity | 입체화학 | 비고 |
 |---|---|---|---|---|---|
-| [자기 축합](../wiki/반응/클라이젠%20축합.md): ethyl acetate | 2 CH3CO2Et, NaOEt; HCl | ethyl acetoacetate CH3COCH2CO2Et (76%) | 해당 없음(대칭) | 해당 없음 | EtOH 증류 제거; 1당량 염기 (p.5) |
-| [자기 축합](../wiki/반응/클라이젠%20축합.md): ethyl pentanoate | NaOEt; CH3CO2H | ethyl 3-옥소-2-propylheptanoate (77%) | 한 분자의 C=O와 다른 분자의 $\alpha$-C 연결 | C2 입체중심, 라세미(보충: enolization으로 쉽게 에피머화, 보충 근거: Clayden p.459) | (p.5) |
-| [교차](../wiki/반응/교차%20클라이젠%20축합.md): ester + carbonate | PhCH2CO2Et + (EtO)2CO, NaOEt, EtOH | PhCH(CO2Et)2 (86%) | carbonate는 electrophile로만 작용 | 해당 없음 | malonic ester 합성 (p.9) |
-| [교차](../wiki/반응/교차%20클라이젠%20축합.md): ester + oxalate | CH3(CH2)5CO2Et + (CO2Et)2, EtONa, EtOH | EtO2C–CO–CH(CO2Et)–C5H11 (83%) | oxalate가 electrophile | $\alpha$-C 입체중심 라세미 | oxalate가 가장 반응성 큼 (p.9) |
-| [교차](../wiki/반응/교차%20클라이젠%20축합.md): ketone + oxalate | cyclohexanone, NaOEt; (CO2Et)2; H3O⁺ | 2-(EtO2C–CO–)cyclohexanone (67%) | ketone이 enolate(더 산성) | 라세미 | (p.10) |
-| [교차](../wiki/반응/교차%20클라이젠%20축합.md): ketone + 포메이트 | cyclohexanone, HCO2Et, EtO⁻; HCl/H2O | $\begin{aligned} & \text{2-formylcyclohexanone} \\ & \longrightarrow \text{분리형은 2-(hydroxymethylene)cyclohexanone} \end{aligned}$ | ketone $\alpha$-C에 CHO 도입 | enol형(분자 내 H-결합) | 1당량 염기 (p.10) |
-| [교차](../wiki/반응/교차%20클라이젠%20축합.md): ketone + benzoate | PhCO2Et + PhCOCH3, NaOEt; H3O⁺ | PhCOCH2COPh | acetophenone CH3가 nucleophile | 해당 없음 | aldol보다 Claisen 우세 (p.11) |
+| [Claisen condensation (self)](../wiki/반응/클라이젠%20축합.md): ethyl acetate | 2 CH3CO2Et, NaOEt; HCl | ethyl acetoacetate CH3COCH2CO2Et (76%) | 해당 없음(대칭) | 해당 없음 | EtOH 증류 제거; 1당량 염기 (p.5) |
+| [Claisen condensation (self)](../wiki/반응/클라이젠%20축합.md): ethyl pentanoate | NaOEt; CH3CO2H | ethyl 3-옥소-2-propylheptanoate (77%) | 한 분자의 C=O와 다른 분자의 $\alpha$-C 연결 | C2 입체중심, 라세미(보충: enolization으로 쉽게 에피머화, 보충 근거: Clayden p.459) | (p.5) |
+| [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md): ester + carbonate | PhCH2CO2Et + (EtO)2CO, NaOEt, EtOH | PhCH(CO2Et)2 (86%) | carbonate는 electrophile로만 작용 | 해당 없음 | malonic ester 합성 (p.9) |
+| [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md): ester + oxalate | CH3(CH2)5CO2Et + (CO2Et)2, EtONa, EtOH | EtO2C–CO–CH(CO2Et)–C5H11 (83%) | oxalate가 electrophile | $\alpha$-C 입체중심 라세미 | oxalate가 가장 반응성 큼 (p.9) |
+| [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md): ketone + oxalate | cyclohexanone, NaOEt; (CO2Et)2; H3O⁺ | 2-(EtO2C–CO–)cyclohexanone (67%) | ketone이 enolate(더 산성) | 라세미 | (p.10) |
+| [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md): ketone + 포메이트 | cyclohexanone, HCO2Et, EtO⁻; HCl/H2O | $\begin{aligned} & \text{2-formylcyclohexanone} \\ & \longrightarrow \text{분리형은 2-(hydroxymethylene)cyclohexanone} \end{aligned}$ | ketone $\alpha$-C에 CHO 도입 | enol형(분자 내 H-결합) | 1당량 염기 (p.10) |
+| [crossed Claisen condensation](../wiki/반응/교차%20클라이젠%20축합.md): ketone + benzoate | PhCO2Et + PhCOCH3, NaOEt; H3O⁺ | PhCOCH2COPh | acetophenone CH3가 nucleophile | 해당 없음 | aldol보다 Claisen 우세 (p.11) |
 | [Dieckmann condensation](../wiki/반응/디크만%20축합.md) | RO2C(CH2)4CO2R, 1. RO⁻; 2. H⁺ | 2-(RO2C)cyclopentanone + ROH | 분자 내, 5원 고리 | C2 라세미 | 6원 고리는 1,7-diester에서 (p.12) |
 
 ## 연습 문제

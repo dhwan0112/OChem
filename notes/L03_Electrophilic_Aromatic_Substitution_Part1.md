@@ -358,17 +358,17 @@ phenol의 HOMO 그림을 보면 전자 밀도가 **OH의 두 오르토 위치와
 
 | 반응 | 시약/조건 | electrophile | 생성물 | 비고 |
 |---|---|---|---|---|
-| [bromination/염소화](../wiki/반응/방향족%20할로젠화.md) | X₂ + Lewis acid (AlX₃, FeX₃) | X-X⁺-AlX₃⁻ 착물 | ArX | benzene은 Lewis acid 없이 반응 안 함 |
+| [aromatic halogenation](../wiki/반응/방향족%20할로젠화.md) | X₂ + Lewis acid (AlX₃, FeX₃) | X-X⁺-AlX₃⁻ 착물 | ArX | benzene은 Lewis acid 없이 반응 안 함 |
 | [nitration](../wiki/반응/나이트로화.md) | 진한 HNO₃ + 진한 H₂SO₄ | NO₂⁺ (직선형, sp N) | ArNO₂ | |
 | [sulfonation](../wiki/반응/설폰화.md) | 진한 H₂SO₄ 또는 fuming sulfuric acid (H₂SO₄ + SO₃) | HSO₃⁺ (SO₃H⁺) | ArSO₃H | |
 | [F-C alkylation](../wiki/반응/프리델-크래프츠%20알킬화.md) | RX + AlCl₃ | R⁺ | ArR | 자리 옮김, 다중 치환 문제 |
 | [F-C acylation](../wiki/반응/프리델-크래프츠%20아실화.md) | RCOCl (또는 (RCO)₂O) + AlCl₃ | R-C≡O⁺ (acylium) | ArCOR | 한 번만 치환, 자리 옮김 없음 |
-| [클레멘센 환원](../wiki/반응/클레멘센%20환원.md) | Zn/Hg, HCl | (환원) | ArCH₂R | ketone만 환원 (산은 그대로) |
+| [Clemmensen reduction](../wiki/반응/클레멘센%20환원.md) | Zn/Hg, HCl | (환원) | ArCH₂R | ketone만 환원 (산은 그대로) |
 | 분자내 acylation | H₃PO₄ | acylium | 테트랄론 | 6원 고리 형성 |
 | nitro 환원 | H₂, Pd/C 또는 Sn, 묽은 HCl | | ArNH₂ | |
 | $\text{diazonium화} \longrightarrow \text{phenol}$ ([diazonium salt reactions](../wiki/반응/다이아조늄%20염%20반응.md)) | 1. NaNO₂, HCl, 0 °C 2. H₂O, 가열 | 아릴 cation | ArOH | N₂가 leaving group |
 | phenol bromination | Br₂, EtOH/H₂O (촉매 없음) | Br₂ | 2,4,6-tribromophenol | o,p-배향, 매우 빠름 |
-| [콜베-슈미트](../wiki/반응/콜베-슈미트%20반응.md) | 1. NaOH 2. CO₂ 3. H₃O⁺ | CO₂ | salicylic acid (오르토) | phenoxide는 매우 활성 |
+| [Kolbe–Schmitt reaction](../wiki/반응/콜베-슈미트%20반응.md) | 1. NaOH 2. CO₂ 3. H₃O⁺ | CO₂ | salicylic acid (오르토) | phenoxide는 매우 활성 |
 
 ---
 
