@@ -114,7 +114,7 @@ python3 tools/chemfig.py figures/L01/bromonium_step1.json
 
 ### Test 2 개념 그림 모음 (`figures/Test2_figures/`)
 
-ReShiki 메커니즘 그림과 별도로, L11 conjugate addition과 L13–L16 pericyclic 반응(cycloaddition, Woodward–Hoffmann 카운팅, sigmatropic)을 개념 단위로 설명하는 SVG 23장과 오비탈 애니메이션 GIF 5개를 [`figures/Test2_figures/`](figures/Test2_figures/README.md)에 모았다. 주제별 폴더, 각 그림의 내용과 출처 슬라이드, 추천 읽기 순서는 그 폴더의 README에 있고, `index.html`을 브라우저로 열면 전체를 한 화면에서 볼 수 있다. SVG는 컬러판과 흑백판(`_bw`)이 한 쌍이며, 컬러판은 `figures/STYLE.md`의 색 규칙을 따른다.
+ReShiki 메커니즘 그림과 별도로, L11 conjugate addition과 L13–L16 pericyclic 반응(cycloaddition, Woodward–Hoffmann 카운팅, sigmatropic)을 개념 단위로 설명하는 SVG 23장과 오비탈 애니메이션 GIF 5개를 [`figures/Test2_figures/`](figures/Test2_figures/README.md)에 모았다. 주제별 폴더, 각 그림의 내용과 출처 슬라이드, 추천 읽기 순서는 그 폴더의 README에 있고, `index.html`을 브라우저로 열면 전체를 한 화면에서 볼 수 있다. SVG는 컬러판과 흑백판(`_bw`)이 한 쌍이며, 컬러판은 `figures/STYLE.md`의 색 규칙을 따른다. 이 그림들은 ReShiki가 아니라 PIL·cairosvg 스크립트로 그렸고, 스크립트와 실행 방법은 [`tools/test2_figures/`](tools/test2_figures/README.md)에 있다.
 
 ### Test 2 보강 그림의 출처
 

@@ -1,6 +1,6 @@
 # CM3121 Test 2 그림 모음 (L11–L16)
 
-Test 2 범위(L11–L16)의 개념 그림(SVG)과 오비탈 애니메이션(GIF)을 주제별로 정리한 모음이다. SVG는 대부분 컬러판과 흑백판(`_bw`)이 한 쌍이며, 컬러판은 [STYLE.md](../STYLE.md) 색 규칙(HOMO·nucleophile 파랑, LUMO·electrophile 빨강, 전자 이동 주황, 새 결합 초록)을 따른다. `index.html`을 브라우저로 열면 전체를 한 화면에서 볼 수 있다.
+Test 2 범위(L11–L16)의 개념 그림(SVG)과 오비탈 애니메이션(GIF)을 주제별로 정리한 모음이다. SVG는 대부분 컬러판과 흑백판(`_bw`)이 한 쌍이며, 컬러판은 [STYLE.md](../STYLE.md) 색 규칙(HOMO·nucleophile 파랑, LUMO·electrophile 빨강, 전자 이동 주황, 새 결합 초록)을 따른다. `index.html`을 브라우저로 열면 전체를 한 화면에서 볼 수 있다. 그림을 만든 스크립트와 파일 이름 대응은 [tools/test2_figures](../../tools/test2_figures/README.md)에 있다.
 
 ## 01. L11 conjugate addition
 
