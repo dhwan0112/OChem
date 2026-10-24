@@ -670,6 +670,10 @@ Clayden의 요약표도 같다. [1,3]H antarafacial·불가능, [1,5]H suprafaci
 
 그림: triene LUMO psi4의 위쪽 lobe 부호를 +, −, −, +, +, −로 택하면 사슬을 따른 node는 세 개다. 같은 면의 양 끝 위상은 반대지만, 한쪽 끝에서 아래쪽 lobe를 택하면 초록 접촉 두 곳의 위상이 같아진다. 이것이 [1,5]H의 diene 그림과 달리 **antarafacial** 겹침이 필요한 이유다. 전체 orbital의 부호를 한꺼번에 뒤집어도 상대 위상과 결론은 같다. (보충 근거: Clayden p.921)
 
+![thermal antarafacial [1,7]-H shift](../figures/Test2_figures/04_sigmatropic_L16/SG_01_1-7H_shift_antarafacial.gif)
+
+그림: σ C–H와 triene LUMO ψ4는 한쪽 면만으로는 양 끝이 맞지 않는다(평평한 사슬에서 C1 위쪽 로브와 어긋남, ×). 사슬이 나선으로 감겨 H가 C7 윗면에서 C1 아랫면으로 옮겨 가면(σ2s + π6a) 허용된다. 탄소 3개짜리 [1,3]-H는 이렇게 휠 수 없다. 보충: 나선은 결합 길이만 맞춘 도식이고 이동하는 H 외의 수소는 생략했다. (출처: L16 p.21–24)
+
 ### 10.2 광화학 반응에서는 규칙이 뒤집힌다
 
 [L14](L14_Cycloaddition_Part2.md) 10절에서 열적으로 금지인 [2+2]가 빛으로는 허용됐듯이, 광화학 [1,n]H 이동도 열적 규칙과 반대다. Clayden은 단단한 고리 안이라 antarafacial [1,7]H 이동을 할 수 없는 화합물이 빛을 받으면 **suprafacial로** [1,7]H 이동을 하는 예를 든다. (출처: Clayden p.896–897, p.921)

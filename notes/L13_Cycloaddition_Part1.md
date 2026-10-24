@@ -110,6 +110,10 @@ dienophile을 maleic anhydride로 바꾸어도 그림은 같다. butadiene + mal
 
 한 번의 concerted \[4+2\]에서 새 $\sigma$ 결합 두 개와 남는 C=C 하나를 함께 그린다. diene의 가운데 결합은 생성물의 C=C가 되고, diene은 실제로 s-cis 배치를 만들 수 있어야 한다. 평면 종이에 s-trans로 그려져 있다는 사실과 s-cis로 회전할 수 없다는 사실은 다르다. (출처: L13 p.10–18)
 
+![Diels–Alder mechanism and cyclic TS](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_01_DA_mechanism.svg)
+
+그림: 세 개의 곡선 화살표가 고리를 한 바퀴 돌며 π 결합 3개가 π 1개와 σ 2개(초록)로 바뀐다. 가운데는 6전자 고리형 TS(‡)다. (출처: L13 p.10, 19)
+
 ## 5. 무엇이 반응을 빠르게 하나
 
 ### 5-1. Dienophile: 전자가 부족할수록 좋다
@@ -241,6 +245,10 @@ diene 쪽 치환기는 어떻게 될까? s-cis 형태의 diene을 그려 보면,
 
 보충: "trans,trans diene인데 왜 cis 생성물이 나오나?"가 헷갈린다면 대칭으로 확인하면 된다. (E,E)-diene + DMAD는 반응물 전체에 diene 가운데를 지나는 거울면이 하나 있다. 반응이 concerted이라 치환기가 도중에 자리를 옮길 수 없으므로, 생성물도 같은 거울면을 가져야 하고 그러려면 두 Ph가 같은 쪽(cis, meso형)이어야 한다. (E,Z)-diene은 처음부터 이 대칭이 없으므로 두 치환기가 반대쪽에 놓인다. 또 dienophile은 diene 평면 안이 아니라 아래에서 다가오므로 "in" 치환기가 있어도 반응 자체는 막히지 않는다(다만 s-cis를 방해해 느려진다, 5-2절 보충). (보충 근거: Clayden p.883) (출처: L13 p.20)
 
+![(E,Z)-diene + DMAD, in/out in 3D](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_04_EZ_diene_DA_3D.gif)
+
+그림: dienophile(DMAD)이 아래에서 들어오면 양 끝 탄소의 inside 치환기(빨강 R)는 위로, outside 치환기(파랑 R)는 아래로 간다. in과 out이 섞인 (E,Z)-diene에서는 두 R이 고리의 반대 면, 즉 trans가 된다. 보충: 모형은 고리를 평면으로 단순화했다. (출처: L13 p.20; 보충 근거: Clayden p.885–886)
+
 ### 6-3. Endo 규칙: 두 반응물 사이의 stereoselectivity
 
 > 개념 문서: [endo rule](../wiki/개념/endo%20규칙.md)
@@ -272,6 +280,14 @@ p.23–24의 연습 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고
 그림: 보충: 바로 위의 3D TS 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 앞의 endo/exo 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
 
 [원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../figures/L13/source/L13_p22.png)
+
+![endo rule in three steps](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_08_endo_steps_1-3.svg)
+
+그림: ① 두 평면이 겹친 TS에서 C=O를 diene 밑에 넣으면 endo, 바깥으로 빼면 exo다. ② endo에서는 C=O 탄소와 diene C3의 로브가 같은 위상으로 겹쳐(주황) TS가 안정해진다. 이 겹침은 결합을 만들지 않는다. ③ 그래서 endo가 빨리 생기는 kinetic 생성물이고, exo는 대개 더 안정하다. 보충: acrolein LUMO의 계수는 4원자 ψ3로 근사했다. (출처: L13 p.21–22, 29; 보충 근거: Clayden p.884)
+
+![endo vs exo approach in 3D](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_10_endo_rule_3d.gif)
+
+그림: cyclopentadiene + acrolein, 측면 시점(왼쪽 CH₂, 오른쪽 C2=C3). 평행한 두 평면에서 endo일 때만 C=O와 diene 뒤쪽이 겹치고(주황), dienophile을 뒤집은 exo에서는 겹침이 없다. 결합이 생기면 CHO는 CH₂ 다리 반대편에 남는다. (출처: L13 p.21–22, 29)
 
 ## 7. 왜 그런가: molecular orbital로 다시 보기
 
@@ -311,11 +327,19 @@ FMO 이론에 따르면 반응은 한쪽의 HOMO에서 다른 쪽의 LUMO로 전
 
 stereospecificity도 orbital 그림으로 바로 이해된다. diene HOMO의 양 끝 lobe와 dienophile LUMO의 양 끝 lobe는 각각 같은 면에서 만나야 위상이 맞는다. 그래서 두 $\sigma$ 결합이 한 면에서 동시에 생기고(suprafacial–suprafacial), 치환기의 상대 배열이 보존된다. 슬라이드는 네 가지 경우를 짝지어 보여 준다. (Z)-maleate는 syn, (E)-fumarate는 anti 생성물을 준다. DMAD와 반응할 때 (E,E)-hexa-2,4-diene은 syn(cis-3,6-dimethyl), (E,Z)-hexa-2,4-diene은 anti(trans-3,6-dimethyl) 생성물을 준다. (출처: L13 p.28)
 
+![Diels–Alder in orbitals, π4s + π2s](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_03_DA_orbitals.gif)
+
+그림: diene HOMO ψ2와 dienophile LUMO π*는 둘 다 양 끝 부호가 반대라서 비틀지 않고 포개기만 해도 양 끝이 맞는다. 두 성분 모두 한쪽 면만 쓰므로 π4s + π2s다. 수소를 표시했고 로브 크기는 Hückel 계수에 비례한다. (출처: L13 p.10, 27; L14 p.6)
+
 ### 7-4. orbital로 본 endo 선호
 
 > 개념 문서: [endo rule](../wiki/개념/endo%20규칙.md)
 
 endo 선호는 cyclopentadiene 이량화를 예로 설명한다. 두 cyclopentadiene이 만나면 endo-dicyclopentadiene이 생기고, 두 alkene이 서로 endo 관계에 놓인다. diene HOMO의 말단(C1, C4)과 dienophile LUMO의 결합성 겹침이 새 $\sigma$ 결합을 만드는 1차 상호작용이다. 그런데 endo TS에서는 그것만이 아니다. dienophile 분자에 남은 $\pi$ orbital이 diene의 C2, C3 lobe 바로 아래에 놓여 추가로 결합성 겹침을 한다. 이것이 2차 orbital 겹침이다. 이 겹침은 결합으로 이어지지 않고 TS만 안정화하는 "보너스"이므로, 남은 $\pi$ 계를 diene 아래에 둘 수 있는 endo 경로가 선호된다.[9] (출처: L13 p.29)
+
+![secondary orbital overlap, cyclopentadiene + maleic anhydride](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_11_endo_secondary_overlap.gif)
+
+그림: endo TS에서 두 C=O 탄소가 diene의 C2, C3 밑에 오고, 같은 부호의 로브끼리 겹친다(깜박이는 주황). 이 겹침은 결합이 되지 않고, 대신 C2=C3에 새 π 결합이 생긴다. 뒤에서 exo와 비교한다. 보충: maleic anhydride LUMO는 6원자 ψ4로 근사했고 수소는 생략했다. (출처: L13 p.21, 29; 보충 근거: Clayden p.884)
 
 ### 7-5. 그럼 diene 두 개는 왜 [4+4]를 하지 않을까?
 
@@ -330,6 +354,10 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene은 �
 보충: "열적으로는"이라는 단서가 중요하다. 같은 [4+4]가 광화학 조건이나 Ni(0) 같은 전이 금속 촉매를 쓰면 가능하다. 광화학 조건에서 선택 규칙이 뒤집히는 이유는 [L14](L14_Cycloaddition_Part2.md)의 광화학 [2+2]와 같다. (보충 근거: Clayden p.887; Wade p.695) (출처: L13 p.30)
 
 정리 슬라이드는 지금까지의 흐름을 다섯 줄로 요약한다. DA는 diene과 alkene이 cyclohexene을 만드는 반응이고, 메커니즘은 concerted이며 고리형 TS를 거친다. 속도는 electron-rich diene과 electron-deficient dienophile일수록 빠르다. stereochemistry는 반응물 안에서는 stereospecificity, 두 반응물 사이에서는 stereoselectivity(endo TS)으로 정해지고, 이는 FMO로 설명된다. Woodward–Hoffmann 규칙으로 반응성을 예측하는 부분은 회색으로 처리되어 있어 다음 강의로 넘어가는 것으로 보인다. (출처: L13 p.31)
+
+![FMO: thermal [4+2] vs thermal and photochemical [2+2]](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_02_FMO_allowed_vs_forbidden.svg)
+
+그림: 채운 로브는 +, 빈 로브는 −다. 새 σ 결합 두 곳이 모두 같은 위상으로 겹쳐야(초록) 반응이 허용된다. 열적 [2+2]는 한쪽 끝이 어긋나고(빨강 ×), 빛을 받으면 HOMO가 π*로 바뀌어 다시 맞는다. (출처: L13 p.27–30; L14 p.24–26)
 
 ## 8. Woodward–Hoffmann 규칙: 허용과 금지를 가르는 계산법
 
@@ -357,6 +385,10 @@ WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. \[
 허용은 실제 반응·속도·수율을 보장하지 않는다. 가능한 orbital symmetry를 판정한 다음 기하와 energetics를 따로 확인한다. (출처: L13 p.33; 광화학 비교: L14 p.24–28)
 
 [원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.33](../figures/L13/source/L13_p33.png)
+
+![Woodward–Hoffmann counting table](../figures/Test2_figures/03_woodward_hoffmann/WH_05_counting_rule.svg)
+
+그림: 각 성분을 전자 수로 (4q+2) 또는 (4r)로 나누고, (4q+2)s와 (4r)a만 +1로 센다. 합이 홀수면 열적으로 허용, 짝수면 금지다. 광화학 조건에서는 반대다. (출처: L13 p.33–34; L14 p.4–6)
 
 ## 9. 보충: regioselectivity("ortho/para" 규칙)
 
@@ -518,6 +550,10 @@ WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. \[
 - regioselectivity: 대칭 diene
 - stereochemistry: endo: CHO와 두 Me 모두 cis
 - 비고: (p.23–24)
+
+![reading the endo product](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_09_endo_step4_products.svg)
+
+그림: endo 치환기는 (a) 이환 생성물에서 CH₂ 다리의 반대편, 즉 새 C=C 쪽에 놓이고, (b) 열린 사슬 diene((E,E)-hexa-2,4-diene + acrolein)에서는 diene의 out 치환기와 cis가 되어 Me, CHO, Me가 모두 cis다. 아래는 regioselectivity → endo → stereospecificity 순으로 생성물을 정하는 3단계다. (출처: L13 p.21, 23–24; L14 p.16–19)
 
 ### butadiene 2분자
 

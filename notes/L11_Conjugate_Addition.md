@@ -806,6 +806,10 @@ cyclohexanone 유래 morpholine enamine을 사용한다. 조건: SiO₂/THF, 0�
 
 그림: [enamine](../wiki/개념/엔아민.md)의 conjugate addition(cyclohexanone의 pyrrolidine enamine + CH₂=C(SMe)CO₂Me). 질소의 비공유 전자쌍(파랑)이 N–C 결합 쪽으로 밀려 C=N⁺를 만들고, 파란 C=C의 $\pi$ 전자가 받개의 $\beta$-탄소(빨간 C=C의 말단 CH₂)를 공격한다. 받개 쪽에서는 C=C의 $\pi$ 전자가 C–C(O) 자리로, C=O의 $\pi$ 전자가 산소로 간다. 결과는 iminium과 ester enolate가 한 분자에 있는 zwitterion이고(초록이 새 C–C 결합), H₂O 후처리로 1,5-dicarbonyl 화합물이 된다. 보충: 슬라이드는 반응식만 보여 주며, zwitterion intermediate는 Clayden의 설명을 따랐다. (출처: L11 p.19) (보충 근거: Clayden p.608)
 
+![enamine conjugate addition, L11 p.19 example](../figures/Test2_figures/01_L11_conjugate_addition/L11_01_enamine_conjugate_addition_p19.svg)
+
+그림: enamine의 β-탄소가 acceptor의 β-탄소를 공격해 iminium/enolate zwitterion이 되고, 물 처리로 1,5-dicarbonyl이 된다. 주황 화살표는 전자 이동, 초록은 새 C–C 결합이다. 수소는 반응 중심 일부만 표시했다. (출처: L11 p.19; 보충 근거: Clayden p.608)
+
 #### enamine Michael을 끝까지 그리는 순서
 
 p.19의 첫 받개 $\mathrm{CH_2{=}C(SMe)CO_2Me}$ 에서는 CO₂Me에 바로 붙은 탄소가 $\alpha$ , 말단 CH₂가 $\beta$ 다. SMe가 달린 탄소를 새 결합의 위치로 고르는 것이 아니다. donor의 반응 탄소를 말단 CH₂에 붙인 뒤, acceptor 쪽의 원래 $\alpha$-탄소에 H가 들어가면 **donor–CH₂–CH(SMe)–CO₂Me** 연결이 된다. SMe와 ester는 원래 같은 탄소에 연결된 상태를 유지한다. (출처: L11 p.19)
@@ -874,6 +878,10 @@ crotonaldehyde(CH3CH=CH-CHO)와 N-methylpyrrole로 메커니즘을 보면 다음
 
 네 그림은 반응 순서를 펼쳐 놓은 것이다. 1·3·4단계의 proton transfer와 hydrolysis 세부 elementary step을 모두 그린 것은 아니다. 수율 68–90%, 87–97% ee는 슬라이드의 **12개 기질 예시 범위**이며, 이 crotonaldehyde 한 예에 각각의 범위 전체를 배정하지 않는다.
 
+
+![iminium catalysis cycle, L11 p.21](../figures/Test2_figures/01_L11_conjugate_addition/L11_03_iminium_catalysis_cycle.svg)
+
+그림: 2차 amine 촉매(imidazolidinone, 20 mol%)가 crotonaldehyde와 축합해 iminium을 만들고(1), N-methylpyrrole이 benzyl 반대 면에서 β-탄소를 공격한 뒤(2), 양성자를 잃어 방향족성을 되찾고(3), 가수분해로 (R)-3-(1-methylpyrrol-2-yl)butanal과 촉매가 나온다(4). 위 네 장을 한 순환으로 모은 그림이다. (출처: L11 p.21)
 
 [원본 자료에서 세부 구조·입체배치 확인: L11_Conjugate addition.pdf p.21](../figures/L11/source/L11_p21.png)
 

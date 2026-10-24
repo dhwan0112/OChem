@@ -33,6 +33,14 @@ TS에서 평면인 diene과 평면인 dienophile이 평행하게 포개진다. �
 
 그림: 위가 cyclopentadiene( $CH_2$ 다리가 맨 위), 아래가 maleic anhydride, 초록 점선이 생기는 C···C 결합(2.25 Å로 고정)이다. endo TS에서는 anhydride의 C=O 쪽이 diene $\pi$ 계 밑으로 들어가 secondary orbital overlap을 하고, exo TS에서는 바깥쪽을 향한다. GFN2-xTB로는 endo가 약 2 kcal/mol 낮았다. 보충: xTB 구조는 GFN2-xTB로 계산한 모델이고, TS는 형성·절단 결합 길이를 고정해 최적화한 근사 구조다(진짜 안장점이 아니다).
 
+![endo rule in three steps](../../figures/Test2_figures/02_cycloaddition_L13-L15/CY_08_endo_steps_1-3.svg)
+
+그림: ① 두 평면이 겹친 TS에서 C=O를 diene 밑에 넣으면 endo, 바깥으로 빼면 exo다. ② endo에서는 C=O 탄소와 diene C3의 로브가 같은 위상으로 겹쳐(주황) TS가 안정해진다. 이 겹침은 결합을 만들지 않는다. ③ 그래서 endo가 빨리 생기는 kinetic 생성물이고, exo는 대개 더 안정하다. 보충: acrolein LUMO의 계수는 4원자 ψ3로 근사했다. (출처: L13 p.21–22, 29; 보충 근거: Clayden p.884)
+
+![secondary orbital overlap, cyclopentadiene + maleic anhydride](../../figures/Test2_figures/02_cycloaddition_L13-L15/CY_11_endo_secondary_overlap.gif)
+
+그림: endo TS에서 두 C=O 탄소가 diene의 C2, C3 밑에 오고, 같은 부호의 로브끼리 겹친다(깜박이는 주황). 이 겹침은 결합이 되지 않고, 대신 C2=C3에 새 π 결합이 생긴다. 뒤에서 exo와 비교한다. 보충: maleic anhydride LUMO는 6원자 ψ4로 근사했고 수소는 생략했다. (출처: L13 p.21, 29; 보충 근거: Clayden p.884)
+
 ### endo는 kinetic product다
 
 보충: endo가 kinetic product라는 증거는 가역적인 DA에서 나온다. cyclopentadiene 대신 furan을 maleic anhydride와 반응시키면 DA가 가역적으로 일어나 thermodynamic control에 이르고, 이때는 exo adduct가 얻어진다. exo가 더 안정한 이유는 다리 걸친 고리에서 anhydride 고리가 원자 하나짜리 다리(O 또는 CH2) 쪽을 향하는 것이 원자 두 개짜리 다리(C=C 쪽) 쪽을 향하는 것보다 steric hindrance가 작기 때문이다. 또 intramolecular DA에서는 두 반응 부위가 이미 묶여 있어 secondary orbital overlap의 도움이 덜 중요해지므로, 사슬이 접히기 편한 쪽을 따라 exo가 나오기도 한다. 즉 endo rule은 intermolecular·비가역 반응에서 가장 믿을 만하다(→ [kinetic control과 thermodynamic control](속도론적%20지배와%20열역학적%20지배.md), [retro-Diels–Alder reaction](../반응/역%20딜스-알더%20반응.md)). (보충 근거: Clayden p.884, 888–889) (출처: L13 p.22)
@@ -63,6 +71,10 @@ p.23–24의 문제((E,E)-hexa-2,4-diene + acrolein의 endo 생성물 고르기)
 5. 나머지 치환기를 반대 면에 그린다.
 
 이 순서를 따르면 슬라이드 p.24의 all-cis 답이 그대로 나온다.
+
+![reading the endo product](../../figures/Test2_figures/02_cycloaddition_L13-L15/CY_09_endo_step4_products.svg)
+
+그림: endo 치환기는 (a) 이환 생성물에서 CH₂ 다리의 반대편, 즉 새 C=C 쪽에 놓이고, (b) 열린 사슬 diene((E,E)-hexa-2,4-diene + acrolein)에서는 diene의 out 치환기와 cis가 되어 Me, CHO, Me가 모두 cis다. 아래는 regioselectivity → endo → stereospecificity 순으로 생성물을 정하는 3단계다. (출처: L13 p.21, 23–24; L14 p.16–19)
 
 ## 예
 
@@ -112,6 +124,10 @@ endo는 열적으로 허용된 경로들 가운데 선택성을 말하는 규칙
 ![endo exo](../../figures/L13/endo_exo.svg)
 
 그림: 보충: 첫 그림은 정량 계산으로 확정한 TS가 아닌 근사 접근 도식이다. 이어지는 그림은 maleic anhydride 예의 endo/exo 구조다. 원본의 선택성 논리를 서로 다른 관찰 방향에서 확인한다. (원본 대조: L13_cycloaddition part 1.pdf p.22)
+
+![endo vs exo approach in 3D](../../figures/Test2_figures/02_cycloaddition_L13-L15/CY_10_endo_rule_3d.gif)
+
+그림: cyclopentadiene + acrolein, 측면 시점(왼쪽 CH₂, 오른쪽 C2=C3). 평행한 두 평면에서 endo일 때만 C=O와 diene 뒤쪽이 겹치고(주황), dienophile을 뒤집은 exo에서는 겹침이 없다. 결합이 생기면 CHO는 CH₂ 다리 반대편에 남는다. (출처: L13 p.21–22, 29)
 
 [원본 자료에서 세부 구조·입체배치 확인: L13_cycloaddition part 1.pdf p.22](../../figures/L13/source/L13_p22.png)
 

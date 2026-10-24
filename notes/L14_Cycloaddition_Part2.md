@@ -60,6 +60,10 @@ FMO 그림을 매번 그리지 않고도 "이 반응은 열적으로 허용되�
 
 (출처: L14 p.4–5)
 
+![Woodward–Hoffmann notation and electron-count classes](../figures/Test2_figures/03_woodward_hoffmann/WH_04_notation_table.svg)
+
+그림: π2s 같은 표기를 세 부분으로 읽는다. 기호는 오비탈 종류(π, σ, ω), 아래 숫자는 원자 수가 아닌 전자 수, 글자는 쓰는 면(s, a)이다. 아래 표는 전자 수별 (4q+2)/(4r) 분류와 흔한 성분, 그리고 (4q+2)s와 (4r)a만 +1로 세는 2×2 표다. 보충: HOMO ends 열의 S/A는 설명용 표기다. (출처: L14 p.4–6; L15 p.13; 보충 근거: Clayden p.886–888)
+
 ### 2.1 DA 반응에 적용하기
 
 DA 반응은 diene( $\pi4\mathrm{s}$ )과 alkene( $\pi2\mathrm{s}$ )이 suprafacial–suprafacial로 접근하는 반응이다. 성분을 세어 보면 다음과 같다.
@@ -79,6 +83,10 @@ butadiene 두 분자를 가열하면 [4+2] 생성물인 4-vinylcyclohexene(4-vin
 (출처: L14 p.7)
 
 ---
+
+![Woodward–Hoffmann counting: six worked examples](../figures/Test2_figures/03_woodward_hoffmann/WH_06_counting_examples.svg)
+
+그림: 여섯 예의 성분 접근 그림(로브는 결합을 만드는 면만 표시, 위상 생략)과 장부. (a) DA는 합 1로 허용, (b) 열적 supra/supra [2+2]는 합 2로 금지, (c) ketene π2s + π2a는 합 1로 허용, (d) [1,5]-H σ2s + π4s는 합 1로 허용, (e) [1,3]-H는 π2s + σ2s면 2로 금지이고 π2a + σ2s면 1로 허용이지만 기하학적으로 불가능, (f) [3,3] chair TS σ2s + π2s + π2s는 합 3으로 허용. (출처: L14 p.4–7, 24–25; L15 p.6–8, 32; L16 p.6, 21–24)
 
 ## 3. 치환기의 분류: C, Z, X형 (Substituent classifications)
 
@@ -249,6 +257,10 @@ C1-substituted diene의 pseudo-ortho와 C2-substituted diene의 pseudo-para는 �
 
 ---
 
+![reading the endo product](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_09_endo_step4_products.svg)
+
+그림: endo 치환기는 (a) 이환 생성물에서 CH₂ 다리의 반대편, 즉 새 C=C 쪽에 놓이고, (b) 열린 사슬 diene((E,E)-hexa-2,4-diene + acrolein)에서는 diene의 out 치환기와 cis가 되어 Me, CHO, Me가 모두 cis다. 아래는 regioselectivity → endo → stereospecificity 순으로 생성물을 정하는 3단계다. (출처: L13 p.21, 23–24; L14 p.16–19)
+
 ## 7. DA 반응의 Lewis acid 촉매 (Lewis acid catalysis)
 
 > 개념 문서: [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md), [Lewis acid catalyst](../wiki/시약/루이스%20산%20촉매.md)
@@ -375,6 +387,10 @@ UV를 흡수하면 alkene 하나의 $\pi$ 전자 1개가 $\pi^{\ast}$ 로 올라
 보충: 두 가지 "왜?"가 더 남는다. 첫째, 서로 다른 두 alkene 가운데 누가 들뜨는가? 짝지음이 있는 쪽(enone, maleic anhydride)만 보통의 UV를 흡수하므로 그 성분이 들뜨고, 단순 alkene은 ground state로 남는다. 그래서 서로 다른 alkene끼리의 [2+2]가 선택적으로 일어난다. 둘째, 변형이 큰 cyclobutane이 왜 다시 두 alkene으로 돌아가지 않는가? 역반응도 같은 선택 규칙을 따르므로 빛을 흡수해야 하는데, 생성물은 $\pi$ 결합을 잃어서 빛을 흡수할 낮은 빈 orbital이 없다. 그래서 생성물은 변형이 커도 쌓이는 kinetic 생성물이 된다. (보충 근거: Clayden p.897–898, 907)
 
 (출처: L14 p.26)
+
+![FMO: thermal [4+2] vs thermal and photochemical [2+2]](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_02_FMO_allowed_vs_forbidden.svg)
+
+그림: 채운 로브는 +, 빈 로브는 −다. 새 σ 결합 두 곳이 모두 같은 위상으로 겹쳐야(초록) 반응이 허용된다. 열적 [2+2]는 한쪽 끝이 어긋나고(빨강 ×), 빛을 받으면 HOMO가 π*로 바뀌어 다시 맞는다. (출처: L13 p.27–30; L14 p.24–26)
 
 ### 10.3 stereochemistry
 

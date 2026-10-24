@@ -83,6 +83,14 @@ ketene은 바로 이 supra-antara를 해낼 수 있다. 삽화(p.7)를 보면 al
 
 (출처: L15 p.7, p.32)
 
+![why ketene, not a plain alkene, does thermal [2+2]](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_06_ketene_vs_alkene_2plus2.gif)
+
+그림: 평범한 alkene은 교차시켜도 결합성 2곳과 반결합성 2곳이 상쇄되고 H가 부딪힌다. ketene은 가운데 sp 탄소에 치환기가 없고, 직교하는 C=O π*(주황)가 alkene HOMO의 두 로브와 모두 결합성으로 겹쳐 순 결합이 남는다. 보충: 90° 교차는 이상화한 모형이다. (출처: L15 p.6–7; 보충 근거: Clayden p.898–899)
+
+![ketene crossed approach, top view](../figures/Test2_figures/02_cycloaddition_L13-L15/CY_07_ketene_crossed_topview.svg)
+
+그림: 위에서 본 교차 배치. alkene끼리는 결합 2 대 반결합 2로 이득이 없고, ketene은 가운데 탄소의 C=O π*가 더해져 결합 4 대 반결합 2가 된다. (출처: L15 p.6–8; 보충 근거: Clayden p.898–899)
+
 ### 14.3 ketene으로 cyclobutanone 만들기
 
 > 개념 문서: [ketene 2+2 cycloaddition](../wiki/반응/케텐%202+2%20고리화%20첨가.md), [ketene](../wiki/개념/케텐.md)
