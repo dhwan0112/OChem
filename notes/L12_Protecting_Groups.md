@@ -191,7 +191,7 @@ alcohol의 O(nucleophile)가 Si(electrophile)를 공격하고 Cl-가 떨어져 �
 
 #### 5-3. 실전 예: acetylide alkylation
 
-슬라이드의 예는 CH3CH(OH)CH2CH2CH2Br에 lithium acetylide를 붙여 말단 alkyne을 만드는 반응이다. 원래 의도는 acetylide가 C–Br 탄소를 SN2로 공격하는 것이다. 그런데 OH를 그대로 두면 어떻게 될까? lithium acetylide는 강염기이고, alcohol(pKa 약 16)은 말단 alkyne(pKa 약 25)보다 훨씬 산성이다.[3] 그래서 acetylide는 탄소를 공격하기도 전에 OH의 양성자부터 떼어 내고 그냥 acetyl렌으로 되돌아간다.
+슬라이드의 예는 CH3CH(OH)CH2CH2CH2Br에 lithium acetylide를 붙여 말단 alkyne을 만드는 반응이다. 원래 의도는 acetylide가 C–Br 탄소를 SN2로 공격하는 것이다. 그런데 OH를 그대로 두면 어떻게 될까? lithium acetylide는 강염기이고, alcohol(pKa 약 16)은 말단 alkyne(pKa 약 25)보다 훨씬 산성이다.[3] 그래서 acetylide는 탄소를 공격하기도 전에 OH의 양성자부터 떼어 내고 그냥 acetylene으로 되돌아간다.
 
 그래서 먼저 OH를 TBDMS ether로 바꾼다.
 

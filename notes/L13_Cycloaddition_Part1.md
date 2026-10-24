@@ -362,7 +362,7 @@ WH 판정을 한 뒤에는 전자 수와 facial approach를 함께 적는다. \[
 
 > 개념 문서: [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md)
 
-이 강의 슬라이드에는 regioselectivity가 나오지 않는다(아마 2부에서 다룰 것이다, → cycloaddition 2부 문서 참고). 여기서는 표준 교재의 결론만 짧게 적어 둔다. 비대칭 diene과 비대칭 dienophile이 반응할 때, 1-치환 diene(예: 1-methoxybutadiene)은 주로 "ortho"(1,2-이치환) 생성물을, 2-치환 diene(예: 2-methoxybutadiene)은 주로 "para"(1,4-이치환) 생성물을 준다. diene HOMO 계수가 가장 큰 말단 탄소가 dienophile LUMO 계수가 가장 큰 탄소(EWG의 $\beta$-탄소)와 결합하기 때문이다. (보충 근거: Clayden p.889–891)
+이 강의 슬라이드에는 regioselectivity가 나오지 않는다. 강의에서는 [L14](L14_Cycloaddition_Part2.md) 5절(L14 p.11–15)에서 다룬다(→ [Diels–Alder regioselectivity](../wiki/개념/딜스-알더%20위치선택성.md)). 여기서는 표준 교재의 결론만 짧게 적어 둔다. 비대칭 diene과 비대칭 dienophile이 반응할 때, 1-치환 diene(예: 1-methoxybutadiene)은 주로 "ortho"(1,2-이치환) 생성물을, 2-치환 diene(예: 2-methoxybutadiene)은 주로 "para"(1,4-이치환) 생성물을 준다. diene HOMO 계수가 가장 큰 말단 탄소가 dienophile LUMO 계수가 가장 큰 탄소(EWG의 $\beta$-탄소)와 결합하기 때문이다. (보충 근거: Clayden p.889–891)
 
 ## 흔한 오해
 
