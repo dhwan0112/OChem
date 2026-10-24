@@ -21,6 +21,11 @@ Test 2 범위(L11–L16)의 개념 그림(SVG)과 오비탈 애니메이션(GIF)
 | `CY_05_antarafacial_reach_2plus2.gif` | GIF | π2s + π2a: 반대 면 로브로 닿는 원리와 성분의 비틀림 | L14 p.5 |
 | `CY_06_ketene_vs_alkene_2plus2.gif` | GIF | 평범한 alkene은 교차해도 상쇄, ketene은 직교 C=O π*로 순 결합 → cyclobutanone | L15 p.6–7; Clayden p.898–899 |
 | `CY_07_ketene_crossed_topview` | SVG 컬러/흑백 | 위 GIF의 정지 화면 요약(위에서 본 교차 배치, 결합 4 대 반결합 2) | L15 p.6–8; Clayden p.898–899 |
+| `CY_08_endo_steps_1-3` | SVG 컬러/흑백 | endo 규칙 단계 ①–③: endo/exo 배치(측면 시점), secondary orbital overlap, kinetic vs thermodynamic 에너지 도표 | L13 p.21–22, 29; Clayden p.884 |
+| `CY_09_endo_step4_products` | SVG 컬러/흑백 | 생성물에서 endo 읽기: 이환(CH₂ 다리 anti = 새 C=C 쪽), (E,E)-hexa-2,4-diene + acrolein → all cis; regio → endo → stereospecificity 3단계 | L13 p.21, 23–24; L14 p.16–19 |
+| `CY_10_endo_rule_3d.gif` | GIF | cyclopentadiene + acrolein: 평행 평면 → endo(주황 secondary) → exo로 뒤집기 → endo 결합 형성 → 생성물 회전 | L13 p.21–22, 29 |
+| `CY_11_endo_secondary_overlap.gif` | GIF | cyclopentadiene + maleic anhydride: C=O 두 개가 C2, C3 밑에서 대칭으로 겹침, 확대, exo와 비교 (LUMO는 6원자 ψ4 근사, H 생략) | L13 p.21, 29; Clayden p.884 |
+| `CY_12_endo_maleic_anhydride_products.gif` | GIF (예비본) | maleic anhydride endo TS의 primary/secondary 겹침과 endo·exo 생성물. CY_10·CY_11과 내용이 겹치므로 필요할 때만 쓴다 | L13 p.21, 29 |
 
 ## 03. Woodward–Hoffmann (세 종류 pericyclic 공통)
 
@@ -33,6 +38,7 @@ Test 2 범위(L11–L16)의 개념 그림(SVG)과 오비탈 애니메이션(GIF)
 | `WH_05_counting_rule` | SVG 컬러/흑백 | 카운팅 2×2 표와 4단계 절차 | L13 p.33–34; L14 p.4–6 |
 | `WH_06_counting_examples` | SVG 컬러/흑백 | 6예의 면 그림과 장부 (DA, [2+2], ketene, [1,5]-H, [1,3]-H, [3,3]) | L14–L16 |
 | `WH_07_examples_table` | SVG 컬러/흑백 | 14예 카운팅 표 (cycloaddition 7, sigmatropic 5, electrocyclic 2) | L14–L16; Clayden p.918, 922–924 |
+| `WH_08_atoms_vs_electrons` | SVG 컬러/흑백 | 원자 수 ≠ 전자 수인 성분 8개 (allyl 양이온·음이온, oxyallyl, nitrone, ozone, tropone, ketene, ω) | L14 p.21–22; L15 p.6–7, 13–23 |
 
 ## 04. Sigmatropic (L16)
 
@@ -40,12 +46,20 @@ Test 2 범위(L11–L16)의 개념 그림(SVG)과 오비탈 애니메이션(GIF)
 |---|---|---|---|
 | `SG_01_1-7H_shift_antarafacial.gif` | GIF | 열적 [1,7]-H 이동: triene이 나선으로 비틀려 σ2s + π6a | L16 p.21–24 |
 
+## 05. Cheat sheet
+
+| 파일 | 형식 | 내용 | 출처 |
+|---|---|---|---|
+| `CS_01_WH_cheatsheet_card` | SVG 컬러/흑백 | A4 cheat sheet용 W–H 요약 카드(박스 틀 없음): 표기, 전자 수 분류, 2×2 카운팅, 14예 표, 전자 수 함정 | L13 p.33–35; L14 p.4–7, 21–26; L15 p.6–8, 13; L16 p.6, 21–24; Clayden p.886–888, 898–899, 918, 922–924 |
+
 ## 추천 순서
 
 1. W–H 기초: `WH_01` → `WH_02` → `WH_03` → `WH_04` → `WH_05` → `WH_06` → `WH_07`
 2. 비틀 필요가 없는 경우: `CY_01` → `CY_02` → `CY_03`
 3. 비틀어야 하는 경우: `CY_05` → `CY_06` → `CY_07` (cycloaddition), `SG_01` (sigmatropic)
 4. 입체화학: `CY_04`
+5. endo 규칙: `CY_08` → `CY_10` → `CY_11` → `CY_09`
+6. 전자 수 세기 함정: `WH_08`, 시험 직전 한 장: `CS_01`
 
 ## 주의
 
