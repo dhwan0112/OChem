@@ -112,6 +112,10 @@ export RESHIKI=/path/to/reshiki        # ReShiki 실행 파일 (ReShiki 0.12.0 L
 python3 tools/chemfig.py figures/L01/bromonium_step1.json
 ```
 
+### Test 2 개념 그림 모음 (`figures/Test2_figures/`)
+
+ReShiki 메커니즘 그림과 별도로, L11 conjugate addition과 L13–L16 pericyclic 반응(cycloaddition, Woodward–Hoffmann 카운팅, sigmatropic)을 개념 단위로 설명하는 SVG 23장과 오비탈 애니메이션 GIF 5개를 [`figures/Test2_figures/`](figures/Test2_figures/README.md)에 모았다. 주제별 폴더, 각 그림의 내용과 출처 슬라이드, 추천 읽기 순서는 그 폴더의 README에 있고, `index.html`을 브라우저로 열면 전체를 한 화면에서 볼 수 있다. SVG는 컬러판과 흑백판(`_bw`)이 한 쌍이며, 컬러판은 `figures/STYLE.md`의 색 규칙을 따른다.
+
 ### Test 2 보강 그림의 출처
 
 2026-10-18 보강에는 새 ReShiki 도식과 강의·제공 답안·교재 원본 도식 발췌가 함께 있다. `figures/L##/source/`와 `figures/tutorials/`의 PNG는 원본 구조와 입체표기를 보존한 발췌이며, 새로 그린 그림이라고 표시하지 않는다. 원본 파일명·PDF 쪽수·교재 인쇄 쪽수·SHA-256과 발췌 방법은 [출처 목록](figures/test2_source_manifest.json)에 있다. 본문에는 기존 규격의 단계별 SVG를 표시하고 원본 발췌는 출처 대조용 링크로 제공한다. 색상 필터로 감싼 원본 SVG는 사용하지 않는다. 새 그림 19개를 보강하고 기존 그림을 재사용했으며, 기본 모형으로 설명하는 경우 실제 원본 기질과 다름을 캡션에 밝힌다. 복잡한 천연물 전체 골격과 공식 답안의 세부 쐐기·점선은 원본 링크를 함께 확인한다. 원본 40개와 본문 그림의 대응은 [대응 목록](figures/style_alignment_sources.json)에 기록했다.
